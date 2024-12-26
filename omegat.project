@@ -30,7 +30,8 @@
         <remove_tags>false</remove_tags>
         <external_command></external_command>
         <repositories>
-            <repository type="git" url="https://github.com/LibreOffice/LOGuidesBR">
+            <!--<repository type="git" url="https://github.com/LibreOffice/LOGuidesBR"> -->
+            <repository type="git" url="ssh://git@github.com/LibreOffice/LOGuidesBR">
                 <mapping local="" repository=""/>
             </repository>
         </repositories>
