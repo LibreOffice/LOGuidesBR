@@ -1,0 +1,3140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 5 Using Graphics</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Capítulo 5 Gráficos e figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Introdução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc is used to present and analyze data and to make forecasts and predictions.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O Calc é usado para apresentar e analisar dados e fazer projetos e previsões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Graphics can turn an average spreadsheet into a more memorable document.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Os gráficos podem transformar uma planilha de trabalho média em um documento mais memorável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc can import various vector (line drawing) and raster (bitmap or photo) file formats.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O Calc pode importar vários formatos de arquivo vetorial (desenho de linha) e raster (bitmap ou foto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Commonly used graphic formats include GIF, JPG, and PNG.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Os formatos gráficos comumente usados incluem GIF, JPG e PNG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the LibreOffice Help for a full list of the formats that Calc can import.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Consulte a Ajuda do LibreOffice para uma lista completa dos formatos que o Calc pode importar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Graphics in Calc are of three basic types:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Os gráficos no Calc são de três tipos básicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Image files, such as photographs, drawings, and scanned images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Arquivos de figura, como fotografias, desenhos e figuras digitalizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Diagrams created using LibreOffice’s drawing tools</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Diagramas criados usando as ferramentas de desenho do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Charts and graphs created using LibreOffice’s Chart facility; see Chapter 3, Creating Charts and Graphs, for more information</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Tabelas e gráficos criados usando o recurso de tabelas do LibreOffice; consulte o Capítulo 3, Criando Tabelas e Gráficos, para obter mais informações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using graphics in Calc is similar to using graphics in other components of LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Usar gráficos no Calc é semelhante a usar gráficos em outros componentes do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more detailed descriptions, please refer to the Getting Started Guide or the Draw Guide.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para descrições mais detalhadas, consulte o Guia de Inicialização ou o Guia do Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In LibreOffice, the terms graphics and images refer to both pictures and drawing objects.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>No LibreOffice, os termos gráficos e figuras referem-se a figuras e objetos de desenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Often the word images is used when referring to pictures and other graphics that are not drawing objects.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Frequentemente, a palavra figura é usada para se referir a figuras e outros gráficos que não são objetos de desenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inserting</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>inserindo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Adding graphics (images) to a spreadsheet</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Adicionar figuras a uma planilha de trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Images, such as corporate logos and photographs, are probably the most common types of graphics added to a spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figuras, como logotipos corporativos e fotografias, são provavelmente os tipos mais comuns de gráficos adicionados a uma planilha de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They may be downloaded from the Internet, scanned, created with a graphics program, photographs taken with a digital camera, or clip art in the Gallery.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Eles podem ser baixados da Internet, digitalizados, criados com um programa gráfico, fotografias tiradas com uma câmera digital ou clip-art na Galeria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>embedding images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>incorporação de imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inserting from file</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>inserindo de um arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>linking images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>vinculando imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inserting an image file</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Inserir um arquivo de figura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the image is in a file stored on the computer, you can insert it into a spreadsheet using one of the following methods.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Quando a figura está em um arquivo armazenado no computador, pode-se inseri-la em uma planilha de trabalho usando um dos seguintes métodos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drag and drop</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Arrastar e soltar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open a file browser and locate the image you want to insert.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Abra um navegador de arquivos e localize a figura que deseja inserir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drag the image into the spreadsheet and drop it where you want it to appear.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Arraste a figura para a planilha e solte-a onde quiser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This method embeds (saves a copy of) the image file in the document.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Este método incorpora (salva uma cópia da) o arquivo de figura no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To link the file instead of embedding it, hold down the Ctrl+Shift keys while dragging the image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para vincular o arquivo em vez de incorporá-lo, mantenha pressionadas as teclas Ctrl+Shift enquanto arrasta a figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “Linking or embedding an image file” on page 3for more information.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Consulte “Vincular ou incorporar um arquivo de figura” abaixopara obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Image dialog</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Caixa de diálogo para inserir figura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click in the spreadsheet where you want the image to appear.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Clique na planilha onde deseja que a figura apareça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Insert &gt; Image on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Vá em Inserir &gt; Figura na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Insert Image dialog (Figure 1), navigate to the file to be inserted, and select it.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Na caixa de diálogo Inserir figura (1), navegue até o arquivo a ser inserido e selecione-o.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the Link option if you want to link the file instead of embedding it.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione a opção Vincular se desejar vincular o arquivo em vez de incorporá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the required option in the Anchor menu: To cell, To cell (resize with cell), or To page.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione a opção necessária no menu Âncora: Na célula, Na célula (redimensionar com a célula) ou Na página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “Anchoring images” on page 10for more information about these options.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Consulte “Ancorar figuras” abaixopara obter mais informações sobre essas opções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click Open.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Clique em Abrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The image is inserted into the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>A figura é inserida na planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have selected to link the image, Calc may present a confirmation dialog with options to continue with the link or to embed the image instead.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Se optar por vincular a figura, o Calc pode apresentar uma caixa de diálogo de confirmação com opções para continuar com o vínculo ou incorporar a figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An option is provided on this dialog to prevent it being displayed in future.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Uma opção é fornecida nesta caixa de diálogo para evitar que seja exibida no futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 1: Insert Image dialog</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 1: caixa de diálogo Inserir figura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>embedding and linking</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>incorporação e vinculação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Linking or embedding an image file</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Vincular ou incorporar um arquivo de figura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Embedding an image into a spreadsheet makes the image a permanent part of the spreadsheet file.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Incorporar uma figura em uma planilha de trabalho torna a figura uma parte permanente do arquivo da planilha de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any changes you make to an embedded image will appear only in that spreadsheet; the original image will not be affected.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Todas as alterações feitas em uma figura incorporada aparecerão apenas nessa planilha de trabalho; a figura original não será afetada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you select the Link option in the Insert Image dialog, or use Ctrl+Shift during the drag and drop method, Calc creates a link to the file containing the image instead of embedding it.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Se selecionar a opção Vincular na caixa de diálogo Inserir figura ou usar Ctrl+Shift durante o método de arrastar e soltar, o Calc criará um vínculo para o arquivo que contém a figura em vez de incorporá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The image is displayed in the document, but when the document is saved, it contains only a reference to the image file, not the image itself.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>A figura é exibida no documento, mas quando o documento é salvo, ele contém apenas uma referência ao arquivo da figura, não à própria figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The document and the image remain as two separate files, and they are merged together only when you open the document again.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O documento e a figura permanecem como dois arquivos separados e são mesclados apenas quando se abre o documento novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Linking an image has two advantages and one disadvantage:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Vincular uma figura tem duas vantagens e uma desvantagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advantage – You can modify the image file separately.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Vantagem – pode-se modificar o arquivo de figura separadamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The modified image will appear on the next time you open the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>A figura modificada aparecerá na próxima vez que se abrir a planilha de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This can be a big advantage if you (or someone else, perhaps a graphic artist) is updating images.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Isso pode ser uma grande vantagem se (ou outra pessoa, talvez um artista gráfico) estiver atualizando as figuras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advantage – Linking can reduce the file size of the spreadsheet when it is saved, because the image file itself is not included.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Vantagem – a vinculação pode reduzir o tamanho do arquivo da planilha de trabalho quando ela é salva, porque o próprio arquivo de figura não é incluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, file size is usually not a problem on modern computers, and Calc can easily handle large files.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>No entanto, o tamanho do arquivo geralmente não é um problema em computadores modernos e o Calc pode lidar facilmente com arquivos grandes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Disadvantage – If you send the document to someone else, or move it to a different computer, you must also send the image files and keep the same file structure.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Desvantagem – se enviar o documento para outra pessoa ou movê-lo para outro computador, deverá enviar também os arquivos de figura e manter a estrutura de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, you might keep image files in a subfolder named Images inside the same folder containing the Calc document.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Por exemplo, pode-se manter os arquivos de figura em uma subpasta chamada figuras dentro da mesma pasta que contém o documento Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any recipient of the spreadsheet needs to put the image files in a subfolder with the same name in the same named folder as the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Qualquer destinatário da planilha precisa colocar os arquivos de figura em uma subpasta com o mesmo nome na mesma pasta nomeada da planilha de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When inserting the same image several times in a document, it might appear beneficial to create links.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Ao inserir a mesma figura por várias vezes em um documento, pode parecer benéfico criar vínculos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, this is not necessary, as LibreOffice embeds only one copy of the image file in the document.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Entretanto, isso não é necessário, pois o LibreOffice incorpora apenas uma cópia do arquivo de figura no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deleting one or more of the copies does not affect the other copies of the same file.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>A exclusão de uma ou mais cópias não afeta as outras cópias do mesmo arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Embedding linked images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Incorporar figuras vinculadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you originally linked the images, you can easily embed one or more of them later.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Se originalmente se vinculou as figuras, poderá incorporar facilmente uma ou mais delas posteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the spreadsheet in Calc.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Abra a planilha de trabalho no Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Edit &gt; Links to External Files on the Menu bar to open the Edit Links dialog (Figure 2), which shows all the linked files.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Escolha Editar &gt; Vínculos para arquivos externos na barra de menus para abrir a caixa de diálogo Editar vínculos (2), que mostra todos os arquivos vinculados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 2: Edit Links dialog</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 2: caixa de diálogo Editar vínculos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the files you want to change from linked to embedded.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione os arquivos que deseja alterar de vinculados para incorporados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click Break Link and confirm you want to remove the selected link.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Clique em Desvincular e confirme que deseja remover o vínculo selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The file then becomes embedded into the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O arquivo é então incorporado à planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Going from embedded to linked images is not so easy.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Mudar de figuras incorporadas a figuras vinculadas não é tão fácil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You must replace them one at a time, selecting the Insert as Link option when you reinsert each file.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Deve-se substituí-las individualmente, selecionando a opção Vincular na caixa de Inserir figuras (1), ao reinserir cada arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>clipboard, inserting image from</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>área de transferência, inserindo imagem de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inserting from clipboard</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>inserindo da Área de transfêrencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inserting an image from the clipboard</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Inserir uma figura da área de transferência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the clipboard, you can copy images into a Calc spreadsheet from another LibreOffice document and from other programs.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Usando a área de transferência, pode-se copiar figuras para uma planilha de trabalho do Calc de outro documento do LibreOffice e de outros programas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To do this:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para fazer isso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open both the source document and the target document.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Abra o documento de origem e o documento de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the source document, copy the image to the clipboard – the exact interactions will vary from program to program.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>No documento de origem, copie a figura para a área de transferência – as interações exatas variam de programa para programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Switch to the target document and click to place the cursor in the cell where the image is to be anchored.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Mude para o documento de destino e clique para colocar o cursor na célula onde a figura deve ser ancorada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select Edit &gt; Paste on the Menu bar, or click the Paste icon on the Standard toolbar, or right-click and select Paste in the context menu, or press Ctrl+V.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione Editar &gt; Colar na barra de menus ou clique no ícone Colar na barra de ferramentas Padrão, ou clique com o botão direito e selecione Colar no menu de contexto ou pressione Ctrl+V.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Caution</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Cuidado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the application from which the image was copied is closed before the image is pasted into the target, the image stored on the clipboard could be lost.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Se o aplicativo do qual a figura foi copiada for fechado antes de a figura ser colada no destino, a figura armazenada na área de transferência pode ser perdida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inserting from scanner</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>inserindo de um scanner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>scanner, using to insert image</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>scanner, usando para inserir uma imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inserting an image using a scanner</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Inserir uma figura do scanner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a scanner is connected to your computer, Calc can call the scanning application and insert the scanned item into the document as an image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Se um scanner estiver conectado ao seu computador, o Calc pode chamar o aplicativo de digitalização e inserir o item digitalizado no documento como uma figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To start this procedure, choose Insert &gt; Media &gt; Scan &gt; Select Source.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para iniciar este procedimento, escolha Inserir &gt; Multimídia&gt; Digitalizar &gt; Selecionar origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After selecting the scanner, place the cursor where you want the image to be inserted, and choose Insert &gt; Media &gt; Scan &gt; Request.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Depois de selecionar o scanner, coloque o cursor onde deseja que a figura seja inserida e escolha Inserir &gt; Multimídia &gt; Digitalizar &gt; Solicitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Although this practice is quick and easy, it is unlikely to result in a high-quality image of the correct size.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Embora essa prática seja rápida e fácil, é improvável que resulte em uma figura de alta qualidade com o tamanho correto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may get better results by passing scanned material into a graphics program and cleaning it up there, before inserting the resulting image into Calc.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se obter melhores resultados passando o material digitalizado para um programa gráfico e limpando-o lá, antes de inserir a figura resultante no Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gallery deck</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>painel Galeria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inserting from Gallery deck</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>inserindo do painel Galeria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gallery deck</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>painel Galeria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inserting an image from the Gallery</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Inserir uma figura da Galeria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Gallery (Figure 3) provides a convenient way to group reusable objects such as images and sounds that you can insert into your documents.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>A Galeria (3) oferece uma maneira conveniente de agrupar objetos reutilizáveis, como figuras e sons, que pode-se inserir em seus documentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Gallery is available in all components of LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>A Galeria está disponível em todos os componentes do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add your own images as well as using the ones supplied with LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se adicionar suas próprias figuras, bem como usar as fornecidas com o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see the Getting Started Guide Chapter 11, Images and Graphics.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para obter mais informações, consulte o Capítulo 11 do Guia do Iniciante primeiros passos, figuras e gráficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 3: The Gallery in the Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 3: A Galeria na Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To insert an image from the Gallery:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para inserir uma figura da Galeria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the Gallery icon on the Sidebar, or select View &gt; Gallery on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Clique no ícone Galeria na barra lateral ou selecione Exibir &gt; Galeria na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a theme.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione um tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select an object with a single click.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione um objeto com um único clique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drag and drop the image into the document.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Arraste e solte a figura no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively right-click on the object in the Gallery and choose Insert in the context menu, in which case the image will be positioned according to the cells selected in the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Alternativamente, clique com o botão direito do mouse no objeto da Galeria e escolha Inserir no menu de contexto, caso em que a figura será posicionada de acordo com as células selecionadas na planilha de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tip</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Dica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you wish to use gallery images from earlier versions of LibreOffice, go to https://extensions.libreoffice.org/ and search for items with a tag filter of “Gallery”.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Se deseja usar figuras de galeria de versões anteriores do LibreOffice, vá em https://extensions.libreoffice.org/ e pesquise por itens com um filtro de tag da “Galeria”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>modifying images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>modificando imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>modifying</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>modificando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modifying images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Modificar figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you insert a new image, you may need to modify it to suit the document.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Ao inserir uma nova figura, pode ser necessário modificá-la para se adequar ao documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any changes made in Calc do not affect the original image, whether it is an embedded or a linked image file.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Quaisquer alterações feitas no Calc não afetam a figura original, seja ela um arquivo de figura incorporado ou vinculado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc provides several tools for working with images.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O Calc oferece várias ferramentas para trabalhar com figuras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These tools are sufficient for most requirements.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Essas ferramentas são suficientes para a maioria dos requisitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, for professional results it is generally better to use Draw or other software designed to modify image files, and then insert the result into Calc. Image toolbar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>No entanto, para resultados profissionais, geralmente é melhor usar o Draw ou outro software projetado para modificar arquivos de figura e, em seguida, inserir o resultado no Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Image toolbars</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Barra de ferramenta Figura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you insert an image or select one already present in the spreadsheet, the Image toolbar (Figure 4) replaces the Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Ao inserir uma figura ou selecionar uma já presente na planilha de trabalho, a barra de ferramentas figura (4) substitui a barra de Formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If it does not appear, go to View &gt; Toolbars &gt; Image on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Se não aparecer, vá em Exibir &gt; Barras de ferramentas &gt; Figura na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The tools available on the Image toolbar are described below.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>As ferramentas disponíveis na barra de ferramentas figura são descritas a seguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 4: Image toolbar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 4: barra de ferramenta Figura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changes to image properties affect only the display and printing of the image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>As alterações nas propriedades da figura afetam apenas a exibição e a impressão da figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The original image file remains unchanged.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O arquivo de figura original permanece inalterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anchor – choose between anchoring the image to a cell (with or without resize) or to a page.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Âncora – escolha entre ancorar a figura em uma célula (com ou sem redimensionamento) ou em uma página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “Anchoring images” on page 10.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Consulte “Ancorar figuras” abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align – if two or more images are selected, you can adjust the horizontal and vertical alignment of the images in relation to each other.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Alinhar – se duas ou mais figuras forem selecionadas, pode-se ajustar o alinhamento horizontal e vertical das figuras em relação uma à outra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “Aligning images” on page 10.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>“Ancorar figuras” abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Six buttons for arrangement (positioning images in the stacking order): Bring to Front, Forward One, Back One, Send to Back, To Foreground, To Background.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Seis botões para organização (posicionar figuras na ordem de empilhamento): Trazer para a frente, Avançar um, Voltar um, Enviar para trás, Para primeiro plano, Para plano de fundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “Arranging images” on page 10.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Consulte “Organizar figuras” abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Line Style, Line Width, Line Color – set the attributes of the border around the image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Estilo de linha, Largura da linha, cor da linha – defina os atributos da borda ao redor da figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Area Style / Filling – sets the color or other characteristics of the background area that contains the image, not the image itself.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Estilo de área / preenchimento – define a cor ou outras características da área de fundo que contém a figura, não a própria figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To see the background, you must set the transparency of the image to a suitably high value.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para ver o plano de fundo, deve-se definir a transparência da figura para um valor adequadamente alto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the Draw Guide for more information on how to modify areas.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Veja o Guia do Draw para mais informações sobre como modificar áreas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shadow – sets the default shadow effect around the image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Sombra – define o efeito de sombra padrão em torno da figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To adjust the shadow effect, open the Area dialog (Format &gt; Object &gt; Area) and choose the Shadow tab.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para ajustar o efeito de sombra, abra a caixa de diálogo Área (Formatar &gt; Objeto &gt; Área) e escolha a aba Sombra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filter – opens the Image Filter toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Filtro – abre a barra de ferramentas Filtro de figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the Draw Guide for details on image filters.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Consulte o Guia do Draw para obter detalhes sobre filtros de figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Image Mode – changes the display of the image from color (Default) to grayscale, black and white, or a watermark.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Modo de figura – altera a exibição da figura de colorida (padrão) para escala de cinza, preto e branco ou marca d'água.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This setting affects only the display and printing of the image; the original image file remains unchanged.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Esta configuração afeta apenas a exibição e impressão da figura; o arquivo de figura original permanece inalterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Crop Image – places cropping handles around the image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Recortar figura – posiciona alças de corte ao redor da figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drag a handle to crop (hide) the edges of the image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Arraste uma alça para cortar (ocultar) as bordas da figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Flip Horizontally and Flip Vertically – changes the orientation of the image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Inverter horizontalmente e Inverter verticalmente – altera a orientação da figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotate – places rotation handles around the image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Girar – posiciona alças de rotação ao redor da figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Transparency – adjusts the degree of transparency of the image between 0% (opaque) and 100% (fully transparent).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Transparência – ajusta o grau de transparência da figura entre 0% (opaco) e 100% (totalmente transparente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Color – opens the Color toolbar (Figure 5) to adjust the values of the red, green, blue colors, brightness, contrast and gamma.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Cor – abre a barra de ferramentas Cor (5) para ajustar os valores das cores vermelho, verde, azul, brilho, contraste e gama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 5: Color toolbar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 5: barra de ferramenta Cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>using with images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>usando com imagnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Properties deck</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>painel Propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Properties deck, using with drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>painel de propriedades, usando com objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the Properties deck in the Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Painel Propriedades na barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some of the settings in the Image toolbar are also available in the Properties deck in the Sidebar when an image is selected.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Algumas das configurações da barra de ferramentas Figura também estão disponíveis no painel Propriedades da Barra Lateral quando uma figura é selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The options on the Properties deck include the Color, Line, Transparency, and Position and Size settings.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>As opções no painel Propriedades incluem as configurações de Cor, Linha, Transparência e Posição e Tamanho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adding text to</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>adicionando texto a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adding text to</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>adicionando texto a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adding to images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>adicionando às imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>text</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adding to drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>adicionando objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>text</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Adding text</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Adicionar texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add text to an image or drawing object.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se adicionar texto a uma figura ou objeto de desenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>That text will move with the image when the image is repositioned.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Esse texto se moverá com a figura quando a figura for reposicionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on adding text to images, see the Draw Guide.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para obter mais informações sobre como adicionar texto a figuras, consulte o Guia do Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double-click on the image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Clique duas vezes na figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The text cursor flashes in the center of the image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O cursor de texto pisca no centro da figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Text Formatting toolbar automatically opens at the top of the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>A barra de ferramentas Formatação de texto é aberta automaticamente na parte superior da planilha de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 6: Text Formatting toolbar for images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 6: barra de ferramenta Formatação de texto para figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type your text and use the tools on the Text Formatting toolbar to format it.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Digite seu texto e use as ferramentas na barra de ferramentas Formatação de texto para formatá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most of the tools are the same as those for formatting text in cells.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>A maioria das ferramentas são iguais às de formatação de texto em células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To adjust the position of the text or how it appears in the image, right-click on the image (when the text cursor is flashing) and select Text in the context menu to open the Text dialog (Figure 7).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para ajustar a posição do texto ou como ele aparece na figura, clique com o botão direito na figura (quando o cursor do texto estiver piscando) e selecione Texto no menu de contexto para abrir a caixa de diálogo Texto (7).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make any necessary changes and click OK to close the dialog.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Faça as alterações necessárias e clique em OK para fechar a caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 7: Text dialog</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 7: caixa de diálogo Texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>moving</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>movendo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>resizing</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>redimensionando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>moving</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>movendo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>positioning images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>posicionando imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>resizing</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>redimensionando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Positioning, resizing, and arranging images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Posicionar, redimensionar e organizar figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the mouse</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Utilizar o mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To move an image to a new position in your spreadsheet, click on the image and drag it to a new position.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para mover uma figura para uma nova posição na sua planilha de trabalho, clique na figura e arraste-a para uma nova posição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The image will still be anchored as it was originally (that is, To Cell, To Cell (resize with cell), or To Page).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>A figura ainda será ancorada como estava originalmente (ou seja, Na célula, Na célula (redimensionar com a célula) ou Na página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To resize an image:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para redimensionar uma figura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the image to display the selection handles.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Clique na figura para exibir as alças de seleção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Position the cursor over one of the selection handles.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Posicione o cursor sobre uma das alças de seleção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The cursor changes shape, giving a graphical representation of the direction of the resizing.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O cursor muda de forma, dando uma representação gráfica da direção do redimensionamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The corner handles resize both the width and the height of the image simultaneously.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>As alças de canto redimensionam a largura e a altura da figura simultaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The top, bottom, left and right handles only resize one dimension at a time.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>As alças superior, inferior, esquerda e direita redimensionam apenas uma dimensão de cada vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click and drag to resize the image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Clique e arraste para redimensionar a figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tip</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Dica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To retain the original proportions of the image, click and drag one of the corner handles.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para reter as proporções originais da figura, clique e arraste uma das alças de canto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you want to change the original proportions, Shift+Click one of the corner handles, then drag.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Se quiser alterar as proporções originais, pressione Shift+clique em uma das alças do canto e arraste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Position and Size dialog</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>caixa de diálogo Posição e tamanho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the Position and Size dialog</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Caixa de diálogo Posição e tamanho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To accurately position and size an image in your spreadsheet, click on the image and then go to Format &gt; Object &gt; Position and Size on the Menu bar, or right-click on the image and select Position and Size in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para posicionar e dimensionar com precisão uma figura em sua planilha de trabalho, clique na figura e vá em Formatar &gt; Objeto &gt; Posição e tamanho na barra de menus, ou clique com o botão direito na figura e selecione Posição e tamanho no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Position and Size tab (Figure 8) of the Position and Size dialog, you can set these values:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Na aba Posição e tamanho (8) da caixa de diálogo Posição e tamanho, pode-se definir estes valores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Position – the location of the selected image on the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Posição – a localização da figura selecionada na planilha de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Position X – the horizontal distance from the base point selected in the grid.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Posição X – a distância horizontal do ponto base selecionado na grade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Position Y – the vertical distance from the base point selected in the grid.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Posição Y – a distância vertical do ponto base selecionado na grade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Size – the width and height of the image with respect to the selected base point.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Tamanho – a largura e altura da figura em relação ao ponto base selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Protect – to prevent accidental movement or resizing of the image, select the relevant option.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Proteger – para evitar movimento acidental ou redimensionamento da figura, selecione esta opção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The units of measurement used for X / Y coordinates and the width and height of the image are set by going to Tools &gt; Options &gt; LibreOffice Calc &gt; General &gt; Measurement unit.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>As unidades de medida usadas para as coordenadas X e Y e a largura e altura da figura são definidas em Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Geral &gt; Unidade de medida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The default location of the base points for position and size is the upper left corner of the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>A localização padrão dos pontos de base para posição e tamanho é o canto superior esquerdo da planilha de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can temporarily change this base point to make positioning or dimensioning simpler by clicking on a position corresponding to the location of the base point you want to use.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se alterar temporariamente este ponto base para tornar o posicionamento ou dimensionamento mais simples clicando em uma posição correspondente à localização do ponto base que deseja usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This change in base point is only valid for single use and the base point is reset to the standard position of top left corner when you close the Position and Size dialog.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Esta alteração no ponto base é válida apenas para uso único e o ponto base é redefinido para a posição padrão do canto superior esquerdo quando se fecha a caixa de diálogo Posição e tamanho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also rotate or slant an image (using the Rotation or Slant &amp; Corner Radius tabs of the Position and Size dialog).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se também girar ou inclinar uma figura (usando as abas Rotação ou Inclinação e Raio da curvatura do canto da caixa de diálogo Posição e tamanho).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the Draw Guide for details.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Veja o Guia do Draw para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 8: Position and Size dialog – Position and Size tab</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 8: caixa de diálogo Posição e tamanho – aba Posição e tamanho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>arranging images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>organizando imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>arranging (stacking)</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>organizar (empilhar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>stacking images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>organização de imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Arranging images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Organizar figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each image that you place in a spreadsheet is successively stacked on the preceding image, whether or not they overlap.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Cada figura que se coloca em uma planilha de trabalho é empilhada sucessivamente na figura anterior, independentemente de se sobreporem ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the arrange commands to change the stacking order of images.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Use os comandos de organização para alterar a ordem de empilhamento das figuras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You cannot change the stacking order of text.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Não se pode alterar a ordem de empilhamento do texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the image you want to change.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione a figura que deseja alterar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to Format &gt; Arrange on the Menu bar, or right-click on the image and select Arrange in the context menu Then select one of the available arrangement options.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Vá em Formatar &gt; Dispor na barra de menus ou clique com o botão direito na figura e selecione Dispor no menu de contexto. Em seguida, selecione uma das opções de organização disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, click on one of the six arrangement icons on the Image toolbar to quickly move the image up or down the stacking order.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Como alternativa, clique em um dos seis ícones de organização na barra de ferramentas Figura para mover rapidamente a figura para cima ou para baixo na ordem de empilhamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The arrangement options are as follows:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>As opções de dispor são as seguintes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bring to Front – moves the selected image to the top of the stacking order, so that it is in front of other images.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Trazer para a frente – move a figura selecionada para o topo da ordem de empilhamento, de forma que fique na frente das outras figuras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Forward One – moves the selected image up one level, so that it is closer to top of the stacking order.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Avançar um – move a figura selecionada um nível para cima, de forma que fique mais perto do topo da ordem de empilhamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back One – moves the selected image down one level, so that it is closer to the bottom of the stacking order.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Voltar um – move a figura selecionada um nível abaixo, de forma que fique mais perto da parte inferior da ordem de empilhamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send to Back – moves the selected image to the bottom of the stacking order, so that it is behind the other images.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Enviar para trás – move a figura selecionada para o final da ordem de empilhamento, para que fique atrás das outras figuras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To Foreground – moves the selected image in front of text.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para o primeiro plano – move a figura selecionada na frente do texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To Background – moves the selected image behind text.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para o plano de fundo – move a figura selecionada para trás do texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To select a background image so that you can modify or replace it, you have to use the Navigator.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para selecionar uma figura de fundo para que se possa modificá-la ou substituí-la, deve-se usar o Navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other methods of selection, such as clicking or double-clicking, do not work.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Outros métodos de seleção, como clicar ou clicar duas vezes, não funcionam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>anchoring images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>ancorando imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>anchoring</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>ancorando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anchoring images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Ancorar figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anchor images so they stay in their position in relation to other items.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Ancorar figuras para que fiquem em sua posição em relação a outros itens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To Page – anchor an image to the page to position it in a specific place.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Na página – ancorar uma figura na página para posicioná-la em um local específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The image does not move when cells are added or deleted; it will always stay in the same position on the page where it is placed.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>A figura não se move quando as células são adicionadas ou excluídas; ela sempre ficará na mesma posição na página onde está colocado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To Cell – anchor an image to a cell to ensure that the image always stays with the content it is originally anchored to.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Na célula – ancore uma figura em uma célula para garantir que a figura sempre permaneça com o conteúdo ao qual foi originalmente ancorada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If an image is anchored to cell B10, and a new row is inserted above row 10, the image will then be anchored to cell B11.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Se uma figura estiver ancorada na célula B10 e uma nova linha for inserida acima da linha 10, a figura será ancorada na célula B11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To Cell (resize with cell) – similar to To Cell but with the additional property that the image resizes as you resize the cell to which it is anchored.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Na célula (redimensionar com a célula) – semelhante a Na célula, mas com a propriedade adicional de redimensionar a figura conforme se redimensiona a célula à qual está ancorada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To anchor a selected image or change the type of anchor used:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para ancorar uma figura selecionada ou alterar o tipo de âncora usado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to Format &gt; Anchor on the Menu bar, or right-click on the image and select Anchor in the context menu, or click on the Anchor icon on the Image toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Vá em Formatar &gt; Âncora na barra de Menu, ou clique com o botão direito do mouse na figura e selecione Âncora no menu de contexto, ou clique no ícone Âncora na barra de ferramentas Figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select To Page, To Cell, or To Cell (resize with cell) in the menu.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione Na página, Na célula ou Na célula (redimensionar com a célula) no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>aligning images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>alinhando imangens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>aligning</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>alinhando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Aligning images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Alinhar figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you have more than one image in your spreadsheet, you can align these images to give your spreadsheet a more professional look.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Quando se tem mais de uma figura na planilha de trabalho, pode-se alinhar essas figuras para dar à planilha de trabalho uma aparência mais profissional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The options include three for aligning the images horizontally (left, centered, right) and three for aligning the images vertically (top, center, bottom).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>As opções incluem três para alinhar as figuras horizontalmente (esquerda, centralizado, direita) e três para alinhar as figuras verticalmente (em cima, centro, embaixo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select all of the images to be aligned (select one and hold down the Shift key while selecting others).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione todas as figuras a serem alinhadas (selecione uma e mantenha pressionada a tecla Shift enquanto seleciona outras).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to Format &gt; Align on the Menu bar, or click the down arrow at the right of the Align icon on the Image toolbar, or right-click on one of the images and select Align in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Acesse Formatar &gt; Alinhar na barra de menus ou clique na seta para baixo à direita do ícone Alinhar na barra de ferramentas Figura ou clique com o botão direito em uma das figuras e selecione Alinhar no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select one of the options available for alignment.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione uma das opções disponíveis para alinhamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tip</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Dica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press the main area of the Align icon on the Image toolbar (to the left of its down arrow) to quickly left align the selected images.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pressione a área principal do ícone Alinhar na barra de ferramentas Figura (à esquerda de sua seta para baixo) para alinhar rapidamente à esquerda as figuras selecionadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>grouping and ungrouping</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>agrupando e desagrupando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>grouping and ungrouping</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>agrupando e desagrupando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Grouping and ungrouping images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Agrupar e desagrupar figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To group several images so that they become a single object in the spreadsheet:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para agrupar várias figuras para que se tornem um único objeto na planilha de trabalho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the images you want to group (select one and hold down the Shift key while selecting others).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione as figuras que deseja agrupar (selecione uma e mantenha pressionada a tecla Shift enquanto seleciona outras).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to Format &gt; Group &gt; Group on the Menu bar, or right-click on one of the selected images and select Group in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Vá em Formatar &gt; Agrupar &gt; Agrupar na barra de menus ou clique com o botão direito em uma das figuras selecionadas e selecione Agrupar no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To ungroup images:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para desagrupar figuras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the image group you want to ungroup.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione o grupo de figuras que deseja desagrupar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to Format &gt; Group &gt; Ungroup on the Menu bar, or right-click on one of the selected images and select Ungroup in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Vá em Formatar &gt; Agrupar &gt; Desagrupar na barra de menus ou clique com o botão direito do mouse em uma das figuras selecionadas e selecione Desagrupar no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To edit an image in a group:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para editar uma figura em um grupo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the image group where you want to edit an image within the group.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione o grupo de figuras onde deseja editar uma figura dentro do grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to Format &gt; Group &gt; Enter Group on the Menu bar, or right-click on one of the selected images and select Enter Group in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Vá para Formatar &gt; Agrupar &gt; Entrar no grupo na barra de menus ou clique com o botão direito em uma das figuras selecionadas e selecione Entrar no grupo no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the image you want to make changes to and make the changes.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione a figura na qual deseja fazer alterações e faça as alterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to Format &gt; Group &gt; Exit Group on the Menu bar, or right-click on one of the selected images and select Exit Group in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Vá em Formatar &gt; Agrupar &gt; Sair do grupo na barra de menus ou clique com o botão direito em uma das figuras selecionadas e selecione Sair do grupo no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using LibreOffice’s drawing tools</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Ferramentas de desenho do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc, like all other components of LibreOffice, has a range of tools to create drawings such as simple diagrams, using rectangles, circles, lines, text, and other shapes.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O Calc, como todos os outros componentes do LibreOffice, possui uma variedade de ferramentas para criar desenhos como diagramas simples, usando retângulos, círculos, linhas, texto e outras formas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can group several drawing objects to make sure they maintain their relative position and proportion if you move or resize them.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se agrupar vários objetos de desenho para garantir que eles mantenham sua posição relativa e proporção se movê-los ou redimensioná-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also use the drawing tools to annotate photographs, screen captures, or other illustrations produced by other programs, but this is not recommended.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Também pode-se usar as ferramentas de desenho para fazer anotações em fotografias, capturas de tela ou outras ilustrações produzidas por outros programas, mas isso não é recomendado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you need to create complex drawings, it is recommended to use LibreOffice Draw and then insert the drawing into your spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Se precisar criar desenhos complexos, é recomendado usar o LibreOffice Draw e então inserir o desenho em sua planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a more detailed explanation, see the Draw Guide.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para uma explicação mais detalhada, consulte o Guia do Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drawing</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>toolbars</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drawing toolbar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>barra de ferramentas Desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drawing toolbar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Barra de ferramentas desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To begin using the drawing tools, go to View &gt; Toolbars &gt; Drawing to open the Drawing toolbar, which appears in its default position at the bottom of the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para começar a usar as ferramentas de desenho, vá em Exibir &gt; Barras de ferramentas &gt; Desenho para abrir a barra de ferramentas Desenho, que aparece em sua posição padrão na parte inferior da planilha de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can make this toolbar a floating toolbar and move it to a more convenient position.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se transformar esta barra de ferramentas em uma barra flutuante e movê-la para uma posição mais conveniente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the Drawing toolbar opens, it displays a default set of tools as shown in Figure 9.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Quando a barra de ferramentas Desenho é aberta, ela exibe um conjunto padrão de ferramentas, conforme mostrado na 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hover the mouse pointer over a tool to see a tooltip describing its function.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Passe o ponteiro do mouse sobre uma ferramenta para ver uma dica de ferramenta que descreve sua função.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Icons with small arrows on the right side open with palettes of tools.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Ícones com pequenas setas no lado direito abrem com paletas de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add tools to the Drawing toolbar, right-click in an empty area on the toolbar and select Visible Buttons in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para adicionar ferramentas à barra de ferramentas Desenho, clique com o botão direito em uma área vazia da barra de ferramentas e selecione Botões visíveis no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 9: Drawing toolbar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 9: barra de ferramenta Desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To use a drawing tool:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para usar uma ferramenta de desenho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the tool in the Drawing toolbar (Figure 9).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Clique na ferramenta na barra de ferramentas Desenho (9).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The mouse pointer changes to a drawing-functions pointer and the normal Formatting toolbar changes to the Drawing Object Properties toolbar, becoming a floating toolbar (Figure 10).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O ponteiro do mouse muda para um ponteiro de funções de desenho e a barra de ferramentas Formatação normal muda para a barra de ferramentas Propriedades do objeto de desenho, tornando-se uma barra de ferramentas flutuante (10).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move the cross-hair pointer to the place in the document where you want the drawing object to appear and then click and drag to create the object.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Mova o ponteiro em forma de cruz para o local no documento onde deseja que o objeto de desenho apareça e, a seguir, clique e arraste para criar o objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Release the mouse button.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Solte o botão do mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The selected drawing function remains active, so that you can draw another object of the same type.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To cancel the selected drawing function, click on the tool’s icon again, press the Esc key, or click on the Select icon (the arrow) on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para cancelar a função de desenho selecionada, clique no ícone da ferramenta novamente, pressione a tecla Esc ou clique no ícone Selecionar (a seta) na barra de ferramentas Desenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can now change the properties (fill color, line type and weight, anchoring, and others) of the drawing object using the Drawing Object Properties toolbar (Figure 10), the Properties deck on the Sidebar, or the choices reached by right-clicking on the drawing object.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Agora pode-se alterar as propriedades (cor de preenchimento, tipo e espessura de linha, ancoragem e outros) do objeto de desenho usando a barra de ferramentas Propriedades do objeto de desenho (10), o painel Propriedades na Barra lateral ou as escolhas alcançadas clicando com o botão direito no objeto de desenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drawing Object Properties, overview</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Propriedades do objeto de desenho, visão geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>toolbars</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>using with drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>usando com objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Properties deck</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>painel Propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>using with drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>usando com objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Properties deck</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>painel Propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drawing Object Properties toolbar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>barra de ferramentas Propriedades do objeto de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>setting the properties of</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>definindo as propriedades de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Properties deck, using with images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>painel de propriedades, usando com imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Setting the properties of drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Definir propriedades dos objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on the properties of drawing objects, see the Draw Guide.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para obter mais informações sobre as propriedades dos objetos de desenho, consulte o Guia do Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can set some default properties for a drawing object before you draw an object.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se definir algumas propriedades padrão para um objeto de desenho antes de desenhar um objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These default properties are applied only to the current spreadsheet and are not retained when you close the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Essas propriedades padrão são aplicadas apenas à planilha de trabalho atual e não são mantidas quando se fecha a planilha de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The properties apply only to drawing objects.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>As propriedades se aplicam apenas a objetos de desenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click Select on the Drawing toolbar (Figure 9).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Clique em Selecionar na barra de ferramentas Desenho (9).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Drawing Object Properties toolbar (Figure 10), set the values you want to use for each property.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Na barra de ferramentas Propriedades do objeto de desenho (10), defina os valores que deseja usar para cada propriedade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select area or line properties, dialogs open where you can set the values used for area or line.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Quando se seleciona propriedades de área ou linha, caixas de diálogo são abertas onde pode-se definir os valores usados para área ou linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 10: Drawing Object Properties toolbar – controls available for setting default properties</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 10: barra de ferramentas de propriedades do objeto de desenho - controles disponíveis para definir as propriedades padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After you draw an object or group it with another object, more properties become active.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Depois de desenhar um objeto ou agrupá-lo com outro objeto, mais propriedades se tornam ativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These appear on the toolbar (Figure 11) and some are shown in the Properties deck of the Sidebar (Figure 12).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Elas aparecem na barra de ferramentas (11) e alguns são mostrados no painel Propriedades da Barra Lateral (12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 11: Drawing Object Properties toolbar after inserting an object</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 11: barra de ferramentas de propriedades do objeto de desenho após inserir um objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change the properties of an existing drawing object (fill color, line type and weight, anchoring, and so on) using the Drawing Object Properties toolbar (Figure 10), the Properties deck on the Sidebar, or the context menu when you right-click on the drawing object.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se alterar as propriedades de um objeto de desenho existente (cor de preenchimento, tipo e espessura da linha, ancoragem e assim por diante) usando a barra de ferramentas Propriedades do objeto de desenho (10), o painel Propriedades na barra lateral ou o menu de contexto quando se clique com o botão direito no objeto de desenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 12: Properties deck in Sidebar for drawing object</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 12: painel de propriedades na barra lateral para o objeto de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>resizing</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>redimensionando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>resizing</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>redimensionando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resizing drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Redimensionar objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the object and click on one of the selection handles then drag the object to its new size.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione o objeto e clique em uma das alças de seleção e arraste o objeto para seu novo tamanho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a scaled resizing, select one of the corner handles and keep the Shift key pressed while dragging the handle.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para um redimensionamento em escala, selecione uma das alças de canto e mantenha a tecla Shift pressionada enquanto arrasta a alça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see “Positioning, resizing, and arranging images” on page 8.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para mais informações, consulte “Posicionar, redimensionar e organizar figuras” acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>grouping and ungrouping</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>agrupando e desagrupando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>grouping and ungrouping</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>agrupando e desagrupando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Grouping and ungrouping drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Agrupar e desagrupar objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For grouping, ungrouping, and editing grouped drawing objects, see “Grouping and ungrouping images” on page 11.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para agrupar, desagrupar e editar objetos de desenho agrupados, consulte “Agrupar e desagrupar figuras” acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>additional tools in context menu</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>ferramentas adicionais no menu de contexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>additional tools in context menu</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>ferramentas adicionais no menu de contexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Additional tools</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Ferramentas adicionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some additional tools are available when you right-click on an image or drawing object and open the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Algumas ferramentas adicionais estão disponíveis quando se clica com o botão direito em uma figura ou objeto de desenho e abre o menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add metadata in the form of a title and description to an image.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se adicionar metadados na forma de título e descrição a uma figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This information is used by accessibility tools (such as screen reader software) and as ALT (alternative text) attributes if you export the document to HTML.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Essas informações são usadas por ferramentas de acessibilidade (como software leitor de tela) e como atributos ALT (texto alternativo) se exportar o documento para HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add a custom name to be assigned to an image; this will make the image easier to find in the Navigator.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se adicionar um nome personalizado a ser atribuído a uma figura; isso tornará a figura mais fácil de encontrar no Navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Also, assigning names to images helps identify them when teams of people are working on the same multi-page spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Além disso, atribuir nomes às figuras ajuda a identificá-las quando equipes de pessoas estão trabalhando na mesma planilha de trabalho com várias páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotate or Flip</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Girar ou Inverter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can rotate the image or flip it horizontally or vertically.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se girar a figura ou virá-la horizontalmente ou verticalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assign Macro</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Atribuir macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Opens the Assign Macro dialog so you can add programmable functionality to the graphic.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Abre a caixa de diálogo Atribuir macro para que se possa adicionar funcionalidade programável ao gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc has a very good macro functionality.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O Calc tem uma funcionalidade macro muito boa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see Chapter 12, Macros.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para obter mais informações, consulte o Capítulo 12, Macros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Hyperlink</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Editar hiperlink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can define a hyperlink from an image to another location in your spreadsheet, another document, or a web page.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se definir um hiperlink de uma figura para outro local em sua planilha de trabalho, outro documento ou página da web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select Edit Hyperlink in the context menu to open the Hyperlink dialog.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione Editar hiperlink no menu de contexto para abrir a caixa de diálogo hiperlink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 10, Linking Data, for more information on hyperlinks.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Consulte o Capítulo 10, Vinculando dados, para obter mais informações sobre hiperlinks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compress</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Comprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can compress images to reduce the file size of the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se compactar figuras para reduzir o tamanho do arquivo da planilha de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select Compress in the context menu to open a Compress Image dialog where you can set the compression options.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione Comprimir no menu de contexto para abrir uma caixa de diálogo Comprimir figura, onde pode-se definir as opções de compactação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Option not available for drawing objects.)</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>(Opção não disponível para objetos de desenho.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit with External Tool</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Editar com ferramenta externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can edit an image with an external tool.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Pode-se editar uma figura com uma ferramenta externa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The dialog that opens will depend on your computer setup.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>A caixa de diálogo que se abre dependerá da configuração do seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Option not available for drawing objects.)</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>(Opção não disponível para objetos de desenho.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fontwork objects</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using Fontwork With Fontwork, you can create graphical text art objects to make your work more attractive.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Com o Fontwork, pode-se criar objetos de arte de texto gráfico para tornar seu trabalho mais atraente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are many different settings for text art objects (line, area, position, size, and more), so you have a large choice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Existem muitas configurações diferentes para objetos de arte de texto (linha, área, posição, tamanho e muito mais), então se tem uma grande escolha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fontwork is available with each component of LibreOffice, but you will notice small differences in the way that each component displays it.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O Fontwork está disponível com cada componente do LibreOffice, mas você notará pequenas diferenças na maneira como cada componente o exibe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating a Fontwork object</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Criar um objeto Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Fontwork toolbar (View &gt; Toolbars &gt; Fontwork, see Figure 13) or the Drawing toolbar (View &gt; Toolbars &gt; Drawing), click the Insert Fontwork Text icon.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Na barra de ferramentas Fontwork (Exibir &gt; Barras de ferramentas &gt; Fontwork, consulte a 13) ou na barra de ferramentas Desenho (Exibir &gt; Barras de ferramentas &gt; Desenho), clique no ícone Inserir texto do Fontwork.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 13: Fontwork toolbar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 13: barra de ferramenta Fotwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Fontwork Gallery (Figure 14), select a Fontwork style, then click OK.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Na Galeria Fontwork (14), selecione um estilo Fontwork e clique em OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Fontwork object will appear in the document.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>O objeto Fontwork aparecerá no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double-click the object to edit the Fontwork text (Figure 15).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Clique duas vezes no objeto para editar o texto do Fontwork (15).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the text and type your own text in place of the black Fontwork text that appears over the object.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Selecione o texto e digite seu próprio texto no lugar do texto preto do Fontwork que aparece sobre o objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click anywhere in a free space or press Esc to apply your changes.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Clique em qualquer lugar em um espaço livre ou pressione Esc para aplicar suas alterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 14: The Fontwork Gallery</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 14: a galeria Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 15: Editing Fontwork text</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Figura 15: editando texto do Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Editing a Fontwork object</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Editar um objeto Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now that the Fontwork object is created, you can edit some of its attributes.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Agora que o objeto Fontwork foi criado, pode-se editar alguns de seus atributos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To do this, you can use the Fontwork toolbar, the Formatting toolbar, or menu options.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Para fazer isso, pode-se usar a barra de ferramentas Fontwork, a barra de ferramentas Formatação ou as opções de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 5 Using Graphics in Calc</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240401T152001Z">
+        <seg>Capítulo 5 Gráficos e figuras</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

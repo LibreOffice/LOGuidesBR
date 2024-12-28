@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Appendix BError Codes</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Apêndice BCódigos de erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Introduction to Calc error codes</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Introdução aos códigos de erro do Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc provides feedback for errors of miscalculation, incorrect use of functions, invalid cell references and values, and other user initiated mistakes.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>O Calc fornece informações de erro ou cálculos equivocados, utilização incorreta de funções, referências erradas a células e a valores e outros erros provocados pelo usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The feedback may be displayed within the cell that contains the error (Figure 1), or on the Status bar (Figure 2), or in both, depending on the type of error.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A informação pode ser exibida na célula que contém o erro (1), ou na barra de Status (2) ou mesmo em ambas, a depender do tipo de erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Generally speaking, if the error occurs in the cell that is selected (or contains the cursor), the error message is displayed on the Status bar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Em geral, se o erro ocorrer na célula selecionada (ou que contém o cursor), a mensagem de erro é mostrada na barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As an example, Figure 1shows the error code returned when a column is too narrow to display the entire formatted date.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Por exemplo, a 1mostra o código de erro retornado quando a coluna é estreita demais para mostrar a data formatada inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The date displayed within the input line, 04/05/1998, would fit within the cell without a problem, but the format used by the cell produces the date value Sunday, April 05, 1998.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A data é exibida na linha de entrada, 05/04/1998, deveria caber na célula sem problemas, mas o formato utilizado na célula produz o valor da data como Domingo, 5 de abril de 1998.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 1: Error codes displayed within cells</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Figura 1: Código de erro mostrado nas células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the cell displaying the #REF!</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Quando a célula que mostra o código de erro #REF!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>error code in Figure 1is selected, the Status bar displays the error message as shown in Figure 2.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>na 1é selecionada, a barra de status exibe a mensagem de erro mostrada na 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This message is more descriptive than the message displayed in the cell, but it still may not provide enough information to correctly diagnose the problem.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Esta mensagem é mais detalhada que a mensagem exibida na célula, mas, ainda assim, pode não dar informação suficiente para diagnosticar corretamente o problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For fuller explanations, consult the following tables and the Help topic, Error Codes in LibreOffice Calc.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Para mais informações, consulte as seguintes tabelas na Ajuda: Códigos de erro no LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 2: An error message displayed in the Status bar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Figura 2: Mensagem de erro exibida na barra de status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This appendix presents error codes in two tables.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Este apêndice apresenta os códigos de erro em duas tabelas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table 1lists error strings which are displayed within the cell that actually contains the error.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A 1relaciona as mensagens exibidas nas células que contêm o erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Except in the case of the ### error, they all correspond to a Calc error code number.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Com exceção ao caso do erro ###, todas correspondem ao número do erro do Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alphanumeric codes such as Err502 and Err511 can also appear in cells; these are not separately identified in the Table 1but their meanings are given in Table 2.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Códigos alfanuméricos tais como Err502 e Err511 também podem aparecer em células; não são identificados separadamente na 1mas seus significados estão na 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table 2explains all of the error codes, listed by code number, including those error codes in the first table.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A 2explica todos estes códigos de erro, listados por número do código, incluindo os códigos da primeira tabela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use the ERRORTYPE() function to find the code number for an error occurring in a different cell.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>É possível utilizar a função TIPOERRO() para encontrar o número do código de um erro que ocorre numa célula diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refer to the Help system for more detail about this function.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Consulte o sistema de Ajuda para mais detalhes sobre esta função.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>error codes and messages</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>códigos de erro e mensagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cells</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error codes displayed within cells</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Códigos de erro exibidos nas células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table 1: Error codes in cells</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Tabela 1: Códigos de erro em células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Code</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Message</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Mensagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Explanation of the error</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Explicação do erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The column is too narrow to display the complete formatted contents of the cell.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A coluna é estreita demais para mostrar o conteúdo formatado da célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is not really an error value, so there is no corresponding numerical error code.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Não é exatamente um código de erro, portanto não há um número de código de erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The solutions to this problem are to increase the width of the column, or select Format &gt; Cells &gt; Alignment and click either Wrap text automatically or Shrink to fit cell size in the Properties area to make the text match the current column width.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A solução para este problema é aumentar a largura da coluna, ou selecionar Formatar &gt; Células &gt; Alinhamento e clicar na área Propriedades em Disposição automática do texto ou Reduzir para caber no tamanho da célula, para fazer o texto ficar dentro da largura da coluna atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>error</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A calculation resulted in an overflow of the defined value range.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Um cálculo resultou em transbordo do intervalo de definição do valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>#VALUE!</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>#VALOR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The formula within the cell returns a value that does not correspond to the definition of the formula or functions used.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A fórmula na célula retorna um valor que não corresponde à definição da fórmula ou função utilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This error could also mean that the cell referenced by the formula contains text instead of a number.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Este erro também pode significar que a célula referenciada pela fórmula contém texto em vez de um número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The formula within the cell uses a reference that does not exist.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A fórmula na célula utiliza uma referência que não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Either a column or row description name could not be resolved, or the column, row, or sheet that contains a referenced cell is missing.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Tanto o nome da descrição de coluna ou linha não pode ser resolvida, ou a coluna, linha ou planilha contém uma referência a uma célula faltante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>#NAME?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>#NOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An identifier could not be evaluated: no valid reference, no valid domain name, no column/row label, no macro, incorrect decimal divider, add-in not found.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Um identificador não conseguiu ser resolvido: sem referência válida, sem domínio válido, sem nome de coluna ou linha, sem macro, divisor decimal incorreto, função de suplemento não encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, entering in a cell =sum(bob*5) where there is no cell named “bob” or containing the text “bob” generates this error.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Por exemplo, inserir numa célula =SOMA(bob*5), onde não exista uma célula de nome "bob", gera este erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Division operator / if the denominator is 0.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Operação de divisão quando o denominador é 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some more functions return this error; see next table for details.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Algumas funções retornam este erro; veja a próxima tabela para mais detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>General error codes</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Códigos de erro gerais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following table is an overview of the most common error messages for LibreOffice Calc.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A tabela seguinte é uma visão geral das mensagens de erro mais comuns do LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Errors described as Internal errors should not be encountered by users under normal conditions.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erros descritos como Erros internos não deveriam ser encontrados pelos usuários em condições normais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Errors listed as Not used are not currently assigned to any error condition and will not occur.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erros descritos como Erros internos não estão atualmente atribuídos a nenhuma condição de erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table 2: List of error codes</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Tabela 2: Lista de códigos de erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Code</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Message</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Mensagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Explanation of the error</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Explicação do erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid character</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Caractere inválido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character in a formula is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Um caractere na fórmula é inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This error is the same as the Invalid Name error (525) except that it occurs within a formula.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Este erro é o mesmo que o erro Nome invalido (525) exceto que ele ocorre dentro de uma fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The cell containing the error will display the #NAME?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A célula contendo o erro exibe #NOME?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>error reference.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>erro de referência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid argument</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Argumento inválido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Function argument is not valid; for example, a negative number for the SQRT() function.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>O argumento da função não é válido; por exemplo, um número negativo para a função RAIZ().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This error also occurs if more than one matching cell is found by the DGET() function.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Este erro também ocorre se mais de uma célula for encontrada pela função BDEXTRAIR().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid floating point operation (cell displays #NUM!)</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Operação de ponto flutuante inválida (a célula exibe #NÚM!)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Division by 0, or another calculation that results in an overflow of the defined value range (a value too big or too small).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Divisão por zero, ou outro cálculo que resulte num transbordo do intervalo de valores definidos (um valor grande demais ou pequeno demais).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Parameter list error</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erro na lista de parâmetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Function parameter is not valid; for example, text instead of a number, or a domain reference instead of a cell reference.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>O parâmetro da função não é válido; por exemplo, texto no lugar de número, ou uma referência de intervalo em vez de uma referência de célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internal syntax error</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erro interno de sintaxe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not used.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Não utilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid semicolon</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Ponto e vírgula inválido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not used.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Não utilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pair missing</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Par faltante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not used.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Não utilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pair missing</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Par faltante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Missing bracket or parenthesis; for example, closing brackets but no opening brackets.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Parêntese ou colchete faltando; por exemplo, parêntese de fechamento sem haver parenteses de abertura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Missing operator</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Operador faltando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Operator is missing; for example, "=2(3+4)* ", where the operator between "2" and "(" is missing.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>O operador está faltando; por exemplo,"=2(3+4)* ", onde o operador entre "2" e "(" está faltando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Missing variable</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Variável faltando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Variable is missing; for example, when two operators are together "=1+*2".</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A variável está faltando; por exemplo, quando dois operadores estão justapostos "=1+*2"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Missing variable</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Variável faltando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Function requires more variables than are provided; for example, AND() and OR().</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A função requer mais variáveis que as fornecidas; por exemplo, E() e OU().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formula overflow</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Transbordo de fórmula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The total number of internal tokens (that is, operators, variables, brackets) in the formula exceeds 8192, or the total number of matrices the formula creates exceeds 150.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>O número total de fichas internas (isto é, operadores, variáveis, parênteses) na fórmula excede 8192, ou o número total de matrizes excede 150.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This includes basic functions that receive too large an array as a parameter.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Inclui as funções Basic que recebem vetores grandes demais como parâmetro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>String overflow</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Texto grande demais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An identifier in the formula exceeds 64 KB in size, or a result of a string operation exceeds 64 KB in size.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Um identificador na fórmula excede 64KB em tamanho, ou o resultado de uma operação com textos excede 64Kb de tamanho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internal overflow</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Transbordo interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort operation attempted on too much numerical data (max.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Uma operação de ordenação foi tentada num conjunto de dados grande demais (max.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>100000) or a calculation stack overflow.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>100000) ou um transbordo de pilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internal syntax error</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erro interno de sintaxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not used.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Não utilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internal syntax error</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erro interno de sintaxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Matrix is expected on the calculation stack, but is not available.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Espera-se uma matriz na pilha de cálculo, que não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internal syntax error</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erro interno de sintaxe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unknown error; for example, a document with a newer function is loaded in an older version of Calc that does not contain the function.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erro desconhecido; por exemplo, um documento com uma função nova foi carregado numa versão antiga do Calc que não tem a função.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internal syntax error</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erro interno de sintaxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Variable is not available.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Variável indisponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No result (cell displays #VALUE!)</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Sem resultados (a célula exibe #VALOR!)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formula yields a value that does not correspond to the definition, or a cell that is referenced in the formula contains text instead of a number.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A fórmula retorna um valor que não corresponde à definição, ou uma célula referenciada na fórmula contém texto no lugar de número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internal syntax error</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erro interno de sintaxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compiler creates an unknown compiler code.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>O compilador criou um código desconhecido de compilação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internal syntax error</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erro interno de sintaxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No result.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Sem resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Circular reference</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Referência circular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formula refers directly or indirectly to itself and the Iterations option is not selected under Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>A fórmula referencia direta ou indiretamente a si mesma e a opção Iterações não foi selecionada em Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Calcular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The calculation procedure does not converge</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>O procedimento de cálculo não converge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Financial statistics function missed a targeted value, or iterations of circular references do not reach the minimum change within the maximum steps that are set.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Uma função estatística financeira não convergiu para um valor de destino, ou as iterações de referências circulares não atingiram a mudança mínima dentro do número máximo de passos definidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid references (cell displays #REF!)</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Referências inválidas (a célula exibe #REF!)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A column or row description name could not be resolved, or the column, row, or sheet that contains a referenced cell is missing.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>O nome da descrição de coluna ou linha não pode ser resolvida, ou a coluna, linha ou planilha que contém uma referência a uma célula está faltando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid names (cell displays #NAME?)</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Nomes inválidos (a célula exibe #NOME?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An identifier could not be evaluated; for example, no valid reference, no valid domain name, no column/row label, no macro, incorrect decimal divider, add-in not found.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Um identificador não conseguiu ser resolvido: sem referência válida, sem domínio válido, sem nome de coluna ou linha, sem macro, divisor decimal incorreto ou função de suplemento não encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internal syntax error</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erro interno de sintaxe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Obsolete, no longer used, but could come from old documents if the result is a formula from a domain.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Obsoleto (sem uso), mas pode vir de documentos muito antigos se o resultado é uma fórmula de um domínio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internal overflow</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Transbordo interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>References, such as when a cell references a cell, are too encapsulated or deeply nested.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Referências, tais como uma célula que referencia outra, estão encapsuladas demais ou aninhadas em profundidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is an internal error and should not be displayed in LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Este é um erro interno e não deveria ser exibido no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>528 to 531</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>528 a 531</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not used.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Não utilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Division by zero (cell displays #DIV/0!)</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Divisão por zero ( a célula exibe #DIV/0!)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Division operator / if the denominator is 0.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Operador de divisão quando o denominador é 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some more functions return this error; for example:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Algumas funções retornam este erro; por exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>VARP with less than 1 argumentSTDEVP with less than 1 argumentVAR with less than 2 argumentsSTDEV with less than 2 argumentsSTANDARDIZE with stdev=0NORMDIST with stdev=0</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>VARP com menos de 1 argumentoDESVPADP com menos de 1 argumentoVAR com menos de 2 argumentosDESVPAD com menos de 2 argumentosPADRONIZAR com desvpad=0DIST.NORM com desvpad=0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Nested arrays are not supported</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Sem suporte para matriz de matrizes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, “={1;{2}}”</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Por exemplo, “={1;{2}}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error: Array or matrix size</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Erro: tamanho de matriz ou vetor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unsupported inline array content</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Conteúdo de matriz em linha sem suporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, “={1+2}”</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Por exemplo, “={1+2}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>External content disabled</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Conteúdo externo desativado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Occurs when a function that requires (re)loading of external sources is encountered and the user hasn't confirmed reloading of external sources yet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T190626Z">
+        <seg>Ocorre quando uma função que requer (re)carga de dados externos é encontrada e o usuário ainda não confirmou a recarga dos dados.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc Guide</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Guia do Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Preface</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Prefácio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This document is Copyright © 2020by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Este documento é protegido por Copyright © 2020pelo time de documentação do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contributors are listed below.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Os contribuidores são listados abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (http://www.gnu.org/licenses/gpl.html), version 3 or later, or the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), version 4.0 or later.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>É permitida a distribuição e/ou modificação sob os termos tanto da GNU General Public License (https://www.gnu.org/licenses/gpl.html), versão 3 ou posterior, ou pela licença Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/), versão 4.0 ou posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All trademarks within this guide belong to their legitimate owners.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Todas as marcas comerciais dentro desse guia pertencem aos seus respectivos donos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Contribuidores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This book is adapted and updated from the LibreOffice 6.4 Calc Guide.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Este volume foi adaptado e atualizado do LibreOffice Guia do Calc6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To this edition</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Para esta edição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To previous edition</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Das edições anteriores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Steve Fanning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Zachary Parliman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Gordon Bates Leo Moons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Feedback</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Comentários e sugestões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: documentation@global.libreoffice.org.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Qualquer comentário ou sugestão sobre este documento pode ser enviado para a lista de documentação brasileira: docs@pt-br.libreoffice.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Toda correspondência enviada para uma lista de e-mails, incluindo seu endereço e qualquer informação pessoal escrita na mensagem, será tornada pública e não pode ser excluída da lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Publication date and software version</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Data de publicação e versão do software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Based on LibreOffice 7.0.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Baseado no LibreOffice 7.0publicado pela The Document Foundation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Revisão 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Notas para usuário Mac Algumas teclas e itens de menu são diferentes em um Mac daqueles usados em Windows e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>A tabela abaixo fornece algumas substituições comuns para as instruções neste capítulo. Para obter uma lista mais detalhada, consulte a Ajuda do aplicativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Windows ou Linux Equivalente Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Efeito Seleção do menu Ferramentas &gt; Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>LibreOffice → Preferências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Acessa as opções de configuração Clique com botão direito do mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Control+clique ou clique no botão direito dependendo da configuração do computador Abre um menu de contexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Ctrl (Control)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>⌘ (Comando)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Utilizada com outras teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Shift+⌘+F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Abre o navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>F11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>⌘+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Abra a janela de Estilos e Formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Who is this book for?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Para quem é este livro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This book is for beginner to advanced users of Calc, the spreadsheet component of LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Este livro é para usuários iniciantes e avançados do Calc, o componente da planilha de trabalho do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may be new to spreadsheet software, or you may be familiar with another program.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Pode-se ser novo no software de planilha de trabalho ou pode estar familiarizado com outro programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have never used LibreOffice before, or you want an introduction to all of its components, you might like to read the Getting Started Guide first.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Se nunca usou o LibreOffice antes, ou deseja uma introdução a todos os seus componentes, pode-se querer ler primeiro o Guia de Introdução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have never used spreadsheets before, you might also like to read a book or find some tutorials about the use of spreadsheets.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Se nunca usou planilhas de trabalho antes, também pode gostar de ler um livro ou encontrar alguns tutoriais sobre o uso de planilhas de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What’s in this book?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O que há neste livro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This book introduces the features and functions of LibreOffice Calc.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Este livro apresenta os recursos e funções do LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is not a tutorial on using spreadsheets.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Não é um tutorial sobre como usar planilhas de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some chapters assume familiarity with basic spreadsheet usage when describing how to use Calc.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Alguns capítulos pressupõem familiaridade com o uso básico de planilhas de trabalho ao descrever como usar o Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can enter data (usually numerical) in a spreadsheet and then manipulate this data to produce certain results.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Pode-se inserir dados (geralmente numéricos) em uma planilha de trabalho e, em seguida, manipular esses dados para produzir certos resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, you can enter data and then use Calc in a ‘What if...’ manner by changing some of the data and observing the results without having to retype all of the data.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Como alternativa, Pode-se inserir dados e, em seguida, usar o Calc de uma maneira 'e se...' alterando alguns dos dados e observando os resultados sem ter que redigitar todos os dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Functions can be used to create formulas to perform complex calculations on data.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>As funções podem ser usadas para criar fórmulas para realizar cálculos complexos nos dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc, list of main features</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>lista das principais caracteristicas Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some of the other features provided by Calc include:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Alguns dos outros recursos fornecidos pelo Calc incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Database functions, to arrange, store, and filter data.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Funções de banco de dados, para organizar, armazenar e filtrar dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data statistics tools, to perform complex data analysis.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Ferramentas de estatísticas de dados, para realizar análises complexas de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dynamic charts: a wide range of 2D and 3D charts.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Gráficos dinâmicos: uma ampla gama de gráficos 2D e 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Macros, for recording and executing repetitive tasks; scripting languages supported include LibreOffice Basic, Python, BeanShell, and JavaScript.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Macros, para registro e execução de tarefas repetitivas; as linguagens de script suportadas incluem LibreOffice Basic, Python, BeanShell e JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ability to open, edit, and save Microsoft Excel and other spreadsheets.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Capacidade de abrir, editar e salvar o Microsoft Excel e outras planilhas de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import of spreadsheets from multiple formats, including HTML, CSV, and Data Interchange Format.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Importação de planilhas de trabalho de vários formatos, incluindo HTML, CSV e Formato de intercâmbio de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Export of spreadsheets into multiple formats, including HTML, CSV, Data Interchange Format, and PDF.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Exportar planilhas de trabalho em vários formatos, incluindo HTML, CSV, Formato de intercâmbio de dados e PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>help, getting</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>obter ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where to get more help</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Onde obter mais ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This book, the other LibreOffice user guides, the built-in Help system, and user support systems assume that you are familiar with your computer and basic functions such as starting a program, opening and saving files.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Este livro, os outros guias do usuário do LibreOffice, o sistema de Ajuda integrado e os sistemas de suporte ao usuário presumem que esteja familiarizado com o seu computador e funções básicas, como iniciar um programa, abrir e salvar arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Help system</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Sistema de ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice comes with an extensive Help system.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O LibreOffice vem com um amplo sistema de Ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is the first line of support for using LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Esta é a primeira linha de suporte para usar o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Windows and Linux users can choose to download and install the offline Help for use when not connected to the Internet; the offline Help is installed with the program on macOS.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Os usuários do Windows e Linux podem escolher baixar e instalar a Ajuda off-line para usar quando não estiverem conectados à Internet; a Ajuda off-line é instalada com o programa no macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To display the Help system, press F1 or select LibreOffice Help from the Help menu (Figure 1).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Para exibir o sistema de Ajuda, pressione F1 ou selecione Ajuda do LibreOffice no menu Ajuda (1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you do not have the offline help installed on your computer and you are connected to the Internet, your default browser will open the online Help pages on the LibreOffice website.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Se não tiver a ajuda off-line instalada em seu computador e estiver conectado à Internet, seu navegador padrão abrirá as páginas de Ajuda on-line no site do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Help menu</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>menu Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Help menu includes links to other LibreOffice information and support facilities.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O menu Ajuda inclui links para outras informações do LibreOffice e recursos de suporte. O menu AjudaO menu Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 1: The Help menu</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Figura 1: O menu Ajuda O menu Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following options indicated by a ‡ symbol are only accessible if your computer is connected to the Internet.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>As opções a seguir indicadas por um símbolo ‡ só podem ser acessadas se o computador estiver conectado à Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tooltips</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>dicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What’s This?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O que é isto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>– For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>- Para dicas rápidas quando uma barra de ferramentas estiver visível, coloque o ponteiro do mouse sobre qualquer um dos ícones para ver uma pequena caixa (“dica”) com uma breve explicação da função do ícone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a more detailed explanation, select Help &gt; What’s This?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Para obter uma explicação mais detalhada, selecione Ajuda &gt; O que é isto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>and hold the pointer over the icon.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>e mantenha o ponteiro sobre o ícone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition, you can choose whether to activate extended tips using Tools &gt; Options &gt; LibreOffice &gt; General &gt; Extended tips.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Além disso, pode-se escolher se deseja ativar as dicas estendidas usando Ferramentas &gt; Opções &gt; LibreOffice &gt; Geral &gt; Dicas estendidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The What’s This?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O que é isso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>facility and extended tips are being improved but in LibreOffice 7.0 this work is incomplete and so they are not fully functional.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>a facilidade e as dicas estendidas estão sendo aprimoradas, mas no LibreOffice 7.0esse trabalho está incompleto e, portanto, não estão totalmente funcionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>User Guides‡ – Opens your default browser at the English Documentation page of the LibreOffice website https://documentation.libreoffice.org/en/english-documentation/.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Guias do usuário ‡ – Abre seu navegador padrão na página de documentação em português do site do LibreOffice https://documentation.libreoffice.org/pt-br/portugues/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There you will find copies of User Guides and other useful information.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Lá se encontrará cópias dos Guias do usuário e outras informações úteis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tip-of-the-Day</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Dica do dia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Tip-of-the-Day – Opens a dialog showing a useful bit of information to help expand your knowledge of LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Mostrar Dica do Dia – Abre uma caixa de diálogo mostrando um pouco de informação útil para ajudar a expandir seu conhecimento do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Get Help Online‡ – Opens your default browser at the Ask LibreOffice forum of questions and answers from the LibreOffice community https://ask.libreoffice.org/en/questions/.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Obter ajuda online ‡ – Abre seu navegador padrão no fórum Ask LibreOffice de perguntas e respostas da comunidade LibreOffice https://ask.libreoffice.org/pt-br/questions/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sending feedback on</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>enviando comentários sobre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send Feedback‡ – Opens your default browser at the Feedback page of the LibreOffice website https://www.libreoffice.org/get-help/feedback/.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Enviar comentários ‡ – abre seu navegador padrão na página de comentários do site do LibreOffice https://pt-br.libreoffice.org/ajuda/feedback/?LOversion=7.0.3.1&amp;LOlocale=pt-BR&amp;LOmodule=TextDocument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From there you can report bugs, suggest new features, and communicate with others in the LibreOffice community.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Lá pode-se relatar bugs, sugerir novos recursos e se comunicar com outras pessoas na comunidade do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>restarting with default settings LibreOffice</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>reiniciar o LibreOffice com as configurações padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>restarting LibreOffice with default settings</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>reiniciando com as configurações padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Restart in Safe Mode – Opens a dialog where you will have the option to restart LibreOffice and reset the software to its default settings.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Consertar o LibreOffice – abre uma caixa de diálogo onde se tem a opção de reiniciar o LibreOffice e redefinir o software para as configurações padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Get Involved‡ – Opens your default browser at the Get Involved page of the LibreOffice website https://www.libreoffice.org/community/get-involved/.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Participar ‡ – abre seu navegador padrão na página Participe no site do LibreOffice https://pt-br.libreoffice.org/comunidade/participe/?pk_campaign=hub.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There you can find out how you can help us make LibreOffice even better!</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Lá se pode descobrir como pode nos ajudar a tornar o LibreOffice ainda melhor!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Donate to LibreOffice‡ – Opens your default browser at the Donation page of the LibreOffice website https://donate.libreoffice.org/.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Doação ao projeto LibreOffice ‡ - abre seu navegador padrão na página de doações do site do LibreOffice https://pt-br.libreoffice.org/donate/?pk_campaign=hub&amp;pk_kwd=program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There you can choose to make a donation to support LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Lá pode-se escolher fazer uma doação para apoiar o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>License Information – Opens a dialog outlining the licenses under which LibreOffice is made available.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Informações sobre a licença – abre uma caixa de diálogo que descreve as licenças sob as quais o LibreOffice é disponibilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>updating LibreOffice software</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>atualizando o software LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Check for Updates‡ – Opens a dialog and checks the LibreOffice website for updates to your version of the software.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Verificar atualizações ‡ - abre uma caixa de diálogo e verifica o site do LibreOffice em busca de atualizações para a sua versão do software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About LibreOffice – Opens a dialog, which displays information about the version of LibreOffice and the operating system you are using.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Sobre o LibreOffice – abre uma caixa de diálogo, que exibe informações sobre a versão do LibreOffice e o sistema operacional que se está usando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This information will often be requested if you ask the community for help or assistance with the software.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Frequentemente, essas informações serão solicitadas se solicitar à comunidade ajuda ou assistência com o software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A button is provided to enable you to copy this information to the clipboard so that you can subsequently paste it into a forum post, an email, or a bug report.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Um botão é fornecido para permitir que se copie essas informações para a área de transferência para que possa posteriormente colá-las em uma postagem do fórum, um e-mail ou um relatório de bug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other free online support</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Outro suporte online gratuito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The LibreOffice community not only develops software, but provides free, volunteer-based support.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>A comunidade do LibreOffice não apenas desenvolve software, mas também oferece suporte gratuito e voluntário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition to the Help menu links above, there are other online community support options available, see Table 1.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Além dos links do menu Ajuda acima, existem outras opções de suporte da comunidade online disponíveis, consulte a 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table 1: Free LibreOffice support</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Tabela 1: Suporte gratuito do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Answers to frequently asked questionshttps://wiki.documentfoundation.org/Faq</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Respostas para perguntas frequenteshttps://pt-br.libreoffice.org/ajuda/faq/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Listas de mala direta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free community support is provided by a network of experienced usershttps://www.libreoffice.org/get-help/mailing-lists/</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O suporte gratuito da comunidade é fornecido por uma rede de usuários experienteshttps://www.libreoffice.org/get-help/mailing-lists/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Questions &amp; Answers and Knowledge Base</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Perguntas e Respostas e Base de Conhecimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free community assistance is provided in a question and answer formatted web service.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>A assistência gratuita da comunidade é fornecida em um serviço da web formatado de perguntas e respostas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search similar topics or open a new one in https://ask.libreoffice.org/en/questions.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Pesquise tópicos semelhantes ou abra um novo emhttps://ask.libreoffice.org/en/questions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The service is available in several other languages; just replace /en/ with de, es, fr, ja, ko, nl, pt, tr, and many others in the web address above.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O serviço está disponível em vários outros idiomas; apenas substitua / en / por de, es, fr, ja, ko, nl, pt, pt-br tr e muitos outros no endereço da web acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Native language support</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Suporte ao idioma nativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The LibreOffice website in various languageshttps://www.libreoffice.org/community/nlc/</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O site do LibreOffice em vários idiomashttps://www.libreoffice.org/community/nlc/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mailing lists for native languageshttps://wiki.documentfoundation.org/Local_Mailing_Lists</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Listas de mala direta para idiomas nativoshttps://wiki.documentfoundation.org/Local_Mailing_Lists</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information about social networkinghttps://wiki.documentfoundation.org/Website/Web_Sites_services</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Informações sobre redes sociaishttps://wiki.documentfoundation.org/Website/Web_Sites_services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Accessibility options</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Opções de acessibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information about available accessibility options https://www.libreoffice.org/get-help/accessibility/</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Informações sobre as opções de acessibilidade disponíveishttps://pt-br.libreoffice.org/ajuda/acessibilidade/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenOffice Forum</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Fórum OpenOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Another forum that provides support for LibreOffice, among other open source office suites https://forum.openoffice.org/en/forum/</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Outro fórum que fornece suporte para LibreOffice, entre outros pacotes de escritório de código aberto https://forum.openoffice.org/en/forum/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Paid support and training</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Suporte pago e treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Também pode-se pagar pelo suporte por meio de contratos de serviço de um fornecedor ou empresa de consultoria especializada em LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For information about certified professional support, see The Document Foundation’s website: https://www.documentfoundation.org/gethelp/support/.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Para obter informações sobre suporte profissional certificado, consulte o site da The Document Foundation: https://pt-br.libreoffice.org/ajuda/suporte-profissional/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What you see may be different</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O que se vê pode ser diferente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Illustrations</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Ilustrações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>illustrations, appearance of</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>ilustrações, aparência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice runs on Windows, Linux, and macOS operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O LibreOffice é executado nos sistemas operacionais Windows, Linux e macOS, cada um dos quais possui várias versões e pode ser personalizado pelos usuários (fontes, cores, temas, gerenciadores de janela).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>As ilustrações neste guia foram tiradas de vários computadores e sistemas operacionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Therefore, some illustrations will not look exactly like what you see on your computer display.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Portanto, algumas ilustrações não serão exatamente iguais ao que se vê na tela do computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dialogs, choosing LibreOffice or operating system</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>caixas de diálogo, escolhendo LibreOffice ou sistema operacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Além disso, algumas das caixas de diálogo podem ser diferentes por causa das configurações selecionadas no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can either use dialogs from your computer’s operating system or from LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Pode-se usar caixas de diálogo do sistema operacional do seu computador ou do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The differences affect mainly Open, Save, and Print dialogs.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>As diferenças afetam principalmente as caixas de diálogo Abrir, Salvar e Imprimir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change which dialogs are used, go to Tools &gt; Options &gt; LibreOffice &gt; General and select or deselect the option Use LibreOffice dialogs.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Para alterar quais caixas de diálogo são usadas, vá em Ferramentas &gt; Opções &gt; LibreOffice&gt; Geral e selecione ou desmarque a opção Utilizar as caixas de diálogo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>icon sets</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>conjuntos de ícones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Icons</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Ícones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The LibreOffice community has created icons for several icon sets: Colibre , Breeze, Breeze Dark, Elementary, Karasa Jaga, Sifr, Sifr Dark, and Sukapura.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>A comunidade LibreOffice criou ícones para vários conjuntos de ícones: Colibre, Breeze, Breeze (dark), Elementary, Karasa Jaga, Sifr, Sifr (dark) e Sukapura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each user can select a preferred set.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Cada usuário pode selecionar um conjunto preferido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The icons in this guide have been taken from a variety of LibreOffice installations that use different sets of icons.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Os ícones neste guia foram retirados de uma variedade de instalações do LibreOffice que usam diferentes conjuntos de ícones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The icons for some of the many tools available in LibreOffice may then differ from the ones used in this guide.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Os ícones de algumas das muitas ferramentas disponíveis no LibreOffice podem ser diferentes daqueles usados neste guia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the icon set used, go to Tools &gt; Options &gt; LibreOffice &gt; View.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Para alterar o conjunto de ícones usado, vá em Ferramentas &gt; Opções &gt; LibreOffice &gt; Exibir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose from the drop-down lists under Icon style and Icon size.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Escolha nas listas suspensas em Estilo dos ícones e Tamanho dos ícones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Oxygen icon set</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>conjunto de ícones Oxygen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>legacy Gallery backgrounds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Galaxy, Oxygen, and Tango icon sets are no longer included as part of the standard installation package.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Os conjuntos de ícones Galaxy, Oxygen e Tango não estão mais incluídos como parte do pacote de instalação padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They can be added back by downloading and installing the following extensions:https://extensions.libreoffice.org/extensions/galaxy-icon-themehttps://extensions.libreoffice.org/extensions/oxygen-icon-themehttps://extensions.libreoffice.org/en/extensions/show/tango-icon-theme-for-libreofficeSome of the previously included gallery backgrounds are now only available as an extension from:https://extensions.libreoffice.org/extensions/legacy-gallery-backgrounds</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Eles podem ser adicionados novamente baixando e instalando as seguintes extensões:https://extensions.libreoffice.org/extensions/galaxy-icon-themehttps://extensions.libreoffice.org/extensions/oxygen-icon-themehttps://extensions.libreoffice.org/en/extensions/show/tango-icon-theme-for-libreofficeAlguns dos planos de fundo da galeria, incluídos anteriormente agora estão disponíveis apenas como uma extensão de:https://extensions.libreoffice.org/extensions/legacy-gallery-backgrounds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>using LibreOffice on</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>usando o LibreOffice no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using LibreOffice on macOS</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Usando o LibreOffice no macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some keystrokes and menu items are different on macOS from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Alguns pressionamentos de tecla e itens de menu são diferentes no macOS daqueles usados no Windows e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table 2gives some common substitutions for the instructions in this book.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>A 2fornece algumas substituições comuns para as instruções neste livro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a more detailed list, see the application Help and Appendix A, Keyboard Shortcuts, to this guide.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Para uma lista mais detalhada, consulte a Ajuda do aplicativo e o Apêndice A, Atalhos de teclado, deste guia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table 2: Example keystrokes for different environments</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Tabela 2: Exemplos de teclas para diferentes ambientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Windows or Linux</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Windows ou Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>macOS equivalent</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Equivalente macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Efeito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools &gt; Options menu selection</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Seleção do menu Ferramentas &gt; Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice &gt; Preferences</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>LibreOffice &gt; Preferencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Access setup options</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Acessa as opções de configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Clique com o botão direito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Control+click and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Control + clique e / ou clique com o botão direito dependendo da configuração do computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open a context menu</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Abre um menu de contexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Used with other keys</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Usado com outras teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exit / quit LibreOffice</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Sair / Sair do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the Sidebar’s Styles deck</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Abra a área de estilos da barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What are all these things called?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Como todas essas coisas são chamadas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The terms used in LibreOffice for most parts of the user interface (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Os termos usados no LibreOffice para a maioria das partes da interface do usuário (as partes do programa que se vê e usa, em contraste com o código dos bastidores que realmente o faz funcionar) são os mesmos da maioria dos outros programas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dialogs, recognizing common controls</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>diálogos, reconhecendo controles comuns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A dialog is a special type of window.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Uma caixa de diálogo é um tipo especial de janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Its purpose is to inform you of something, or request input from you, or both.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Seu objetivo é informá-lo sobre algo ou solicitar sua opinião, ou ambos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It provides controls to use to specify how to carry out an action.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Ele fornece controles a serem usados para especificar como realizar uma ação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The technical names for common controls are shown in Figure 2.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Os nomes técnicos dos controles comuns são mostrados na 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In most cases the technical terms are not used in this book, but it is useful to know them because the Help and other sources of information often use them.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Na maioria dos casos, os termos técnicos não são usados neste livro, mas é útil conhecê-los porque a Ajuda e outras fontes de informação costumam usá-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Na maioria dos casos, pode-se interagir apenas com a caixa de diálogo (não com o documento em si), desde que a caixa de diálogo permaneça aberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you close the dialog after use (usually, clicking OK or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Quando se fecha a caixa de diálogo após o uso (geralmente, clicando em OK ou outro botão salva suas alterações e fecha a caixa de diálogo), então pode-se trabalhar novamente com o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some dialogs can be left open as you work, so you can switch back and forth between the dialog and your document.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Algumas caixas de diálogo podem ser deixadas abertas enquanto se trabalha, para que se possa alternar entre a caixa de diálogo e o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An example of this type is the Find and Replace dialog.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Um exemplo desse tipo, é a caixa de diálogo Localizar e substituir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure 2: Dialog showing common controls</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Figura 2: Caixa de diálogo mostrando controles comuns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tabbed page (not strictly speaking a control).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Página com abas (não estritamente falando um controle).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Radio buttons (only one can be selected at a time).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Botões de rádio (apenas um pode ser selecionado por vez).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Checkbox (more than one can be selected at a time).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Caixa de seleção (mais de uma pode ser selecionada por vez).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spin box (click the up and down arrows to change the number shown in the text box next to it, or type in the text box).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Caixa de rotação (clique nas setas para cima e para baixo para alterar o número mostrado na caixa de texto ao lado dela ou digite na caixa de texto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thumbnail or preview.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Miniatura ou visualização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drop-down list from which to select an item.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Lista suspensa na qual selecionar um item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Push buttons.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Botões de pressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FAQs (frequently asked questions)</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>FAQs (perguntas frequentes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Frequently asked questions</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Perguntas frequentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>licensing of</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>licensa do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How is LibreOffice Licensed?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Como o LibreOffice é licenciado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice is distributed under the Open Source Initiative (OSI) approved Mozilla Public License (MPL).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O LibreOffice é distribuído sob a Licença Pública Mozilla (MPL) aprovada pela Open Source Initiative (OSI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See https://www.libreoffice.org/about-us/licenses/.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Consulte https://pt-br.libreoffice.org/sobre-nos/licencas/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is based on code from Apache OpenOffice made available under the Apache License 2.0 but also includes software that differs from version to version under a variety of other Open Source licenses.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>É baseado no código do Apache OpenOffice disponibilizado sob a licença Apache 2.0, mas também inclui software que difere de versão para versão sob uma variedade de outras licenças de código-fonte aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New code is available under GNU Lesser General Public License (LGPL) 3.0 and MPL 2.0.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O novo código está disponível sob a GNU Lesser General Public License (LGPL) 3.0 e MPL 2.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>May I distribute LibreOffice to anyone?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Posso distribuir o LibreOffice para qualquer pessoa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>May I sell it?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Posso comercializá-lo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>May I use it in my business?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Posso usá-lo no meu negócio?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Sim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How many computers may I install it on?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Em quantos computadores posso instalá-lo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As many as you like.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Quantos quiser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Is LibreOffice available in my language?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O LibreOffice está disponível no meu idioma?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice has been translated (localized) into over 40 languages, so your language is probably supported.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O LibreOffice foi traduzido (localizado) em mais de 40 idiomas, então provavelmente seu idioma é compatível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Additionally, there are over 70 spelling, hyphenation, and thesaurus dictionaries available for languages, and dialects that do not have a localized program interface.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Além disso, existem mais de 70 dicionários de ortografia, hifenização e dicionário de sinônimos disponíveis para idiomas e dialetos que não têm uma interface de programa localizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The dictionaries are available by selecting the Dictionary tag filter from the LibreOffice Extension Center https://extensions.libreoffice.org/.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Os dicionários estão disponíveis selecionando o filtro de tag do Dicionário no LibreOffice Extension Center https://extensions.libreoffice.org .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How can you make it for free?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Como pode-se fazer isso de graça?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice is developed and maintained by volunteers and has the backing of several organizations.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O LibreOffice é desenvolvido e mantido por voluntários e tem o apoio de várias organizações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I am writing a software application.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Estou escrevendo um aplicativo de software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>May I use programming code from LibreOffice in my program?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Posso usar o código de programação do LibreOffice em meu programa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may, within the parameters set out in the licenses: https://www.mozilla.org/MPL/2.0/ https://www.libreoffice.org/about-us/licenses/.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Pode-se, dentro dos parâmetros definidos nas licenças: https://www.mozilla.org/MPL/2.0/ https://pt-br.libreoffice.org/sobre-nos/licencas/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Why do I need Java to run LibreOffice?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Por que preciso do Java para executar o LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Is it written in Java?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Está escrito em Java?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice is not written in Java; it is mostly written in the C++ language.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>LibreOffice não foi escrito em Java; é principalmente escrito na linguagem C ++.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Java is one of several languages that can be used to extend the software.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Java é uma das várias linguagens que podem ser usadas para estender o software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Java JRE (Java Runtime Environment) is only required for some features.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O Java JRE (Java Runtime Environment) é necessário apenas para alguns recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The most notable one is the HSQLDB relational database engine used by the Base component of LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O mais notável é o mecanismo de banco de dados relacional HSQLDB usado pelo componente Base do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For Calc, Java is needed to run some of the solver engines described in Chapter 9, Data Analysis.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Para Calc, o Java é necessário para executar alguns dos mecanismos do solver descritos no Capítulo 9, Análise de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Java is available at no cost.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Java está disponível gratuitamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More information and download links to the appropriate edition for your operating system can be found at: https://java.com/en/download/manual.jsp.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Mais informações e links de download para a edição apropriada para seu sistema operacional podem ser encontrados em: ttps://java.com/en/download/manual.jsp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you want to use LibreOffice features that require Java it is important that the correct 32 bit or 64 bit edition matches the installed version of LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Se deseja usar os recursos do LibreOffice que requerem Java, é importante que a edição correta de 32 ou 64 bits corresponda à versão instalada do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How can I contribute to LibreOffice?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Como posso contribuir para o LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can help with the development and user support of LibreOffice in many ways, and you do not need to be a programmer.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Pode-se ajudar com o desenvolvimento e suporte ao usuário do LibreOffice de várias maneiras, e não precisa ser um programador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To start, check out this webpage: https://www.libreoffice.org/community/get-involved/.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Para começar, verifique esta página da web: https://pt-br.libreoffice.org/comunidade/participe/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>May I distribute the PDF of this book, or print and sell copies?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Posso distribuir o PDF deste livro ou imprimir e comercializar cópias?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes, as long as you meet the requirements of one of the licenses in the copyright statement at the beginning of this book.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Sim, desde que atenda aos requisitos de uma das licenças na declaração de direitos autorais no início deste livro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You do not have to request special permission.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Não se precisa solicitar permissão especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Solicitamos que compartilhe com o projeto alguns dos lucros que obtém com a venda de livros, em consideração a todo o trabalho que investimos na sua produção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Donate to LibreOffice: https://www.libreoffice.org/donate/.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Doe para o LibreOffice: https://pt-br.libreoffice.org/donate/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc, new features in this version</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>novos recursos nessa versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What’s new in LibreOffice Calc 7.0?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>O que há de novo no LibreOffice Calc 7.0?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The LibreOffice 7.0 Release Notes are here:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>As notas de versão do LibreOffice 7.0estão aqui:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A link to this page is also provided on the About LibreOffice dialog, accessed by clicking Help &gt; About LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20240321T170013Z">
+        <seg>Um link para esta página também é fornecido na caixa de diálogo Sobre o LibreOffice, acessada clicando em Ajuda &gt; Sobre o LibreOffice.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
