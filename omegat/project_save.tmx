@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;https://wiki.documentfoundation.org/Faq&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T161804Z" creationid="olivier-tdf" creationdate="20241231T161804Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;https://wiki.documentfoundation.org/Faq&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;Also &lt;f1&gt;Extended Tips&lt;/f1&gt; can be activated by going to &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f2&gt; (macOS &lt;f3&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; General&lt;/f3&gt;) on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T150502Z" creationid="olivier-tdf" creationdate="20241231T150502Z">
         <seg>&lt;/f0&gt;Para ativar ou desativar as &lt;f1&gt;dicas estendidas&lt;/f1&gt; vá em &lt;f2&gt;Ferramentas &gt; Opções &gt; LibreOffice&gt; Geral&lt;/f2&gt; (macOS &lt;f3&gt;LibreOffice &gt; Preferências &gt; LibreOffice &gt; Geral&lt;/f3&gt;) na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;a1&gt;https://www.libreoffice.org/get-help/mailing-lists/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T161855Z" creationid="olivier-tdf" creationdate="20241231T161855Z">
+        <seg>&lt;a1&gt;https://www.libreoffice.org/get-help/mailing-lists/&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T215554Z" creationid="tdf" creationdate="20241226T215554Z">
         <seg>Amanda Labby, Andrew Jensen, Cathy Crumbley, Dan Lewis, Dave Barton, Jean Hollis Weber, Jorge Rodriguez, Kees Kriek ,Leo Moons, Olivier Hallot, Paul Figueiredo, Peter, &lt;f0&gt;S&lt;/f0&gt;chofield, Simon Quigley, Steve Fanning, Valerii Goncharuk, Vlada Savitskaya, Rob Thornton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Answers to frequently asked questions&lt;f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T161753Z" creationid="olivier-tdf" creationdate="20241231T161730Z">
+        <seg>Respostas a perguntas frequentes</seg>
       </tuv>
     </tu>
     <tu>
@@ -720,8 +744,8 @@
       <tuv lang="en-US">
         <seg>FAQs</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T161651Z" creationid="olivier-tdf" creationdate="20241231T161651Z">
-        <seg>FAQs</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T161735Z" creationid="olivier-tdf" creationdate="20241231T161651Z">
+        <seg>FAQs (perguntas frequentes)</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241228T194842Z" creationid="olivier-tdf" creationdate="20241228T194842Z">
         <seg>Fórmulas podem ser salvas no formato padrão MathML (Mathematical Markup Language) para ser incluído  em páginas web e outros documentos criados pelo LibreOffice. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Free community support is provided by a network of experienced users&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T161837Z" creationid="olivier-tdf" creationdate="20241231T161837Z">
+        <seg>O suporte gratuito da comunidade é fornecido por uma rede de usuários experientes&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,6 +1338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241227T011520Z" creationid="tdf" creationdate="20241227T011520Z">
         <seg>Macros, para registro e execução de tarefas repetitivas; as linguagens de script suportadas incluem LibreOffice Basic, Python, BeanShell e JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T161813Z" creationid="olivier-tdf" creationdate="20241231T161813Z">
+        <seg>Listas de discussão</seg>
       </tuv>
     </tu>
     <tu>
@@ -2274,6 +2314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241227T011206Z" creationid="tdf" creationdate="20241227T011206Z">
         <seg>seleção de menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍&lt;f0&gt;Community Forum&lt;/f0&gt;&lt;f1&gt;s&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T161911Z" creationid="olivier-tdf" creationdate="20241231T161911Z">
+        <seg>Fórum da comunidade</seg>
       </tuv>
     </tu>
     <tu>
