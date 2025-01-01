@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An example of this type is the Find &amp; Replace dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T203108Z" creationid="olivier-tdf" creationdate="20250101T203108Z">
+        <seg>Um exemplo desse tipo, é a caixa de diálogo Localizar e substituir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Another forum that provides support for LibreOffice, among other open source office suites.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T190814Z" creationid="olivier-tdf" creationdate="20250101T190814Z">
@@ -630,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Checkbox (more than one can be selected at a time)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202955Z" creationid="olivier-tdf" creationdate="20250101T202955Z">
+        <seg>Caixa de seleção (mais de uma pode ser selecionada por vez).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose a topic of interest to help improve the program.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T152411Z" creationid="olivier-tdf" creationdate="20241231T152411Z">
@@ -826,6 +842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241228T193255Z" creationid="olivier-tdf" creationdate="20241228T193255Z">
         <seg>O Draw é a ferramenta de desenho vetorial que pode produzir tudo desde diagramas simples, fluxogramas, ou arte em 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop-down list from which to select an item.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T203027Z" creationid="olivier-tdf" creationdate="20250101T203027Z">
+        <seg>Lista suspensa na qual selecionar um item.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,6 +1418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202744Z" creationid="olivier-tdf" creationdate="20250101T202744Z">
         <seg>Na maioria dos casos, os termos técnicos não são usados neste guia de usuário, mas é útil conhecê-los porque a Ajuda e outras fontes de informação costumam usá-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T203035Z" creationid="olivier-tdf" creationdate="20250101T203035Z">
+        <seg>Na maioria dos casos, pode-se interagir apenas com a caixa de diálogo (não com o documento em si), desde que a caixa de diálogo permaneça aberta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Push buttons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T203031Z" creationid="olivier-tdf" creationdate="20250101T203031Z">
+        <seg>Botões de pressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Questions &amp; Answers and &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T190245Z" creationid="olivier-tdf" creationdate="20250101T190245Z">
@@ -2310,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some dialogs can be left open as you work, so you can switch back and forth between the dialog and the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T203100Z" creationid="olivier-tdf" creationdate="20250101T203100Z">
+        <seg>Algumas caixas de diálogo podem ser deixadas abertas enquanto se trabalha, para que se possa alternar entre a caixa de diálogo e o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some keystrokes and menu items are different on macOS from those used in Windows and Linux.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241227T011029Z" creationid="tdf" creationdate="20241227T011029Z">
@@ -2330,6 +2378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T144622Z" creationid="olivier-tdf" creationdate="20241231T144622Z">
         <seg>Algumas configurações são destinadas a usuários avançados e desenvolvedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spin box (click the up and down arrows to change the number shown in the adjacent text box, or type in the text box).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T203019Z" creationid="olivier-tdf" creationdate="20250101T203019Z">
+        <seg>Contador (clique nas setas para cima e para baixo para alterar o número mostrado na caixa de texto ao lado dela ou digite na caixa de texto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,10 +2678,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This user guide was written by volunteers from the LibreOffice community.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T203206Z" creationid="olivier-tdf" creationdate="20250101T203206Z">
+        <seg>Este guia de usuário foi escrito por voluntários da comunidade LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This user guide, the LibreOffice module user guides, Help system, and user support systems assume that users are familiar with computers and basic functions such as starting a program, opening and saving files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T145522Z" creationid="olivier-tdf" creationdate="20241231T145522Z">
         <seg>Este guia de usuário, os outros guias do usuário do LibreOffice, o sistema de Ajuda integrado e os sistemas de suporte ao usuário presumem que esteja familiarizado com o seu computador e funções básicas, como iniciar um programa, abrir e salvar arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thumbnail or preview.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T203023Z" creationid="olivier-tdf" creationdate="20250101T203023Z">
+        <seg>Miniatura ou visualização.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,6 +2862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you close the dialog after use (usually, clicking OK or another button saves your changes and closes the dialog), then you can again work with the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T203055Z" creationid="olivier-tdf" creationdate="20250101T203055Z">
+        <seg>Quando se fecha a caixa de diálogo após o uso (geralmente, clicando em OK ou outro botão salva suas alterações e fecha a caixa de diálogo), então pode-se trabalhar novamente com o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Where to get more help</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T145443Z" creationid="olivier-tdf" creationdate="20241231T145443Z">
@@ -2810,6 +2890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241228T185647Z" creationid="tdf" creationdate="20241226T225817Z">
         <seg>A quem se destina este livro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who wrote this user guide?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T203137Z" creationid="olivier-tdf" creationdate="20250101T203137Z">
+        <seg>Quem escreveu este guia de usuário?</seg>
       </tuv>
     </tu>
     <tu>
