@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+
+  <header adminlang="en" srclang="en">
+
+</header>
+<body>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Table</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Tabela</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Search Key</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Chave de pesquisa</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Help</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ajuda</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Activate link</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ativar link</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Multiline Editing</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Edição multilinha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Spin Button</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Contador</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>To incorporate the address data in your templates, %PRODUCTNAME has to know which fields contain which data.
+
+For instance, you could have stored the email addresses in a field named &quot;email&quot;, or &quot;E-mail&quot; or &quot;EM&quot; - or something completely different.
+
+Click the button below to open another dialog where you can enter the settings for your data source.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Para incorporar os dados de endereços aos seus modelos, o %PRODUCTNAME precisa saber quais campos contêm quais dados.
+
+Por exemplo, você pode ter armazenado os endereços de e-mail num campo &quot;e-mail&quot;, &quot;E-mail&quot; ou &quot;EM&quot; (ou mesmo em um campo completamente diferente).
+
+Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode inserir as configurações para sua fonte de dados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Table Element</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Elemento de tabela</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Scan Area</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Área de digitalização</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>List Box</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Caixa de lista</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>List Box Wizard</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Assistente de caixas de lista</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The contents of the selected field will be shown in the list box if the linked fields are identical.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Se os campos vinculados forem idênticos, o conteúdo do campo selecionado será mostrado na caixa de lista.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>File Selection</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Seleção de arquivo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Image Button</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Botão de imagem</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Image Control</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Controle de imagem</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specifies a location for the address book file and a name under which the data source will be listed in the data source explorer.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica um local para o arquivo de catálogo de endereços e um nome com o qual a fonte de dados será listada no explorador da fonte de dados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Registers the newly created database file in %PRODUCTNAME. The database will then be listed in the Data sources pane (Ctrl+Shift+F4). If this check box is cleared, the database will be available only by opening the database file.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Registra o banco de dados recém-criado no %PRODUCTNAME. O banco de dados será listado no painel de Fonte de dados (Ctrl+Shift+F4). Se esta caixa estiver desmarcada, o banco de dados só estará disponível ao abrir o arquivo do banco de dados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select this option if you already use an address book in KDE Address book (KAddressBook).</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione esta opção se você já usa um catálogo de endereços no KDE Address Book (KAddressBook).</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Local copy</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cópia local</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Browse...</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Procurar...</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Page</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Página</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Brochures</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Livretos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Displays a popup window with information obtained from the scanner driver.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibe uma janela pop-up com informações obtidas do driver do scanner.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Scans and displays the document in the preview area.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Digitaliza e exibe o documento na área de visualização.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Scans an image, and then inserts the result into the document and closes the dialog.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Digitaliza uma imagem e, a seguir, insere o resultado no documento e fecha a caixa de diálogo.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Set the top margin of the scan area.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Digitaliza uma imagem e, a seguir, insere o resultado no documento e fecha a caixa de diálogo.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Set the right margin of the scan area.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define a margem direita da área de digitalização.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Set the bottom margin of the scan area.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define a margem inferior da área de digitalização.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Set the left margin of the scan area.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define a margem esquerda da área de digitalização.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Displays a preview of the scanned image. The preview area contains eight handles. Drag the handles to adjust the scan area or enter a value in the corresponding margin spin box.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibe uma visualização da imagem digitalizada. A área de visualização contém oito alças. Arraste as alças para ajustar a área de digitalização ou insira um valor no contador da margem correspondente.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Displays a list of available scanners detected in your system.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibe uma lista de scanners disponíveis detectados em seu sistema.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the resolution in dots per inch for the scan job.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a resolução em pontos por polegada para o trabalho de digitalização.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Mark this checkbox to display more configuration options for the scanner device.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque esta caixa de seleção para exibir mais opções de configuração para o dispositivo de scanner.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Displays the list of available scanner driver advanced options. Double click an option to display its contents just below.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibe a lista de opções avançadas disponíveis do driver de scanner. Clique duas vezes em uma opção para exibir seu conteúdo logo abaixo.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>macOS address book</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Livro de endereços do macOS</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Open document/web page</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Abrir documento/página da internet</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Registers the newly created database file in the office suite. The database will then be listed in the Data sources pane (Ctrl+Shift+F4). If this check box is cleared, the database will be available only by opening the database file.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Registra o banco de dados recém-criado na suíte. O banco de dados será listado no painel de Fonte de dados (Ctrl+Shift+F4). Se esta caixa estiver desmarcada, o banco de dados só estará disponível ao abrir o arquivo do banco de dados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specifies the table that is to serve as the address book for the office suite templates.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica a tabela que servirá como catálogo de endereços para os modelos da suíte.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specifies a table from the Seamonkey / Netscape address book source that is used as the address book in the office suite.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica uma tabela do livro de endereços do Seamonkey / Netscape que será utilizada como livro de endereços na suíte.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select this option if you want to register another data source as address book in the office suite.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione esta opção se você deseja registrar outra fonte de dados como catálogo de endereços na suíte.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select this option if you want to register another data source as address book in the office suite.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione esta opção se deseja registrar outra fonte de dados como catálogo de endereços na suíte.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>This wizard registers an existing address book as a data source in the office suite.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Esse Assistente registra um catálogo de endereços existente como uma fonte de dados na suíte.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Active selection text color</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cor do texto da seleção ativa</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Check the “No assignment” box to remove the link between a control and the assigned label field.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque a caixa &quot;Sem atribuição&quot; para remover o vínculo entre um controle e o campo de rótulo atribuído a ele.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specifies the source for the label of the control.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica a origem para o rótulo do controle.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Registers the newly created database file in the office suite. The database will then be listed in the Data sources pane (Ctrl+Shift+F4). If this check box is cleared, the database will be available only by opening the database file.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Registra o banco de dados recém-criado na suíte. O banco de dados será listado na janela Fonte de dados (Ctrl+Shift+F4). Se esta caixa estiver desmarcada, o banco de dados só estará disponível ao abrir o arquivo do banco de dados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Spin Button</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Botão contador</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Displays a preview of the scanned image. The preview area contains eight handles. Drag the handles to adjust the scan area or enter a value in the corresponding margin spin box.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibe uma visualização da imagem digitalizada. A área de visualização contém oito alças. Arraste as alças para ajustar a área de digitalização ou insira um valor no botão contador da margem correspondente.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Table Control</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Controle de tabela</seg>
+</tuv>
+</tu>
+
+</body>
+</tmx>

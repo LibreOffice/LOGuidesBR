@@ -1,0 +1,8364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+
+  <header adminlang="en" srclang="en">
+
+</header>
+<body>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Default Cell Style</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Estilo padrão de célula</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Default Page Style</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Estilo padrão de página</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is duplicate</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>é duplicado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is not duplicate</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>não é duplicado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is in top N elements</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>os primeiros N elementos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is in bottom N elements</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>os últimos N elementos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is in top N percent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>os primeiros N porcento</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is in bottom N percent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>os últimos N porcento</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is above average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>acima da média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is below average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>abaixo da média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is above or equal average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>acima ou igual à média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is below or equal average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>abaixo ou igual à média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is error</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>é erro</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is not error</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>não é erro</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>begins with</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>começa com</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>ends with</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>termina com</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>contains</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>contém</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>does not contain</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>não contém</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Cell value</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor da célula</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is in bottom percent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>nos menores percentuais</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is an error code</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>é um código de erro</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is not an error code</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>não é um código de erro</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is equal to</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>é igual a</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is less than</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>é menor do que</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is greater than</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>é maior do que</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is less than or equal to</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>é menor ou igual a</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is greater than or equal to</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>é maior ou igual a</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is not equal to</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>diferente de</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is between</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>está entre</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is not between</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>não está entre</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is unique</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>é único</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is in top elements</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>nos  primeiros elementos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is in bottom elements</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>nos últimos elementos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is in top percent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>nos maiores percentuais</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>~Home</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>~Home</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Layout</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Leiaute</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Statistics</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>E_statísticas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Ima_ge</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fi_gura</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Object</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Objeto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>E_xtension</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>E_xtensão</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>E~xtension</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>E~xtensão</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>~Tools</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ferramen~tas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Returns a random number between 0 and 1, non-volatile.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Retorna um número aleatório não volátil, entre 0 e 1.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Returns a random integer between the numbers you specify, non-volatile.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Retorna um inteiro aleatório não volátil entre os números especificados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Bottom</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Inferior</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The smallest integer returned.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O menor inteiro retornado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Top</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Superior</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The largest integer returned.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O maior inteiro retornado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Fraction</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fração</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Category</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Categoria</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select a category of contents.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione uma categoria de conteúdos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>General</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Geral</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Number</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Número</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Percent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Percentagem</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Currency</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Moeda</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Date </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Data </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Time</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Hora</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Scientific</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Científico</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Boolean Value</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor lógico</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Text</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Texto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Display</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibir</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Drag Mode</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Modo de arrastar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Insert as Hyperlink</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Inserir como hiperlink</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Insert as Link</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Inserir como link</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Insert as Copy</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Inserir como cópia</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Bookmark</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marca-página</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Values Only</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Somente valores</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Values &amp; Formats</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valores e formatos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Run immediately</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Executar imediatamente</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>All</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Tudo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Numbers</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Números</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Date &amp; time</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Datas e horas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Formats</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Formatos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Objects</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Objetos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Formulas</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fórmulas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Comments</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Anotações</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Don&#x27;t shift</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Não deslocar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Down</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Para baixo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Transpose</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Transpor</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Right</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Para a direita</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>As Link</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Como vínculo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Skip empty cells</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ignorar células vazias</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>None</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Nada</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Subtract</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Subtrair</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Multiply</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Multiplicar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Divide</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Dividir</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Highlighting</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Realce</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Input range:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalo de entrada:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Output range:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalo de saída:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Data</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Dados</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Series:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Série</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Insert Sparkline Group</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Inserir grupo de minigráficos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Delete Sparkline</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Excluir minigráfico</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sparkline Dialog</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Minigráfico</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Negative Points:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valores negativos:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Low Points:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valores mínimos:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>High Points:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valores máximos:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Marker:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marcador:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>First Points:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Primeiros valores:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Last Points:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Últimos valores:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Type:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Tipo:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Line</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Linha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Column</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Colunas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Stacked</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Empilhado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Properties</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Propriedades</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Enable very large spreadsheets (16m rows, 16384 cols)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>P_ermitir planilhas muito extensas (16M linhas , 16 384 colunas)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Text orientation angle</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ângulo de orientação do texto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shrink to fit cell: On</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ajustar à célula: Ativado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shrink to fit cell: Off</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ajustar à célula: Inativo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Vertically stacked: On</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Pilha vertical: Ativa</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Vertically stacked: Off</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Pilha vertical: Inativa</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Wrap text automatically: On</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Disposição automática do texto: Ativa</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Wrap text automatically: Off</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Disposição automática do texto: Inativa</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Hyphenate: On</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Hifenização: Ativa</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Hyphenate: Off</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Hifenização: Inativa</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Indent: </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Recuo: </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Formulas wildcards</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Caracteres coringa em fórmulas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>If the value is TRUE or not given, the search row of the array represents a series of ranges, and must be sorted in ascending order.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Se o valor for VERDADEIRO ou for omitido, a coluna de pesquisa da matriz  representa uma sequencia de intervalos, e deve ser ordenada em ordem crescente.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sorted range lookup</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Busca em intervalos ordenados</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>If the value is TRUE or not given, the search column of the array represents a series of ranges, and must be sorted in ascending order.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Se o valor for VERDADEIRO ou omitido, a coluna de pesquisa da matriz representa uma sequencia de intervalos, e deve ser ordenada em ordem crescente.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Fi_lter</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fi_ltro</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Security Warning: Automatic update of external links has been disabled.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Aviso de segurança: a atualização automática de vínculos externos foi desativada.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Delete Sparkline Group</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Excluir grupo de minigráficos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Edit Sparkline Group</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Editar grupo de minigráficos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Group Sparklines</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Agrupar minigráficos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Ungroup Sparklines</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Desagrupar minigráficos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Edit Sparkline</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Editar minigráfico</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Only allow updating if you trust this document.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Só permita atualizar se confiar neste documento.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sparkline Data Range Dialog</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalo de dados do minigráfico</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Data range:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalo de dados:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Display X Axis</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibir eixo X</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Display Hidden</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibir ocultos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Right To Left</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Da direita para a esquerda</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Display Empty Cells As:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibir células vazias como:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Gap</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Lacuna</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Zero</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Zero</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Span</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Expandido</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Minimum Value:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor mínimo:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Maximum Value:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor máximo:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Individual</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Individual</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Custom</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Personalizado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Vertical Axis</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Eixo vertical</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Line Width:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Largura da linha:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sparkline Data Range</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalo de dados do minigráfico</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sparkline Properties</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Propriedades do minigráfico</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Series:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Serie:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Series:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Série:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Negative points:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Pontos negativos:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Negative points:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valores negativos:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>High points:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valores máximos:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Low points:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valores mínimos:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>First point:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Primeiro valor:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Last point:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Último valor:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Colors</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cores</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Line width:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Largura da linha:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>1,00</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>1,00</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Display empty cells as:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibir células vazias como:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Span</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Expandir</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Display hidden</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibir ocultos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Right-to-left</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Da direita para esquerda</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Vertical maximum</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Máximo vertical</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Vertical minimum:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mínimo vertical:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Display X axis</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibir eixo X</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Axes</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Eixos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Top to bottom (sort rows)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>De cima para baixo (ordenar linhas)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Left to right (sort columns)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Da esquerda para a direita (ordenar colunas)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Direction:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Direção:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Range contains...</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O intervalo contém...</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Headers:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cabeçalhos:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sort Options</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Opções da ordenação</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Go to Sheet</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ir para planilha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>~Type a Sheet Name</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Digi~te o nome da planilha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>~Sheets</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>~Planilhas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Type some letters of sheet name to find it.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Digite as primeiras letras da planilha para encontrá-la.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Type a sheet name</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Digi~te um nome de planilha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Type a sheet name</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Digi_te um nome de planilha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Sheets</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Planilhas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Displays a list of all visible sheets in your spreadsheet document.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mostra uma lista de todas as planilhas visíveis no seu documento.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the custom sort order that you want to apply. To define a custom sort order, choose Tools - Options - %PRODUCTNAME Calc - Sort Lists.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a ordenação personalizada desejada. Para definir uma ordenação personalizada, selecione Listas de ordenação nas opções do Calc.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Locale:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Local:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the Locale to Use for Import</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a localidade a utilizar para a importação</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Because the current formula separator settings conflict with the locale, the formula separators have been reset to their default values.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Como as configurações atuais do separador de fórmula conflita com a localidade, os separadores de fórmula foram redefinidos para seus valores padrão.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Thousands separator. If 0 or omitted the locale group separator is used else the separator is suppressed.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Separador de milhares. Se 0 ou omitido, o separador de grupo da localidade será utilizado, senão o separador é suprimido.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Converts text to a number, in a locale-independent way.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Converte texto em um número, de forma independente da localidade.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Convert also locale dependent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Converter dados que dependem da localidade</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sorts the selection from the lowest value to the highest value. The sorting rules are given by the locale. You can define the sort rules on Data - Sort - Options.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordena a seleção desde o valor mais baixo para o valor mais alto. As regras de ordenação são definidas pela localidade. Estas regras podem ser configuradas em Dados - Ordenar - Opções.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Locale:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Localidade:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Import dBASE files</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Importar arquivos do dBASE</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>dBASE export</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exportar dBASE</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>%1 R  × %2 C</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>%1 L  x %2 C</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Array formula  %1 R × %2 C</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fórmula de matriz  %1 L x %2 C</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>To apply an AutoFormat,
+a table range of at least
+3 × 3 cells must be selected.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Para aplicar um autoformato,
+um intervalo da tabela de ao menos
+3 x 3 células deve ser selecionado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Range</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The value to return if all values in the included array are empty (filter returns nothing).</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O valor a retornar se todos os valores da matriz de critérios são vazios (o filtro retorna nada)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The content of some cells may not be entirely visible. Recalculating row heights will make them visible, but may take some time.
+
+Do you want to recalculate all row heights now?</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O conteúdo de algumas células podem não estar totalmente visíveis. Recalcular a altura das linhas para torna-las visíveis pode demorar.
+
+Deseja recalcular todas as alturas de linha agora?</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Defines a relative position in an array or range of cells after comparing values.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define a posição relativa numa matriz ou intervalo de células após comparar valores.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The value to be used for comparison.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O valor a ser utilizado para comparação.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Match Mode</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Tipo de correspondência</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Document contains DRM content that is encrypted with an unknown encryption method. Only the un-encrypted content will be shown.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O documento possui conteúdo DRM criptografado com um método desconhecido de criptografia. Somente o conteúdo não criptografado será mostrado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Optimal row height:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Altura ideal de linha:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Define either we want to calculate the optimal row heights or we do not want at load time.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Defina se deseja calcular as alturas ideais de linha ou não, durante a carga do arquivo.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Filters an array based on a Boolean (True/False) array.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Filtra uma matriz com base numa matriz booleana (verdadeiro/falso).</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Range </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalo </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The array, or range to filter.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>A matriz, ou intervalo a filtrar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Include</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Incluir</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Include</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Critérios</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>A Boolean array whose height or width is the same as the array.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Uma matriz booleana cuja altura ou largura é a mesma da matriz.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Result if empty</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Resultado se vazio</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The value to return if all values in the included array are empty (filter returns nothing)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O valor a retornar se todos os valores da matriz de critérios são vazios (o filtro retorna nada)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>RANDARRAY function generates an array of random numbers between two values.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>A função MATRIZALEATÓRIA gera uma matriz de números aleatórios entre dois valores limites.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Min</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mín</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The minimum number you would like returned.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O menor número (limite inferior) na matriz de números aleatórios.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Max</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Max</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The maximum number you would like returned.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O maior número (limite superior) na matriz de números aleatórios.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Whole number</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Número inteiro</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sorts the contents of a range or array.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordena o conteúdo de uma intervalo ou matriz.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The range, or array to sort.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O intervalo ou matriz a ordenar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sort index</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Índice</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>A number indicating the row or column to sort by.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Um número indicando a linha ou coluna a ordenar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sort order</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordenação</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>A number indicating the desired sort order; 1 for ascending order (default), -1 for descending order.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Um número indicando a ordem de ordenação; 1 para ordem crescente (padrão), -1 para ordem decrescente.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>By col</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Por coluna</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>A logical value indicating the desired sort direction; FALSE to sort by row (default), TRUE to sort by column.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Um valor lógico indicando a orientação da ordenação; FALSO para ordenar por linhas (padrão), VERDADEIRO para ordenar por coluna.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sorts the contents of a range or array based on the values in a corresponding range or array.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordena o conteúdo de um intervalo ou matriz com base nos valores de um intervalo ou matriz de valores correspondentes.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sort range</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Internvalo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sort range</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The array or range to sort.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>A matriz ou intervalo a ordenar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sort by range </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Pelo intervalo </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Range 1, range 2,... are the arrays or ranges to sort on.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalo1, Intervalo2, ... são os intervalos ou matrizes de ordenação.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sort order </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordenação </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Order 1, order 2,... are the orders to use for sorting. 1 for ascending, -1 for descending. Default is ascending.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordem 1, Ordem 2, ... são as ordenações. 1 para ordem crescente (padrão), -1 para ordem decrescente.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>not between</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>não está entre</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>duplicate</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>é duplicado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>not duplicate</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>não é duplicado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>in top N elements</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>nos primeiros N elementos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>in bottom N elements</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>nos últimos N elementos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>in top N percent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>nos primeiros N porcento</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>in bottom N percent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>nos últimos N porcento</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>above average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>acima da média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>below average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>abaixo da média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>above or equal average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>igual ou superior à média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>below or equal average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>igual ou inferior à média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>By col</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>PorColuna</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Data Provider</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Provedor de dados</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sort by range </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Por_intervalo </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Range 1, range 2,... are the arrays or ranges to sort on.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Por_intervalo 1, Por_intervalo 2, ... são os intervalos ou matrizes de ordenação.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sort order </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordem </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sort order</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordem</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>A number indicating the desired sort order; 1 for ascending order (default), -1 for descending order.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Número indicando a ordem de ordenação; 1 para ordem crescente (padrão), -1 para ordem decrescente.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Order 1, order 2,... are the orders to use for sorting. 1 for ascending, -1 for descending. Default is ascending.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordem 1, Ordem 2, ... são as ordens de ordenação. 1 para ordem crescente (padrão), -1 para ordem decrescente.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Allows you to generate a list of sequential numbers in an array, such as 1, 2, 3, 4.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cria uma lista de números sequenciais numa matriz, tal como 1, 2, 3, 4.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Rows</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Linhas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The number of rows to return.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O número de linhas a retornar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The number of columns to return.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O número de colunas a retornar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Start</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Início</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The first number in the sequence.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O primeiro número da sequência.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Step</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Passo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The amount to increment each subsequent value in the array.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O incremento entre cada valor subsequente na matriz.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Number of rows</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Número de linhas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specify the number of rows to insert.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifique o número de linhas a inserir.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Number of columns</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Número de colunas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specify the number of columns to insert.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifique o número de colunas a inserir.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Edit cell background highlighting</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Editar destaque de fundo de célula</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Edit cell background highlighting</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Destacar plano de fundo de célula em edição</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Edit cell background highlighting</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Destacar plano de fundo da célula ao editar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Mark the Edit cell background highlighting checkbox to show cell frame background color as the edit cell background.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque para mostrar o plano de fundo da célula na cor da borda ao editar a célula.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>0 - Exact match. Will return #N/A if no match. (default).
+-1 - Exact match or the next smaller item.
+1 - Exact match or the next larger item.
+2 - Wildcard match.
+3 - Regular expression match.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>0 - Correspondência exata. Retorna #N/DISP se não houver correspondência (padrão).
+-1 - Correspondência exata ou valor do item logo abaixo.
+1 - Correspondência exata ou valor do item logo acima.
+2 - Correspondência com caracteres curingas.
+3 - Correspondência por expressão regular.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Return a whole number or a decimal value.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Retorna um número inteiro ou decimal.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Enter the cell range of the data fopr the sparklines.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Insira o intervalo de células dos dados para os minigráficos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the cell range to receive the sparkline.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione o intervalo de células para receber o minigráfico.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the main color for the sparklines.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a cor principal para o minigráfico.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Check and select the color for negative points.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque e selecione a cor para os pontos negativos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the color for the negative points.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a cor para os pontos negativos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>check and select the color for high points.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque e selecione a cor para os pontos de maior valor.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the color for the high point.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a cor para os pontos de maior valor.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Check and select the color for low points.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque e selecione a cor para os pontos de menor valor.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the color for the low point.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a cor para os pontos de menor valor.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Check and select the color for data points (line type only).</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque e selecione a cor para os pontos de dados (somente para minigráficos de tipo linha)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the color for the data points markers.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a cor para os marcadores de pontos de dados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Check and select the color for first point.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque e selecione a cor para o primeiro ponto.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the color for the first point.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a cor do primeiro ponto.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Check and select the color for last point.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque e selecione a cor para o último ponto.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the color for the last point.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a cor do último ponto.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Enter the line thickness number manually or use the spin button.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Digite o valor da espessura da linha manualmente ou utilize o botão contador.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Display empty cells as:  Gap - the missing data is not displayed. The line type discontinues in the gap and the column is not displayed.   Zero -  the missing data is displayed as value zero. Span - for line type only, draws a continuous line connecting the previous value to the next value.
+</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibir células vazias como: Lacuna - o dado faltante não é exibido. O tipo linha é descontinuado na lacuna e a coluna não é exibida. Zero - Os dados faltantes são exibidos como zero. Estender - somente para o tipo linha, desenha uma linha contínua conectando o valor anterior ao próximo.
+</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Check to show all columns or stacks in the range even when the data is in hidden cells. If unchecked, the hidden data is ignored.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque para mostrar todas as colunas ou pilhas no intervalo, mesmo quando os dados estiverem em células ocultas. Se desmarcado, os dados ocultos são ignorados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Check to have the sparklines show the data in reverse order.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque para exibir o minigráfico com dados na ordem reversa.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the sparkline type in the drop-down list. Choices are:    Line - draws a line between data values.    Column - draws a bar for each data value.    Stacked -  also known as win/loss. Displays equally sized bars indicating positive and negative values.
+</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione o tipo de minigráfico da lista suspensa. As escolhas são: Linha - desenha uma linha entre os valores de dados. Coluna - desenha uma barra para cada valor. Empilhado - também conhecido por perdas e ganhos: Exibe barra de igual tamanho indicando valores positivos e negativos.
+</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg> Individual: sets automatically the minimum value for each sparkline based on the sparkline data range values.    Group: sets the minimum value based on the lower and higher values found in the group of sparklines.  Custom: enter the minimum value for the sparkline group.
+</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg> Individual: define automaticamente o valor mínimo de cada minigráfico cm base nos valores do intervalo do minigráfico. Grupo: define o o valor mínimo com base no menor valor encontrado no grupo de minigráficos. Personalizado: digite o valor mínimo do grupo de minigráficos.
+</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Spin or enter number to set the minimum value for the Y axis.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Digite o número ou use o contador para definir o valor mínimo no eixo Y.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg> Individual: sets automatically the maximum value for each sparkline based on the sparkline data range values.    Group: sets the maximum value based on the lower and higher values found in the group of sparklines.  Custom: enter the maximum value for the sparkline group.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg> Individual: define automaticamente o valor máximo de cada minigráfico com base nos valores do intervalo do minigráfico. Grupo: define o o valor máximo com base no maior valor encontrado no grupo de minigráficos. Personalizado: digite o valor máximo do grupo de minigráficos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Spin or enter number to set the maximum value for the Y axis.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Digite o número ou use o contador para definir o valor máximo no eixo Y.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Check to show the X axis for sparklines.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque para mostrar o eixo X nos minigráficos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Edit cell highlighting</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Destaque da célula em edição</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Mark this box to show highlighted background when the cell is in edit mode.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque esta caixa para destacar o plano de fundo quando a célula está no modo de edição.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Comment authorship</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Autoria da anotação</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Case _sensitive</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Diferenciar maiú_sculas de minúsculas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Value 1; value 2; ... are arguments representing a sample taken from the population.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor 1; valor 2;... são argumentos que representam uma amostra retirada da população.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Generates a list of sequential numbers in an array, such as 1, 2, 3, 4.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cria uma lista de números sequenciais numa matriz, tal como 1, 2, 3, 4.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Generates an array of random numbers between two limit values.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>CRia uma matriz de números aleatórios entre dois valores limites.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Generates an array of random numbers between two limit values.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cria uma matriz de números aleatórios entre dois valores limites.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The lower limit of the generated numbers.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O limite inferior para os números gerados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The upper limit of the generated numbers.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O limite superior para os números gerados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Integers</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Inteiros</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Return whole numbers (TRUE) or decimal values (FALSE).</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Retorna números inteiros (VERDADEIRO) ou números decimais (FALSO),</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Returns a list of unique values from a range or array.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Retorna uma lista de valores únicos de um intervalo ou matriz.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Array</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Matriz</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The range or array from which to return unique values.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O intervalo ou matriz da qual retornar os valores únicos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Logical value indicating how to compare data: TRUE - compares data across columns. FALSE or omitted (default) - compares data across rows.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor lógico indicando como comparar os dados: VERDADEIRO – compara os dados entre colunas. FALSO ou omitido (padrão) – compara os dados entre linhas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Uniqueness</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Unicidade</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Logical value that defines what values are considered unique: TRUE - returns values that occur only once. FALSE or omitted (default) - returns all distinct (different) values in the range or array.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor lógico que define a unicidade: VERDADEIRO – retorna os valores que ocorrem pelo menos uma vez. FALSO ou omitido (padrão) – retorna todos os valores distintos (não duplicados) do intervalo ou matriz.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shrink</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Encolher</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Enter the cell range containing the data for the sparklines.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Insira o intervalo de células dos dados para os minigráficos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Check and select the color for high points.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque e selecione a cor para os pontos de maior valor.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Display empty cells as: Gap - the missing data is not displayed. The line type discontinues in the gap and the column is not displayed. Zero - the missing data is displayed as value zero. Span - for line type only, draws a continuous line connecting the previous value to the next value.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exibir células vazias como: Lacuna – o dado faltante não é exibido. O tipo linha é descontinuado na lacuna e a coluna não é exibida. Zero – Os dados faltantes são exibidos como zero. Estender – somente para o tipo linha, desenha uma linha contínua conectando o valor anterior ao próximo.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the sparkline type in the drop-down list. Choices are: Line - draws a line between data values.  Column - draws a bar for each data value. Stacked - also known as win/loss: displays equally sized bars indicating positive and negative values.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione o tipo de minigráfico da lista suspensa. As escolhas são: Linha – desenha uma linha entre os valores de dados. Coluna – desenha uma barra para cada valor. Empilhado – também conhecido por perdas e ganhos: exibe barra de igual tamanho indicando valores positivos e negativos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Individual: sets automatically the minimum value for each sparkline based on the sparkline data range values. Group: sets the minimum value based on the lower and higher values found in the group of sparklines. Custom: enter the minimum value for the sparkline group.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Individual: define automaticamente o valor mínimo de cada minigráfico cm base nos valores do intervalo do minigráfico. Grupo: define o o valor mínimo com base no menor valor encontrado no grupo de minigráficos. Personalizado: digite o valor mínimo do grupo de minigráficos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Individual: sets automatically the maximum value for each sparkline based on the sparkline data range values. Group: sets the maximum value based on the lower and higher values found in the group of sparklines. Custom: enter the maximum value for the sparkline group.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Individual: define automaticamente o valor máximo de cada minigráfico com base nos valores do intervalo do minigráfico. Grupo: define o o valor máximo com base no maior valor encontrado no grupo de minigráficos. Personalizado: digite o valor máximo do grupo de minigráficos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specifies that a small triangle in the top right corner of the cell indicates that a comment exists.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica que um pequeno triângulo no canto superior direito da célula indica a existência de um comentário.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Draws a blue triangle in the bottom-left corner of a cell that contains a formula. When pointing over the blue triangle, the formula is shown in a tool tip even if a different cell is selected.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Desenha um triângulo azul no canto inferior esquerdo de uma célula que contém uma fórmula. Ao apontar sobre o triângulo azul, a fórmula é exibida num texto explicativo mesmo se outra célula for selecionada.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specifies whether the author of the comment is displayed above the comment.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica se o autor do comentário é exibido acima do comentário.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specifies when grid lines will be displayed. </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica para exibir as linhas da grade. </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shows the pointer as defined by the icon theme, typically as a fat cross.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mostra o cursor definido pelo tema de ícones, tipicamente uma cruz grossa.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shows the pointer as the system default, typically as an arrow.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mostra o ponteiro do padrão do sistema, tipicamente como uma seta.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Defines if objects and graphics are shown or hidden.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define se objetos e gráficos são mostrados ou ocultados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Defines if charts in your document are shown or hidden.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define se os gráficos no seu documento são mostrados ou ocultados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Defines if drawing objects in your document are shown or hidden.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define se o objetos de desenho no seu documento são mostrados ou ocultados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>If this box is checked, a Search Results window appears when you choose Find All in the Find Box, which summarizes the search results.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque para exibir a janela de Resultados da pesquisa ao escolher Localizar todos na caixa Localizar, que resume os resultados encontrados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Return integer (TRUE) or decimal (FALSE) values.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Retorna valores inteiros (VERDADEIRO) ou decimais (FALSO).</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The LET function assigns names to calculation results. This allows storing intermediate calculations, values, or defining names inside a formula. These names only apply within the scope of the LET function.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Atribui nomes a resultados calculados. Permite armazenar cálculos intermediários, valores, ou definir nomes dentro de uma fórmula. Os nomes só se aplicam no escopo da função LET.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Name 1</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Nome 1</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The first name to assign. Must start with a letter. Cannot be the output of a formula or conflict with range syntax.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O primeiro nome da atribuição. Deve começar com uma letra. Não pode ser o resultado de uma fórmula ou conflitar com a sintaxe de um intervalo.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Name value </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor do nome </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Name value 1, Name value 2,... The value or calculation to assign to Name.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor do nome1, Valor do nome2,... o calor ou cálculo a atribuir a Nome.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Calculation or Name </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cálculo ou Nome </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>A calculation that uses all names within the LET function. This must be the last argument in the LET function. Or a second Name to assign to a second Name value. If a second Name is specified, Name value 2 and Calculation or Name 3 become required.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Um cálculo que utiliza todos os nomes dentro da função LET. Deve ser o último argumento da função LET. Ou um segundo nome a atribuir a um segundo valor. Se o segundo nome for especificado, deve-se seṕecificar Valor de nome2 e então Cálculo ou Nome3 tornam-se obrigatórios.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Integer</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Inteiro</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>0 - Exact match. Will return #N/A if no match. (default).
+-1 - Exact match or the next smaller item.
+1 - Exact match or the next larger item.
+2 - Wildcard or regular expression match.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>0 - Correspondência exata. Retorna #N/DISP se falhar (padrão).
+-1 - Correspondência exata ou item imediatamente inferior.
+1 - Correspondência exata ou item imediatamente superior.
+2 - Correspondência por caracteres coringa ou expressões regulares.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>1 - Search from the first value (default).
+-1 - Search from the last value (reverse).
+2 - Binary search values sorted in ascending order.
+-2 - Binary search values sorted in descending order.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>1 - Pesquisa pelo primeiro valor (padrão).
+-1 - Pesquisa pelo último valor (reversa).
+2 - Pesquisa binária de valores ordenados em ordem crescente.
+-2 - Pesquisa binária de valores ordenados em ordem decrescente.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Extended vertical search and reference to indicated cells.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Pesquisa vertical estendida e referência a células indicadas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>If given, return given text, otherwise return #N/A.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Se fornecido, retorna o texto indicado. Senão retorna #N/DISP.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Match Mode</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Modo de correspondência</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>1 - Search from the first value (default).
+-1 - Search from the last value (reverse).
+2 - Binary search values sorted in ascending order.
+-2 - Binary search values sorted in descending order.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>1 - Pesquisa inicia pelo primeiro valor (padrão).
+-1 - Pesquisa inicia pelo último valor (reversa).
+2 - Pesquisa binária de valores ordenados em ordem crescente.
+-2 - Pesquisa binária de valores ordenados em ordem decrescente.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The value to be found in the first column.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O valor a encontrar na primeira coluna.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>%1 of %2 records found</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>%1 de %2 registros encontrados</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Grand</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Geral</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Next month</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>No próximo mês</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Opens the solver’s Options dialog.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Abre a caixa de diálogo Opções do Solver.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>An internal error occurred while running the solver engine.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ocorreu um erro ao executar o solver.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid constraint.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Restrição inválida.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Unable to load solver engine.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Não foi possível carregar o motor do solver.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid objective cell.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Célula objetivo inválida.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid variable cells.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Células de variável inválidas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid target value.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor de destino inválido.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Warning!</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Aviso!</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>No data found to operate on.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Sem dados para operar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Data contains row headers</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Os dados contém linhas de cabeçalho</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Data contains column headers</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Os dados contém colunas de cabeçalho</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Handle Duplicate Records</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Tratar registros duplicados</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Okay</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>OK</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Ca_ncel</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cancelar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Orientation:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Orientação:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Strings without quotes are interpreted as defined names or references or column/row labels.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cadeias de caracteres sem aspas são interpretadas como nomes definidos, referências ou rótulos de colunas ou linhas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Returns TRUE if the value truncated to integer is even.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Retorna VERDADEIRO se o valor truncado é um inteiro par.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Returns TRUE if the value truncated to integer is odd.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Retorna VERDADEIRO se o valor truncado é um inteiro ímpar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Font color</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cor da fonte</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>More than %1 results found (stopped counting)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Foram encontrados mais de %1 resultados (contagem interrompida)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Font Color</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cor da fonte</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Inserts the contents of the clipboard into the current document in a format that you can specify.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Insere o conteúdo da área de transferência no documento atual num formato de sua escolha.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Vertical maximum:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Máximo vertical:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the comparison operator that you want to use.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione o operador de comparação que deseja utilizar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shrink print range(s) on number of pages</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Encolher o(s) intervalo(s) de impressão ao número de páginas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shrink print range(s) to width/height</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Encolher o(s) intervalo(s) de impressão à largura / altura</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Decimal places. The number of fixed decimal places that are to be displayed. Default 2.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Casas decimais. O número de casas decimais fixas a exibir. O padrão é 2.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Returns a random integer between the specified Bottom and Top values (both inclusive), non-volatile.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Retorna um número inteiro aleatório entre os valores superior e inferior especificados (ambos inclusivos), não volátil.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The smallest integer that can be returned.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O menor inteiro que pode ser retornado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The largest integer that can be returned.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O maior inteiro que pode ser retornado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Round the number to a given number of Decimal Places.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Arredonda o número para um dado número de casas decimais.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show error _message when invalid values are entered</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mostrar mensagens de erro ao inserir valores inválidos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Action:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Ação:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Title:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Título:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Error message:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mensagem de _erro:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Browse...</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Procurar...</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Stop</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Parar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Warning</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Alerta</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Information</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Informação</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Search items...</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Itens a pesquisar...</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>All</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Todos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show only the current item.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mostra somente o item atual.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Hide only the current item.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Oculta somente o item atual.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Show input help when cell is selected</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Mostrar ajuda da entrada quando a célula for selecionada</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Input help:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>A_juda da entrada:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Spinner</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Contador</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Inserts the cell range as a link, so that changes made to the cells in the source file are updated in the target file. To ensure that changes made to empty cells in the source file are updated in the target file, ensure that the &quot;Paste All&quot; option is also selected.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Insere o intervalo de células como hiperlink, de forma que as alterações feitas nas células do arquivo de origem sejam atualizadas no arquivo de destino. Para garantir que as alterações feitas em células vazias do arquivo de origem serão atualizadas no arquivo de destino, verifique se a opção &quot;Colar tudo&quot; também está selecionada.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Determines the value by which the series of the selected type increases by each step.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Determina o valor segundo o qual a série do tipo selecionado aumenta em cada etapa.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Produces the Fourier analysis of a data set by computing the Discrete Fourier Transform (DFT) of an input array of complex numbers using a couple of Fast Fourier Transform (FFT) algorithms.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Produz a análise de Fourier de dados calculando a transformada discreta de Fourier de um vetor de entrada utilizando um par de algoritmos de transformada rápida de Fourier (FFT).</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Copies the entire sheet into an additional scenario sheet.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Copia toda a planilha em uma planilha de cenário adicional.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>With the option set, expanding a selection (with Ctrl + Shift + Down/Up) jumps to the end of the range in the column that was added as last to the initial selection. When the option is not set, expanding a selection (with Ctrl + Shift + Down/Up) jumps to the end of the range in the column where selecting the cell range was started. The same of course applies when extending a selection on rows, with Ctrl + Shift + Left/Right.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Com a opção ativada, ao expandir uma seleção (com Ctrl + Shift + Cima/Baixo), salta para o fim do intervalo na coluna que foi adicionada no fim da seleção inicial.  Quando a opção é desativada, ao expandir uma seleção (com Ctrl + Shift + Cima/Baixo) salta para o fim do intervalo na coluna onde a seleção do intervalo começou. O mesmo se aplica ao estender uma seleção em linhas, com Ctrl + Shift + Esquerda/Direita.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sorts first by uppercase letters and then by lowercase letters. For Asian languages, special handling applies.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordena primeiro por letras maiúsculas e depois por minúsculas. Os idiomas asiáticos recebem um tratamento especial.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Omits the first row or the first column in the selection from the sort.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Omite da ordenação a primeira linha ou a primeira coluna da seleção.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Preserves the current cell formatting.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Preserva a formatação da célula atual.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Copies the sorted list to the cell range that you specify.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Copia a lista ordenada no intervalo de células que especificar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select a named cell range where you want to display the sorted list, or enter a cell range in the input box.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione um intervalo de células nomeado no qual deseja exibir a lista ordenada ou inserir um intervalo de células na caixa de entrada.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Enter the cell range where you want to display the sorted list, or select a named range from the list.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Insira o intervalo de células no qual deseja exibir a lista ordenada ou selecione um intervalo nomeado na lista.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Click here and then select the custom sort order that you want.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Clique aqui e, em seguida, selecione a ordenação personalizada que deseja.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the custom sort order that you want to apply. To define a custom sort order, choose Tools - Options - %PRODUCTNAME Calc - Sort Lists .</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Seleciona a ordenação personalizada desejada. Para definir uma ordenação personalizada, selecione Ferramentas → Opções… → %PRODUCTNAME Calc → Listas de ordenação .</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select a sorting option for the language.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione uma opção de ordenação para o idioma.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the language for the sorting rules.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione o idioma para as regras de ordenação.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sorts rows by the values in the active columns of the selected range.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordena as linhas por valores nas colunas ativas do intervalo selecionado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sorts columns by the values in the active rows of the selected range.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordena as colunas por valores nas linhas ativas do intervalo selecionado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sets additional sorting options.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define as opções de ordenação adicionais.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid name. Start with a letter, use only letters, numbers and underscore.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Nome inválido. O nome deve iniciar com uma letra, utilizar somente letras, números e sublinhado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Remove</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Remover</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Heading</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Título</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Heading 1</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Título 1</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Heading 2</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Título 2</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Note</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Nota</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Footnote</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Nota de rodapé</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Hyperlink</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Hiperlink</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Status</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Status</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Good</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Bom</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Neutral</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Neutro</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Bad</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ruim</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Warning</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Atenção</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Error</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Erro</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Accent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Acento</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Accent 1</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Acento 1</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Accent 2</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Acento 2</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Accent 3</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Acento 3</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Displayed Value</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor exibido</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>CPU Threading Settings</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Definições para filamentos da CPU</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Formulas Wildcards</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Caracteres coringa em fórmulas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Document Protection</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Proteção do documento</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sheet Protection</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Proteção da planilha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select all columns</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecionar todas as colunas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Pattern</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Padrão</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Accent 1</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Destaque 1</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Accent 2</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Destaque 2</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Accent 3</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Destaque 3</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show error _message when invalid values are entered</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mostrar _mensagens de erro ao inserir valores inválidos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show only the current item.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mostrar somente o item atual.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Hide only the current item.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ocultar somente o item atual.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Default</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Padrão</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Compares expression against list of value/result pairs, and returns result for first value that matches the expression.  If expression does not match any value, a default result is returned, if it is placed as final item in parameter list without a value.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Compara a expressão contra uma lista de pares de valor/resultado, e retorna o resultado para a primeira ocorrência que verifica a expressão. Se a expressão não conferir nenhum valor, retorna um resultado padrão, se estiver colocado como item final da lista de parâmetros sem um valor.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Value to be compared against value1…valueN (N ≤ 127)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor a comparar contra valor1,... valorN (N ≤ 127)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Value to compare against expression. If no result is given, then value is returned as default result.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor a comprar contra a expressão. Se não houver resultado,  valor é retornado como resultado padrão.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Press Enter to paste and clear clipboard</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Tecle Enter para colar e esvaziar a área de transferência</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Reset All</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Redefinir tudo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sort Descending</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordem decrescente</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Group</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Grupo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Computes the Discrete Fourier Transform (DFT) of an array</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Calcula a transformada discreta de Fourier (DFT) de uma matriz</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Percent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Porcentagem</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Add</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Adicionar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Apply</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Aplicar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Cancel</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Cancelar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Close</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fe_char</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Delete</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>E_xcluir</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Edit</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Editar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Help</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Aj_uda</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_New</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Novo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_No</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Não</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_OK</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_OK</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Remove</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Remover</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Reset</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Redefinir</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Yes</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Sim</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid sheet name.
+
+The sheet name must not:
+• be empty
+• already exist
+• contain [ ] * ? : / \ 
+• use &#x27; (apostrophe) as first or last character.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Nome de planilha inválido.
+
+O nome não pode:
+• ser vazio
+• já existir
+• conter [ ] * ? : / \ 
+• utilizar &#x27; (apóstrofo) como primeiro ou último caractere.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Up</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Pa_ra cima</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Do_wn</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Para baixo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the way the minimum is set</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a maneira como o mínimo é determinado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Selct the way the maximum is set</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a maneira como o máximo é determinado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Enter the value for the minimum</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Digite o valor para o mínimo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Enter the value for the maximum</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Digite o valor para o máximo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the color for the positive values</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a cor para valores positivos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the color for the negative values</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a cor para valores negativos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select if the fill in color is solid or gradient.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione se o preenchimento é por cor sólida ou gradiente.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the positions of vertical axis in the cell to start fill.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione as posições do eixo vertical na célula onde começa o preenchimento.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the positions of vertical axis in the cell to start fill.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a posição do eixo vertical na célula onde começa o preenchimento.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Set the color of the vertical axis</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Defina a cor do eixo vertical</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Set the minimum bar length in percentage with respect to the cell</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Defina o tamanho mímimo da barra em porcentagem da célula</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Set the maximum bar length in percentage with respect to the cell</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Defina o tamanho máximo da barra em porcentagem da célula</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Set the minimum bar length in percentage with respect to the cell</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Defina o tamanho mínimo da barra em porcentagem da célula</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select to have only the bar visible and have value invisible</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione para ter somente a barra visível e valores invisíveis.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Paste</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>C_olar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_All</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Tudo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_All</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Tudo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Ob_jects</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ob_jetos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>F_ormulas</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fór_mulas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Paste</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Colar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Multiply</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Multiplicar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Divide</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Dividir</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Down</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Para _baixo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Values Only</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Somente _valores</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Values &amp; _Formats</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valores e _formatos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Formats Onl_y</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Somente f_ormatos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Formats Only</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Somente formatos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Transpose All</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>T_ranspor tudo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Transpose All</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Transpor tudo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Run immediately</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Executa_r imediatamente</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Presets</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Definições padrão</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>As _Link</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Como víncu_lo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Trans_pose</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Trans_por</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Skip empty cells</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>I_gnorar células vazias</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Options</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Opções</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Clear</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Limpar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Last Used</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Recém-utilizadas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Value h_ighlighting</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Destacar _valores</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Returns the alpha percentile of a sample.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Retorna o alfa-percentil de uma amostra.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The percentile value between 0 and 1, inclusive.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O valor do percentil, entre 0 e 1, inclusive.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Keep asking during this session</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Continuar perguntando durante esta sessão</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the way the maximum is set</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a maneira como o máximo é determinado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>List Box</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Caixa de lista</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the layout mode for the field in the list box.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione o modo de leiaute para o campo na caixa de lista.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>If you selected a file by using the Browse button, the sheets contained in it are displayed in the list box. The file path is displayed below this box. Select the sheet to be inserted from the list box.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Se selecionou um arquivo utilizando o botão Procurar, as planilhas nele contidas são exibidas na caixa de lista. O caminho do arquivo será exibido embaixo dessa caixa. Na caixa de lista, selecione a planilha que deverá ser inserida.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select a scaling mode from the list box. Appropriate controls will be shown below the list box.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione um modo de escala na caixa de lista. Os controles adequados serão exibidos na lateral da caixa de lista.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Text color</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cor do texto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Background color</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cor do plano de fundo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Live data stream for spreadsheets</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fluxo de dados em direto para planilhas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>If checked empty pages that have no cell contents or draw objects are not printed.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica que as páginas vazias que não tem células com conteúdo ou objetos de desenho, não são impressas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Theme Change</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Alterar tema</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Theme Color Change</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Alterar cores do tema</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Enable the dialog again at Tools - Options - %PRODUCTNAME Calc - View</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ative novamente a caixa de diálogo em Ferramentas - Opções - %PRODUCTNAME Calc - Exibir.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Lock</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Travar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Hea_der:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cabeçalho:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Apply</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Aplicar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Preview</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Visualizar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Transformations</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Transformações</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Apply Changes</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Aplicar alterações</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>No fill</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Sem preenchimento</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Automatic</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Automático</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Columns</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Colunas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Delete</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Excluir</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Okay</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>OK</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Cancel</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cancelar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Database Range:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalo do banco de dados:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Data Provider:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Provedor de dados:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>URL:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>URL:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Browse</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Procurar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Id / Xpath:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Id / Xpath:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Source</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Origem</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Add</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Adicionar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Add Transformations</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Adicionar transformações</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Selected cell ranges contain labels.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Os intervalos de células selecionados contém rótulos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Delete Columns</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Excluir colunas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Cols(; Separated)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Colunas (separadas por ;)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Enter Value</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Inserir valor</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Column</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Coluna</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Find</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Localizar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Replace With</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Substituir por</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Footer (first)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Rodapé (primeiro)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Header (first)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cabeçalho (primeiro)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Separator</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Separador</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Enter a single range that contains multiple independent variable observations (along columns or rows)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Insira um único intervalo que contenha múltiplas observações de variáveis independentes (ao longo de colunas ou linhas)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The range that contains the dependent variable.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O intervalo que contém a variável independente.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The reference of the top left cell of the range where the results will be displayed.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>A referência da célula em cima à esquerda do intervalo onde os resultados serão exibidos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Find a straight line in the form of y = a.x + b, where a is the slope and b is the intercept that best fits the data.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Encontre a linha reta na forma y = a.x + b, onde a é a inclinação e b é a interseção, que melhor acomoda os dados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Find a logarithmic curve in the form of  y = a.ln(x) + b, where a is the slope,  b is the intercept and ln(x)  is the natural logarithm of x, that best fits the data.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Encontre uma curva logarítmica na forma y = a.ln(x) + b, onde a é a inclinação, b é a interseção e ln(x) é o logaritmo natural de x , que melhor acomoda os dados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Find a power curve in the form of y = a.x^b, where a is the coefficient, b is the power that best fits the data.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Encontre uma curva na forma y = a.x^b, onde a é o coeficiente , b é a potência que melhor acomoda os dados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The residuals give information on how far the actual data points deviate from the predicted data points, based on the regression model.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Os resíduos informam quão distante os pontos de dados estão dos pontos de dados previstos, com base no modelo de regressão.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>A value indicating a confidence level for the calculated prediction interval.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Um valor indicando o nível de confiança para o intervalo de predição calculado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Forces the regression curve to cross the origin.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Força a curva de regressão a cruzar a origem.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Replace with</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Substituir por</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Footers</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Rodapés</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Footer (right)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Rodapé (direita)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Footer (left)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Rodapé (esquerda)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Headers</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cabeçalhos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Header (right)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cabeçalho (direita)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Header (left)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cabeçalho (esquerda)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Footer (rest)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Rodapé (restantes)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Header (rest)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cabeçalho (restantes)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Descending Order</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordem decrescente</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Ascending Order</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordem crescente</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Split Column</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Dividir coluna</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Swap Rows Action</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Permutar linhas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>First Row</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Primeira linha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Second Row</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Segunda linha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>E_valuate formulas</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>A_valiar fórmulas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>If enabled, blank cells in source will not override the target.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Se ativado, células em branco não sobrescrevem as células alvo.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>When this option is enabled, cell content starting with an &#x27;=&#x27; equal sign is evaluated as formula expression. Otherwise, content is imported as text.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Se ativado, o conteúdo de células iniciando com sinal de igual &#x27;=&#x27; são avaliados como expressão de fórmula. Caso contrário, o conteúdo é importado como texto.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shift cells left</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mover células para a esquerda</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Find text</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Localizar texto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specifies that only literal strings are used when searching and also for character string comparisons.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica que somente as cadeias literais são usadas ao pesquisar, e também para comparações entre cadeias de caracteres.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>If enabled, cells starting with &#x27;=&#x27; will be evaluated as formulas.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Se ativado, as células iniciando com &#x27;=&#x27; são avaliadas como fórmulas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Presets</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Pré-ajustes</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Pointe_r:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Pontei_ro:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Pastes numbers, text, dates and the results of formulas.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cola números, textos, datas e os resultados de fórmulas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Pastes cell values, formula results and formats applied to cells.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cola valores de células, resultados de fórmulas e formatos aplicados às células.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Pastes only the formats from the source range without changing the values in the destination range.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cola apenas os formatos do intervalo de origem sem alterar os valores no intervalo de destino.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Pastes cell contents transposed, hence columns are converted to rows.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cola o conteúdo da célula transposto, portanto, as colunas são convertidas em linhas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Check this option to run the preset immediately. Uncheck it to manipulate the options before clicking OK.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque esta opção para executar a predefinição imediatamente. Desmarque para manipular as opções antes de clicar em OK.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Largest %</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Maior %</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Smallest %</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Menor %</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Hairline (%s pt)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Finíssima (%s pt)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Very thin (%s pt)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Muito fina (%s pt)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Thin (%s pt)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fina (%s pt)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Medium (%s pt)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Média (%s pt)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Thick (%s pt)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Espessa (%s pt)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Extra thick (%s pt)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Extra grossa (%s pt)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Double Hairline (%s pt)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Dupla finíssima (%s pt)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Thin/Medium (%s pt)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fina/Média (%s pt)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Medium/Hairline (%s pt)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Média/Finíssima (%s pt)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Medium/Medium (%s pt)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Média/Média (%s pt)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Largest</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Maior</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Smallest</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Menor</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Text Color</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cor do texto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Background Color</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cor do plano de fundo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>No Fill</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Sem preenchimento</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Keep this enabled for interoperability with Microsoft Excel or for better performance</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mantenha ativado para interoperabilidade com Microsoft Excel ou para melhorar desempenho</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Contains</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Contém</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Does not contain</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Não contém</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Begins with</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Começa com</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Does not begin with</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Não começa com</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Ends with</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Termina com</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Does not end with</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Não termina com</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Insert _hyperlink for the cell, not for the text in the cell.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Inserir _hiperlink na célula toda, não somente no texto na célula.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Hyperlinks</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Hiperlinks</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Detect numbers with _scientific notation</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Detectar número_s em notação científica</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>%PRODUCTNAME can insert multiple hyperlinks in a cell as text fields, but multiple hyperlinks in a cell cannot be saved to Excel file formats. This option prevents inserting multiple hyperlinks in a cell when Excel files are edited, in order to be interoperable with Excel.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O %PRODUCTNAME pode inserir múltiplos hiperlinks numa célula utilizando campos de texto, porém estes hiperlinks múltiplos não podem ser salvos em formato Excel. Esta opção impede de inserir múltiplos hiperlinks numa célula quando arquivos Excel forem editados, de maneira a ser interoperável com o Excel.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>By default, Excel allows only one hyperlink per cell. (Works only if Excel file format is used.)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O Excel permite somente um hiperlink por célula. (Funciona somente se utilizar o formato Excel .)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Search all functions</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Pesquisar todas as funções</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Line thickness:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Espessura da linha:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Get some web-content from a URI.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Retorna os dados de um serviço internet a partir de um URI.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Calc can insert multiple hyperlinks in a cell as text fields, but multiple hyperlinks in a cell cannot be saved to Excel file formats. This option prevents inserting multiple hyperlinks in a cell when Excel files are edited, in order to be interoperable with Excel.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O Calc pode inserir múltiplos hiperlinks numa célula utilizando campos de texto, porém estes hiperlinks múltiplos não podem ser salvos em formato Excel. Esta opção impede de inserir múltiplos hiperlinks numa célula quando arquivos Excel forem editados, de maneira a ser interoperável com o Excel.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Selected: %1, %2</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecionado: %1, %2</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>%d row%d rows</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>%d linha%d linhas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>%d column%d columns</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>%d coluna%d colunas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>%1 of %2 records found</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>$1 de $2 registros encontrados</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Random (%1)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Aleatório (%1)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>equal to</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>igual a</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>less than</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>menor que</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>greater than</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>maior que</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>equal or less than</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>é igual ou menor que</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>equal or less than</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>igual ou menor que</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>equal or greater than</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>igual ou maior que</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>not equal to</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>diferente de</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>between</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>entre</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>with error </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>com erro </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>without error </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>sem erro </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>containing text</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>contendo texto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>not containing text</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>não contendo texto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Saves all changes and closes dialog.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Salva todas as alterações e fecha a caixa de diálogo.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Closes dialog and discards all changes.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fecha a caixa de diálogo e descarta todas as alterações.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Click the Shrink icon to reduce the dialog to the size of the input field. It is then easier to mark the required reference in the sheet. The icons then automatically convert to the Maximize icon. Click it to restore the dialog to its original size.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Clique no ícone Encolher para reduzir a caixa de diálogo ao tamanho do campo de entrada. Com isso, será mais fácil marcar a referência desejada na planilha. Os ícones serão convertidos automaticamente no ícone Maximizar. Clique nele para restaurar o tamanho original da caixa de diálogo.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The number of characters for the start text.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O número de caracteres do início do texto.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Column/Row highlighting</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Destacar coluna/linha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Mark the Column/row highlighting box to show row/column highlighting for the row and column of the active cell.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque a caixa Destacar coluna/linha para mostrar a linha e coluna da célula ativa.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Failed to insert cells</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Falha ao inserir células</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Active content is disabled in the security settings. It is not possible to allow updating.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O conteúdo ativo foi desabilitado nas configurações de segurança. Não é possível permitir atualizações.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Anchor</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Âncorar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Anchor</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Ancorar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specifies whether the anchor icon is displayed when an inserted object, such as a graphic, is selected.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica se o ícone da âncora é exibido quando um objeto inserido, por exemplo um gráfico, está selecionado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Apply conditional formatting...</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Aplicar formatação condicional...</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>with</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>com</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Apply conditional formatting to cells: %1</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Aplicar formatação condicional nas células: %1</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Range:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalo:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The database range has a row for totals.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O intervalo de banco de dados tem uma linha de totalização.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Similar</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Similar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values above or equal average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores acima ou iguais à média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values below or equal average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores iguais ou menores que a média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values below or equal average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores abaixo ou iguais à média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values have error</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores com erro</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values don&#x27;t have error</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores sem erro</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values begin with</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores começam com</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values end with</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores terminam com</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is in last year</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é no último ano</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is in last year</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é no ano passado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is in next year</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é no próximo ano</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Condition</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Condição</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Formula is</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>A fórmula é</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Date is</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>A data é</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is less than</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>é menor que</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is not equal to</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>não é igual a</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is in top N elements</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>está nos N maiores elementos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is in bottom N elements</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>está nos N menores elementos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is in top N percent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>está nos maiores N %</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is in bottom N percent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>está nos menores N %</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is above average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>está acima da média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is below average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>está abaixo da média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is above or equal average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>está acima ou igual à média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is above or equal average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>está acima ou igual a média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>is below or equal average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>está abaixo ou igual a média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Here you can add formula for conditional formatting.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Insira a fórmula para a formatação condicional.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Today</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Hoje</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Yesterday</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ontem</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Tomorrow</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Amanhã</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Last 7 days</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Nos últimos 7 dias</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>This week</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Esta semana</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Last week</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Na última semana</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Next week</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Na próxima semana</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>This month</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Este mês</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Last month</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>No último mês</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Next month</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Próximo mês</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>This year</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Este ano</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Last year</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>No último ano</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Next year</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>No próximo ano</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Enter the first value of the range or text for comparison and formatting.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Entre o primeiro valor do intervalo ou texto a comparar e formatar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Enter the second value of the range for comparison and formatting.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Entre o segundo valor do intervalo ou texto a comparar e formatar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Apply cell style</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Aplicar estilo de célula</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>New Style...</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Novo estilo...</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Cell style to apply when conditions are met.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Estilo de célula a aplicar quando as condições são atendidas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Highlight cells if %1</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Destacar células quando %1</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Range of cells for conditional formatting.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalo de células para formatação condicional.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Example</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exemplo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Available database ranges</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Intervalos de banco de dados disponíveis</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Search and Sort functions by similarity</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Pesquisar e ordenar funções por similaridade</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Search and Sort functions by similarity</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Pesquisar e ordenar as funções por similaridade</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Go to Function&#x27;s Help Page</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Abre a página de ajuda da função</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Show this message again</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mo_strar novamente esta mensagem</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Only the active sheet was saved.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Somente a planilha ativa foi salva.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Warning image</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Imagem Atenção</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Warn when saving only the active sheet</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Alertar quando salvar somente a planilha ativa</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specifies whether a warning box informs when saving was applied to only the active sheet.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica que uma caixa de aviso informará quando salvar somente a planilha ativa.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Borders</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Bordas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Accent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Destaque</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Error: No value</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Erro: sem valor</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Bottom 10</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Os últimos 10</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Filter by Color</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Filtrar por cor</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Filter by Condition</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Filtrar por condição</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Product</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Produto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Stdev</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>DesvPad</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Var</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Var</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Add row</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Adicionar linha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Remove row</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Remover linha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specifies that the search criteria you set for the Calc database functions must match the whole cell exactly. When both, the Search criteria = and &lt;&gt; must apply to whole cells box and the Enable wildcards in formulas box are marked, Calc behaves exactly as Microsoft Excel when searching cells in the database functions.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica que os critérios de pesquisa definidos para as funções de banco de dados do Calc devem corresponder precisamente à célula inteira. Quando ambas as caixas Critérios de pesquisa = e &lt;&gt; devem ser aplicados a células inteiras e Ativar caracteres curinga em fórmulas estão marcadas, o Calc comporta-se exatamente como o Microsoft Excel ao pesquisar células nas funções do banco de dados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Defines compatibility options for Calc.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define as opções de compatibilidade para o Calc.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Defines formula syntax options and loading options for Calc.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define as opções de sintaxe e carregamento no Calc.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>If checked, empty pages that have no cell contents or drawing objects are not printed.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Se ativa, as páginas que não tenham células com conteúdo nem objetos de desenho não serão impressas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Data source registered in Calc</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fonte de _dados registrada no Calc</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Uses a table or query in a database that is registered in Calc as the data source for the pivot table.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Utiliza uma tabela ou consulta em um banco de dados registrado no Calc como fonte de dados para a tabela dinâmica.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the custom sort order that you want to apply. To define a custom sort order, choose Tools - Options - Calc - Sort Lists .</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Seleciona a ordenação personalizada desejada. Para definir uma ordenação personalizada, selecione Ferramentas - Opções - Calc - Listas de ordenação .</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Uses a custom sorting order that you defined in the Options dialog box at Calc - Sort Lists.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Utiliza uma ordenação personalizada definida na caixa de diálogo das Opções em Calc - Listas de ordenação.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Specifies that a small rectangle in the top right corner of the cell indicates that a comment exists. The comment will be shown only when you enable tips under General in the Options dialog box.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Especifica que um pequeno retângulo no canto superior direito da célula indica a existência de uma anotação na célula. A anotação será mostrada somente quando são ativadas as dicas na página Geral na caixa de diálogo das Opções.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show the pointer as defined in the icon theme, typically as fat cross.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mostra o cursor definido pelo tema de ícones, tipicamente uma cruz grossa.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show the pointer as system default, typically an arrow pointer.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mostra o cursor padrão do sistema, tipicamente uma ponta de seta.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Defines which elements of the Calc main window are displayed. You can also show or hide highlighting of values in tables.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define quais elementos da janela principal do Calc são exibidos. Pode-se também mostrar ou ocultar o destaque de valores nas tabelas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>%PRODUCTNAME Calc found an error in the formula entered.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O %PRODUCTNAME Calc encontrou um erro na fórmula inserida.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Do you want to accept the correction proposed below?</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Aceitar a correção proposta abaixo?</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>CountA</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cont.Valores</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>StdevP</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>DesvPadP</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>VarP</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>VarP</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Column %1</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Coluna %1</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Row</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Linha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Rows:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Linhas:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Columns:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Colunas:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Compare by:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Comparar por:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Measure of password strength</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Medida da força da senha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Delete columns with unprotected cells</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Excluir colunas com células desprotegidas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Delete rows with unprotected cells</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Excluir linhas com células desprotegidas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Use AutoFilter</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Utilizar autofiltro</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Use Pivot Table and Pivot Chart</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Utilizar tabela e gráficos dinâmicos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Open Documents</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Abrir documentos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Lists currently open spreadsheets.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Lista os documentos de planilhas abertos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>AutoCalculate: Off
+Click to enable.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Autocalcular: desativado
+Clique para ativar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Highlight cells with values %1</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Destacar células com valores %1</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Click here to select all cells</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Clique aqui para selecionar todas as células</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>1899-12-30 (defa_ult)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>1899-12-30 (pa_drão)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Value 0 corresponds to 1899-12-30</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor 0 corresponde a 1899-12-30</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sets 1899-12-30 as day zero.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define 1899-12-30 como dia zero.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>1900-01-01 (Star_Calc 1.0)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>1900-01-01 (Star_Calc 1.0)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Value 0 corresponds to 1900-01-01</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor 0 corresponde a 1900-01-01</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sets 1900-01-01 as day zero. Use this setting for StarCalc 1.0 spreadsheets containing date entries.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define 1900-01-01 como dia zero. Utilize esta configuração para planilhas do StarCalc 1.0 que contenham entradas de data.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_1904-01-01</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_1904-01-01</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>0 corresponds to 1904-01-01</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>0 corresponde a 1904-01-01</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sets 1904-01-01 as day zero. Use this setting for spreadsheets that are imported in a foreign format.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Define 1904-01-01 como dia zero. Utilize esta configuração para planilhas que são importadas em um formato estrangeiro.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Highlight cell in edit mode</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Destacar célula no modo de edição</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Detect scientific num_bers</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Detectar números em notação científica</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>When this option is enabled, Calc will automatically detect numbers in scientific notation in addition to basic decimal numbers.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Se ativado, o Calc detecta números em notação científica além de números decimais.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Format _quoted field as text</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Formatar ca_mpos entre aspas como texto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Detect scientific n_otation</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Detectar n_otação científica</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Grand Average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Média geral</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Grand Count</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Contagem geral</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Grand Max</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Máximo geral</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Grand Min</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mínimo geral</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Grand Product</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Produto geral</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Grand StdDev</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>DesvPad geral</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Grand Sum</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Soma geral</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Grand Var</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Var geral</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Are you sure you want to delete the selected sheet?Are you sure you want to delete the %d selected sheets?</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Deseja realmente excluir a planilha selecionada?Deseja realmente excluir as planilhas selecionadas?</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The selected sheet contains source data of related pivot tables that will be lost.The %d selected sheets contain source data of related pivot tables that will be lost.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>A planilha selecionada contém dados para tabelas dinâmicas que serão perdidos.As %d planilhas selecionadas contém dados para tabelas dinâmicas que serão perdidos.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Formula indicator and hint</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Indicador de _fórmula e dica</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Bottom 10</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Últimos 10</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Edit Drawing Style</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Editar estilo de desenho</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Drawing Styles</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Estilos de desenho</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Calculates the t-test.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Calcula o teste t.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The type of the t-test.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O tipo do teste t.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>All Styles</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Todos os estilos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Hidden Styles</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Estilos ocultos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Applied Styles</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Estilos aplicados</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Custom Styles</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Estilos personalizados</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Unknown Author</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Autor desconhecido</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>0.05</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>0,05</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Drawing Style</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Estilo de desenho</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Standard</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Padrão</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Organizer</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Organizador</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Area</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Área</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shadowing</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Sombras</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Transparency</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Transparência</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Font</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Fonte</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Font Effects</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Efeitos de fonte</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Indents &amp; Spacing</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Recuos e espaçamento</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Text Animation</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Animação de texto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Dimensioning</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Cotação</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Alignment</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Alinhamento</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Asian Typography</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Tipografia asiática</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Tabs</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Tabulações</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shows a list of all valid strings or values to select from.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mostra uma lista de todos os textos válidos ou valores a selecionar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Enter the message that you want to display when the cell or cell range is selected.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Insira a mensagem a ser exibida quando a célula ou intervalo de células for selecionado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Trim input range to actual data content</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Reduzir intervalo de entrada aos dados reais</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select Field</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecionar campo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Include boundary row(s) containing only images</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Incluir linhas(s) laterais contendo somente imagens</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Row Labels</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Rótulos de linha</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Column Labels</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Rótulos de coluna</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Error: No code or intersection</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Erro: Sem código ou interseção</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Include boundary column(s) containing only comments</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Incluir coluna(s) laterais contendo somente anotações</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Include boundary row(s) containing only comments</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Incluir linhas(s) laterais contendo somente anotações</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Include boundary column(s) containing only images</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Incluir coluna(s) laterais contendo somente imagens</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show expand/collapse buttons</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mostrar botões de expandir/recolher</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select this check box to show expand/collapse buttons for field members</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Marque esta caixa para mostrar botões de expandir ou recolher para membros de campo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Compact layout</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Leiaute compacto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sort by Color</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordenar por cores</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Poisson</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Poisson</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Are you sure you want to delete the selected sheet?Are you sure you want to delete the %d selected sheets?</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Tem a certeza de querer excluir a planilha selecionada?Tem a certeza de querer excluir as planilhas selecionadas?</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Are you sure you want to delete the selected scenario?</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Tem a certeza de querer excluir o cenário selecionado?</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Prints vertically from the left column to the bottom of the sheet.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Imprime verticalmente a partir da coluna esquerda até o final da planilha.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Are you sure you trust this document?</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Tem a certeza de confiar neste documento?</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Links to remote locations can be constructed that transmit local data to the remote server.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>É possível construir links para servidores remotos que transmitem dados locais.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Spinner</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Botão contador</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show All Comments</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Mostrar todas as anotações</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Hide All Comments</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ocultar todas as anotações</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Comment</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Anotação</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Too many columns in the data form.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Colunas em excesso no formulário de dados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Extended vertical search and reference to indicated cells.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Pesquisa extensiva vertical e referência a células indicadas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Search criterion</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Critério de pesquisa</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The value to be found in the first column.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>O valor a ser encontrado na primeira coluna.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Search Array</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Matriz de pesquisa</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The array or range to search.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>A matriz ou intervalo a pesquisar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Result Array</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Matriz resultante</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>The array or range to return.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>A matriz ou intervalo a retornar.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Result if not found</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Resultado quando não encontrado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>If given, return given text, otherwise return #N/A.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Se fornecido, retorna o texto indicado, senão retorna #N/DISP</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Match Mode</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Modo de conferência</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>0, -1, 1 or 2 </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>0, -1, 1 ou 2 </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Search Mode</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Modo de pesquisa</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>1, -1, 2 or -2 </seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>1, -1, 2 ou -2 </seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Edit Comment</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Editar anotação</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Delete Comment</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Excluir anotação</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sorts first by uppercase letters and then by lowercase letters. For Asian locales, special handling applies.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ordena primeiro por letras maiúsculas e depois por minúsculas. As localidades asiáticas recebem tratamento especial.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Locale</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Localidade</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select the locale for the sorting rules.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione a localidade para as regras de ordenação.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select a sorting option for the locale.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione uma opção de ordenação para a localidade.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Scale</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Escala</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Invalid sheet reference. Ensure the inserted expression is a valid print range.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Referência de planilha inválida. Assegure que a expressão inserida é um intervalo de impressão válido.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Applying AutoFormat to the selected range (more than one million cells) may take a long time.
+Do you want to proceed?</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Aplicar autoformatação no intervalo selecionado (acima de um milhão de células) pode levar muito tempo.
+Deseja continuar?</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values equal to</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores iguais a</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values less than</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores menores que</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values greater than</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores maiores que</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values equal or less than</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores iguais ou menores que</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values equal or greater than</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores iguais ou maiores que</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values not equal to</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores diferentes de</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values between</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores entre</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values not between</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores fora de</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values duplicate</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores duplicados</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values not duplicate</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores não duplicados</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values in top N elements</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores nos N maiores elementos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values in bottom N elements</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores nos N menores elementos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values in top N percent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores nos N % maiores</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values in bottom N percent</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores nos N % menores</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values above average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores acima da média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values below average</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores abaixo da média</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values contain text</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores contendo texto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>values don&#x27;t contain text</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>valores sem texto</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>formula is</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a fórmula é</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is today</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é hoje</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is yesterday</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é ontem</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is tomorrow</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é amanhã</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is in last 7 days</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data está nos últimos 7 dias</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is in this week</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é nesta semana</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is in last week</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é na última semana</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is in next week</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é na próxima semana</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is in this month</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é neste mês</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is in last month</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é no último mês</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is in next month</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é no próximo mês</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>date is in this year</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>a data é neste ano</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Action:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Ação:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Rows</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Linhas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Compare:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Comparar por:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Solver Engine:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Algoritmo do solver:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sensitivity</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Sensibilidade</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Sensitivity Report</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Relatório de sensibilidade</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Objective Cell</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Célula objetivo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Variable Cells</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Células de variáveis</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Objective Cell</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Célula de objetivo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Constraints</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Restrições</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Cell</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Célula</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Final Value</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Valor final</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select to exclude the row/column headers from duplicate comparison.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione para excluir o cabeçalho de linhas ou colunas da comparação de duplicatas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Records:</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Registros:</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_All</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Todos</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select/unselect all records.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecione ou desselecione todos os registros.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Detected</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Detectado</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Use detected separator.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Utilize o separador detectado.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Reduced Cost</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Custo reduzido</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Objective Coefficient</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Coeficiente objetivo</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Row/Column</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Linha/Coluna</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Detected (%1)</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Detectado (%1)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Allowable Decrease</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Permitido reduzir</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Allowable Decrease</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Diminuição permitida</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Allowable Increase</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Aumento permitido</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Compare rows.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Comparar linhas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Columns</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Colunas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Compare columns.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Comparar colunas.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Select</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Selecionar</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Select duplicate records.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Selecionar registros duplicados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>R_emove</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>R_emover</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Remove duplicate records.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Exclui registros duplicados.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Data contains row/col headers</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Dados com cabeçalhos de linha/coluna</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shadow Price</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Preço sombra</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Constraint R.H. Side</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Lado direito da restrição</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Strings without double quotes are interpreted as defined names or references or column/row labels.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Textos sem aspas duplas são interpretados como nomes definidos ou referências ou rótulos de linhas/colunas</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Allowable Decrease</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Decréscimo possível</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Allowable Increase</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Acréscimo possível</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>_Summary below data</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>_Sumário embaixo dos dados</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Decide if the subtotals below or above the data. Reposition subtotals when you change the summary below data options.</seg>
+</tuv>
+<tuv xml:lang="pt_BR">
+<seg>Escolha se os subtotais ficam embaixo ou em cima dos dados.  Reposicione os subtotais ao mudar a opção do sumário embaixo dos dados.</seg>
+</tuv>
+</tu>
+
+</body>
+</tmx>
