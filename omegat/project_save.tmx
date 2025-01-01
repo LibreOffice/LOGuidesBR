@@ -86,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; or &lt;f1&gt;Control&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202426Z" creationid="olivier-tdf" creationdate="20250101T202426Z">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; ou &lt;f1&gt;Control&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt;+click and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202352Z" creationid="olivier-tdf" creationdate="20250101T202352Z">
+        <seg>&lt;f0&gt;Ctrll&lt;/f0&gt; + clique e / ou clique com o botão direito dependendo da configuração do computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt;24.8&lt;/ud2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;s4/&gt;requires macOS 10.15 or newer to run.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T201617Z" creationid="olivier-tdf" creationdate="20250101T201617Z">
@@ -249,6 +265,14 @@
         <seg>Access setup options</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241227T011215Z" creationid="tdf" creationdate="20241227T011215Z">
+        <seg>Acessa as opções de configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access to setup options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202315Z" creationid="olivier-tdf" creationdate="20250101T202315Z">
         <seg>Acessa as opções de configurações</seg>
       </tuv>
     </tu>
@@ -1822,6 +1846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens a context menu</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202353Z" creationid="olivier-tdf" creationdate="20250101T202353Z">
+        <seg>Abre um menu de contexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens a dialog and checks the LibreOffice website for updates to &lt;f0&gt;the software &lt;/f0&gt;version.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T152809Z" creationid="olivier-tdf" creationdate="20241231T152809Z">
@@ -2430,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The terms used in LibreOffice for most parts of the user interface (the parts of the program seen and used, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202607Z" creationid="olivier-tdf" creationdate="20250101T202607Z">
+        <seg>Os termos usados no LibreOffice para a maioria das partes da interface do usuário (as partes do programa que se vê e usa, em contraste com o código dos bastidores que realmente o faz funcionar) são os mesmos da maioria dos outros programas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are no hidden charges now or in the future.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241227T004528Z" creationid="tdf" creationdate="20241227T004528Z">
@@ -2610,6 +2650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T143547Z" creationid="olivier-tdf" creationdate="20241231T143547Z">
         <seg>As versões do LibreOffice para Windows, Linux e macOS podem ser baixadas gratuitamente em &lt;a0&gt;https://pt-br.libreoffice.org/baixe-ja/libreoffice-novo/&lt;/a0&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What are all these things called?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202533Z" creationid="olivier-tdf" creationdate="20250101T202533Z">
+        <seg>Como todas essas coisas são chamadas?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2846,10 +2894,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>⌘ and/or &lt;f0&gt;Cmd&lt;/f0&gt; or &lt;f1&gt;Command&lt;/f1&gt;, depending on keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202501Z" creationid="olivier-tdf" creationdate="20250101T202501Z">
+        <seg>⌘ e/ou &lt;f0&gt;Cmd&lt;/f0&gt; ou &lt;f1&gt;Command&lt;/f1&gt;, dependendo do teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>⌘+T</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241227T011332Z" creationid="tdf" creationdate="20241227T011332Z">
         <seg>⌘+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌥ and/or &lt;f0&gt;Alt&lt;/f0&gt; or &lt;f1&gt;Option&lt;/f1&gt; depending on keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202529Z" creationid="olivier-tdf" creationdate="20250101T202529Z">
+        <seg>⌥ e/ou &lt;f0&gt;Alt&lt;/f0&gt; ou &lt;f1&gt;Option&lt;/f1&gt; dependendo do teclado</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
