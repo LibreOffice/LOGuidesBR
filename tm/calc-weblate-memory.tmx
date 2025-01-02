@@ -4238,7 +4238,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 The sheet name must not:
 • be empty
 • already exist
-• contain [ ] * ? : / \ 
+• contain [ ] * ? : / \
 • use &#x27; (apostrophe) as first or last character.</seg>
 </tuv>
 <tuv xml:lang="pt_BR">
@@ -4247,7 +4247,7 @@ The sheet name must not:
 O nome não pode:
 • ser vazio
 • já existir
-• conter [ ] * ? : / \ 
+• conter [ ] * ? : / \
 • utilizar &#x27; (apóstrofo) como primeiro ou último caractere.</seg>
 </tuv>
 </tu>
@@ -5665,23 +5665,6 @@ O nome não pode:
 </tuv>
 </tu>
 
-<tu>
-<tuv xml:lang="en">
-<seg>%d row%d rows</seg>
-</tuv>
-<tuv xml:lang="pt_BR">
-<seg>%d linha%d linhas</seg>
-</tuv>
-</tu>
-
-<tu>
-<tuv xml:lang="en">
-<seg>%d column%d columns</seg>
-</tuv>
-<tuv xml:lang="pt_BR">
-<seg>%d coluna%d colunas</seg>
-</tuv>
-</tu>
 
 <tu>
 <tuv xml:lang="en">
@@ -7046,24 +7029,6 @@ Clique para ativar.</seg>
 
 <tu>
 <tuv xml:lang="en">
-<seg>Are you sure you want to delete the selected sheet?Are you sure you want to delete the %d selected sheets?</seg>
-</tuv>
-<tuv xml:lang="pt_BR">
-<seg>Deseja realmente excluir a planilha selecionada?Deseja realmente excluir as planilhas selecionadas?</seg>
-</tuv>
-</tu>
-
-<tu>
-<tuv xml:lang="en">
-<seg>The selected sheet contains source data of related pivot tables that will be lost.The %d selected sheets contain source data of related pivot tables that will be lost.</seg>
-</tuv>
-<tuv xml:lang="pt_BR">
-<seg>A planilha selecionada contém dados para tabelas dinâmicas que serão perdidos.As %d planilhas selecionadas contém dados para tabelas dinâmicas que serão perdidos.</seg>
-</tuv>
-</tu>
-
-<tu>
-<tuv xml:lang="en">
 <seg>_Formula indicator and hint</seg>
 </tuv>
 <tuv xml:lang="pt_BR">
@@ -7437,15 +7402,6 @@ Clique para ativar.</seg>
 </tuv>
 <tuv xml:lang="pt_BR">
 <seg>Poisson</seg>
-</tuv>
-</tu>
-
-<tu>
-<tuv xml:lang="en">
-<seg>Are you sure you want to delete the selected sheet?Are you sure you want to delete the %d selected sheets?</seg>
-</tuv>
-<tuv xml:lang="pt_BR">
-<seg>Tem a certeza de querer excluir a planilha selecionada?Tem a certeza de querer excluir as planilhas selecionadas?</seg>
 </tuv>
 </tu>
 
