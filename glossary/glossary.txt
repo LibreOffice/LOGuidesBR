@@ -1,15 +1,10 @@
-# Glossary in# Glossary in tab-separated format -*- coding: utf-8 -*-
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 deck	deque
 Cross-platform	Multiplataforma
 IF	SE
 IFERROR	SEERRO
 IFNA	SE.É.NÃO.DISP
 CHOOSE	ESCOLHER
-#All	#Tudo
-#Headers	#Cabeçalhos
-#Data	#Dados
-#Totals	#Totais
-#This	Row	#Esta	linha
 AND	E
 OR	OU
 XOR	XOU
@@ -378,7 +373,6 @@ WEEKDAY	DIA.DA.SEMANA
 NETWORKDAYS	DIATRABALHOTOTAL
 NETWORKDAYS.INTL	DIATRABALHOTOTAL.INTL
 WORKDAY.INTL	DIATRABALHO.INTL
-#NAME!	#NOME!
 STYLE	ESTILO
 DDE	DDE
 BASE	BASE
@@ -401,13 +395,6 @@ BITOR	BIT.OU
 BITXOR	BIT.XOU
 BITRSHIFT	BIT.DESLOC.DIR
 BITLSHIFT	BIT.DESLOC.ESQ
-#NULL!	#NULO!
-#DIV/0!	#DIV/0!
-#VALUE!	#VALOR!
-#REF!	#REF!
-#NAME?	#NOME?
-#NUM!	#NÚM!
-#N/A	#N/DISP
 FILTERXML	FILTROXML
 COLOR	COR
 WEBSERVICE	SERVIÇOWEB
@@ -454,3 +441,4 @@ Search:	Pesquisar:
 Similar	Similar
 Category:	Categoria:
 All	Todas
+Start Center	Centro de Partida
