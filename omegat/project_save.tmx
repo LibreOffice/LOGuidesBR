@@ -872,8 +872,8 @@
       <tuv lang="en-US">
         <seg>Clicking on a file that is displayed in the Start Center, which will activate the module associated with that file.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tulio" changedate="20250103T144334Z" creationid="tulio" creationdate="20250103T144334Z">
-        <seg>Clicar em um arquivo que é exibido no Centro de partida, o que ativa o módulo associado com o arquivo.</seg>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250103T144513Z" creationid="tulio" creationdate="20250103T144334Z">
+        <seg>Clicar em um arquivo que é exibido no Centro de partida, o que ativará o módulo associado com o arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2890,6 +2890,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241231T150052Z" creationid="olivier-tdf" creationdate="20241231T150052Z">
         <seg>Selecione esta opção e o navegador padrão abre na página de ajuda online do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting &lt;f0&gt;Open File&lt;/f0&gt;, which will allow you to navigate to the chosen file’s location, select it, then click on the &lt;f1&gt;Open button&lt;/f1&gt; to open the file and the applicable LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250103T144711Z" creationid="tulio" creationdate="20250103T144711Z">
+        <seg>Selecionar &lt;f0&gt;Abrir arquivo&lt;/f0&gt;, que permitirá navegar até o local do arquivo escolhido, selecioná-lo e clicar no &lt;f1&gt;botão Abrir&lt;/f1&gt; para abrir o arquivo e o módulo aplicável do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting &lt;f0&gt;Templates&lt;/f0&gt; in the Start Center and choosing a template for a new file, which will open the LibreOffice module associated with that template.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250103T144503Z" creationid="tulio" creationdate="20250103T144503Z">
+        <seg>Selecionar &lt;f0&gt;Modelos&lt;/f0&gt; no Centro de partida e escolher um modelo para um novo arquivo, o que abrirá o módulo do LibreOffice associado a esse modelo.</seg>
       </tuv>
     </tu>
     <tu>
