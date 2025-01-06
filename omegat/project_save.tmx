@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, Calc uses its own formula syntax, referred to as Calc A1, rather than the default Excel A1 syntax used by Microsoft Excel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250106T223332Z" creationid="olivier-tdf" creationdate="20250106T223332Z">
+        <seg>Normalmente o Calc utiliza sua própria sintaxe, referida como Calc A1, em vez da sintaxe padrão Excel A1 utilizada pelo Microsoft Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, LibreOffice commands are grouped in the Standard Toolbar user interface.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250103T150943Z" creationid="tulio" creationdate="20250103T150943Z">
@@ -1832,8 +1840,8 @@
       <tuv lang="en-US">
         <seg>Import and export of spreadsheets in multiple formats, including HTML, CSV, PDF, and DIF.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tdf" changedate="20241227T011558Z" creationid="tdf" creationdate="20241227T011558Z">
-        <seg>Importar e exportar planilhas de trabalho em vários formatos, incluindo HTML, CSV, PDF e DIF.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250106T223100Z" creationid="tdf" creationdate="20241227T011558Z">
+        <seg>Importar e exportar planilhas em vários formatos, incluindo HTML, CSV, PDF e DIF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4008,8 +4016,8 @@
       <tuv lang="en-US">
         <seg>You can enter data (usually numerical) in a spreadsheet and then manipulate this data to discover results.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tdf" changedate="20241227T011458Z" creationid="tdf" creationdate="20241227T011458Z">
-        <seg>Pode-se inserir dados (geralmente numéricos) em uma planilha de trabalho e, em seguida, manipular esses dados para produzir certos resultados.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250106T223032Z" creationid="tdf" creationdate="20241227T011458Z">
+        <seg>Pode-se inserir dados (geralmente numéricos) em uma planilha e, em seguida, manipular esses dados para produzir certos resultados.</seg>
       </tuv>
     </tu>
     <tu>
