@@ -334,6 +334,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Writer Status bar, left end&lt;/s0&gt;&lt;s1&gt;Writer Status bar, left end&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T190907Z" creationid="timot" creationdate="20250108T190907Z">
+        <seg>&lt;s0&gt;Barra de status do escritor, extremidade esquerda&lt;/s0&gt;&lt;s1&gt;Barra de status do escritor, extremidade esquerda&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Writer Status bar, right end&lt;/s0&gt;&lt;s1&gt;Writer Status bar, right end&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T191035Z" creationid="timot" creationdate="20250108T190934Z">
+        <seg>&lt;s0&gt;Barra de status do Writer, extremidade direita&lt;/s0&gt;&lt;s1&gt;Barra de status do escritor, extremidade direita&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 2, Getting Started with Writer&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T191019Z" creationid="timot" creationdate="20250108T191019Z">
+        <seg>[parcial]Capítulo 2, Iniciar com o Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Preface&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250102T153811Z" creationid="olivier-tdf" creationdate="20250101T231211Z">
@@ -1190,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Document changes status</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T191106Z" creationid="timot" creationdate="20250108T191106Z">
+        <seg>Documento muda de status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Document digital signatures</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250108T185552Z" creationid="timot" creationdate="20250108T185552Z">
@@ -1494,10 +1526,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Writer Status bar, left end</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T190923Z" creationid="timot" creationdate="20250108T190923Z">
+        <seg>Figura&lt;seq0&gt;2&lt;/seq0&gt;: Barra de status do Writer, extremidade esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202839Z" creationid="olivier-tdf" creationdate="20250101T202839Z">
         <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Caixa de diálogo mostrando controles comuns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Writer Status bar, right end</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T191044Z" creationid="timot" creationdate="20250108T190939Z">
+        <seg>Figura&lt;seq0&gt;3&lt;/seq0&gt;: Barra de status do Writer, extremidade direita</seg>
       </tuv>
     </tu>
     <tu>
@@ -3734,6 +3782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The icon changes color to indicate whether the document has no unsaved changes or it has been edited and the changes have not been saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T191144Z" creationid="timot" creationdate="20250108T191144Z">
+        <seg>O ícone muda de cor para indicar se o documento tem alterações não salvas ou se foi editado e as alterações não foram salvas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The icons in this user guide have been taken from a LibreOffice installation that has been set to display the Colibre set of icons.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T195709Z" creationid="olivier-tdf" creationdate="20250101T195709Z">
@@ -4262,6 +4318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When there are unsaved changes, you can click on this icon to save the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T191206Z" creationid="timot" creationdate="20250108T191206Z">
+        <seg>Quando existem alterações não salvas, é possível clicar neste ícone para salvar o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you close the dialog after use (usually, clicking OK or another button saves your changes and closes the dialog), then you can again work with the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T203055Z" creationid="olivier-tdf" creationdate="20250101T203055Z">
@@ -4370,6 +4434,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241228T191433Z" creationid="tdf" creationdate="20241227T003321Z">
         <seg>Writer (processamento de texto)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer Status bar, left end</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T191028Z" creationid="timot" creationdate="20250108T190929Z">
+        <seg>Barra de status do Writer, extremidade esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer Status bar, right end</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T191055Z" creationid="timot" creationdate="20250108T190949Z">
+        <seg>Barra de status do Writer, extremidade direita</seg>
       </tuv>
     </tu>
     <tu>
