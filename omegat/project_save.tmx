@@ -102,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Control&lt;/f0&gt;+click or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T184902Z" creationid="timot" creationdate="20250108T184902Z">
+        <seg>&lt;f0&gt;Control&lt;/f0&gt;+clique ou clique com o botão direito, depende da configuração do computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Control&lt;/f0&gt;+click, &lt;f1&gt;Ctrl&lt;/f1&gt;+click, or right-click depending on computer setup</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250102T171722Z" creationid="olivier-tdf" creationdate="20250102T171722Z">
         <seg>&lt;f0&gt;Control&lt;/f0&gt;+click, &lt;f1&gt;Ctrl&lt;/f1&gt;+click, ou clique com o botão direito dependendo da configuração do computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (Control)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T184914Z" creationid="timot" creationdate="20250108T184914Z">
+        <seg>Ctrl (Control)</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202238Z" creationid="olivier-tdf" creationdate="20250101T202238Z">
         <seg>&lt;f0&gt;Ferramentas &gt; Opções&lt;/f0&gt; na barra de menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; (Command)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T184921Z" creationid="timot" creationdate="20250108T184921Z">
+        <seg>⌘ (Command)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1422,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a detailed list, see the application Help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T184814Z" creationid="timot" creationdate="20250108T184814Z">
+        <seg>Para uma lista detalhada, consulte a Ajuda do aplicativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a more detailed explanation, select &lt;f0&gt;Help &gt; What's This?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250102T152936Z" creationid="olivier-tdf" creationdate="20241231T150227Z">
@@ -1994,6 +2026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241228T200718Z" creationid="olivier-tdf" creationdate="20241228T200718Z">
         <seg>Além do Open Document Format nativo, o LibreOffice pode abrir e salvar arquivos r muitos formatos comuns incluindo o Microsoft Office, HTML, XML, Wordperfect, Lotus 1-2-3, e PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to the usual features of a word processor (spelling check, thesaurus, hyphenation, autocorrect, find and replace, automatic generation of tables of contents and indexes, mail merge, and others), Writer provides these important features, which are covered in detail in the &lt;f0&gt;Writer Guide&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T185033Z" creationid="timot" creationdate="20250108T185033Z">
+        <seg>Além dos recursos usuais de um processador de texto (verificação ortográfica, dicionário de sinônimos, hifenização, correção automática, localização e substituição, geração automática de tabelas de conteúdo e índices, mala direta e outros), o Writer fornece esses recursos importantes, que são abordados em detalhes no&lt;f0&gt;Guia do Writer&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3614,6 +3654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The table below gives some common substitutions for the instructions in this document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T184805Z" creationid="timot" creationdate="20250108T184805Z">
+        <seg>A tabela abaixo fornece algumas substituições comuns para as instruções neste documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The technical names for common controls are shown in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T202659Z" creationid="olivier-tdf" creationdate="20250101T202659Z">
@@ -3950,6 +3998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What is Writer?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T184941Z" creationid="timot" creationdate="20250108T184941Z">
+        <seg>O que é o Writer?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What is in this user guide?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20241228T190610Z" creationid="olivier-tdf" creationdate="20241228T190610Z">
@@ -4134,6 +4190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer is the word processor component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T184949Z" creationid="timot" creationdate="20250108T184949Z">
+        <seg>O Writer é o componente de processamento de texto do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yes, as long as requirements are met for one of the licenses in the copyright statement at the beginning of this user guide.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T225658Z" creationid="olivier-tdf" creationdate="20250101T225658Z">
@@ -4306,6 +4370,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241227T011332Z" creationid="tdf" creationdate="20241227T011332Z">
         <seg>⌘+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌥ (Option) or &lt;f0&gt;Alt&lt;/f0&gt;, depending on keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T184935Z" creationid="timot" creationdate="20250108T184935Z">
+        <seg>&lt;f0&gt;⌥&lt;/f0&gt; (Option) ou Alt, dependendo do teclado</seg>
       </tuv>
     </tu>
     <tu>
