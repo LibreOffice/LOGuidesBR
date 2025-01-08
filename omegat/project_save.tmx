@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -866,6 +866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250101T195949Z" creationid="olivier-tdf" creationdate="20250101T195949Z">
         <seg>Altere o conjunto de ícones usados numa instalação LibreOffice como segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chapter 2, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T181847Z" creationid="timot" creationdate="20250108T181847Z">
+        <seg>[parcial]Capítulo 2, &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,6 +2202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250102T171159Z" creationid="olivier-tdf" creationdate="20250102T171159Z">
         <seg>Introdução ao LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice Getting Started Guide 24.8</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250108T181843Z" creationid="timot" creationdate="20250108T181843Z">
+        <seg>[parcial]LibreOffice - Guia de Introdução 24.8</seg>
       </tuv>
     </tu>
     <tu>
