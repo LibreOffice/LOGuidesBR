@@ -1168,8 +1168,8 @@
       <tuv lang="en-US">
         <seg>Each spreadsheet can have up to 10,000 sheets, and each sheet can have a maximum of 1,048,576 rows and a maximum of 16,384 columns.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tdf" changedate="20241228T152628Z" creationid="tdf" creationdate="20241228T152628Z">
-        <seg>Cada documento de planilha pode ter até 10.000 planilhas e cada planilha pode ter no máximo 1.048.576 linhas e 1.024 colunas.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250108T093043Z" creationid="tdf" creationdate="20241228T152628Z">
+        <seg>Cada documento de planilha pode ter até 10.000 planilhas e cada planilha pode ter no máximo 1.048.576 linhas e 16.384 colunas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3478,6 +3478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The parts of this window are described below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250108T093225Z" creationid="olivier-tdf" creationdate="20250108T093225Z">
+        <seg>As partes desta janela são descritas abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The process for installing LibreOffice varies by operating system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250102T171920Z" creationid="olivier-tdf" creationdate="20250102T171920Z">
@@ -3896,8 +3904,8 @@
       <tuv lang="en-US">
         <seg>When Calc is started, the main window opens (Figure &lt;t0&gt;1&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tdf" changedate="20241228T152659Z" creationid="tdf" creationdate="20241228T152659Z">
-        <seg>Quando o Calc é iniciado, a janela principal é aberta (Figura &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250108T093118Z" creationid="tdf" creationdate="20241228T152659Z">
+        <seg>Quando o Calc é iniciado, abre-se a janela principal (Figura &lt;t0&gt;1&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
