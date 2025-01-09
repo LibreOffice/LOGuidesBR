@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250109T001945Z" creationid="tulio" creationdate="20250109T001945Z">
         <seg>[parcial]Capítulo 1Introdução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Please direct any comments or suggestions about this document to the Documentation Team’s forum at &lt;/f0&gt;&lt;a1&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a1&gt;&lt;f2&gt; (registration is required) or send an email to: &lt;/f2&gt;&lt;a3&gt;loguides@community.documentfoundation.org&lt;/a3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113419Z" creationid="olivier-tdf" creationdate="20250109T113419Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;Direcione os comentários ou sugestões sobre este documento para a lista de documentação brasileira:&lt;a1&gt; https://community.documentfoundation.org/c/portuguese/documentation/6&lt;/a1&gt; (requer registro), ou envie um e-mail para &lt;a3&gt;loguides@community.documentfoundation.org&lt;/a3&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +96,8 @@
       <tuv lang="en-US">
         <seg>Contributors are listed below.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tdf" changedate="20241226T214214Z" creationid="tdf" creationdate="20241226T214214Z">
-        <seg>Os colaboradores estão relacionados abaixo;</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T112532Z" creationid="tdf" creationdate="20241226T214214Z">
+        <seg>Os colaboradores estão relacionados abaixo:</seg>
       </tuv>
     </tu>
     <tu>
