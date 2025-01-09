@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also at this link, the release notes for earlier versions of LibreOffice are located giving more information on the features that are included in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215706Z" creationid="olivier-tdf" creationdate="20250109T215706Z">
+        <seg>Também neste link, as notas de versão para versões anteriores do LibreOffice estão localizadas, fornecendo mais informações sobre os recursos incluídos no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, Microsoft Excel workbooks can be opened and worked on, then saved in Excel format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191414Z" creationid="olivier-tdf" creationdate="20250109T191414Z">
@@ -994,6 +1002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191633Z" creationid="olivier-tdf" creationdate="20250109T191633Z">
         <seg>O Draw é uma ferramenta de desenho vetorial que pode produzir tudo, desde diagramas simples, fluxogramas ou obras de arte 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw: hover a layer's tab to show its objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215811Z" creationid="olivier-tdf" creationdate="20250109T215811Z">
+        <seg>Desenhar: passe o mouse sobre a guia de uma camada para mostrar seus objetos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1510,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Impress: Notes pane under the slide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215758Z" creationid="olivier-tdf" creationdate="20250109T215758Z">
+        <seg>Impress: Painel de notas sob o slide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In &lt;f0&gt;Icon Size&lt;/f0&gt;, select the required size from the drop-down lists for &lt;f1&gt;Toolbar&lt;/f1&gt;, &lt;f2&gt;Notebookbar&lt;/f2&gt; and &lt;f3&gt;Sidebar,&lt;/f3&gt; as shown in Figure &lt;t4&gt;2&lt;/t4&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213706Z" creationid="olivier-tdf" creationdate="20250109T213706Z">
@@ -1990,10 +2014,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New "Quick find" deck in the Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215745Z" creationid="olivier-tdf" creationdate="20250109T215745Z">
+        <seg>Novo deque de "localização rápida" na barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New chart types: "Pie-of-pie" and "Bar-of-pie"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215850Z" creationid="olivier-tdf" creationdate="20250109T215850Z">
+        <seg>Novos tipos de gráfico: "Pizza de pizza" e "Barra de pizza"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New code is available under LGPL 3.0 and MPL 2.0.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214934Z" creationid="olivier-tdf" creationdate="20250109T214934Z">
         <seg>O novo código está disponível em LGPL 3.0 e MPL 2.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New spreadsheet functions: XLOOKUP, XMATCH, FILTER, RANDARRAY, SEQUENCE, SORT, SORTBY, UNIQUE, LET</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T220202Z" creationid="olivier-tdf" creationdate="20250109T220202Z">
+        <seg>Novas funções de planilha: PROCX, CORRESPX, FILTRO, MATRIZALEATÓRIA, SEQUÊNCIA, ORDENAR, ORDENAR.POR, ÚNICO, LET</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,6 +2074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213716Z" creationid="olivier-tdf" creationdate="20250109T213716Z">
         <seg>Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Noticeable improvements or enhancements to this version include the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215713Z" creationid="olivier-tdf" creationdate="20250109T215713Z">
+        <seg>Melhorias ou aprimoramentos notáveis nesta versão incluem o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The LibreOffice &lt;ud0/&gt;&lt;s1/&gt;Release Notes are available at th&lt;f2&gt;e&lt;/f2&gt;s&lt;f3&gt;e&lt;/f3&gt; link&lt;f4&gt;s &lt;/f4&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/ReleaseNotes/24.2&lt;/f6&gt;&lt;/a5&gt;&lt;f7&gt; and &lt;/f7&gt;&lt;a8&gt;https://wiki.documentfoundation.org/ReleaseNotes/24.8&lt;/a8&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215655Z" creationid="olivier-tdf" creationdate="20250109T215655Z">
+        <seg>As &lt;ud0/&gt;&lt;s1/&gt;Notas de Versão do LibreOffice estão&lt;f2&gt;&lt;/f2&gt; disponíveis&lt;f3&gt;&lt;/f3&gt; no link&lt;f4&gt; &lt;/f4&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/ReleaseNotes/24.2&lt;/f6&gt;&lt;/a5&gt;&lt;f7&gt; e &lt;/f7&gt;&lt;a8&gt;https://wiki.documentfoundation.org/ReleaseNotes/24.8&lt;/a8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The LibreOffice community has created icons for several icon sets, including Breeze, Colibre, Elementary, and Sifr.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212839Z" creationid="olivier-tdf" creationdate="20250109T212839Z">
@@ -3010,6 +3074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113929Z" creationid="olivier-tdf" creationdate="20250109T113929Z">
         <seg>O que está neste guia do usuário?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is new in LibreOffice &lt;ud0&gt;24.8&lt;/ud0&gt;?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215624Z" creationid="olivier-tdf" creationdate="20250109T215624Z">
+        <seg>Novidades no LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
