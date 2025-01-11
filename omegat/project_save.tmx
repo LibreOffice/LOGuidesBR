@@ -558,6 +558,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A list of page styles pops up; click on one to select it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T201027Z" creationid="timot" creationdate="20250111T201027Z">
+        <seg>Uma lista de estilos de página será exibida. Clique em um para selecioná-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A small Go to Page dialog pops up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200610Z" creationid="timot" creationdate="20250111T200610Z">
+        <seg>Uma pequena caixa de diálogo Ir para a página é exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>About LibreOffice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204311Z" creationid="olivier-tdf" creationdate="20250109T204311Z">
@@ -998,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Caution</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T201100Z" creationid="timot" creationdate="20250111T201100Z">
+        <seg>Cuidado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change the icon set used in a LibreOffice installation as follows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213149Z" creationid="olivier-tdf" creationdate="20250109T213149Z">
@@ -1010,6 +1034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195543Z" creationid="timot" creationdate="20250111T195543Z">
         <seg>Rastreamento de alterações durante revisões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changing the page style here may affect the styles of subsequent pages, depending on how the page styles are set up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T201128Z" creationid="timot" creationdate="20250111T201128Z">
+        <seg>Alterar o estilo da página aqui pode afetar os estilos das páginas posteriores, dependendo de como os estilos de página são configurados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1816,8 +1848,8 @@
       <tuv lang="en-US">
         <seg>If any bookmarks have been defined in the document, a right-click on this field pops up a list of bookmarks; click on one to go to that location.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200519Z" creationid="timot" creationdate="20250111T200519Z">
-        <seg>Se algum marcador tiver sido definido no documento, um clique com o botão direito neste campo exibirá uma lista de marcadores; clique em um para ir até aquele local.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200546Z" creationid="timot" creationdate="20250111T200519Z">
+        <seg>Se algum marcador foi definido no documento, um clique com o botão direito neste campo exibirá uma lista de marcadores; clique em um para ir até o local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Page style</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200939Z" creationid="timot" creationdate="20250111T200939Z">
+        <seg>Estilo de página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204902Z" creationid="olivier-tdf" creationdate="20250109T204902Z">
@@ -2998,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T201136Z" creationid="timot" creationdate="20250111T201136Z">
+        <seg>Veja o&lt;f0&gt;Guia do Writer&lt;/f0&gt; para mais detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the Advanced Options in Chapter 12, Configuring LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194357Z" creationid="olivier-tdf" creationdate="20250109T194357Z">
@@ -3054,10 +3102,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shows the language and localization at the cursor position, or for the selected text, that is used for checking spelling, grammar, hyphenation, and the thesaurus.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T201204Z" creationid="timot" creationdate="20250111T201204Z">
+        <seg>Mostra o idioma e a localização na posição do cursor, ou para o texto selecionado, que é usado para verificar ortografia, gramática, hifenização e o dicionário de sinônimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shows the sequence number of the current page, and the total number of pages in the document, and the current page number (if different from the sequence number).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200439Z" creationid="timot" creationdate="20250111T200439Z">
         <seg>Mostra o número de sequência da página atual, o número total de páginas no documento e o número da página atual (caso for diferente do número de sequência).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows the style of the current page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200955Z" creationid="timot" creationdate="20250111T200955Z">
+        <seg>Mostra o estilo da página atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3246,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text language</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T201143Z" creationid="timot" creationdate="20250111T201143Z">
+        <seg>Linguagem do texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Help menu also includes links to other LibreOffice information and support resources.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194930Z" creationid="olivier-tdf" creationdate="20250109T194930Z">
@@ -3302,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Page Style dialog opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T201053Z" creationid="timot" creationdate="20250111T201053Z">
+        <seg>A caixa de diálogo Estilo de página é aberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Scenario Manager provides “what if” analysis.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191342Z" creationid="olivier-tdf" creationdate="20250109T191342Z">
@@ -3322,6 +3402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195736Z" creationid="timot" creationdate="20250111T195736Z">
         <seg>A interface do Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The character count includes spaces.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200802Z" creationid="timot" creationdate="20250111T200802Z">
+        <seg>A contagem de caracteres inclui espaços.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3478,6 +3566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The word and character counts of the document are kept up to date as you edit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200736Z" creationid="timot" creationdate="20250111T200736Z">
+        <seg>As contagens de palavras e caracteres do documento são mantidas atualizadas enquanto está sendo editado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are no hidden charges now or in the future.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192257Z" creationid="olivier-tdf" creationdate="20250109T192257Z">
@@ -3630,6 +3726,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To display the character count excluding spaces, click on the word count in the Status bar, or choose &lt;f0&gt;Tools &gt; Word Count&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200850Z" creationid="timot" creationdate="20250111T200850Z">
+        <seg>Para exibir a contagem de caracteres excluindo espaços, clique na contagem de palavras na barra de status ou escolha&lt;f0&gt;Ferramentas &gt; Contagem de palavras&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To edit the attributes of the current page style, left-click on this field.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T201041Z" creationid="timot" creationdate="20250111T201041Z">
+        <seg>Para editar os atributos do estilo de página atual, clique com o botão esquerdo neste campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To jump to a specific page in the document, click on this field.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200558Z" creationid="timot" creationdate="20250111T200558Z">
+        <seg>Para pular a uma página específica no documento, clique neste campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To make a donation, go to the following web page: &lt;a0&gt;https://www.libreoffice.org/donate/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215158Z" creationid="olivier-tdf" creationdate="20250109T215158Z">
@@ -3646,6 +3766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To select a different page style, right-click on this field.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T201005Z" creationid="timot" creationdate="20250111T201005Z">
+        <seg>Para selecionar um estilo de página diferente, clique com o botão direito neste campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To start, check out this web page: &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215455Z" creationid="olivier-tdf" creationdate="20250109T215455Z">
@@ -3658,6 +3786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215624Z" creationid="timot" creationdate="20250110T215624Z">
         <seg>Para esta edição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type the required page number and click &lt;f0&gt;OK&lt;/f0&gt; or press &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200651Z" creationid="timot" creationdate="20250111T200651Z">
+        <seg>Digite o número da página necessário e clique em &lt;f0&gt;OK&lt;/f0&gt; ou digite &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3782,6 +3918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When text is selected, the word and character counts for the selection will appear here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200747Z" creationid="timot" creationdate="20250111T200747Z">
+        <seg>Quando o texto é selecionado, a contagem de palavras e caracteres da seleção aparecerá aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When there are unsaved changes, you can click on this icon to save the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200411Z" creationid="timot" creationdate="20250111T200355Z">
@@ -3858,6 +4002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194119Z" creationid="olivier-tdf" creationdate="20250109T194119Z">
         <seg>Windows x86_64 (Windows &lt;f0&gt;8&lt;/f0&gt; ou mais recente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Word and character count</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200700Z" creationid="timot" creationdate="20250111T200700Z">
+        <seg>Contagem de palavras e caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -3962,6 +4114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200138Z" creationid="olivier-tdf" creationdate="20250109T200138Z">
         <seg>Você também pode &lt;/f3&gt;redefinir o software para suas configurações padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also see the number of words and characters (and other information including the number of pages, tables, and graphics) in the entire document in &lt;f0&gt;File &gt; Properties&lt;/f0&gt;,&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Statistics&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200933Z" creationid="timot" creationdate="20250111T200933Z">
+        <seg>Também é possível ver o número de palavras e caracteres (e outras informações, incluindo o número de páginas, tabelas e gráficos) em todo o documento em&lt;f0&gt;Arquivo &gt; Propriedades&lt;/f0&gt;,&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Estatísticas&lt;/f2&gt; aba.</seg>
       </tuv>
     </tu>
     <tu>
