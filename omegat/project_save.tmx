@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (Control)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T195154Z" creationid="timot" creationdate="20250111T195154Z">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; ou Control</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; or &lt;f1&gt;Control&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214023Z" creationid="olivier-tdf" creationdate="20250109T214023Z">
@@ -354,6 +362,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114912Z" creationid="olivier-tdf" creationdate="20250109T114912Z">
         <seg>&lt;f0&gt;Você pode baixar a versão gratuita da Comunidade do LibreOffice em: &lt;/f0&gt;&lt;f1&gt;&lt;a2&gt;https://libreoffice.org/download/&lt;/a2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; (Command)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T195201Z" creationid="timot" creationdate="20250111T195201Z">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; (Comando)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt;+&lt;f1&gt;T&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T195226Z" creationid="timot" creationdate="20250111T195226Z">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt;+&lt;f1&gt;E&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1254,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>F11</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T195220Z" creationid="timot" creationdate="20250111T195220Z">
+        <seg>F11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FAQs</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204535Z" creationid="olivier-tdf" creationdate="20250109T204535Z">
@@ -1738,6 +1770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192822Z" creationid="olivier-tdf" creationdate="20250109T192822Z">
         <seg>Além de seus formatos nativos de documentos abertos, o LibreOffice inclui suporte para abrir e salvar arquivos em muitos formatos comuns, incluindo Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3 e PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to the usual features of a word processor (spelling check, thesaurus, hyphenation, autocorrect, find and replace, automatic generation of tables of contents and indexes, mail merge, and others), Writer provides these important features, which are covered in detail in the &lt;f0&gt;Writer Guide&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T195356Z" creationid="timot" creationdate="20250111T195356Z">
+        <seg>Além dos recursos comuns de um processador de texto (verificação ortográfica, dicionário de sinônimos, hifenização, correção automática, localização e substituição, geração automática de tabelas de conteúdo e índices, mala direta e outros), o Writer fornece esses recursos importantes, que são abordados em detalhes no&lt;f0&gt;Guia do Writer&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2382,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open Styles deck in Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T195247Z" creationid="timot" creationdate="20250111T195247Z">
+        <seg>Abre o painel de estilos na barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a context menu</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195127Z" creationid="timot" creationdate="20250111T195127Z">
@@ -2546,6 +2594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T115048Z" creationid="olivier-tdf" creationdate="20250109T115048Z">
         <seg>PDF files: Olivier Hallot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page layout methods, including styles, frames, columns, and tables</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T195431Z" creationid="timot" creationdate="20250111T195431Z">
+        <seg>Métodos de leiaute de página, incluindo estilos, quadros, colunas e tabelas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,6 +3018,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250109T000849Z" creationid="olivier" creationdate="20250109T000849Z">
         <seg>Modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Templates and styles (see Chapter 4)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T195409Z" creationid="timot" creationdate="20250111T195409Z">
+        <seg>Modelos e estilos (veja Capítulo 4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3398,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What is Writer?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T195254Z" creationid="timot" creationdate="20250111T195254Z">
+        <seg>O que é o Writer?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What is in this user guide?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113929Z" creationid="olivier-tdf" creationdate="20250109T113929Z">
@@ -3558,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer is the word processor component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T195309Z" creationid="timot" creationdate="20250111T195309Z">
+        <seg>O Writer é o componente de processamento de texto do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yes, as long as requirements are met for one of the licenses in the copyright statement at the beginning of this user guide.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215554Z" creationid="olivier-tdf" creationdate="20250109T215554Z">
@@ -3666,6 +3746,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214121Z" creationid="olivier-tdf" creationdate="20250109T214121Z">
         <seg>⌘ e/ou &lt;f0&gt;Cmd&lt;/f0&gt; our &lt;f1&gt;Command&lt;/f1&gt;, dependendo do teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌥ (Option) or &lt;f0&gt;Alt&lt;/f0&gt;, depending on keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T195215Z" creationid="timot" creationdate="20250111T195215Z">
+        <seg>⌥ (Opção) ou&lt;f0&gt;Alt&lt;/f0&gt;, depende do teclado</seg>
       </tuv>
     </tu>
     <tu>
