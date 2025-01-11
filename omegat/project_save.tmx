@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if you restarted page numbering at 1 on the third page, its page number is 1 and its sequence number is 3.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200513Z" creationid="timot" creationdate="20250111T200513Z">
+        <seg>Por exemplo, a numeração de páginas foi reiniciada para 1 na terceira página, seu número de página será 1 e seu número de sequência será 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, open a Draw file from Writer and this will open Draw automatically.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192738Z" creationid="olivier-tdf" creationdate="20250109T192738Z">
@@ -1802,6 +1810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194341Z" creationid="olivier-tdf" creationdate="20250109T194341Z">
         <seg>Se os recursos do LibreOffice que exigem Java forem usados, é importante que a edição correta de 32 bits ou 64 bits corresponda à versão instalada do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If any bookmarks have been defined in the document, a right-click on this field pops up a list of bookmarks; click on one to go to that location.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200519Z" creationid="timot" creationdate="20250111T200519Z">
+        <seg>Se algum marcador tiver sido definido no documento, um clique com o botão direito neste campo exibirá uma lista de marcadores; clique em um para ir até aquele local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2766,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Page number</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200416Z" creationid="timot" creationdate="20250111T200416Z">
+        <seg>Número da página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204902Z" creationid="olivier-tdf" creationdate="20250109T204902Z">
@@ -3026,6 +3050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195536Z" creationid="olivier-tdf" creationdate="20250109T195536Z">
         <seg>Mostrar dica do dia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows the sequence number of the current page, and the total number of pages in the document, and the current page number (if different from the sequence number).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200439Z" creationid="timot" creationdate="20250111T200439Z">
+        <seg>Mostra o número de sequência da página atual, o número total de páginas no documento e o número da página atual (caso for diferente do número de sequência).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3752,8 +3784,8 @@
       <tuv lang="en-US">
         <seg>When there are unsaved changes, you can click on this icon to save the document.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200355Z" creationid="timot" creationdate="20250111T200355Z">
-        <seg>Quando houver alterações não salvas, você pode clicar neste ícone para salvar o documento.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200411Z" creationid="timot" creationdate="20250111T200355Z">
+        <seg>Quando houver alterações não salvas, é possível clicar neste ícone para salvar o documento.</seg>
       </tuv>
     </tu>
     <tu>
