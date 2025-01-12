@@ -384,8 +384,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;⌘&lt;/f0&gt;+&lt;f1&gt;T&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250111T195226Z" creationid="timot" creationdate="20250111T195226Z">
-        <seg>&lt;f0&gt;⌘&lt;/f0&gt;+&lt;f1&gt;E&lt;/f1&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203327Z" creationid="timot" creationdate="20250111T195226Z">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt;+&lt;f1&gt;T&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting Started</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203337Z" creationid="olivier-tdf" creationdate="20250112T203337Z">
+        <seg>Guia de Introdução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Getting Started 24.8</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T115019Z" creationid="olivier-tdf" creationdate="20250109T115019Z">
@@ -2050,6 +2058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194542Z" creationid="olivier-tdf" creationdate="20250109T194542Z">
         <seg>Informações sobre a instalação do LibreOffice nos vários sistemas operacionais suportados podem ser encontradas nesta página: &lt;a0&gt;https://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Installation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203344Z" creationid="olivier-tdf" creationdate="20250112T203344Z">
+        <seg>Instalar</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Styles deck in the Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203332Z" creationid="olivier-tdf" creationdate="20250112T203332Z">
+        <seg>Abre o painel de estilos na barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenOffice Forum</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204838Z" creationid="olivier-tdf" creationdate="20250109T204838Z">
@@ -2794,6 +2818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200208Z" creationid="olivier-tdf" creationdate="20250109T200208Z">
         <seg>Abre o navegador padrão na página Get Involved do site do LibreOffice, &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203453Z" creationid="olivier-tdf" creationdate="20250112T203453Z">
+        <seg>Sistema operacional</seg>
       </tuv>
     </tu>
     <tu>
@@ -3342,10 +3374,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Results after installation in sup&lt;f1&gt;p&lt;/f1&gt;orted systems</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203436Z" creationid="olivier-tdf" creationdate="20250112T203436Z">
+        <seg>Tabela &lt;seq0&gt;1&lt;/seq0&gt;: Resultados após a instalação&lt;f1&gt;&lt;/f1&gt; em sistemas suportados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;: Example of macOS keyboard shortcuts</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213906Z" creationid="olivier-tdf" creationdate="20250109T213906Z">
         <seg>Tabela &lt;seq0&gt;2&lt;/seq0&gt;: Exemplo de atalhos de teclado do macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table shows the effect of installation on each supported operating system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203405Z" creationid="olivier-tdf" creationdate="20250112T203405Z">
+        <seg>A tabela mostra o efeito da instalação em cada sistema operacional suportado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3594,6 +3642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194937Z" creationid="olivier-tdf" creationdate="20250109T194937Z">
         <seg>As opções marcadas por um sinal ‡ na lista abaixo só são acessíveis se o computador estiver conectado à Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The process for installing LibreOffice varies by operating system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203352Z" creationid="olivier-tdf" creationdate="20250112T203352Z">
+        <seg>O processo de instalação do LibreOffice varia de acordo com o sistema operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4272,8 +4328,8 @@
       <tuv lang="en-US">
         <seg>⌘ and/or &lt;f0&gt;Cmd&lt;/f0&gt; or &lt;f1&gt;Command&lt;/f1&gt;, depending on keyboard</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214121Z" creationid="olivier-tdf" creationdate="20250109T214121Z">
-        <seg>⌘ e/ou &lt;f0&gt;Cmd&lt;/f0&gt; our &lt;f1&gt;Command&lt;/f1&gt;, dependendo do teclado</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203231Z" creationid="olivier-tdf" creationdate="20250109T214121Z">
+        <seg>⌘ e/ou &lt;f0&gt;Cmd&lt;/f0&gt; ou &lt;f1&gt;Command&lt;/f1&gt;, dependendo do teclado</seg>
       </tuv>
     </tu>
     <tu>
