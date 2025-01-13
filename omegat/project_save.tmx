@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Character&lt;/f0&gt;: Modify text by the font type, size, color, weight, style, and spacing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T111435Z" creationid="timot" creationdate="20250113T111435Z">
+        <seg>&lt;f0&gt;Caractere&lt;/f0&gt;: Modifica o texto pelo tipo de fonte, tamanho, cor, espessura, estilo e espaçamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Control&lt;/f0&gt;+click or right-click depending on computer setup</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195112Z" creationid="timot" creationdate="20250111T195112Z">
@@ -318,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Paragraph&lt;/f0&gt;: Modify the paragraph by alignment, lists or bullets, background color, indent, and spacing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T111456Z" creationid="timot" creationdate="20250113T111456Z">
+        <seg>&lt;f0&gt;Parágrafo&lt;/f0&gt;: Modifica o parágrafo por alinhamento, listas ou marcadores, cor de fundo, recuo e espaçamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Please direct any comments or suggestions about this document to the Documentation Team’s forum at &lt;/f0&gt;&lt;a1&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a1&gt;&lt;f2&gt; (registration is required) or send an email to: &lt;/f2&gt;&lt;a3&gt;loguides@community.documentfoundation.org&lt;/a3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113505Z" creationid="olivier-tdf" creationdate="20250109T113419Z">
@@ -326,10 +342,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Properties deck: &lt;/f0&gt;Contains tools for direct formatting of content.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T110939Z" creationid="timot" creationdate="20250113T110939Z">
+        <seg>&lt;f0&gt;Deque Propriedades:&lt;/f0&gt;Contém ferramentas para formatação direta de conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Snap, Flatpak, Appimage &lt;/f0&gt;&lt;f1&gt;and other &lt;/f1&gt;&lt;f2&gt;packages are available as well from your distribution channel.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194037Z" creationid="olivier-tdf" creationdate="20250109T194037Z">
         <seg>&lt;f0&gt;Snap, Flatpak, Appimage &lt;/f0&gt;&lt;f1&gt;e outros &lt;/f1&gt;&lt;f2&gt;pacotes também estão disponíveis no seu canal de distribuição.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Style&lt;/f0&gt;: Apply a paragraph style at the cursor position.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T111311Z" creationid="timot" creationdate="20250113T111014Z">
+        <seg>&lt;f0&gt;Estilo&lt;/f0&gt;: Aplica um estilo de parágrafo na posição do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Table&lt;/f0&gt;: Modify table properties, such as insert, select, delete rows and columns; split or merge cells; set row height and column width; others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T111613Z" creationid="timot" creationdate="20250113T111613Z">
+        <seg>&lt;f0&gt;Tabela&lt;/f0&gt;: Modifica propriedades da tabela, como inserir, selecionar, excluir linhas e colunas; dividir ou mesclar células; definir altura da linha e largura da coluna; outros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create or update a style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T111135Z" creationid="timot" creationdate="20250113T111135Z">
+        <seg>Criar ou atualizar um estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cross-platform</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192352Z" creationid="olivier-tdf" creationdate="20250109T192352Z">
@@ -1466,6 +1514,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214713Z" creationid="olivier-tdf" creationdate="20250109T214713Z">
         <seg>Lista suspensa na qual selecionar um item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each deck consists of a title bar and one or more content panels.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T110801Z" creationid="timot" creationdate="20250113T110801Z">
+        <seg>Cada deque consiste em uma barra de título e um ou mais painéis de conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each deck has a corresponding icon on the Tab bar on the right of the Sidebar, allowing you to switch between them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T110723Z" creationid="timot" creationdate="20250113T110723Z">
+        <seg>Cada deque tem um ícone correspondente na barra de guias à direita da barra lateral, permitindo que haja alternância entre eles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3566,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some panels contain a small &lt;f0&gt;More Options&lt;/f0&gt; button, which opens a dialog to give greater choice of editing controls.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T110829Z" creationid="timot" creationdate="20250113T110829Z">
+        <seg>Alguns painéis contêm um pequeno botão &lt;f0&gt;Mais opções&lt;/f0&gt; que abre uma caixa de diálogo para oferecer mais opções de controles de edição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some settings are intended for power users and programmers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194648Z" creationid="olivier-tdf" creationdate="20250109T194648Z">
@@ -3800,8 +3872,8 @@
       <tuv lang="en-US">
         <seg>The Writer Sidebar contains &lt;f0&gt;eight&lt;/f0&gt; decks by default: Properties, Styles, Gallery, Navigator, Page, Style Inspector, Manage Changes, Accessibility Check&lt;f1&gt;, and Find&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250113T110626Z" creationid="timot" creationdate="20250113T110626Z">
-        <seg>A Barra lateral do Writer contém&lt;f0&gt;oito&lt;/f0&gt; decks por padrão: Propriedades, Estilos, Galeria, Navegador, Página, Inspetor de estilo, Gerenciar alterações, Verificar acessibilidade&lt;f1&gt;, e Pesquisar&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T110657Z" creationid="timot" creationdate="20250113T110626Z">
+        <seg>A Barra lateral do Writer contém&lt;f0&gt;oito&lt;/f0&gt; deques por padrão: Propriedades, Estilos, Galeria, Navegador, Página, Inspetor de estilo, Gerenciar alterações, Verificar acessibilidade&lt;f1&gt;, e Pesquisar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3826,6 +3898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200802Z" creationid="timot" creationdate="20250111T200802Z">
         <seg>A contagem de caracteres inclui espaços.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The decks are described below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T110737Z" creationid="timot" creationdate="20250113T110737Z">
+        <seg>Os deques são descritos abaixo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4414,10 +4494,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When text is selected, these panels appear:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T110953Z" creationid="timot" creationdate="20250113T110953Z">
+        <seg>Quando texto é selecionado, estes painéis aparecem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the cursor is in a &lt;f0&gt;table&lt;/f0&gt;, this panel appears in addition to the panels for text:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T111525Z" creationid="timot" creationdate="20250113T111525Z">
+        <seg>Quando o cursor está em um&lt;f0&gt;tabela&lt;/f0&gt;, este painel aparece além dos painéis de texto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the cursor is in a section, heading, or list item, or when an object (such as a picture or table) is selected, information about that item appears in this field.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105038Z" creationid="timot" creationdate="20250113T105038Z">
         <seg>Quando o cursor está em uma seção, título ou item de lista, ou quando um objeto (como uma imagem ou tabela) é selecionado, informações sobre esse item aparecem neste campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the dialog is open, the document is locked for other editing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T110915Z" creationid="timot" creationdate="20250113T110915Z">
+        <seg>Quando a caixa de diálogo é aberta, o documento é bloqueado a outros editores.</seg>
       </tuv>
     </tu>
     <tu>
