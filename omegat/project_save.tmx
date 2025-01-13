@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding selection (&lt;f0&gt;Shift+F8)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T104036Z" creationid="timot" creationdate="20250113T104036Z">
+        <seg>Adicionar seleção (&lt;f0&gt;Shift+F8)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advantages of LibreOffice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113947Z" creationid="olivier-tdf" creationdate="20250109T113947Z">
@@ -818,6 +826,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215633Z" creationid="timot" creationdate="20250110T215633Z">
         <seg>Antonio Fernandez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any directly formatted language settings can be reset to the default language from this menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103112Z" creationid="timot" creationdate="20250113T103112Z">
+        <seg>Qualquer configuração de idioma formatada diretamente pode ser redefinida para o idioma padrão neste menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any previous selection is deselected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103956Z" creationid="timot" creationdate="20250113T103956Z">
+        <seg>Qualquer seleção anterior fica desselecionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1158,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click in the text where you want to position the cursor and drag to where you want the selection to end.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103935Z" creationid="timot" creationdate="20250113T103935Z">
+        <seg>Clique no texto onde deseja posicionar o cursor e arraste até onde deseja que a seleção termine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to change to Overwrite mode; click again to return to Insert mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103458Z" creationid="timot" creationdate="20250113T103458Z">
+        <seg>Clique para mudar para o modo de substituição. Clique novamente para retornar ao modo de inserção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to cycle between the selection modes; right-click to select the required mode from a context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103810Z" creationid="timot" creationdate="20250113T103810Z">
+        <seg>Clique para alternar entre os modos de seleção. Clique com o botão direito para selecionar o modo desejado em um menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open a menu where you can choose another language or localization for the selected text or for the paragraph where the cursor is located.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T102926Z" creationid="timot" creationdate="20250113T102926Z">
+        <seg>Clique para abrir um menu onde é possível escolher outro idioma ou localização para o texto selecionado ou para o parágrafo onde o cursor está localizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking in the text extends or crops the current selection.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T104024Z" creationid="timot" creationdate="20250113T104024Z">
+        <seg>Clicar no texto estende ou corta a seleção atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clicking on a command in the resulting list may open a relevant dialog or have other effects.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195640Z" creationid="olivier-tdf" creationdate="20250109T195640Z">
@@ -1442,6 +1506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195641Z" creationid="timot" creationdate="20250111T195641Z">
         <seg>Exportar para PDF e EPUB (ver Capítulo 10)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extending selection (&lt;f0&gt;F8&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T104010Z" creationid="timot" creationdate="20250113T104010Z">
+        <seg>Estender a seleção (&lt;f0&gt;F8&lt;/f0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,6 +2094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Insert mode, any text after the cursor position moves forward to make room for the text you type; in Overwrite mode, text after the cursor position is replaced by the text you type.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103649Z" creationid="timot" creationdate="20250113T103649Z">
+        <seg>Em Modo de inserção, qualquer texto após a posição do cursor avança para abrir espaço para o texto digitado; no Modo substituição, o texto após a posição do cursor é substituído pelo texto digitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to its native Open Document Formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192822Z" creationid="olivier-tdf" creationdate="20250109T192822Z">
@@ -2082,6 +2162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194542Z" creationid="olivier-tdf" creationdate="20250109T194542Z">
         <seg>Informações sobre a instalação do LibreOffice nos vários sistemas operacionais suportados podem ser encontradas nesta página: &lt;a0&gt;https://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insert mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103612Z" creationid="timot" creationdate="20250113T103117Z">
+        <seg>Modo de inserção</seg>
       </tuv>
     </tu>
     <tu>
@@ -2562,6 +2650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114002Z" creationid="olivier-tdf" creationdate="20250109T114002Z">
         <seg>Requisitos mínimos para usar o LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103853Z" creationid="timot" creationdate="20250113T103853Z">
+        <seg>Modo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3198,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selection mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103751Z" creationid="timot" creationdate="20250113T103751Z">
+        <seg>Modo de seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Send Feedback</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195918Z" creationid="olivier-tdf" creationdate="20250109T195918Z">
@@ -3346,6 +3450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214700Z" creationid="olivier-tdf" creationdate="20250109T214700Z">
         <seg>Contador (clique nas setas para cima e para baixo para alterar o número mostrado na caixa de texto ao lado dela ou digite na caixa de texto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Standard selection</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103911Z" creationid="timot" creationdate="20250113T103911Z">
+        <seg>Seleção padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -3614,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The icon does not change, but when you hover the mouse pointer over this field, a tooltip indicates which mode is active.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103848Z" creationid="timot" creationdate="20250113T103848Z">
+        <seg>O ícone não muda, mas quando o ponteiro do mouse é passado sobre este campo, uma dica de ferramenta mostra qual modo está ativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The icons in this user guide have been taken from a LibreOffice installation that has been set to display the Colibre set of icons.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213005Z" creationid="olivier-tdf" creationdate="20250109T213005Z">
@@ -3826,6 +3946,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T214520Z" creationid="tdf" creationdate="20241226T214520Z">
         <seg>Este documento pode ser distribuído e/ou modificado sob os termos da GNU General Public License(&lt;a2&gt;https://www.gnu.org/license/gpl.html&lt;/a2&gt;), versão 3 ou superior, ou pela Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), versão 4.0 ou superior. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This feature is disabled when in Record Changes mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103727Z" creationid="timot" creationdate="20250113T103727Z">
+        <seg>Este recurso fica desabilitado no modo Registrar alterações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4290,6 +4418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200138Z" creationid="olivier-tdf" creationdate="20250109T200138Z">
         <seg>Você também pode &lt;/f3&gt;redefinir o software para suas configurações padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also choose &lt;f0&gt;None (Do not check spelling)&lt;/f0&gt; to exclude the text from a spelling check or choose &lt;f1&gt;More&lt;/f1&gt; to open the Character dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250113T103054Z" creationid="timot" creationdate="20250113T103054Z">
+        <seg>É também possível escolher&lt;f0&gt;Nenhum (Não verificar ortografia)&lt;/f0&gt; para excluir o texto de uma verificação ortográfica ou escolher&lt;f1&gt;Mais&lt;/f1&gt; para abrir a caixa de diálogo Caractere.</seg>
       </tuv>
     </tu>
     <tu>
