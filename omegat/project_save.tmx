@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt;: Modify fill and transparency.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250114T110828Z" creationid="timot" creationdate="20250114T110828Z">
+        <seg>&lt;f0&gt;Área&lt;/f0&gt;: Modifica o preenchimento e a transparência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Area&lt;/f0&gt;: Modify the image background fill and transparency.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T201416Z" creationid="timot" creationdate="20250113T201416Z">
@@ -278,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Effect&lt;/f0&gt;: Add and adjust a Glow or Soft Edge effect to the object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250114T111327Z" creationid="timot" creationdate="20250114T111327Z">
+        <seg>&lt;f0&gt;Efeito&lt;/f0&gt;: Adiciona e ajusta um efeito de Brilho ou Borda difusa ao objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;For information on professional support services, &lt;/f0&gt;&lt;f1&gt;&lt;a2&gt;https://www.libreoffice.org/get-help/professional-support/&lt;/a2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114958Z" creationid="olivier-tdf" creationdate="20250109T114958Z">
@@ -326,6 +342,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Line&lt;/f0&gt;: Modify style, width, color, and transparency.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250114T110853Z" creationid="timot" creationdate="20250114T110853Z">
+        <seg>&lt;f0&gt;Linha&lt;/f0&gt;: Modifica estilo, largura, cor e transparência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Media Playback&lt;/f0&gt;: Control for play, pause, stop, seek, loop, and volume.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250114T111734Z" creationid="timot" creationdate="20250114T111734Z">
+        <seg>&lt;f0&gt;Reprodução de mídia&lt;/f0&gt;: os controles para reproduzir, pausar, parar, buscar, repetir e volume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;More&lt;/f0&gt; functionalities &lt;f1&gt;can be added &lt;/f1&gt;to LibreOffice by means of extensions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194724Z" creationid="olivier-tdf" creationdate="20250109T194724Z">
@@ -354,6 +386,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113505Z" creationid="olivier-tdf" creationdate="20250109T113419Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;Direcione os comentários ou sugestões sobre este documento para a lista de documentação brasileira:&lt;a1&gt; https://community.documentfoundation.org/c/portuguese/documentation/6&lt;/a1&gt;&lt;f2&gt;&lt;/f2&gt; (requer registro), ou envie um e-mail para &lt;a3&gt;loguides@community.documentfoundation.org&lt;/a3&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Position and Size&lt;/f0&gt;: Modify width and height.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250114T111754Z" creationid="timot" creationdate="20250114T111754Z">
+        <seg>&lt;f0&gt;Posição e tamanho&lt;/f0&gt;: Modifica largura e altura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Position and Size&lt;/f0&gt;: Modify width, height, rotation, and flip attributes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250114T110543Z" creationid="timot" creationdate="20250114T110543Z">
+        <seg>&lt;f0&gt;Posição e tamanho&lt;/f0&gt;: Modifica os atributos de largura, altura, rotação e inversão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4518,10 +4566,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a drawing object is selected, these panels appear:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250114T110613Z" creationid="timot" creationdate="20250114T110613Z">
+        <seg>Ao selecionar um objeto de desenho, os seguintes painéis aparecem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a frame is selected, then the &lt;f0&gt;Area&lt;/f0&gt; and &lt;f1&gt;Wrap&lt;/f1&gt; panels appear.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250114T111547Z" creationid="timot" creationdate="20250114T111547Z">
+        <seg>Quando um quadro é selecionado, então os painéis &lt;f0&gt;Área&lt;/f0&gt; e&lt;f1&gt;Disposição de texto&lt;/f1&gt; aparecem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a graphic or image is selected, these panels appear:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T201359Z" creationid="timot" creationdate="20250113T201359Z">
         <seg>Quando um gráfico ou imagem é selecionado, estes painéis aparecem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a video or audio clip is selected, these panels appear:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250114T111604Z" creationid="timot" creationdate="20250114T111604Z">
+        <seg>Quando um clipe de vídeo ou áudio é selecionado, os seguintes painéis aparecem:</seg>
       </tuv>
     </tu>
     <tu>
