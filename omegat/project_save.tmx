@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 3, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123802Z" creationid="olivier-tdf" creationdate="20250114T123802Z">
+        <seg>Capítulo 3,&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check for Updates</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200326Z" creationid="olivier-tdf" creationdate="20250109T200326Z">
@@ -1870,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Felipe Viggiano</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124005Z" creationid="olivier-tdf" creationdate="20250114T124005Z">
+        <seg>Felipe Viggiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Options LibreOffice General dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212323Z" creationid="olivier-tdf" creationdate="20250109T212254Z">
@@ -2222,10 +2238,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8 - Chapter 3, Getting Started with Calc</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123751Z" creationid="olivier-tdf" creationdate="20250114T123751Z">
+        <seg>Guia de Introdução 24.8 - Capítulo 3, Introdução ao Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Getting Started Guide 24.8 - Preface</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T220327Z" creationid="olivier-tdf" creationdate="20250109T220327Z">
         <seg>Guia de Introdução 24.8 - Prefácio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting Started with Calc</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123819Z" creationid="olivier-tdf" creationdate="20250114T123819Z">
+        <seg>Introdução ao Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,6 +2786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T193957Z" creationid="olivier-tdf" creationdate="20250109T193957Z">
         <seg>Junte-se à comunidade e participe do destino do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jorge Rodriguez</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124014Z" creationid="olivier-tdf" creationdate="20250114T124014Z">
+        <seg>Jorge Rodriguez</seg>
       </tuv>
     </tu>
     <tu>
@@ -3650,6 +3690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213952Z" creationid="olivier-tdf" creationdate="20250109T213952Z">
         <seg>Clique com o botão direito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Robert Thornton</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123949Z" creationid="olivier-tdf" creationdate="20250114T123949Z">
+        <seg>Robert Thornton</seg>
       </tuv>
     </tu>
     <tu>
@@ -4750,10 +4798,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using spreadsheets in LibreOffice</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123825Z" creationid="olivier-tdf" creationdate="20250114T123825Z">
+        <seg>Documento de planilhas no LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Usually, if you change an option, it affects all modules.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192757Z" creationid="olivier-tdf" creationdate="20250109T192757Z">
         <seg>Normalmente, se alterar uma opção, ela afeta todos os módulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vasudev Narayanan</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124002Z" creationid="olivier-tdf" creationdate="20250114T124002Z">
+        <seg>Vasudev Narayanan</seg>
       </tuv>
     </tu>
     <tu>
@@ -5194,6 +5258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104652Z" creationid="timot" creationdate="20250113T104652Z">
         <seg>Não é necessário ativar o modo de Seleção por bloco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a2&gt;http://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123941Z" creationid="olivier-tdf" creationdate="20250114T123941Z">
+        <seg>É permitida a distribuição e/ou modificação sob os termos tanto da GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versão 3 ou posterior, ou pela licença Creative Commons Attribution (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), versão 4.0 ou posterior.</seg>
       </tuv>
     </tu>
     <tu>
