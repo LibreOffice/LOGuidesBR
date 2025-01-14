@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although the programming languages are the same, the objects and methods are different and therefore not entirely compatible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124835Z" creationid="olivier-tdf" creationdate="20250114T124835Z">
+        <seg>Embora as linguagens de programação sejam as mesmas, os objetos e métodos são diferentes e, portanto, não são totalmente compatíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amanda Labby</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215719Z" creationid="timot" creationdate="20250110T215719Z">
@@ -1262,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, Calc uses its own formula syntax, referred to as Calc A1, rather than the default Excel A1 syntax used by Microsoft Excel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124714Z" creationid="olivier-tdf" creationdate="20250114T124714Z">
+        <seg>Normalmente, o Calc usa sua própria sintaxe de fórmula, conhecida como Calc A1, em vez da sintaxe padrão do Excel A1 usada pelo Microsoft Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc (spreadsheet)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114359Z" creationid="olivier-tdf" creationdate="20250109T114359Z">
@@ -1306,6 +1322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124415Z" creationid="olivier-tdf" creationdate="20250114T124415Z">
         <seg>O Calc é o componente de documento de planilha do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc will translate seamlessly between the two.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124736Z" creationid="olivier-tdf" creationdate="20250114T124736Z">
+        <seg>O Calc traduzirá perfeitamente entre os dois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2166,6 +2190,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on formula syntax, see Chapter 8, Using Formulas and Functions, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124810Z" creationid="olivier-tdf" creationdate="20250114T124810Z">
+        <seg>Para obter mais informações sobre a sintaxe da fórmula, consulte o Capítulo 8, Usando Fórmulas e Funções, no &lt;f0&gt;Guia do Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information, refer to Chapter 13, Macros, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124942Z" creationid="olivier-tdf" creationdate="20250114T124942Z">
+        <seg>Para obter mais informações, consulte o Capítulo 14, Macros. no &lt;f0&gt;Guia do Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, see Appendix B, Open Source, Open Standards, OpenDocument.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123902Z" creationid="olivier-tdf" creationdate="20250109T123902Z">
@@ -2210,6 +2250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195726Z" creationid="timot" creationdate="20250111T195726Z">
         <seg>Criação e preenchimento de formulários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formula syntax</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124636Z" creationid="olivier-tdf" creationdate="20250114T124636Z">
+        <seg>Sintaxe de fórmula</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, if you are familiar with Excel you may wish to change the default syntax by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Formula &lt;/f0&gt;and choosing &lt;f1&gt;Excel A1&lt;/f1&gt; or &lt;f2&gt;Excel R1C1&lt;/f2&gt; in the &lt;f3&gt;Formula syntax&lt;/f3&gt; drop-down menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124758Z" creationid="olivier-tdf" creationdate="20250114T124758Z">
+        <seg>No entanto, se estiver familiarizado com o Excel, poderá alterar a sintaxe padrão acessando &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Fórmula &lt;/f0&gt;e escolhendo &lt;f1&gt;Excel A1&lt;/f1&gt; ou &lt;f2&gt;Excel R1C1&lt;/f2&gt; no menu suspenso &lt;f3&gt;Sintaxe de fórmula&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Icons</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212619Z" creationid="olivier-tdf" creationdate="20250109T212619Z">
@@ -2546,6 +2602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114306Z" creationid="olivier-tdf" creationdate="20250109T114306Z">
         <seg>Se nunca usou o LibreOffice antes, ou deseja uma introdução a todos os seus componentes, este livro é para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to use macros written in Microsoft Excel using the VBA macro code in LibreOffice, you must first edit the code in the LibreOffice Basic IDE editor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124852Z" creationid="olivier-tdf" creationdate="20250114T124852Z">
+        <seg>Se quiser usar macros escritas no Microsoft Excel usando o código de macro VBA no LibreOffice, deve-se primeiro editar o código no editor IDE do LibreOffice Basic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2990,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice can run some Excel Visual Basic scripts if you enable this feature at &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; VBA Properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124845Z" creationid="olivier-tdf" creationdate="20250114T124845Z">
+        <seg>O LibreOffice pode executar alguns scripts do Excel Visual Basic se você habilitar esse recurso em &lt;f0&gt;Ferramentas &gt; Opções &gt; Carregar/Salvar &gt; Propriedades do VBA&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice comes with an extensive Help system and this can be used as the first line of support.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194807Z" creationid="olivier-tdf" creationdate="20250109T194807Z">
@@ -3218,6 +3290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192052Z" creationid="olivier-tdf" creationdate="20250109T192052Z">
         <seg>O Math é um editor de fórmulas ou equações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Microsoft Office uses Visual Basic for Applications (VBA) code, and LibreOffice uses Basic code based on the LibreOffice API.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124824Z" creationid="olivier-tdf" creationdate="20250114T124824Z">
+        <seg>O Microsoft Office usa o código do Visual Basic for Applications (VBA), e o LibreOffice usa o código Basic baseado na API do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
