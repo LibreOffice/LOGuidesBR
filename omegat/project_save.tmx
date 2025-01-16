@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3450,6 +3450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194253Z" creationid="olivier-tdf" creationdate="20250109T194253Z">
         <seg>Mais informações e links de download para a edição apropriada para seu sistema operacional podem ser encontrados em: &lt;a0&gt;https://java.com/en/download/manual.jsp&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most of the menus are similar to those in other components of LibreOffice, although the specific commands and tools may vary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T003158Z" creationid="olivier-tdf" creationdate="20250116T003158Z">
+        <seg>A maioria dos menus é semelhante aos de outros componentes do LibreOffice, embora os comandos e ferramentas específicos possam variar.</seg>
       </tuv>
     </tu>
     <tu>
