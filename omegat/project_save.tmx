@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -634,6 +634,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T213131Z" creationid="tdf" creationdate="20241226T213131Z">
         <seg>&lt;s0&gt;LibreOffice Logo&lt;/s0&gt;&lt;s1&gt;LibreOffice Logo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;LibreOffice Start Center&lt;/s0&gt;&lt;s1&gt;LibreOffice Start Center&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250116T001044Z" creationid="tulio" creationdate="20250116T001044Z">
+        <seg>&lt;s0&gt;Centro de partida do LibreOffice&lt;/s0&gt;&lt;s1&gt;Centro de partida do LibreOffice&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2050,6 +2058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124005Z" creationid="olivier-tdf" creationdate="20250114T124005Z">
         <seg>Felipe Viggiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice Start Center</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250116T001133Z" creationid="tulio" creationdate="20250116T001133Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Centro de partida do LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -5178,6 +5194,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123825Z" creationid="olivier-tdf" creationdate="20250114T123825Z">
         <seg>Documento de planilhas no LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the desktop icon or clicking on &lt;f0&gt;LibreOffice&lt;/f0&gt; in your Applications folder launches the LibreOffice Start Center where recent files are shown along with the available modules.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250116T000926Z" creationid="tulio" creationdate="20250116T000926Z">
+        <seg>Usar o ícone da área de trabalho ou clicar em &lt;f0&gt;LibreOffice&lt;/f0&gt; na pasta Aplicativos inicia o Centro de partida LibreOffice, onde os arquivos recentes são mostrados junto com os módulos disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
