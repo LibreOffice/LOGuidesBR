@@ -1862,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displays the contents of the selected cell (data, formula, or function) and allows you to edit the cell contents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212342Z" creationid="olivier-tdf" creationdate="20250116T212342Z">
+        <seg>Exibe o conteúdo da célula selecionada (dados, fórmula ou função) e permite editar o conteúdo da célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Displays the current active cell reference using a combination of a letter and a number, for example A1.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211848Z" creationid="olivier-tdf" creationdate="20250116T211848Z">
@@ -2262,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Select Function drop-down</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212226Z" creationid="olivier-tdf" creationdate="20250116T212226Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Lista suspensa Selecionar função</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Writer Status bar, right end</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200303Z" creationid="timot" creationdate="20250111T200303Z">
@@ -2506,6 +2522,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195726Z" creationid="timot" creationdate="20250111T195726Z">
         <seg>Criação e preenchimento de formulários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formula</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212231Z" creationid="olivier-tdf" creationdate="20250116T212231Z">
+        <seg>Fórmula</seg>
       </tuv>
     </tu>
     <tu>
@@ -3142,10 +3166,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Input line</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212321Z" creationid="olivier-tdf" creationdate="20250116T212321Z">
+        <seg>Linha de entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insert mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T103612Z" creationid="timot" creationdate="20250113T103117Z">
         <seg>Modo de inserção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inserts an equals (=) sign into the selected cell and the &lt;f0&gt;Input line&lt;/f0&gt;, allowing a formula to be entered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212300Z" creationid="olivier-tdf" creationdate="20250116T212300Z">
+        <seg>Insere um sinal de igual (=) na célula selecionada e na &lt;f0&gt;linha de entrada&lt;/f0&gt;, permitindo que uma fórmula seja inserida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4502,6 +4542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select Function drop-down</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212230Z" creationid="olivier-tdf" creationdate="20250116T212230Z">
+        <seg>Lista suspensa Selecionar função</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the &lt;f4&gt;New&lt;/f4&gt; button to create new categories.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T112638Z" creationid="timot" creationdate="20250114T112638Z">
@@ -4890,6 +4938,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T201143Z" creationid="timot" creationdate="20250111T201143Z">
         <seg>Linguagem do texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f1&gt;Name Box&lt;/f1&gt; now displays a drop-down list of the most frequently used functions, for a quick access to the function name and syntax.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212320Z" creationid="olivier-tdf" creationdate="20250116T212320Z">
+        <seg>A &lt;f1&gt;Caixa de nome&lt;/f1&gt; agora exibe uma lista suspensa das funções usadas com mais frequência, para um acesso rápido ao nome e à sintaxe da função.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5618,6 +5674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215624Z" creationid="timot" creationdate="20250110T215624Z">
         <seg>Para esta edição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To turn it into a multi-line input area for very long formulas, click the down arrow on the right-hand side of the &lt;f0&gt;Input line&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212510Z" creationid="olivier-tdf" creationdate="20250116T212510Z">
+        <seg>Para transformar a linha de entrada em uma área de entrada de várias linhas para fórmulas muito longas, clique na seta para baixo à direita da &lt;f0&gt;linha de entrada&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
