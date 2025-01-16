@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Select Function drop-down&lt;/s0&gt;&lt;s1&gt;Select Function drop-down&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212157Z" creationid="olivier-tdf" creationdate="20250116T212157Z">
+        <seg>&lt;s0&gt;Lista suspensa Selecionar função&lt;/s0&gt;&lt;s1&gt;Lista suspensa Selecionar função&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;The main Writer workspace&lt;/s0&gt;&lt;s1&gt;The main Writer workspace&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195958Z" creationid="timot" creationdate="20250111T195958Z">
@@ -2582,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Function Wizard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212014Z" creationid="olivier-tdf" creationdate="20250116T211940Z">
+        <seg>Assistente de função</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Functions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125008Z" creationid="olivier-tdf" creationdate="20250114T125008Z">
@@ -2922,6 +2938,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114306Z" creationid="olivier-tdf" creationdate="20250109T114306Z">
         <seg>Se nunca usou o LibreOffice antes, ou deseja uma introdução a todos os seus componentes, este livro é para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have selected a range of cells that is also a named range, the name of the range is shown in this box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211854Z" creationid="olivier-tdf" creationdate="20250116T211854Z">
+        <seg>Se um intervalo de células que também é um intervalo nomeado é selecionado, o nome do intervalo é mostrado nesta caixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you type the name of a named range and press the &lt;f1&gt;Enter&lt;/f1&gt; key, the named range is selected and displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211954Z" creationid="olivier-tdf" creationdate="20250116T211936Z">
+        <seg>Se digitar o nome de um intervalo nomeado e pressionar a tecla &lt;f1&gt;Enter&lt;/f1&gt;, o intervalo nomeado será selecionado e exibido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3990,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens a dialog from which you can search through lists of available functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212041Z" creationid="olivier-tdf" creationdate="20250116T212041Z">
+        <seg>Abre uma caixa de diálogo a partir da qual é possível pesquisar listas de funções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens a dialog window giving options to restart LibreOffice and &lt;f0&gt;performs&lt;/f0&gt;&lt;f1&gt; several diagnostics in an eventual &lt;/f1&gt;&lt;f2&gt;misbehavior&lt;/f2&gt;&lt;f3&gt; of your installation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200124Z" creationid="olivier-tdf" creationdate="20250109T200124Z">
@@ -4450,6 +4490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212609Z" creationid="olivier-tdf" creationdate="20250109T212609Z">
         <seg>Selecione &lt;f0&gt;Usar caixas de diálogo do LibreOffice&lt;/f0&gt; em &lt;f1&gt;Caixas de diálogo Abrir/Salvar&lt;/f1&gt; para exibir as caixas de diálogo do LibreOffice em uma tela de computador, conforme mostrado na Figura &lt;t2&gt;1&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select Function</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212100Z" creationid="olivier-tdf" creationdate="20250116T212100Z">
+        <seg>Selecionar função</seg>
       </tuv>
     </tu>
     <tu>
@@ -5086,6 +5134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The letter indicates the column and the number indicates the row of the selected cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211851Z" creationid="olivier-tdf" creationdate="20250116T211851Z">
+        <seg>A letra indica a coluna e o número indica a linha da célula selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The main Writer workspace</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200020Z" creationid="timot" creationdate="20250111T200020Z">
@@ -5302,6 +5358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can be very useful because it also shows how the functions are formatted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212050Z" creationid="olivier-tdf" creationdate="20250116T212050Z">
+        <seg>Isso é muito útil pois mostra como as funções são formatadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This document is Copyright © &lt;ud0&gt;2024&lt;/ud0&gt;&lt;s1/&gt;by the LibreOffice Documentation Team.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250110T133948Z" creationid="tdf" creationdate="20241226T214144Z">
@@ -5322,6 +5386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T214520Z" creationid="tdf" creationdate="20241226T214520Z">
         <seg>Este documento pode ser distribuído e/ou modificado sob os termos da GNU General Public License(&lt;a2&gt;https://www.gnu.org/license/gpl.html&lt;/a2&gt;), versão 3 ou superior, ou pela Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), versão 4.0 ou superior. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This drop-down list provides the options shown in Figure &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt;to perform calculations on cells containing numbers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212115Z" creationid="olivier-tdf" creationdate="20250116T212115Z">
+        <seg>Esta lista suspensa fornece as opções mostradas na Figura &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt;para realizar cálculos em células contendo números.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6138,6 +6210,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T130148Z" creationid="olivier-tdf" creationdate="20250114T130148Z">
         <seg>É possível modificar a barra de menus, conforme explicado no Capítulo 13, Configuração e personalização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also jump to a specific cell by typing a cell reference in the &lt;f0&gt;Name Box&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211932Z" creationid="olivier-tdf" creationdate="20250116T211932Z">
+        <seg>Você também pode saltar para uma célula específica digitando uma referência de célula na &lt;f0&gt;Caixa de nome&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
