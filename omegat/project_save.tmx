@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Status bar&lt;/s0&gt;&lt;s1&gt;Status bar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212841Z" creationid="olivier-tdf" creationdate="20250116T212841Z">
+        <seg>&lt;s0&gt;Barra de status&lt;/s0&gt;&lt;s1&gt;Barra de status&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;The main Writer workspace&lt;/s0&gt;&lt;s1&gt;The main Writer workspace&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195958Z" creationid="timot" creationdate="20250111T195958Z">
@@ -1470,6 +1478,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cell selection information</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212954Z" creationid="olivier-tdf" creationdate="20250116T212954Z">
+        <seg>Informações da célula selecionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cell/Object information</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213016Z" creationid="olivier-tdf" creationdate="20250116T213016Z">
+        <seg>Informações de célula ou objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cells hold the individual elements – text, numbers, formulas, and so on – that make up the data to display and manipulate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125619Z" creationid="olivier-tdf" creationdate="20250114T125619Z">
@@ -1842,6 +1866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214423Z" creationid="olivier-tdf" creationdate="20250109T214423Z">
         <seg>Caixa de diálogo mostrando um exemplo de controles comuns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Digital Signature</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213013Z" creationid="olivier-tdf" creationdate="20250116T213013Z">
+        <seg>Assinatura digital</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,6 +2314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200303Z" creationid="timot" creationdate="20250111T200303Z">
         <seg>Figura&lt;seq0&gt;3&lt;/seq0&gt;: Barra de status do Writer, extremidade direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Status bar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212853Z" creationid="olivier-tdf" creationdate="20250116T212853Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Barra de status</seg>
       </tuv>
     </tu>
     <tu>
@@ -3190,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insert/Overwrite mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213004Z" creationid="olivier-tdf" creationdate="20250116T213004Z">
+        <seg>Modo de inserção / substituição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inserts an equals (=) sign into the selected cell and the &lt;f0&gt;Input line&lt;/f0&gt;, allowing a formula to be entered.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212300Z" creationid="olivier-tdf" creationdate="20250116T212300Z">
@@ -3806,6 +3854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most of the fields are similar to those in other components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212750Z" creationid="olivier-tdf" creationdate="20250116T212750Z">
+        <seg>A maioria dos campos são semelhantes aos de outros componentes do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most of the menus are similar to those in other components of LibreOffice, although the specific commands and tools may vary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T003158Z" creationid="olivier-tdf" creationdate="20250116T003158Z">
@@ -4230,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Page Style</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212956Z" creationid="olivier-tdf" creationdate="20250116T212956Z">
+        <seg>Estilo de página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Page layout methods, including styles, frames, columns, and tables</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195431Z" creationid="timot" creationdate="20250111T195431Z">
@@ -4422,6 +4486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save/Unsaved changes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212947Z" creationid="olivier-tdf" creationdate="20250116T212947Z">
+        <seg>Alterações salvas ou não salvas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seamless collaboration with other users by sharing spreadsheets.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124603Z" creationid="olivier-tdf" creationdate="20250114T124603Z">
@@ -4474,6 +4546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192827Z" creationid="olivier-tdf" creationdate="20250109T192827Z">
         <seg>Consulte o Apêndice B para obter uma lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Chapter 1, LibreOffice Basics, for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212802Z" creationid="olivier-tdf" creationdate="20250116T212802Z">
+        <seg>Consulte o Capítulo 1, Noções básicas do LibreOffice, para obter mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4650,6 +4730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T003416Z" creationid="olivier-tdf" creationdate="20250116T003416Z">
         <seg>Planilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sheet number</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212949Z" creationid="olivier-tdf" creationdate="20250116T212949Z">
+        <seg>Número da planilha</seg>
       </tuv>
     </tu>
     <tu>
@@ -4832,8 +4920,8 @@
       <tuv lang="en-US">
         <seg>Status bar</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250111T200026Z" creationid="timot" creationdate="20250111T200026Z">
-        <seg>Barra de Status</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212858Z" creationid="timot" creationdate="20250111T200026Z">
+        <seg>Barra de status</seg>
       </tuv>
     </tu>
     <tu>
@@ -4946,6 +5034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195409Z" creationid="timot" creationdate="20250111T195409Z">
         <seg>Modelos e estilos (veja Capítulo 4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Languages</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213000Z" creationid="olivier-tdf" creationdate="20250116T213000Z">
+        <seg>Linguagem do texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -5066,6 +5162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212747Z" creationid="olivier-tdf" creationdate="20250116T212747Z">
         <seg>A barra de status (Figura &lt;t0&gt;4&lt;/t0&gt;) fornece informações sobre a planilha, bem como maneiras rápidas e convenientes de alterar alguns de seus recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Status bar can allow you to do quick math operations on selected cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213108Z" creationid="olivier-tdf" creationdate="20250116T213108Z">
+        <seg>A barra de status pode permitir que faça operações matemáticas rápidas em células selecionadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6406,10 +6510,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Zoom percentage</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213036Z" creationid="olivier-tdf" creationdate="20250116T213036Z">
+        <seg>Porcentagem de zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Zoom settings interact with the selected view layout and the window width to determine how many pages are visible in the window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105644Z" creationid="timot" creationdate="20250113T105644Z">
         <seg>As configurações de zoom interagem com o leiaute de exibição selecionado e a largura da janela para determinar quantas páginas são visíveis na janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom slider</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213033Z" creationid="olivier-tdf" creationdate="20250116T213033Z">
+        <seg>Régua de zoom.</seg>
       </tuv>
     </tu>
     <tu>
