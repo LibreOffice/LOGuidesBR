@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Formula bar&lt;/s0&gt;&lt;s1&gt;Formula bar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211710Z" creationid="olivier-tdf" creationdate="20250116T211710Z">
+        <seg>&lt;s0&gt;Barra de fórmulas&lt;/s0&gt;&lt;s1&gt;Barra de fórmulas&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;LibreOffice Logo&lt;/s0&gt;&lt;s1&gt;LibreOffice Logo&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T213131Z" creationid="tdf" creationdate="20241226T213131Z">
@@ -1846,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displays the current active cell reference using a combination of a letter and a number, for example A1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211848Z" creationid="olivier-tdf" creationdate="20250116T211848Z">
+        <seg>Exibe a referência de célula ativa atual usando uma combinação de uma letra e um número, por exemplo A1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Distribute, copy, and modify the software as required, in accordance with the LibreOffice Open Source licenses.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192343Z" creationid="olivier-tdf" creationdate="20250109T192343Z">
@@ -2206,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Formula bar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211722Z" creationid="olivier-tdf" creationdate="20250116T211722Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Barra de fórmulas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Options LibreOffice View dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213125Z" creationid="olivier-tdf" creationdate="20250109T213125Z">
@@ -2534,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From left to right, the Formula bar includes the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211759Z" creationid="olivier-tdf" creationdate="20250116T211759Z">
+        <seg>Da esquerda para a direita, a Barra de fórmulas consiste do seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From this page, bugs can be reported, new features suggested and communicated with other users in the LibreOffice community.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200041Z" creationid="olivier-tdf" creationdate="20250109T200041Z">
@@ -2778,6 +2810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124758Z" creationid="olivier-tdf" creationdate="20250114T124758Z">
         <seg>No entanto, se estiver familiarizado com o Excel, poderá alterar a sintaxe padrão acessando &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Fórmula &lt;/f0&gt;e escolhendo &lt;f1&gt;Excel A1&lt;/f1&gt; ou &lt;f2&gt;Excel R1C1&lt;/f2&gt; no menu suspenso &lt;f3&gt;Sintaxe de fórmula&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, it can be hidden or made visible by going to &lt;f1&gt;View &gt; Formula Bar&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211635Z" creationid="olivier-tdf" creationdate="20250116T211635Z">
+        <seg>No entanto, ela pode ser oculta ou tornada visível acessando &lt;f1&gt;Exibir &gt; Barra de fórmulas&lt;/f1&gt; na barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3194,6 +3234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191534Z" creationid="olivier-tdf" creationdate="20250109T191534Z">
         <seg>Ele é integrado aos recursos gráficos avançados dos módulos &lt;t0/&gt;LibreOffice Draw e Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is permanently docked in this position and cannot be used as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211614Z" creationid="olivier-tdf" creationdate="20250116T211614Z">
+        <seg>Está permanentemente encaixada nesta posição e não pode ser usada como uma barra de ferramentas flutuante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3682,6 +3730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T003158Z" creationid="olivier-tdf" creationdate="20250116T003158Z">
         <seg>A maioria dos menus é semelhante aos de outros componentes do LibreOffice, embora os comandos e ferramentas específicos possam variar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name Box</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211808Z" creationid="olivier-tdf" creationdate="20250116T211808Z">
+        <seg>Caixa de nome</seg>
       </tuv>
     </tu>
     <tu>
