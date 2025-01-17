@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before you open a CSV file in Calc, make sure you know which character is the delimiter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122147Z" creationid="olivier-tdf" creationdate="20250117T122147Z">
+        <seg>Antes de abrir um arquivo CSV no Calc, certifique-se de saber qual caractere é o delimitador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Block selection (&lt;f0&gt;Alt+Shift+F8&lt;/f0&gt;)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104512Z" creationid="timot" creationdate="20250113T104329Z">
@@ -1690,6 +1698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214548Z" creationid="olivier-tdf" creationdate="20250109T214548Z">
         <seg>Caixa de seleção (mais de uma pode ser selecionada por vez).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;File &gt; Open &lt;/f0&gt;on the Menu bar, click the &lt;f1&gt;Open&lt;/f1&gt; icon on the Standard toolbar, or press &lt;f2&gt;Ctrl+O&lt;/f2&gt;, and then locate the CSV file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122304Z" creationid="olivier-tdf" creationdate="20250117T122304Z">
+        <seg>Escolha &lt;f0&gt;Arquivo &gt; Abrir&lt;/f0&gt; na barra de menus, clique no ícone &lt;f1&gt;Abrir&lt;/f1&gt; na barra de ferramentas padrão ou pressione &lt;f2&gt;Ctrl+O&lt;/f2&gt; e localize o arquivo CSV que deseja abrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each line in a CSV file represents a row in a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122215Z" creationid="olivier-tdf" creationdate="20250117T122215Z">
+        <seg>Cada linha em um arquivo de texto CSV representa uma linha numa planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each module has various details depending on the module’s functions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011541Z" creationid="tulio" creationdate="20250116T011541Z">
@@ -2554,6 +2578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204511Z" creationid="olivier-tdf" creationdate="20250109T204511Z">
         <seg>Para obter suporte on-line abrangente da comunidade, consulte as listas de discussão e o site Ask LibreOffice, &lt;a2&gt;https://ask.libreoffice.org/en/questions/&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For details about these options, see Chapter 1, Introduction, in the &lt;f1&gt;Calc Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122440Z" creationid="olivier-tdf" creationdate="20250117T122440Z">
+        <seg>Para obter detalhes sobre essas opções, consulte o Capítulo 1, Introdução, no &lt;f1&gt;Guia do Calc&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4070,6 +4102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most CSV files have the extension .csv but some CSV files may have a .txt extension.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122316Z" creationid="olivier-tdf" creationdate="20250117T122316Z">
+        <seg>A maioria dos arquivos CSV tem a extensão .csv, mas alguns arquivos CSV podem ter uma extensão .txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most of the fields are similar to those in other components of LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212750Z" creationid="olivier-tdf" creationdate="20250116T212750Z">
@@ -4282,6 +4322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213246Z" creationid="olivier-tdf" creationdate="20250109T213246Z">
         <seg>Em um sistema operacional Mac, vá para &lt;f0&gt;LibreOffice &gt; Preferências &gt; LibreOffice &gt; Geral&lt;/f0&gt; na barra de menus para abrir a caixa de diálogo para opções gerais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the Text Import dialog (Figure &lt;t0&gt;6&lt;/t0&gt;), select the required options for importing the CSV file into the Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122351Z" creationid="olivier-tdf" creationdate="20250117T122351Z">
+        <seg>Na caixa de diálogo Importação de texto (Figura &lt;t0&gt;6&lt;/t0&gt;), selecione as opções necessárias para importar o arquivo CSV para a planilha do Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4906,6 +4954,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T112638Z" creationid="timot" creationdate="20250114T112638Z">
         <seg>Selecione o botão &lt;f4&gt;Novo&lt;/f4&gt; para criar novas categorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the file and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122326Z" creationid="olivier-tdf" creationdate="20250117T122326Z">
+        <seg>Selecione o arquivo e clique em &lt;f0&gt;Abrir&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5550,6 +5606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The delimiter is often a comma but may be a semicolon, a vertical bar, or any other character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122134Z" creationid="olivier-tdf" creationdate="20250117T122134Z">
+        <seg>O delimitador é muitas vezes uma vírgula, mas pode ser um ponto e vírgula, uma barra vertical ou qualquer outro caractere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The dialog provides an opportunity to download and install any updates to LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204308Z" creationid="olivier-tdf" creationdate="20250109T204308Z">
@@ -6170,6 +6234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215158Z" creationid="olivier-tdf" creationdate="20250109T215158Z">
         <seg>Para fazer uma doação, acesse a seguinte página: &lt;a0&gt;https://www.libreoffice.org/donate/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To open a CSV file in Calc:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122217Z" creationid="olivier-tdf" creationdate="20250117T122217Z">
+        <seg>Para abrir um arquivo CSV no Calc:</seg>
       </tuv>
     </tu>
     <tu>
