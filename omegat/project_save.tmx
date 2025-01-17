@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An option is available to highlight the entire row and column of the active cell using a transparent color.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121024Z" creationid="olivier-tdf" creationdate="20250117T121024Z">
+        <seg>Uma opção está disponível para destacar toda a linha e coluna da célula ativa usando uma cor transparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And many more</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195731Z" creationid="timot" creationdate="20250111T195731Z">
@@ -2094,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each Calc spreadsheet can contain multiple sheets, which are displayed as tabs at the bottom of the spreadsheet window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121259Z" creationid="olivier-tdf" creationdate="20250117T121259Z">
+        <seg>Cada documento de planilha do Calc pode conter várias planilhas, que são exibidas como guias na parte inferior da janela da planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each LibreOffice module’s user interface is based on the main LibreOffice window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011529Z" creationid="tulio" creationdate="20250116T011529Z">
@@ -2646,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see Chapter 15, Setting up and Customizing, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T120947Z" creationid="olivier-tdf" creationdate="20250117T120947Z">
+        <seg>Para obter mais informações, consulte o Capítulo 15, Configuração e Personalização, no &lt;f0&gt;Guia do Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, see Chapter 16, User Interface Variants, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125901Z" creationid="olivier-tdf" creationdate="20250114T125901Z">
@@ -3002,6 +3026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192806Z" creationid="olivier-tdf" creationdate="20250109T192806Z">
         <seg>No entanto, as opções do LibreOffice podem ser definidas no nível do módulo ou mesmo no nível do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, a configuration option is available to switch to using the pointer shape defined in the icon theme (typically a fat cross).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T120928Z" creationid="olivier-tdf" creationdate="20250117T120928Z">
+        <seg>No entanto, uma opção de configuração está disponível para alternar para o uso da forma de ponteiro definida no tema de ícones (normalmente uma cruz gorda).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4926,6 +4958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sheet tabs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121206Z" creationid="olivier-tdf" creationdate="20250117T121206Z">
+        <seg>Abas das planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Tip of the Day</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195536Z" creationid="olivier-tdf" creationdate="20250109T195536Z">
@@ -5422,6 +5462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The active cell is always indicated by highlighting its corresponding column and row header cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121010Z" creationid="olivier-tdf" creationdate="20250117T121010Z">
+        <seg>A célula ativa é sempre indicada destacando suas células de cabeçalho de coluna e linha correspondentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The character count includes spaces.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200802Z" creationid="timot" creationdate="20250111T200802Z">
@@ -5898,6 +5946,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204425Z" creationid="olivier-tdf" creationdate="20250109T204425Z">
         <seg>Essas informações geralmente são solicitadas se a comunidade precisar de ajuda ou assistência com o software (no macOS, essa opção é encontrada no &lt;f1&gt;LibreOffice&lt;/f1&gt; na barra de menus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is enabled/disabled using the &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; View &gt; Column/Row highlighting&lt;/f0&gt; and &lt;f1&gt;View &gt; Column/Row Highlighting&lt;/f1&gt; options on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121203Z" creationid="olivier-tdf" creationdate="20250117T121203Z">
+        <seg>Isso é ativado/desativado usando as opções &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Exibir &gt; Realce de coluna/linha&lt;/f0&gt; e &lt;f1&gt;Exibir &gt; Destacar coluna/linha&lt;/f1&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
