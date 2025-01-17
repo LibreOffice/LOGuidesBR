@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f1&gt;Use [xxx] Format&lt;/f1&gt; to continue saving in your selected spreadsheet format or click &lt;f2&gt;Use ODF Format&lt;/f2&gt; to save the spreadsheet in Calc .ods format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T124137Z" creationid="olivier-tdf" creationdate="20250117T124137Z">
+        <seg>Clique em &lt;f1&gt;Utilizar o formato [xxx]&lt;/f1&gt; para continuar salvando no formato de documento de planilha selecionado ou clique em &lt;f2&gt;Utilizar o formato ODF&lt;/f2&gt; para salvar a documento de planilha no formato padrão .ods do Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click an icon to change between single page, multiple pages, and book layout views (Figure &lt;t0&gt;4&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105607Z" creationid="timot" creationdate="20250113T105607Z">
@@ -3306,6 +3314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211954Z" creationid="olivier-tdf" creationdate="20250116T211936Z">
         <seg>Se digitar o nome de um intervalo nomeado e pressionar a tecla &lt;f1&gt;Enter&lt;/f1&gt;, o intervalo nomeado será selecionado e exibido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you uncheck &lt;f3&gt;Ask when not saving in ODF or default format&lt;/f3&gt;, this dialog no longer appears when saving in another format (the same option can also be found at &lt;f4&gt;Tools &gt; Options &gt; Load/Save &gt; General &gt; Warn when not saving in ODF or default format&lt;/f4&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T124445Z" creationid="olivier-tdf" creationdate="20250117T124220Z">
+        <seg>Se desmarcar &lt;f3&gt;Perguntar se o formato não é ODF ou formato padrão&lt;/f3&gt;, esta caixa de diálogo não aparecerá mais ao salvar em outro formato (a mesma opção também pode ser encontrada em &lt;f4&gt;Ferramentas &gt; Opções &gt; Carregar/Salvar &gt; Geral &gt; Avisar quando não for salvar no formato ODF ou padrão&lt;/f4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
