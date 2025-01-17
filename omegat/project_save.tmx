@@ -672,8 +672,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Confirm File Format dialog&lt;/s0&gt;&lt;s1&gt;Confirm File Format dialog&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T124612Z" creationid="olivier-tdf" creationdate="20250117T124612Z">
-        <seg>&lt;s0&gt;Caixa de diálogo  Confirme o formato de arquivo&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Confirme o formato de arquivo&lt;/s1&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T124705Z" creationid="olivier-tdf" creationdate="20250117T124612Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Confirme o formato de arquivo&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Confirme o formato de arquivo&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,6 +1918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Confirm File Format dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T124645Z" creationid="olivier-tdf" creationdate="20250117T124645Z">
+        <seg>Caixa de diálogo Confirme o formato de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consistent user interface</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192543Z" creationid="olivier-tdf" creationdate="20250109T192543Z">
@@ -2582,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Confirm File Format dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T124626Z" creationid="olivier-tdf" creationdate="20250117T124626Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Caixa de diálogo Confirme o formato de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File compatibility</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192812Z" creationid="olivier-tdf" creationdate="20250109T192812Z">
@@ -3094,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here you can set the CSV format for your file, including the character set, the field delimiter, and the string (text) delimiter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T124920Z" creationid="olivier-tdf" creationdate="20250117T124920Z">
+        <seg>Defina o formato CSV para o seu arquivo, incluindo o conjunto de caracteres, o delimitador de campo e o delimitador de string (texto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here, you can navigate to the file location, select it, then click on the &lt;f1&gt;Open button&lt;/f1&gt; to launch the applicable LibreOffice module.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011023Z" creationid="tulio" creationdate="20250116T011023Z">
@@ -3314,6 +3338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211854Z" creationid="olivier-tdf" creationdate="20250116T211854Z">
         <seg>Se um intervalo de células que também é um intervalo nomeado é selecionado, o nome do intervalo é mostrado nesta caixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you select &lt;f0&gt;Text CSV (*.csv)&lt;/f0&gt; format for your spreadsheet, the Export Text File dialog (Figure &lt;t1&gt;8&lt;/t1&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T124830Z" creationid="olivier-tdf" creationdate="20250117T124830Z">
+        <seg>Ao selecionar o formato &lt;f0&gt;Texto CSV (*.csv)&lt;/f0&gt;, para seu documento de planilha, a caixa de diálogo Exportar arquivo de texto (Figura &lt;t1&gt;8&lt;/t1&gt;) abre.</seg>
       </tuv>
     </tu>
     <tu>
