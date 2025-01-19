@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of creating floating sub-toolbar from a tool palette&lt;/s0&gt;&lt;s1&gt;Example of creating floating sub-toolbar from a tool palette&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173747Z" creationid="tulio" creationdate="20250119T173747Z">
+        <seg>&lt;s0&gt;Exemplo de criação de sub-barra de ferramentas flutuante a partir de uma paleta de ferramentas&lt;/s0&gt;&lt;s1&gt; Exemplo de criação de sub-barra de ferramentas flutuante a partir de uma paleta de ferramentas&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Export Text File dialog for CSV files&lt;/s0&gt;&lt;s1&gt;Export Text File dialog for CSV files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125048Z" creationid="olivier-tdf" creationdate="20250117T125048Z">
@@ -986,6 +994,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200610Z" creationid="timot" creationdate="20250111T200610Z">
         <seg>Uma pequena caixa de diálogo Ir para a página é exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A tool palette is a pop-up collection of tools attached to a single tool on a toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173723Z" creationid="tulio" creationdate="20250119T173723Z">
+        <seg>Uma paleta de ferramentas é uma coleção de ferramentas anexadas a uma única ferramenta em uma barra de ferramentas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,6 +1902,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Basic Shapes&lt;/f0&gt; on the Drawing toolbar to open the tool palette.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173813Z" creationid="tulio" creationdate="20250119T173813Z">
+        <seg>Clique em &lt;f0&gt;Formas Básicas&lt;/f0&gt; na barra de ferramentas Desenho para abrir a paleta de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the toolbar handle (highlighted in Figure &lt;t0&gt;2&lt;/t0&gt;) and drag the tool palette onto the open document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173828Z" creationid="tulio" creationdate="20250119T173828Z">
+        <seg>Clique na alça da barra de ferramentas (destacada na Figura &lt;t0&gt;2&lt;/t0&gt;) e arraste a paleta de ferramentas para o documento aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the &lt;f0&gt;Export&lt;/f0&gt; button, and choose a location for the PDF.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T222230Z" creationid="olivier-tdf" creationdate="20250117T222230Z">
@@ -2550,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of creating floating sub-toolbar from a tool palette</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173805Z" creationid="tulio" creationdate="20250119T173805Z">
+        <seg>Exemplo de criação de sub-barra de ferramentas flutuante a partir de uma paleta de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Export Text File dialog for CSV files</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125112Z" creationid="olivier-tdf" creationdate="20250117T125112Z">
@@ -2690,6 +2730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200006Z" creationid="timot" creationdate="20250111T200006Z">
         <seg>Figura&lt;seq0&gt;1&lt;/seq0&gt;: O principal espaço de trabalho do Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Example of creating floating sub-toolbar from a tool palette</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173755Z" creationid="tulio" creationdate="20250119T173755Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Exemplo de criação de sub-barra de ferramentas flutuante a partir de uma paleta de ferramentas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3650,6 +3698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194845Z" creationid="olivier-tdf" creationdate="20250109T194845Z">
         <seg>Se a ajuda offline não estiver instalada em um computador, mas conectada à Internet, uma caixa de diálogo será aberta, dando a opção de &lt;f2&gt;Ler Ajuda Online&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the toolbar handle is not visible, the tool palette, or toolbar, is locked into its docked position and has to be unlocked.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173927Z" creationid="tulio" creationdate="20250119T173927Z">
+        <seg>Se a alça da barra de ferramentas não estiver visível, a paleta de ferramentas, ou barra de ferramentas, é bloqueada em sua posição encaixada e deve ser desbloqueada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5438,6 +5494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Release the toolbar handle and the tool palette becomes a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173836Z" creationid="tulio" creationdate="20250119T173836Z">
+        <seg>Solte a alça da barra de ferramentas e a paleta de ferramentas se torna uma barra de ferramentas flutuante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Restart in Safe Mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200055Z" creationid="olivier-tdf" creationdate="20250109T200055Z">
@@ -7210,6 +7274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212510Z" creationid="olivier-tdf" creationdate="20250116T212510Z">
         <seg>Para transformar a linha de entrada em uma área de entrada de várias linhas para fórmulas muito longas, clique na seta para baixo à direita da &lt;f0&gt;linha de entrada&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tool palettes can be made into floating sub-toolbars using the following example:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173732Z" creationid="tulio" creationdate="20250119T173732Z">
+        <seg>As paletas de ferramentas podem ser transformadas em sub-barras flutuantes usando o seguinte exemplo:</seg>
       </tuv>
     </tu>
     <tu>
