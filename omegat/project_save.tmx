@@ -1270,6 +1270,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any command that opens a dialog has three dots following that command, for example: the command &lt;f0&gt;Edit &gt; Find and Replace…&lt;/f0&gt; on the Menu bar will open a dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144435Z" creationid="tulio" creationdate="20250119T144435Z">
+        <seg>Qualquer comando que abra uma caixa de diálogo tem três pontos após esse comando, por exemplo: o comando &lt;f0&gt;Editar &gt; Localizar e Substituir...&lt;/f0&gt; na barra de menus abrirá uma caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any command that opens yet another submenu has a right-pointing chevron &lt;f0&gt;˃&lt;/f0&gt; that follows the command’s name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144644Z" creationid="tulio" creationdate="20250119T144644Z">
+        <seg>Qualquer comando que abra outro submenu tem uma seta apontando para a &lt;f0&gt;&lt;/f0&gt; direita que segue o nome do comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Any directly formatted language settings can be reset to the default language from this menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T103112Z" creationid="timot" creationdate="20250113T103112Z">
@@ -1990,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contains keyboard shortcuts for some commands.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144905Z" creationid="tulio" creationdate="20250119T144905Z">
+        <seg>Contém atalhos de teclado para alguns comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113813Z" creationid="olivier-tdf" creationdate="20250109T113813Z">
@@ -2026,6 +2050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T202832Z" creationid="tdf" creationdate="20241226T215518Z">
         <seg>Colaboradores desta edição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Control</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145241Z" creationid="tulio" creationdate="20250119T145241Z">
+        <seg>Controle</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145248Z" creationid="tulio" creationdate="20250119T145248Z">
+        <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214423Z" creationid="olivier-tdf" creationdate="20250109T214423Z">
@@ -2138,6 +2178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104711Z" creationid="timot" creationdate="20250113T104711Z">
         <seg>Assinatura digital</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Directly cause an action, for example &lt;f0&gt;File &gt; Close&lt;/f0&gt; or &lt;f1&gt;Save.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144347Z" creationid="tulio" creationdate="20250119T144347Z">
+        <seg>Causa diretamente uma ação, por exemplo &lt;f0&gt;Arquivo &gt; Fechar&lt;/f0&gt; ou &lt;f1&gt;Salvar.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145303Z" creationid="tulio" creationdate="20250119T145303Z">
+        <seg>Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File compatibility</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192812Z" creationid="olivier-tdf" creationdate="20250109T192812Z">
@@ -2834,6 +2890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213810Z" creationid="olivier-tdf" creationdate="20250109T213810Z">
         <seg>Por exemplo, a Galeria de Pessoas está disponível em &lt;a1&gt;https://extensions.libreoffice.org/en/extensions/show/people-gallery&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the default Menu bar for the LibreOffice Writer module includes the controls described &lt;f0&gt;in Table &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145216Z" creationid="tulio" creationdate="20250119T145216Z">
+        <seg>Por exemplo, a barra de menus padrão para o módulo LibreOffice Writer inclui os controles descritos &lt;f0&gt;na Tabela &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3258,6 +3322,46 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123954Z" creationid="olivier-tdf" creationdate="20250109T123954Z">
         <seg>Figuras e objetos de outros módulos do LibreOffice podem ser inseridos em documentos do Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Has commands for editing a document, including &lt;f0&gt;Undo&lt;/f0&gt;, &lt;f1&gt;Find and Replace&lt;/f1&gt;, &lt;f2&gt;Cut&lt;/f2&gt;, &lt;f3&gt;Copy&lt;/f3&gt;, &lt;f4&gt;Paste&lt;/f4&gt;, and &lt;f5&gt;Track Changes&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145740Z" creationid="tulio" creationdate="20250119T145518Z">
+        <seg>Possui comandos para editar um documento, incluindo &lt;f0&gt;Desfazer&lt;/f0&gt;, &lt;f1&gt;Localizar e Substituir&lt;/f1&gt;, &lt;f2&gt;Recortar&lt;/f2&gt;, &lt;f3&gt;Copiar&lt;/f3&gt;, &lt;f4&gt;Colar&lt;/f4&gt; e &lt;f5&gt;Registrar alterações&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Has commands that affect the display window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150350Z" creationid="tulio" creationdate="20250119T150350Z">
+        <seg>Possui comandos que afetam a janela de exibição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Has commands that create fill-in forms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150303Z" creationid="tulio" creationdate="20250119T150303Z">
+        <seg>Possui comandos que criam formulários de preenchimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Has commands that handle type styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150058Z" creationid="tulio" creationdate="20250119T150058Z">
+        <seg>Possui comandos que manipulam estilos tipográficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Has commands that insert elements into a document, for example &lt;f0&gt;Image&lt;/f0&gt;, &lt;f1&gt;Comment&lt;/f1&gt;, &lt;f2&gt;Header&lt;/f2&gt; &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;Footer&lt;/f4&gt;, and &lt;f5&gt;Table of Contents and Index&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145907Z" creationid="tulio" creationdate="20250119T145725Z">
+        <seg>Possui comandos que inserem elementos em um documento, por exemplo, &lt;f0&gt;Figura&lt;/f0&gt;, &lt;f1&gt;Anotação&lt;/f1&gt;, &lt;f2&gt;Cabeçalho&lt;/f2&gt; &lt;f3&gt;e&lt;/f3&gt; &lt;f4&gt;Rodapé&lt;/f4&gt;, e &lt;f5&gt;Sumário e Índices&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3934,6 +4038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It includes commands that apply common styles and manage styles as well as commands for editing, loading, and creating styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150221Z" creationid="tulio" creationdate="20250119T150221Z">
+        <seg>Inclui comandos que aplicam estilos comuns e gerenciam estilos, bem como comandos para editar, carregar e criar estilos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It includes over 500 functions for financial, statistical, and mathematical operations, among others.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191330Z" creationid="olivier-tdf" creationdate="20250109T191330Z">
@@ -4278,6 +4390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Links to the LibreOffice Help, What’s This?, and information about LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150433Z" creationid="tulio" creationdate="20250119T150433Z">
+        <seg>Links para a Ajuda do LibreOffice, O que é isto? e informações sobre o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linux users will also find LibreOffice included free in many of the latest distributions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194421Z" creationid="olivier-tdf" creationdate="20250109T194421Z">
@@ -4298,6 +4418,46 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195554Z" creationid="timot" creationdate="20250111T195554Z">
         <seg>Listas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lists Writer functions that handle specific tasks, including &lt;f0&gt;Spelling&lt;/f0&gt;, &lt;f1&gt;AutoCorrect&lt;/f1&gt;, &lt;f2&gt;Customize&lt;/f2&gt;, and &lt;f3&gt;Options&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150335Z" creationid="tulio" creationdate="20250119T150335Z">
+        <seg>Lista as funções do Writer que lidam com tarefas específicas, incluindo &lt;f0&gt;Ortografia&lt;/f0&gt;, &lt;f1&gt;AutoCorreção&lt;/f1&gt;, &lt;f2&gt;Personalizar&lt;/f2&gt; e &lt;f3&gt;Opções&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lists commands that allow you to insert and edit tables with text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150243Z" creationid="tulio" creationdate="20250119T150243Z">
+        <seg>Lista comandos que permitem inserir e editar tabelas com texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lists commands that apply to the entire document, for example &lt;f0&gt;Open&lt;/f0&gt;, &lt;f1&gt;Save&lt;/f1&gt;, and &lt;f2&gt;Print&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145327Z" creationid="tulio" creationdate="20250119T145327Z">
+        <seg>Lista comandos que se aplicam a todo o documento, por exemplo, &lt;f0&gt;Abrir&lt;/f0&gt;, &lt;f1&gt;Salvar&lt;/f1&gt; e &lt;f2&gt;Imprimir&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lists commands that are used to format a document’s layout.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145928Z" creationid="tulio" creationdate="20250119T145928Z">
+        <seg>Lista comandos usados para formatar o layout de um documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lists commands that control how a document is displayed, such as &lt;f0&gt;User Interface&lt;/f0&gt;, &lt;f1&gt;Toolbars&lt;/f1&gt;, &lt;f2&gt;Text Boundaries&lt;/f2&gt;, &lt;f3&gt;Rulers&lt;/f3&gt;, and &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145631Z" creationid="tulio" creationdate="20250119T145631Z">
+        <seg>Lista comandos que controlam como um documento é exibido, como &lt;f0&gt;Interface do Usuário&lt;/f0&gt;, &lt;f1&gt;Barras de ferramentas&lt;/f1&gt;, &lt;f2&gt;Limites do Texto&lt;/f2&gt;, &lt;f3&gt;Réguas&lt;/f3&gt; e &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4414,6 +4574,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>May contain a selection box or radio button box indicating a selection.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145144Z" creationid="tulio" creationdate="20250119T145144Z">
+        <seg>Pode conter uma caixa de seleção ou caixa de botão de opção indicando uma seleção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May contain the icon for the command.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144915Z" creationid="tulio" creationdate="20250119T144915Z">
+        <seg>Pode conter o ícone para o comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Menu bar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T130021Z" creationid="olivier-tdf" creationdate="20250114T130021Z">
@@ -4498,6 +4674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T003158Z" creationid="olivier-tdf" creationdate="20250116T003158Z">
         <seg>A maioria dos menus é semelhante aos de outros componentes do LibreOffice, embora os comandos e ferramentas específicos possam variar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving the mouse’s arrow over one of these commands opens another submenu that contains additional commands, for example &lt;f1&gt;View &gt; Rulers &gt; Rulers&lt;/f1&gt;, or &lt;f2&gt;Vertical Ruler&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144846Z" creationid="tulio" creationdate="20250119T144846Z">
+        <seg>Mover a seta do mouse sobre um desses comandos abre outro submenu que contém comandos adicionais, por exemplo, &lt;f1&gt;Exibir &gt; Réguas &gt; Réguas&lt;/f1&gt; ou &lt;f2&gt;Régua Vertical&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4770,6 +4954,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195127Z" creationid="timot" creationdate="20250111T195127Z">
         <seg>Abre um menu de contexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open a dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144357Z" creationid="tulio" creationdate="20250119T144357Z">
+        <seg>Abra uma caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open another submenu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144456Z" creationid="tulio" creationdate="20250119T144456Z">
+        <seg>Abra outro submenu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5830,6 +6030,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;: Menu bar &lt;f1&gt;entries&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145232Z" creationid="tulio" creationdate="20250119T145232Z">
+        <seg>Tabela &lt;seq0&gt;2&lt;/seq0&gt;: &lt;f1&gt;Entradas&lt;/f1&gt; da barra de menus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;shows the default Menu bar controls for the Writer module.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150450Z" creationid="tulio" creationdate="20250119T150450Z">
+        <seg>A Tabela &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;mostra os controles padrão da barra de menus para o módulo Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table shows the effect of installation on each supported operating system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203405Z" creationid="olivier-tdf" creationdate="20250112T203405Z">
@@ -6098,6 +6314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T110737Z" creationid="timot" creationdate="20250113T110737Z">
         <seg>Os deques são descritos abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default controls for other modules may vary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150459Z" creationid="tulio" creationdate="20250119T150459Z">
+        <seg>Os controles padrão para outros módulos podem variar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7710,10 +7934,90 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>‍Edit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145333Z" creationid="tulio" creationdate="20250119T145333Z">
+        <seg>‍Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Form</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150249Z" creationid="tulio" creationdate="20250119T150249Z">
+        <seg>‍Formulário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Format</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145919Z" creationid="tulio" creationdate="20250119T145919Z">
+        <seg>Formatar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Help</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150356Z" creationid="tulio" creationdate="20250119T150356Z">
+        <seg>‍Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Insert</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145637Z" creationid="tulio" creationdate="20250119T145637Z">
+        <seg>‍Inserir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>‍Linux</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203612Z" creationid="olivier-tdf" creationdate="20250112T203612Z">
         <seg>‍Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145933Z" creationid="tulio" creationdate="20250119T145933Z">
+        <seg>‍Estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Table</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150230Z" creationid="tulio" creationdate="20250119T150230Z">
+        <seg>‍Tabela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Tools</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150309Z" creationid="tulio" creationdate="20250119T150309Z">
+        <seg>‍Ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍View</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145532Z" creationid="tulio" creationdate="20250119T145532Z">
+        <seg>Exibir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Window</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150343Z" creationid="tulio" creationdate="20250119T150343Z">
+        <seg>‍Janela</seg>
       </tuv>
     </tu>
     <tu>
