@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3242,6 +3242,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172443Z" creationid="tulio" creationdate="20250119T172443Z">
         <seg>Por exemplo, se o Writer ou o Calc forem abertos, a segunda barra de ferramentas acoplada é a barra de ferramentas Formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if currently on the first sheet tab, then &lt;f7&gt;Ctrl+Page Up&lt;/f7&gt; moves to the last sheet tab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T133508Z" creationid="olivier-tdf" creationdate="20250120T133508Z">
+        <seg>Por exemplo, se estiver atualmente na primeira guia da planilha, &lt;f7&gt;Ctrl+Page Up&lt;/f7&gt; se moverá para a última aba da planilha.</seg>
       </tuv>
     </tu>
     <tu>
