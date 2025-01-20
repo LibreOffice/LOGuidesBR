@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Press Enter to paste and clear clipboard&lt;/f0&gt;: checking this option causes &lt;f1&gt;Enter&lt;/f1&gt; to paste the content of the clipboard to the highlighted cell, subsequently clearing the clipboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T142901Z" creationid="olivier-tdf" creationdate="20250120T142901Z">
+        <seg>&lt;f0&gt;Tecle Enter para colar e esvaziar a área de transferência&lt;/f0&gt;: marcar esta opção faz com que &lt;f1&gt;Enter&lt;/f1&gt; cole o conteúdo da área de transferência na célula destacada, limpando posteriormente a área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Press Enter to switch to edit mode&lt;/f0&gt;: checking this option causes &lt;f1&gt;Enter&lt;/f1&gt; to open the highlighted cell for editing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T142554Z" creationid="olivier-tdf" creationdate="20250120T142554Z">
@@ -7914,6 +7922,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200651Z" creationid="timot" creationdate="20250111T200651Z">
         <seg>Digite o número da página necessário e clique em &lt;f0&gt;OK&lt;/f0&gt; ou digite &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uncheck to make the &lt;f2&gt;Enter&lt;/f2&gt; key select the adjacent cell in the direction of movement defined by the &lt;f3&gt;Press Enter to move selection&lt;/f3&gt; option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T142752Z" creationid="olivier-tdf" creationdate="20250120T142752Z">
+        <seg>Desmarque para fazer com que a tecla &lt;f2&gt;Enter&lt;/f2&gt; selecione a célula adjacente na direção do movimento definida pela opção &lt;f3&gt;Pressione Enter para mover a seleção&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
