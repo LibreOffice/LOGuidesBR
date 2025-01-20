@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, LibreOffice creates and saves files in the OpenDocument format (ODF).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T000825Z" creationid="olivier" creationdate="20250120T000825Z">
+        <seg>Normalmente, o LibreOffice cria e salva arquivos no formato OpenDocument (ODF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, each new spreadsheet is created with one sheet named &lt;f0&gt;Sheet1&lt;/f0&gt; and you can create additional sheets as needed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121331Z" creationid="olivier-tdf" creationdate="20250117T121331Z">
@@ -1818,6 +1826,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123802Z" creationid="olivier-tdf" creationdate="20250114T123802Z">
         <seg>Capítulo 3,&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chapter 4, Working with Styles, Templates, and Hyperlinks, covers how to create a document from a template.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T000752Z" creationid="olivier" creationdate="20250120T000752Z">
+        <seg>Capítulo 4, Trabalhar com estilos, modelos e hiperlinks, aborda como criar um documento a partir de um modelo.</seg>
       </tuv>
     </tu>
     <tu>
