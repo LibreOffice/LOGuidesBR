@@ -606,6 +606,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Press Enter to move selection&lt;/f0&gt;: check this option to choose the direction that the cell focus moves after you press the &lt;f1&gt;Enter&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135500Z" creationid="olivier-tdf" creationdate="20250120T135500Z">
+        <seg>&lt;f0&gt;Pressione Enter para mover a seleção&lt;/f0&gt;: marque esta opção para escolher a direção em que o foco da célula se move depois de pressionar a tecla &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Press Enter to switch to edit mode&lt;/f0&gt;: checking this option causes &lt;f1&gt;Enter&lt;/f1&gt; to open the highlighted cell for editing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T142554Z" creationid="olivier-tdf" creationdate="20250120T142554Z">
+        <seg>&lt;f0&gt;Pressione Enter para alternar para o modo de edição&lt;/f0&gt;: marcar esta opção faz com que &lt;f1&gt;Enter&lt;/f1&gt; abra a célula destacada para edição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Properties deck: &lt;/f0&gt;Contains tools for direct formatting of content.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T110939Z" creationid="timot" creationdate="20250113T110939Z">
@@ -6266,6 +6282,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123713Z" creationid="olivier-tdf" creationdate="20250117T123713Z">
         <seg>Selecione a pasta onde deseja salvar o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the required direction of movement in the adjacent drop-down menu (&lt;f2&gt;Down&lt;/f2&gt;, &lt;f3&gt;Right&lt;/f3&gt;, &lt;f4&gt;Up&lt;/f4&gt;, or &lt;f5&gt;Left&lt;/f5&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135516Z" creationid="olivier-tdf" creationdate="20250120T135516Z">
+        <seg>Selecione a direção de movimento necessária no menu suspenso adjacente (&lt;f2&gt;para baixo, para&lt;/f2&gt; a &lt;f3&gt;direita&lt;/f3&gt;, para &lt;f4&gt;cima&lt;/f4&gt; ou para a &lt;f5&gt;esquerda&lt;/f5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
