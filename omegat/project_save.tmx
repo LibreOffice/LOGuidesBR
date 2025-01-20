@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Enter key:&lt;/f0&gt; By default, moves the cell focus down in a column to the next row.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003622Z" creationid="olivier" creationdate="20250120T003622Z">
+        <seg>&lt;f0&gt;Tecla Enter:&lt;/f0&gt; normalmente move o foco da célula para baixo em uma coluna para a próxima linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Find deck&lt;/f0&gt;: Type a search term or phrase in the box at the top, then press &lt;f1&gt;Enter&lt;/f1&gt; to display a list of the results and their context.&lt;f2&gt; For more information, see page &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T114507Z" creationid="timot" creationdate="20250114T114507Z">
@@ -458,6 +466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T113428Z" creationid="timot" creationdate="20250114T113428Z">
         <seg>&lt;f0&gt;Deque Navegador&lt;/f0&gt;: facilita a navegação para tipos específicos de conteúdo e a reorganização de conteúdos com base em categorias, como títulos, tabelas, quadros, imagens e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Navigator:&lt;/f0&gt; Open the Navigator (Figure &lt;t1&gt;13&lt;/t1&gt;) by pressing &lt;f2&gt;F5&lt;/f2&gt; or going to&lt;f3&gt; View &gt; Navigator&lt;/f3&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003456Z" creationid="olivier" creationdate="20250120T003456Z">
+        <seg>&lt;f0&gt;Navegador:&lt;/f0&gt; abra o Navegador (Figura &lt;t1&gt;13&lt;/t1&gt;) pressionando &lt;f2&gt;F5&lt;/f2&gt; ou indo para&lt;f3&gt; Visualizar &gt; Navegador&lt;/f3&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124345Z" creationid="olivier-tdf" creationdate="20250114T124345Z">
         <seg>&lt;f0&gt;⌥&lt;/f0&gt; (Opcional) ou Alt, dependendo do teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f1&gt;Shift+Enter&lt;/f1&gt; moves the focus up in a column to the previous row.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003639Z" creationid="olivier" creationdate="20250120T003639Z">
+        <seg>&lt;f1&gt;Shift+Enter&lt;/f1&gt; move o foco para cima em uma coluna para a linha anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cell references are case-insensitive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003423Z" creationid="olivier" creationdate="20250120T003423Z">
+        <seg>As referências de células não diferenciam maiúsculas de minúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cell selection information</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212954Z" creationid="olivier-tdf" creationdate="20250116T212954Z">
@@ -2650,6 +2682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203639Z" creationid="olivier-tdf" creationdate="20250112T203639Z">
         <seg>As entradas de menu para o LibreOffice e cada um dos módulos do LibreOffice aparecem em Aplicativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equivalent interactions are available on the Navigation deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003556Z" creationid="olivier" creationdate="20250120T003556Z">
+        <seg>Interações equivalentes estão disponíveis no deque Navegador da barra lateral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7502,6 +7542,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type the cell reference into the &lt;f4&gt;Column&lt;/f4&gt; and &lt;f5&gt;Row&lt;/f5&gt; fields, or use the adjacent increment / decrement buttons, and press &lt;f6&gt;Enter&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003519Z" creationid="olivier" creationdate="20250120T003519Z">
+        <seg>Digite a referência da célula nos campos &lt;f4&gt;Coluna&lt;/f4&gt; e &lt;f5&gt;Linha&lt;/f5&gt; ou use os botões de incremento / decremento adjacentes e pressione &lt;f6&gt;Enter&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type the new cell reference and press &lt;f3&gt;Enter&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003401Z" creationid="olivier" creationdate="20250120T003401Z">
+        <seg>Digite a nova referência de célula e pressione &lt;f3&gt;Enter&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type the required page number and click &lt;f0&gt;OK&lt;/f0&gt; or press &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200651Z" creationid="timot" creationdate="20250111T200651Z">
@@ -8258,6 +8314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T115812Z" creationid="timot" creationdate="20250114T115812Z">
         <seg>Também, é possível usar&lt;f2&gt;Ctrl+Shift+J&lt;/f2&gt; para alternar entre tela cheia e as visualizações anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can change the action of the &lt;f2&gt;Enter&lt;/f2&gt; key; see “&lt;bf3&gt;Customizing the Enter key&lt;/bf3&gt;” &lt;bf4&gt;below&lt;/bf4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003700Z" creationid="olivier" creationdate="20250120T003700Z">
+        <seg>Você pode alterar a ação da tecla &lt;f2&gt;Enter&lt;/f2&gt;; consulte "&lt;bf3&gt;Personalizando a tecla Enter&lt;/bf3&gt;" &lt;bf4&gt;abaixo&lt;/bf4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
