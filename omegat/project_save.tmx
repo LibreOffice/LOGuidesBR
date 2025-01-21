@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2206,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click in the &lt;f1&gt;Name Box&lt;/f1&gt; on the Formula bar (Figure &lt;t2&gt;2&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T115852Z" creationid="olivier" creationdate="20250121T115852Z">
+        <seg>Clique na &lt;f1&gt;Caixa de nome&lt;/f1&gt; na barra de fórmulas (Figura &lt;t2&gt;2&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click in the cell at one corner of the range of cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144403Z" creationid="olivier-tdf" creationdate="20250120T144403Z">
@@ -2238,10 +2246,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the header of the first column or row in the group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120433Z" creationid="olivier" creationdate="20250121T120433Z">
+        <seg>Clique no cabeçalho da primeira coluna ou linha do grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the header of the last column or row in the group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120518Z" creationid="olivier" creationdate="20250121T120518Z">
+        <seg>Clique no cabeçalho da último coluna ou última linha do grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the headers of all subsequent columns or rows while holding down the &lt;f0&gt;Ctrl&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120623Z" creationid="olivier" creationdate="20250121T120623Z">
+        <seg>Clique em todas as colunas ou linhas subsequentes enquanto mantém pressionada a tecla &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the toolbar handle (highlighted in Figure &lt;t0&gt;2&lt;/t0&gt;) and drag the tool palette onto the open document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173828Z" creationid="tulio" creationdate="20250119T173828Z">
         <seg>Clique na alça da barra de ferramentas (destacada na Figura &lt;t0&gt;2&lt;/t0&gt;) e arraste a paleta de ferramentas para o documento aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click or click-and-drag to select ranges of cells to add to the selection.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120234Z" creationid="olivier" creationdate="20250121T120234Z">
+        <seg>Clique ou clique e arraste para selecionar intervalos de células para adicionar à seleção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,6 +2942,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter the cell reference for the upper left-hand cell, followed by a colon (:), and then the lower right-hand cell reference.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T115929Z" creationid="olivier" creationdate="20250121T115929Z">
+        <seg>Insira a referência de célula para a célula superior esquerda, seguida por dois pontos (:) e depois a referência de célula inferior direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Entire sheet</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120704Z" creationid="olivier" creationdate="20250121T120704Z">
+        <seg>Planilha inteira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Entries for LibreOffice and each of the LibreOffice modules appear in Applications.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203639Z" creationid="olivier-tdf" creationdate="20250112T203639Z">
@@ -3430,6 +3486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, to select the range that would go from A3 to C6, you would enter &lt;f3&gt;A3:C6&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T115954Z" creationid="olivier" creationdate="20250121T115954Z">
+        <seg>Por exemplo, para selecionar o intervalo que vai de A3 a C6, digite &lt;f3&gt;A3:C6&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, with a chart selected, the Properties deck contains Line, Position and Size, Area, and Shadow panels.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214330Z" creationid="olivier-tdf" creationdate="20250116T214330Z">
@@ -3926,10 +3990,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click or click-and-drag to select another range of cells to add to the first range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120135Z" creationid="olivier" creationdate="20250121T120135Z">
+        <seg>Mantenha pressionada a tecla Ctrl e clique ou clique e arraste para selecionar outro intervalo de células para adicionar ao primeiro intervalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120605Z" creationid="olivier" creationdate="20250121T120605Z">
+        <seg>Mantenha pressionada a tecla &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click in the opposite corner cell of the block of cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144415Z" creationid="olivier-tdf" creationdate="20250120T144415Z">
         <seg>Mantenha pressionada a &lt;f0&gt;tecla Shift&lt;/f0&gt; e clique na célula de canto oposta do bloco de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120451Z" creationid="olivier" creationdate="20250121T120451Z">
+        <seg>Mantenha pressionada a tecla &lt;f0&gt;Shift&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5294,6 +5382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Move the cursor to the start of the next range or single cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120116Z" creationid="olivier" creationdate="20250121T120116Z">
+        <seg>Mova o cursor para o início do próximo intervalo ou célula única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Move the mouse to highlight the desired block of cells, then release the mouse button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144336Z" creationid="olivier-tdf" creationdate="20250120T144336Z">
@@ -5306,6 +5402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144846Z" creationid="tulio" creationdate="20250119T144846Z">
         <seg>Mover a seta do mouse sobre um desses comandos abre outro submenu que contém comandos adicionais, por exemplo, &lt;f1&gt;Exibir &gt; Réguas &gt; Réguas&lt;/f1&gt; ou &lt;f2&gt;Régua Vertical&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multiple columns or rows</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120335Z" creationid="olivier" creationdate="20250121T120335Z">
+        <seg>Várias colunas ou linhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -5570,6 +5674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122351Z" creationid="olivier-tdf" creationdate="20250117T122351Z">
         <seg>Na caixa de diálogo Importação de texto (Figura &lt;t0&gt;6&lt;/t0&gt;), selecione as opções necessárias para importar o arquivo CSV para a planilha do Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you are done, make sure to change back to &lt;f3&gt;Standard selection&lt;/f3&gt; or you may extend a cell selection unintentionally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T115700Z" creationid="olivier" creationdate="20250121T115700Z">
+        <seg>Quando terminar, certifique-se de voltar para a &lt;f3&gt;seleção Padrão&lt;/f3&gt; ou você pode estender uma seleção de célula involuntariamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6038,6 +6150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Range of non-contiguous cells</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120002Z" creationid="olivier" creationdate="20250121T120002Z">
+        <seg>Intervalo de células não contíguas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read more about LibreOffice and The Document Foundation on their websites at &lt;a0&gt;https://www.libreoffice.org/&lt;/a0&gt; and &lt;a1&gt;https://www.documentfoundation.org/&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194007Z" creationid="olivier-tdf" creationdate="20250109T194007Z">
@@ -6058,6 +6178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173836Z" creationid="tulio" creationdate="20250119T173836Z">
         <seg>Solte a alça da barra de ferramentas e a paleta de ferramentas se torna uma barra de ferramentas flutuante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repeat as necessary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120142Z" creationid="olivier" creationdate="20250121T120142Z">
+        <seg>Repita conforme necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6366,6 +6494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the first cell or range of cells using one of the methods described in the previous paragraphs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120043Z" creationid="olivier" creationdate="20250121T120043Z">
+        <seg>Selecione a primeira célula ou intervalo de células usando um dos métodos acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the folder where you want to save the file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123713Z" creationid="olivier-tdf" creationdate="20250117T123713Z">
@@ -6434,6 +6570,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144219Z" creationid="olivier-tdf" creationdate="20250120T144219Z">
         <seg>Selecionar células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting columns and rows</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120241Z" creationid="olivier" creationdate="20250121T120241Z">
+        <seg>Selecionar colunas e linhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6570,6 +6714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144221Z" creationid="olivier-tdf" creationdate="20250120T144221Z">
         <seg>Célula única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single column or row</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120249Z" creationid="olivier" creationdate="20250121T120249Z">
+        <seg>Coluna ou linha única</seg>
       </tuv>
     </tu>
     <tu>
@@ -7950,6 +8102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To select a range of cells using the keyboard:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T115710Z" creationid="olivier" creationdate="20250121T115710Z">
+        <seg>Para selecionar um intervalo de células usando o teclado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To select a range of cells using the mouse, but without dragging:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144352Z" creationid="olivier-tdf" creationdate="20250120T144352Z">
@@ -7962,6 +8122,54 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144322Z" creationid="olivier-tdf" creationdate="20250120T144322Z">
         <seg>Para selecionar um intervalo de células com o mouse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To select a range of non-contiguous cells using the mouse:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120012Z" creationid="olivier" creationdate="20250121T120012Z">
+        <seg>Para selecionar um intervalo de células não contíguas usando o mouse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To select a single column, click on the column header (Figure &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120315Z" creationid="olivier" creationdate="20250121T120315Z">
+        <seg>Para selecionar uma única coluna, clique no cabeçalho da coluna (Figura &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To select a single row, click on the row header.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120324Z" creationid="olivier" creationdate="20250121T120324Z">
+        <seg>Para selecionar uma única linha, clique no cabeçalho da linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To select multiple columns or rows that are contiguous:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120343Z" creationid="olivier" creationdate="20250121T120343Z">
+        <seg>Para selecionar várias colunas ou linhas contíguas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To select multiple columns or rows that are not contiguous:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120538Z" creationid="olivier" creationdate="20250121T120538Z">
+        <seg>Para selecionar várias colunas ou linhas que não sejam contíguas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To select the entire sheet, click on the blank rectangular area to the left of the column headers and above the row headers (Figure &lt;t0&gt;17&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121011Z" creationid="olivier" creationdate="20250121T121011Z">
+        <seg>Para selecionar a planilha inteira, clique na pequena caixa retangular vazia entre os cabeçalhos das colunas e das linhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8510,6 +8718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While holding down the &lt;f0&gt;Shift&lt;/f0&gt; key, use the cursor arrows to select the rest of the range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T115747Z" creationid="olivier" creationdate="20250121T115747Z">
+        <seg>Enquanto mantém pressionada a tecla &lt;f0&gt;Shift&lt;/f0&gt;, use as setas do cursor para selecionar o restante do intervalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Who is this user guide for?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T225817Z" creationid="tdf" creationdate="20241226T225817Z">
@@ -8782,6 +8998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also directly select a range of cells using the &lt;f0&gt;Name Box&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T115807Z" creationid="olivier" creationdate="20250121T115807Z">
+        <seg>Você também pode selecionar diretamente um intervalo de células usando a &lt;f0&gt;Caixa de nome&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also jump to a specific cell by typing a cell reference in the &lt;f0&gt;Name Box&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211932Z" creationid="olivier-tdf" creationdate="20250116T211932Z">
@@ -8802,6 +9026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200933Z" creationid="timot" creationdate="20250111T200933Z">
         <seg>Também é possível ver o número de palavras e caracteres (e outras informações, incluindo o número de páginas, tabelas e gráficos) em todo o documento em&lt;f0&gt;Arquivo &gt; Propriedades&lt;/f0&gt;,&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Estatísticas&lt;/f2&gt; aba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also select rows and columns using options in the &lt;f0&gt;Edit &gt; Select&lt;/f0&gt; menu on the Menu bar (&lt;f1&gt;Select Row&lt;/f1&gt;, &lt;f2&gt;Select Column&lt;/f2&gt;, &lt;f3&gt;Select Visible Rows Only&lt;/f3&gt;, and &lt;f4&gt;Select Visible Columns Only&lt;/f4&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120659Z" creationid="olivier" creationdate="20250121T120659Z">
+        <seg>Você também pode selecionar linhas e colunas usando as opções no menu &lt;f0&gt;Editar &gt; Selecionar&lt;/f0&gt; na barra de menus (&lt;f1&gt;Selecione Linha&lt;/f1&gt;, &lt;f2&gt;Selecione Coluna&lt;/f2&gt;, &lt;f3&gt;Selecione Somente Linhas Visíveis&lt;/f3&gt; e &lt;f4&gt;Selecione Somente Colunas Visíveis&lt;/f4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8834,6 +9066,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144448Z" creationid="olivier-tdf" creationdate="20250120T144448Z">
         <seg>Você pode escolher um intervalo contíguo de células clicando na área &lt;f0&gt;Modo de seleção&lt;/f0&gt; na barra de status (Figura &lt;t1&gt;4&lt;/t1&gt;) e selecionando &lt;f2&gt;Estender seleção&lt;/f2&gt; antes de clicar no canto oposto do intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can choose non-contiguous ranges of cells by clicking the &lt;f0&gt;Selection mode&lt;/f0&gt; area on the Status bar (Figure &lt;t1&gt;4&lt;/t1&gt;) and selecting &lt;f2&gt;Adding selection&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120222Z" creationid="olivier" creationdate="20250121T120222Z">
+        <seg>Você pode escolher um intervalo contíguo de células clicando na área &lt;f0&gt;Modo de seleção&lt;/f0&gt; na barra de status (Figura &lt;t1&gt;4&lt;/t1&gt;) e selecionando &lt;f2&gt;Estender seleção&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
