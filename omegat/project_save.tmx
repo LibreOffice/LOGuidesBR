@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Select All box&lt;/s0&gt;&lt;s1&gt;Select All box&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121107Z" creationid="olivier" creationdate="20250121T121107Z">
+        <seg>&lt;s0&gt;Caixa Selecionar tudo&lt;/s0&gt;&lt;s1&gt;Caixa Selecionar tudo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Select Function drop-down&lt;/s0&gt;&lt;s1&gt;Select Function drop-down&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212157Z" creationid="olivier-tdf" creationdate="20250116T212157Z">
@@ -1350,6 +1358,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121802Z" creationid="olivier" creationdate="20250121T121802Z">
+        <seg>Todas as planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All tabs between these two selections will change appearance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121613Z" creationid="olivier" creationdate="20250121T121613Z">
+        <seg>Todas as abas entre essas duas seleções mudarão de aparência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All the modules have a similar “look and feel”, making them easy to use and master.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192554Z" creationid="olivier-tdf" creationdate="20250109T192554Z">
@@ -1422,10 +1446,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively you can press &lt;f1&gt;Ctrl+A&lt;/f1&gt;, press &lt;f2&gt;Ctrl+Shift+Space&lt;/f2&gt;, or go to &lt;f3&gt;Edit &gt; Select All&lt;/f3&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121030Z" creationid="olivier" creationdate="20250121T121030Z">
+        <seg>Como alternativa, você pode pressionar &lt;f1&gt;Ctrl+A&lt;/f1&gt;, pressionar &lt;f2&gt;Ctrl+Shift+Espaço&lt;/f2&gt; ou ir para &lt;f3&gt;Editar &gt; Selecionar tudo&lt;/f3&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; View&lt;/f1&gt; on the Menu bar, &lt;f2&gt;check&lt;/f2&gt; the &lt;f3&gt;Formulas&lt;/f3&gt; option in the &lt;f4&gt;Display&lt;/f4&gt; area, and click &lt;f5&gt;OK&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T215653Z" creationid="olivier-tdf" creationdate="20250117T215653Z">
         <seg>Como alternativa, vá para &lt;f1&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Exibir&lt;/f1&gt; na barra de menus, &lt;f2&gt;marque&lt;/f2&gt; a opção &lt;f3&gt;Fórmulas&lt;/f3&gt; na área de &lt;f4&gt;Exibir&lt;/f4&gt; e clique em &lt;f5&gt;OK&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively, right-click on selected row or column headers and select &lt;f4&gt;Hide Rows&lt;/f4&gt; or &lt;f5&gt;Hide Columns&lt;/f5&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122501Z" creationid="olivier" creationdate="20250121T122501Z">
+        <seg>Como alternativa, clique com o botão direito do mouse nos cabeçalhos de linha ou coluna selecionados e selecione &lt;f4&gt;Ocultar linhas&lt;/f4&gt; ou &lt;f5&gt;Ocultar colunas&lt;/f5&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1530,6 +1570,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215633Z" creationid="timot" creationdate="20250110T215633Z">
         <seg>Antonio Fernandez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any actions that you perform will now affect all the highlighted sheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121634Z" creationid="olivier" creationdate="20250121T121634Z">
+        <seg>Todas as ações realizadas agora afetarão todas as planilhas destacadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2266,6 +2314,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120623Z" creationid="olivier" creationdate="20250121T120623Z">
         <seg>Clique em todas as colunas ou linhas subsequentes enquanto mantém pressionada a tecla &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the sheet tab for the first desired sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121500Z" creationid="olivier" creationdate="20250121T121500Z">
+        <seg>Clique na aba da primeira planilha desejada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the sheet tab for the sheet you want to select.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121330Z" creationid="olivier" creationdate="20250121T121330Z">
+        <seg>Clique na aba da planilha que deseja selecionar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3182,6 +3246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Select All box</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121123Z" creationid="olivier" creationdate="20250121T121123Z">
+        <seg>Figura &lt;seq0&gt;17&lt;/seq0&gt;: Caixa Selecionar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Calc main window</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211025Z" creationid="olivier-tdf" creationdate="20250116T211025Z">
@@ -3870,10 +3942,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar, select &lt;f1&gt;Rows&lt;/f1&gt; or &lt;f2&gt;Columns&lt;/f2&gt;, and select &lt;f3&gt;Hide&lt;/f3&gt; in the submenu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122411Z" creationid="olivier" creationdate="20250121T122411Z">
+        <seg>Vá para &lt;f0&gt;Formatar&lt;/f0&gt; na barra de menus, selecione &lt;f1&gt;Linhas&lt;/f1&gt; ou &lt;f2&gt;Colunas&lt;/f2&gt; e selecione &lt;f3&gt;Ocultar&lt;/f3&gt; no submenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;LibreOffice &gt; Quit LibreOffice&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011428Z" creationid="tulio" creationdate="20250116T011428Z">
         <seg>Vá para &lt;f0&gt;LibreOffice &gt; Sair do LibreOffice&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;Insert Columns &gt; Columns Before&lt;/f1&gt;, &lt;f2&gt;Insert Columns &gt; Columns After&lt;/f2&gt;, &lt;f3&gt;Insert Rows &gt; Rows Above&lt;/f3&gt;, or &lt;f4&gt;Insert Rows &gt; Rows Below&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122109Z" creationid="olivier" creationdate="20250121T122109Z">
+        <seg>Vá para &lt;f0&gt;Planilha&lt;/f0&gt; na barra de Menu e selecione &lt;f1&gt;Inserir colunas &gt; Colunas antes&lt;/f1&gt;, &lt;f2&gt;Inserir colunas &gt; Colunas depois&lt;/f2&gt;, &lt;f3&gt;Inserir linhas &gt; Linhas acima&lt;/f3&gt; ou &lt;f4&gt;Inserir linhas &gt; Linhas abaixo&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,10 +4070,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hiding and showing columns and rows</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122340Z" creationid="olivier" creationdate="20250121T122340Z">
+        <seg>Ocultar e mostrar colunas e linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hiding whitespace also works in Full Screen view.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T115256Z" creationid="timot" creationdate="20250114T115201Z">
         <seg>Ocultar espaços em branco também funciona na visualização Tela inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight the required number of columns or rows by holding down the left mouse button on the first one and then dragging across the required number of identifiers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122323Z" creationid="olivier" creationdate="20250121T122323Z">
+        <seg>Destaque o número necessário de colunas ou linhas mantendo pressionado o botão esquerdo do mouse na primeira e, em seguida, arrastando o número necessário de identificadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click on the sheet tab for the each additional desired sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121742Z" creationid="olivier" creationdate="20250121T121742Z">
+        <seg>Enquanto mantém pressionada a tecla &lt;f0&gt;Ctrl&lt;/f0&gt;, clique nas abas da planilha para outras planilhas desejadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4010,6 +4122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144415Z" creationid="olivier-tdf" creationdate="20250120T144415Z">
         <seg>Mantenha pressionada a &lt;f0&gt;tecla Shift&lt;/f0&gt; e clique na célula de canto oposta do bloco de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click on the sheet tab for the last desired sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121548Z" creationid="olivier" creationdate="20250121T121548Z">
+        <seg>Mantenha pressionada a tecla &lt;f0&gt;Shift&lt;/f0&gt; e clique na aba da planilha da última planilha desejada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4306,6 +4426,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125213Z" creationid="olivier-tdf" creationdate="20250117T125213Z">
         <seg>Se quiser voltar a trabalhar com uma versão *.ods, salve como um arquivo *.ods.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to make changes to many sheets at once you can select one or multiple sheets in Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121309Z" creationid="olivier" creationdate="20250121T121309Z">
+        <seg>Se quiser fazer alterações em muitas planilhas de uma só vez, pode selecionar uma ou várias planilhas no Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4618,6 +4746,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213004Z" creationid="olivier-tdf" creationdate="20250116T213004Z">
         <seg>Modo de inserção / substituição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inserting columns and rows</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121944Z" creationid="olivier" creationdate="20250121T121944Z">
+        <seg>Inserir colunas e linhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -5414,6 +5550,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multiple contiguous sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121448Z" creationid="olivier" creationdate="20250121T121448Z">
+        <seg>Múltiplas planilhas contíguas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multiple non-contiguous sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121641Z" creationid="olivier" creationdate="20250121T121641Z">
+        <seg>Múltiplas planilhas não contíguas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Name Box</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211808Z" creationid="olivier-tdf" creationdate="20250116T211808Z">
@@ -6070,6 +6222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proceed as for inserting a single column or row above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122331Z" creationid="olivier" creationdate="20250121T122331Z">
+        <seg>Proceda como para inserir uma única coluna ou linha acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Profits from sales of the printed edition will be used to benefit the community.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214858Z" creationid="olivier-tdf" creationdate="20250109T214858Z">
@@ -6214,6 +6374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click a sheet tab and choose &lt;f0&gt;Select All Sheets&lt;/f0&gt; in the context menu, or select &lt;f1&gt;Edit &gt; Select &gt; Select All Sheets&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121845Z" creationid="olivier" creationdate="20250121T121845Z">
+        <seg>Clique com o botão direito em uma aba de planilha e escolha &lt;f0&gt;Selecionar todas as planilhas&lt;/f0&gt; no menu de contexto ou selecione &lt;f1&gt;Editar &gt; Selecionar &gt; Selecionar todas as planilhas&lt;/f1&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click any active arrow button</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135214Z" creationid="olivier-tdf" creationdate="20250120T135214Z">
@@ -6226,6 +6394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173500Z" creationid="tulio" creationdate="20250119T173500Z">
         <seg>Clique com o botão direito do mouse em um espaço vazio entre os ícones em uma barra de ferramentas e selecione &lt;f0&gt;Fechar Barra de Ferramentas&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click the column or row header where you want the new column or row inserted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122149Z" creationid="olivier" creationdate="20250121T122149Z">
+        <seg>Clique com o botão direito do mouse no cabeçalho da coluna ou linha onde deseja inserir a nova coluna ou linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6438,10 +6614,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Insert Columns Before&lt;/f0&gt;, &lt;f1&gt;Insert Columns After&lt;/f1&gt;, &lt;f2&gt;Insert Rows Above&lt;/f2&gt;, or &lt;f3&gt;Insert Rows Below&lt;/f3&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122252Z" creationid="olivier" creationdate="20250121T122252Z">
+        <seg>Selecione &lt;f0&gt;Inserir colunas antes&lt;/f0&gt;, &lt;f1&gt;Inserir colunas após&lt;/f1&gt;, &lt;f2&gt;Inserir linhas acima&lt;/f2&gt; ou &lt;f3&gt;Inserir linhas abaixo&lt;/f3&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Use LibreOffice&lt;/f0&gt; dialogs in &lt;f1&gt;Open/Save dialogs&lt;/f1&gt; to display the LibreOffice dialogs on a computer display, as shown in Figure &lt;t2&gt;1&lt;/t2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212609Z" creationid="olivier-tdf" creationdate="20250109T212609Z">
         <seg>Selecione &lt;f0&gt;Usar caixas de diálogo do LibreOffice&lt;/f0&gt; em &lt;f1&gt;Caixas de diálogo Abrir/Salvar&lt;/f1&gt; para exibir as caixas de diálogo do LibreOffice em uma tela de computador, conforme mostrado na Figura &lt;t2&gt;1&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select All box</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121140Z" creationid="olivier" creationdate="20250121T121140Z">
+        <seg>Caixa Selecionar tudo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6470,10 +6662,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select cells in the rows or columns you want to hide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122401Z" creationid="olivier" creationdate="20250121T122401Z">
+        <seg>Selecione células nas linhas ou colunas que deseja ocultar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the &lt;f4&gt;New&lt;/f4&gt; button to create new categories.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T112638Z" creationid="timot" creationdate="20250114T112638Z">
         <seg>Selecione o botão &lt;f4&gt;Novo&lt;/f4&gt; para criar novas categorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the cell location where you want the new column or row inserted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122028Z" creationid="olivier" creationdate="20250121T122028Z">
+        <seg>Selecione o local da célula onde deseja inserir a nova coluna ou linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6594,6 +6802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213255Z" creationid="olivier-tdf" creationdate="20250116T213255Z">
         <seg>Selecionar operações matemáticas na barra de status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121146Z" creationid="olivier" creationdate="20250121T121146Z">
+        <seg>Selecionar planilhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6722,6 +6938,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120249Z" creationid="olivier" creationdate="20250121T120249Z">
         <seg>Coluna ou linha única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single sheet</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121318Z" creationid="olivier" creationdate="20250121T121318Z">
+        <seg>Planilha única</seg>
       </tuv>
     </tu>
     <tu>
@@ -7518,6 +7742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The selected tabs will change appearance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121754Z" creationid="olivier" creationdate="20250121T121754Z">
+        <seg>As abas selecionadas serão destacadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The service is available in several other languages; just &lt;f0&gt;select your language &lt;/f0&gt;&lt;f1&gt;on&lt;/f1&gt;&lt;f2&gt; the page&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204739Z" creationid="olivier-tdf" creationdate="20250109T204739Z">
@@ -7554,6 +7786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121415Z" creationid="olivier-tdf" creationdate="20250117T121415Z">
         <seg>A aba para a planilha ativa é destacada e você pode selecionar várias planilhas mantendo pressionada a &lt;f1&gt;tecla Ctrl&lt;/f1&gt; enquanto clica nas abas de cada planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tab for the selected sheet changes appearance – in the default Calc setup, the tab background color changes to white, the text on the tab changes to bold, and a colored line is drawn along the bottom edge of the tab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121442Z" creationid="olivier" creationdate="20250121T121442Z">
+        <seg>A aba para a planilha selecionada muda de aparência – na configuração padrão do Calc, a cor de fundo da aba muda para branco, o texto na aba muda para negrito e uma linha colorida é desenhada ao longo da borda inferior da aba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8022,6 +8262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To hide columns or rows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122350Z" creationid="olivier" creationdate="20250121T122350Z">
+        <seg>Para ocultar colunas ou linhas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To improve navigation, rename sheets in a spreadsheet to make them more recognizable.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135335Z" creationid="olivier-tdf" creationdate="20250120T135335Z">
@@ -8034,6 +8282,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T113242Z" creationid="timot" creationdate="20250114T113242Z">
         <seg>Para inserir uma imagem em um arquivo, crie novos temas de galeria ou adicione uma nova imagem à nova categoria, veja o Capítulo 5, Trabalhar com imagens e gráficos, para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To insert multiple columns or rows at once:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122309Z" creationid="olivier" creationdate="20250121T122309Z">
+        <seg>Para inserir várias colunas ou linhas de uma só vez:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8166,10 +8422,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To select multiple contiguous sheets:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121454Z" creationid="olivier" creationdate="20250121T121454Z">
+        <seg>Para selecionar várias planilhas contíguas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To select multiple non-contiguous sheets:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121646Z" creationid="olivier" creationdate="20250121T121646Z">
+        <seg>Para selecionar várias planilhas não contíguas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To select the entire sheet, click on the blank rectangular area to the left of the column headers and above the row headers (Figure &lt;t0&gt;17&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121011Z" creationid="olivier" creationdate="20250121T121011Z">
         <seg>Para selecionar a planilha inteira, clique na pequena caixa retangular vazia entre os cabeçalhos das colunas e das linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To show hidden columns or rows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122507Z" creationid="olivier" creationdate="20250121T122507Z">
+        <seg>Para mostrar colunas ou linhas ocultas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8318,10 +8598,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using row and column headers:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122139Z" creationid="olivier" creationdate="20250121T122139Z">
+        <seg>Com os cabeçalhos de linha e coluna:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using spreadsheets in LibreOffice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123825Z" creationid="olivier-tdf" creationdate="20250114T123825Z">
         <seg>Documento de planilhas no LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Sheet menu:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121952Z" creationid="olivier" creationdate="20250121T121952Z">
+        <seg>Usando o menu Planilha:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8814,6 +9110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Working with columns and rows</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121939Z" creationid="olivier" creationdate="20250121T121939Z">
+        <seg>Trabalhar com colunas e linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Working with documents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T115824Z" creationid="timot" creationdate="20250114T115824Z">
@@ -9034,6 +9338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120659Z" creationid="olivier" creationdate="20250121T120659Z">
         <seg>Você também pode selecionar linhas e colunas usando as opções no menu &lt;f0&gt;Editar &gt; Selecionar&lt;/f0&gt; na barra de menus (&lt;f1&gt;Selecione Linha&lt;/f1&gt;, &lt;f2&gt;Selecione Coluna&lt;/f2&gt;, &lt;f3&gt;Selecione Somente Linhas Visíveis&lt;/f3&gt; e &lt;f4&gt;Selecione Somente Colunas Visíveis&lt;/f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also select sheets using the Select Sheets dialog, accessed by selecting &lt;f0&gt;Edit &gt; Select &gt; Select Sheets&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121928Z" creationid="olivier" creationdate="20250121T121928Z">
+        <seg>Pode também selecionar planilhas usando a caixa de diálogo Selecionar planilhas, acessada através de &lt;f0&gt;Editar &gt; Selecionar &gt; Selecionar planilhas&lt;/f0&gt; na barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
