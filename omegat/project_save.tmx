@@ -966,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Move/Copy Sheet dialog&lt;/s0&gt;&lt;s1&gt;Move/Copy Sheet dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155633Z" creationid="olivier" creationdate="20250121T155633Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Mover/Copiar planilha &lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Mover/Copiar planilha&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Navigating sheet tabs&lt;/s0&gt;&lt;s1&gt;Navigating sheet tabs&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T134549Z" creationid="olivier-tdf" creationdate="20250120T134506Z">
@@ -1242,6 +1250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144316Z" creationid="olivier-tdf" creationdate="20250120T144316Z">
         <seg>Use o teclado ou o mouse para selecionar um intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A sheet can be renamed using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160258Z" creationid="olivier" creationdate="20250121T160258Z">
+        <seg>Uma planilha pode ser renomeada usando um dos seguintes métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attempting to rename a sheet with an invalid name will produce an error message.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160525Z" creationid="olivier" creationdate="20250121T160525Z">
+        <seg>Tentar renomear uma planilha com um nome inválido produzirá uma mensagem de erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automated tables of contents and indexes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195505Z" creationid="timot" creationdate="20250111T195505Z">
@@ -1946,6 +1970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123528Z" creationid="olivier-tdf" creationdate="20250117T123528Z">
         <seg>O Calc pode salvar documento de planilhas em uma variedade de formatos e também exportá-las para os formatos de arquivo PDF e XHTML; consulte o Capítulo 7 Impressão, Exportação, Envio por e-mail e Assinatura no &lt;f0&gt;Guia do Calc&lt;/f0&gt; para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc displays the Show Sheet dialog, listing all hidden sheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160009Z" creationid="olivier" creationdate="20250121T160009Z">
+        <seg>O Calc exibe a caixa de diálogo Mostrar planilha, listando todas as planilhas ocultas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154110Z" creationid="olivier" creationdate="20250121T154110Z">
         <seg>Selecione &lt;f0&gt;Planilha &gt; Excluir células&lt;/f0&gt;, pressione &lt;f1&gt;Ctrl+-&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, ou clique com o botão direito em uma das células selecionadas e selecione &lt;f3&gt;Excluir&lt;/f3&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Move &lt;/f0&gt;or &lt;f1&gt;Copy&lt;/f1&gt; to confirm the move or copy and close the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155455Z" creationid="olivier" creationdate="20250121T155455Z">
+        <seg>Clique em &lt;f0&gt;Mover &lt;/f0&gt;ou &lt;f1&gt;Copiar&lt;/f1&gt; para confirmar a movimentação ou copiar e fechar a caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2718,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deleting sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160532Z" creationid="olivier" creationdate="20250121T160532Z">
+        <seg>Excluir planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145248Z" creationid="tulio" creationdate="20250119T145248Z">
@@ -2818,6 +2866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200219Z" creationid="olivier-tdf" creationdate="20250109T200219Z">
         <seg>Doar para o LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-click on the sheet’s tab to open the Rename Sheet dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160442Z" creationid="olivier" creationdate="20250121T160442Z">
+        <seg>Clique duas vezes na guia da planilha para abrir a caixa de diálogo Renomear planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,6 +3118,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter a name in the &lt;f0&gt;New name&lt;/f0&gt; box if you want to rename the sheet after it is moved or copied.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155421Z" creationid="olivier" creationdate="20250121T155421Z">
+        <seg>Digite um nome na caixa de texto &lt;f0&gt;Novo nome&lt;/f0&gt; se desejar renomear a planilha quando ela for movida ou copiada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter a new name in the &lt;f0&gt;Name&lt;/f0&gt; text box when creating the new sheet using the Insert Sheet dialog (Figure &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160319Z" creationid="olivier" creationdate="20250121T160319Z">
+        <seg>Digite um novo nome na caixa de texto &lt;f0&gt;Nome&lt;/f0&gt; ao criar a nova folha usando a caixa de diálogo Inserir folha (Figura &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter the URL of the HTML document or the name of the spreadsheet, then press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T001929Z" creationid="olivier" creationdate="20250120T001929Z">
@@ -3106,6 +3178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011608Z" creationid="tulio" creationdate="20250116T011608Z">
         <seg>Cada módulo tem a barra de título, a barra de menus e a barra de ferramentas padrão na parte superior da janela e a barra de status na parte inferior da janela, enquanto as ferramentas e informações variam entre cada módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every time a new sheet is created without specifying a name, it is automatically named &lt;f0&gt;SheetX&lt;/f0&gt; (where X is an incrementing number allocated by Calc).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160202Z" creationid="olivier" creationdate="20250121T160202Z">
+        <seg>Toda vez que uma nova planilha é criada sem especificar um nome, ela é automaticamente chamada de &lt;f0&gt;PlanilhaX&lt;/f0&gt; (onde X é um número incremental alocado pelo Calc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3362,6 +3442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200006Z" creationid="timot" creationdate="20250111T200006Z">
         <seg>Figura&lt;seq0&gt;1&lt;/seq0&gt;: O principal espaço de trabalho do Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Move/Copy Sheet dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155654Z" creationid="olivier" creationdate="20250121T155654Z">
+        <seg>Figura &lt;seq0&gt;20&lt;/seq0&gt;: Caixa de diálogo Mover/Copiar planilha</seg>
       </tuv>
     </tu>
     <tu>
@@ -4166,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hiding and showing sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155759Z" creationid="olivier" creationdate="20250121T155759Z">
+        <seg>Ocultar e mostrar planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hiding whitespace also works in Full Screen view.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T115256Z" creationid="timot" creationdate="20250114T115201Z">
@@ -4462,6 +4558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you do not enter a name, Calc automatically generates one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155442Z" creationid="olivier" creationdate="20250121T155442Z">
+        <seg>Se não inserir um nome, o Calc gera um automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you have never used LibreOffice before, or you want an introduction to all of its components, this book is for you.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114306Z" creationid="olivier-tdf" creationdate="20250109T114306Z">
@@ -4482,6 +4586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T220616Z" creationid="olivier-tdf" creationdate="20250117T220616Z">
         <seg>Se precisar exportar uma seleção de intervalo ou um grupo selecionado de formas (imagens) para um formato gráfico, faça o seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you need to hide one or more sheets, first select the sheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155827Z" creationid="olivier" creationdate="20250121T155827Z">
+        <seg>Se precisar ocultar uma ou mais planilhas, primeiro selecione as planilhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4670,6 +4782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition a single quote (‘) cannot be used as the first or last character of the name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160516Z" creationid="olivier" creationdate="20250121T160516Z">
+        <seg>Além disso, uma aspa simples (‘) não pode ser usada como o primeiro ou o último caractere do nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to its native Open Document Formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192822Z" creationid="olivier-tdf" creationdate="20250109T192822Z">
@@ -4754,6 +4874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123721Z" creationid="olivier-tdf" creationdate="20250117T123721Z">
         <seg>No campo &lt;f0&gt;Nome do arquivo&lt;/f0&gt;, insira um novo nome de arquivo para a planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Insert before&lt;/f0&gt; list, choose the position in the target spreadsheet where you want to place the sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155347Z" creationid="olivier" creationdate="20250121T155347Z">
+        <seg>Na lista &lt;f0&gt;Inserir antes&lt;/f0&gt;, escolha a posição no documento de planilha de destino onde deseja colocar a planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5006,6 +5134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is also possible to hide and show elements within a sheet, as described in various chapters of the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160043Z" creationid="olivier" creationdate="20250121T160043Z">
+        <seg>Também é possível ocultar e mostrar elementos dentro de uma planilha, conforme descrito em vários capítulos do &lt;f0&gt;Guia do Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is based on code from Apache OpenOffice made available under the Apache License 2.0 but also includes software that differs from version to version under a variety of other Open Source licenses.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214925Z" creationid="olivier-tdf" creationdate="20250109T214925Z">
@@ -5026,6 +5162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191534Z" creationid="olivier-tdf" creationdate="20250109T191534Z">
         <seg>Ele é integrado aos recursos gráficos avançados dos módulos &lt;t0/&gt;LibreOffice Draw e Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is not possible to hide the last visible sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155915Z" creationid="olivier" creationdate="20250121T155915Z">
+        <seg>Não é possível ocultar a última planilha visível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5658,6 +5802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144336Z" creationid="olivier-tdf" creationdate="20250120T144336Z">
         <seg>Mova o mouse para destacar o bloco de células desejado e solte o botão do mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move/Copy Sheet dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155701Z" creationid="olivier" creationdate="20250121T155701Z">
+        <seg>Caixa de diálogo Mover/Copiar planilha</seg>
       </tuv>
     </tu>
     <tu>
@@ -6478,6 +6630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Renaming sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160048Z" creationid="olivier" creationdate="20250121T160048Z">
+        <seg>Renomear planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Repeat as necessary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120142Z" creationid="olivier" creationdate="20250121T120142Z">
@@ -6538,6 +6698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154626Z" creationid="olivier" creationdate="20250121T154626Z">
         <seg>Clique com o botão direito do mouse na aba da planilha onde deseja inserir uma nova planilha e selecione &lt;f0&gt;Inserir planilha&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click on the sheet’s tab and select &lt;f0&gt;Rename Sheet&lt;/f0&gt; in the context menu to open the Rename Sheet dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160405Z" creationid="olivier" creationdate="20250121T160405Z">
+        <seg>Clique com o botão direito do mouse na guia da planilha e selecione &lt;f0&gt;Renomear planilha&lt;/f0&gt; no menu de contexto para abrir a caixa de diálogo Renomear Planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6902,6 +7070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the hidden sheets to be displayed again and then click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160025Z" creationid="olivier" creationdate="20250121T160025Z">
+        <seg>Selecione as planilhas ocultas a serem exibidas novamente e clique em &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the required direction of movement in the adjacent drop-down menu (&lt;f2&gt;Down&lt;/f2&gt;, &lt;f3&gt;Right&lt;/f3&gt;, &lt;f4&gt;Up&lt;/f4&gt;, or &lt;f5&gt;Left&lt;/f5&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135516Z" creationid="olivier-tdf" creationdate="20250120T135516Z">
@@ -6922,6 +7098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154608Z" creationid="olivier" creationdate="20250121T154608Z">
         <seg>Selecione a planilha em que deseja inserir uma nova planilha e selecione &lt;f0&gt;Planilha &gt; Inserir planilha&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the sheet’s tab and go to &lt;f0&gt;Sheet &gt; Rename Sheet&lt;/f0&gt; on the Menu bar to open the Rename Sheet dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160433Z" creationid="olivier" creationdate="20250121T160433Z">
+        <seg>Selecione a aba da planilha e vá para &lt;f0&gt;Planilha &gt; Renomear planilha&lt;/f0&gt; na barra de menu para abrir a caixa de diálogo Renomear Planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7050,6 +7234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T003416Z" creationid="olivier-tdf" creationdate="20250116T003416Z">
         <seg>Planilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sheet names can contain almost any character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160454Z" creationid="olivier" creationdate="20250121T160454Z">
+        <seg>Os nomes das planilhas podem conter quase todos os caracteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7226,6 +7418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203050Z" creationid="olivier-tdf" creationdate="20250112T203050Z">
         <seg>Algumas teclas de atalho e itens de menu são específicos do macOS (consulte a tabela abaixo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some naming restrictions apply, the following characters are not allowed in sheet names: colon (:), back slash (\), forward slash (/), question mark (?), asterisk (*), left square bracket ([), or right square bracket (]).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160501Z" creationid="olivier" creationdate="20250121T160501Z">
+        <seg>[parcial]Algumas restrições de nomenclatura se aplicam; os seguintes caracteres não são permitidos em nomes de planilhas: dois pontos (:), barra invertida (\), barra (/), ponto de interrogação (?), Asterisco (*), colchete esquerdo ([), ou colchete direito (]).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7782,6 +7982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first sheet in a new spreadsheet is named &lt;f1&gt;Sheet1&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160243Z" creationid="olivier" creationdate="20250121T160243Z">
+        <seg>A primeira planilha em um novo documento de planilha é chamada &lt;f1&gt;Planilha1&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following explains some of the advantages of LibreOffice has over other office suites:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192203Z" creationid="olivier-tdf" creationdate="20250109T192203Z">
@@ -8074,6 +8282,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153528Z" creationid="olivier" creationdate="20250121T153528Z">
         <seg>Em seguida, clique com o botão direito do mouse em um dos cabeçalhos de coluna ou linha selecionados e selecione &lt;f0&gt;Excluir colunas&lt;/f0&gt; ou &lt;f1&gt;Excluir linhas&lt;/f1&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then right-click on one of the selected sheet tabs and select &lt;f0&gt;Hide Sheet&lt;/f0&gt; in the context menu, or go to &lt;f1&gt;Sheet &gt; Hide Sheet&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155858Z" creationid="olivier" creationdate="20250121T155858Z">
+        <seg>Em seguida, clique com o botão direito do mouse em uma das guias de planilha selecionadas e selecione &lt;f0&gt;Ocultar planilha&lt;/f0&gt; no menu de contexto ou vá para &lt;f1&gt;Planilha &gt; Ocultar planilha&lt;/f1&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8454,6 +8670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To delete one or more sheets, first select the sheets (see “&lt;bf0&gt;Selecting sheets&lt;/bf0&gt;” on page &lt;bf1&gt;19&lt;/bf1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160613Z" creationid="olivier" creationdate="20250121T160613Z">
+        <seg>Para excluir uma ou mais planilhas, primeiro selecione as planilhas (consulte “&lt;bf0&gt;Seleção de planilhas&lt;/bf0&gt;” na página &lt;bf1&gt;19&lt;/bf1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To display LibreOffice Help, press &lt;f0&gt;F1&lt;/f0&gt; or go to &lt;f1&gt;Help &gt; LibreOffice Help&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194834Z" creationid="olivier-tdf" creationdate="20250109T194834Z">
@@ -8466,6 +8690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172856Z" creationid="tulio" creationdate="20250119T172856Z">
         <seg>Para exibir uma barra de ferramentas, vá para &lt;f0&gt;Exibir &gt; Barras de Ferramentas&lt;/f0&gt; na barra de Menu e selecione o nome de uma barra de ferramentas no submenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To display hidden sheets, right-click on any sheet tab and select &lt;f0&gt;Show Sheet&lt;/f0&gt; in the context menu, or go to &lt;f1&gt;Sheet &gt; Show Sheet&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155943Z" creationid="olivier" creationdate="20250121T155943Z">
+        <seg>Para exibir planilhas ocultas, clique com o botão direito do mouse em qualquer guia da planilha e selecione &lt;f0&gt;Mostrar planilha&lt;/f0&gt; no menu de contexto ou vá para &lt;f1&gt;Planilha &gt; Mostrar planilha&lt;/f1&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9234,6 +9466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135300Z" creationid="olivier-tdf" creationdate="20250120T135300Z">
         <seg>Ao inserir uma nova planilha em um documento de planilha, o Calc usa automaticamente o próximo número na sequência numérica para construir um nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you move or copy a sheet to another spreadsheet, a conflict may occur with formulas linked to other sheets in the previous location.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155741Z" creationid="olivier" creationdate="20250121T155741Z">
+        <seg>Quando mover ou copiar para outro documento de planilha, pode ocorrer um conflito se as fórmulas estiverem vinculadas às planilhas no local anterior.</seg>
       </tuv>
     </tu>
     <tu>
