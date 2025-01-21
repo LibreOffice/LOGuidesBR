@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Delete Cells dialog&lt;/s0&gt;&lt;s1&gt;Delete Cells dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154215Z" creationid="olivier" creationdate="20250121T154215Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Excluir células&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Excluir células&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Dialog showing an example of common controls&lt;/s0&gt;&lt;s1&gt;Dialog showing an example of common controls&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214400Z" creationid="olivier-tdf" creationdate="20250109T214400Z">
@@ -922,6 +930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211710Z" creationid="olivier-tdf" creationdate="20250116T211710Z">
         <seg>&lt;s0&gt;Barra de fórmulas&lt;/s0&gt;&lt;s1&gt;Barra de fórmulas&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Insert Sheet dialog&lt;/s0&gt;&lt;s1&gt;Insert Sheet dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154502Z" creationid="olivier" creationdate="20250121T154502Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Inserir planilha&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Inserir planilha&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1322,6 +1338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113947Z" creationid="olivier-tdf" creationdate="20250109T113947Z">
         <seg>Vantagens do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After clicking on the icon, the the new sheet appears with an automatically allocated name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154421Z" creationid="olivier" creationdate="20250121T154401Z">
+        <seg>Depois de clicar no ícone, a nova planilha aparece com um nome alocado automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete Cells dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154239Z" creationid="olivier" creationdate="20250121T154239Z">
+        <seg>Caixa de diálogo Excluir células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deleting cells</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153536Z" creationid="olivier" creationdate="20250121T153536Z">
@@ -3282,6 +3314,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121123Z" creationid="olivier" creationdate="20250121T121123Z">
         <seg>Figura &lt;seq0&gt;17&lt;/seq0&gt;: Caixa Selecionar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Delete Cells dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154230Z" creationid="olivier" creationdate="20250121T154230Z">
+        <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;: Caixa de diálogo Excluir células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Insert Sheet dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154518Z" creationid="olivier" creationdate="20250121T154518Z">
+        <seg>Figura &lt;seq0&gt;19&lt;/seq0&gt;: Caixa de diálogo Inserir planilha</seg>
       </tuv>
     </tu>
     <tu>
@@ -4438,6 +4486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you need to insert a new sheet after the last sheet in a spreadsheet without opening the Insert Sheet dialog, click the &lt;f0&gt;Add Sheet&lt;/f0&gt; (+) icon next to the sheet tabs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154340Z" creationid="olivier" creationdate="20250121T154340Z">
+        <seg>Se precisar inserir uma nova planilha após a última planilha em um documento de planilha sem abrir a caixa de diálogo Inserir Planilha, clique no ícone &lt;f0&gt;Adicionar planilha&lt;/f0&gt; (+) ao lado das abas da planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you need to view an entire sheet, Calc can export a sheet as a PDF in one page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T221221Z" creationid="olivier-tdf" creationdate="20250117T221221Z">
@@ -4670,6 +4726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Action&lt;/f0&gt; area, select &lt;f1&gt;Move&lt;/f1&gt; to move the sheet or &lt;f2&gt;Copy&lt;/f2&gt; to copy the sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155159Z" creationid="olivier" creationdate="20250121T155159Z">
+        <seg>Na área &lt;f0&gt;Ação&lt;/f0&gt;, selecione &lt;f1&gt;Mover&lt;/f1&gt; para mover a planilha ou &lt;f2&gt;Copiar&lt;/f2&gt; para copiar a planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the &lt;f0&gt;Available Tables/Ranges&lt;/f0&gt; list box, select the named ranges or tables you want to insert.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T002024Z" creationid="olivier" creationdate="20250120T002024Z">
@@ -4782,6 +4846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insert Sheet dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154522Z" creationid="olivier" creationdate="20250121T154522Z">
+        <seg>Caixa de diálogo Inserir planilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insert mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T103612Z" creationid="timot" creationdate="20250113T103117Z">
@@ -4802,6 +4874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121944Z" creationid="olivier" creationdate="20250121T121944Z">
         <seg>Inserir colunas e linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inserting new sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154254Z" creationid="olivier" creationdate="20250121T154254Z">
+        <seg>Inserir novas planilhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -5578,6 +5658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144336Z" creationid="olivier-tdf" creationdate="20250120T144336Z">
         <seg>Mova o mouse para destacar o bloco de células desejado e solte o botão do mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving and copying sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154733Z" creationid="olivier" creationdate="20250121T154733Z">
+        <seg>Mover e copiar planilhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6446,6 +6534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click on the sheet tab where you want to insert a new sheet and select &lt;f0&gt;Insert Sheet&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154626Z" creationid="olivier" creationdate="20250121T154626Z">
+        <seg>Clique com o botão direito do mouse na aba da planilha onde deseja inserir uma nova planilha e selecione &lt;f0&gt;Inserir planilha&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click the column or row header where you want the new column or row inserted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122149Z" creationid="olivier" creationdate="20250121T122149Z">
@@ -6818,6 +6914,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T215454Z" creationid="olivier-tdf" creationdate="20250117T215454Z">
         <seg>Selecione a planilha a ser gravada como um arquivo CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the sheet where you want to insert a new sheet, then go to &lt;f0&gt;Sheet &gt; Insert Sheet&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154608Z" creationid="olivier" creationdate="20250121T154608Z">
+        <seg>Selecione a planilha em que deseja inserir uma nova planilha e selecione &lt;f0&gt;Planilha &gt; Inserir planilha&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the spreadsheet where you want the sheet to be placed in the &lt;f0&gt;&lt;f1&gt;To document&lt;/f1&gt;&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155243Z" creationid="olivier" creationdate="20250121T155243Z">
+        <seg>Selecione o documento de planilha onde deseja que a planilha seja colocada na lista suspensa&lt;f0&gt;&lt;f1&gt;Para o documento&lt;/f1&gt;&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7398,6 +7510,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Insert Sheet dialog (Figure &lt;t0&gt;19&lt;/t0&gt;) provides greater flexibility and is accessed by one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154439Z" creationid="olivier" creationdate="20250121T154439Z">
+        <seg>A caixa de diálogo Inserir Folha (Figura &lt;t0&gt;19&lt;/t0&gt;) fornece maior flexibilidade e é acessada por um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Insert Sheet dialog is used to position the new sheet, create multiple sheets, name the new sheet, or select a file containing the data to be inserted into the new sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154726Z" creationid="olivier" creationdate="20250121T154726Z">
+        <seg>A caixa de diálogo Inserir planilha é usada para posicionar a nova planilha, criar várias planilhas, nomear a nova planilha ou selecionar um arquivo contendo os dados a serem inseridos na nova planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Java JDK/JRE is only required for some features.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215313Z" creationid="olivier-tdf" creationdate="20250109T215313Z">
@@ -7450,6 +7578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T143150Z" creationid="tulio" creationdate="20250119T143150Z">
         <seg>A barra de menu está localizada acima da barra de ferramentas padrão nos sistemas operacionais Windows e Linux e na parte superior da área de trabalho no macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Move/Copy Sheet dialog (Figure &lt;t0&gt;20&lt;/t0&gt;) provides greater flexibility and, in particular, allows you to move or copy a sheet into a different spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154950Z" creationid="olivier" creationdate="20250121T154950Z">
+        <seg>A caixa de diálogo Mover/Copiar planilha (Figura &lt;t0&gt;20&lt;/t0&gt;) oferece maior flexibilidade e, em particular, permite mover ou copiar uma planilha para um documento de planilha diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8238,6 +8374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To access the Move/Copy Sheet dialog, right-click on the sheet tab you wish to move or copy and then select &lt;f0&gt;Move or Copy Sheet&lt;/f0&gt; in the context menu, or go to &lt;f1&gt;Sheet &gt; Move or Copy Sheet&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155137Z" creationid="olivier" creationdate="20250121T155137Z">
+        <seg>Para acessar a caixa de diálogo Mover/Copiar planilha, clique com o botão direito do mouse na aba da planilha que deseja mover ou copiar e selecione &lt;f0&gt;Mover ou Copiar planilha&lt;/f0&gt; no menu de contexto ou vá para &lt;f1&gt;Planilha &gt; Mover ou Copiar planilha&lt;/f1&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To activate a single toolbar user interface, go to &lt;f0&gt;View &gt; User Interface&lt;/f0&gt; and select &lt;f1&gt;Single Toolbar&lt;/f1&gt; from the Select Your Preferred User Interface dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172822Z" creationid="tulio" creationdate="20250119T172822Z">
@@ -9014,6 +9158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the Delete Cells dialog (Figure &lt;t0&gt;18&lt;/t0&gt;) appears, select the appropriate option and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154148Z" creationid="olivier" creationdate="20250121T154148Z">
+        <seg>Quando a caixa de diálogo Excluir células (Figura &lt;t0&gt;18&lt;/t0&gt;) for exibida, selecione a opção apropriada e clique em &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the cursor is in a &lt;f0&gt;table&lt;/f0&gt;, this panel appears in addition to the panels for text:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T111525Z" creationid="timot" creationdate="20250113T111525Z">
@@ -9238,6 +9390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Working with sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154246Z" creationid="olivier" creationdate="20250121T154246Z">
+        <seg>Trabalhar com planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer (word processing)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114357Z" creationid="olivier-tdf" creationdate="20250109T114357Z">
@@ -9390,6 +9550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also copy a sheet by right-clicking the sheet’s tab and selecting &lt;f1&gt;Duplicate Sheet&lt;/f1&gt; in the context menu, or by going to &lt;f2&gt;Sheet &gt; Duplicate Sheet&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154909Z" creationid="olivier" creationdate="20250121T154909Z">
+        <seg>Você também pode copiar uma planilha clicando com o botão direito do mouse na guia da planilha e selecionando &lt;f1&gt;Duplicar planilha&lt;/f1&gt; no menu de contexto ou indo para &lt;f2&gt;Planilha &gt; Duplicar planilha&lt;/f2&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also create and edit .ODT files and then save them as .DOCX or .DOC files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T001135Z" creationid="olivier" creationdate="20250120T001135Z">
@@ -9502,6 +9670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can copy a sheet within the same spreadsheet, by holding down the &lt;f0&gt;Ctrl&lt;/f0&gt; key, clicking on the sheet tab, and dragging it to its required position before releasing the mouse button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154828Z" creationid="olivier" creationdate="20250121T154828Z">
+        <seg>Para copiar uma planilha dentro do mesmo documento de planilha, mantenha pressionada a tecla &lt;f0&gt;Ctrl&lt;/f0&gt; e clique na aba da planilha e arraste-a para sua nova posição antes de soltar o botão do mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can customize the behavior of the &lt;f0&gt;Enter&lt;/f0&gt; key by going to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; General&lt;/f1&gt; on the Menu bar and using the upper three options in the &lt;f2&gt;Input Settings&lt;/f2&gt; area (Figure &lt;t3&gt;16&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135446Z" creationid="olivier-tdf" creationdate="20250120T135446Z">
@@ -9538,6 +9714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122105Z" creationid="olivier-tdf" creationdate="20250117T122105Z">
         <seg>Você pode importar esses dados para o Calc para mais análises e gráficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can move a sheet to a different position within the same spreadsheet, by clicking on the sheet’s tab and dragging it to a new position before releasing the mouse button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154748Z" creationid="olivier" creationdate="20250121T154748Z">
+        <seg>Você pode mover uma planilha para uma posição diferente dentro da mesma planilha, clicando na guia da planilha e arrastando-a para uma nova posição antes de soltar o botão do mouse.</seg>
       </tuv>
     </tu>
     <tu>
