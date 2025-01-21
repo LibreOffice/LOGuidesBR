@@ -2206,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose the &lt;f0&gt;Sheet &gt; Delete Cells command&lt;/f0&gt;, press &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;-&lt;/f2&gt;, or right-click on a cell and select &lt;f3&gt;Delete&lt;/f3&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154110Z" creationid="olivier" creationdate="20250121T154110Z">
+        <seg>Selecione &lt;f0&gt;Planilha &gt; Excluir células&lt;/f0&gt;, pressione &lt;f1&gt;Ctrl+-&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, ou clique com o botão direito em uma das células selecionadas e selecione &lt;f3&gt;Excluir&lt;/f3&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to import the file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122830Z" creationid="olivier-tdf" creationdate="20250117T122830Z">
@@ -2658,6 +2666,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215710Z" creationid="timot" creationdate="20250110T215710Z">
         <seg>Dave Barton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleting cells</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153536Z" creationid="olivier" creationdate="20250121T153536Z">
+        <seg>Excluir células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleting columns or rows</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153109Z" creationid="olivier" creationdate="20250121T153109Z">
+        <seg>Excluir linhas ou colunas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,6 +4122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T115256Z" creationid="timot" creationdate="20250114T115201Z">
         <seg>Ocultar espaços em branco também funciona na visualização Tela inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight the required columns or rows by holding down the left mouse button on the header of the first one and then dragging across the required number of headers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153504Z" creationid="olivier" creationdate="20250121T153504Z">
+        <seg>Destaque as colunas ou linhas necessárias mantendo pressionado o botão esquerdo do mouse no cabeçalho da primeira e arrastando o número necessário de cabeçalhos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6646,6 +6678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f4&gt;Delete entire column(s)&lt;/f4&gt; or &lt;f5&gt;Delete entire row(s)&lt;/f5&gt; and click &lt;f6&gt;OK&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153337Z" creationid="olivier" creationdate="20250121T153337Z">
+        <seg>Selecione &lt;f4&gt;Excluir coluna(s) inteira(s)&lt;/f4&gt; ou &lt;f5&gt;Excluir linha(s) inteira(s)&lt;/f5&gt; e clique em &lt;f6&gt;OK&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select All box</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121140Z" creationid="olivier" creationdate="20250121T121140Z">
@@ -6674,6 +6714,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121755Z" creationid="olivier-tdf" creationdate="20250117T121755Z">
         <seg>Selecione uma cor e clique em &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a range of cells across the columns or rows you want to delete and select &lt;f0&gt;Sheet &gt; Delete Columns&lt;/f0&gt; or &lt;f1&gt;Sheet &gt; Delete Rows&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153451Z" creationid="olivier" creationdate="20250121T153451Z">
+        <seg>Selecione um intervalo de células nas colunas ou linhas que deseja excluir e selecione &lt;f0&gt;Planilha &gt; Excluir colunas&lt;/f0&gt; ou &lt;f1&gt;Planilha &gt; Excluir linhas&lt;/f1&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a range of cells across the columns or rows you want to delete, right-click and select &lt;f0&gt;Delete&lt;/f0&gt; in the context menu, select &lt;f1&gt;Sheet &gt; Delete Cells&lt;/f1&gt; on the Menu bar, or press &lt;f2&gt;Ctrl+-&lt;/f2&gt; to open the Delete Cells dialog (Figure &lt;t3&gt;18&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153252Z" creationid="olivier" creationdate="20250121T153252Z">
+        <seg>Selecione um intervalo de células nas colunas ou linhas que deseja excluir, clique com o botão direito e selecione &lt;f0&gt;Excluir&lt;/f0&gt; no menu de contexto, selecione &lt;f1&gt;Planilha &gt; Excluir células&lt;/f1&gt; na barra de menus ou pressione &lt;f2&gt;Ctrl+-&lt;/f2&gt; para abrir a caixa de diálogo Excluir células (Figura &lt;t3&gt;18&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6714,6 +6770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T220718Z" creationid="olivier-tdf" creationdate="20250117T220718Z">
         <seg>Selecione o intervalo de células ou o grupo de formas e, em seguida, selecione &lt;f0&gt;Arquivo &gt; Exportar&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the cells you want to delete.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153553Z" creationid="olivier" creationdate="20250121T153553Z">
+        <seg>Selecione as células que deseja excluir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7870,6 +7934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then right-click on one of the selected column or row headers and select &lt;f0&gt;Delete Columns&lt;/f0&gt; or &lt;f1&gt;Delete Rows&lt;/f1&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153528Z" creationid="olivier" creationdate="20250121T153528Z">
+        <seg>Em seguida, clique com o botão direito do mouse em um dos cabeçalhos de coluna ou linha selecionados e selecione &lt;f0&gt;Excluir colunas&lt;/f0&gt; ou &lt;f1&gt;Excluir linhas&lt;/f1&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are multiple methods for closing LibreOffice:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011207Z" creationid="tulio" creationdate="20250116T011207Z">
@@ -8230,6 +8302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To delete multiple columns or rows, do one of the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153115Z" creationid="olivier" creationdate="20250121T153115Z">
+        <seg>Para excluir várias colunas ou linhas, siga um destes procedimentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To display LibreOffice Help, press &lt;f0&gt;F1&lt;/f0&gt; or go to &lt;f1&gt;Help &gt; LibreOffice Help&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194834Z" creationid="olivier-tdf" creationdate="20250109T194834Z">
@@ -8370,6 +8450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T010313Z" creationid="tulio" creationdate="20250116T001612Z">
         <seg>Para reduzir o número de arquivos exibidos no centro de partida, selecione um módulo do LibreOffice na lista suspensa &lt;f0&gt;Filtro&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To see an indicator for hidden columns and rows, enable the &lt;f0&gt;View &gt; Hidden Row/Column Indicator&lt;/f0&gt; option on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153100Z" creationid="olivier" creationdate="20250121T153100Z">
+        <seg>Para ver um indicador de colunas e linhas ocultas, habilite a opção &lt;f0&gt;Exibir &gt; Linha Oculta/Indicador de Coluna&lt;/f0&gt; na barra de Menu.</seg>
       </tuv>
     </tu>
     <tu>
