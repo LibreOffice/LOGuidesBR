@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;View &gt; Freeze Rows and Columns&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Freeze Rows and Columns&lt;/f1&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T221926Z" creationid="olivier-tdf" creationdate="20250122T221926Z">
+        <seg>Escolha &lt;f0&gt;Exibir &gt; Fixar linhas e colunas&lt;/f0&gt; na barra de menus ou clique no ícone &lt;f1&gt;Fixar linhas e colunas&lt;/f1&gt; na barra de ferramentas padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose a topic of interest to help improve the program.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200215Z" creationid="olivier-tdf" creationdate="20250109T200215Z">
@@ -2426,6 +2434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144403Z" creationid="olivier-tdf" creationdate="20250120T144403Z">
         <seg>Clique na célula em um canto do intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click in the cell that is immediately &lt;f0&gt;below&lt;/f0&gt; the rows you want to freeze and immediately to the &lt;f1&gt;right&lt;/f1&gt; of the columns you want frozen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T221901Z" creationid="olivier-tdf" creationdate="20250122T221901Z">
+        <seg>Clique na célula imediatamente &lt;f0&gt;abaixo&lt;/f0&gt; das linhas que deseja fixar e imediatamente à &lt;f1&gt;direita&lt;/f1&gt; das colunas que deseja fixar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9562,6 +9578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T130023Z" creationid="olivier-tdf" creationdate="20250114T130023Z">
         <seg>Abaixo da barra de título está a barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unfreezing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T222919Z" creationid="olivier-tdf" creationdate="20250122T222919Z">
+        <seg>Soltar</seg>
       </tuv>
     </tu>
     <tu>
