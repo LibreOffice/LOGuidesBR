@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any number with only decimal places will then have no leading zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231557Z" creationid="olivier-tdf" creationdate="20250122T231557Z">
+        <seg>Qualquer número com apenas casas decimais não terá zero à esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Any previous selection is deselected.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T103956Z" creationid="timot" creationdate="20250113T103956Z">
@@ -3286,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each question mark represents a decimal place.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231514Z" creationid="olivier-tdf" creationdate="20250122T231514Z">
+        <seg>Cada ponto de interrogação representa uma casa decimal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each section provides you with a view of one part of the sheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223159Z" creationid="olivier-tdf" creationdate="20250122T223159Z">
@@ -4010,6 +4026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105538Z" creationid="timot" creationdate="20250113T105538Z">
         <seg>Para mais detalhes, consulte a Ajuda ou o &lt;f0&gt;Guia do Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, for 3 decimal places, type one period and three question marks [&lt;f2&gt;.???]&lt;/f2&gt; and click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231531Z" creationid="olivier-tdf" creationdate="20250122T231531Z">
+        <seg>Por exemplo, para 3 casas decimais, digite um ponto e três pontos de interrogação [&lt;f2&gt;.???]&lt;/f2&gt; e clique em &lt;f3&gt;OK.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4906,6 +4930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225953Z" creationid="olivier-tdf" creationdate="20250122T225953Z">
         <seg>Ao inserir um número com zeros à esquerda (por exemplo, 01481), o Calc descartará os zeros à esquerda por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a numeric value does not need to be treated as a number in calculations (for example when entering a zip code), you can type an apostrophe (') before the number, for example “&lt;f0&gt;'01481&lt;/f0&gt;”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231658Z" creationid="olivier-tdf" creationdate="20250122T231658Z">
+        <seg>Se um valor numérico não precisar ser tratado como um número nos cálculos (por exemplo, ao inserir um código CEP), você poderá digitar um apóstrofo (') antes do número, por exemplo, "&lt;f0&gt;'01481&lt;/f0&gt;".</seg>
       </tuv>
     </tu>
     <tu>
@@ -6674,6 +6706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225712Z" creationid="olivier-tdf" creationdate="20250122T225712Z">
         <seg>Números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Numbers as text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231805Z" creationid="olivier-tdf" creationdate="20250122T231805Z">
+        <seg>Números como texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -10698,6 +10738,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155741Z" creationid="olivier" creationdate="20250121T155741Z">
         <seg>Quando mover ou copiar para outro documento de planilha, pode ocorrer um conflito se as fórmulas estiverem vinculadas às planilhas no local anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you move the cell focus, the apostrophe is hidden, any leading zeroes are retained, and the number is converted to left-aligned text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231748Z" creationid="olivier-tdf" creationdate="20250122T231748Z">
+        <seg>Quando mover o foco da célula, o apóstrofo fica oculto, todos os zeros à esquerda são mantidos e o número é convertido em texto alinhado à esquerda.</seg>
       </tuv>
     </tu>
     <tu>
