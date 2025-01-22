@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Split screen bars&lt;/s0&gt;&lt;s1&gt;Split screen bars&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225150Z" creationid="olivier-tdf" creationdate="20250122T225150Z">
+        <seg>&lt;s0&gt;Barras de tela dividida&lt;/s0&gt;&lt;s1&gt;Barras de tela dividida&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Split screen example&lt;/s0&gt;&lt;s1&gt;Split screen example&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223558Z" creationid="olivier-tdf" creationdate="20250122T223558Z">
@@ -2478,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click in the cell that is &lt;f0&gt;below&lt;/f0&gt; the row and to the &lt;f1&gt;right&lt;/f1&gt; of the column where you want to split.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T224912Z" creationid="olivier-tdf" creationdate="20250122T224912Z">
+        <seg>Clique na célula que está &lt;f0&gt;abaixo&lt;/f0&gt; da linha e à &lt;f1&gt;direita&lt;/f1&gt; da coluna onde deseja dividir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click in the cell that is immediately &lt;f0&gt;below&lt;/f0&gt; the rows you want to freeze and immediately to the &lt;f1&gt;right&lt;/f1&gt; of the columns you want frozen.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T221901Z" creationid="olivier-tdf" creationdate="20250122T221901Z">
@@ -2538,6 +2554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120623Z" creationid="olivier" creationdate="20250121T120623Z">
         <seg>Clique em todas as colunas ou linhas subsequentes enquanto mantém pressionada a tecla &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the horizontal split bar at the top of the vertical scroll bar (Figure &lt;t0&gt;23&lt;/t0&gt;&lt;s1/&gt;– left) and drag it down to a position &lt;f2&gt;below&lt;/f2&gt; the row where you want the horizontal split.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225042Z" creationid="olivier-tdf" creationdate="20250122T225042Z">
+        <seg>Clique na barra de divisão horizontal na parte superior da barra de rolagem vertical (Figura &lt;t0&gt;23&lt;/t0&gt;&lt;s1/&gt;– esquerda) e arraste-a para uma posição &lt;f2&gt;abaixo&lt;/f2&gt; da linha onde deseja a divisão horizontal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4430,6 +4454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f2&gt;View &gt; Split Window&lt;/f2&gt; on the Menu bar or click the &lt;f3&gt;Split Window&lt;/f3&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T224944Z" creationid="olivier-tdf" creationdate="20250122T224944Z">
+        <seg>Vá para &lt;f2&gt;Exibir &gt; Dividir janela&lt;/f2&gt; na barra de menu ou clique no ícone &lt;f3&gt;Dividir janela&lt;/f3&gt; na barra de ferramentas padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to Page dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T183807Z" creationid="timot" creationdate="20250122T183807Z">
@@ -4610,6 +4642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120451Z" creationid="olivier" creationdate="20250121T120451Z">
         <seg>Mantenha pressionada a tecla &lt;f0&gt;Shift&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Horizontal and vertical separator lines appear indicating where the split has been placed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T224846Z" creationid="olivier-tdf" creationdate="20250122T224846Z">
+        <seg>Uma linha separadora horizontal ou vertical aparece indicando onde a divisão foi colocada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8890,6 +8930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T161042Z" creationid="olivier" creationdate="20250121T161042Z">
         <seg>Em seguida, clique com o botão direito do mouse em uma das guias de planilha selecionadas e selecione &lt;f2&gt;Excluir planilha&lt;/f2&gt; no menu de contexto ou vá para &lt;f3&gt;Planilha &gt; Excluir planilha&lt;/f3&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then, click on the vertical split bar to the right of the horizontal scroll bar (Figure &lt;t3&gt;23&lt;/t3&gt;&lt;s4/&gt;– right) and drag it left to a position to the &lt;f5&gt;right&lt;/f5&gt; of the column where you want the vertical split.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225103Z" creationid="olivier-tdf" creationdate="20250122T225103Z">
+        <seg>Em seguida, clique na barra de divisão vertical à direita da barra de rolagem horizontal (Figura &lt;t3&gt;23&lt;/t3&gt;&lt;s4/&gt;– direita) e arraste-a para a esquerda para uma posição à &lt;f5&gt;direita&lt;/f5&gt; da coluna onde deseja a divisão vertical.</seg>
       </tuv>
     </tu>
     <tu>
