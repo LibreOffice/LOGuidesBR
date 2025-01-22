@@ -936,8 +936,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Frozen rows and columns&lt;/s0&gt;&lt;s1&gt;Frozen rows and columns&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250122T175821Z" creationid="timot" creationdate="20250122T175821Z">
-        <seg>&lt;s0&gt;Linhas e colunas&lt;/s0&gt;&lt;s1&gt;congeladas Linhas e colunas&lt;/s1&gt; congeladas</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250122T182751Z" creationid="timot" creationdate="20250122T175821Z">
+        <seg>&lt;s0&gt;Linhas e colunas congeladas&lt;/s0&gt;&lt;s1&gt;Linhas e colunas congeladas&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2466,6 +2466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120518Z" creationid="olivier" creationdate="20250121T120518Z">
         <seg>Clique no cabeçalho da último coluna ou última linha do grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the header of the row &lt;f0&gt;below&lt;/f0&gt; all the rows you want to freeze, or click on the header of the column to the &lt;f1&gt;right&lt;/f1&gt; of all the columns you want the freeze.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250122T183623Z" creationid="olivier" creationdate="20250122T183623Z">
+        <seg>Clique no cabeçalho da linha &lt;f0&gt;abaixo&lt;/f0&gt; de todas as linhas que deseja congelar ou clique no cabeçalho da coluna à &lt;f1&gt;direita&lt;/f1&gt; de todas as colunas que deseja congelar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7046,6 +7054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click on the header and select &lt;f0&gt;Freeze Rows and Columns&lt;/f0&gt; in the context menu, or go to &lt;f1&gt;View &gt; Freeze Rows and Columns&lt;/f1&gt; on the Menu bar, or click the &lt;f2&gt;Freeze Rows and Columns&lt;/f2&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250122T183750Z" creationid="olivier" creationdate="20250122T183750Z">
+        <seg>Clique com o botão direito do mouse no cabeçalho e selecione &lt;f0&gt;Fixar linhas e colunas&lt;/f0&gt; no menu de contexto, ou vá para &lt;f1&gt;Exibir &gt; Fixar linhas e colunas&lt;/f1&gt; na barra de menu, ou clique no ícone &lt;f2&gt;Fixar linhas e colunas&lt;/f2&gt; na barra de ferramentas padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click on the sheet tab where you want to insert a new sheet and select &lt;f0&gt;Insert Sheet&lt;/f0&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154626Z" creationid="olivier" creationdate="20250121T154626Z">
@@ -9162,6 +9178,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T004117Z" creationid="olivier" creationdate="20250120T004117Z">
         <seg>Para explicar essas teclas pressionadas, é útil definir R&lt;f2&gt;max&lt;/f2&gt; como a linha numerada mais alta na planilha que contém quaisquer dados e C&lt;f3&gt;max&lt;/f3&gt; como a coluna mais à direita na planilha que contém quaisquer dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To f&lt;bs0/&gt;reeze &lt;f1&gt;both&lt;/f1&gt; a set of rows and a set of columns&lt;be2/&gt; (single or multiple):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250122T183829Z" creationid="olivier" creationdate="20250122T183829Z">
+        <seg>&lt;bs0/&gt;&lt;f1&gt;&lt;/f1&gt;&lt;be2/&gt;Para fixar tanto um conjunto de linhas ou de colunas (simples ou múltiplas):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To f&lt;bs0/&gt;reeze &lt;f1&gt;either&lt;/f1&gt; a set of rows or a set of column&lt;be2/&gt;s (single or multiple):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250122T183505Z" creationid="olivier" creationdate="20250122T183505Z">
+        <seg>&lt;bs0/&gt;&lt;f1&gt;&lt;/f1&gt;&lt;be2/&gt;Para fixar tanto um conjunto de linhas ou de colunas (simples ou múltiplas):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To freeze the first column in a sheet go to &lt;f0&gt;View &gt; Freeze Cells &gt; Freeze First Column&lt;/f0&gt; on the Menu bar, or click the down arrow to the right of the &lt;f1&gt;Freeze Rows and Column&lt;/f1&gt; icon on the Standard toolbar and select &lt;f2&gt;Freeze First Column&lt;/f2&gt; in the drop-down menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250122T183030Z" creationid="olivier" creationdate="20250122T182714Z">
+        <seg>Para fixar a primeira coluna em uma planilha, vá para &lt;f0&gt;Exibir &gt; Fixar células &gt; Fixar primeira coluna&lt;/f0&gt; na barra de menu ou clique na seta para baixo à direita do ícone &lt;f1&gt;Fixar linhas e colunas&lt;/f1&gt; na barra de ferramentas padrão e selecione &lt;f2&gt;Fixar primeira coluna&lt;/f2&gt; no menu suspenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To freeze the first row in a sheet go to &lt;f0&gt;View &gt; Freeze Cells &gt; Freeze First Row&lt;/f0&gt; on the Menu bar, or click the down arrow to the right of the &lt;f1&gt;Freeze Rows and Column&lt;/f1&gt; icon on the Standard toolbar and select &lt;f2&gt;Freeze First Row&lt;/f2&gt; in the drop-down menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250122T183152Z" creationid="olivier" creationdate="20250122T183152Z">
+        <seg>Para fixar a primeira linha em uma planilha, vá para &lt;f0&gt;Exibir &gt; Fixar células &gt; Fixar primeira linha&lt;/f0&gt; na barra de menu ou clique na seta para baixo à direita do ícone &lt;f1&gt;Fixar linhas e colunas&lt;/f1&gt; na barra de ferramentas padrão e selecione &lt;f2&gt;Fixar primeira linha&lt;/f2&gt; no menu suspenso.</seg>
       </tuv>
     </tu>
     <tu>
