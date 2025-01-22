@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Go to Page dialog&lt;/s0&gt;&lt;s1&gt;Go to Page dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183745Z" creationid="timot" creationdate="20250122T183745Z">
+        <seg>Diálogo &lt;s0&gt;Ir para Página Diálogo&lt;/s0&gt;&lt;s1&gt;Ir para Página&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Insert Sheet dialog&lt;/s0&gt;&lt;s1&gt;Insert Sheet dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154502Z" creationid="olivier" creationdate="20250121T154502Z">
@@ -978,6 +986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155633Z" creationid="olivier" creationdate="20250121T155633Z">
         <seg>&lt;s0&gt;Caixa de diálogo Mover/Copiar planilha &lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Mover/Copiar planilha&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Navigate By list on Navigator&lt;/s0&gt;&lt;s1&gt;Navigate By list on Navigator&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T182429Z" creationid="timot" creationdate="20250122T182429Z">
+        <seg>&lt;s0&gt;Navegar por lista no Navegador&lt;/s0&gt;&lt;s1&gt;Navegar por lista no Navegador&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200252Z" creationid="timot" creationdate="20250111T200252Z">
         <seg>&lt;s0&gt;Barra de status do Writer, extremidade direita&lt;/s0&gt;&lt;s1&gt;Barra de status do Writer, extremidade direita&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 2, Getting Started with Writer&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183726Z" creationid="timot" creationdate="20250122T183726Z">
+        <seg>[parcial]Capítulo 2, Introdução ao Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although Writer can open and edit files in Apple Pages format (&lt;f0&gt;*.pages&lt;/f0&gt;), it cannot save in that format or export to that format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T180805Z" creationid="timot" creationdate="20250122T180805Z">
+        <seg>Embora o Writer abre e edita arquivos no formato Apple Pages (&lt;f0&gt;*.pages&lt;/f0&gt;), não é possível salvar, ou exportar, para esse formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although the programming languages are the same, the objects and methods are different and therefore not entirely compatible.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124835Z" creationid="olivier-tdf" creationdate="20250114T124835Z">
@@ -1690,6 +1722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123621Z" creationid="olivier-tdf" creationdate="20250109T123621Z">
         <seg>Qualquer pessoa que queira adquirir rapidamente conhecimento sobre o LibreOffice e seja nova no software de escritório, ou possa estar familiarizada com outro pacote de escritório, achará este Guia de Introdução muito útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apple Pages cannot open files in OpenDocument format, so if you need to share files with users of Pages, save your &lt;f1&gt;.odt&lt;/f1&gt; file in a compatible format, such as &lt;f2&gt;.rtf&lt;/f2&gt; or &lt;f3&gt;.docx&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T180846Z" creationid="timot" creationdate="20250122T180846Z">
+        <seg>O Apple Pages não consegue abrir arquivos no formato OpenDocument, portanto, se for necessário compartilhar arquivos com usuários do Pages, salve seu arquivo &lt;f1&gt;.odt&lt;/f1&gt; em um formato compatível, como &lt;f2&gt;.rtf&lt;/f2&gt; ou &lt;f3&gt;.docx&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2262,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Edit &gt; Go to Page&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183656Z" creationid="timot" creationdate="20250122T183656Z">
+        <seg>Escolha &lt;f0&gt;Editar &gt; Ir para página&lt;/f0&gt; na Barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose &lt;f0&gt;File &gt; Open &lt;/f0&gt;on the Menu bar, click the &lt;f1&gt;Open&lt;/f1&gt; icon on the Standard toolbar, or press &lt;f2&gt;Ctrl+O&lt;/f2&gt;, and then locate the CSV file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122304Z" creationid="olivier-tdf" creationdate="20250117T122304Z">
@@ -2426,6 +2474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120623Z" creationid="olivier" creationdate="20250121T120623Z">
         <seg>Clique em todas as colunas ou linhas subsequentes enquanto mantém pressionada a tecla &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the page number field in the Status bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183636Z" creationid="timot" creationdate="20250122T183636Z">
+        <seg>Clique no campo Número da página no documento na barra de Status.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3264,8 +3320,8 @@
       <tuv lang="en-US">
         <seg>Exchanging documents with users of Apple Pages</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250122T180637Z" creationid="timot" creationdate="20250122T180637Z">
-        <seg>Troca de documentos com usuários do Apple Pages</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T180721Z" creationid="timot" creationdate="20250122T180637Z">
+        <seg>Intercâmbio de documentos com usuários do Apple Pages</seg>
       </tuv>
     </tu>
     <tu>
@@ -3582,10 +3638,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Navigate By list on Navigator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T182747Z" creationid="timot" creationdate="20250122T182747Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Navegar por lista no Navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Selecting math operations on Status bar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213252Z" creationid="olivier-tdf" creationdate="20250116T213252Z">
         <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Selecionar operações matemáticas na barra de status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Go to Page dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183758Z" creationid="timot" creationdate="20250122T183758Z">
+        <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Caixa de diálogo Ir para página</seg>
       </tuv>
     </tu>
     <tu>
@@ -3926,6 +3998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more uses of the Navigator in Writer, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T182139Z" creationid="timot" creationdate="20250122T182139Z">
+        <seg>Para mais usos do Navegador no Writer, consulte o &lt;f0&gt;Guia do Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For quick tips when a toolbar is visible, place the cursor over any of the tool icons to see a small tooltip box with a brief explanation of the tool function.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195017Z" creationid="olivier-tdf" creationdate="20250109T195017Z">
@@ -4250,6 +4330,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T142812Z" creationid="tulio" creationdate="20250119T142812Z">
         <seg>Vá para &lt;f0&gt;Exibir &gt; Interface do usuário&lt;/f0&gt; na barra de menus para alterar a interface do usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to Page dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183807Z" creationid="timot" creationdate="20250122T183807Z">
+        <seg>Caixa de diálogo Ir para página</seg>
       </tuv>
     </tu>
     <tu>
@@ -4650,6 +4738,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T134301Z" creationid="olivier-tdf" creationdate="20250120T134301Z">
         <seg>Se for esse o caso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you attempt to save an edited &lt;f4&gt;.pages&lt;/f4&gt; file, the Save As dialog opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T180913Z" creationid="timot" creationdate="20250122T180913Z">
+        <seg>Se tentar salvar um arquivo &lt;f4&gt;.pages&lt;/f4&gt; editado, a caixa de diálogo Salvar como será aberta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5062,6 +5158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the top left of the Navigator is a &lt;f0&gt;Navigate By&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T181900Z" creationid="timot" creationdate="20250122T181900Z">
+        <seg>No canto superior esquerdo do Navegador há uma lista suspensa &lt;f0&gt;Navegar por&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this view, you can hide or show the headers and footers and the gap between pages by choosing &lt;f0&gt;View &gt; Show Whitespace&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T115025Z" creationid="timot" creationdate="20250114T115025Z">
@@ -5338,6 +5442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213431Z" creationid="olivier-tdf" creationdate="20250116T213431Z">
         <seg>É semelhante à Barra Lateral no Writer (mostrada no Capítulo 1 e Capítulo 2 deste livro) e consiste em cinco deques: &lt;f2&gt;Propriedades&lt;/f2&gt;, &lt;f3&gt;Estilos&lt;/f3&gt;, &lt;f4&gt;Galeria&lt;/f4&gt;, &lt;f5&gt;Navegador&lt;/f5&gt; e &lt;f6&gt;Funções&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It lists the headings, tables, text frames, graphics, bookmarks, and other objects in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T181751Z" creationid="timot" creationdate="20250122T181751Z">
+        <seg>Ele enumera os títulos, tabelas, quadros de texto, gráficos, marcadores e outros objetos no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5894,6 +6006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More information about different file formats can be found in Chapter 10, Working with File Formats, Security and Exporting&lt;f0&gt;.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T181317Z" creationid="timot" creationdate="20250122T181317Z">
+        <seg>Mais informações sobre diferentes formatos de arquivo podem ser encontradas no Capítulo 10, Imprimir, exportar, enviar e-mail e assinar documentos&lt;f0&gt;.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More information about this deck can be found in the Writers Guide (Chapter 7, Printing and Publishing).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T114414Z" creationid="timot" creationdate="20250114T114414Z">
@@ -5974,6 +6094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moving quickly through a document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T181535Z" creationid="timot" creationdate="20250122T181535Z">
+        <seg>Mover-se rapidamente por um documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving the mouse’s arrow over one of these commands opens another submenu that contains additional commands, for example &lt;f1&gt;View &gt; Rulers &gt; Rulers&lt;/f1&gt;, or &lt;f2&gt;Vertical Ruler&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144846Z" creationid="tulio" creationdate="20250119T144846Z">
@@ -6018,6 +6146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204741Z" creationid="olivier-tdf" creationdate="20250109T204741Z">
         <seg>Suporte ao idioma nativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate By list on Navigator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T182753Z" creationid="timot" creationdate="20250122T182753Z">
+        <seg>Navegar por lista no Navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -6274,6 +6410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122351Z" creationid="olivier-tdf" creationdate="20250117T122351Z">
         <seg>Na caixa de diálogo Importação de texto (Figura &lt;t0&gt;6&lt;/t0&gt;), selecione as opções necessárias para importar o arquivo CSV para a planilha do Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the top right of the Navigator is a &lt;f0&gt;Go to Page&lt;/f0&gt; field, which you can use to jump directly to a specific page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T182124Z" creationid="timot" creationdate="20250122T182048Z">
+        <seg>No canto superior direito do Navegador há um campo &lt;f0&gt;Ir para página&lt;/f0&gt;, útil para pular diretamente a uma página específica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6582,6 +6726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pages users can also export (not save) a copy of a Pages document in a format compatible with Writer, such as &lt;f0&gt;.docx&lt;/f0&gt; or &lt;f1&gt;.rtf&lt;/f1&gt;, which Writer can then open, edit, and save to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T180956Z" creationid="timot" creationdate="20250122T180956Z">
+        <seg>Os usuários do Pages também podem exportar (não salvar) uma cópia de um documento do Pages em um formato compatível com o Writer, como &lt;f0&gt;.docx&lt;/f0&gt; ou &lt;f1&gt;.rtf&lt;/f1&gt;, permitindo o Writer abrir, editar e salvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204902Z" creationid="olivier-tdf" creationdate="20250109T204902Z">
@@ -6634,6 +6786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T213158Z" creationid="tdf" creationdate="20241226T213158Z">
         <seg>Prefácio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press &lt;f0&gt;Ctrl+G&lt;/f0&gt; on the keyboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183739Z" creationid="timot" creationdate="20250122T183705Z">
+        <seg>Tecle &lt;f0&gt;Ctrl+G&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7950,6 +8110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Navigator provides several convenient ways to move around a document and find items in it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T181644Z" creationid="timot" creationdate="20250122T181644Z">
+        <seg>O navegador oferece várias maneiras convenientes de se mover e localizar itens em um documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Page Style dialog opens.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T201053Z" creationid="timot" creationdate="20250111T201053Z">
@@ -8998,6 +9166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To jump to a specific page in the document:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183025Z" creationid="timot" creationdate="20250122T183025Z">
+        <seg>Para pular a uma página específica no documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To make a donation, go to the following web page: &lt;a0&gt;https://www.libreoffice.org/donate/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215158Z" creationid="olivier-tdf" creationdate="20250109T215158Z">
@@ -9018,6 +9194,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122217Z" creationid="olivier-tdf" creationdate="20250117T122217Z">
         <seg>Para abrir um arquivo CSV no Calc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To open this dialog, do any of the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183518Z" creationid="timot" creationdate="20250122T183518Z">
+        <seg>Para abrir esta caixa de diálogo, siga um destes procedimentos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9230,6 +9414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type the number of the destination page in the text box and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183513Z" creationid="timot" creationdate="20250122T183513Z">
+        <seg>Digite o número da página de destino na caixa de texto e clique em &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type the required page number and click &lt;f0&gt;OK&lt;/f0&gt; or press &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200651Z" creationid="timot" creationdate="20250111T200651Z">
@@ -9250,6 +9442,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T130023Z" creationid="olivier-tdf" creationdate="20250114T130023Z">
         <seg>Abaixo da barra de título está a barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Go to Page dialog (Figure &lt;t0&gt;6&lt;/t0&gt;), which shows the current page number and the number of pages in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183506Z" creationid="timot" creationdate="20250122T183506Z">
+        <seg>Use a caixa de diálogo Ir para página (Figura &lt;t0&gt;6&lt;/t0&gt;), que mostra o número da página atual e o número de páginas no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Go to Page field on the top right of the Navigator (see above).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183411Z" creationid="timot" creationdate="20250122T183411Z">
+        <seg>Use o campo Ir para página no canto superior direito do Navegador (veja acima).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9322,6 +9530,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123825Z" creationid="olivier-tdf" creationdate="20250114T123825Z">
         <seg>Documento de planilhas no LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Go to Page dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183008Z" creationid="timot" creationdate="20250122T183008Z">
+        <seg>Usar a caixa de diálogo Ir para página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Navigator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T181541Z" creationid="timot" creationdate="20250122T181541Z">
+        <seg>Utilizar o Navegador</seg>
       </tuv>
     </tu>
     <tu>
@@ -9522,6 +9746,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194555Z" creationid="olivier-tdf" creationdate="20250109T194555Z">
         <seg>Quando o LibreOffice for adquirido através de lojas de aplicativos oficiais, siga as instruções de instalação fornecidas pela loja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a category is showing the list of objects in it, double-click on an object to jump directly to that object’s location in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T181827Z" creationid="timot" creationdate="20250122T181827Z">
+        <seg>Quando uma categoria mostrar a lista de objetos nela, clique duas vezes em um objeto para pular diretamente ao local desse objeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9878,6 +10110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Working with text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183825Z" creationid="timot" creationdate="20250122T183825Z">
+        <seg>Trabalhar com texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer (word processing)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114357Z" creationid="olivier-tdf" creationdate="20250109T114357Z">
@@ -10210,6 +10450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135355Z" creationid="olivier-tdf" creationdate="20250120T135355Z">
         <seg>Você pode navegar em uma planilha usando o teclado, pressionando uma tecla ou uma combinação de teclas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can pick a type of object (such as a bookmark, table, or index entry) and then use the &lt;f1&gt;Previous&lt;/f1&gt; (^) and &lt;f2&gt;Next&lt;/f2&gt; (v) buttons to jump from one to the next (Figure &lt;t3&gt;5&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250122T182552Z" creationid="timot" creationdate="20250122T182003Z">
+        <seg>É possível escolher um tipo de objeto (como um marcador, tabela ou entrada de índice) e, em seguida, usar os botões &lt;f1&gt;Título anterior&lt;/f1&gt; (^) e &lt;f2&gt;Próximo título&lt;/f2&gt; (v) para pular de um para o outro (Figura &lt;t3&gt;5&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
