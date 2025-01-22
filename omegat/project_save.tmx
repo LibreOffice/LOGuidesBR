@@ -1958,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, Calc right-aligns the numbers in a cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225823Z" creationid="olivier-tdf" creationdate="20250122T225823Z">
+        <seg>Normalmente o Calc alinha à direita os números em uma célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, Calc uses its own formula syntax, referred to as Calc A1, rather than the default Excel A1 syntax used by Microsoft Excel.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124714Z" creationid="olivier-tdf" creationdate="20250114T124714Z">
@@ -2482,6 +2490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T115852Z" creationid="olivier" creationdate="20250121T115852Z">
         <seg>Clique na &lt;f1&gt;Caixa de nome&lt;/f1&gt; na barra de fórmulas (Figura &lt;t2&gt;2&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click in the cell and type the number using the number keys on either the main keyboard or the numeric keypad.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225757Z" creationid="olivier-tdf" creationdate="20250122T225757Z">
+        <seg>Clique na célula e digite o número usando as teclas numéricas no teclado principal ou no teclado numérico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4822,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a number is entered with leading zeroes (for example, 01481), Calc will drop the leading zeroes by default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225953Z" creationid="olivier-tdf" creationdate="20250122T225953Z">
+        <seg>Ao inserir um número com zeros à esquerda (por exemplo, 01481), o Calc descartará os zeros à esquerda por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a toolbar item has submenus, there will be a small triangle ▼ to the right of the tool’s icon.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173539Z" creationid="tulio" creationdate="20250119T173539Z">
@@ -5774,6 +5798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Leading zeroes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225859Z" creationid="olivier-tdf" creationdate="20250122T225859Z">
+        <seg>Zeros à esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice - Getting Started Guide 24.8</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T220340Z" creationid="olivier-tdf" creationdate="20250109T220340Z">
@@ -6402,6 +6434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T002843Z" creationid="olivier" creationdate="20250120T002843Z">
         <seg>Navegar em documento de planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Negative numbers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225831Z" creationid="olivier-tdf" creationdate="20250122T225831Z">
+        <seg>Números negativos</seg>
       </tuv>
     </tu>
     <tu>
@@ -8798,6 +8838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The negative number will be displayed as follows: –1234.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225854Z" creationid="olivier-tdf" creationdate="20250122T225854Z">
+        <seg>O número negativo será exibido da seguinte forma: –1234.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The options marked by a ‡ sign in the list below are only accessible if the computer is connected to the Internet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194937Z" creationid="olivier-tdf" creationdate="20250109T194937Z">
@@ -9510,6 +9558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To enter a negative number, either type a minus (–) sign in front of the number or enclose the number in parentheses&lt;f0&gt;(1234)&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225847Z" creationid="olivier-tdf" creationdate="20250122T225847Z">
+        <seg>Para inserir um número negativo, digite um sinal de menos (–) na frente do número ou coloque o número entre parênteses&lt;f0&gt;(1234)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To exit Full Screen view and return to the previous view, press the &lt;f0&gt;Esc&lt;/f0&gt; key or click the &lt;f1&gt;Full Screen&lt;/f1&gt; button on the floating toolbar in the top left-hand corner.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T115727Z" creationid="timot" creationdate="20250114T115727Z">
@@ -9682,6 +9738,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225252Z" creationid="olivier-tdf" creationdate="20250122T225252Z">
         <seg>Para remover uma visualização dividida, siga um destes procedimentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To retain a minimum number of characters in a cell when entering numbers and retain the number format, for example 1234 and 0012, use one of two methods to add leading zeroes:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230244Z" creationid="olivier-tdf" creationdate="20250122T230244Z">
+        <seg>Para reter um número mínimo de caracteres em uma célula ao inserir números e manter o formato de número, por exemplo, 1234 e 0012, use um dos dois métodos para adicionar zeros à esquerda:</seg>
       </tuv>
     </tu>
     <tu>
