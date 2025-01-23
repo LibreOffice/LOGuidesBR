@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Ctrl+D&lt;/f0&gt; is an alternative to selecting &lt;f1&gt;Sheet &gt; Fill Cells &gt; Fill Down&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T214921Z" creationid="olivier" creationdate="20250123T214921Z">
+        <seg>&lt;f0&gt;Ctrl+D&lt;/f0&gt; é uma alternativa para selecionar &lt;f1&gt;Planilha &gt; Preencher células &gt; Preencher para baixo&lt;/f1&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (Control)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195154Z" creationid="timot" creationdate="20250111T195154Z">
@@ -942,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Fill Series dialog&lt;/s0&gt;&lt;s1&gt;Fill Series dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215627Z" creationid="olivier" creationdate="20250123T215627Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Preencher série&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Preencher série&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Format Cells dialog – Numbers tab&lt;/s0&gt;&lt;s1&gt;Format Cells dialog – Numbers tab&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230739Z" creationid="olivier-tdf" creationdate="20250122T230739Z">
@@ -1122,6 +1138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195958Z" creationid="timot" creationdate="20250111T195958Z">
         <seg>&lt;s0&gt;O espaço de trabalho principal do Writer&lt;/s0&gt;&lt;s1&gt;O espaço de trabalho principal do Writer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Using the Fill tool&lt;/s0&gt;&lt;s1&gt;Using the Fill tool&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215310Z" creationid="olivier" creationdate="20250123T215310Z">
+        <seg>&lt;s0&gt;Utilizar a ferramenta Preenchimento&lt;/s0&gt;&lt;s1&gt;Utilizar a ferramenta Preenchimento&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2534,10 +2558,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Add&lt;/f0&gt; and the new list will appear in the &lt;f1&gt;Lists&lt;/f1&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220314Z" creationid="olivier" creationdate="20250123T220314Z">
+        <seg>Clique em &lt;f0&gt;Adicionar&lt;/f0&gt; e a nova lista aparecerá na caixa &lt;f1&gt;Listas&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;Move &lt;/f0&gt;or &lt;f1&gt;Copy&lt;/f1&gt; to confirm the move or copy and close the dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155455Z" creationid="olivier" creationdate="20250121T155455Z">
         <seg>Clique em &lt;f0&gt;Mover &lt;/f0&gt;ou &lt;f1&gt;Copiar&lt;/f1&gt; para confirmar a movimentação ou copiar e fechar a caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;New&lt;/f0&gt; and the &lt;f1&gt;Entries&lt;/f1&gt; box is cleared.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220238Z" creationid="olivier" creationdate="20250123T220238Z">
+        <seg>Clique em &lt;f0&gt;Nova&lt;/f0&gt; e a caixa &lt;f1&gt;Entradas&lt;/f1&gt; será desmarcada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,6 +2642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105607Z" creationid="timot" creationdate="20250113T105607Z">
         <seg>Clique em um ícone para alternar entre visualizações de página única, páginas múltiplas e leiaute de livro (Figura&lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click and drag in the direction you want the cells to be filled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215033Z" creationid="olivier" creationdate="20250123T215033Z">
+        <seg>Clique e arraste na direção em que deseja que as células sejam preenchidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,6 +3178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T211917Z" creationid="olivier" creationdate="20250123T211917Z">
         <seg>Desativar alterações automáticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defining a fill series</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215647Z" creationid="olivier" creationdate="20250123T215647Z">
+        <seg>Definir uma série de preenchimentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3966,6 +4022,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Using the Fill tool</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215322Z" creationid="olivier" creationdate="20250123T215322Z">
+        <seg>Figura &lt;seq0&gt;27&lt;/seq0&gt;: Utilizar a ferramenta Preenchimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Fill Series dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215633Z" creationid="olivier" creationdate="20250123T215633Z">
+        <seg>Figura &lt;seq0&gt;28&lt;/seq0&gt;: Caixa de diálogo Preencher série</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Example of creating floating sub-toolbar from a tool palette</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173755Z" creationid="tulio" creationdate="20250119T173755Z">
@@ -4122,6 +4194,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192812Z" creationid="olivier-tdf" creationdate="20250109T192812Z">
         <seg>Compatibilidade de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fill Series dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215638Z" creationid="olivier" creationdate="20250123T215638Z">
+        <seg>Caixa de diálogo Preencher série</seg>
       </tuv>
     </tu>
     <tu>
@@ -4330,6 +4410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T164341Z" creationid="olivier" creationdate="20250121T164341Z">
         <seg>Para saber mais sobre o zoom, consulte o Capítulo 1, Noções básicas do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more detail about this dialog, see Chapter 2, Entering and Editing Data in the &lt;f2&gt;Calc Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215617Z" creationid="olivier" creationdate="20250123T215617Z">
+        <seg>Para obter mais detalhes sobre essa caixa de diálogo, consulte o Capítulo 2 – "Inserir e editar dados" no &lt;f2&gt;Guia do Calc&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4790,6 +4878,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f0&gt; to open the Sort Lists dialog (Figure &lt;t1&gt;29&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220056Z" creationid="olivier" creationdate="20250123T220056Z">
+        <seg>Vá para &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Listas de ordenação&lt;/f0&gt; para abrir a caixa de diálogo Listas de ordenação (Figura &lt;t1&gt;29&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f0&gt; to view your currently defined sort lists.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220008Z" creationid="olivier" creationdate="20250123T220008Z">
+        <seg>Acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Listas de ordenação&lt;/f0&gt; para visualizar suas listas de ordenação definidas no momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;View &gt; Formula&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T215513Z" creationid="olivier-tdf" creationdate="20250117T215513Z">
@@ -4898,6 +5002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194759Z" creationid="olivier-tdf" creationdate="20250109T194759Z">
         <seg>Sistema de ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here you can select the type of series you want.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215553Z" creationid="olivier" creationdate="20250123T215553Z">
+        <seg>Aqui você pode selecionar o tipo de série que deseja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5086,6 +5198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, if the &lt;f0&gt;Ctrl&lt;/f0&gt; button is pressed while dragging, then the original data is copied instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215057Z" creationid="olivier" creationdate="20250123T215057Z">
+        <seg>No entanto, se o botão &lt;f0&gt;Ctrl&lt;/f0&gt; for pressionado ao arrastar, os dados originais serão copiados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, if you are familiar with Excel you may wish to change the default syntax by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Formula &lt;/f0&gt;and choosing &lt;f1&gt;Excel A1&lt;/f1&gt; or &lt;f2&gt;Excel R1C1&lt;/f2&gt; in the &lt;f3&gt;Formula syntax&lt;/f3&gt; drop-down menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124758Z" creationid="olivier-tdf" creationdate="20250114T124758Z">
@@ -5262,10 +5382,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the original cell contained a number or text from a defined sort list, then a series will be created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215045Z" creationid="olivier" creationdate="20250123T215045Z">
+        <seg>Se a célula original contiver um número ou texto de uma lista de classificação definida, uma série será criada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the original cell contained any other text, then that text will automatically be copied.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215105Z" creationid="olivier" creationdate="20250123T215105Z">
+        <seg>Se a célula original contiver qualquer outro texto, esse texto será copiado automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the toolbar handle is not visible, the tool palette, or toolbar, is locked into its docked position and has to be unlocked.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173927Z" creationid="tulio" creationdate="20250119T173927Z">
         <seg>Se a alça da barra de ferramentas não estiver visível, a paleta de ferramentas, ou barra de ferramentas, é bloqueada em sua posição encaixada e deve ser desbloqueada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If there is a sort list containing the text, Calc uses the entries in that sort list to fill cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215931Z" creationid="olivier" creationdate="20250123T215901Z">
+        <seg>Se houver uma lista de classificação contendo o texto, o Calc usará as entradas nessa lista de ordenação para preencher as células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6730,6 +6874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120116Z" creationid="olivier" creationdate="20250121T120116Z">
         <seg>Mova o cursor para o início do próximo intervalo ou célula única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move the mouse pointer over the small square in the bottom right corner of the selected cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T214938Z" creationid="olivier" creationdate="20250123T214938Z">
+        <seg>Mova o ponteiro do mouse sobre o pequeno quadrado no canto inferior direito das células selecionadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9526,6 +9678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The mouse pointer will change shape.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T214943Z" creationid="olivier" creationdate="20250123T214943Z">
+        <seg>O ponteiro do mouse mudará de forma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The native file format used is Open Document Format (ODF).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123829Z" creationid="olivier-tdf" creationdate="20250109T123829Z">
@@ -9990,6 +10150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This dialog shows any previously-defined series in the &lt;f2&gt;Lists&lt;/f2&gt; box and the contents of the highlighted list in the &lt;f3&gt;Entries&lt;/f3&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220128Z" creationid="olivier" creationdate="20250123T220128Z">
+        <seg>Esta caixa de diálogo mostra todas as séries definidas anteriormente na caixa &lt;f2&gt;Listas&lt;/f2&gt; e o conteúdo da lista realçada na caixa &lt;f3&gt;Entradas&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This document is Copyright © &lt;ud0&gt;2024&lt;/ud0&gt;&lt;s1/&gt;by the LibreOffice Documentation Team.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250110T133948Z" creationid="tdf" creationdate="20241226T214144Z">
@@ -10250,6 +10418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173358Z" creationid="tulio" creationdate="20250119T173358Z">
         <seg>Para fechar uma barra de ferramentas, as opções são:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To define your own sort list, which can later be used as a fill series:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220102Z" creationid="olivier" creationdate="20250123T220020Z">
+        <seg>Para definir sua própria lista de ordenação, que pode ser usada posteriormente como uma série de preenchimento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10814,6 +10990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type the series for the new list in the &lt;f0&gt;Entries&lt;/f0&gt; box (one entry per line).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220306Z" creationid="olivier" creationdate="20250123T220306Z">
+        <seg>Digite a série da nova lista na caixa &lt;f0&gt;Entradas&lt;/f0&gt; (uma entrada por linha).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Uncheck to make the &lt;f2&gt;Enter&lt;/f2&gt; key select the adjacent cell in the direction of movement defined by the &lt;f3&gt;Press Enter to move selection&lt;/f3&gt; option.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T142752Z" creationid="olivier-tdf" creationdate="20250120T142752Z">
@@ -10910,6 +11094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using a fill series</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215408Z" creationid="olivier" creationdate="20250123T215408Z">
+        <seg>Utilizar preenchimento de séries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using row and column headers:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122139Z" creationid="olivier" creationdate="20250121T122139Z">
@@ -10922,6 +11114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123825Z" creationid="olivier-tdf" creationdate="20250114T123825Z">
         <seg>Documento de planilhas no LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Fill tool</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215325Z" creationid="olivier" creationdate="20250123T215325Z">
+        <seg>Utilizar a ferramenta Preenchimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -11174,6 +11374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a fill is initiated and the selected cell contains text, Calc will check if one of your predefined sort lists contains that text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215923Z" creationid="olivier" creationdate="20250123T215708Z">
+        <seg>Quando um preenchimento é iniciado e a célula selecionada contém texto, o Calc verifica se uma de suas listas de ordenação predefinidas contém esse texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a frame is selected, then the &lt;f0&gt;Area&lt;/f0&gt; and &lt;f1&gt;Wrap&lt;/f1&gt; panels appear.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T111547Z" creationid="timot" creationdate="20250114T111547Z">
@@ -11394,6 +11602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T130020Z" creationid="olivier-tdf" creationdate="20250114T130020Z">
         <seg>Quando salvar um documento de planilha pela primeira vez, insira um nome de sua escolha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you select a series fill from &lt;f0&gt;Sheet &gt; Fill Cells &gt; Fill Series&lt;/f0&gt; on the Menu bar, the Fill Series dialog (Figure &lt;t1&gt;28&lt;/t1&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215525Z" creationid="olivier" creationdate="20250123T215525Z">
+        <seg>Quando selecionar um preenchimento de série em &lt;f0&gt;Planilha &gt; Preencher células &gt; Preencher séries&lt;/f0&gt; na barra de menus, a caixa de diálogo Preencher series (Figura &lt;t1&gt;28&lt;/t1&gt;) abre.</seg>
       </tuv>
     </tu>
     <tu>
