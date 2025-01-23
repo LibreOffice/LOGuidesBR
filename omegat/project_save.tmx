@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -714,6 +714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250109T002600Z" creationid="olivier" creationdate="20250109T002600Z">
         <seg>&lt;f0&gt;Para esta edição&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Tools &gt; Options &gt; Languages and Locales &gt; General &gt; Formats &gt; Date acceptance patterns&lt;/f0&gt; defines the date patterns that will be recognized by Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204322Z" creationid="olivier" creationdate="20250123T204322Z">
+        <seg>Em &lt;f0&gt;Ferramentas &gt; Opções &gt; Idiomas e Localidades &gt; Geral &gt; Formatos &gt; Formatos de aceitação de data&lt;/f0&gt; define os formatos de data que serão reconhecidos pelo Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2030,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, text is left-aligned in a cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204006Z" creationid="olivier" creationdate="20250123T204006Z">
+        <seg>Normalmente o texto é alinhado à esquerda em uma célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CSV file containing raw and calculated values</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T220400Z" creationid="olivier-tdf" creationdate="20250117T220400Z">
@@ -2266,6 +2282,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213016Z" creationid="olivier-tdf" creationdate="20250116T213016Z">
         <seg>Informações de célula ou objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cells can contain several lines of text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204015Z" creationid="olivier" creationdate="20250123T204015Z">
+        <seg>As células podem conter várias linhas de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,6 +2710,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the &lt;f5&gt;Details&lt;/f5&gt; button, and then select the proper treatment in the Detailed Calculation Settings dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203926Z" creationid="olivier" creationdate="20250123T203926Z">
+        <seg>Clique no botão &lt;f5&gt;Detalhes&lt;/f5&gt; e selecione o tratamento adequado na caixa de diálogo Configurações detalhadas para cálculos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the icon again to return the &lt;f3&gt;Input line&lt;/f3&gt; to its single line height.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204133Z" creationid="olivier" creationdate="20250123T204133Z">
+        <seg>Clique no ícone novamente para retornar a &lt;f3&gt;linha de entrada&lt;/f3&gt; à sua altura de linha única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to change to Overwrite mode; click again to return to Insert mode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T103458Z" creationid="timot" creationdate="20250113T103458Z">
@@ -2978,6 +3018,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195625Z" creationid="timot" creationdate="20250111T195625Z">
         <seg>Integração de banco de dados, inclusive banco de dados bibliográfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Date and time</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204140Z" creationid="olivier" creationdate="20250123T204140Z">
+        <seg>Data e hora</seg>
       </tuv>
     </tu>
     <tu>
@@ -4286,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formatting is applied to the cell immediately.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203323Z" creationid="olivier" creationdate="20250123T203323Z">
+        <seg>A formatação é aplicada imediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formula</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212231Z" creationid="olivier-tdf" creationdate="20250116T212231Z">
@@ -5054,6 +5110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are entering several lines of text, extend the &lt;f0&gt;Input line&lt;/f0&gt; by clicking on the &lt;f1&gt;Expand Formula Bar&lt;/f1&gt; icon, which is located on the right-hand end of the Formula bar, and then the &lt;f2&gt;Input line&lt;/f2&gt; becomes multi-line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204117Z" creationid="olivier" creationdate="20250123T204117Z">
+        <seg>Se estiver inserindo várias linhas de texto, estenda a &lt;f0&gt;linha de entrada&lt;/f0&gt; clicando no ícone &lt;f1&gt;Expandir barra de fórmulas&lt;/f1&gt; , localizado na extremidade direita da barra de fórmulas e, em seguida, a &lt;f2&gt;linha de entrada&lt;/f2&gt; se tornará várias linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you attempt to save an edited &lt;f4&gt;.pages&lt;/f4&gt; file, the Save As dialog opens.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T180913Z" creationid="timot" creationdate="20250122T180913Z">
@@ -5194,6 +5258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124852Z" creationid="olivier-tdf" creationdate="20250114T124852Z">
         <seg>Se quiser usar macros escritas no Microsoft Excel usando o código de macro VBA no LibreOffice, deve-se primeiro editar o código no editor IDE do LibreOffice Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to use paragraphs, press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; to create another paragraph.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204035Z" creationid="olivier" creationdate="20250123T204035Z">
+        <seg>Se quiser usar parágrafos, pressione &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; para criar outro parágrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5358,6 +5430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, every locale accepts input in an ISO 8601 YYYY-MM-DD pattern (for example, 2020-07-26).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204340Z" creationid="olivier" creationdate="20250123T204340Z">
+        <seg>Além disso, cada localidade aceita entrada em um padrão ISO 8601 AAAA-MM-DD (por exemplo, 2020-07-26).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, over 70 spelling, hyphenation, and thesaurus dictionaries are available for languages and dialects that do not have a localized program interface.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215109Z" creationid="olivier-tdf" creationdate="20250109T215109Z">
@@ -5458,6 +5538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125533Z" creationid="olivier-tdf" creationdate="20250117T125454Z">
         <seg>Na área &lt;f1&gt;Formato de arquivo padrão e configurações ODF&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, selecione &lt;f3&gt;Planilhas (Calc)&lt;/f3&gt; em &lt;f4&gt;Tipo de documento&lt;/f4&gt; e, em &lt;f5&gt;Sempre salvar como&lt;/f5&gt;, selecione seu formato de arquivo preferido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f1&gt;Detailed Calculation Settings&lt;/f1&gt; area, select &lt;f2&gt;Custom (conversion of text to numbers &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;and more)&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203728Z" creationid="olivier" creationdate="20250123T203728Z">
+        <seg>Na área &lt;f1&gt;Configurações detalhadas para cálculos&lt;/f1&gt;, selecione &lt;f2&gt;Personalizado (conversão de texto em números &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;e muito mais).&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6254,6 +6342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; tab is selected, then select &lt;f1&gt;Text&lt;/f1&gt; in the Category list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203236Z" creationid="olivier" creationdate="20250123T203236Z">
+        <seg>Certifique-se de que a aba &lt;f0&gt;Números&lt;/f0&gt; esteja selecionada e selecione &lt;f1&gt;Texto&lt;/f1&gt; na lista Categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Many features that are available as extra cost add-ins in other office suites (like PDF export) are free with LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192249Z" creationid="olivier-tdf" creationdate="20250109T192249Z">
@@ -6718,6 +6814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Numbers can also be entered as text using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203203Z" creationid="olivier" creationdate="20250123T203203Z">
+        <seg>Os números também podem ser inseridos como texto usando um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Offline Help is installed with the MacOS version of LibreOffice &lt;f0&gt;by default&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194827Z" creationid="olivier-tdf" creationdate="20250109T194827Z">
@@ -6802,6 +6906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231222Z" creationid="olivier-tdf" creationdate="20250122T231222Z">
         <seg>No painel Formato numérico (Figura &lt;t0&gt;25&lt;/t0&gt;), selecione &lt;f1&gt;Número&lt;/f1&gt; na lista suspensa e insira o número máximo de zeros a exibir na frente da parte inteira de um número na caixa &lt;f2&gt;Zeros à esquerda&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the Number Format panel (Figure &lt;t0&gt;25&lt;/t0&gt;), select &lt;f1&gt;Text&lt;/f1&gt; in the drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203311Z" creationid="olivier" creationdate="20250123T203311Z">
+        <seg>No painel Formato numérico (Figura &lt;t0&gt;25&lt;/t0&gt;), selecione &lt;f1&gt;Texto&lt;/f1&gt; na lista suspensa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7710,6 +7822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the system help for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203935Z" creationid="olivier" creationdate="20250123T203935Z">
+        <seg>Consulte a ajuda do sistema para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See “&lt;bf1&gt;Using the Navigator&lt;/bf1&gt;” on page &lt;bf2&gt;9&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T113458Z" creationid="timot" creationdate="20250114T113458Z">
@@ -7838,6 +7958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the cell and type the date or time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204147Z" creationid="olivier" creationdate="20250123T204147Z">
+        <seg>Selecione a célula e digite a data ou hora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the cell location where you want the new column or row inserted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122028Z" creationid="olivier" creationdate="20250121T122028Z">
@@ -7858,6 +7986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230326Z" creationid="olivier-tdf" creationdate="20250122T230326Z">
         <seg>Selecione a célula que manterá os zeros à esquerda e acesse a caixa de diálogo Formatar células (Figura &lt;t0&gt;24&lt;/t0&gt;) seguindo um destes procedimentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the cell which contains the number, then access the Format Cells dialog (Figure &lt;t0&gt;24&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203219Z" creationid="olivier" creationdate="20250123T203219Z">
+        <seg>Selecione a célula que contém o número e acesse a caixa de diálogo Formatar células (Figura &lt;t0&gt;24&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8558,6 +8694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203941Z" creationid="olivier" creationdate="20250123T203941Z">
+        <seg>Texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Import dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122656Z" creationid="olivier-tdf" creationdate="20250117T122656Z">
@@ -8830,6 +8974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The date format automatically changes to the selected format used by Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204215Z" creationid="olivier" creationdate="20250123T204215Z">
+        <seg>O formato de data muda automaticamente para o formato selecionado usado pelo Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The decks are described below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T110737Z" creationid="timot" creationdate="20250113T110737Z">
@@ -9034,6 +9186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230825Z" creationid="olivier-tdf" creationdate="20250122T230825Z">
         <seg>O número na célula selecionada mantém seu formato de número e qualquer fórmula usada na planilha tratará a entrada como um número nas funções de fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number is converted to text and, by default, left-aligned.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203250Z" creationid="olivier" creationdate="20250123T203250Z">
+        <seg>O número é convertido em texto e, por padrão, alinhado à esquerda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9654,6 +9814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change the date or time format used by Calc:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204413Z" creationid="olivier" creationdate="20250123T204413Z">
+        <seg>Para alterar o formato de data ou hora usado pelo Calc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change the default name for a sheet (Sheet1, Sheet2, and so on), right-click on a sheet tab and select &lt;f0&gt;Rename Sheet&lt;/f0&gt; in the context menu, to open the Rename Sheet dialog where you can type a new name for the sheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121541Z" creationid="olivier-tdf" creationdate="20250117T121541Z">
@@ -9762,6 +9930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225847Z" creationid="olivier-tdf" creationdate="20250122T225847Z">
         <seg>Para inserir um número negativo, digite um sinal de menos (–) na frente do número ou coloque o número entre parênteses&lt;f0&gt;(1234)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To enter text in a cell, click in the cell and type.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203949Z" creationid="olivier" creationdate="20250123T203949Z">
+        <seg>Para inserir texto em uma célula, clique na célula e digite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10622,6 +10798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When entering a time, separate time elements with colons (for example, 10:43:45) and the time format automatically changes to the selected format used by Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204406Z" creationid="olivier" creationdate="20250123T204406Z">
+        <seg>Ao inserir uma hora, separe os elementos de hora com dois pontos (por exemplo, 10:43:45) e o formato da hora muda automaticamente para o formato selecionado usado pelo Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When it is necessary to reduce the number of toolbars displayed and provide more space for a document, the user interface can be changed to a single-toolbar as an alternative to the default double-toolbar user interface.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172659Z" creationid="tulio" creationdate="20250119T172659Z">
@@ -10874,6 +11058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213604Z" creationid="olivier-tdf" creationdate="20250116T213604Z">
         <seg>Com uma célula selecionada, este deque inclui cinco painéis de conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the cell selected, open the Format Cells dialog (Figure &lt;t0&gt;24&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204426Z" creationid="olivier" creationdate="20250123T204426Z">
+        <seg>Com a célula selecionada, abra a caixa de diálogo Formatar células (Figura &lt;t0&gt;24&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11174,6 +11366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can change how Calc converts strings to numeric values, cell references, dates, and times by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Formula&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203407Z" creationid="olivier" creationdate="20250123T203407Z">
+        <seg>Você pode alterar a forma como o Calc converte textos em valores numéricos, referências de células, datas e horas acessando &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Fórmula&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can change the action of the &lt;f2&gt;Enter&lt;/f2&gt; key; see “&lt;bf3&gt;Customizing the Enter key&lt;/bf3&gt;” &lt;bf4&gt;below&lt;/bf4&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003700Z" creationid="olivier" creationdate="20250120T003700Z">
@@ -11274,6 +11474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123549Z" creationid="olivier-tdf" creationdate="20250117T123549Z">
         <seg>Você pode salvar um documento de planilha em outro formato:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can separate the date elements with a slash (/) or a hyphen (–), or use text, for example 10 Oct 2020.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204208Z" creationid="olivier" creationdate="20250123T204208Z">
+        <seg>Você pode separar os elementos de data com uma barra (/) ou um hífen (–) ou usar texto, por exemplo, 10 de outubro de 2020.</seg>
       </tuv>
     </tu>
     <tu>
