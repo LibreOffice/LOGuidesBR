@@ -1878,6 +1878,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AutoInput ignores the case sensitivity of any data you enter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213711Z" creationid="olivier" creationdate="20250123T213711Z">
+        <seg>A Autoentrada ignora a diferenciação de maiúsculas e minúsculas de todos os dados inseridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AutoInput tool</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212316Z" creationid="olivier" creationdate="20250123T212316Z">
+        <seg>Ferramenta Autoentrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automated tables of contents and indexes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195505Z" creationid="timot" creationdate="20250111T195505Z">
@@ -2018,6 +2034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195521Z" creationid="timot" creationdate="20250111T195521Z">
         <seg>Ferramentas de desenho integradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, AutoInput is activated in Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212442Z" creationid="olivier" creationdate="20250123T212442Z">
+        <seg>Normalmente, a Autoentrada é ativada no Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2850,6 +2874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173600Z" creationid="tulio" creationdate="20250119T173600Z">
         <seg>Clicar no triângulo exibirá submenus contendo outros comandos, paletas de ferramentas ou métodos alternativos de seleção de itens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking outside the cell will accept the completion and select the clicked cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213301Z" creationid="olivier" creationdate="20250123T213301Z">
+        <seg>Clicar fora da célula aceitará a conclusão e selecionará a célula clicada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4082,6 +4114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192812Z" creationid="olivier-tdf" creationdate="20250109T192812Z">
         <seg>Compatibilidade de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filling cells</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213728Z" creationid="olivier" creationdate="20250123T213728Z">
+        <seg>Preencher células</seg>
       </tuv>
     </tu>
     <tu>
@@ -7478,10 +7518,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press &lt;f0&gt;Enter&lt;/f0&gt; to accept the completion and move to the next cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213205Z" creationid="olivier" creationdate="20250123T213205Z">
+        <seg>Tecle &lt;f0&gt;Enter&lt;/f0&gt; para aceitar a conclusão e passar para a próxima célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press &lt;f0&gt;Right Arrow&lt;/f0&gt; to accept the partial completion and move the cursor to the end of the text inside the cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213433Z" creationid="olivier" creationdate="20250123T213433Z">
+        <seg>Pressione a &lt;f0&gt;seta para a direita&lt;/f0&gt; para aceitar a conclusão parcial e mover o cursor para o final do texto dentro da célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press &lt;f0&gt;Shift+F8&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T185119Z" creationid="timot" creationdate="20250122T185119Z">
         <seg>Tecle &lt;f0&gt;Shift+F8&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press &lt;f1&gt;F2&lt;/f1&gt; to accept the completion and move the cursor to the end of the text inside the cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213251Z" creationid="olivier" creationdate="20250123T213251Z">
+        <seg>Tecle &lt;f1&gt;F2&lt;/f1&gt; para aceitar a conclusão e mover o cursor para o final do texto dentro da célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8974,6 +9038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The AutoInput tool in Calc automatically completes entries, based on other entries in the same column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212333Z" creationid="olivier" creationdate="20250123T212333Z">
+        <seg>A ferramenta Autoentrada no Calc completa automaticamente as entradas, com base em outras entradas na mesma coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Formula bar (Figure &lt;t0&gt;2&lt;/t0&gt;) is located at the top of the cell grid in the Calc workspace.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211601Z" creationid="olivier-tdf" creationdate="20250116T211601Z">
@@ -9998,6 +10070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This tool allows you to duplicate existing content or create a series across a range of cells (see examples in Figure &lt;t0&gt;27&lt;/t0&gt;) using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213743Z" creationid="olivier" creationdate="20250123T213743Z">
+        <seg>Essa ferramenta permite duplicar o conteúdo existente ou criar uma série em um intervalo de células (veja exemplos na Figura &lt;t0&gt;27&lt;/t0&gt;) usando um dos métodos a seguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This user guide introduces the main modules of LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123709Z" creationid="olivier-tdf" creationdate="20250109T123709Z">
@@ -10414,6 +10494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To see a list of all available AutoInput text items for the current column, use the keyboard combination &lt;f0&gt;Alt+Down Arrow&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213635Z" creationid="olivier" creationdate="20250123T213635Z">
+        <seg>Para ver uma lista de todos os itens de texto de Autoentrada disponíveis para a coluna atual, use a combinação de teclado &lt;f0&gt;Alt+Seta para baixo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To see an indicator for hidden columns and rows, enable the &lt;f0&gt;View &gt; Hidden Row/Column Indicator&lt;/f0&gt; option on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153100Z" creationid="olivier" creationdate="20250121T153100Z">
@@ -10606,6 +10694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To turn it off, go to &lt;f0&gt;Tools&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;AutoInput&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212554Z" creationid="olivier" creationdate="20250123T212554Z">
+        <seg>Para desativá-la, acesse &lt;f0&gt;Ferramentas&lt;/f0&gt; na barra de menus e desmarque &lt;f1&gt; Autoentrada&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To turn off some or all AutoCorrect features, go to &lt;f0&gt;Tools &gt; AutoCorrect Options&lt;/f0&gt; on the Menu bar and uncheck unwanted features on the &lt;f1&gt;Options&lt;/f1&gt; and &lt;f2&gt;Localized Options&lt;/f2&gt; tabs on the AutoCorrect dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212013Z" creationid="olivier" creationdate="20250123T212013Z">
@@ -10618,6 +10714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T222942Z" creationid="olivier-tdf" creationdate="20250122T222942Z">
         <seg>Para soltar todas as linhas e colunas que estão fixas no momento, siga um destes procedimentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To view more completions that start with the same letters, use the key combinations &lt;f0&gt;Ctrl+Tab&lt;/f0&gt; to scroll forward, or &lt;f1&gt;Ctrl+Shift+Tab&lt;/f1&gt; to scroll backward.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213553Z" creationid="olivier" creationdate="20250123T213553Z">
+        <seg>Para exibir mais conclusões que começam com as mesmas letras, use as combinações de teclas &lt;f0&gt;Ctrl+Tab&lt;/f0&gt; para rolar para frente ou &lt;f1&gt;Ctrl+Shift+Tab&lt;/f1&gt; para rolar para trás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11102,10 +11206,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When multiple matches continue with the same letters they will appear in the cell after what has already been typed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213345Z" creationid="olivier" creationdate="20250123T213345Z">
+        <seg>Quando várias correspondências continuarem com as mesmas letras, elas aparecerão na célula após o que já foi digitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When selecting one of the menus in the Menu bar, a specific submenu will appear.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T143214Z" creationid="tulio" creationdate="20250119T143214Z">
         <seg>Ao selecionar um dos menus na barra de menus, um submenu específico será exibido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When text is highlighted in a cell, AutoInput can be used as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212815Z" creationid="olivier" creationdate="20250123T212815Z">
+        <seg>Quando o texto é destacado numa célula, a Autoentrada pode ser usada da seguinte maneira:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11170,6 +11290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200411Z" creationid="timot" creationdate="20250111T200355Z">
         <seg>Quando houver alterações não salvas, é possível clicar neste ícone para salvar o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When typing formulas using characters that match function names, a help tip will appear listing the available functions that start with matching characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213651Z" creationid="olivier" creationdate="20250123T213651Z">
+        <seg>Ao digitar fórmulas usando caracteres que correspondem a nomes de funções, uma dica de ajuda será exibida listando as funções disponíveis que começam com caracteres correspondentes.</seg>
       </tuv>
     </tu>
     <tu>
