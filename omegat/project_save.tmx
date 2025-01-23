@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively you can go to &lt;f6&gt;Insert &gt; Field &gt; Date&lt;/f6&gt;, &lt;f7&gt;Sheet Name&lt;/f7&gt;, or &lt;f8&gt;Document Title&lt;/f8&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205810Z" creationid="olivier" creationdate="20250123T205810Z">
+        <seg>Como alternativa, acesse &lt;f6&gt;Inserir &gt; Campo &gt; Data&lt;/f6&gt;, &lt;f7&gt;Nome da planilha&lt;/f7&gt; ou &lt;f8&gt;Título do documento&lt;/f8&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively you can left-click on the column header to the &lt;f2&gt;right&lt;/f2&gt; of the column where you want to split and then go to &lt;f3&gt;View &gt; Split Window&lt;/f3&gt; on the Menu bar or click the &lt;f4&gt;Split Window&lt;/f4&gt; icon on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T224556Z" creationid="olivier-tdf" creationdate="20250122T224556Z">
@@ -1846,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AutoCorrect Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210652Z" creationid="olivier" creationdate="20250123T210652Z">
+        <seg>Opções de Autocorreção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automated tables of contents and indexes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195505Z" creationid="timot" creationdate="20250111T195505Z">
@@ -2094,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc automatically applies many changes during data input using AutoCorrect, unless you have deactivated any AutoCorrect changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210729Z" creationid="olivier" creationdate="20250123T210729Z">
+        <seg>O Calc aplica automaticamente várias alterações durante a entrada de dados usando a Autocorreção, a menos que tenha desativado as alterações da Autocorreção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc can also export spreadsheets in several formats, including, for example, Comma Separated Value (CSV), Adobe PDF and HTML formats.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191511Z" creationid="olivier-tdf" creationdate="20250109T191511Z">
@@ -2250,6 +2274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T201100Z" creationid="timot" creationdate="20250111T201100Z">
         <seg>Cuidado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cell fields</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205451Z" creationid="olivier" creationdate="20250123T205451Z">
+        <seg>Campos de célula</seg>
       </tuv>
     </tu>
     <tu>
@@ -4942,6 +4974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, unlike the commands described above, these values are not inserted as fields and will not be updated or &lt;t2/&gt;recalculated later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210104Z" creationid="olivier" creationdate="20250123T210104Z">
+        <seg>No entanto, ao contrário dos comandos descritos acima, esses valores não são inseridos como campos e não serão atualizados ou &lt;t2/&gt;recalculados posteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Icons</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212619Z" creationid="olivier-tdf" creationdate="20250109T212619Z">
@@ -5266,6 +5306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204035Z" creationid="olivier" creationdate="20250123T204035Z">
         <seg>Se quiser usar parágrafos, pressione &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; para criar outro parágrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you wish to insert a date, the sheet name, or the document name in a cell as a field, do the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205538Z" creationid="olivier" creationdate="20250123T205538Z">
+        <seg>Se desejar inserir uma data, o nome da planilha ou o nome do documento em uma célula como um campo, faça o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6338,6 +6386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011516Z" creationid="tulio" creationdate="20250116T011516Z">
         <seg>Janela principal do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; tab is selected, then select &lt;f1&gt;Date&lt;/f1&gt; or &lt;f2&gt;Time&lt;/f2&gt; in the &lt;f3&gt;Category&lt;/f3&gt; list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205353Z" creationid="olivier" creationdate="20250123T205332Z">
+        <seg>Certifique-se de que a aba &lt;f0&gt;Números&lt;/f0&gt; esteja selecionada e selecione &lt;f1&gt;Data&lt;/f1&gt; ou &lt;f2&gt;Hora&lt;/f2&gt; na lista &lt;f3&gt;Categoria&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7558,6 +7614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click and select &lt;f0&gt;Insert Field &gt; Date&lt;/f0&gt;, &lt;f1&gt;Sheet Name&lt;/f1&gt;, or &lt;f2&gt;Document Title&lt;/f2&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205652Z" creationid="olivier" creationdate="20250123T205652Z">
+        <seg>Clique com o botão direito do mouse e selecione &lt;f0&gt;Inserir campo &gt; Data&lt;/f0&gt;, &lt;f1&gt;Nome da planilha&lt;/f1&gt; ou &lt;f2&gt;Título do documento&lt;/f2&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click any active arrow button</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135214Z" creationid="olivier-tdf" creationdate="20250120T135214Z">
@@ -7898,6 +7962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212230Z" creationid="olivier-tdf" creationdate="20250116T212230Z">
         <seg>Lista suspensa Selecionar função</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a cell and double-click to activate edit mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205546Z" creationid="olivier" creationdate="20250123T205546Z">
+        <seg>Selecione uma célula e clique duas vezes para ativar o modo de edição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8306,6 +8378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105954Z" creationid="timot" creationdate="20250113T105954Z">
         <seg>Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Similarly, the &lt;f3&gt;Insert &gt; Date&lt;/f3&gt; and &lt;f4&gt;Insert &gt; Time&lt;/f4&gt; options on the Menu bar do not insert values as fields.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210118Z" creationid="olivier" creationdate="20250123T210118Z">
+        <seg>Da mesma forma, as opções &lt;f3&gt;Inserir &gt; Data&lt;/f3&gt; e &lt;f4&gt;Inserir &gt; Hora&lt;/f4&gt; na barra de menus não inserem valores como campos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8726,10 +8806,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Document Title&lt;/f0&gt; commands insert the name of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210357Z" creationid="olivier" creationdate="20250123T210357Z">
+        <seg>Os comandos &lt;f0&gt;Título do documento&lt;/f0&gt; inserem o título do documento de planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f1&gt;Name Box&lt;/f1&gt; now displays a drop-down list of the most frequently used functions, for a quick access to the function name and syntax.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212320Z" creationid="olivier-tdf" creationdate="20250116T212320Z">
         <seg>A &lt;f1&gt;Caixa de nome&lt;/f1&gt; agora exibe uma lista suspensa das funções usadas com mais frequência, para um acesso rápido ao nome e à sintaxe da função.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f3&gt;Insert Field&lt;/f3&gt; sub-menu contains two &lt;f4&gt;Date&lt;/f4&gt; options – use the occurrence located directly above the &lt;f5&gt;Sheet Name&lt;/f5&gt; item.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205721Z" creationid="olivier" creationdate="20250123T205721Z">
+        <seg>O submenu &lt;f3&gt;Inserir campo&lt;/f3&gt; contém duas opções de &lt;f4&gt;Data&lt;/f4&gt; – use a ocorrência localizada diretamente acima do item &lt;f5&gt;Nome da planilha&lt;/f5&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -9038,6 +9134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The fields are updated with the latest information when the spreadsheet is saved or recalculated using the &lt;f0&gt;Ctrl+Shift+F9&lt;/f0&gt; shortcut or going to &lt;f1&gt;Data &gt; Calculate &gt; Recalculate Hard&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205955Z" creationid="olivier" creationdate="20250123T205955Z">
+        <seg>Os campos são atualizados com as informações mais recentes quando o documento de planilha é salvo ou recalculado usando o atalho &lt;f0&gt;Ctrl+Shift+F9&lt;/f0&gt; ou acessando &lt;f1&gt;Dados &gt; Calcular &gt; Recalcular incondicionalmente&lt;/f1&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first lists the themes by name (&lt;f1&gt;Arrows&lt;/f1&gt;, &lt;f2&gt;Bullets&lt;/f2&gt;, &lt;f3&gt;Diagrams&lt;/f3&gt;, etc.) and the second displays the images in the selected category.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T112612Z" creationid="timot" creationdate="20250114T112612Z">
@@ -9202,6 +9306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194937Z" creationid="olivier-tdf" creationdate="20250109T194937Z">
         <seg>As opções marcadas por um sinal ‡ na lista abaixo só são acessíveis se o computador estiver conectado à Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The other &lt;f0&gt;Insert Field &gt; Date&lt;/f0&gt; option and its associated &lt;f1&gt;Time&lt;/f1&gt; option in the context menu insert the current date and time respectively.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210036Z" creationid="olivier" creationdate="20250123T210036Z">
+        <seg>A outra opção &lt;f0&gt;Inserir campo &gt; Data&lt;/f0&gt; e sua opção de &lt;f1&gt;hora&lt;/f1&gt; associada no menu de contexto inserem a data e a hora atuais, respectivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9562,6 +9674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T002102Z" creationid="olivier" creationdate="20250120T002102Z">
         <seg>Essas tabelas agora estão listadas na ordem em que aparecem na origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They do not insert the title defined on the &lt;f1&gt;Description&lt;/f1&gt; tab of the Properties dialog for the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210622Z" creationid="olivier" creationdate="20250123T210622Z">
+        <seg>Eles inserem o título definido na aba &lt;f1&gt;Descrição&lt;/f1&gt; da caixa de diálogo Propriedades do arquivo.</seg>
       </tuv>
     </tu>
     <tu>
