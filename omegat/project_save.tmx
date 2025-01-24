@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Delete Contents dialog&lt;/s0&gt;&lt;s1&gt;Delete Contents dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011807Z" creationid="olivier" creationdate="20250124T011807Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Excluir conteúdo&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Excluir conteúdo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Dialog showing an example of common controls&lt;/s0&gt;&lt;s1&gt;Dialog showing an example of common controls&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214400Z" creationid="olivier-tdf" creationdate="20250109T214400Z">
@@ -970,6 +978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215627Z" creationid="olivier" creationdate="20250123T215627Z">
         <seg>&lt;s0&gt;Caixa de diálogo Preencher série&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Preencher série&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Format Cells dialog – Alignment tab&lt;/s0&gt;&lt;s1&gt;Format Cells dialog – Alignment tab&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T012248Z" creationid="olivier" creationdate="20250124T012248Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Formatar células – aba Alinhamento&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Formatar células – aba Alinhamento&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All the settings discussed here can be set as a part of the cell style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011850Z" creationid="olivier" creationdate="20250124T011850Z">
+        <seg>Todas as configurações discutidas aqui podem ser definidas como parte do estilo de célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T214615Z" creationid="tdf" creationdate="20241226T214615Z">
@@ -1986,6 +2010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195505Z" creationid="timot" creationdate="20250111T195505Z">
         <seg>Sumários e índices automatizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatic wrapping</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011956Z" creationid="olivier" creationdate="20250124T011956Z">
+        <seg>Quebra automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to paste the data into the target cell or range of cells and close the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011147Z" creationid="olivier" creationdate="20250124T011147Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para colar os dados na célula de destino ou no intervalo de células e fechar a caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the new list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220322Z" creationid="olivier" creationdate="20250123T220322Z">
@@ -3302,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data and cell formatting can be deleted from a cell at the same time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011551Z" creationid="olivier" creationdate="20250124T011551Z">
+        <seg>Os dados e a formatação de células podem ser excluídos de uma célula ao mesmo tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data statistics tools, to perform complex data analysis.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124452Z" creationid="olivier-tdf" creationdate="20250114T124452Z">
@@ -3374,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete Contents dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011822Z" creationid="olivier" creationdate="20250124T011822Z">
+        <seg>Caixa de diálogo Excluir conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deleting cells</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153536Z" creationid="olivier" creationdate="20250121T153536Z">
@@ -3386,6 +3442,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153109Z" creationid="olivier" creationdate="20250121T153109Z">
         <seg>Excluir linhas ou colunas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleting data</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011351Z" creationid="olivier" creationdate="20250124T011351Z">
+        <seg>Excluir dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleting data and formatting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011451Z" creationid="olivier" creationdate="20250124T011451Z">
+        <seg>Excluindo dados e formatação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleting data only</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011356Z" creationid="olivier" creationdate="20250124T011356Z">
+        <seg>Excluindo apenas dados</seg>
       </tuv>
     </tu>
     <tu>
@@ -4302,6 +4382,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Delete Contents dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011817Z" creationid="olivier" creationdate="20250124T011817Z">
+        <seg>Figura &lt;seq0&gt;32&lt;/seq0&gt;: Caixa de diálogo Excluir conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Format Cells dialog – Alignment tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T012257Z" creationid="olivier" creationdate="20250124T012257Z">
+        <seg>Figura &lt;seq0&gt;33&lt;/seq0&gt;: Caixa de diálogo Formatar células – aba Alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214420Z" creationid="olivier-tdf" creationdate="20250109T214420Z">
@@ -4814,10 +4910,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Format Cells dialog – Alignment tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T012307Z" creationid="olivier" creationdate="20250124T012307Z">
+        <seg>Caixa de diálogo Formatar células – aba Alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Format Cells dialog – Numbers tab</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230759Z" creationid="olivier-tdf" creationdate="20250122T230759Z">
         <seg>Caixa de diálogo Formatar células – aba Números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting data</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011837Z" creationid="olivier" creationdate="20250124T011837Z">
+        <seg>Formatar dados</seg>
       </tuv>
     </tu>
     <tu>
@@ -6142,6 +6254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the Delete Contents dialog (Figure &lt;t0&gt;32&lt;/t0&gt;), choose any of the options or &lt;f1&gt;Delete all&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011748Z" creationid="olivier" creationdate="20250124T011748Z">
+        <seg>Na caixa de diálogo Excluir conteúdo (Figura &lt;t0&gt;32&lt;/t0&gt;), escolha qualquer uma das opções ou &lt;f1&gt;Excluir tudo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the Export dialog, type a name for the image, select the graphics file format (PNG, JPG, or WEBP), and mark the &lt;f0&gt;Selection&lt;/f0&gt; checkbox.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T221024Z" creationid="olivier-tdf" creationdate="20250117T221024Z">
@@ -7238,6 +7358,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multiple lines of text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011915Z" creationid="olivier" creationdate="20250124T011915Z">
+        <seg>Várias linhas de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multiple lines of text can be entered into a single cell using automatic wrapping or manual line breaks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011928Z" creationid="olivier" creationdate="20250124T011928Z">
+        <seg>Várias linhas de texto podem ser inseridas em uma única célula usando quebra automática ou quebras de linha manuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multiple non-contiguous sheets</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121641Z" creationid="olivier" creationdate="20250121T121641Z">
@@ -7534,6 +7670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;Alignment&lt;/f0&gt; tab (Figure &lt;t1&gt;33&lt;/t1&gt;), under &lt;f2&gt;Properties&lt;/f2&gt;, select &lt;f3&gt;Wrap text automatically&lt;/f3&gt; and click &lt;f4&gt;OK&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T012221Z" creationid="olivier" creationdate="20250124T012221Z">
+        <seg>Na aba &lt;f0&gt;Alinhamento&lt;/f0&gt; (Figura &lt;t1&gt;33&lt;/t1&gt;), em &lt;f2&gt;Propriedades&lt;/f2&gt;, selecione &lt;f3&gt;Disposição automática do texto&lt;/f3&gt; e clique em &lt;f4&gt;OK.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab of the PDF Options dialog (Figure &lt;t1&gt;11&lt;/t1&gt;), select the option &lt;f2&gt;Whole sheet export&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T221513Z" creationid="olivier-tdf" creationdate="20250117T221513Z">
@@ -7562,6 +7706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203311Z" creationid="olivier" creationdate="20250123T203311Z">
         <seg>No painel Formato numérico (Figura &lt;t0&gt;25&lt;/t0&gt;), selecione &lt;f1&gt;Texto&lt;/f1&gt; na lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the Properties deck of the Sidebar, open the Alignment panel (Figure &lt;t0&gt;34&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T012322Z" creationid="olivier" creationdate="20250124T012322Z">
+        <seg>No deque Propriedades da barra Lateral, abra o painel Alinhamento (Figura &lt;t0&gt;34&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8078,6 +8230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press the &lt;f0&gt;Backspace&lt;/f0&gt; key, or right-click in the cell selection and choose &lt;f1&gt;Clear Contents&lt;/f1&gt; in the context menu, or select &lt;f2&gt;Sheet &gt; Clear Cells &lt;/f2&gt;on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011653Z" creationid="olivier" creationdate="20250124T011653Z">
+        <seg>Pressione a tecla &lt;f0&gt;Backspace&lt;/f0&gt; ou clique com o botão direito do mouse na seleção de célula e escolha &lt;f1&gt;Limpar conteúdo&lt;/f1&gt; no menu de contexto ou selecione &lt;f2&gt;Planilha &gt; Limpar células &lt;/f2&gt;na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114501Z" creationid="olivier-tdf" creationdate="20250109T114501Z">
@@ -8582,6 +8742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Chapter 5, Using Styles and Templates, in the &lt;f0&gt;Calc Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011908Z" creationid="olivier" creationdate="20250124T011908Z">
+        <seg>Consulte o Capítulo 5, Usar estilos e modelos, no &lt;f0&gt;Guia do Calc&lt;/f0&gt; para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Chapter 8, Using Formulas and Functions, in the &lt;f0&gt;Calc Guide&lt;/f0&gt; for more information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212730Z" creationid="olivier-tdf" creationdate="20250116T212730Z">
@@ -8718,6 +8886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a cell or a range of cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011559Z" creationid="olivier" creationdate="20250124T011559Z">
+        <seg>Selecione uma célula ou um intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a color and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121755Z" creationid="olivier-tdf" creationdate="20250117T121755Z">
@@ -8782,10 +8958,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the &lt;f0&gt;Wrap text&lt;/f0&gt; option to apply the formatting immediately.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T012405Z" creationid="olivier" creationdate="20250124T012405Z">
+        <seg>Selecione a opção &lt;f0&gt;Quebra de texto&lt;/f0&gt; para aplicar a formatação imediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the &lt;f4&gt;New&lt;/f4&gt; button to create new categories.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T112638Z" creationid="timot" creationdate="20250114T112638Z">
         <seg>Selecione o botão &lt;f4&gt;Novo&lt;/f4&gt; para criar novas categorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the cell and then access the Format Cells dialog (Figure &lt;t0&gt;24&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T012014Z" creationid="olivier" creationdate="20250124T012014Z">
+        <seg>Selecione a célula e acesse a caixa de diálogo Formatar células (Figura &lt;t0&gt;24&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10518,6 +10710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These are described in Chapter 2, Entering and Editing Data, in the &lt;f9&gt;Calc Guide&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011138Z" creationid="olivier" creationdate="20250124T011138Z">
+        <seg>Eles são descritos no Capítulo 2, Inserir e editar dados, no &lt;f9&gt;Guia do Calc&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These column and row headers form the cell references that appear in the &lt;f0&gt;Name Box&lt;/f0&gt; on the Formula bar (Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T120829Z" creationid="olivier-tdf" creationdate="20250117T120829Z">
@@ -10870,6 +11070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To automatically wrap multiple lines of text in a cell, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T012005Z" creationid="olivier" creationdate="20250124T012005Z">
+        <seg>Para quebrar automaticamente várias linhas de texto em uma célula, use um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To be effective, the data table should have a header row, where the content of each cell is the title of the column.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T223417Z" creationid="olivier" creationdate="20250123T223417Z">
@@ -10942,6 +11150,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To completely delete cells, see the “&lt;bf2&gt;Deleting cells&lt;/bf2&gt;” section &lt;bf3&gt;above&lt;/bf3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011444Z" creationid="olivier" creationdate="20250124T011444Z">
+        <seg>Para excluir completamente as células, consulte a seção "&lt;bf2&gt;Excluir células&lt;/bf2&gt;" &lt;bf3&gt;acima&lt;/bf3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To completely delete rows or columns, see the “&lt;bf0&gt;Deleting columns or rows&lt;/bf0&gt;” section &lt;bf1&gt;above&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011433Z" creationid="olivier" creationdate="20250124T011433Z">
+        <seg>Para excluir completamente linhas ou colunas, consulte a seção "&lt;bf0&gt;Excluir colunas ou linhas&lt;/bf0&gt;" &lt;bf1&gt;acima&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To completely replace data in a cell, select the cell and type in the new data.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225114Z" creationid="olivier" creationdate="20250123T225114Z">
@@ -10978,6 +11202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160613Z" creationid="olivier" creationdate="20250121T160613Z">
         <seg>Para excluir uma ou mais planilhas, primeiro selecione as planilhas (consulte “&lt;bf0&gt;Seleção de planilhas&lt;/bf0&gt;” na página &lt;bf1&gt;19&lt;/bf1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To delete only the data in a cell or range of cells, without deleting any of the cell formatting, select the cells and then press the &lt;f0&gt;Delete&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011410Z" creationid="olivier" creationdate="20250124T011410Z">
+        <seg>Para excluir apenas os dados em uma célula ou intervalo de células, sem excluir nenhuma formatação de célula, selecione as células e pressione a tecla &lt;f0&gt;Delete&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -11250,6 +11482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153100Z" creationid="olivier" creationdate="20250121T153100Z">
         <seg>Para ver um indicador de colunas e linhas ocultas, habilite a opção &lt;f0&gt;Exibir &gt; Linha Oculta/Indicador de Coluna&lt;/f0&gt; na barra de Menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To see which combination of options on the right side would apply if one of the &lt;s0/&gt;buttons in the &lt;f1&gt;Presets&lt;/f1&gt; area is selected, deselect the &lt;f2&gt;Run immediately&lt;/f2&gt; option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011306Z" creationid="olivier" creationdate="20250124T011306Z">
+        <seg>Para ver qual combinação de opções no lado direito se aplicaria se um dos &lt;s0/&gt;botões na área &lt;f1&gt;Pre-ajustes&lt;/f1&gt; estivesse selecionado, desmarque a opção &lt;f2&gt;Executar imediatamente&lt;/f2&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -12354,6 +12594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213604Z" creationid="olivier-tdf" creationdate="20250116T213604Z">
         <seg>Com uma célula selecionada, este deque inclui cinco painéis de conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the &lt;f3&gt;Run immediately&lt;/f3&gt; option selected, clicking on a preset button applies that combination of options and closes the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011345Z" creationid="olivier" creationdate="20250124T011345Z">
+        <seg>Com a opção &lt;f3&gt;Executar imediatamente&lt;/f3&gt; selecionada, clicar em um botão predefinido aplica essa combinação de opções e fecha a caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
