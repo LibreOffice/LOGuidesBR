@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Paste Special dialog&lt;/s0&gt;&lt;s1&gt;Paste Special dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T010947Z" creationid="olivier" creationdate="20250124T010947Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Colar especial&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Colar especial&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Right-click any active arrow button&lt;/s0&gt;&lt;s1&gt;Right-click any active arrow button&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135144Z" creationid="olivier-tdf" creationdate="20250120T134642Z">
@@ -1706,6 +1714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225601Z" creationid="olivier" creationdate="20250123T225601Z">
         <seg>Como alternativa, selecione a célula e clique na &lt;f0&gt;linha de entrada&lt;/f0&gt; na barra de fórmulas (Figura &lt;t1&gt;2&lt;/t1&gt;) e, em seguida, clique duas vezes nos dados para destacá-los completamente e digite os novos dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively, use the equivalent submenu items reached from &lt;f5&gt;Edit &gt; Paste Special&lt;/f5&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T010831Z" creationid="olivier" creationdate="20250124T010831Z">
+        <seg>Como alternativa, use os itens de submenu equivalentes obtidos em &lt;f5&gt;Editar &gt; Colar especial&lt;/f5&gt; na barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4278,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Paste Special dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T010956Z" creationid="olivier" creationdate="20250124T010956Z">
+        <seg>Figura &lt;seq0&gt;31&lt;/seq0&gt;: Caixa de diálogo Colar especial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214420Z" creationid="olivier-tdf" creationdate="20250109T214420Z">
@@ -5058,6 +5082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T223722Z" creationid="olivier" creationdate="20250123T223722Z">
         <seg>Acesse &lt;f0&gt;Dados &gt; Formulário&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Edit &gt; Paste Special &gt; Paste Special&lt;/f0&gt; on the Menu bar, or press &lt;f1&gt;Ctrl+Shift+V&lt;/f1&gt;, or right-click and select &lt;f2&gt;Paste Special &gt; Paste Special&lt;/f2&gt; in the context menu to open the Paste Special dialog (Figure &lt;t3&gt;31&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T010926Z" creationid="olivier" creationdate="20250124T010926Z">
+        <seg>Acesse &lt;f0&gt;Editar &gt; Colar Especial &gt; Colar Especial&lt;/f0&gt; na barra de menus ou pressione &lt;f1&gt;Ctrl+Shift+V&lt;/f1&gt; ou clique com o botão direito do mouse e selecione &lt;f2&gt;Colar Especial &gt; Colar Especial&lt;/f2&gt; no menu de contexto para abrir a caixa de diálogo Colar Especial (Figura &lt;t3&gt;31&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6122,6 +6154,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172350Z" creationid="tulio" creationdate="20250119T172350Z">
         <seg>Na instalação padrão do LibreOffice, a barra de ferramentas Padrão é encaixada na parte superior da janela em todos os módulos do LibreOffice e a segunda barra de ferramentas está encaixada na parte superior da janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the preset buttons on the left side of the dialog, you can choose to paste &lt;f0&gt;Values Only&lt;/f0&gt;, &lt;f1&gt;Values &amp; Formats&lt;/f1&gt;, &lt;f2&gt;Formats Only&lt;/f2&gt;, or to &lt;f3&gt;Transpose All&lt;/f3&gt; the data in the target cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011055Z" creationid="olivier" creationdate="20250124T011055Z">
+        <seg>Nos botões predefinidos no lado esquerdo da caixa de diálogo, você pode optar por colar &lt;f0&gt;Somente valores&lt;/f0&gt;, &lt;f1&gt;Valores e formatos&lt;/f1&gt;, &lt;f2&gt;Somente formatos&lt;/f2&gt; ou &lt;f3&gt;Transpor todos&lt;/f3&gt; os dados nas células de destino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7454,6 +7494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On &lt;t4/&gt;the right side of the dialog, select the options for &lt;f5&gt;Paste&lt;/f5&gt;, &lt;f6&gt;Options,&lt;/f6&gt; &lt;f7&gt;Operations, &lt;/f7&gt;and &lt;f8&gt;Shift Cells&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011122Z" creationid="olivier" creationdate="20250124T011122Z">
+        <seg>No &lt;t4/&gt;lado direito da caixa de diálogo, selecione as opções para &lt;f5&gt;Colar&lt;/f5&gt;, &lt;f6&gt;Opções,&lt;/f6&gt; &lt;f7&gt;Operações &lt;/f7&gt;e &lt;f8&gt;Deslocar células&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On Linux and Windows operating systems, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; on the Menu bar to open the dialog for general options.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212504Z" creationid="olivier-tdf" creationdate="20250109T212504Z">
@@ -7882,6 +7930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204902Z" creationid="olivier-tdf" creationdate="20250109T204902Z">
         <seg>Suporte pago e treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paste Special dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011002Z" creationid="olivier" creationdate="20250124T011002Z">
+        <seg>Caixa de diálogo Colar especial</seg>
       </tuv>
     </tu>
     <tu>
@@ -12610,6 +12666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T115812Z" creationid="timot" creationdate="20250114T115812Z">
         <seg>Também, é possível usar&lt;f2&gt;Ctrl+Shift+J&lt;/f2&gt; para alternar entre tela cheia e as visualizações anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also use the Paste Special dialog to paste into another cell selected parts of the data in the original cell or cell range, for example its format or the result of its formula.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T010848Z" creationid="olivier" creationdate="20250124T010848Z">
+        <seg>Você também pode usar a caixa de diálogo Colar especial para colar em outra célula partes selecionadas dos dados na célula original ou no intervalo de células, por exemplo, seu formato ou o resultado de sua fórmula.</seg>
       </tuv>
     </tu>
     <tu>
