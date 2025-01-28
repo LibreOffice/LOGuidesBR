@@ -5374,6 +5374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Going to &lt;f0&gt;Format &gt; Merge and Unmerge Cells &gt; Merge Cells&lt;/f0&gt; or &lt;f1&gt;Merge and Center Cells&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210122Z" creationid="olivier-tdf" creationdate="20250128T210122Z">
+        <seg>Acesse &lt;f0&gt;Formatar &gt; Mesclar e desmesclar células &gt; Mesclar células&lt;/f0&gt; ou &lt;f1&gt;Mesclar e centralizar células&lt;/f1&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Granularity</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192743Z" creationid="olivier-tdf" creationdate="20250109T192743Z">
@@ -7246,6 +7254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Merging cells</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205717Z" creationid="olivier-tdf" creationdate="20250128T205717Z">
+        <seg>Mesclar células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Method 1</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223901Z" creationid="olivier-tdf" creationdate="20250122T223901Z">
@@ -8198,6 +8214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Performing one of these steps:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205907Z" creationid="olivier-tdf" creationdate="20250128T205907Z">
+        <seg>Execute uma destas etapas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team forum at &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (registration is required), or send an email to: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T202903Z" creationid="olivier-tdf" creationdate="20250112T202903Z">
@@ -8682,6 +8706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T134445Z" creationid="olivier-tdf" creationdate="20250120T134445Z">
         <seg>Clicar com o botão direito do mouse em qualquer um desses botões, ou no botão + adjacente, abre um menu de contexto onde você pode selecionar uma planilha específica (Figura &lt;t0&gt;15&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-clicking on the selected cells and select &lt;f0&gt;Merge Cells&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205919Z" creationid="olivier-tdf" creationdate="20250128T205919Z">
+        <seg>Clique com o botão direito do mouse nas células selecionadas e selecione &lt;f0&gt;Mesclar células&lt;/f0&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9362,6 +9394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121146Z" creationid="olivier" creationdate="20250121T121146Z">
         <seg>Selecionar planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting the range of contiguous cells you want to merge.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205854Z" creationid="olivier-tdf" creationdate="20250128T205844Z">
+        <seg>Selecione o intervalo de células contíguas que deseja mesclar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11406,6 +11446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To do this, select the &lt;f0&gt;Shrink to fit cell size&lt;/f0&gt; option under &lt;f1&gt;Properties&lt;/f1&gt; on the &lt;f2&gt;Alignment&lt;/f2&gt; tab of the Format Cells dialog (Figure &lt;t3&gt;33&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205715Z" creationid="olivier-tdf" creationdate="20250128T205715Z">
+        <seg>Para fazer isso, selecione a opção &lt;f0&gt;Reduzir para ajustar o tamanho da célula&lt;/f0&gt; em &lt;f1&gt;Propriedades&lt;/f1&gt; na guia &lt;f2&gt;Alinhamento&lt;/f2&gt; da caixa de diálogo Formatar células (Figura &lt;t3&gt;33&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To do this:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T173701Z" creationid="timot" creationdate="20250122T173701Z">
@@ -13242,6 +13290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250126T184250Z" creationid="timot" creationdate="20250126T184250Z">
         <seg>É possível selecionar um bloco vertical ou "coluna" de texto que é separado por espaços ou guias (como se pode ver no texto colado de e-mails, listas de programas ou outras fontes), usando o modo de seleção Bloquear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can select contiguous cells and merge them into one large cell by:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205727Z" creationid="olivier-tdf" creationdate="20250128T205727Z">
+        <seg>Você pode selecionar células contíguas e mesclá-las em uma célula grande:</seg>
       </tuv>
     </tu>
     <tu>
