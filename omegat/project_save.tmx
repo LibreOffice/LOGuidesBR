@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Merge choices for non-empty cells&lt;/s0&gt;&lt;s1&gt;Merge choices for non-empty cells&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210344Z" creationid="olivier-tdf" creationdate="20250128T210344Z">
+        <seg>&lt;s0&gt;Opções de mesclagem para células não vazias&lt;/s0&gt;&lt;s1&gt;Opções de mesclagem para células não vazias&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Move/Copy Sheet dialog&lt;/s0&gt;&lt;s1&gt;Move/Copy Sheet dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155633Z" creationid="olivier" creationdate="20250121T155633Z">
@@ -4438,6 +4446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: Merge choices for non-empty cells</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210354Z" creationid="olivier-tdf" creationdate="20250128T210354Z">
+        <seg>Figura &lt;seq0&gt;35&lt;/seq0&gt;: Opções de mesclagem para células não vazias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214420Z" creationid="olivier-tdf" creationdate="20250109T214420Z">
@@ -5378,6 +5394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T183807Z" creationid="timot" creationdate="20250122T183807Z">
         <seg>Caixa de diálogo Ir para página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Going to &lt;f0&gt;Format &gt; Merge Cells &gt; Unmerge Cells&lt;/f0&gt; on the Menu bar, or right-clicking and selecting &lt;f1&gt;Unmerge Cells&lt;/f1&gt; in the context menu, or clicking on the &lt;f2&gt;Unmerge&lt;/f2&gt; &lt;f3&gt;Cells&lt;/f3&gt; icon on the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210626Z" creationid="olivier-tdf" creationdate="20250128T210626Z">
+        <seg>Acesse &lt;f0&gt;Formatar &gt; Mesclar e desmesclar células &gt; Desmesclar células&lt;/f0&gt; na barra de menus, ou clique com o botão direito do mouse e selecione &lt;f1&gt;Desmesclar células&lt;/f1&gt; no menu de contexto ou clique no ícone &lt;f2&gt;Desmesclar&lt;/f2&gt; &lt;f3&gt;células&lt;/f3&gt; na barra de ferramentas Formatação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7274,6 +7298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T130021Z" creationid="olivier-tdf" creationdate="20250114T130021Z">
         <seg>Barra de menus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merge choices for non-empty cells</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210400Z" creationid="olivier-tdf" creationdate="20250128T210400Z">
+        <seg>Opções de mesclagem para células não vazias</seg>
       </tuv>
     </tu>
     <tu>
@@ -9366,6 +9398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selecting a merged cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210436Z" creationid="olivier-tdf" creationdate="20250128T210436Z">
+        <seg>Selecione uma célula mesclada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selecting a vertical block of text</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250126T184146Z" creationid="timot" creationdate="20250126T184146Z">
@@ -9802,6 +9842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223617Z" creationid="olivier-tdf" creationdate="20250122T223617Z">
         <seg>Exemplo de tela dividida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Splitting cells</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210405Z" creationid="olivier-tdf" creationdate="20250128T210405Z">
+        <seg>Dividir células</seg>
       </tuv>
     </tu>
     <tu>
@@ -13362,6 +13410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125757Z" creationid="olivier-tdf" creationdate="20250114T125757Z">
         <seg>Você pode mostrar ou ocultar muitas das partes conforme desejado, usando o menu Exibir na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can split a cell that was created from several cells by:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210417Z" creationid="olivier-tdf" creationdate="20250128T210417Z">
+        <seg>Você pode dividir uma célula que foi criada a partir de várias células:</seg>
       </tuv>
     </tu>
     <tu>
