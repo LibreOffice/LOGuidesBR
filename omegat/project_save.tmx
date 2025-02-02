@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Docked position of Find toolbar&lt;/s0&gt;&lt;s1&gt;Docked position of Find toolbar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112829Z" creationid="timot" creationdate="20250202T112829Z">
+        <seg>&lt;s0&gt;Posição encaixada da barra de ferramentas Localizar&lt;/s0&gt;&lt;s1&gt; Posição encaixada da barra de ferramentas Localizar&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of creating floating sub-toolbar from a tool palette&lt;/s0&gt;&lt;s1&gt;Example of creating floating sub-toolbar from a tool palette&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173747Z" creationid="tulio" creationdate="20250119T173747Z">
@@ -1134,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Selecting a vertical block of text&lt;/s0&gt;&lt;s1&gt;Selecting a vertical block of text&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111657Z" creationid="timot" creationdate="20250202T111657Z">
+        <seg>&lt;s0&gt;Selecionar um bloco vertical de texto&lt;/s0&gt;&lt;s1&gt;Selecionar um bloco vertical de texto&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Selecting items that are not next to each other&lt;/s0&gt;&lt;s1&gt;Selecting items that are not next to each other&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250126T184023Z" creationid="timot" creationdate="20250126T184023Z">
@@ -1146,6 +1162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213221Z" creationid="olivier-tdf" creationdate="20250116T213221Z">
         <seg>&lt;s0&gt;Selecionar operações matemáticas na barra de status&lt;/s0&gt;&lt;s1&gt;Selecionar operações matemáticas na barra de status&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Selection icon&lt;/s0&gt;&lt;s1&gt;Selection icon&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111553Z" creationid="timot" creationdate="20250202T111553Z">
+        <seg>&lt;s0&gt;Ícone de seleção&lt;/s0&gt;&lt;s1&gt; Ícone de seleção&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1774,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, use the &lt;f2&gt;Copy&lt;/f2&gt; / &lt;f3&gt;Paste&lt;/f3&gt; buttons on the Standard toolbar, or the options under &lt;f4&gt;Edit&lt;/f4&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112047Z" creationid="timot" creationdate="20250202T112047Z">
+        <seg>Como alternativa, use os botões &lt;f2&gt;Copiar&lt;/f2&gt;/&lt;f3&gt;Colar&lt;/f3&gt; na barra de ferramentas Padrão ou as opções em &lt;f4&gt;Editar&lt;/f4&gt; na barra de Menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, use the equivalent submenu items reached from &lt;f5&gt;Edit &gt; Paste Special&lt;/f5&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T010831Z" creationid="olivier" creationdate="20250124T010831Z">
@@ -2270,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, the Find toolbar is docked at the bottom of the LibreOffice window (just above the Status bar) as shown in Figure &lt;t0&gt;10&lt;/t0&gt;, but you can float it or dock it in another location.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112719Z" creationid="timot" creationdate="20250202T112719Z">
+        <seg>Por padrão, a barra de ferramentas Localizar está encaixada na parte inferior da janela do LibreOffice (logo acima da barra de Status), conforme mostrado na Figura &lt;t0&gt;10&lt;/t0&gt;, mas é possível flutuá-la ou encaixá-la em outro local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CSV file containing raw and calculated values</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T220400Z" creationid="olivier-tdf" creationdate="20250117T220400Z">
@@ -2702,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Edit &gt; Paste Special&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112301Z" creationid="timot" creationdate="20250202T112301Z">
+        <seg>Escolha &lt;f0&gt;Editar &gt; Colar especial&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose &lt;f0&gt;File &gt; Open &lt;/f0&gt;on the Menu bar, click the &lt;f1&gt;Open&lt;/f1&gt; icon on the Standard toolbar, or press &lt;f2&gt;Ctrl+O&lt;/f2&gt;, and then locate the CSV file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122304Z" creationid="olivier-tdf" creationdate="20250117T122304Z">
@@ -3110,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the arrow on the &lt;f0&gt;Paste&lt;/f0&gt; button on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112335Z" creationid="timot" creationdate="20250202T112335Z">
+        <seg>Clique na seta no botão &lt;f0&gt;Colar&lt;/f0&gt; na barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the icon again to return the &lt;f3&gt;Input line&lt;/f3&gt; to its single line height.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204133Z" creationid="olivier" creationdate="20250123T204133Z">
@@ -3406,6 +3462,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cutting and copying text in Writer is similar to cutting and copying text in other applications.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111802Z" creationid="timot" creationdate="20250202T111802Z">
+        <seg>Cortar e copiar texto no Writer é semelhante a cortar e copiar texto em outros aplicativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cutting, copying, and moving text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111720Z" creationid="timot" creationdate="20250202T111720Z">
+        <seg>Cortar, copiar e mover texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211035Z" creationid="olivier-tdf" creationdate="20250116T211035Z">
@@ -3654,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Docked position of Find toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112839Z" creationid="timot" creationdate="20250202T112839Z">
+        <seg>Posição encaixada da barra de ferramentas Localizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Document changes status</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200333Z" creationid="timot" creationdate="20250111T200333Z">
@@ -3698,6 +3778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160442Z" creationid="olivier" creationdate="20250121T160442Z">
         <seg>Clique duas vezes na guia da planilha para abrir a caixa de diálogo Renomear planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-click the &lt;f0&gt;Paste&lt;/f0&gt; button without releasing the left mouse button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112341Z" creationid="timot" creationdate="20250202T112341Z">
+        <seg>Clique duas vezes no botão &lt;f0&gt;Colar&lt;/f0&gt; sem soltar o botão esquerdo do mouse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4246,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Docked position of Find toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112835Z" creationid="timot" creationdate="20250202T112835Z">
+        <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Posição encaixada da barra de ferramentas Localizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Exporting sheets to PDF as one page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T001436Z" creationid="olivier" creationdate="20250120T001436Z">
@@ -4606,10 +4702,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Selection icon</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111601Z" creationid="timot" creationdate="20250202T111601Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Ícone de seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Exporting raw and calculated values</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T215947Z" creationid="olivier-tdf" creationdate="20250117T215947Z">
         <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Exportação de valores brutos e calculados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Selecting a vertical block of text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111714Z" creationid="timot" creationdate="20250202T111714Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Seleção de um bloco vertical de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -4674,6 +4786,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220335Z" creationid="olivier" creationdate="20250123T220335Z">
         <seg>Preencher células de texto com listas de seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find and replace paragraph styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112644Z" creationid="timot" creationdate="20250202T112644Z">
+        <seg>Encontrar e substituir estilos de parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find and replace specific attributes or formatting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112640Z" creationid="timot" creationdate="20250202T112640Z">
+        <seg>Localizar e substituir atributos ou formatação específicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find and replace words and phrases</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112627Z" creationid="timot" creationdate="20250202T112627Z">
+        <seg>Encontrar e substituir palavras e frases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finding and replacing text and formatting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112536Z" creationid="timot" creationdate="20250202T112536Z">
+        <seg>Encontrar e substituir texto e formatação</seg>
       </tuv>
     </tu>
     <tu>
@@ -4938,6 +5082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211503Z" creationid="olivier-tdf" creationdate="20250116T211503Z">
         <seg>Para obter mais informações sobre barras de ferramentas, consulte o Capítulo 1, Noções básicas do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on floating and docking toolbars, see Chapter 1, LibreOffice Basics.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112821Z" creationid="timot" creationdate="20250202T112821Z">
+        <seg>Para obter mais informações sobre barras de ferramentas flutuantes e de encaixe, consulte o Capítulo 1, Noções básicas do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5918,6 +6070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the Find toolbar is not visible, you can display it by choosing &lt;f1&gt;View &gt; Toolbars &gt; Find&lt;/f1&gt; on the Menu bar, selecting &lt;f2&gt;Edit &gt; Find&lt;/f2&gt; on the Menu bar, or by pressing &lt;f3&gt;Ctrl+F&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112804Z" creationid="timot" creationdate="20250202T112804Z">
+        <seg>Se a barra de ferramentas Localizar não estiver visível, é possível exibi-la escolhendo &lt;f1&gt;Exibir &gt; Barras de ferramentas &gt; Localizar&lt;/f1&gt; na barra de menus, selecionando &lt;f2&gt;Editar &gt; Localizar&lt;/f2&gt; na barra de menus ou teclando &lt;f3&gt;Ctrl+F&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the LibreOffice features that require Java are to be used, it is important that the correct 32-bit or 64-bit edition matches the installed version of LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215347Z" creationid="olivier-tdf" creationdate="20250109T215347Z">
@@ -6022,10 +6182,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you click on the &lt;f0&gt;Paste&lt;/f0&gt; button on the Standard toolbar or use &lt;f1&gt;Ctrl+V&lt;/f1&gt;, any formatting the text has (such as bold or italics) is retained.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112153Z" creationid="timot" creationdate="20250202T112153Z">
+        <seg>Se clicar no botão &lt;f0&gt;Colar&lt;/f0&gt; na barra de ferramentas Padrão ou usar &lt;f1&gt;Ctrl+V&lt;/f1&gt;, qualquer formatação que o texto tenha (como negrito ou itálico) será mantida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you do not enter a name, Calc automatically generates one.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155442Z" creationid="olivier" creationdate="20250121T155442Z">
         <seg>Se não inserir um nome, o Calc gera um automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you do not like the results, click the &lt;f2&gt;Undo&lt;/f2&gt; button or press &lt;f3&gt;Ctrl+Z&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112223Z" creationid="timot" creationdate="20250202T112223Z">
+        <seg>Se os resultados não são aceitáveis, clique no botão &lt;f2&gt;Desfazer&lt;/f2&gt; ou pressione &lt;f3&gt;Ctrl+Z.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6482,6 +6658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172350Z" creationid="tulio" creationdate="20250119T172350Z">
         <seg>Na instalação padrão do LibreOffice, a barra de ferramentas Padrão é encaixada na parte superior da janela em todos os módulos do LibreOffice e a segunda barra de ferramentas está encaixada na parte superior da janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the dialog, you can:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112621Z" creationid="timot" creationdate="20250202T112621Z">
+        <seg>Na caixa de diálogo, é possível:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7830,6 +8014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now highlight the selection, using mouse or keyboard, as shown below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111615Z" creationid="timot" creationdate="20250202T111615Z">
+        <seg>Agora destaque a seleção, usando o mouse ou o teclado, conforme mostrado abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now you can work with the selected text (copy it, delete it, change the style, and so on).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250126T183939Z" creationid="timot" creationdate="20250126T183939Z">
@@ -8366,6 +8558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pasting text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112102Z" creationid="timot" creationdate="20250202T112102Z">
+        <seg>Colar texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paul Figueiredo</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215714Z" creationid="timot" creationdate="20250110T215714Z">
@@ -8434,6 +8634,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T183739Z" creationid="timot" creationdate="20250122T183705Z">
         <seg>Tecle &lt;f0&gt;Ctrl+G&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press &lt;f0&gt;Ctrl+Shift+V&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112345Z" creationid="timot" creationdate="20250202T112345Z">
+        <seg>Pressione &lt;f0&gt;Ctrl+Shift+V.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9606,6 +9814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selection icon</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111605Z" creationid="timot" creationdate="20250202T111605Z">
+        <seg>Ícone de seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selection lists are limited to using only text that has already been entered in the same column.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220349Z" creationid="olivier" creationdate="20250123T220349Z">
@@ -10218,6 +10434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T201143Z" creationid="timot" creationdate="20250111T201143Z">
         <seg>Linguagem do texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text pasted from websites and other sources may also be placed into frames or tables.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112200Z" creationid="timot" creationdate="20250202T112200Z">
+        <seg>O texto colado de sites e outras fontes também pode ser colocado em quadros ou tabelas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10990,6 +11214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The text retains the formatting it had before dragging.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112016Z" creationid="timot" creationdate="20250202T112016Z">
+        <seg>O texto mantém a formatação que tinha antes de ser arrastado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The word and character counts of the document are kept up to date as you edit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200736Z" creationid="timot" creationdate="20250111T200736Z">
@@ -11042,6 +11274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T161042Z" creationid="olivier" creationdate="20250121T161042Z">
         <seg>Em seguida, clique com o botão direito do mouse em uma das guias de planilha selecionadas e selecione &lt;f2&gt;Excluir planilha&lt;/f2&gt; no menu de contexto ou vá para &lt;f3&gt;Planilha &gt; Excluir planilha&lt;/f3&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then select &lt;f0&gt;Paste Unformatted Text&lt;/f0&gt; or &lt;f1&gt;Unformatted text&lt;/f1&gt; in the resulting menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112510Z" creationid="timot" creationdate="20250202T112510Z">
+        <seg>Em seguida, selecione &lt;f0&gt;Colar&lt;/f0&gt; texto &lt;f1&gt;sem formatação&lt;/f1&gt; ou Texto sem formatação no menu resultante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11584,8 +11824,8 @@
       <tuv lang="en-US">
         <seg>To change to Block selection mode, use &lt;f0&gt;Edit &gt; Selection Mode &gt; Block Area&lt;/f0&gt;, or press &lt;f1&gt;Alt+Shift+F8&lt;/f1&gt;, or right-click on the &lt;f2&gt;Selection&lt;/f2&gt; icon on the Status bar and select &lt;f3&gt;Block selection&lt;/f3&gt; in the pop-up menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250126T194216Z" creationid="timot" creationdate="20250126T193233Z">
-        <seg>Para mudar para o modo de Seleção por bloco, use &lt;f0&gt;Editar &gt; Modo de seleção &gt; Bloco&lt;/f0&gt;, ou tecle &lt;f1&gt;Alt+Shift+F8&lt;/f1&gt;, ou clique com o botão direito do mouse no ícone de &lt;f2&gt;Seleção&lt;/f2&gt; na barra de Status e selecione &lt;f3&gt;Seleção por bloco&lt;/f3&gt; no menu pop-up.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111547Z" creationid="timot" creationdate="20250126T193233Z">
+        <seg>Para mudar para o modo de Seleção por bloco, use &lt;f0&gt;Editar &gt; Modo de seleção &gt; Bloco&lt;/f0&gt;, ou tecle &lt;f1&gt;Alt+Shift+F8&lt;/f1&gt;, ou clique com o botão direito do mouse no ícone &lt;f2&gt;Seleção&lt;/f2&gt; na barra de Status e selecione &lt;f3&gt;Seleção por bloco&lt;/f3&gt; no menu pop-up.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11626,6 +11866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225114Z" creationid="olivier" creationdate="20250123T225114Z">
         <seg>Para substituir completamente os dados em uma célula, selecione a célula e digite os novos dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To copy selected text, hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key while dragging.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112010Z" creationid="timot" creationdate="20250202T112010Z">
+        <seg>Para copiar o texto selecionado, mantenha pressionada a &lt;f0&gt;tecla Ctrl&lt;/f0&gt; enquanto arrasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11878,10 +12126,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To make the pasted text inherit the paragraph style at the insertion point, do any of the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112235Z" creationid="timot" creationdate="20250202T112235Z">
+        <seg>Para fazer com que o texto colado herde o estilo de parágrafo no ponto de inserção, siga um destes procedimentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To manually select a font and format text for use in a cell:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T211126Z" creationid="olivier-tdf" creationdate="20250128T211126Z">
         <seg>Para selecionar manualmente uma fonte e formatar o texto para uso em uma célula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To move (cut and paste) selected text, use &lt;f0&gt;Ctrl+X&lt;/f0&gt; to cut the text, insert the cursor at the paste-in point and use &lt;f1&gt;Ctrl+V&lt;/f1&gt; to paste.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112025Z" creationid="timot" creationdate="20250202T112025Z">
+        <seg>Para mover (cortar e colar) o texto selecionado, use &lt;f0&gt;Ctrl+X&lt;/f0&gt; para cortar o texto, insira o cursor no ponto de colagem e use &lt;f1&gt;Ctrl+V&lt;/f1&gt; para colar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To move (drag and drop) selected text using the mouse, drag it to the new location and release it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111953Z" creationid="timot" creationdate="20250202T111953Z">
+        <seg>Para mover (arrastar e soltar) o texto selecionado usando o mouse, arraste-o para o novo local e solte-o.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To move an entire paragraph up or down in the document, click on the paragraph and press &lt;f0&gt;Ctrl+Alt+Up&lt;/f0&gt; or &lt;f1&gt;Ctrl+Alt+Down&lt;/f1&gt; respectively.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112057Z" creationid="timot" creationdate="20250202T112057Z">
+        <seg>Para mover um parágrafo inteiro para cima ou para baixo no documento, clique no parágrafo e pressione &lt;f0&gt;Ctrl+Alt+Up&lt;/f0&gt; ou &lt;f1&gt;Ctrl+Alt+Down&lt;/f1&gt;, respectivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12190,6 +12470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To use the Find toolbar, click in the box and type your search text, then press &lt;f0&gt;Enter&lt;/f0&gt; to find the next occurrence of that term.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T113328Z" creationid="timot" creationdate="20250202T113328Z">
+        <seg>Para usar a barra de ferramentas Localizar, clique na caixa e digite seu texto de pesquisa e pressione &lt;f0&gt;Enter&lt;/f0&gt; para encontrar a próxima ocorrência desse termo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To view more completions that start with the same letters, use the key combinations &lt;f0&gt;Ctrl+Tab&lt;/f0&gt; to scroll forward, or &lt;f1&gt;Ctrl+Shift+Tab&lt;/f1&gt; to scroll backward.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213553Z" creationid="olivier" creationdate="20250123T213553Z">
@@ -12278,6 +12566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unformatted text can also be pasted directly by pressing &lt;f2&gt;Ctrl+Alt+Shift+V&lt;/f2&gt; on the keyboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112532Z" creationid="timot" creationdate="20250202T112532Z">
+        <seg>O texto não formatado também pode ser colado diretamente pressionando &lt;f2&gt;Ctrl+Alt+Shift+V&lt;/f2&gt; no teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unfreezing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T222919Z" creationid="olivier-tdf" creationdate="20250122T222919Z">
@@ -12350,6 +12646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use wildcards and regular expressions to fine-tune a search</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112635Z" creationid="timot" creationdate="20250202T112635Z">
+        <seg>Use caracteres curinga e expressões regulares para ajustar uma pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Used with other keys</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214124Z" creationid="olivier-tdf" creationdate="20250109T214124Z">
@@ -12418,6 +12722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215325Z" creationid="olivier" creationdate="20250123T215325Z">
         <seg>Utilizar a ferramenta Preenchimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Find toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112651Z" creationid="timot" creationdate="20250202T112651Z">
+        <seg>Usando a barra de ferramentas Localizar</seg>
       </tuv>
     </tu>
     <tu>
@@ -12966,6 +13278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you paste text, the result depends on the source of the text and how you paste it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112134Z" creationid="timot" creationdate="20250202T112134Z">
+        <seg>Ao colar texto, o resultado depende da fonte do texto e de como é colado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you save a spreadsheet for the first time, you are prompted to enter a name of your choice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T130020Z" creationid="olivier-tdf" creationdate="20250114T130020Z">
@@ -13230,6 +13550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer has &lt;f0&gt;three&lt;/f0&gt; ways to find text within a document: the Find toolbar &lt;f1&gt;and the Find deck in the Sidebar &lt;/f1&gt;for fast searching&lt;f2&gt;,&lt;/f2&gt; and the Find and Replace dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112610Z" creationid="timot" creationdate="20250202T112610Z">
+        <seg>O Writer tem &lt;f0&gt;três&lt;/f0&gt; maneiras de encontrar texto em um documento: a barra de ferramentas Localizar &lt;f1&gt;e o deque Localizar na Barra Lateral &lt;/f1&gt;para pesquisa rápida&lt;f2&gt;&lt;/f2&gt; e a caixa de diálogo Localizar e Substituir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer has three ways to view a document: Normal, Web, and Full Screen.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T114724Z" creationid="timot" creationdate="20250114T114724Z">
@@ -13338,6 +13666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154909Z" creationid="olivier" creationdate="20250121T154909Z">
         <seg>Você também pode copiar uma planilha clicando com o botão direito do mouse na guia da planilha e selecionando &lt;f1&gt;Duplicar planilha&lt;/f1&gt; no menu de contexto ou indo para &lt;f2&gt;Planilha &gt; Duplicar planilha&lt;/f2&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also copy text from other sources such as Web pages and paste it into a Writer document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111937Z" creationid="timot" creationdate="20250202T111937Z">
+        <seg>Também, é possível copiar texto de outras fontes, como páginas da Web, e colá-lo em um documento do Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13486,6 +13822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can copy or move text within a document, or between documents, by dragging or by using menu selections, toolbar buttons, or keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111838Z" creationid="timot" creationdate="20250202T111838Z">
+        <seg>É possível copiar ou mover texto dentro de um documento, ou entre documentos, arrastando ou usando seleções de menu, botões da barra de ferramentas ou atalhos de teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can customize the behavior of the &lt;f0&gt;Enter&lt;/f0&gt; key by going to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; General&lt;/f1&gt; on the Menu bar and using the upper three options in the &lt;f2&gt;Input Settings&lt;/f2&gt; area (Figure &lt;t3&gt;16&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135446Z" creationid="olivier-tdf" creationdate="20250120T135446Z">
@@ -13602,6 +13946,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210417Z" creationid="olivier-tdf" creationdate="20250128T210417Z">
         <seg>Você pode dividir uma célula que foi criada a partir de várias células:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use the mouse or the keyboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250202T111819Z" creationid="timot" creationdate="20250202T111819Z">
+        <seg>É possível usar o mouse ou o teclado.</seg>
       </tuv>
     </tu>
     <tu>
