@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Press &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Enter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104116Z" creationid="timot" creationdate="20250204T104116Z">
+        <seg>&lt;f0&gt;Tecle &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Enter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Press Enter to move selection&lt;/f0&gt;: check this option to choose the direction that the cell focus moves after you press the &lt;f1&gt;Enter&lt;/f1&gt; key.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135500Z" creationid="olivier-tdf" creationdate="20250120T135500Z">
@@ -958,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Expanded Find and Replace dialog&lt;/s0&gt;&lt;s1&gt;Expanded Find and Replace dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104655Z" creationid="timot" creationdate="20250204T104655Z">
+        <seg>Caixa de diálogo &lt;s0&gt;Localizar e Substituir expandida&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Localizar e Substituir expandida&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Export Text File dialog for CSV files&lt;/s0&gt;&lt;s1&gt;Export Text File dialog for CSV files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125048Z" creationid="olivier-tdf" creationdate="20250117T125048Z">
@@ -986,6 +1002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215627Z" creationid="olivier" creationdate="20250123T215627Z">
         <seg>&lt;s0&gt;Caixa de diálogo Preencher série&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Preencher série&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Find deck in Sidebar&lt;/s0&gt;&lt;s1&gt;Find deck in Sidebar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104232Z" creationid="timot" creationdate="20250204T104232Z">
+        <seg>&lt;s0&gt;Deque Localizar na barra lateral&lt;/s0&gt;&lt;s1&gt;Deque Localizar na barra lateral&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1272,8 +1296,8 @@
       <tuv lang="en-US">
         <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 2, Getting Started with Writer&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250122T183726Z" creationid="timot" creationdate="20250122T183726Z">
-        <seg>[parcial]Capítulo 2, Introdução ao Writer</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T103643Z" creationid="timot" creationdate="20250122T183726Z">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Capítulo 2, Introdução ao Writer&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2734,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Edit &gt; Find and Replace&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104504Z" creationid="timot" creationdate="20250204T104504Z">
+        <seg>Escolha &lt;f0&gt;Editar &gt; Localizar e substituir&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose &lt;f0&gt;Edit &gt; Go to Page&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T183656Z" creationid="timot" creationdate="20250122T183656Z">
@@ -3086,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the text found to jump to the page and highlight the search text found &lt;f0&gt;(Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;11&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;)&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104144Z" creationid="timot" creationdate="20250204T104144Z">
+        <seg>Clique no texto encontrado para pular para a página e destacar o texto de pesquisa encontrado &lt;f0&gt;(Figura &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;11&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;)&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the toolbar handle (highlighted in Figure &lt;t0&gt;2&lt;/t0&gt;) and drag the tool palette onto the open document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173828Z" creationid="tulio" creationdate="20250119T173828Z">
@@ -3118,6 +3158,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Find All&lt;/f0&gt; button to select all instances of the search term within the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T103301Z" creationid="timot" creationdate="20250204T103301Z">
+        <seg>Clique no botão &lt;f0&gt;Localizar todos&lt;/f0&gt; para selecionar todas as instâncias do termo de pesquisa no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Find and Replace&lt;/f0&gt; icon on the Find toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104520Z" creationid="timot" creationdate="20250204T104520Z">
+        <seg>Clique no ícone &lt;f0&gt;Localizar e substituir&lt;/f0&gt; na barra de ferramentas Localizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the &lt;f0&gt;Freeze Rows and Columns&lt;/f0&gt; icon on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223053Z" creationid="olivier-tdf" creationdate="20250122T223053Z">
@@ -3146,6 +3202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205447Z" creationid="olivier-tdf" creationdate="20250128T205447Z">
         <seg>Clique no ícone &lt;f0&gt;Quebrar texto&lt;/f0&gt; na barra de ferramentas Formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f1&gt;Find Next&lt;/f1&gt; or &lt;f2&gt;Find Previous&lt;/f2&gt; (arrow) buttons as needed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T103217Z" creationid="timot" creationdate="20250204T103217Z">
+        <seg>Clique nos botões (setas) &lt;f1&gt;Localizar o próximo&lt;/f1&gt; ou &lt;f2&gt;Localizar o anterior&lt;/f2&gt;, conforme necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4118,6 +4182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter the text in the Find box on the top&lt;f0&gt;.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104101Z" creationid="timot" creationdate="20250204T104101Z">
+        <seg>Digite o texto na caixa Localizar na parte superior&lt;f0&gt;.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Entering data using the keyboard</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225703Z" creationid="olivier-tdf" creationdate="20250122T225703Z">
@@ -4210,6 +4282,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T180721Z" creationid="timot" creationdate="20250122T180637Z">
         <seg>Intercâmbio de documentos com usuários do Apple Pages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expanded Find and Replace dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104727Z" creationid="timot" creationdate="20250204T104727Z">
+        <seg>Caixa de diálogo Localizar e substituir expandida</seg>
       </tuv>
     </tu>
     <tu>
@@ -4346,6 +4426,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T001436Z" creationid="olivier" creationdate="20250120T001436Z">
         <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Exportar planilhas como uma página em PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Find &lt;f1&gt;deck&lt;/f1&gt; in Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104308Z" creationid="timot" creationdate="20250204T104308Z">
+        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: &lt;f1&gt;Deque&lt;/f1&gt; Localizaqr na Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Expanded Find &lt;f1&gt;and&lt;/f1&gt; Replace dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104717Z" creationid="timot" creationdate="20250204T104717Z">
+        <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: Caixa de diálogo Localizar &lt;f1&gt;e&lt;/f1&gt; substituir expandida</seg>
       </tuv>
     </tu>
     <tu>
@@ -4810,6 +4906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112627Z" creationid="timot" creationdate="20250202T112627Z">
         <seg>Encontrar e substituir palavras e frases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find deck in Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104329Z" creationid="timot" creationdate="20250204T104329Z">
+        <seg>Deque Localizar na Barra lateral</seg>
       </tuv>
     </tu>
     <tu>
@@ -7262,6 +7366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice locates all the text occurrences in the Find box and presents the results in the area just below with an indication of the page number and text portion of the occurrence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104133Z" creationid="timot" creationdate="20250204T104133Z">
+        <seg>O LibreOffice localiza todas as ocorrências de texto na caixa Localizar e apresenta os resultados na área logo abaixo com uma indicação do número da página e da parte do texto da ocorrência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice modules can be opened by:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T010451Z" creationid="tulio" creationdate="20250116T010451Z">
@@ -8230,6 +8342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Op&lt;f0&gt;en&lt;/f0&gt; the Find &lt;f1&gt;deck&lt;/f1&gt; in the Sidebar &lt;f2&gt;(Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;11&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;) &lt;/f5&gt;&lt;f6&gt;or use &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Alt+9&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104055Z" creationid="timot" creationdate="20250204T104055Z">
+        <seg>Abra &lt;f0&gt;&lt;/f0&gt; o &lt;f1&gt;deque&lt;/f1&gt; Localizar na Barra lateral &lt;f2&gt;(Figura &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;11&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;) &lt;/f5&gt;&lt;f6&gt;ou use &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Alt+9&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Styles deck in Sidebar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195247Z" creationid="timot" creationdate="20250111T195247Z">
@@ -8634,6 +8754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T183739Z" creationid="timot" creationdate="20250122T183705Z">
         <seg>Tecle &lt;f0&gt;Ctrl+G&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press &lt;f0&gt;Ctrl+H&lt;/f0&gt; on the keyboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104444Z" creationid="timot" creationdate="20250204T104444Z">
+        <seg>Tecle &lt;f0&gt;Ctrl+H&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9338,6 +9466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223023Z" creationid="olivier-tdf" creationdate="20250122T223023Z">
         <seg>Selecione &lt;f0&gt;Exibir &gt; Fixar linhas e colunas&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f1&gt;Match Case&lt;/f1&gt; to find only the instances that also match the case (capitalization).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T103608Z" creationid="timot" creationdate="20250204T103608Z">
+        <seg>Selecione &lt;f1&gt;Diferenciar maiúsculas de minúsculas&lt;/f1&gt; para encontrar apenas as instâncias que também correspondem ao caso (capitalização).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10486,6 +10622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Find &lt;f0&gt;deck&lt;/f0&gt; in the Sidebar is another handy toolto locate quickly &lt;f1&gt;all occurences of &lt;/f1&gt;text in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104031Z" creationid="timot" creationdate="20250204T104031Z">
+        <seg>O &lt;f0&gt;deque&lt;/f0&gt; Localizar na Barra lateral é outra ferramenta útil para localizar rapidamente &lt;f1&gt;todas as ocorrências de &lt;/f1&gt;texto no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Formula bar (Figure &lt;t0&gt;2&lt;/t0&gt;) is located at the top of the cell grid in the Calc workspace.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211601Z" creationid="olivier-tdf" creationdate="20250116T211601Z">
@@ -10814,6 +10958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The exact options may vary with your language settings (&lt;f0&gt;Tools &gt; Options &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Languages and Locales&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;General&lt;/f5&gt;&lt;/f4&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T105900Z" creationid="timot" creationdate="20250204T105900Z">
+        <seg>As opções exatas podem variar de acordo com suas configurações de idioma (&lt;f0&gt;Ferramentas &gt; Opções &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Idiomas e localidades&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Geral&lt;/f5&gt;&lt;/f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The fields are updated with the latest information when the spreadsheet is saved or recalculated using the &lt;f0&gt;Ctrl+Shift+F9&lt;/f0&gt; shortcut or going to &lt;f1&gt;Data &gt; Calculate &gt; Recalculate Hard&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205955Z" creationid="olivier" creationdate="20250123T205955Z">
@@ -11046,6 +11198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The other options include searching only in selected text, searching from the current cursor position backwards toward the beginning of the file, searching for similar words, searching in comments, and using regular expressions (wildcards).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T105408Z" creationid="timot" creationdate="20250204T105408Z">
+        <seg>As outras opções incluem pesquisar apenas em Somente na seleção atual pesquisar a partir da posição atual do cursor para trás em direção ao início do arquivo, pesquisar palavras semelhantes, pesquisar em comentários e usar expressões regulares (curingas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The parts of this window are described below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125742Z" creationid="olivier-tdf" creationdate="20250114T125742Z">
@@ -11098,6 +11258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T164721Z" creationid="olivier" creationdate="20250121T164721Z">
         <seg>As linhas entre 3 e 23 e as colunas entre F e Q foram roladas para fora da página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The search is case insensitive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104154Z" creationid="timot" creationdate="20250204T104154Z">
+        <seg>A pesquisa não diferencia maiúsculas de minúsculas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11846,6 +12014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To close the Find toolbar, click the &lt;f0&gt;X&lt;/f0&gt; button on the left, or press &lt;f1&gt;Esc&lt;/f1&gt; on the keyboard when the cursor is in the search box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T103911Z" creationid="timot" creationdate="20250204T103859Z">
+        <seg>Para fechar a barra de ferramentas Localizar, clique no botão &lt;f0&gt;X&lt;/f0&gt; à esquerda ou tecle &lt;f1&gt;Esc&lt;/f1&gt; quando o cursor estiver na caixa de pesquisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To completely delete cells, see the “&lt;bf2&gt;Deleting cells&lt;/bf2&gt;” section &lt;bf3&gt;above&lt;/bf3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011444Z" creationid="olivier" creationdate="20250124T011444Z">
@@ -11938,6 +12114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155943Z" creationid="olivier" creationdate="20250121T155943Z">
         <seg>Para exibir planilhas ocultas, clique com o botão direito do mouse em qualquer guia da planilha e selecione &lt;f0&gt;Mostrar planilha&lt;/f0&gt; no menu de contexto ou vá para &lt;f1&gt;Planilha &gt; Mostrar planilha&lt;/f1&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To display the Find &lt;f0&gt;and&lt;/f0&gt; Replace dialog (Figure &lt;t1&gt;12&lt;/t1&gt;), use any of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104428Z" creationid="timot" creationdate="20250204T104428Z">
+        <seg>Para exibir a caixa de diálogo Localizar &lt;f0&gt;e&lt;/f0&gt; substituir (Figura &lt;t1&gt;12&lt;/t1&gt;), use qualquer um dos seguintes métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12182,6 +12366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To open the Find and Replace dialog, click the icon to the right of &lt;f2&gt;Match Case&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T103829Z" creationid="timot" creationdate="20250204T103829Z">
+        <seg>Para abrir a caixa de diálogo Localizar e substituir, clique no ícone à direita de &lt;f2&gt;Diferenciar maiúsculas de minúsculas&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To open this dialog, do any of the following:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T183518Z" creationid="timot" creationdate="20250122T183518Z">
@@ -12218,6 +12410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225252Z" creationid="olivier-tdf" creationdate="20250122T225252Z">
         <seg>Para remover uma visualização dividida, siga um destes procedimentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To replace the text with different text, type the new text in the &lt;f0&gt;Replace&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104858Z" creationid="timot" creationdate="20250204T104858Z">
+        <seg>Para substituir o texto por um texto diferente, digite o novo texto na caixa &lt;f0&gt;Substituir&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12472,8 +12672,8 @@
       <tuv lang="en-US">
         <seg>To use the Find toolbar, click in the box and type your search text, then press &lt;f0&gt;Enter&lt;/f0&gt; to find the next occurrence of that term.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250202T113328Z" creationid="timot" creationdate="20250202T113328Z">
-        <seg>Para usar a barra de ferramentas Localizar, clique na caixa e digite seu texto de pesquisa e pressione &lt;f0&gt;Enter&lt;/f0&gt; para encontrar a próxima ocorrência desse termo.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T103023Z" creationid="timot" creationdate="20250202T113328Z">
+        <seg>Para usar a barra de ferramentas Localizar, clique na caixa e digite seu texto de pesquisa e tecle &lt;f0&gt;Enter&lt;/f0&gt; para encontrar a próxima ocorrência desse termo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12546,6 +12746,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220306Z" creationid="olivier" creationdate="20250123T220306Z">
         <seg>Digite a série da nova lista na caixa &lt;f0&gt;Entradas&lt;/f0&gt; (uma entrada por linha).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type the text you want to find in the &lt;f0&gt;Find&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104851Z" creationid="timot" creationdate="20250204T104851Z">
+        <seg>Digite o texto que deseja encontrar na caixa &lt;f0&gt;Localizar&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12678,6 +12886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Usin&lt;f0&gt;g&lt;/f0&gt; the Find &lt;f1&gt;deck&lt;/f1&gt; in the Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T103954Z" creationid="timot" creationdate="20250204T103954Z">
+        <seg>Usa &lt;f0&gt;r&lt;/f0&gt; o &lt;f1&gt;deque&lt;/f1&gt; Localizar na Barra Lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using &lt;f2&gt;Merge and Center Cells&lt;/f2&gt; will center align any contents in the cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210202Z" creationid="olivier-tdf" creationdate="20250128T210202Z">
@@ -12722,6 +12938,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215325Z" creationid="olivier" creationdate="20250123T215325Z">
         <seg>Utilizar a ferramenta Preenchimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Find and Replace dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104348Z" creationid="timot" creationdate="20250204T104348Z">
+        <seg>Usar a caixa de diálogo Localizar e substituir</seg>
       </tuv>
     </tu>
     <tu>
@@ -13158,6 +13382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the Find and Replace dialog is open, optionally click &lt;f0&gt;Other options&lt;/f0&gt; to expand it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T104844Z" creationid="timot" creationdate="20250204T104844Z">
+        <seg>Quando a caixa de diálogo Localizar e substituir estiver aberta, clique em &lt;f0&gt;Outras opções&lt;/f0&gt; para expandi-la e ver outras opções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the cursor is in a &lt;f0&gt;table&lt;/f0&gt;, this panel appears in addition to the panels for text:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T111525Z" creationid="timot" creationdate="20250113T111525Z">
@@ -13250,6 +13482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T230842Z" creationid="olivier" creationdate="20250123T230842Z">
         <seg>Quando terminar, clique fora da célula para desmarcá-la e salvar as alterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you have set up the search, click &lt;f0&gt;Find Next&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T105925Z" creationid="timot" creationdate="20250204T105925Z">
+        <seg>Depois de configurar a pesquisa, clique em &lt;f0&gt;Localizar o próximo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13914,6 +14154,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205727Z" creationid="olivier-tdf" creationdate="20250128T205727Z">
         <seg>Você pode selecionar células contíguas e mesclá-las em uma célula grande:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can select various options such as matching the case or matching whole words only.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250204T105108Z" creationid="timot" creationdate="20250204T105108Z">
+        <seg>É possível selecionar várias opções, como combinar Diferenciar maiúsculas de minúsculas ou combinar Somente palavras inteiras.</seg>
       </tuv>
     </tu>
     <tu>
