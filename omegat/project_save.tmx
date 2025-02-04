@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access the Format Cells dialog (Figure &lt;t0&gt;24&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161645Z" creationid="olivier" creationdate="20250204T161645Z">
+        <seg>Acesse a caixa de diálogo Formatar células (Figura &lt;t0&gt;24&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access to setup options</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213948Z" creationid="olivier-tdf" creationdate="20250109T213948Z">
@@ -1794,6 +1802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121030Z" creationid="olivier" creationdate="20250121T121030Z">
         <seg>Como alternativa, você pode pressionar &lt;f1&gt;Ctrl+A&lt;/f1&gt;, pressionar &lt;f2&gt;Ctrl+Shift+Espaço&lt;/f2&gt; ou ir para &lt;f3&gt;Editar &gt; Selecionar tudo&lt;/f3&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively, click the arrowhead to the right of the &lt;f1&gt;Border Color&lt;/f1&gt; icon on the Formatting toolbar or click the &lt;f2&gt;Border Color&lt;/f2&gt; icon on the Cell Appearance panel in the Properties deck of the Sidebar, and then select the required color from the displayed palette.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161630Z" creationid="olivier" creationdate="20250204T161630Z">
+        <seg>Como alternativa, clique na ponta de seta à direita do ícone &lt;f1&gt;Cor da borda&lt;/f1&gt; na barra de ferramentas Formatação ou clique no ícone &lt;f2&gt;Cor da borda&lt;/f2&gt; no painel Aparência da célula no deque Propriedades da barra lateral e selecione a cor desejada na paleta exibida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2598,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cell border properties apply only to the selected cells and can be changed only when you are editing those cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161758Z" creationid="olivier" creationdate="20250204T161758Z">
+        <seg>As propriedades da borda da célula se aplicam somente às células selecionadas e podem ser alteradas somente quando estiver editando essas células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cell fields</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205451Z" creationid="olivier" creationdate="20250123T205451Z">
@@ -3230,6 +3254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Font color&lt;/f0&gt; option on the &lt;f1&gt;Font Effects&lt;/f1&gt; tab of the Format Cells dialog and select the desired color from the palette.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161345Z" creationid="olivier" creationdate="20250204T161345Z">
+        <seg>Clique na opção &lt;f0&gt;Cor da fonte&lt;/f0&gt; na aba &lt;f1&gt;Efeitos de fonte&lt;/f1&gt; da caixa de diálogo Formatar células e selecione a cor desejada na paleta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the &lt;f0&gt;Freeze Rows and Columns&lt;/f0&gt; icon on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223053Z" creationid="olivier-tdf" creationdate="20250122T223053Z">
@@ -3282,6 +3314,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112335Z" creationid="timot" creationdate="20250202T112335Z">
         <seg>Clique na seta no botão &lt;f0&gt;Colar&lt;/f0&gt; na barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the arrowhead icon to the right of the &lt;f0&gt;Font Color&lt;/f0&gt; icon on the Character panel on the Properties deck of the Sidebar, and select the desired color from the palette.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161313Z" creationid="olivier" creationdate="20250204T161313Z">
+        <seg>Clique no ícone de ponta de seta à direita do ícone &lt;f0&gt;Cor da fonte&lt;/f0&gt; no painel Caractere no deque Propriedades da barra lateral e selecione a cor desejada na paleta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the arrowhead icon to the right of the &lt;f0&gt;Font Color&lt;/f0&gt; icon on the Formatting toolbar and select the desired color from the palette.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161149Z" creationid="olivier" creationdate="20250204T161149Z">
+        <seg>Clique no ícone de ponta de seta à direita do ícone &lt;f0&gt;Cor da fonte&lt;/f0&gt; na barra de ferramentas Formatação e selecione a cor desejada na paleta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5094,6 +5142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if cell C3 has a top border, that border can only be removed by selecting C3.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161810Z" creationid="olivier" creationdate="20250204T161810Z">
+        <seg>Por exemplo, se a célula C3 tiver uma borda superior, essa borda só poderá ser removida selecionando C3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, if currently on the first sheet tab, then &lt;f7&gt;Ctrl+Page Up&lt;/f7&gt; moves to the last sheet tab.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T133508Z" creationid="olivier-tdf" creationdate="20250120T133508Z">
@@ -5218,6 +5274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123757Z" creationid="olivier-tdf" creationdate="20250109T123757Z">
         <seg>Para mais detalhes, consulte os guias do usuário para os módulos individuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more flexibility in defining border characteristics, including padding and shadow styles, use the &lt;f0&gt;Borders&lt;/f0&gt; tab on the Format Cells dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161658Z" creationid="olivier" creationdate="20250204T161658Z">
+        <seg>Para obter mais flexibilidade na definição de características de borda, incluindo estilos de preenchimento e sombra, use a guia &lt;f0&gt;Bordas&lt;/f0&gt; na caixa de diálogo Formatar células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5378,6 +5442,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230759Z" creationid="olivier-tdf" creationdate="20250122T230759Z">
         <seg>Caixa de diálogo Formatar células – aba Números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting cell background</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161852Z" creationid="olivier" creationdate="20250204T161852Z">
+        <seg>Formatar o plano de fundo da célula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting cell borders</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161435Z" creationid="olivier" creationdate="20250204T161435Z">
+        <seg>Formatar bordas de células</seg>
       </tuv>
     </tu>
     <tu>
@@ -6486,6 +6566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to apply the active (last used) color again, then simply click the main body of the &lt;f1&gt;Font Color&lt;/f1&gt; icon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161253Z" creationid="olivier" creationdate="20250204T161253Z">
+        <seg>Se desejar aplicar a cor ativa (usada pela última vez) novamente, basta clicar no corpo principal do ícone &lt;f1&gt;Cor da fonte&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to display numbers with four integer digits, enter the value 4.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230634Z" creationid="olivier-tdf" creationdate="20250122T230634Z">
@@ -6506,6 +6594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T174245Z" creationid="timot" creationdate="20250122T174245Z">
         <seg>Se for necessário voltar a trabalhar com a versão .ODT do seu documento, é possível abri-lo novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to include borders around a cell or group of cells, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161454Z" creationid="olivier" creationdate="20250204T161454Z">
+        <seg>Se desejar incluir bordas ao redor de uma célula ou grupo de células, use um dos seguintes métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7082,6 +7178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191914Z" creationid="olivier-tdf" creationdate="20250109T191914Z">
         <seg>Ele também pode usar PostgreSQL, dBASE, Microsoft Access, MySQL, Oracle ou qualquer banco de dados compatível com ODBC ou JDBC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It cannot be removed in C2 despite also appearing to be the bottom border for cell C2.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161835Z" creationid="olivier" creationdate="20250204T161835Z">
+        <seg>Ela não pode ser removida em C2, apesar de também parecer ser a borda inferior da célula C2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9478,6 +9582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Chapter 5, Using Styles and Templates, in the &lt;f0&gt;Calc Guide &lt;/f0&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161722Z" creationid="olivier" creationdate="20250204T161722Z">
+        <seg>Consulte o Capítulo 5, Usar estilos e modelos, no &lt;f0&gt;Guia do Calc&lt;/f0&gt; para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Chapter 5, Using Styles and Templates, in the &lt;f0&gt;Calc Guide&lt;/f0&gt; for more information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011908Z" creationid="olivier" creationdate="20250124T011908Z">
@@ -9574,6 +9686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Top&lt;/f0&gt;, &lt;f1&gt;Middle&lt;/f1&gt;, &lt;f2&gt;Bottom&lt;/f2&gt;, &lt;f3&gt;Justified&lt;/f3&gt;, or &lt;f4&gt;Distributed&lt;/f4&gt; in the &lt;f5&gt;Vertical&lt;/f5&gt; menu on the &lt;f6&gt;Alignment&lt;/f6&gt; tab of the Format cells dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161100Z" creationid="olivier" creationdate="20250204T161100Z">
+        <seg>Selecione &lt;f0&gt;Em cima&lt;/f0&gt;, &lt;f1&gt;Meio&lt;/f1&gt;, &lt;f2&gt;Embaixo&lt;/f2&gt;, &lt;f3&gt;Justificado&lt;/f3&gt; ou &lt;f4&gt;Distribuído&lt;/f4&gt; no menu &lt;f5&gt;Vertical&lt;/f5&gt; na aba &lt;f6&gt;Alinhamento&lt;/f6&gt; da caixa de diálogo Formatar células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Use LibreOffice&lt;/f0&gt; dialogs in &lt;f1&gt;Open/Save dialogs&lt;/f1&gt; to display the LibreOffice dialogs on a computer display, as shown in Figure &lt;t2&gt;1&lt;/t2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212609Z" creationid="olivier-tdf" creationdate="20250109T212609Z">
@@ -9658,6 +9778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T211131Z" creationid="olivier-tdf" creationdate="20250128T211131Z">
         <seg>Selecione uma célula ou intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a cell or range of cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161513Z" creationid="olivier" creationdate="20250204T161513Z">
+        <seg>Selecione uma célula ou um intervalo de células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12062,6 +12190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change the background color for one or more selected cells, do one of the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161904Z" creationid="olivier" creationdate="20250204T161904Z">
+        <seg>Para alterar a cor do plano de fundo de uma ou mais células selecionadas, siga um destes procedimentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change the character format, use one of the following methods:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T211809Z" creationid="olivier-tdf" creationdate="20250128T211809Z">
@@ -12090,6 +12226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121541Z" creationid="olivier-tdf" creationdate="20250117T121541Z">
         <seg>Para alterar o nome padrão de uma planilha (Planilha1, Planilha2 e assim por diante), clique com o botão direito do mouse em uma guia de planilha e selecione &lt;f0&gt;Renomear planilha&lt;/f0&gt; no menu de contexto, para abrir a caixa de diálogo Renomear planilha, onde você pode digitar um novo nome para a planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change the font color, do one of the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161108Z" creationid="olivier" creationdate="20250204T161108Z">
+        <seg>Para alterar a cor da fonte, siga um destes procedimentos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12414,6 +12558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To include borders around the selected cell(s), click the &lt;f0&gt;Borders&lt;/f0&gt; icon on the Formatting toolbar or the corresponding control on the Cell Appearance panel in the Properties deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161541Z" creationid="olivier" creationdate="20250204T161541Z">
+        <seg>Para incluir bordas ao redor da(s) célula(s) selecionada(s), clique no ícone &lt;f0&gt;Bordas&lt;/f0&gt; na barra de ferramentas Formatação ou no controle correspondente no painel Aparência da célula no deque Propriedades da barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To insert a manual line break in a cell, press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205512Z" creationid="olivier-tdf" creationdate="20250128T205512Z">
@@ -12614,6 +12766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To select a color for the borders, click the &lt;f0&gt;Border Color&lt;/f0&gt; icon on the Formatting toolbar to apply the most recently selected color.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161610Z" creationid="olivier" creationdate="20250204T161610Z">
+        <seg>Para selecionar uma cor para as bordas, clique no ícone &lt;f0&gt;Cor da borda&lt;/f0&gt; na barra de ferramentas Formatação para aplicar a cor selecionada mais recentemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To select a different page style, right-click on this field.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T201005Z" creationid="timot" creationdate="20250111T201005Z">
@@ -12726,6 +12886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To select the line style of the borders, click the &lt;f0&gt;Border Style&lt;/f0&gt; icon on the Formatting toolbar or the corresponding control on the Cell Appearance panel in the Properties deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161557Z" creationid="olivier" creationdate="20250204T161557Z">
+        <seg>Para selecionar o estilo de linha das bordas, clique no ícone &lt;f0&gt;Estilo da borda&lt;/f0&gt; na barra de ferramentas Formatação ou no controle correspondente no painel Aparência da célula no deque Propriedades da barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To show hidden columns or rows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122507Z" creationid="olivier" creationdate="20250121T122507Z">
@@ -12738,6 +12906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104809Z" creationid="timot" creationdate="20250113T104809Z">
         <seg>Para assinar o documento, ou para visualizar o certificado, clique na área ou no ícone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To specify the language used in the cell, use the &lt;f0&gt;Language&lt;/f0&gt; menu provided on the &lt;f1&gt;Font&lt;/f1&gt; tab on the Format Cells dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161408Z" creationid="olivier" creationdate="20250204T161408Z">
+        <seg>Para especificar o idioma usado na célula, use o menu &lt;f0&gt;Idioma&lt;/f0&gt; fornecido na aba &lt;f1&gt;Fonte&lt;/f1&gt; na caixa de diálogo Formatar células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12954,6 +13130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T230314Z" creationid="olivier" creationdate="20250123T230314Z">
         <seg>Use um dos seguintes métodos para se preparar para a edição de dados da célula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the &lt;f0&gt;Font Effects&lt;/f0&gt; tab on the Format Cells dialog to set other font characteristics.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161421Z" creationid="olivier" creationdate="20250204T161421Z">
+        <seg>Use a aba &lt;f0&gt;Efeitos de fonte&lt;/f0&gt; na caixa de diálogo Formatar células para definir outras características de fonte.</seg>
       </tuv>
     </tu>
     <tu>
