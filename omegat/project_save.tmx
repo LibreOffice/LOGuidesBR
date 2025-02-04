@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;AutoFormat dialog&lt;/s0&gt;&lt;s1&gt;AutoFormat dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164141Z" creationid="olivier" creationdate="20250204T164141Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Autoformatação&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Autoformatação&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;CSV file containing raw and calculated values&lt;/s0&gt;&lt;s1&gt;CSV file containing raw and calculated values&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T220239Z" creationid="olivier-tdf" creationdate="20250117T220239Z">
@@ -1662,6 +1670,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All formatting applied is direct formatting – cell styles are not used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164002Z" creationid="olivier" creationdate="20250204T164002Z">
+        <seg>Toda a formatação aplicada é formatação direta – os estilos de célula não são usados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All modified styles are only available for use in that spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164721Z" creationid="olivier" creationdate="20250204T164721Z">
+        <seg>Todos os estilos modificados estão disponíveis apenas para uso nessa planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All modules share a common spelling checker and other tools, which are used consistently across the suite.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192631Z" creationid="olivier-tdf" creationdate="20250109T192631Z">
@@ -2118,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AutoFormat dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164202Z" creationid="olivier" creationdate="20250204T164202Z">
+        <seg>Caixa de diálogo Autoformatação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AutoInput ignores the case sensitivity of any data you enter.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213711Z" creationid="olivier" creationdate="20250123T213711Z">
@@ -2458,6 +2490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123528Z" creationid="olivier-tdf" creationdate="20250117T123528Z">
         <seg>O Calc pode salvar documento de planilhas em uma variedade de formatos e também exportá-las para os formatos de arquivo PDF e XHTML; consulte o Capítulo 7 Impressão, Exportação, Envio por e-mail e Assinatura no &lt;f0&gt;Guia do Calc&lt;/f0&gt; para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc comes with a predefined set of formatting themes (set of styles) that can be applied to spreadsheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164701Z" creationid="olivier" creationdate="20250204T164701Z">
+        <seg>O Calc vem com um conjunto predefinido de temas de formatação (conjunto de estilos) que podem ser aplicados a planilhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2910,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164447Z" creationid="olivier" creationdate="20250204T164447Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230810Z" creationid="olivier-tdf" creationdate="20250122T230810Z">
@@ -2922,6 +2970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123855Z" creationid="olivier-tdf" creationdate="20250117T123855Z">
         <seg>Clique em &lt;f0&gt;Salvar&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164355Z" creationid="olivier" creationdate="20250204T164355Z">
+        <seg>Clique em &lt;f1&gt;Adicionar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3766,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defining a new AutoFormat</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164222Z" creationid="olivier" creationdate="20250204T164222Z">
+        <seg>Definir uma nova Autoformatação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete Cells dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154239Z" creationid="olivier" creationdate="20250121T154239Z">
@@ -4266,6 +4330,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210856Z" creationid="olivier-tdf" creationdate="20250128T210856Z">
         <seg>Insira um código de formato personalizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter a name for the new style and click the &lt;f2&gt;OK&lt;/f2&gt; button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163550Z" creationid="olivier" creationdate="20250204T163550Z">
+        <seg>Digite um nome para o novo estilo e clique no botão &lt;f2&gt;OK&lt;/f2&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -4826,6 +4898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210354Z" creationid="olivier-tdf" creationdate="20250128T210354Z">
         <seg>Figura &lt;seq0&gt;35&lt;/seq0&gt;: Opções de mesclagem para células não vazias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: AutoFormat dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164155Z" creationid="olivier" creationdate="20250204T164155Z">
+        <seg>Figura &lt;seq0&gt;36&lt;/seq0&gt;: Caixa de diálogo Autoformatação</seg>
       </tuv>
     </tu>
     <tu>
@@ -5470,6 +5550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Format the data type, font, font size, cell borders, cell background, and so on for a range of cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164318Z" creationid="olivier" creationdate="20250204T164318Z">
+        <seg>Formate o tipo de dados, a fonte, o tamanho da fonte, as bordas da célula, o plano de fundo da célula e assim por diante para um intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formatting cell background</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161852Z" creationid="olivier" creationdate="20250204T161852Z">
@@ -5810,6 +5898,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T160810Z" creationid="olivier" creationdate="20250204T160810Z">
         <seg>Acesse &lt;f0&gt;Formatar &gt; Alinhar texto&lt;/f0&gt; na barra de menus e selecione &lt;f1&gt;Alinhar em cima&lt;/f1&gt;, &lt;f2&gt;No meio&lt;/f2&gt; ou &lt;f3&gt;Alinhar embaixo&lt;/f3&gt; no submenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format &gt; AutoFormat Styles&lt;/f0&gt; on the Menu bar to open the AutoFormat dialog (Figure &lt;t1&gt;36&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164106Z" creationid="olivier" creationdate="20250204T164106Z">
+        <seg>Acesse &lt;f0&gt;Formatar &gt; Estilos de autoformatação&lt;/f0&gt; na barra de menus para abrir a caixa de diálogo Autoformatação (Figura &lt;t1&gt;36&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format &gt; AutoFormat Styles&lt;/f0&gt; to open the AutoFormat dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164349Z" creationid="olivier" creationdate="20250204T164349Z">
+        <seg>Vá para &lt;f0&gt;Formatar &gt; Estilos de Autoformatação&lt;/f0&gt; para abrir a caixa de diálogo Autoformatação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6250,6 +6354,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210104Z" creationid="olivier" creationdate="20250123T210104Z">
         <seg>No entanto, ao contrário dos comandos descritos acima, esses valores não são inseridos como campos e não serão atualizados ou &lt;t2/&gt;recalculados posteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, you can use it in other spreadsheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164609Z" creationid="olivier" creationdate="20250204T164609Z">
+        <seg>No entanto, você pode usá-la em outros documentos de planilhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6862,6 +6974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, you can apply predefined cell styles using options in the &lt;f1&gt;Styles&lt;/f1&gt; menu on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163727Z" creationid="olivier" creationdate="20250204T163727Z">
+        <seg>Além disso, você pode aplicar estilos de célula predefinidos usando opções no menu &lt;f1&gt;Estilos&lt;/f1&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, you can create custom cell styles by doing one of the following:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163356Z" creationid="olivier" creationdate="20250204T163356Z">
@@ -6930,6 +7050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155347Z" creationid="olivier" creationdate="20250121T155347Z">
         <seg>Na lista &lt;f0&gt;Inserir antes&lt;/f0&gt;, escolha a posição no documento de planilha de destino onde deseja colocar a planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Name&lt;/f0&gt; box of the Add AutoFormat dialog that opens, type a meaningful name for the new format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164443Z" creationid="olivier" creationdate="20250204T164443Z">
+        <seg>Na caixa &lt;f0&gt;Nome&lt;/f0&gt; da caixa de diálogo Adicionar Autoformatação que foi aberta, digite um nome significativo para o novo formato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7314,6 +7442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T161353Z" creationid="olivier" creationdate="20250121T161353Z">
         <seg>Não é possível excluir todas as planilhas em um documento de planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is not possible to delete predefined cell styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163755Z" creationid="olivier" creationdate="20250204T163755Z">
+        <seg>Não é possível excluir estilos de célula predefinidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8502,6 +8638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the &lt;f2&gt;General&lt;/f2&gt; tab of the Cell Style dialog, enter a name for the new style in the &lt;f3&gt;Name&lt;/f3&gt; field and click the &lt;f4&gt;OK&lt;/f4&gt; button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163700Z" creationid="olivier" creationdate="20250204T163700Z">
+        <seg>Na aba &lt;f2&gt;Geral&lt;/f2&gt; da caixa de diálogo Estilo de célula, insira um nome para o novo estilo no campo &lt;f3&gt;Nome&lt;/f3&gt; e clique no botão &lt;f4&gt;OK&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the Menu bar, select &lt;f0&gt;File &gt; Export as PDF&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T221250Z" creationid="olivier-tdf" creationdate="20250117T221250Z">
@@ -8834,6 +8978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204520Z" creationid="olivier-tdf" creationdate="20250109T204520Z">
         <seg>Outros sites de usuários também oferecem dicas e tutoriais gratuitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other users can import the new AutoFormat by selecting a common style from a table range in the spreadsheet and defining it as a new AutoFormat.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164635Z" creationid="olivier" creationdate="20250204T164635Z">
+        <seg>Outros usuários podem importar a nova Autoformatação selecionando um estilo comum em um intervalo de tabelas na planilha e definindo-o como uma nova Autoformatação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9362,6 +9514,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121845Z" creationid="olivier" creationdate="20250121T121845Z">
         <seg>Clique com o botão direito em uma aba de planilha e escolha &lt;f0&gt;Selecionar todas as planilhas&lt;/f0&gt; no menu de contexto ou selecione &lt;f1&gt;Editar &gt; Selecionar &gt; Selecionar todas as planilhas&lt;/f1&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click a style on that deck and select &lt;f1&gt;New&lt;/f1&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163637Z" creationid="olivier" creationdate="20250204T163637Z">
+        <seg>Clique com o botão direito do mouse em um estilo nesse deque e selecione &lt;f1&gt;Novo&lt;/f1&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9918,6 +10078,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the &lt;f0&gt;Cell Styles&lt;/f0&gt; icon on the Styles deck of the Sidebar and then click the &lt;f1&gt;New Style from Selection&lt;/f1&gt; icon on that deck.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163541Z" creationid="olivier" creationdate="20250204T163541Z">
+        <seg>Selecione o ícone &lt;f0&gt;Estilos de célula&lt;/f0&gt; no deque Estilos da barra lateral e clique no ícone &lt;f1&gt;Novo estilo a partir da seleção&lt;/f1&gt; nesse deque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the &lt;f0&gt;Cell Styles&lt;/f0&gt; icon on the Styles deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163606Z" creationid="olivier" creationdate="20250204T163606Z">
+        <seg>Selecione o ícone &lt;f0&gt;Estilos de célula&lt;/f0&gt; no deque Estilos da barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the &lt;f0&gt;Numbers&lt;/f0&gt; tab and select &lt;f1&gt;Number&lt;/f1&gt; in the &lt;f2&gt;Category&lt;/f2&gt; list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230534Z" creationid="olivier-tdf" creationdate="20250122T230534Z">
@@ -10006,6 +10182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the cells in at least three columns and rows, including column and row headers, that you want to format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164035Z" creationid="olivier" creationdate="20250204T164035Z">
+        <seg>Selecione as células em pelo menos três colunas e linhas, incluindo cabeçalhos de coluna e linha, que deseja formatar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the cells you want to delete.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153553Z" creationid="olivier" creationdate="20250121T153553Z">
@@ -10054,6 +10238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the formatting properties to be included in the AutoFormat style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164128Z" creationid="olivier" creationdate="20250204T164128Z">
+        <seg>Selecione as propriedades de formatação a serem incluídas no estilo AutoFormatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the hidden sheets to be displayed again and then click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160025Z" creationid="olivier" creationdate="20250121T160025Z">
@@ -10074,6 +10266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T211115Z" creationid="olivier" creationdate="20250123T211115Z">
         <seg>Selecione as opções para corrigir erros automaticamente à medida que você digita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the range, of at least 4x4 cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164328Z" creationid="olivier" creationdate="20250204T164328Z">
+        <seg>Selecione o intervalo de pelo menos 4x4 células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10130,6 +10330,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T231041Z" creationid="olivier" creationdate="20250123T231041Z">
         <seg>Selecione a célula de destino ou o intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the type of format and format color in the list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164117Z" creationid="olivier" creationdate="20250204T164117Z">
+        <seg>Selecione o tipo de formato e a cor do formato na lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10690,6 +10898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214628Z" creationid="olivier-tdf" creationdate="20250116T214628Z">
         <seg>Leiaute do documento de planilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spreadsheet themes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164651Z" creationid="olivier" creationdate="20250204T164651Z">
+        <seg>Temas de planilhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -11486,6 +11702,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The new AutoFormat is now available in the &lt;f1&gt;Format&lt;/f1&gt; list on the AutoFormat dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164509Z" creationid="olivier" creationdate="20250204T164509Z">
+        <seg>A nova Autoformatação agora está disponível na lista &lt;f1&gt;Formato&lt;/f1&gt; na caixa de diálogo Autoformatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The new AutoFormat is stored in your computer user profile and is not available to other users.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164532Z" creationid="olivier" creationdate="20250204T164532Z">
+        <seg>A nova Autoformatação é armazenada no perfil de usuário do computador e não está disponível para outros usuários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The new data will replace the old, but cell formatting will be retained.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225428Z" creationid="olivier" creationdate="20250123T225428Z">
@@ -12174,6 +12406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Through the Styles deck, you can modify any cell style or delete any custom cell style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163745Z" creationid="olivier" creationdate="20250204T163745Z">
+        <seg>Por meio do deque Estilos, você pode modificar qualquer estilo de célula ou excluir qualquer estilo de célula personalizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thumbnail or preview.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214705Z" creationid="olivier-tdf" creationdate="20250109T214705Z">
@@ -12226,6 +12466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121915Z" creationid="olivier-tdf" creationdate="20250117T121915Z">
         <seg>Para adicionar novas cores a esta paleta de cores, consulte o Capítulo 13, Personalizar o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To apply a theme to a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164754Z" creationid="olivier" creationdate="20250204T164754Z">
+        <seg>Para aplicar um tema a uma planilha:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13310,6 +13558,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using AutoFormat</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163848Z" creationid="olivier" creationdate="20250204T163848Z">
+        <seg>Utilizar Autoformatação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using AutoFormat on cells</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163832Z" creationid="olivier" creationdate="20250204T163832Z">
+        <seg>Utilizar Autoformatação em células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using LibreOffice on macOS</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203037Z" creationid="olivier-tdf" creationdate="20250109T114116Z">
@@ -13426,6 +13690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T223320Z" creationid="olivier" creationdate="20250123T223320Z">
         <seg>Usando a ferramenta, você pode inserir, editar e excluir registros de dados (ou linhas) e evitar a rolagem horizontal quando a tabela tiver muitas colunas ou quando algumas colunas forem muito largas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using themes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164644Z" creationid="olivier" creationdate="20250204T164644Z">
+        <seg>Utilizar temas</seg>
       </tuv>
     </tu>
     <tu>
@@ -14430,6 +14702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can apply any cell style to selected cells using the &lt;f0&gt;Cell Styles&lt;/f0&gt; tab of the Styles deck.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163717Z" creationid="olivier" creationdate="20250204T163717Z">
+        <seg>Você pode aplicar qualquer estilo de célula às células selecionadas usando a guia &lt;f0&gt;Estilos de célula&lt;/f0&gt; do painel Estilos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can change how Calc converts strings to numeric values, cell references, dates, and times by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Formula&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203407Z" creationid="olivier" creationdate="20250123T203407Z">
@@ -14482,6 +14762,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135446Z" creationid="olivier-tdf" creationdate="20250120T135446Z">
         <seg>Você pode personalizar o comportamento da tecla &lt;f0&gt;Enter&lt;/f0&gt; acessando &lt;f1&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Geral&lt;/f1&gt; na barra de menus e usando as três opções superiores na área &lt;f2&gt;Configurações de entrada&lt;/f2&gt; (Figura &lt;t3&gt;16&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can define a new AutoFormat so that it becomes available for use in all spreadsheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164304Z" creationid="olivier" creationdate="20250204T164304Z">
+        <seg>Você pode definir uma nova Autoformatação para que fique disponível em todas as planilhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14606,6 +14894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can use Calc’s AutoFormat feature to format a table (range of cells) quickly and easily.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163910Z" creationid="olivier" creationdate="20250204T163910Z">
+        <seg>Você pode usar o recurso Autoformatação do Calc para formatar uma tabela (intervalo de células) de forma rápida e fácil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can use the mouse or the keyboard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T111819Z" creationid="timot" creationdate="20250202T111819Z">
@@ -14626,6 +14922,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213140Z" creationid="olivier-tdf" creationdate="20250116T213140Z">
         <seg>Você pode visualizar a média e a soma calculadas, a contagem de elementos e muito mais sobre a seleção clicando com o botão direito do mouse na área Informações da célula/objeto e selecionando as operações que deseja exibir na barra de status (Figura &lt;t0&gt;5&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot add new themes to Calc, but you can modify a theme’s styles after the theme is applied to the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164713Z" creationid="olivier" creationdate="20250204T164713Z">
+        <seg>Não é possível adicionar novos temas ao Calc, mas você pode modificar os estilos de um tema depois que o tema for aplicado à planilha.</seg>
       </tuv>
     </tu>
     <tu>
