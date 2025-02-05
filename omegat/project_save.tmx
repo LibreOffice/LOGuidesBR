@@ -1958,6 +1958,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An em-dash is a dash the width of the letter “m” in the font you are using.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T161032Z" creationid="timot" creationdate="20250205T161021Z">
+        <seg>Um travessão é um traço da largura da letra "m" na fonte em uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An en-dash is a dash the width of the letter “n” in the font you are using.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T160846Z" creationid="timot" creationdate="20250205T160846Z">
+        <seg>Um travessão é um traço da largura da letra "n" na fonte sendo usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An entry for LibreOffice is added to Applications.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203657Z" creationid="olivier-tdf" creationdate="20250112T203657Z">
@@ -2402,6 +2418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121331Z" creationid="olivier-tdf" creationdate="20250117T121331Z">
         <seg>Normalmente, cada nova planilha é criada com uma planilha chamada &lt;f0&gt;Planilha1&lt;/f0&gt; e você pode criar planilhas adicionais conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, four dictionaries are installed for each language, if they are available for that language: a spelling checker, a grammar checker, a hyphenation dictionary, and a thesaurus.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T161158Z" creationid="timot" creationdate="20250205T161158Z">
+        <seg>Por padrão, quatro dicionários são instalados para cada idioma, se estiverem disponíveis para esse idioma: um verificador ortográfico, um verificador gramatical, um dicionário de hifenização e um dicionário de sinônimos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,6 +2882,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214548Z" creationid="olivier-tdf" creationdate="20250109T214548Z">
         <seg>Caixa de seleção (mais de uma pode ser selecionada por vez).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Checking spelling and grammar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T161134Z" creationid="timot" creationdate="20250205T161134Z">
+        <seg>Verificar ortografia e gramática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Checking spelling and grammar automatically</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T161359Z" creationid="timot" creationdate="20250205T161359Z">
+        <seg>Verificar ortografia e gramática automaticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -4530,6 +4570,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173805Z" creationid="tulio" creationdate="20250119T173805Z">
         <seg>Exemplo de criação de sub-barra de ferramentas flutuante a partir de uma paleta de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exception: if the characters are numbers, as in a date or time range, the two hyphens are replaced by an en-dash.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T161124Z" creationid="timot" creationdate="20250205T161124Z">
+        <seg>Exceção: se os caracteres forem números, como em um intervalo de data ou hora, os dois hífens serão substituídos por um travessão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11358,6 +11406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;t0/&gt;grammar checker works in combination with the spelling checker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T161307Z" creationid="timot" creationdate="20250205T161240Z">
+        <seg>O &lt;t0/&gt;verificador gramatical funciona em combinação com o verificador ortográfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The AutoInput tool in Calc automatically completes entries, based on other entries in the same column.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212333Z" creationid="olivier" creationdate="20250123T212333Z">
@@ -11790,6 +11846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The hyphen will be replaced by an en-dash.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T160940Z" creationid="timot" creationdate="20250205T160940Z">
+        <seg>O hífen será substituído por um meio traço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The icon changes color to indicate whether the document has no unsaved changes or it has been edited and the changes have not been saved.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200347Z" creationid="timot" creationdate="20250111T200347Z">
@@ -12094,6 +12158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The spelling checker determines if each word in the document is in the installed dictionary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T161227Z" creationid="timot" creationdate="20250205T161227Z">
+        <seg>O verificador ortográfico determina se cada palavra no documento se encontra no dicionário instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The steps to export are:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125624Z" creationid="olivier-tdf" creationdate="20250117T125624Z">
@@ -12162,6 +12234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112016Z" creationid="timot" creationdate="20250202T112016Z">
         <seg>O texto mantém a formatação que tinha antes de ser arrastado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The two hyphens will be replaced by an em-dash.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T161102Z" creationid="timot" creationdate="20250205T161102Z">
+        <seg>Os dois hífens serão substituídos por um travessão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13630,6 +13710,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type at least one character, a space, a hyphen, another space, and at least one more letter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T160859Z" creationid="timot" creationdate="20250205T160859Z">
+        <seg>Digite pelo menos um caractere, um espaço, um hífen, outro espaço e pelo menos mais uma letra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type at least one character, two hyphens, and at least one more character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T161054Z" creationid="timot" creationdate="20250205T161054Z">
+        <seg>Digite pelo menos um caractere, dois hífens e pelo menos mais um caractere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type the cell reference into the &lt;f4&gt;Column&lt;/f4&gt; and &lt;f5&gt;Row&lt;/f5&gt; fields, or use the adjacent increment / decrement buttons, and press &lt;f6&gt;Enter&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003519Z" creationid="olivier" creationdate="20250120T003519Z">
@@ -14146,6 +14242,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194958Z" creationid="olivier-tdf" creationdate="20250109T194958Z">
         <seg>O que é isto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When &lt;f0&gt;Automatic Spell Checking&lt;/f0&gt; is selected in the Tools menu, Standard toolbar, or Options dialog, each word is checked as it is typed and a wavy red line appears under any unrecognized words.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T161515Z" creationid="timot" creationdate="20250205T161515Z">
+        <seg>Quando a &lt;f0&gt;opção Verificação ortográfica automática&lt;/f0&gt; é selecionada no menu Ferramentas, na barra de ferramentas Padrão ou na caixa de diálogo Opções, cada palavra é marcada à medida que é digitada e uma linha vermelha ondulada aparece sob as palavras não reconhecidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15030,6 +15134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can choose to check spelling and grammar automatically as you type, or at any other time, or both.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T161347Z" creationid="timot" creationdate="20250205T161347Z">
+        <seg>É possível optar por verificar a ortografia e a gramática automaticamente so digitar, em qualquer outro momento, ou ambos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can copy a sheet within the same spreadsheet, by holding down the &lt;f0&gt;Ctrl&lt;/f0&gt; key, clicking on the sheet tab, and dragging it to its required position before releasing the mouse button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154828Z" creationid="olivier" creationdate="20250121T154828Z">
@@ -15482,6 +15594,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203644Z" creationid="olivier-tdf" creationdate="20250112T203644Z">
         <seg>macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>–</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T160825Z" creationid="timot" creationdate="20250205T160825Z">
+        <seg>–</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>—</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T160944Z" creationid="timot" creationdate="20250205T160944Z">
+        <seg>—</seg>
       </tuv>
     </tu>
     <tu>
