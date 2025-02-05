@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>(&lt;f1&gt;Ctrl+Z&lt;/f1&gt; works only before the file is saved.) A mistake with &lt;f2&gt;Replace All&lt;/f2&gt; might require a manual, word-by-word, search to fix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T122816Z" creationid="timot" creationdate="20250205T122816Z">
+        <seg>(&lt;f1&gt;Ctrl+Z&lt;/f1&gt; funciona apenas antes de salvar o arquivo.) Um erro com &lt;f2&gt;Substituir todos&lt;/f2&gt; pode exigir uma pesquisa manual, palavra por palavra, para corrigir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>0</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T115225Z" creationid="olivier-tdf" creationdate="20250109T115225Z">
@@ -5302,6 +5310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, they can find all instances where any number is followed by specific letters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T125204Z" creationid="timot" creationdate="20250205T125204Z">
+        <seg>Por exemplo, as expressões podem encontrar todas as instâncias em que qualquer número é seguido por letras específicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, to select the range that would go from A3 to C6, you would enter &lt;f3&gt;A3:C6&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T115954Z" creationid="olivier" creationdate="20250121T115954Z">
@@ -6346,6 +6362,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211635Z" creationid="olivier-tdf" creationdate="20250116T211635Z">
         <seg>No entanto, ela pode ser oculta ou tornada visível acessando &lt;f1&gt;Exibir &gt; Barra de fórmulas&lt;/f1&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, they can be challenging to understand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T125329Z" creationid="timot" creationdate="20250205T125329Z">
+        <seg>No entanto, podem ser difíceis de entender.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9394,6 +9418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215239Z" creationid="olivier-tdf" creationdate="20250109T215239Z">
         <seg>Leia as licenças: &lt;a0&gt;https://www.mozilla.org/MPL/2.0/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Regular expressions offer powerful ways to search and replace text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T124030Z" creationid="timot" creationdate="20250205T124030Z">
+        <seg>Expressões regulares oferecem maneiras poderosas de pesquisar e substituir texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13434,6 +13466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T222919Z" creationid="olivier-tdf" creationdate="20250122T222919Z">
         <seg>Soltar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use &lt;f0&gt;Replace All&lt;/f0&gt; with caution; otherwise, you may end up with mistakes that you won’t be able to undo later if you save and close the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250205T122739Z" creationid="timot" creationdate="20250205T122739Z">
+        <seg>Use &lt;f0&gt;Substituir todos&lt;/f0&gt; com cautela, caso contrário, é possível acabar com erros impossíveis de desfazer caso o arquivo for salvo.</seg>
       </tuv>
     </tu>
     <tu>
