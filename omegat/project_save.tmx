@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Spelling context menu&lt;/s0&gt;&lt;s1&gt;Spelling context menu&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T100912Z" creationid="timot" creationdate="20250206T100831Z">
+        <seg>Menu de &lt;s0&gt;contexto Ortografia &lt;/s0&gt;&lt;s1&gt;Menu de contexto Ortografia&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Split screen bars&lt;/s0&gt;&lt;s1&gt;Split screen bars&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225150Z" creationid="olivier-tdf" creationdate="20250122T225150Z">
@@ -1642,6 +1650,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204827Z" creationid="olivier-tdf" creationdate="20250109T204827Z">
         <seg>Opções de acessibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add a word to the dictionary</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T101457Z" creationid="timot" creationdate="20250206T101457Z">
+        <seg>Adicionar uma palavra ao dicionário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add a word to the dictionary by clicking &lt;f0&gt;Add to Dictionary&lt;/f0&gt; in the Spelling dialog or in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T101603Z" creationid="timot" creationdate="20250206T101603Z">
+        <seg>Adicione uma palavra ao dicionário clicando em &lt;f0&gt;Adicionar ao dicionário&lt;/f0&gt; na caixa de diálogo Ortografia ou no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2982,10 +3006,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose text for spell checking</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T101832Z" creationid="timot" creationdate="20250206T101832Z">
+        <seg>Escolha o texto para a verificação ortográfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose the &lt;f0&gt;Sheet &gt; Delete Cells command&lt;/f0&gt;, press &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;-&lt;/f2&gt;, or right-click on a cell and select &lt;f3&gt;Delete&lt;/f3&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154110Z" creationid="olivier" creationdate="20250121T154110Z">
         <seg>Selecione &lt;f0&gt;Planilha &gt; Excluir células&lt;/f0&gt;, pressione &lt;f1&gt;Ctrl+-&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, ou clique com o botão direito em uma das células selecionadas e selecione &lt;f3&gt;Excluir&lt;/f3&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose whether to check uppercase words or words that contain numbers, by clicking the &lt;f0&gt;Options&lt;/f0&gt; button on the Spelling dialog to open a dialog similar to the one in &lt;f1&gt;Tools &gt; Options &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Languages and Locales&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Writing Aids&lt;/f4&gt;, described in Chapter 12, Configuring LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T102547Z" creationid="timot" creationdate="20250206T102547Z">
+        <seg>Escolha se deseja verificar palavras maiúsculas ou palavras que contenham números, clicando no botão &lt;f0&gt;Opções&lt;/f0&gt; na caixa de diálogo Ortografia para abrir uma caixa de diálogo semelhante à de &lt;f1&gt;Ferramentas &gt; Opções &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Idiomas e localidades&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Auxílios de Escrita&lt;/f4&gt;, descrita no Capítulo 12, Configurar o LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3378,6 +3418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T162048Z" creationid="olivier" creationdate="20250204T162048Z">
         <seg>Clique no ícone &lt;f0&gt;Cor do plano de fundo&lt;/f0&gt; no painel Aparência da célula no deque Propriedades da barra lateral e selecione a cor desejada na paleta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Check Spelling&lt;/f0&gt; button on the Standard toolbar, or choose &lt;f1&gt;Tools &gt; Spelling&lt;/f1&gt;, or press &lt;f2&gt;F7&lt;/f2&gt; on the keyboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T101122Z" creationid="timot" creationdate="20250206T101122Z">
+        <seg>Clique no botão &lt;f0&gt;Verificação ortográfica&lt;/f0&gt; na barra de ferramentas Padrão, escolha &lt;f1&gt;Ferramentas &gt; Ortografia&lt;/f1&gt; ou tecle &lt;f2&gt;F7&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4818,6 +4866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135210Z" creationid="olivier-tdf" creationdate="20250120T135210Z">
         <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: Clicar com o botão direito do mouse em qualquer botão de seta ativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Spelling context menu</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T100917Z" creationid="timot" creationdate="20250206T100845Z">
+        <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: Menu de contexto Ortografia</seg>
       </tuv>
     </tu>
     <tu>
@@ -6302,6 +6358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here are some more features of the spelling checker:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T101217Z" creationid="timot" creationdate="20250206T101217Z">
+        <seg>Aqui estão mais alguns recursos do verificador ortográfico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here you can select the type of series you want.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215553Z" creationid="olivier" creationdate="20250123T215553Z">
@@ -6726,6 +6790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the list does not contain the word you want, click &lt;f2&gt;Spelling&lt;/f2&gt; to open the Spelling dialog (Figure &lt;t3&gt;16&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T100248Z" creationid="timot" creationdate="20250206T100248Z">
+        <seg>Se a lista não contiver a palavra desejada, clique em &lt;f2&gt;Ortografia&lt;/f2&gt; para abrir a caixa de diálogo Ortografia (Figura &lt;t3&gt;16&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the offline help is not installed on a computer, but connected to the Internet, a dialog opens giving the option to &lt;f2&gt;Read Help Online&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194845Z" creationid="olivier-tdf" creationdate="20250109T194845Z">
@@ -6842,6 +6914,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T173850Z" creationid="timot" creationdate="20250122T173850Z">
         <seg>Caso contrário, qualquer alteração feita desde a última vez que foi salvo aparecerá apenas na versão do documento no Microsoft Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have created a new dictionary, you will be given a choice of dictionaries to add the word to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T101826Z" creationid="timot" creationdate="20250206T101826Z">
+        <seg>Se um novo dicionário foi criado, haverá uma escolha de dicionários para adicionar a palavra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7138,6 +7218,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160516Z" creationid="olivier" creationdate="20250121T160516Z">
         <seg>Além disso, uma aspa simples (‘) não pode ser usada como o primeiro ou o último caractere do nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to automatic checking, or in place of it, you can perform a combined spelling and grammar check on the document (or a text selection).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T101012Z" creationid="timot" creationdate="20250206T101012Z">
+        <seg>Além da verificação automática, ou no lugar dela, é possível realizar uma verificação ortográfica e gramatical combinada no documento (ou uma seleção de texto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11142,6 +11230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spelling context menu</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T100929Z" creationid="timot" creationdate="20250206T100929Z">
+        <seg>Menu de contexto Ortografia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spin box (click the up and down arrows to change the number shown in the adjacent text box, or type in the text box).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214700Z" creationid="olivier-tdf" creationdate="20250109T214700Z">
@@ -11958,6 +12054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The language to be used for checking spelling can be selected in this drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T101406Z" creationid="timot" creationdate="20250206T101406Z">
+        <seg>O idioma a ser usado para verificar a ortografia pode ser selecionado nesta lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The letter indicates the column and the number indicates the row of the selected cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211851Z" creationid="olivier-tdf" creationdate="20250116T211851Z">
@@ -12310,6 +12414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The word will be added to the Standard dictionary, unless you have created another dictionary in the same language.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T102554Z" creationid="timot" creationdate="20250206T101745Z">
+        <seg>A palavra será adicionada ao dicionário standard, a menos que tenha criado outro dicionário no mesmo idioma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Their use is described in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214422Z" creationid="olivier-tdf" creationdate="20250116T214422Z">
@@ -12562,6 +12674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212050Z" creationid="olivier-tdf" creationdate="20250116T212050Z">
         <seg>Isso é muito útil pois mostra como as funções são formatadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This checks the document or selection and opens the Spelling dialog if any unrecognized words are found.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T101147Z" creationid="timot" creationdate="20250206T101147Z">
+        <seg>Isso verifica o documento ou a seleção e abre a caixa de diálogo Ortografia se alguma palavra não reconhecida for encontrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12850,6 +12970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121915Z" creationid="olivier-tdf" creationdate="20250117T121915Z">
         <seg>Para adicionar novas cores a esta paleta de cores, consulte o Capítulo 13, Personalizar o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To also identify potential grammar problems, select the &lt;f3&gt;Check grammar&lt;/f3&gt; checkbox.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T101209Z" creationid="timot" creationdate="20250206T101209Z">
+        <seg>Para também identificar possíveis problemas gramaticais, marque a caixa de seleção &lt;f3&gt;Verificar gramática&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14082,6 +14210,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121952Z" creationid="olivier" creationdate="20250121T121952Z">
         <seg>Usando o menu Planilha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Spelling dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250206T100939Z" creationid="timot" creationdate="20250206T100939Z">
+        <seg>Usar a caixa de diálogo Ortografia</seg>
       </tuv>
     </tu>
     <tu>
