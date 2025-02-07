@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Context menu for grammar errors&lt;/s0&gt;&lt;s1&gt;Context menu for grammar errors&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104802Z" creationid="timot" creationdate="20250207T104802Z">
+        <seg>&lt;s0&gt;Menu de contexto para erros gramaticais&lt;/s0&gt;&lt;s1&gt; Menu de contexto para erros gramaticais&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Customizing the Enter key&lt;/s0&gt;&lt;s1&gt;Customizing the Enter key&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T142934Z" creationid="olivier-tdf" creationdate="20250120T142934Z">
@@ -1242,6 +1250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T100912Z" creationid="timot" creationdate="20250206T100831Z">
         <seg>Menu de &lt;s0&gt;contexto Ortografia &lt;/s0&gt;&lt;s1&gt;Menu de contexto Ortografia&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Spelling dialog&lt;/s0&gt;&lt;s1&gt;Spelling dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104216Z" creationid="timot" creationdate="20250207T104147Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Ortografia&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Ortografia&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2926,6 +2942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Checking grammar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104234Z" creationid="timot" creationdate="20250207T104234Z">
+        <seg>Verificar gramática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Checking spelling and grammar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T161134Z" creationid="timot" creationdate="20250205T161134Z">
@@ -3754,6 +3778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113813Z" creationid="olivier-tdf" creationdate="20250109T113813Z">
         <seg>Conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Context menu for grammar errors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104809Z" creationid="timot" creationdate="20250207T104809Z">
+        <seg>Menu de contexto para erros gramaticais</seg>
       </tuv>
     </tu>
     <tu>
@@ -4890,6 +4922,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T142957Z" creationid="olivier-tdf" creationdate="20250120T142957Z">
         <seg>Figura &lt;seq0&gt;16&lt;/seq0&gt;: Personalizar a tecla Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Spelling dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104201Z" creationid="timot" creationdate="20250207T104201Z">
+        <seg>Figura &lt;seq0&gt;16&lt;/seq0&gt;: Caixa de diálogo Ortografia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Context menu for grammar errors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104806Z" creationid="timot" creationdate="20250207T104806Z">
+        <seg>Figura &lt;seq0&gt;17&lt;/seq0&gt;: Menu de contexto para erros gramaticais</seg>
       </tuv>
     </tu>
     <tu>
@@ -6706,6 +6754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011500Z" creationid="tulio" creationdate="20250116T011500Z">
         <seg>Se algum documento não tiver sido salvo desde a última alteração, uma mensagem de aviso será exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If any grammar errors are detected, they are shown underlined by a wavy blue line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104351Z" creationid="timot" creationdate="20250207T104351Z">
+        <seg>Se erros gramaticais forem detectados, um sublinhado azul mostra os erro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10006,6 +10062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click on this line to open a context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104633Z" creationid="timot" creationdate="20250207T104633Z">
+        <seg>Clique com o botão direito do mouse nesta linha para abrir um menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click the column or row header where you want the new column or row inserted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122149Z" creationid="olivier" creationdate="20250121T122149Z">
@@ -10230,6 +10294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for more information about the spelling and grammar checking options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104112Z" creationid="timot" creationdate="20250207T104112Z">
+        <seg>Consulte o &lt;f0&gt;Guia do Writer&lt;/f0&gt; para mais informações sobre opções de verificação ortográfica e gramatical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the Advanced Options in Chapter 12, Configuring LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194357Z" creationid="olivier-tdf" creationdate="20250109T194357Z">
@@ -10258,6 +10330,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203935Z" creationid="olivier" creationdate="20250123T203935Z">
         <seg>Consulte a ajuda do sistema para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “&lt;bf1&gt;Using built-in language tools&lt;/bf1&gt;” on page &lt;bf2&gt;35&lt;/bf2&gt;&lt;s3/&gt;or refer to the &lt;f4&gt;Writer Guide&lt;/f4&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104055Z" creationid="timot" creationdate="20250207T104055Z">
+        <seg>Veja “&lt;bf1&gt;Usar ferramentas de linguagem integradas&lt;/bf1&gt;” na página &lt;bf2&gt;35&lt;/bf2&gt;&lt;s3/&gt;ou consulte o &lt;f4&gt;Guia do Writer&lt;/f4&gt; para mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11270,6 +11350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spelling dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104227Z" creationid="timot" creationdate="20250207T104227Z">
+        <seg>Caixa de diálogo de Ortografia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spin box (click the up and down arrows to change the number shown in the adjacent text box, or type in the text box).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214700Z" creationid="olivier-tdf" creationdate="20250109T214700Z">
@@ -11974,6 +12062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first entry in the context menu describes the suspected broken grammatical rule.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104753Z" creationid="timot" creationdate="20250207T104753Z">
+        <seg>A primeira entrada no menu de contexto descreve a regra gramatical suspeita que foi quebrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first lists the themes by name (&lt;f1&gt;Arrows&lt;/f1&gt;, &lt;f2&gt;Bullets&lt;/f2&gt;, &lt;f3&gt;Diagrams&lt;/f3&gt;, etc.) and the second displays the images in the selected category.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T112612Z" creationid="timot" creationdate="20250114T112612Z">
@@ -12298,6 +12394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104154Z" creationid="timot" creationdate="20250204T104154Z">
         <seg>A pesquisa não diferencia maiúsculas de minúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The second menu item may be &lt;f0&gt;Explanations&lt;/f0&gt;, which opens your browser to a web page offering more information about the error.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250207T105540Z" creationid="timot" creationdate="20250207T105540Z">
+        <seg>O segundo item de menu pode ser &lt;f0&gt;Explicações&lt;/f0&gt;, que abre seu navegador para uma página da web que oferece mais informações sobre o erro.</seg>
       </tuv>
     </tu>
     <tu>
