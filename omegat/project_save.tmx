@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A page break helps to ensure that the data prints properly according to the page size and page orientation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200429Z" creationid="olivier-tdf" creationdate="20250209T200429Z">
+        <seg>Uma quebra de página ajuda a garantir que os dados sejam impressos corretamente de acordo com o tamanho e a orientação da página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A palette of theme colors</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T171856Z" creationid="olivier-tdf" creationdate="20250209T171856Z">
@@ -1906,6 +1914,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194035Z" creationid="olivier-tdf" creationdate="20250209T194035Z">
         <seg>Após a definição dos intervalos de impressão, eles são formatados com quebras de página automáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After selecting &lt;f0&gt;View &gt; Page Break&lt;/f0&gt;, you can right-click on a cell to access a context menu containing &lt;f1&gt;Row Break&lt;/f1&gt; and &lt;f2&gt;Column Break&lt;/f2&gt; options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200702Z" creationid="olivier-tdf" creationdate="20250209T200702Z">
+        <seg>Depois de selecionar &lt;f0&gt;Exibir &gt; Quebra de página&lt;/f0&gt;, você pode clicar com o botão direito do mouse em uma célula para acessar um menu de contexto contendo as opções &lt;f1&gt;Quebra de linha&lt;/f1&gt; e &lt;f2&gt;Quebra de coluna&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4474,6 +4490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011822Z" creationid="olivier" creationdate="20250124T011822Z">
         <seg>Caixa de diálogo Excluir conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleting a break</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200715Z" creationid="olivier-tdf" creationdate="20250209T200715Z">
+        <seg>Excluir quebra de página</seg>
       </tuv>
     </tu>
     <tu>
@@ -7054,6 +7078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Insert Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200611Z" creationid="olivier-tdf" creationdate="20250209T200611Z">
+        <seg>Acesse &lt;f0&gt;Planilha &gt; Inserir quebra de página&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;Insert Columns &gt; Columns Before&lt;/f1&gt;, &lt;f2&gt;Insert Columns &gt; Columns After&lt;/f2&gt;, &lt;f3&gt;Insert Rows &gt; Rows Above&lt;/f3&gt;, or &lt;f4&gt;Insert Rows &gt; Rows Below&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122109Z" creationid="olivier" creationdate="20250121T122109Z">
@@ -8478,6 +8510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inserting a break</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200516Z" creationid="olivier-tdf" creationdate="20250209T200516Z">
+        <seg>Inserir um quebra de página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inserting columns and rows</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121944Z" creationid="olivier" creationdate="20250121T121944Z">
@@ -9642,6 +9682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T182753Z" creationid="timot" creationdate="20250122T182753Z">
         <seg>Navegar por lista no Navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate to the cell where the page break is needed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200541Z" creationid="olivier-tdf" creationdate="20250209T200541Z">
+        <seg>Navegue até a célula onde a quebra de página é necessária.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11458,6 +11506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183535Z" creationid="olivier-tdf" creationdate="20250209T183535Z">
         <seg>Selecione &lt;f0&gt;Proteger esta planilha e o conteúdo das células protegidas&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; to create a horizontal page break above the selected cell or select &lt;f1&gt;Column Break&lt;/f1&gt; to create a vertical page break to the left of the selected cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200633Z" creationid="olivier-tdf" creationdate="20250209T200633Z">
+        <seg>Selecione &lt;f0&gt;Quebra de linha&lt;/f0&gt; para criar uma quebra de página horizontal acima da célula selecionada ou selecione &lt;f1&gt;Quebra de coluna&lt;/f1&gt; para criar uma quebra de página vertical à esquerda da célula selecionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14974,6 +15030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To insert a page break:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200522Z" creationid="olivier-tdf" creationdate="20250209T200522Z">
+        <seg>Inserir quebras de página:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To insert an image into a file, create new gallery themes, or add a new image to the new category, see Chapter 5, Working with Images and Graphics, for more information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T113242Z" creationid="timot" creationdate="20250114T113242Z">
@@ -15130,6 +15194,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T010313Z" creationid="tulio" creationdate="20250116T001612Z">
         <seg>Para reduzir o número de arquivos exibidos no centro de partida, selecione um módulo do LibreOffice na lista suspensa &lt;f0&gt;Filtro&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remove a page break:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200725Z" creationid="olivier-tdf" creationdate="20250209T200725Z">
+        <seg>Para remover uma quebra de página:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17170,6 +17242,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T185414Z" creationid="olivier-tdf" creationdate="20250209T185414Z">
         <seg>Você pode inserir uma anotação por qualquer uma das seguintes ações:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can insert a horizontal page break above or a vertical page break to the left of the active cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200453Z" creationid="olivier-tdf" creationdate="20250209T200453Z">
+        <seg>Você pode inserir uma quebra de página horizontal acima ou uma quebra de página vertical à esquerda da célula ativa.</seg>
       </tuv>
     </tu>
     <tu>
