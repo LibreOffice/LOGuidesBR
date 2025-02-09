@@ -2622,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, comments will remain hidden and only appear when you hover the mouse over a cell &lt;t0/&gt;that contains a comment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T185954Z" creationid="olivier-tdf" creationdate="20250209T185954Z">
+        <seg>Por padrão, os comentários permanecerão ocultos e só aparecerão quando você passar o mouse sobre uma célula &lt;t0/&gt;que contém um comentário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, each new spreadsheet is created with one sheet named &lt;f0&gt;Sheet1&lt;/f0&gt; and you can create additional sheets as needed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121331Z" creationid="olivier-tdf" creationdate="20250117T121331Z">
@@ -3026,6 +3034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125619Z" creationid="olivier-tdf" creationdate="20250114T125619Z">
         <seg>As células contêm os elementos individuais - texto, números, fórmulas e assim por diante - que constituem os dados a serem exibidos e manipulados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cells that contain comments are marked with a colored triangle in the upper right corner.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T185831Z" creationid="olivier-tdf" creationdate="20250209T185831Z">
+        <seg>As células que contêm anotações são marcadas com um triângulo colorido no canto superior direito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,6 +3906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213301Z" creationid="olivier" creationdate="20250123T213301Z">
         <seg>Clicar fora da célula aceitará a conclusão e selecionará a célula clicada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking the &lt;f0&gt;Insert Comment&lt;/f0&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T185814Z" creationid="olivier-tdf" creationdate="20250209T185814Z">
+        <seg>Clique no ícone &lt;f0&gt;Inserir anotação&lt;/f0&gt; na barra de ferramentas padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10130,6 +10154,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011653Z" creationid="olivier" creationdate="20250124T011653Z">
         <seg>Pressione a tecla &lt;f0&gt;Backspace&lt;/f0&gt; ou clique com o botão direito do mouse na seleção de célula e escolha &lt;f1&gt;Limpar conteúdo&lt;/f1&gt; no menu de contexto ou selecione &lt;f2&gt;Planilha &gt; Limpar células &lt;/f2&gt;na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pressing &lt;f0&gt;Ctrl+Alt+C.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T185744Z" creationid="olivier-tdf" creationdate="20250209T185744Z">
+        <seg>Tecle &lt;f0&gt;Ctrl+Alt+C.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
