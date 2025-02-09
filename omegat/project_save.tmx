@@ -1894,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After the print ranges have been removed, the default page break lines will appear on the screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194829Z" creationid="olivier-tdf" creationdate="20250209T194829Z">
+        <seg>Depois que o intervalo de impressão for removido, as linhas de quebra de página padrão aparecerão na tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After you have added information, you can then sort the records to update the spreadsheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T184409Z" creationid="olivier-tdf" creationdate="20250209T184409Z">
@@ -2434,6 +2442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122725Z" creationid="olivier-tdf" creationdate="20250117T122725Z">
         <seg>Ao selecionar e desmarcar opções na parte superior da caixa de diálogo Importação de texto, use a área de visualização na parte inferior da caixa de diálogo para verificar se o layout dos dados importados está conforme o esperado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At any time, you can directly edit the print range, for example to remove or resize part of the print range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194859Z" creationid="olivier-tdf" creationdate="20250209T194859Z">
+        <seg>A qualquer momento, você pode editar diretamente o intervalo de impressão, por exemplo, para remover ou redimensionar parte do intervalo de impressão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,6 +3002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194344Z" creationid="olivier-tdf" creationdate="20250209T194344Z">
         <seg>O Calc exibirá apenas as células no intervalo de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc will display the print ranges as separate pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194627Z" creationid="olivier-tdf" creationdate="20250209T194627Z">
+        <seg>O Calc exibirá os intervalos de impressão como páginas separadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4890,6 +4914,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T211007Z" creationid="olivier" creationdate="20250123T211007Z">
         <seg>Edite a tabela de substituição para corrigir ou substituir automaticamente palavras ou abreviações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Editing a print range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194832Z" creationid="olivier-tdf" creationdate="20250209T194832Z">
+        <seg>Editar um intervalo de impressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -8598,6 +8630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It may become necessary to remove a defined print range, for example, if the whole sheet needs to be printed later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194724Z" creationid="olivier-tdf" creationdate="20250209T194724Z">
+        <seg>Pode ser necessário remover um intervalo de impressão definido, por exemplo, se a planilha inteira precisar ser impressa posteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It provides brief explanations on their use and syntax, but does not provide the search or data entry capabilities of the full wizard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190824Z" creationid="olivier-tdf" creationdate="20250209T190824Z">
@@ -10682,6 +10722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173836Z" creationid="tulio" creationdate="20250119T173836Z">
         <seg>Solte a alça da barra de ferramentas e a paleta de ferramentas se torna uma barra de ferramentas flutuante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Removing a print range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194645Z" creationid="olivier-tdf" creationdate="20250209T194645Z">
+        <seg>Remover intervalos de impressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -12926,6 +12974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The additional print range will print as a separate page, even if both ranges are on the same sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194641Z" creationid="olivier-tdf" creationdate="20250209T194641Z">
+        <seg>O intervalo de impressão adicional será impresso como uma página separada, mesmo que ambos os intervalos estejam na mesma planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The character count includes spaces.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200802Z" creationid="timot" creationdate="20250111T200802Z">
@@ -14430,6 +14486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To check the print ranges, go to &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt; on the Menu bar, press &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt;, or click the &lt;f2&gt;Toggle Print Preview&lt;/f2&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194616Z" creationid="olivier-tdf" creationdate="20250209T194616Z">
+        <seg>Para verificar o intervalo de impressão, acesse &lt;f0&gt;Arquivo &gt; Visualizar impressão&lt;/f0&gt; na barra de menu, pressione &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt; ou clique no ícone &lt;f2&gt;Alternar visualização de impressão&lt;/f2&gt; na barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To choose new information to display, or to alter the layout of the existing information, right-click anywhere in the existing pivot table to bring up the context menu and choose &lt;f0&gt;Properties&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T193211Z" creationid="olivier-tdf" creationdate="20250209T193211Z">
@@ -14906,6 +14970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225252Z" creationid="olivier-tdf" creationdate="20250122T225252Z">
         <seg>Para remover uma visualização dividida, siga um destes procedimentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remove all the defined print ranges, go to &lt;f0&gt;Format &gt; Print Ranges &gt; Clear&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194746Z" creationid="olivier-tdf" creationdate="20250209T194746Z">
+        <seg>Para remover todos os intervalos de impressão definidos, acesse &lt;f0&gt;Formatar &gt; Intervalos de impressão &gt; Limpar&lt;/f0&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
