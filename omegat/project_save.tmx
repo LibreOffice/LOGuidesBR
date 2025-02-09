@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;AutoFilter&lt;/f0&gt; – the most straightforward filter type, providing access to a combo box through arrowhead buttons located at the top of one or more data columns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172427Z" creationid="olivier-tdf" creationdate="20250209T172427Z">
+        <seg>&lt;f0&gt;Autofiltro&lt;/f0&gt; – o tipo de filtro mais simples, fornecendo acesso a uma caixa de combinação através de botões de seta localizados na parte superior de uma ou mais colunas de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Cell Appearance:&lt;/f0&gt; Options for controlling the appearance of cells, including background color and border formats.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214231Z" creationid="olivier-tdf" creationdate="20250116T214231Z">
@@ -1530,6 +1538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172317Z" creationid="tulio" creationdate="20250119T172317Z">
         <seg>Uma barra de ferramentas acoplada é anexada à janela principal do documento, enquanto as barras de ferramentas flutuantes são independentes da janela principal e podem ser movidas para qualquer lugar na tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A filter is a tool that hides or displays records within a sheet based on a set of filtering conditions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172325Z" creationid="olivier-tdf" creationdate="20250209T172325Z">
+        <seg>Um filtro é uma ferramenta que oculta ou exibe registros dentro de uma planilha com base em um conjunto de condições de filtragem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,6 +3830,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conditional formatting also allows you to add graphic icons and data bars to the cell background.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172209Z" creationid="olivier-tdf" creationdate="20250209T172209Z">
+        <seg>A formatação condicional também permite adicionar ícones gráficos e barras de dados ao plano de fundo da célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conditional formatting depends upon the use of styles, and the AutoCalculate feature (&lt;f0&gt;Data &gt; Calculate &gt; AutoCalculate&lt;/f0&gt;) must be enabled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172254Z" creationid="olivier-tdf" creationdate="20250209T172254Z">
+        <seg>A formatação condicional depende do uso de estilos e o recurso de Cálculo Automático (&lt;f0&gt;Dados &gt; Calcular &gt; Cálculo automático&lt;/f0&gt;) deve estar ativado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Confirm File Format dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T124645Z" creationid="olivier-tdf" creationdate="20250117T124645Z">
@@ -5450,6 +5482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220335Z" creationid="olivier" creationdate="20250123T220335Z">
         <seg>Preencher células de texto com listas de seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filtering data</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172313Z" creationid="olivier-tdf" creationdate="20250209T172313Z">
+        <seg>Filtrar dados</seg>
       </tuv>
     </tu>
     <tu>
@@ -7386,6 +7426,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213547Z" creationid="olivier-tdf" creationdate="20250109T213547Z">
         <seg>Em &lt;f0&gt;Tema de ícones&lt;/f0&gt;, selecione uma das opções disponíveis na lista suspensa, conforme mostrado na Figura &lt;t1&gt;2&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In Calc, three types of filter exist:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172403Z" creationid="olivier-tdf" creationdate="20250209T172403Z">
+        <seg>No Calc, existem três tipos de filtro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10398,6 +10446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Chapter 4, Formatting Data, in the &lt;f1&gt;Calc Guide&lt;/f1&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172309Z" creationid="olivier-tdf" creationdate="20250209T172309Z">
+        <seg>Consulte o Capítulo 4, Formatação de Dados, no &lt;f1&gt;Guia do Calc&lt;/f1&gt; para obter detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Chapter 4, Working with Styles, Templates, and Hyperlinks, for more information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T112007Z" creationid="timot" creationdate="20250114T112007Z">
@@ -11290,6 +11346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105954Z" creationid="timot" creationdate="20250113T105954Z">
         <seg>Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Similar to sorting, filters are useful for narrowing down long lists of data in order to find particular data items.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172344Z" creationid="olivier-tdf" creationdate="20250209T172344Z">
+        <seg>Semelhante à ordenação, os filtros são úteis para restringir longas listas de dados, a fim de encontrar itens de dados específicos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13034,6 +13098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114523Z" creationid="olivier-tdf" creationdate="20250109T114523Z">
         <seg>Este livro foi escrito por voluntários da comunidade LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This box provides options for basic sorting (ascending and descending); sorting by background or font color; filtering by background or font color; filtering by condition (empty, not empty, top 10, and bottom 10); and others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172507Z" creationid="olivier-tdf" creationdate="20250209T172507Z">
+        <seg>Esta caixa fornece opções para classificação básica (ascendente e descendente); classificação por plano de fundo ou cor da fonte; filtragem por plano de fundo ou cor da fonte; filtragem por condição (vazio, não vazio, 10 mais e 10 menos); e outros.</seg>
       </tuv>
     </tu>
     <tu>
