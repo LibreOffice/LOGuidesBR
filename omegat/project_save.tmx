@@ -1862,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After print ranges have been defined, they are formatted with automatic page breaks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194035Z" creationid="olivier-tdf" creationdate="20250209T194035Z">
+        <seg>Após a definição dos intervalos de impressão, eles são formatados com quebras de página automáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After you have added information, you can then sort the records to update the spreadsheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T184409Z" creationid="olivier-tdf" creationdate="20250209T184409Z">
@@ -2474,6 +2482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195505Z" creationid="timot" creationdate="20250111T195505Z">
         <seg>Sumários e índices automatizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatic page break lines are displayed on screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194247Z" creationid="olivier-tdf" creationdate="20250209T194247Z">
+        <seg>As linhas de quebra de página automáticas são exibidas na tela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4358,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defining a print range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194139Z" creationid="olivier-tdf" creationdate="20250209T194139Z">
+        <seg>Definir um intervalo de impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete Cells dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154239Z" creationid="olivier" creationdate="20250121T154239Z">
@@ -6190,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information about using print ranges, see Chapter 7, Printing, Exporting, Emailing, and Signing in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194117Z" creationid="olivier-tdf" creationdate="20250209T194117Z">
+        <seg>Para obter mais informações sobre como usar intervalos de impressão, consulte o Capítulo 7, Imprimir, Exportar, Enviar por E-mail e Assinar no &lt;f0&gt;Guia do Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on floating and docking toolbars, see Chapter 1, LibreOffice Basics.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112821Z" creationid="timot" creationdate="20250202T112821Z">
@@ -6786,6 +6818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230407Z" creationid="olivier-tdf" creationdate="20250122T230407Z">
         <seg>Acesse &lt;f0&gt;Formatar &gt; células&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Define&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194237Z" creationid="olivier-tdf" creationdate="20250209T194237Z">
+        <seg>Acesse &lt;f0&gt;Formatar &gt; Intervalos de impressão &gt; Definir&lt;/f0&gt; na barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10414,10 +10454,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Print ranges</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194057Z" creationid="olivier-tdf" creationdate="20250209T194057Z">
+        <seg>Intervalos de impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Print ranges can be used to print a specific part of the data and print selected rows or columns on every page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194107Z" creationid="olivier-tdf" creationdate="20250209T194107Z">
+        <seg>Os intervalos de impressão podem ser usados para imprimir uma parte específica dos dados e imprimir linhas ou colunas selecionadas em cada página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114501Z" creationid="olivier-tdf" creationdate="20250109T114501Z">
         <seg>Impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Printing from Calc is similar to &lt;s0/&gt;printing from other LibreOffice components (see Chapter 1, LibreOffice Basics), but some details of printing in Calc are different, especially regarding preparation for printing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194032Z" creationid="olivier-tdf" creationdate="20250209T194032Z">
+        <seg>Imprimir a partir do Calc é semelhante a &lt;s0/&gt;imprimir a partir de outros componentes do LibreOffice (consulte o Capítulo 1, Noções básicas do LibreOffice), mas alguns detalhes da impressão no Calc são diferentes, especialmente em relação à preparação para impressão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11546,6 +11610,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T211115Z" creationid="olivier" creationdate="20250123T211115Z">
         <seg>Selecione as opções para corrigir erros automaticamente à medida que você digita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the range of cells to be included in the print range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194204Z" creationid="olivier-tdf" creationdate="20250209T194204Z">
+        <seg>Selecione o intervalo de células a serem incluídas no intervalo de impressão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14366,6 +14438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To define a new print range or modify an existing print range:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194147Z" creationid="olivier-tdf" creationdate="20250209T194147Z">
+        <seg>Para definir um novo intervalo de impressão ou modificar um intervalo de impressão existente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To define your own sort list, which can later be used as a fill series:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220102Z" creationid="olivier" creationdate="20250123T220020Z">
@@ -15090,6 +15170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213553Z" creationid="olivier" creationdate="20250123T213553Z">
         <seg>Para exibir mais conclusões que começam com as mesmas letras, use as combinações de teclas &lt;f0&gt;Ctrl+Tab&lt;/f0&gt; para rolar para frente ou &lt;f1&gt;Ctrl+Shift+Tab&lt;/f1&gt; para rolar para trás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To view the page breaks, go to &lt;f0&gt;View &gt; Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194050Z" creationid="olivier-tdf" creationdate="20250209T194050Z">
+        <seg>Para visualizar as quebras de página, vá para &lt;f0&gt;Visualizar &gt; Quebra de página&lt;/f0&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
