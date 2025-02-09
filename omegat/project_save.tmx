@@ -392,8 +392,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Find deck&lt;/f0&gt;: Type a search term or phrase in the box at the top, then press &lt;f1&gt;Enter&lt;/f1&gt; to display a list of the results and their context.&lt;f2&gt; For more information, see page &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250114T114507Z" creationid="timot" creationdate="20250114T114507Z">
-        <seg>&lt;f0&gt;Deque pesquisar&lt;/f0&gt;: digite um termo de pesquisa ou frase na caixa que se encontra na parte superior e pressione&lt;f1&gt;Enter&lt;/f1&gt; para exibir uma lista dos resultados e seu contexto.&lt;f2&gt; Para mais informações, consulte a página&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="timot" creationdate="20250114T114507Z">
+        <seg>&lt;f0&gt;Deque pesquisar&lt;/f0&gt;: digite um termo de pesquisa ou frase na caixa que se encontra na parte superior e tecle&lt;f1&gt;Enter&lt;/f1&gt; para exibir uma lista dos resultados e seu contexto.&lt;f2&gt; Para mais informações, consulte a página&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3432,8 +3432,8 @@
       <tuv lang="en-US">
         <seg>Choose &lt;f0&gt;File &gt; Open &lt;/f0&gt;on the Menu bar, click the &lt;f1&gt;Open&lt;/f1&gt; icon on the Standard toolbar, or press &lt;f2&gt;Ctrl+O&lt;/f2&gt;, and then locate the CSV file.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122304Z" creationid="olivier-tdf" creationdate="20250117T122304Z">
-        <seg>Escolha &lt;f0&gt;Arquivo &gt; Abrir&lt;/f0&gt; na barra de menus, clique no ícone &lt;f1&gt;Abrir&lt;/f1&gt; na barra de ferramentas padrão ou pressione &lt;f2&gt;Ctrl+O&lt;/f2&gt; e localize o arquivo CSV que deseja abrir.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier-tdf" creationdate="20250117T122304Z">
+        <seg>Escolha &lt;f0&gt;Arquivo &gt; Abrir&lt;/f0&gt; na barra de menus, clique no ícone &lt;f1&gt;Abrir&lt;/f1&gt; na barra de ferramentas padrão ou tecle &lt;f2&gt;Ctrl+O&lt;/f2&gt; e localize o arquivo CSV que deseja abrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3480,8 +3480,8 @@
       <tuv lang="en-US">
         <seg>Choose the &lt;f0&gt;Sheet &gt; Delete Cells command&lt;/f0&gt;, press &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;-&lt;/f2&gt;, or right-click on a cell and select &lt;f3&gt;Delete&lt;/f3&gt; in the context menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250121T154110Z">
-        <seg>Selecione &lt;f0&gt;Planilha &gt; Excluir células&lt;/f0&gt;, pressione &lt;f1&gt;Ctrl+-&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, ou clique com o botão direito numa das células selecionadas e selecione &lt;f3&gt;Excluir&lt;/f3&gt; no menu de contexto.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier" creationdate="20250121T154110Z">
+        <seg>Selecione &lt;f0&gt;Planilha &gt; Excluir células&lt;/f0&gt;, tecle &lt;f1&gt;Ctrl+-&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, ou clique com o botão direito numa das células selecionadas e selecione &lt;f3&gt;Excluir&lt;/f3&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3712,8 +3712,8 @@
       <tuv lang="en-US">
         <seg>Click in the cell to select it and press &lt;f0&gt;F2&lt;/f0&gt; to enter cell edit mode.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T230347Z" creationid="olivier" creationdate="20250123T230347Z">
-        <seg>Clique na célula para selecioná-la e pressione &lt;f0&gt;F2&lt;/f0&gt; para entrar no modo de edição de célula.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier" creationdate="20250123T230347Z">
+        <seg>Clique na célula para selecioná-la e tecle &lt;f0&gt;F2&lt;/f0&gt; para entrar no modo de edição de célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5136,8 +5136,8 @@
       <tuv lang="en-US">
         <seg>Enter the URL of the HTML document or the name of the spreadsheet, then press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T001929Z" creationid="olivier" creationdate="20250120T001929Z">
-        <seg>Digite a URL do documento HTML ou o nome da planilha e pressione &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier" creationdate="20250120T001929Z">
+        <seg>Digite a URL do documento HTML ou o nome da planilha e tecle &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7024,8 +7024,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Edit &gt; Paste Special &gt; Paste Special&lt;/f0&gt; on the Menu bar, or press &lt;f1&gt;Ctrl+Shift+V&lt;/f1&gt;, or right-click and select &lt;f2&gt;Paste Special &gt; Paste Special&lt;/f2&gt; in the context menu to open the Paste Special dialog (Figure &lt;t3&gt;31&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T010926Z" creationid="olivier" creationdate="20250124T010926Z">
-        <seg>Acesse &lt;f0&gt;Editar &gt; Colar Especial &gt; Colar Especial&lt;/f0&gt; na barra de menus ou pressione &lt;f1&gt;Ctrl+Shift+V&lt;/f1&gt; ou clique com o botão direito do mouse e selecione &lt;f2&gt;Colar Especial &gt; Colar Especial&lt;/f2&gt; no menu de contexto para abrir a caixa de diálogo Colar Especial (Figura &lt;t3&gt;31&lt;/t3&gt;).</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier" creationdate="20250124T010926Z">
+        <seg>Acesse &lt;f0&gt;Editar &gt; Colar Especial &gt; Colar Especial&lt;/f0&gt; na barra de menus ou tecle &lt;f1&gt;Ctrl+Shift+V&lt;/f1&gt; ou clique com o botão direito do mouse e selecione &lt;f2&gt;Colar Especial &gt; Colar Especial&lt;/f2&gt; no menu de contexto para abrir a caixa de diálogo Colar Especial (Figura &lt;t3&gt;31&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7968,8 +7968,8 @@
       <tuv lang="en-US">
         <seg>If you do not like the results, click the &lt;f2&gt;Undo&lt;/f2&gt; button or press &lt;f3&gt;Ctrl+Z&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250202T112223Z" creationid="timot" creationdate="20250202T112223Z">
-        <seg>Se os resultados não são aceitáveis, clique no botão &lt;f2&gt;Desfazer&lt;/f2&gt; ou pressione &lt;f3&gt;Ctrl+Z.&lt;/f3&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="timot" creationdate="20250202T112223Z">
+        <seg>Se os resultados não são aceitáveis, clique no botão &lt;f2&gt;Desfazer&lt;/f2&gt; ou tecle &lt;f3&gt;Ctrl+Z.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8136,8 +8136,8 @@
       <tuv lang="en-US">
         <seg>If you want to use paragraphs, press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; to create another paragraph.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204035Z" creationid="olivier" creationdate="20250123T204035Z">
-        <seg>Se quiser usar parágrafos, pressione &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; para criar outro parágrafo.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier" creationdate="20250123T204035Z">
+        <seg>Se quiser usar parágrafos, tecle &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; para criar outro parágrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11248,8 +11248,8 @@
       <tuv lang="en-US">
         <seg>Right-click and select &lt;f0&gt;Selection Lists&lt;/f0&gt; in the context menu, or press &lt;f1&gt;Alt+Down Arrow&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220423Z" creationid="olivier" creationdate="20250123T220423Z">
-        <seg>Clique com o botão direito do mouse e selecione &lt;f0&gt;Listas de seleção&lt;/f0&gt; no menu de contexto ou pressione &lt;f1&gt;Alt+Seta para baixo&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier" creationdate="20250123T220423Z">
+        <seg>Clique com o botão direito do mouse e selecione &lt;f0&gt;Listas de seleção&lt;/f0&gt; no menu de contexto ou tecle &lt;f1&gt;Alt+Seta para baixo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11856,8 +11856,8 @@
       <tuv lang="en-US">
         <seg>Select a range of cells across the columns or rows you want to delete, right-click and select &lt;f0&gt;Delete&lt;/f0&gt; in the context menu, select &lt;f1&gt;Sheet &gt; Delete Cells&lt;/f1&gt; on the Menu bar, or press &lt;f2&gt;Ctrl+-&lt;/f2&gt; to open the Delete Cells dialog (Figure &lt;t3&gt;18&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153252Z" creationid="olivier" creationdate="20250121T153252Z">
-        <seg>Selecione um intervalo de células nas colunas ou linhas que deseja excluir, clique com o botão direito e selecione &lt;f0&gt;Excluir&lt;/f0&gt; no menu de contexto, selecione &lt;f1&gt;Planilha &gt; Excluir células&lt;/f1&gt; na barra de menus ou pressione &lt;f2&gt;Ctrl+-&lt;/f2&gt; para abrir a caixa de diálogo Excluir células (Figura &lt;t3&gt;18&lt;/t3&gt;).</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier" creationdate="20250121T153252Z">
+        <seg>Selecione um intervalo de células nas colunas ou linhas que deseja excluir, clique com o botão direito e selecione &lt;f0&gt;Excluir&lt;/f0&gt; no menu de contexto, selecione &lt;f1&gt;Planilha &gt; Excluir células&lt;/f1&gt; na barra de menus ou tecle &lt;f2&gt;Ctrl+-&lt;/f2&gt; para abrir a caixa de diálogo Excluir células (Figura &lt;t3&gt;18&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14960,16 +14960,16 @@
       <tuv lang="en-US">
         <seg>To check the print range, go to &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt; on the Menu bar, press &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt;, or click the &lt;f2&gt;Toggle Print Preview&lt;/f2&gt; icon on the Standard toolbar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194339Z" creationid="olivier-tdf" creationdate="20250209T194339Z">
-        <seg>Para verificar o intervalo de impressão, acesse &lt;f0&gt;Arquivo &gt; Visualizar impressão&lt;/f0&gt; na barra de menu, pressione &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt; ou clique no ícone &lt;f2&gt;Alternar visualização de impressão&lt;/f2&gt; na barra de ferramentas Padrão.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier-tdf" creationdate="20250209T194339Z">
+        <seg>Para verificar o intervalo de impressão, acesse &lt;f0&gt;Arquivo &gt; Visualizar impressão&lt;/f0&gt; na barra de menu, tecle &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt; ou clique no ícone &lt;f2&gt;Alternar visualização de impressão&lt;/f2&gt; na barra de ferramentas Padrão.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>To check the print ranges, go to &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt; on the Menu bar, press &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt;, or click the &lt;f2&gt;Toggle Print Preview&lt;/f2&gt; icon on the Standard toolbar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194616Z" creationid="olivier-tdf" creationdate="20250209T194616Z">
-        <seg>Para verificar o intervalo de impressão, acesse &lt;f0&gt;Arquivo &gt; Visualizar impressão&lt;/f0&gt; na barra de menu, pressione &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt; ou clique no ícone &lt;f2&gt;Alternar visualização de impressão&lt;/f2&gt; na barra de ferramentas Padrão.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier-tdf" creationdate="20250209T194616Z">
+        <seg>Para verificar o intervalo de impressão, acesse &lt;f0&gt;Arquivo &gt; Visualizar impressão&lt;/f0&gt; na barra de menu, tecle &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt; ou clique no ícone &lt;f2&gt;Alternar visualização de impressão&lt;/f2&gt; na barra de ferramentas Padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15080,8 +15080,8 @@
       <tuv lang="en-US">
         <seg>To delete only the data in a cell or range of cells, without deleting any of the cell formatting, select the cells and then press the &lt;f0&gt;Delete&lt;/f0&gt; key.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211624Z" creationid="olivier" creationdate="20250124T011410Z">
-        <seg>Para excluir apenas os dados numa célula ou intervalo de células, sem excluir nenhuma formatação de célula, selecione as células e pressione a tecla &lt;f0&gt;Delete&lt;/f0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220313Z" creationid="olivier" creationdate="20250124T011410Z">
+        <seg>Para excluir apenas os dados numa célula ou intervalo de células, sem excluir nenhuma formatação de célula, selecione as células e tecle &lt;f0&gt;Delete&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15280,8 +15280,8 @@
       <tuv lang="en-US">
         <seg>To insert a manual line break in a cell, press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250128T205512Z">
-        <seg>Para inserir uma quebra de linha manual numa célula, pressione &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier-tdf" creationdate="20250128T205512Z">
+        <seg>Para inserir uma quebra de linha manual numa célula, tecle &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15336,8 +15336,8 @@
       <tuv lang="en-US">
         <seg>To launch the Function Wizard, click the &lt;f0&gt;Function Wizard&lt;/f0&gt; icon on the Formula bar, select &lt;f1&gt;Insert &gt; Function&lt;/f1&gt; on the Menu bar, or press &lt;f2&gt;Ctrl+F2&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T214744Z" creationid="olivier-tdf" creationdate="20250209T190549Z">
-        <seg>Para iniciar o Assistente de função, clique no ícone &lt;f0&gt;Assistente de função&lt;/f0&gt; na barra de Fórmulas, selecione &lt;f1&gt;Inserir &gt; Função&lt;/f1&gt; na barra de menu ou pressione &lt;f2&gt;Ctrl+F2&lt;/f2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier-tdf" creationdate="20250209T190549Z">
+        <seg>Para iniciar o Assistente de função, clique no ícone &lt;f0&gt;Assistente de função&lt;/f0&gt; na barra de Fórmulas, selecione &lt;f1&gt;Inserir &gt; Função&lt;/f1&gt; na barra de menu ou tecle &lt;f2&gt;Ctrl+F2&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15384,8 +15384,8 @@
       <tuv lang="en-US">
         <seg>To move an entire paragraph up or down in the document, click on the paragraph and press &lt;f0&gt;Ctrl+Alt+Up&lt;/f0&gt; or &lt;f1&gt;Ctrl+Alt+Down&lt;/f1&gt; respectively.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T215053Z" creationid="timot" creationdate="20250202T112057Z">
-        <seg>Para mover um parágrafo inteiro para cima ou para baixo no documento, clique no parágrafo e pressione &lt;f0&gt;Ctrl+Alt+seta para cima&lt;/f0&gt; ou &lt;f1&gt;Ctrl+Alt+seta para baixo&lt;/f1&gt;, respectivamente.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="timot" creationdate="20250202T112057Z">
+        <seg>Para mover um parágrafo inteiro para cima ou para baixo no documento, clique no parágrafo e tecle &lt;f0&gt;Ctrl+Alt+seta para cima&lt;/f0&gt; ou &lt;f1&gt;Ctrl+Alt+seta para baixo&lt;/f1&gt;, respectivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16040,8 +16040,8 @@
       <tuv lang="en-US">
         <seg>Use the keyboard arrow keys to position the cursor where you want to start entering the new data in the cell, then press the &lt;f0&gt;Delete&lt;/f0&gt; key or &lt;f1&gt;Backspace&lt;/f1&gt; key to delete any unwanted data before typing the new data.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225815Z" creationid="olivier" creationdate="20250123T225815Z">
-        <seg>Use as teclas de seta do teclado para posicionar o cursor onde deseja começar a inserir os novos dados na célula e pressione a tecla &lt;f0&gt;Delete&lt;/f0&gt; ou a tecla &lt;f1&gt;Backspace&lt;/f1&gt; para excluir quaisquer dados indesejados antes de digitar os novos dados.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220313Z" creationid="olivier" creationdate="20250123T225815Z">
+        <seg>Use as teclas de seta do teclado para posicionar o cursor onde deseja começar a inserir os novos dados na célula e tecle &lt;f0&gt;Delete&lt;/f0&gt; ou a tecla &lt;f1&gt;Backspace&lt;/f1&gt; para excluir quaisquer dados indesejados antes de digitar os novos dados.</seg>
       </tuv>
     </tu>
     <tu>
