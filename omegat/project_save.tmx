@@ -656,8 +656,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Press Enter to move selection&lt;/f0&gt;: check this option to choose the direction that the cell focus moves after you press the &lt;f1&gt;Enter&lt;/f1&gt; key.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T210943Z" creationid="olivier-tdf" creationdate="20250120T135500Z">
-        <seg>&lt;f0&gt;Pressione Enter para mover a seleção&lt;/f0&gt;: marque esta opção para escolher a direção em que o foco da célula se move após pressionar a tecla &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T221222Z" creationid="olivier-tdf" creationdate="20250120T135500Z">
+        <seg>&lt;f0&gt;Pressione Enter para mover a seleção&lt;/f0&gt;: marque esta opção para escolher a direção em que o foco da célula se move após teclar &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2184,8 +2184,8 @@
       <tuv lang="en-US">
         <seg>Alternatively you can press &lt;f1&gt;Ctrl+A&lt;/f1&gt;, press &lt;f2&gt;Ctrl+Shift+Space&lt;/f2&gt;, or go to &lt;f3&gt;Edit &gt; Select All&lt;/f3&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121030Z" creationid="olivier" creationdate="20250121T121030Z">
-        <seg>Como alternativa, você pode pressionar &lt;f1&gt;Ctrl+A&lt;/f1&gt;, pressionar &lt;f2&gt;Ctrl+Shift+Espaço&lt;/f2&gt; ou ir para &lt;f3&gt;Editar &gt; Selecionar tudo&lt;/f3&gt; na barra de menu.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T221231Z" creationid="olivier" creationdate="20250121T121030Z">
+        <seg>Como alternativa, você pode teclar &lt;f1&gt;Ctrl+A&lt;/f1&gt;, teclar &lt;f2&gt;Ctrl+Shift+Espaço&lt;/f2&gt; ou ir para &lt;f3&gt;Editar &gt; Selecionar tudo&lt;/f3&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8056,8 +8056,8 @@
       <tuv lang="en-US">
         <seg>If you type the name of a named range and press the &lt;f1&gt;Enter&lt;/f1&gt; key, the named range is selected and displayed.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211954Z" creationid="olivier-tdf" creationdate="20250116T211936Z">
-        <seg>Se digitar o nome de um intervalo nomeado e pressionar a tecla &lt;f1&gt;Enter&lt;/f1&gt;, o intervalo nomeado será selecionado e exibido.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T221147Z" creationid="olivier-tdf" creationdate="20250116T211936Z">
+        <seg>Se digitar o nome de um intervalo nomeado teclar &lt;f1&gt;Enter&lt;/f1&gt;, o intervalo nomeado será selecionado e exibido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8504,8 +8504,8 @@
       <tuv lang="en-US">
         <seg>In the &lt;f1&gt;Input line&lt;/f1&gt; of the Formula bar, you can also press &lt;f2&gt;Shift+Enter&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205548Z" creationid="olivier-tdf" creationdate="20250128T205548Z">
-        <seg>Na linha &lt;f1&gt;Entrada&lt;/f1&gt; da barra de fórmulas, você também pode pressionar &lt;f2&gt;Shift+Enter&lt;/f2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T221101Z" creationid="olivier-tdf" creationdate="20250128T205548Z">
+        <seg>Na linha &lt;f1&gt;Entrada&lt;/f1&gt; da barra de fórmulas, você também pode teclar &lt;f2&gt;Shift+Enter&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13912,8 +13912,8 @@
       <tuv lang="en-US">
         <seg>The result of pressing &lt;f0&gt;End&lt;/f0&gt; or &lt;f1&gt;Ctrl+End&lt;/f1&gt; depends on the data contained in the sheet.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T004034Z" creationid="olivier" creationdate="20250120T004034Z">
-        <seg>O resultado de pressionar &lt;f0&gt;End&lt;/f0&gt; ou &lt;f1&gt;Ctrl+End&lt;/f1&gt; depende dos dados contidos na planilha.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T221200Z" creationid="olivier" creationdate="20250120T004034Z">
+        <seg>O resultado de teclar &lt;f0&gt;End&lt;/f0&gt; ou &lt;f1&gt;Ctrl+End&lt;/f1&gt; depende dos dados contidos na planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14224,8 +14224,8 @@
       <tuv lang="en-US">
         <seg>Then, when you press the &lt;f1&gt;Enter &lt;/f1&gt;key in a selected cell, the cell switches to edit mode, eliminating the need to press &lt;f2&gt;F2&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211521Z" creationid="olivier" creationdate="20250123T230250Z">
-        <seg>Então, quando teclar &lt;f1&gt;Enter &lt;/f1&gt; numa célula selecionada, a célula muda para o modo de edição, eliminando a necessidade de pressionar &lt;f2&gt;F2&lt;/f2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T221238Z" creationid="olivier" creationdate="20250123T230250Z">
+        <seg>Então, quando teclar &lt;f1&gt;Enter &lt;/f1&gt; numa célula selecionada, a célula muda para o modo de edição, eliminando a necessidade de teclar &lt;f2&gt;F2&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
