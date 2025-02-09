@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1306,6 +1306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195958Z" creationid="timot" creationdate="20250111T195958Z">
         <seg>&lt;s0&gt;O espaço de trabalho principal do Writer&lt;/s0&gt;&lt;s1&gt;O espaço de trabalho principal do Writer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Theme Selection dialog&lt;/s0&gt;&lt;s1&gt;Theme Selection dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170435Z" creationid="olivier-tdf" creationdate="20250209T170435Z">
+        <seg>&lt;s0&gt;Caixa de diálogo de seleção de tema&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo de seleção de tema&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6214,6 +6222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Spreadsheet Theme&lt;/f0&gt; on the Menu bar or click the &lt;f1&gt;Spreadsheet Theme&lt;/f1&gt; icon on the Tools toolbar to open the Theme Selection dialog (Figure &lt;t2&gt;37&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T165821Z" creationid="olivier-tdf" creationdate="20250209T165821Z">
+        <seg>Vá para &lt;f0&gt;Formatar &gt; Tema de planilha&lt;/f0&gt; na barra de Menu ou clique no ícone &lt;f1&gt;Tema de planilha&lt;/f1&gt; na barra de ferramentas Ferramentas para abrir a caixa de diálogo Seleção de tema (Figura &lt;t2&gt;37&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Format &gt; Text&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Bold&lt;/f1&gt;, &lt;f2&gt;Italic&lt;/f2&gt;, &lt;f3&gt;Single Underline&lt;/f3&gt;, or&lt;f4&gt; Double Underline&lt;/f4&gt; in the submenu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T155548Z" creationid="olivier" creationdate="20250204T155548Z">
@@ -10822,6 +10838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the theme that you want to apply.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T165828Z" creationid="olivier-tdf" creationdate="20250209T165828Z">
+        <seg>Selecione o tema que deseja aplicar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the type of format and format color in the list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164117Z" creationid="olivier" creationdate="20250204T164117Z">
@@ -12530,6 +12554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112016Z" creationid="timot" creationdate="20250202T112016Z">
         <seg>O texto mantém a formatação que tinha antes de ser arrastado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The theme styles are immediately visible on the underlying spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T165838Z" creationid="olivier-tdf" creationdate="20250209T165838Z">
+        <seg>Os estilos de tema são imediatamente visíveis na planilha subjacente.</seg>
       </tuv>
     </tu>
     <tu>
