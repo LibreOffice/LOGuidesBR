@@ -232,8 +232,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Advanced filter&lt;/f0&gt; – filter conditions are stored in a sheet rather than entered into a dialog.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183003Z" creationid="olivier-tdf" creationdate="20250209T183003Z">
-        <seg>&lt;f0&gt;Filtro avançado&lt;/f0&gt; – as condições do filtro são armazenadas em uma folha em vez de serem inseridas em uma caixa de diálogo.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T183003Z">
+        <seg>&lt;f0&gt;Filtro avançado&lt;/f0&gt; – as condições do filtro são armazenadas numa folha em vez de serem inseridas numa caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +384,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Enter key:&lt;/f0&gt; By default, moves the cell focus down in a column to the next row.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003622Z" creationid="olivier" creationdate="20250120T003622Z">
-        <seg>&lt;f0&gt;Tecla Enter:&lt;/f0&gt; normalmente move o foco da célula para baixo em uma coluna para a próxima linha.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T003622Z">
+        <seg>&lt;f0&gt;Tecla Enter:&lt;/f0&gt; normalmente move o foco da célula para baixo numa coluna para a próxima linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +544,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Mouse&lt;/f0&gt; – click on a sheet tab at the bottom of the spreadsheet to select that sheet.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T133619Z" creationid="olivier-tdf" creationdate="20250120T133619Z">
-        <seg>&lt;f0&gt;Mouse&lt;/f0&gt; – clique em uma das abas da planilha na parte inferior do documento de planilha para selecionar essa planilha.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250120T133619Z">
+        <seg>&lt;f0&gt;Mouse&lt;/f0&gt; – clique numa das abas da planilha na parte inferior do documento de planilha para selecionar essa planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,8 +592,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Page Down&lt;/f0&gt; moves the cell focus down one complete screen display.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T004901Z" creationid="olivier" creationdate="20250120T004901Z">
-        <seg>&lt;f0&gt;Page Down:&lt;/f0&gt; move o foco da célula para baixo em uma exibição de tela completa.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T004901Z">
+        <seg>&lt;f0&gt;Page Down:&lt;/f0&gt; move o foco da célula para baixo numa exibição de tela completa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -744,8 +744,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Tab key:&lt;/f0&gt; Moves the cell focus right in a row to the next column.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003846Z" creationid="olivier" creationdate="20250120T003846Z">
-        <seg>&lt;f0&gt;Tecla Tab:&lt;/f0&gt; move o foco da célula em uma linha para a próxima coluna.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T003846Z">
+        <seg>&lt;f0&gt;Tecla Tab:&lt;/f0&gt; move o foco da célula numa linha para a próxima coluna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -848,16 +848,16 @@
       <tuv lang="en-US">
         <seg>&lt;f1&gt;Shift+Enter&lt;/f1&gt; moves the focus up in a column to the previous row.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003639Z" creationid="olivier" creationdate="20250120T003639Z">
-        <seg>&lt;f1&gt;Shift+Enter&lt;/f1&gt; move o foco para cima em uma coluna para a linha anterior.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T003639Z">
+        <seg>&lt;f1&gt;Shift+Enter&lt;/f1&gt; move o foco para cima numa coluna para a linha anterior.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;f1&gt;Shift+Tab&lt;/f1&gt; moves the focus to the left in a row to the previous column.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003855Z" creationid="olivier" creationdate="20250120T003855Z">
-        <seg>&lt;f1&gt;Shift+Tab&lt;/f1&gt; move o foco para a esquerda em uma linha para a coluna anterior.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T003855Z">
+        <seg>&lt;f1&gt;Shift+Tab&lt;/f1&gt; move o foco para a esquerda numa linha para a coluna anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1400,8 +1400,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;The padlock icon in a protected sheet&lt;/s0&gt;&lt;s1&gt;The padlock icon in a protected sheet&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183828Z" creationid="olivier-tdf" creationdate="20250209T183828Z">
-        <seg>&lt;s0&gt;O ícone de cadeado em uma planilha protegida&lt;/s0&gt;&lt;s1&gt; O ícone de cadeado em uma planilha protegida&lt;/s1&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T183828Z">
+        <seg>&lt;s0&gt;O ícone de cadeado numa planilha protegida&lt;/s0&gt;&lt;s1&gt; O ícone de cadeado numa planilha protegida&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,8 +1608,8 @@
       <tuv lang="en-US">
         <seg>A LibreOffice module will become active if you double-click the filename of an ODF document in a folder, or file browser.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011108Z" creationid="tulio" creationdate="20250116T011108Z">
-        <seg>Um módulo do LibreOffice ficará ativo se você clicar duas vezes no nome de um documento ODF em uma pasta ou navegador de arquivos.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="tulio" creationdate="20250116T011108Z">
+        <seg>Um módulo do LibreOffice ficará ativo se você clicar duas vezes no nome de um documento ODF numa pasta ou navegador de arquivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1696,8 +1696,8 @@
       <tuv lang="en-US">
         <seg>A function is a predefined calculation entered in a cell to help you analyze or manipulate data.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190422Z" creationid="olivier-tdf" creationdate="20250209T190422Z">
-        <seg>Uma função é um cálculo predefinido inserido em uma célula para ajudá-lo a analisar ou manipular dados.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T190422Z">
+        <seg>Uma função é um cálculo predefinido inserido numa célula para ajudá-lo a analisar ou manipular dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1784,8 +1784,8 @@
       <tuv lang="en-US">
         <seg>A tool palette is a pop-up collection of tools attached to a single tool on a toolbar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173723Z" creationid="tulio" creationdate="20250119T173723Z">
-        <seg>Uma paleta de ferramentas é uma coleção de ferramentas anexadas a uma única ferramenta em uma barra de ferramentas.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="tulio" creationdate="20250119T173723Z">
+        <seg>Uma paleta de ferramentas é uma coleção de ferramentas anexadas a uma única ferramenta numa barra de ferramentas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1968,8 +1968,8 @@
       <tuv lang="en-US">
         <seg>After selecting &lt;f0&gt;View &gt; Page Break&lt;/f0&gt;, you can right-click on a cell to access a context menu containing &lt;f1&gt;Row Break&lt;/f1&gt; and &lt;f2&gt;Column Break&lt;/f2&gt; options.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200702Z" creationid="olivier-tdf" creationdate="20250209T200702Z">
-        <seg>Depois de selecionar &lt;f0&gt;Exibir &gt; Quebra de página&lt;/f0&gt;, você pode clicar com o botão direito do mouse em uma célula para acessar um menu de contexto contendo as opções &lt;f1&gt;Quebra de linha&lt;/f1&gt; e &lt;f2&gt;Quebra de coluna&lt;/f2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T200702Z">
+        <seg>Depois de selecionar &lt;f0&gt;Exibir &gt; Quebra de página&lt;/f0&gt;, você pode clicar com o botão direito do mouse numa célula para acessar um menu de contexto contendo as opções &lt;f1&gt;Quebra de linha&lt;/f1&gt; e &lt;f2&gt;Quebra de coluna&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2536,8 +2536,8 @@
       <tuv lang="en-US">
         <seg>At any time, you can right-click on an unrecognized word to open a context menu (Figure &lt;t0&gt;15&lt;/t0&gt;), where you can choose one of the suggested words to replace it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250206T010156Z" creationid="timot" creationdate="20250206T010156Z">
-        <seg>A qualquer momento, é possível clicar com o botão direito do mouse em uma palavra não reconhecida para abrir um menu de contexto (Figura&lt;t0&gt;15&lt;/t0&gt;), onde dá para escolher uma das palavras sugeridas para substituí-la.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="timot" creationdate="20250206T010156Z">
+        <seg>A qualquer momento, é possível clicar com o botão direito do mouse numa palavra não reconhecida para abrir um menu de contexto (Figura&lt;t0&gt;15&lt;/t0&gt;), onde dá para escolher uma das palavras sugeridas para substituí-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2680,8 +2680,8 @@
       <tuv lang="en-US">
         <seg>Base provides tools for day-to-day database work within a simple interface.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191820Z" creationid="olivier-tdf" creationdate="20250109T191820Z">
-        <seg>O Base fornece ferramentas para o trabalho diário do banco de dados em uma interface simples.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250109T191820Z">
+        <seg>O Base fornece ferramentas para o trabalho diário do banco de dados numa interface simples.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2768,8 +2768,8 @@
       <tuv lang="en-US">
         <seg>By default, Calc right-aligns the numbers in a cell.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225823Z" creationid="olivier-tdf" creationdate="20250122T225823Z">
-        <seg>Normalmente o Calc alinha à direita os números em uma célula.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250122T225823Z">
+        <seg>Normalmente o Calc alinha à direita os números numa célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2832,8 +2832,8 @@
       <tuv lang="en-US">
         <seg>By default, text is left-aligned in a cell.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204006Z" creationid="olivier" creationdate="20250123T204006Z">
-        <seg>Normalmente o texto é alinhado à esquerda em uma célula.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250123T204006Z">
+        <seg>Normalmente o texto é alinhado à esquerda numa célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,8 +2936,8 @@
       <tuv lang="en-US">
         <seg>Calc can change cell formats depending on user-specified conditions, and those conditions can be imposed in a specified order.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172149Z" creationid="olivier-tdf" creationdate="20250209T172149Z">
-        <seg>O Calc pode alterar os formatos das células dependendo de condições especificadas pelo usuário, e essas condições podem ser impostas em uma ordem especificada.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T172149Z">
+        <seg>O Calc pode alterar os formatos das células dependendo de condições especificadas pelo usuário, e essas condições podem ser impostas numa ordem especificada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2960,8 +2960,8 @@
       <tuv lang="en-US">
         <seg>Calc can save spreadsheets in a range of formats and also export spreadsheets to PDF and XHTML file formats or JPEG, PNG, and WEBP image formats; see Chapter 7, Printing, Exporting, Emailing, and Signing, in the &lt;f0&gt;Calc Guide&lt;/f0&gt; for more information.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123528Z" creationid="olivier-tdf" creationdate="20250117T123528Z">
-        <seg>O Calc pode salvar documento de planilhas em uma variedade de formatos e também exportá-las para os formatos de arquivo PDF e XHTML; consulte o Capítulo 7 Impressão, Exportação, Envio por e-mail e Assinatura no &lt;f0&gt;Guia do Calc&lt;/f0&gt; para obter mais informações.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250117T123528Z">
+        <seg>O Calc pode salvar documento de planilhas numa variedade de formatos e também exportá-las para os formatos de arquivo PDF e XHTML; consulte o Capítulo 7 Impressão, Exportação, Envio por e-mail e Assinatura no &lt;f0&gt;Guia do Calc&lt;/f0&gt; para obter mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3048,8 +3048,8 @@
       <tuv lang="en-US">
         <seg>Calc provides many ways to navigate within a spreadsheet, including methods for moving from cell to cell and sheet to sheet.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T002913Z" creationid="olivier" creationdate="20250120T002913Z">
-        <seg>O Calc fornece muitas maneiras de navegar em uma planilha, incluindo métodos para mover de célula para célula e de planilha para planilha.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T002913Z">
+        <seg>O Calc fornece muitas maneiras de navegar numa planilha, incluindo métodos para mover de célula para célula e de planilha para planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3272,8 +3272,8 @@
       <tuv lang="en-US">
         <seg>Change the icon set used in a LibreOffice installation as follows:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213149Z" creationid="olivier-tdf" creationdate="20250109T213149Z">
-        <seg>Altere o conjunto de ícones usado em uma instalação do LibreOffice da seguinte forma:</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250109T213149Z">
+        <seg>Altere o conjunto de ícones usado numa instalação do LibreOffice da seguinte forma:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3480,8 +3480,8 @@
       <tuv lang="en-US">
         <seg>Choose the &lt;f0&gt;Sheet &gt; Delete Cells command&lt;/f0&gt;, press &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;-&lt;/f2&gt;, or right-click on a cell and select &lt;f3&gt;Delete&lt;/f3&gt; in the context menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154110Z" creationid="olivier" creationdate="20250121T154110Z">
-        <seg>Selecione &lt;f0&gt;Planilha &gt; Excluir células&lt;/f0&gt;, pressione &lt;f1&gt;Ctrl+-&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, ou clique com o botão direito em uma das células selecionadas e selecione &lt;f3&gt;Excluir&lt;/f3&gt; no menu de contexto.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250121T154110Z">
+        <seg>Selecione &lt;f0&gt;Planilha &gt; Excluir células&lt;/f0&gt;, pressione &lt;f1&gt;Ctrl+-&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, ou clique com o botão direito numa das células selecionadas e selecione &lt;f3&gt;Excluir&lt;/f3&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3656,8 +3656,8 @@
       <tuv lang="en-US">
         <seg>Click in a cell.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144324Z" creationid="olivier-tdf" creationdate="20250120T144324Z">
-        <seg>Clique em uma célula.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250120T144324Z">
+        <seg>Clique numa célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3736,8 +3736,8 @@
       <tuv lang="en-US">
         <seg>Click in the cell.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144224Z" creationid="olivier-tdf" creationdate="20250120T144224Z">
-        <seg>Clique em uma célula.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250120T144224Z">
+        <seg>Clique numa célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4904,8 +4904,8 @@
       <tuv lang="en-US">
         <seg>Each deck consists of a title bar and one or more content panels.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250113T110801Z" creationid="timot" creationdate="20250113T110801Z">
-        <seg>Cada deque consiste em uma barra de título e um ou mais painéis de conteúdo.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="timot" creationdate="20250113T110801Z">
+        <seg>Cada deque consiste numa barra de título e um ou mais painéis de conteúdo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5800,8 +5800,8 @@
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: The padlock icon in a protected sheet</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183841Z" creationid="olivier-tdf" creationdate="20250209T183841Z">
-        <seg>Figura &lt;seq0&gt;42&lt;/seq0&gt;: O ícone de cadeado em uma planilha protegida</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T183841Z">
+        <seg>Figura &lt;seq0&gt;42&lt;/seq0&gt;: O ícone de cadeado numa planilha protegida</seg>
       </tuv>
     </tu>
     <tu>
@@ -6144,8 +6144,8 @@
       <tuv lang="en-US">
         <seg>For consistency in a spreadsheet, use cell styles whenever possible.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T211118Z" creationid="olivier-tdf" creationdate="20250128T211118Z">
-        <seg>Para consistência em uma planilha, use estilos de célula sempre que possível.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250128T211118Z">
+        <seg>Para consistência numa planilha, use estilos de célula sempre que possível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8144,8 +8144,8 @@
       <tuv lang="en-US">
         <seg>If you wish to insert a date, the sheet name, or the document name in a cell as a field, do the following:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205538Z" creationid="olivier" creationdate="20250123T205538Z">
-        <seg>Se desejar inserir uma data, o nome da planilha ou o nome do documento em uma célula como um campo, faça o seguinte:</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250123T205538Z">
+        <seg>Se desejar inserir uma data, o nome da planilha ou o nome do documento numa célula como um campo, faça o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9184,8 +9184,8 @@
       <tuv lang="en-US">
         <seg>LibreOffice is a freely available, fully-featured, open source office productivity suite that is compatible with other major office suites and is available on a variety of platforms.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123818Z" creationid="olivier-tdf" creationdate="20250109T123818Z">
-        <seg>O LibreOffice é um pacote de produtividade de escritório gratuito, completo e de código aberto que é compatível com outros grandes pacotes de escritório e está disponível em uma variedade de plataformas.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250109T123818Z">
+        <seg>O LibreOffice é um pacote de produtividade de escritório gratuito, completo e de código aberto que é compatível com outros grandes pacotes de escritório e está disponível numa variedade de plataformas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9800,8 +9800,8 @@
       <tuv lang="en-US">
         <seg>Multiple lines of text can be entered into a single cell using automatic wrapping or manual line breaks.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011928Z" creationid="olivier" creationdate="20250124T011928Z">
-        <seg>Várias linhas de texto podem ser inseridas em uma única célula usando quebra automática ou quebras de linha manuais.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250124T011928Z">
+        <seg>Várias linhas de texto podem ser inseridas numa única célula usando quebra automática ou quebras de linha manuais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11224,8 +11224,8 @@
       <tuv lang="en-US">
         <seg>Right-click a sheet tab and choose &lt;f0&gt;Select All Sheets&lt;/f0&gt; in the context menu, or select &lt;f1&gt;Edit &gt; Select &gt; Select All Sheets&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121845Z" creationid="olivier" creationdate="20250121T121845Z">
-        <seg>Clique com o botão direito em uma aba de planilha e escolha &lt;f0&gt;Selecionar todas as planilhas&lt;/f0&gt; no menu de contexto ou selecione &lt;f1&gt;Editar &gt; Selecionar &gt; Selecionar todas as planilhas&lt;/f1&gt; na barra de menus.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250121T121845Z">
+        <seg>Clique com o botão direito numa aba de planilha e escolha &lt;f0&gt;Selecionar todas as planilhas&lt;/f0&gt; no menu de contexto ou selecione &lt;f1&gt;Editar &gt; Selecionar &gt; Selecionar todas as planilhas&lt;/f1&gt; na barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11264,8 +11264,8 @@
       <tuv lang="en-US">
         <seg>Right-click in an empty space between the icons on a toolbar and select &lt;f0&gt;Close Toolbar&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173500Z" creationid="tulio" creationdate="20250119T173500Z">
-        <seg>Clique com o botão direito do mouse em um espaço vazio entre os ícones em uma barra de ferramentas e selecione &lt;f0&gt;Fechar Barra de Ferramentas&lt;/f0&gt; no menu de contexto.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="tulio" creationdate="20250119T173500Z">
+        <seg>Clique com o botão direito do mouse em um espaço vazio entre os ícones numa barra de ferramentas e selecione &lt;f0&gt;Fechar Barra de Ferramentas&lt;/f0&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11736,8 +11736,8 @@
       <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Use LibreOffice&lt;/f0&gt; dialogs in &lt;f1&gt;Open/Save dialogs&lt;/f1&gt; to display the LibreOffice dialogs on a computer display, as shown in Figure &lt;t2&gt;1&lt;/t2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212609Z" creationid="olivier-tdf" creationdate="20250109T212609Z">
-        <seg>Selecione &lt;f0&gt;Usar caixas de diálogo do LibreOffice&lt;/f0&gt; em &lt;f1&gt;Caixas de diálogo Abrir/Salvar&lt;/f1&gt; para exibir as caixas de diálogo do LibreOffice em uma tela de computador, conforme mostrado na Figura &lt;t2&gt;1&lt;/t2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250109T212609Z">
+        <seg>Selecione &lt;f0&gt;Usar caixas de diálogo do LibreOffice&lt;/f0&gt; em &lt;f1&gt;Caixas de diálogo Abrir/Salvar&lt;/f1&gt; para exibir as caixas de diálogo do LibreOffice numa tela de computador, conforme mostrado na Figura &lt;t2&gt;1&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11792,8 +11792,8 @@
       <tuv lang="en-US">
         <seg>Select a blank cell in a column that contains cells with text entries.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220357Z" creationid="olivier" creationdate="20250123T220357Z">
-        <seg>Selecione uma célula em branco em uma coluna que contenha células com entradas de texto.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250123T220357Z">
+        <seg>Selecione uma célula em branco numa coluna que contenha células com entradas de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12328,8 +12328,8 @@
       <tuv lang="en-US">
         <seg>Selecting items in a spreadsheet</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144215Z" creationid="olivier-tdf" creationdate="20250120T144215Z">
-        <seg>Selecionar itens em uma planilha</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250120T144215Z">
+        <seg>Selecionar itens numa planilha</seg>
       </tuv>
     </tu>
     <tu>
@@ -13632,8 +13632,8 @@
       <tuv lang="en-US">
         <seg>The font size of the data in a cell can automatically adjust to fit inside cell borders.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205703Z" creationid="olivier-tdf" creationdate="20250128T205703Z">
-        <seg>O tamanho da fonte dos dados em uma célula pode ser ajustado automaticamente para caber dentro das bordas da célula.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250128T205703Z">
+        <seg>O tamanho da fonte dos dados numa célula pode ser ajustado automaticamente para caber dentro das bordas da célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13856,8 +13856,8 @@
       <tuv lang="en-US">
         <seg>The padlock icon in a protected sheet</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183857Z" creationid="olivier-tdf" creationdate="20250209T183857Z">
-        <seg>O ícone de cadeado em uma planilha protegida</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T183857Z">
+        <seg>O ícone de cadeado numa planilha protegida</seg>
       </tuv>
     </tu>
     <tu>
@@ -13960,8 +13960,8 @@
       <tuv lang="en-US">
         <seg>The selected document will then be shown in a separate line at the beginning of the list, along with other pinned documents.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tulio" changedate="20250116T010428Z" creationid="tulio" creationdate="20250116T010428Z">
-        <seg>O documento selecionado será exibido em uma linha separada no início da lista, juntamente com outros documentos fixados.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="tulio" creationdate="20250116T010428Z">
+        <seg>O documento selecionado será exibido numa linha separada no início da lista, juntamente com outros documentos fixados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14192,16 +14192,16 @@
       <tuv lang="en-US">
         <seg>Then right-click on one of the selected sheet tabs and select &lt;f0&gt;Hide Sheet&lt;/f0&gt; in the context menu, or go to &lt;f1&gt;Sheet &gt; Hide Sheet&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155858Z" creationid="olivier" creationdate="20250121T155858Z">
-        <seg>Em seguida, clique com o botão direito do mouse em uma das guias de planilha selecionadas e selecione &lt;f0&gt;Ocultar planilha&lt;/f0&gt; no menu de contexto ou vá para &lt;f1&gt;Planilha &gt; Ocultar planilha&lt;/f1&gt; na barra de menu.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250121T155858Z">
+        <seg>Em seguida, clique com o botão direito do mouse numa das guias de planilha selecionadas e selecione &lt;f0&gt;Ocultar planilha&lt;/f0&gt; no menu de contexto ou vá para &lt;f1&gt;Planilha &gt; Ocultar planilha&lt;/f1&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Then right-click on one of the selected sheet tabs and select &lt;f2&gt;Delete Sheet&lt;/f2&gt; in the context menu, or go to &lt;f3&gt;Sheet &gt; Delete Sheet&lt;/f3&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T161042Z" creationid="olivier" creationdate="20250121T161042Z">
-        <seg>Em seguida, clique com o botão direito do mouse em uma das guias de planilha selecionadas e selecione &lt;f2&gt;Excluir planilha&lt;/f2&gt; no menu de contexto ou vá para &lt;f3&gt;Planilha &gt; Excluir planilha&lt;/f3&gt; na barra de menu.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250121T161042Z">
+        <seg>Em seguida, clique com o botão direito do mouse numa das guias de planilha selecionadas e selecione &lt;f2&gt;Excluir planilha&lt;/f2&gt; no menu de contexto ou vá para &lt;f3&gt;Planilha &gt; Excluir planilha&lt;/f3&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14288,8 +14288,8 @@
       <tuv lang="en-US">
         <seg>Therefore, some illustrations will not look exactly like what is seen on a computer display.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212355Z" creationid="olivier-tdf" creationdate="20250109T212355Z">
-        <seg>Portanto, algumas ilustrações não se parecerão exatamente com o que é visto em uma tela de computador.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250109T212355Z">
+        <seg>Portanto, algumas ilustrações não se parecerão exatamente com o que é visto numa tela de computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14624,8 +14624,8 @@
       <tuv lang="en-US">
         <seg>This makes it easy to see how changing the number in one cell affects each of the formulas.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223532Z" creationid="olivier-tdf" creationdate="20250122T223532Z">
-        <seg>Isso torna mais fácil ver como a alteração do número em uma célula afeta cada uma das fórmulas.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250122T223532Z">
+        <seg>Isso torna mais fácil ver como a alteração do número numa célula afeta cada uma das fórmulas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14808,8 +14808,8 @@
       <tuv lang="en-US">
         <seg>To automatically wrap multiple lines of text in a cell, use one of the following methods:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T012005Z" creationid="olivier" creationdate="20250124T012005Z">
-        <seg>Para quebrar automaticamente várias linhas de texto em uma célula, use um dos seguintes métodos:</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250124T012005Z">
+        <seg>Para quebrar automaticamente várias linhas de texto numa célula, use um dos seguintes métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14872,8 +14872,8 @@
       <tuv lang="en-US">
         <seg>To change the default name for a sheet (Sheet1, Sheet2, and so on), right-click on a sheet tab and select &lt;f0&gt;Rename Sheet&lt;/f0&gt; in the context menu, to open the Rename Sheet dialog where you can type a new name for the sheet.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121541Z" creationid="olivier-tdf" creationdate="20250117T121541Z">
-        <seg>Para alterar o nome padrão de uma planilha (Planilha1, Planilha2 e assim por diante), clique com o botão direito do mouse em uma guia de planilha e selecione &lt;f0&gt;Renomear planilha&lt;/f0&gt; no menu de contexto, para abrir a caixa de diálogo Renomear planilha, onde você pode digitar um novo nome para a planilha.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250117T121541Z">
+        <seg>Para alterar o nome padrão de uma planilha (Planilha1, Planilha2 e assim por diante), clique com o botão direito do mouse numa guia de planilha e selecione &lt;f0&gt;Renomear planilha&lt;/f0&gt; no menu de contexto, para abrir a caixa de diálogo Renomear planilha, onde você pode digitar um novo nome para a planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15016,8 +15016,8 @@
       <tuv lang="en-US">
         <seg>To completely replace data in a cell, select the cell and type in the new data.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225114Z" creationid="olivier" creationdate="20250123T225114Z">
-        <seg>Para substituir completamente os dados em uma célula, selecione a célula e digite os novos dados.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250123T225114Z">
+        <seg>Para substituir completamente os dados numa célula, selecione a célula e digite os novos dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15080,8 +15080,8 @@
       <tuv lang="en-US">
         <seg>To delete only the data in a cell or range of cells, without deleting any of the cell formatting, select the cells and then press the &lt;f0&gt;Delete&lt;/f0&gt; key.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011410Z" creationid="olivier" creationdate="20250124T011410Z">
-        <seg>Para excluir apenas os dados em uma célula ou intervalo de células, sem excluir nenhuma formatação de célula, selecione as células e pressione a tecla &lt;f0&gt;Delete&lt;/f0&gt; .</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250124T011410Z">
+        <seg>Para excluir apenas os dados numa célula ou intervalo de células, sem excluir nenhuma formatação de célula, selecione as células e pressione a tecla &lt;f0&gt;Delete&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -15168,8 +15168,8 @@
       <tuv lang="en-US">
         <seg>To enter text in a cell, click in the cell and type.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203949Z" creationid="olivier" creationdate="20250123T203949Z">
-        <seg>Para inserir texto em uma célula, clique na célula e digite.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250123T203949Z">
+        <seg>Para inserir texto numa célula, clique na célula e digite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15216,24 +15216,24 @@
       <tuv lang="en-US">
         <seg>To freeze the first column in a sheet go to &lt;f0&gt;View &gt; Freeze Cells &gt; Freeze First Column&lt;/f0&gt; on the Menu bar, or click the down arrow to the right of the &lt;f1&gt;Freeze Rows and Column&lt;/f1&gt; icon on the Standard toolbar and select &lt;f2&gt;Freeze First Column&lt;/f2&gt; in the drop-down menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250122T183030Z" creationid="olivier" creationdate="20250122T182714Z">
-        <seg>Para fixar a primeira coluna em uma planilha, vá para &lt;f0&gt;Exibir &gt; Fixar células &gt; Fixar primeira coluna&lt;/f0&gt; na barra de menu ou clique na seta para baixo à direita do ícone &lt;f1&gt;Fixar linhas e colunas&lt;/f1&gt; na barra de ferramentas padrão e selecione &lt;f2&gt;Fixar primeira coluna&lt;/f2&gt; no menu suspenso.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250122T182714Z">
+        <seg>Para fixar a primeira coluna numa planilha, vá para &lt;f0&gt;Exibir &gt; Fixar células &gt; Fixar primeira coluna&lt;/f0&gt; na barra de menu ou clique na seta para baixo à direita do ícone &lt;f1&gt;Fixar linhas e colunas&lt;/f1&gt; na barra de ferramentas padrão e selecione &lt;f2&gt;Fixar primeira coluna&lt;/f2&gt; no menu suspenso.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>To freeze the first row in a sheet go to &lt;f0&gt;View &gt; Freeze Cells &gt; Freeze First Row&lt;/f0&gt; on the Menu bar, or click the down arrow to the right of the &lt;f1&gt;Freeze Rows and Column&lt;/f1&gt; icon on the Standard toolbar and select &lt;f2&gt;Freeze First Row&lt;/f2&gt; in the drop-down menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250122T183152Z" creationid="olivier" creationdate="20250122T183152Z">
-        <seg>Para fixar a primeira linha em uma planilha, vá para &lt;f0&gt;Exibir &gt; Fixar células &gt; Fixar primeira linha&lt;/f0&gt; na barra de menu ou clique na seta para baixo à direita do ícone &lt;f1&gt;Fixar linhas e colunas&lt;/f1&gt; na barra de ferramentas padrão e selecione &lt;f2&gt;Fixar primeira linha&lt;/f2&gt; no menu suspenso.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250122T183152Z">
+        <seg>Para fixar a primeira linha numa planilha, vá para &lt;f0&gt;Exibir &gt; Fixar células &gt; Fixar primeira linha&lt;/f0&gt; na barra de menu ou clique na seta para baixo à direita do ícone &lt;f1&gt;Fixar linhas e colunas&lt;/f1&gt; na barra de ferramentas padrão e selecione &lt;f2&gt;Fixar primeira linha&lt;/f2&gt; no menu suspenso.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>To get a quick visual representation of the data contained in a pivot table, you can generate a pivot chart.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T193818Z" creationid="olivier-tdf" creationdate="20250209T193818Z">
-        <seg>Para obter uma representação visual rápida dos dados contidos em uma tabela dinâmica, você pode gerar um gráfico dinâmico.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T193818Z">
+        <seg>Para obter uma representação visual rápida dos dados contidos numa tabela dinâmica, você pode gerar um gráfico dinâmico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15280,8 +15280,8 @@
       <tuv lang="en-US">
         <seg>To insert a manual line break in a cell, press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205512Z" creationid="olivier-tdf" creationdate="20250128T205512Z">
-        <seg>Para inserir uma quebra de linha manual em uma célula, pressione &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250128T205512Z">
+        <seg>Para inserir uma quebra de linha manual numa célula, pressione &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15360,8 +15360,8 @@
       <tuv lang="en-US">
         <seg>To manually select a font and format text for use in a cell:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T211126Z" creationid="olivier-tdf" creationdate="20250128T211126Z">
-        <seg>Para selecionar manualmente uma fonte e formatar o texto para uso em uma célula:</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250128T211126Z">
+        <seg>Para selecionar manualmente uma fonte e formatar o texto para uso numa célula:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15392,8 +15392,8 @@
       <tuv lang="en-US">
         <seg>To navigate between sheets in a spreadsheet:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250120T005126Z" creationid="olivier" creationdate="20250120T005126Z">
-        <seg>Para navegar entre planilhas em uma planilha:</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T005126Z">
+        <seg>Para navegar entre planilhas numa planilha:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15496,8 +15496,8 @@
       <tuv lang="en-US">
         <seg>To retain a minimum number of characters in a cell when entering numbers and retain the number format, for example 1234 and 0012, use one of two methods to add leading zeroes:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230244Z" creationid="olivier-tdf" creationdate="20250122T230244Z">
-        <seg>Para reter um número mínimo de caracteres em uma célula ao inserir números e manter o formato de número, por exemplo, 1234 e 0012, use um dos dois métodos para adicionar zeros à esquerda:</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250122T230244Z">
+        <seg>Para reter um número mínimo de caracteres numa célula ao inserir números e manter o formato de número, por exemplo, 1234 e 0012, use um dos dois métodos para adicionar zeros à esquerda:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15768,8 +15768,8 @@
       <tuv lang="en-US">
         <seg>To turn it into a multi-line input area for very long formulas, click the down arrow on the right-hand side of the &lt;f0&gt;Input line&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212510Z" creationid="olivier-tdf" creationdate="20250116T212510Z">
-        <seg>Para transformar a linha de entrada em uma área de entrada de várias linhas para fórmulas muito longas, clique na seta para baixo à direita da &lt;f0&gt;linha de entrada&lt;/f0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250116T212510Z">
+        <seg>Para transformar a linha de entrada numa área de entrada de várias linhas para fórmulas muito longas, clique na seta para baixo à direita da &lt;f0&gt;linha de entrada&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16064,8 +16064,8 @@
       <tuv lang="en-US">
         <seg>Use the zoom function (&lt;f0&gt;View &gt; Zoom&lt;/f0&gt;) to show more or fewer cells in the window when you are working on a spreadsheet.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T164331Z" creationid="olivier" creationdate="20250121T164331Z">
-        <seg>Use a função de zoom (&lt;f0&gt;Exibir &gt; Zoom&lt;/f0&gt;) para mostrar mais ou menos células na janela quando estiver trabalhando em uma planilha.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250121T164331Z">
+        <seg>Use a função de zoom (&lt;f0&gt;Exibir &gt; Zoom&lt;/f0&gt;) para mostrar mais ou menos células na janela quando estiver trabalhando numa planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16344,8 +16344,8 @@
       <tuv lang="en-US">
         <seg>Vertical scrolling does not affect the visibility of data in a frozen row; horizontal scrolling does not affect the visibility of data in a frozen column.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T164642Z" creationid="olivier" creationdate="20250121T164449Z">
-        <seg>A rolagem vertical não afeta a visibilidade dos dados em uma linha fixada; a rolagem horizontal não afeta a visibilidade dos dados em uma coluna fixada.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250121T164449Z">
+        <seg>A rolagem vertical não afeta a visibilidade dos dados numa linha fixada; a rolagem horizontal não afeta a visibilidade dos dados numa coluna fixada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16704,8 +16704,8 @@
       <tuv lang="en-US">
         <seg>When the cursor is in a section, heading, or list item, or when an object (such as a picture or table) is selected, information about that item appears in this field.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250113T105038Z" creationid="timot" creationdate="20250113T105038Z">
-        <seg>Quando o cursor está em uma seção, título ou item de lista, ou quando um objeto (como uma imagem ou tabela) é selecionado, informações sobre esse item aparecem neste campo.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="timot" creationdate="20250113T105038Z">
+        <seg>Quando o cursor está numa seção, título ou item de lista, ou quando um objeto (como uma imagem ou tabela) é selecionado, informações sobre esse item aparecem neste campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16784,8 +16784,8 @@
       <tuv lang="en-US">
         <seg>When you enter or edit data in a cell, the &lt;f0&gt;Select Function&lt;/f0&gt; and &lt;f1&gt;Formula&lt;/f1&gt; icons change to &lt;f2&gt;Cancel&lt;/f2&gt; and &lt;f3&gt;Accept&lt;/f3&gt; icons.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212635Z" creationid="olivier-tdf" creationdate="20250116T212635Z">
-        <seg>Ao inserir ou editar dados em uma célula, os ícones &lt;f0&gt;Selecionar função&lt;/f0&gt; e &lt;f1&gt;Fórmula&lt;/f1&gt; mudam para os ícones &lt;f2&gt;Cancelar&lt;/f2&gt; e &lt;f3&gt;Aceitar&lt;/f3&gt; respectivamente.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250116T212635Z">
+        <seg>Ao inserir ou editar dados numa célula, os ícones &lt;f0&gt;Selecionar função&lt;/f0&gt; e &lt;f1&gt;Fórmula&lt;/f1&gt; mudam para os ícones &lt;f2&gt;Cancelar&lt;/f2&gt; e &lt;f3&gt;Aceitar&lt;/f3&gt; respectivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16880,8 +16880,8 @@
       <tuv lang="en-US">
         <seg>When you the split the screen, you can position the cell containing the number in one section of the view and the cells with formulas in other sections.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223519Z" creationid="olivier-tdf" creationdate="20250122T223519Z">
-        <seg>Ao dividir a tela, você pode posicionar a célula que contém o número em uma seção da visualização e as células com fórmulas em outras seções.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250122T223519Z">
+        <seg>Ao dividir a tela, você pode posicionar a célula que contém o número numa seção da visualização e as células com fórmulas em outras seções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17280,8 +17280,8 @@
       <tuv lang="en-US">
         <seg>You can also create a pivot chart that allows you to view a graphical representation of the data in a pivot table.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T192146Z" creationid="olivier-tdf" creationdate="20250209T192146Z">
-        <seg>Também, é possível criar um gráfico dinâmico que permita visualizar uma representação gráfica dos dados em uma tabela dinâmica.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T192146Z">
+        <seg>Também, é possível criar um gráfico dinâmico que permita visualizar uma representação gráfica dos dados numa tabela dinâmica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17560,8 +17560,8 @@
       <tuv lang="en-US">
         <seg>You can navigate a spreadsheet using the keyboard, by pressing a key or a combination of keys.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135355Z" creationid="olivier-tdf" creationdate="20250120T135355Z">
-        <seg>Você pode navegar em uma planilha usando o teclado, pressionando uma tecla ou uma combinação de teclas.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250120T135355Z">
+        <seg>Você pode navegar numa planilha usando o teclado, pressionando uma tecla ou uma combinação de teclas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17592,8 +17592,8 @@
       <tuv lang="en-US">
         <seg>You can select contiguous cells and merge them into one large cell by:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205727Z" creationid="olivier-tdf" creationdate="20250128T205727Z">
-        <seg>Você pode selecionar células contíguas e mesclá-las em uma célula grande:</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250128T205727Z">
+        <seg>Você pode selecionar células contíguas e mesclá-las numa célula grande:</seg>
       </tuv>
     </tu>
     <tu>
