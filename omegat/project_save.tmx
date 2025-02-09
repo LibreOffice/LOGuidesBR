@@ -6110,6 +6110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if the top two rows of the sheet as well as column A need to be printed on all pages, do the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195554Z" creationid="olivier-tdf" creationdate="20250209T195554Z">
+        <seg>Por exemplo, se as duas linhas superiores da planilha, bem como a coluna A, precisarem ser impressas em todas as páginas, faça o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, if you restarted page numbering at 1 on the third page, its page number is 1 and its sequence number is 3.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200513Z" creationid="timot" creationdate="20250111T200513Z">
@@ -6162,6 +6170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T125204Z" creationid="timot" creationdate="20250205T125204Z">
         <seg>Por exemplo, as expressões podem encontrar todas as instâncias em que qualquer número é seguido por letras específicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, to repeat rows 1 and 2, type &lt;f1&gt;$1:$2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195809Z" creationid="olivier-tdf" creationdate="20250209T195809Z">
+        <seg>Por exemplo, para repetir as linhas 1 e 2 digite &lt;f1&gt;$1:$2&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6934,6 +6950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; on the Menu bar to open the Edit Print Ranges dialog (Figure &lt;t1&gt;46&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195706Z" creationid="olivier-tdf" creationdate="20250209T195706Z">
+        <seg>Acesse &lt;f0&gt;Formatar &gt; Intervalos de impressão &gt; Editar&lt;/f0&gt; na barra de menu para abrir a caixa de diálogo Editar intervalos de impressão (Figura &lt;t1&gt;46&lt;/t1&gt;) Editar intervalos de impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; on the Menu bar to open the Edit Print Ranges dialog where you can modify the print range.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195010Z" creationid="olivier-tdf" creationdate="20250209T195010Z">
@@ -7480,8 +7504,8 @@
       <tuv lang="en-US">
         <seg>If a sheet is printed on multiple pages, you can set up certain rows or columns to repeat on each printed page.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195523Z" creationid="olivier-tdf" creationdate="20250209T195523Z">
-        <seg>Se uma pl for impressa em várias páginas, você pode configurar certas linhas ou colunas para repetir em cada página impressa.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195539Z" creationid="olivier-tdf" creationdate="20250209T195523Z">
+        <seg>Se uma planilha for impressa em várias páginas, você pode configurar certas linhas ou colunas para repetir em cada página impressa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14062,6 +14086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This automatically changes &lt;f2&gt;Rows to Repeat&lt;/f2&gt; from &lt;f3&gt;- none -&lt;/f3&gt; to &lt;f4&gt;- user defined -&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195841Z" creationid="olivier-tdf" creationdate="20250209T195841Z">
+        <seg>Isso altera automaticamente as &lt;f2&gt;Linhas para repetir&lt;/f2&gt; de &lt;f3&gt;- nenhuma -&lt;/f3&gt; para &lt;f4&gt;- definido pelo usuário -&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This book introduces LibreOffice and its components:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114349Z" creationid="olivier-tdf" creationdate="20250109T114349Z">
@@ -15482,6 +15514,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200651Z" creationid="timot" creationdate="20250111T200651Z">
         <seg>Digite o número da página necessário e clique em &lt;f0&gt;OK&lt;/f0&gt; ou digite &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type the row identifiers in the &lt;f0&gt;Rows to Repeat&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195719Z" creationid="olivier-tdf" creationdate="20250209T195719Z">
+        <seg>Digite os identificadores de linha na caixa &lt;f0&gt;Linhas a repetir&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
