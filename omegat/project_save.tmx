@@ -2766,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc also includes many tools for statistical analysis, and they can help you obtain important numerical information on data obtained from physical measurements, polls, or even business transactions such as sales, stock quotations, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191309Z" creationid="olivier-tdf" creationdate="20250209T191309Z">
+        <seg>O Calc também inclui muitas ferramentas para análise estatística e pode ajudá-lo a obter informações numéricas importantes sobre dados obtidos de medições físicas, pesquisas ou até mesmo transações comerciais, como vendas, cotações de ações e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc automatically applies many changes during data input using AutoCorrect, unless you have deactivated any AutoCorrect changes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210729Z" creationid="olivier" creationdate="20250123T210729Z">
@@ -9766,6 +9774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One of the most useful tools for analyzing data is the pivot table, which allows you to organize, manipulate, and summarize large amounts of data to make it much easier to read and understand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191448Z" creationid="olivier-tdf" creationdate="20250209T191448Z">
+        <seg>Uma das ferramentas mais úteis para analisar dados é a tabela dinâmica, que permite organizar, manipular e resumir grandes quantidades de dados para facilitar a leitura e a compreensão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only files that can be opened by the selected LibreOffice module are displayed in the Start Center.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T010259Z" creationid="tulio" creationdate="20250116T004833Z">
@@ -10138,6 +10154,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205907Z" creationid="olivier-tdf" creationdate="20250128T205907Z">
         <seg>Execute uma destas etapas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pivot tables and pivot charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191436Z" creationid="olivier-tdf" creationdate="20250209T191436Z">
+        <seg>Tabelas dinâmicas e gráficos dinâmicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -10866,6 +10890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212802Z" creationid="olivier-tdf" creationdate="20250116T212802Z">
         <seg>Consulte o Capítulo 1, Noções básicas do LibreOffice, para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Chapter 10, Data Analysis, in the &lt;f0&gt;Calc Guide&lt;/f0&gt; for more information on the these tools.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191426Z" creationid="olivier-tdf" creationdate="20250209T191426Z">
+        <seg>Consulte o Capítulo 10, Análise de dados, no &lt;f0&gt;Guia do Calc&lt;/f0&gt; para obter mais informações sobre essas ferramentas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13622,10 +13654,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These statistical data analyses are available in the menu &lt;f0&gt;Data &gt; Statistics&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191412Z" creationid="olivier-tdf" creationdate="20250209T191412Z">
+        <seg>Essas análises estatísticas de dados estão disponíveis no menu &lt;f0&gt;Dados &gt; Estatísticas&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These tables are now listed in the order they appear in the source.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T002102Z" creationid="olivier" creationdate="20250120T002102Z">
         <seg>Essas tabelas agora estão listadas na ordem em que aparecem na origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These tools are divided between the Tools and Data menus.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191242Z" creationid="olivier-tdf" creationdate="20250209T191242Z">
+        <seg>Essas ferramentas são divididas entre os menus Ferramentas e Dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They also allow you to answer different questions about a spreadsheet by rearranging – or pivoting – the data in it, which includes the ability to view different summaries of the source data, display the details of areas of interest, and create reports.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191521Z" creationid="olivier-tdf" creationdate="20250209T191521Z">
+        <seg>Eles também permitem que responda a diferentes perguntas sobre uma planilha reorganizando – ou dinamizando – os dados nela contidos, o que inclui a capacidade de visualizar diferentes resumos dos dados de origem, exibir os detalhes das áreas de interesse e criar relatórios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16330,6 +16386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T111937Z" creationid="timot" creationdate="20250202T111937Z">
         <seg>Também, é possível copiar texto de outras fontes, como páginas da Web, e colá-lo em um documento do Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also create a pivot chart that allows you to view a graphical representation of the data in a pivot table.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T192146Z" creationid="olivier-tdf" creationdate="20250209T192146Z">
+        <seg>Também, é possível criar um gráfico dinâmico que permita visualizar uma representação gráfica dos dados em uma tabela dinâmica.</seg>
       </tuv>
     </tu>
     <tu>
