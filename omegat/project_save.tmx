@@ -656,8 +656,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Press Enter to move selection&lt;/f0&gt;: check this option to choose the direction that the cell focus moves after you press the &lt;f1&gt;Enter&lt;/f1&gt; key.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135500Z" creationid="olivier-tdf" creationdate="20250120T135500Z">
-        <seg>&lt;f0&gt;Pressione Enter para mover a seleção&lt;/f0&gt;: marque esta opção para escolher a direção em que o foco da célula se move depois de pressionar a tecla &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T210943Z" creationid="olivier-tdf" creationdate="20250120T135500Z">
+        <seg>&lt;f0&gt;Pressione Enter para mover a seleção&lt;/f0&gt;: marque esta opção para escolher a direção em que o foco da célula se move após pressionar a tecla &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5144,8 +5144,8 @@
       <tuv lang="en-US">
         <seg>Enter the cell reference for the upper left-hand cell, followed by a colon (:), and then the lower right-hand cell reference.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T115929Z" creationid="olivier" creationdate="20250121T115929Z">
-        <seg>Insira a referência de célula para a célula superior esquerda, seguida por dois pontos (:) e depois a referência de célula inferior direita.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211001Z" creationid="olivier" creationdate="20250121T115929Z">
+        <seg>Insira a referência de célula para a célula superior esquerda, seguida por dois-pontos (:) e depois a referência de célula inferior direita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7920,8 +7920,8 @@
       <tuv lang="en-US">
         <seg>If you are entering several lines of text, extend the &lt;f0&gt;Input line&lt;/f0&gt; by clicking on the &lt;f1&gt;Expand Formula Bar&lt;/f1&gt; icon, which is located on the right-hand end of the Formula bar, and then the &lt;f2&gt;Input line&lt;/f2&gt; becomes multi-line.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204117Z" creationid="olivier" creationdate="20250123T204117Z">
-        <seg>Se estiver inserindo várias linhas de texto, estenda a &lt;f0&gt;linha de entrada&lt;/f0&gt; clicando no ícone &lt;f1&gt;Expandir barra de fórmulas&lt;/f1&gt; , localizado na extremidade direita da barra de fórmulas e, em seguida, a &lt;f2&gt;linha de entrada&lt;/f2&gt; se tornará várias linhas.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211134Z" creationid="olivier" creationdate="20250123T204117Z">
+        <seg>Se estiver inserindo várias linhas de texto, estenda a &lt;f0&gt;linha de entrada&lt;/f0&gt; clicando no ícone &lt;f1&gt;Expandir barra de fórmulas&lt;/f1&gt;, localizado na extremidade direita da barra de fórmulas e, em seguida, a &lt;f2&gt;linha de entrada&lt;/f2&gt; se tornará várias linhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8464,8 +8464,8 @@
       <tuv lang="en-US">
         <seg>In the &lt;f0&gt;Options&lt;/f0&gt; area, set the &lt;f1&gt;Leading zeroes&lt;/f1&gt; field to the maximum number of zeroes to display in front of the integer part of the number.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230612Z" creationid="olivier-tdf" creationdate="20250122T230612Z">
-        <seg>Na área &lt;f0&gt;Opções&lt;/f0&gt; , defina o campo &lt;f1&gt;Zeros à esquerda&lt;/f1&gt; como o número máximo de zeros a serem exibidos na frente da parte inteira do número.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211038Z" creationid="olivier-tdf" creationdate="20250122T230612Z">
+        <seg>Na área &lt;f0&gt;Opções&lt;/f0&gt;, defina o campo &lt;f1&gt;Zeros à esquerda&lt;/f1&gt; como o número máximo de zeros a serem exibidos na frente da parte inteira do número.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10208,8 +10208,8 @@
       <tuv lang="en-US">
         <seg>On the Number Format panel (Figure &lt;t0&gt;25&lt;/t0&gt;), select &lt;f1&gt;Number&lt;/f1&gt; in the drop-down list, and enter the maximum number of zeroes to display in front of the integer part of a number in the &lt;f2&gt;Leading zeroes&lt;/f2&gt; box.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231222Z" creationid="olivier-tdf" creationdate="20250122T231222Z">
-        <seg>No painel Formato numérico (Figura &lt;t0&gt;25&lt;/t0&gt;), selecione &lt;f1&gt;Número&lt;/f1&gt; na lista suspensa e insira o número máximo de zeros a exibir na frente da parte inteira de um número na caixa &lt;f2&gt;Zeros à esquerda&lt;/f2&gt; .</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211104Z" creationid="olivier-tdf" creationdate="20250122T231222Z">
+        <seg>No painel Formato numérico (Figura &lt;t0&gt;25&lt;/t0&gt;), selecione &lt;f1&gt;Número&lt;/f1&gt; na lista suspensa e insira o número máximo de zeros a exibir na frente da parte inteira de um número na caixa &lt;f2&gt;Zeros à esquerda&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11952,8 +11952,8 @@
       <tuv lang="en-US">
         <seg>Select the &lt;f0&gt;Numbers&lt;/f0&gt; tab and select &lt;f1&gt;Number&lt;/f1&gt; in the &lt;f2&gt;Category&lt;/f2&gt; list.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230534Z" creationid="olivier-tdf" creationdate="20250122T230534Z">
-        <seg>Selecione a aba &lt;f0&gt;Números&lt;/f0&gt; e selecione &lt;f1&gt;Número&lt;/f1&gt; na lista &lt;f2&gt;Categoria&lt;/f2&gt; .</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211015Z" creationid="olivier-tdf" creationdate="20250122T230534Z">
+        <seg>Selecione a aba &lt;f0&gt;Números&lt;/f0&gt; e selecione &lt;f1&gt;Número&lt;/f1&gt; na lista &lt;f2&gt;Categoria&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12072,8 +12072,8 @@
       <tuv lang="en-US">
         <seg>Select the date or time format you want to use in the &lt;f0&gt;Format&lt;/f0&gt; list.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T200312Z" creationid="olivier-tdf" creationdate="20250128T200312Z">
-        <seg>Selecione o formato de data ou hora que deseja usar na lista &lt;f0&gt;Formato&lt;/f0&gt; .</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211217Z" creationid="olivier-tdf" creationdate="20250128T200312Z">
+        <seg>Selecione o formato de data ou hora que deseja usar na lista &lt;f0&gt;Formato&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16624,8 +16624,8 @@
       <tuv lang="en-US">
         <seg>When entering a time, separate time elements with colons (for example, 10:43:45) and the time format automatically changes to the selected format used by Calc.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204406Z" creationid="olivier" creationdate="20250123T204406Z">
-        <seg>Ao inserir uma hora, separe os elementos de hora com dois pontos (por exemplo, 10:43:45) e o formato da hora muda automaticamente para o formato selecionado usado pelo Calc.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211155Z" creationid="olivier" creationdate="20250123T204406Z">
+        <seg>Ao inserir uma hora, separe os elementos de hora com dois-pontos (por exemplo, 10:43:45) e o formato da hora muda automaticamente para o formato selecionado usado pelo Calc.</seg>
       </tuv>
     </tu>
     <tu>
