@@ -6414,6 +6414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on page breaks, see Chapter 7, Printing, Exporting, Emailing, and Signing, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201033Z" creationid="olivier-tdf" creationdate="20250209T201033Z">
+        <seg>Para obter mais informações sobre quebras de página, consulte o Capítulo 7, Imprimir, Exportar, Enviar por E-mail e Assinar, no &lt;f0&gt;Guia do Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on pivot charts and charts in general, see Chapter 3, Creating Charts and Graphs, and Chapter 9, Using Pivot Tables, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194005Z" creationid="olivier-tdf" creationdate="20250209T194005Z">
@@ -7070,6 +7078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Delete Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200804Z" creationid="olivier-tdf" creationdate="20250209T200804Z">
+        <seg>Acesse &lt;f0&gt;Planilha &gt; Excluir quebra de página&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Sheet &gt; Fill Cells&lt;/f0&gt; on the Menu bar and select the direction in which you want to copy or create data (&lt;f1&gt;Fill Down&lt;/f1&gt;, &lt;f2&gt;Fill Right&lt;/f2&gt;, &lt;f3&gt;Fill Up&lt;/f3&gt;, &lt;f4&gt;Fill Left&lt;/f4&gt;) or one of the other options (&lt;f5&gt;Fill Sheets&lt;/f5&gt;, &lt;f6&gt;Fill Series&lt;/f6&gt;, &lt;f7&gt;Fill Random Number&lt;/f7&gt;) in the submenu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T214731Z" creationid="olivier" creationdate="20250123T214731Z">
@@ -7458,6 +7474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T120928Z" creationid="olivier-tdf" creationdate="20250117T120928Z">
         <seg>No entanto, uma opção de configuração está disponível para alternar para o uso da forma de ponteiro definida no tema de ícones (normalmente uma cruz gorda).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, after selecting &lt;f0&gt;View &gt; Page Break&lt;/f0&gt;, you can right-click on a cell to access a context menu containing a &lt;f1&gt;Delete All Breaks&lt;/f1&gt; option to remove them all at once.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200957Z" creationid="olivier-tdf" creationdate="20250209T200957Z">
+        <seg>No entanto, depois de selecionar &lt;f0&gt;Exibir &gt; Quebra de página&lt;/f0&gt;, você pode clicar com o botão direito do mouse numa célula para acessar um menu de contexto contendo a opção &lt;f1&gt;Excluir todas as quebras&lt;/f1&gt; para removê-las todas de uma vez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9654,6 +9678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multiple manual row and column breaks can exist on the same sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200853Z" creationid="olivier-tdf" creationdate="20250209T200853Z">
+        <seg>Podem existir várias quebras manuais de linha e coluna na mesma planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multiple non-contiguous sheets</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121641Z" creationid="olivier" creationdate="20250121T121641Z">
@@ -9682,6 +9714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T182753Z" creationid="timot" creationdate="20250122T182753Z">
         <seg>Navegar por lista no Navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate to a cell that is next to the page break you want to remove.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200746Z" creationid="olivier-tdf" creationdate="20250209T200746Z">
+        <seg>Navegue até uma célula que esteja ao lado da quebra de página que deseja remover.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11506,6 +11546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183535Z" creationid="olivier-tdf" creationdate="20250209T183535Z">
         <seg>Selecione &lt;f0&gt;Proteger esta planilha e o conteúdo das células protegidas&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; or &lt;f1&gt;Column Break&lt;/f1&gt; as needed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200833Z" creationid="olivier-tdf" creationdate="20250209T200833Z">
+        <seg>Selecione &lt;f0&gt;Quebra de linha&lt;/f0&gt; ou &lt;f1&gt;Quebra de coluna&lt;/f1&gt; conforme necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16618,6 +16666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213840Z" creationid="olivier" creationdate="20250123T213840Z">
         <seg>Quando usar a ferramenta Preenchimento, todos os dados contidos nas células de destino selecionadas são substituídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you want to remove them, you can remove each break individually, as described above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200913Z" creationid="olivier-tdf" creationdate="20250209T200913Z">
+        <seg>Quando quiser removê-las, você pode remover cada intervalo individualmente, conforme descrito acima.</seg>
       </tuv>
     </tu>
     <tu>
