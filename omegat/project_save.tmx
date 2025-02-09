@@ -1822,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding to a print range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194357Z" creationid="olivier-tdf" creationdate="20250209T194357Z">
+        <seg>Adicionar um intervalo de impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional character format options (including strikethrough and shadowing) are available on the Format Cells dialog and the Sidebar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T160208Z" creationid="olivier" creationdate="20250204T160208Z">
@@ -1850,6 +1858,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154421Z" creationid="olivier" creationdate="20250121T154401Z">
         <seg>Depois de clicar no ícone, a nova planilha aparece com um nome alocado automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After defining a print range, select an extra range of cells for adding to the print range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194518Z" creationid="olivier-tdf" creationdate="20250209T194518Z">
+        <seg>Depois de definir um intervalo de impressão, selecione um intervalo extra de células para adicionar ao intervalo de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After defining a print range, you can add more cells to it by creating another print range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194442Z" creationid="olivier-tdf" creationdate="20250209T194442Z">
+        <seg>Depois de definir um intervalo de impressão, é possível adicionar mais células a ele criando outro intervalo de impressão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +2978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125534Z" creationid="olivier-tdf" creationdate="20250114T125534Z">
         <seg>O Calc usa documentos de planilhas, que consistem em várias planilhas individuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc will display only the cells in the print range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194344Z" creationid="olivier-tdf" creationdate="20250209T194344Z">
+        <seg>O Calc exibirá apenas as células no intervalo de impressão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6818,6 +6850,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230407Z" creationid="olivier-tdf" creationdate="20250122T230407Z">
         <seg>Acesse &lt;f0&gt;Formatar &gt; células&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Add&lt;/f0&gt; on the Menu bar to add the extra cells to the print range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194536Z" creationid="olivier-tdf" creationdate="20250209T194536Z">
+        <seg>Acesse &lt;f0&gt;Formatar &gt; Intervalos de impressão &gt; Adicionar&lt;/f0&gt; na barra de menu para adicionar as células extras ao intervalo de impressão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13302,6 +13342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The page break lines are no longer displayed on the screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194547Z" creationid="olivier-tdf" creationdate="20250209T194547Z">
+        <seg>As linhas de quebra de página não são mais exibidas na tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The parts of this window are described below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125742Z" creationid="olivier-tdf" creationdate="20250114T125742Z">
@@ -13870,6 +13918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This allows multiple, separate areas of the same sheet to be printed while not printing the whole sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194508Z" creationid="olivier-tdf" creationdate="20250209T194508Z">
+        <seg>Isso permite que várias áreas separadas da mesma planilha sejam impressas sem imprimir a planilha inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This book introduces LibreOffice and its components:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114349Z" creationid="olivier-tdf" creationdate="20250109T114349Z">
@@ -14362,6 +14418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212454Z" creationid="olivier-tdf" creationdate="20250109T212454Z">
         <seg>Para usar as caixas de diálogo do LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To check the print range, go to &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt; on the Menu bar, press &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt;, or click the &lt;f2&gt;Toggle Print Preview&lt;/f2&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194339Z" creationid="olivier-tdf" creationdate="20250209T194339Z">
+        <seg>Para verificar o intervalo de impressão, acesse &lt;f0&gt;Arquivo &gt; Visualizar impressão&lt;/f0&gt; na barra de menu, pressione &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt; ou clique no ícone &lt;f2&gt;Alternar visualização de impressão&lt;/f2&gt; na barra de ferramentas Padrão.</seg>
       </tuv>
     </tu>
     <tu>
