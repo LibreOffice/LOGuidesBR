@@ -2190,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Applying a new theme over an existing one will override all existing theme styles customization with the new theme styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170814Z" creationid="olivier-tdf" creationdate="20250209T170814Z">
+        <seg>Aplicar um novo tema sobre um existente substituirá todas as personalizações de estilos de tema existentes com os novos estilos de tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are there templates for presentations, spreadsheets, text documents and drawings?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215127Z" creationid="olivier-tdf" creationdate="20250109T215127Z">
@@ -2690,6 +2698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212057Z" creationid="olivier" creationdate="20250123T212057Z">
         <seg>O Calc fornece várias ferramentas para remover parte do trabalho penoso da entrada de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc supplies several sets of theme colors, and you can define other sets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170914Z" creationid="olivier-tdf" creationdate="20250209T170914Z">
+        <seg>O Calc fornece vários conjuntos de cores de tema, e você pode definir outros conjuntos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4214,6 +4230,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Document themes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170828Z" creationid="olivier-tdf" creationdate="20250209T170828Z">
+        <seg>Temas de documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Document themes collect various format selections into a set that can be applied and changed quickly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170841Z" creationid="olivier-tdf" creationdate="20250209T170841Z">
+        <seg>Os temas de documentos coletam várias seleções de formato em um conjunto que pode ser aplicado e alterado rapidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Donate to LibreOffice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200219Z" creationid="olivier-tdf" creationdate="20250109T200219Z">
@@ -5642,6 +5674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125110Z" creationid="olivier-tdf" creationdate="20250114T125110Z">
         <seg>Para muitas funções, o Calc segue o padrão &lt;f0&gt;OpenFormula&lt;/f0&gt; definido na parte &lt;f1&gt;Formato de Fórmula Recalculada (OpenFormula)&lt;/f1&gt; do padrão &lt;f2&gt;Open Document Format for Office Applications &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;(OpenDocument)&lt;/f4&gt;, que pode ser acessado no site da OASIS (&lt;a5&gt;https://www.oasis-open.org/&lt;/a5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more about modifying styles, see Chapter 4, Working with Styles, Templates, and Hyperlinks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170752Z" creationid="olivier-tdf" creationdate="20250209T170752Z">
+        <seg>Para saber mais sobre como modificar estilos, consulte o Capítulo 4, Trabalhando com estilos, modelos e hiperlinks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12630,6 +12670,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Theme colors have names like &lt;f0&gt;Dark 1&lt;/f0&gt;, &lt;f1&gt;Light 2&lt;/f1&gt;, &lt;f2&gt;Accent 3&lt;/f2&gt;, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170934Z" creationid="olivier-tdf" creationdate="20250209T170934Z">
+        <seg>As cores de tema têm nomes como &lt;f0&gt;Escuro 1&lt;/f0&gt;, &lt;f1&gt;Claro 2&lt;/f1&gt;, &lt;f2&gt;Ênfase 3&lt;/f2&gt; e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Theme colors were implemented in LibreOffice 7.6; font and format settings are planned for later releases.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170900Z" creationid="olivier-tdf" creationdate="20250209T170900Z">
+        <seg>As cores do tema foram implementadas no LibreOffice 7.6; as configurações de fonte e formato estão planejadas para versões posteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then any number containing less than four integer digits will have leading zeroes added – for example 12 is displayed as 0012.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230652Z" creationid="olivier-tdf" creationdate="20250122T230652Z">
@@ -12774,6 +12830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These changes do not modify the theme; they only change the appearance of the style in the specific spreadsheet you are using.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170740Z" creationid="olivier-tdf" creationdate="20250209T170740Z">
+        <seg>Essas alterações não modificam o tema; elas apenas alteram a aparência do estilo na planilha específica que estiver usando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These column and row headers form the cell references that appear in the &lt;f0&gt;Name Box&lt;/f0&gt; on the Formula bar (Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T120829Z" creationid="olivier-tdf" creationdate="20250117T120829Z">
@@ -12834,6 +12898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T002102Z" creationid="olivier" creationdate="20250120T002102Z">
         <seg>Essas tabelas agora estão listadas na ordem em que aparecem na origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They can be used in styles or applied manually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170943Z" creationid="olivier-tdf" creationdate="20250209T170943Z">
+        <seg>Eles podem ser usados em estilos ou aplicados manualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13938,6 +14010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161557Z" creationid="olivier" creationdate="20250204T161557Z">
         <seg>Para selecionar o estilo de linha das bordas, clique no ícone &lt;f0&gt;Estilo da borda&lt;/f0&gt; na barra de ferramentas Formatação ou no controle correspondente no painel Aparência da célula no deque Propriedades da barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To set up a spreadsheet to use themes, choose colors for fonts, backgrounds, or objects from the &lt;f0&gt;Theme colors&lt;/f0&gt; palette (Figure &lt;t1&gt;38&lt;/t1&gt;), not an ordinary color palette.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T171706Z" creationid="olivier-tdf" creationdate="20250209T171706Z">
+        <seg>Para configurar uma planilha para usar temas, escolha cores para fontes, planos de fundo ou objetos da paleta de &lt;f0&gt;cores do tema&lt;/f0&gt; (Figura &lt;t1&gt;38&lt;/t1&gt;), não uma paleta de cores comum.</seg>
       </tuv>
     </tu>
     <tu>
