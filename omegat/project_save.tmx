@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Protect Sheet dialog with password strength meter&lt;/s0&gt;&lt;s1&gt;Protect Sheet dialog with password strength meter&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183650Z" creationid="olivier-tdf" creationdate="20250209T183650Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Proteger planilha com medidor de força de senha&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Proteger planilha com medidor de força de senha&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Right-click any active arrow button&lt;/s0&gt;&lt;s1&gt;Right-click any active arrow button&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135144Z" creationid="olivier-tdf" creationdate="20250120T134642Z">
@@ -1346,6 +1354,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195958Z" creationid="timot" creationdate="20250111T195958Z">
         <seg>&lt;s0&gt;O espaço de trabalho principal do Writer&lt;/s0&gt;&lt;s1&gt;O espaço de trabalho principal do Writer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;The padlock icon in a protected sheet&lt;/s0&gt;&lt;s1&gt;The padlock icon in a protected sheet&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183828Z" creationid="olivier-tdf" creationdate="20250209T183828Z">
+        <seg>&lt;s0&gt;O ícone de cadeado em uma planilha protegida&lt;/s0&gt;&lt;s1&gt; O ícone de cadeado em uma planilha protegida&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2178,6 +2194,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121634Z" creationid="olivier" creationdate="20250121T121634Z">
         <seg>Todas as ações realizadas agora afetarão todas as planilhas destacadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any cells that had been marked as protected will no longer be editable by anyone that does not have the password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183749Z" creationid="olivier-tdf" creationdate="20250209T183749Z">
+        <seg>Quaisquer células que tenham sido marcadas como protegidas deixarão de ser editáveis por qualquer pessoa que não tenha a senha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5390,6 +5414,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;41&lt;/seq0&gt;: Protect Sheet dialog with password strength meter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183703Z" creationid="olivier-tdf" creationdate="20250209T183703Z">
+        <seg>Figura &lt;seq0&gt;41&lt;/seq0&gt;: Caixa de diálogo Proteger planilha com medidor de força de senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: The padlock icon in a protected sheet</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183841Z" creationid="olivier-tdf" creationdate="20250209T183841Z">
+        <seg>Figura &lt;seq0&gt;42&lt;/seq0&gt;: O ícone de cadeado em uma planilha protegida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Status bar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212853Z" creationid="olivier-tdf" creationdate="20250116T212853Z">
@@ -7602,6 +7642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215109Z" creationid="olivier-tdf" creationdate="20250109T215109Z">
         <seg>Além disso, mais de 70 dicionários de ortografia, hifenização e tesauro estão disponíveis para idiomas e dialetos que não possuem uma interface de programa localizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, the longer the colored bar, the greater the strength of the password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183604Z" creationid="olivier-tdf" creationdate="20250209T183604Z">
+        <seg>Além disso, quanto maior a barra colorida, maior a força da senha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10022,6 +10070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Protect Sheet dialog with password strength meter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183719Z" creationid="olivier-tdf" creationdate="20250209T183719Z">
+        <seg>Caixa de diálogo Proteger planilha com medidor de força de senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Protected cells can optionally be hidden.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183121Z" creationid="olivier-tdf" creationdate="20250209T183121Z">
@@ -10874,6 +10930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213931Z" creationid="olivier" creationdate="20250123T213931Z">
         <seg>Selecione uma ou mais células que contenham o conteúdo que deseja copiar ou iniciar a série.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select or deselect the elements to protect from user actions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183627Z" creationid="olivier-tdf" creationdate="20250209T183627Z">
+        <seg>Marque ou desmarque os elementos para proteger das ações do usuário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12374,6 +12438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The dialog provides a password strength meter to indicate the strength of the entered password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183548Z" creationid="olivier-tdf" creationdate="20250209T183548Z">
+        <seg>A caixa de diálogo fornece um medidor de força de senha para indicar a força da senha inserida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The dialog provides an opportunity to download and install any updates to LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204308Z" creationid="olivier-tdf" creationdate="20250109T204308Z">
@@ -12714,6 +12786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194530Z" creationid="olivier-tdf" creationdate="20250109T194530Z">
         <seg>Os lucros das &lt;f5&gt;vendas &lt;/f5&gt;do LibreOffice são investidos &lt;f6&gt;no apoio &lt;/f6&gt;ao desenvolvimento do projeto LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The protected sheet has a padlock icon in its tab, as shown in Figure &lt;t0&gt;42&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183809Z" creationid="olivier-tdf" creationdate="20250209T183809Z">
+        <seg>A planilha protegida tem um ícone de cadeado em sua aba, conforme mostrado na Figura &lt;t0&gt;42&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13338,6 +13418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T111952Z" creationid="timot" creationdate="20250114T111952Z">
         <seg>Isso inclui aplicar estilos existentes, modificá-los ou criar novos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This incorporates a colored bar to reflect password strength, with red indicating a weak password and green indicating a strong password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183558Z" creationid="olivier-tdf" creationdate="20250209T183558Z">
+        <seg>Isso incorpora uma barra colorida para refletir a força da senha, com vermelho indicando uma senha fraca e verde indicando uma senha forte.</seg>
       </tuv>
     </tu>
     <tu>
