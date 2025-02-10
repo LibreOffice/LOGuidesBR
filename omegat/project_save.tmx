@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1782,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A submenu of alternative words and phrases is displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T211827Z" creationid="timot" creationdate="20250210T211827Z">
+        <seg>Um submenu de palavras e frases alternativas é exibido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A tool palette is a pop-up collection of tools attached to a single tool on a toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="tulio" creationdate="20250119T173723Z">
@@ -2570,6 +2578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210939Z" creationid="olivier" creationdate="20250123T210939Z">
         <seg>Caixa de diálogo Autocorreção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AutoCorrect is turned on by default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212125Z" creationid="timot" creationdate="20250210T212125Z">
+        <seg>A Autocorreção fica ativada por padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3454,6 +3470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f0&gt; to open the AutoCorrect dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212511Z" creationid="timot" creationdate="20250210T212511Z">
+        <seg>Escolha &lt;f0&gt;Ferramentas &gt; Autocorreção &gt; Opções da Autocorreção&lt;/f0&gt; para abrir a caixa de diálogo Autocorreção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose &lt;f0&gt;View &gt; Freeze Rows and Columns&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Freeze Rows and Columns&lt;/f1&gt; icon on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T221926Z" creationid="olivier-tdf" creationdate="20250122T221926Z">
@@ -3754,6 +3778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173813Z" creationid="tulio" creationdate="20250119T173813Z">
         <seg>Clique em &lt;f0&gt;Formas Básicas&lt;/f0&gt; na barra de ferramentas Desenho para abrir a paleta de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on a word or phrase in the submenu to have it replace the highlighted word or phrase in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T211841Z" creationid="timot" creationdate="20250210T211841Z">
+        <seg>Clique em uma palavra ou frase no submenu para que ela substitua a palavra ou frase destacada no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4154,6 +4186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T185814Z" creationid="olivier-tdf" creationdate="20250209T185814Z">
         <seg>Clique no ícone &lt;f0&gt;Inserir anotação&lt;/f0&gt; na barra de ferramentas padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking this changes the text to the suggestion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T211216Z" creationid="timot" creationdate="20250210T211216Z">
+        <seg>Clicar nisso altera o texto para a sugestão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7760,8 +7800,8 @@
       <tuv lang="en-US">
         <seg>If any grammar errors are detected, they are shown underlined by a wavy blue line.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250207T104351Z" creationid="timot" creationdate="20250207T104351Z">
-        <seg>Se erros gramaticais forem detectados, um sublinhado azul mostra os erro.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T210150Z" creationid="timot" creationdate="20250207T104351Z">
+        <seg>Se erros gramaticais forem detectados, um sublinhado azul mostra os erros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7826,6 +7866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210249Z" creationid="olivier-tdf" creationdate="20250128T210249Z">
         <seg>Se as células contiverem dados, uma pequena caixa de diálogo (Figura &lt;t0&gt;35&lt;/t0&gt;) abre, mostrando opções para mover ou ocultar dados nas células ocultas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the current language does not have a thesaurus installed, this feature is disabled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212009Z" creationid="timot" creationdate="20250210T212009Z">
+        <seg>Se o idioma atual não tiver um dicionário de sinônimos instalado, esse recurso será desativado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8542,6 +8590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the final section of the menu, you can set the language for the selection or the paragraph.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T211514Z" creationid="timot" creationdate="20250210T211514Z">
+        <seg>Na seção final do menu, é possível definir o idioma da seleção ou do parágrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the preset buttons on the left side of the dialog, you can choose to paste &lt;f0&gt;Values Only&lt;/f0&gt;, &lt;f1&gt;Values &amp; Formats&lt;/f1&gt;, &lt;f2&gt;Formats Only&lt;/f2&gt;, or to &lt;f3&gt;Transpose All&lt;/f3&gt; the data in the target cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011055Z" creationid="olivier" creationdate="20250124T011055Z">
@@ -8554,6 +8610,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T180610Z" creationid="timot" creationdate="20250122T180610Z">
         <seg>Na seção chamada &lt;f1&gt;Formato de arquivo padrão e configurações ODF&lt;/f1&gt;, em &lt;f2&gt;Tipo de documento, selecione Documento&lt;/f2&gt; de &lt;f3&gt;texto&lt;/f3&gt; (Writer) e, em &lt;f4&gt;Salvar sempre como&lt;/f4&gt;, selecione seu formato de arquivo preferido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the third section of the context menu, you can choose to ignore the indicated error, or open the Spelling dialog (Figure &lt;t0&gt;16&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T211450Z" creationid="timot" creationdate="20250210T211450Z">
+        <seg>Na terceira seção do menu de contexto, é possível optar por ignorar o erro indicado ou abrir a caixa de diálogo Ortografia (Figura &lt;t0&gt;16&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8810,6 +8874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123744Z" creationid="olivier-tdf" creationdate="20250109T123744Z">
         <seg>Ele também abrange alguns dos recursos comuns a todos os módulos, incluindo configuração e personalização, estilos e modelos, gravação de macro e impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It also includes codes for inserting special characters, emoji, and other symbols.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212109Z" creationid="timot" creationdate="20250210T212109Z">
+        <seg>Também inclui códigos para inserir caracteres especiais, emojis e outros símbolos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9930,6 +10002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T220202Z" creationid="olivier-tdf" creationdate="20250109T220202Z">
         <seg>Novas funções de planilha: PROCX, CORRESPX, FILTRO, MATRIZALEATÓRIA, SEQUÊNCIA, ORDENAR, ORDENAR.POR, ÚNICO, LET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next may be the suggested correction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T211205Z" creationid="timot" creationdate="20250210T211205Z">
+        <seg>Em seguida, poderá ser a correção sugerida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11514,6 +11594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105003Z" creationid="timot" creationdate="20250113T105003Z">
         <seg>Veja o Capítulo 10, Trabalhar com formatos de arquivo, segurança e exportação para mais informação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Chapter 12, Configuring LibreOffice, for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T211741Z" creationid="timot" creationdate="20250210T211741Z">
+        <seg>Veja o Capítulo 12, Configurando o LibreOffice, para obter detalhes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14094,6 +14182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The thesaurus gives a more extensive list of alternative words and phrases.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T211849Z" creationid="timot" creationdate="20250210T211849Z">
+        <seg>O dicionário de sinônimos fornece uma lista mais extensa de palavras e frases alternativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The two hyphens will be replaced by an em-dash.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213906Z" creationid="timot" creationdate="20250205T161102Z">
@@ -14746,6 +14842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125902Z" creationid="olivier-tdf" creationdate="20250114T125902Z">
         <seg>Barra de título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To access a short list of synonyms, right-click on a word and point to &lt;f0&gt;Synonyms&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T211820Z" creationid="timot" creationdate="20250210T211820Z">
+        <seg>Para acessar uma pequena lista de sinônimos, clique com o botão direito em uma palavra e aponte para &lt;f0&gt;Sinônimos&lt;/f0&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15766,6 +15870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To turn AutoCorrect off, uncheck &lt;f0&gt;Tools &gt; AutoCorrect &gt; While Typing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212252Z" creationid="timot" creationdate="20250210T212252Z">
+        <seg>Para desativar a Autocorreção, desmarque &lt;f0&gt;Ferramentas &gt; Autocorreção &gt; Verificar ortografia ao digitar&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To turn it into a multi-line input area for very long formulas, click the down arrow on the right-hand side of the &lt;f0&gt;Input line&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250116T212510Z">
@@ -15818,6 +15930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T184525Z" creationid="olivier-tdf" creationdate="20250209T184525Z">
         <seg>Para usar a caixa de diálogo Ordenar em células numa planilha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use the thesaurus, click on &lt;f0&gt;Thesaurus&lt;/f0&gt; in the &lt;f1&gt;Synonyms&lt;/f1&gt; submenu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212000Z" creationid="timot" creationdate="20250210T212000Z">
+        <seg>Para usar o dicionário de sinônimos, clique em &lt;f0&gt;Dicionário de sinônimos&lt;/f0&gt; no submenu &lt;f1&gt;Sinônimos&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16126,6 +16246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using AutoCorrect</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212031Z" creationid="timot" creationdate="20250210T212031Z">
+        <seg>Usar a Autocorreção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using AutoFormat</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163848Z" creationid="olivier" creationdate="20250204T163848Z">
@@ -16186,6 +16314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123825Z" creationid="olivier-tdf" creationdate="20250114T123825Z">
         <seg>Documento de planilhas no LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using synonyms and the thesaurus</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T211753Z" creationid="timot" creationdate="20250210T211753Z">
+        <seg>Usar sinônimos e o dicionário de sinônimos</seg>
       </tuv>
     </tu>
     <tu>
@@ -17166,6 +17302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer’s AutoCorrect function has a long list of common misspellings and typing errors, which it corrects automatically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212055Z" creationid="timot" creationdate="20250210T212055Z">
+        <seg>A função Autocorreção do Writer tem uma longa lista de erros ortográficos e de digitação comuns, que são corrigidos automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yes, as long as requirements are met for one of the licenses in the copyright statement at the beginning of this user guide.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215554Z" creationid="olivier-tdf" creationdate="20250109T215554Z">
@@ -17202,6 +17346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T114057Z" creationid="timot" creationdate="20250114T114057Z">
         <seg>É possível aceitá-las ou rejeitá-las aqui, bem como na caixa de diálogo Gerenciar alterações ou na barra de ferramentas Gerenciar alterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can add your own corrections or special characters or change those supplied with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212321Z" creationid="timot" creationdate="20250210T212321Z">
+        <seg>É possível adicionar suas próprias correções ou caracteres especiais ou alterar aqueles fornecidos com o LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17590,6 +17742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can select additional grammar checking rules through &lt;f0&gt;Tools &gt; Options &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Languages and Locales&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; English Sentence Checking&lt;/f3&gt;, or add remote LanguageTool grammar checking through &lt;f4&gt;Tools &gt; Options &gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Languages and Locales&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &gt; LanguageTool Server &lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T211727Z" creationid="timot" creationdate="20250210T211727Z">
+        <seg>Podemos selecionar regras adicionais de verificação gramatical em &lt;f0&gt;Ferramentas &gt; Opções &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Idiomas e localidades&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; Verificação de frases em Inglês&lt;/f3&gt; ou adicionar verificação gramatical LanguageTool remota em &lt;f4&gt;Ferramentas &gt; Opções &gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Idiomas e localidades&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &gt; Servidor LanguageTool&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can select contiguous cells and merge them into one large cell by:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250128T205727Z">
@@ -17738,6 +17898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225918Z" creationid="olivier" creationdate="20250123T225918Z">
         <seg>Você pode querer ativar &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Geral &gt; Pressione Enter para alternar para o modo de edição&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may wish to disable some of its features, modify others, or turn it off completely.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212154Z" creationid="timot" creationdate="20250210T212154Z">
+        <seg>Tem como desativar alguns de seus recursos, modificar outros ou desativá-los completamente.</seg>
       </tuv>
     </tu>
     <tu>
