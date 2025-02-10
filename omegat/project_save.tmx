@@ -1870,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add (append) a space automatically after an accepted word.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T213810Z" creationid="timot" creationdate="20250210T213810Z">
+        <seg>Acrescente um espaço automaticamente após uma palavra aceita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add a word to the dictionary</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T101457Z" creationid="timot" creationdate="20250206T101457Z">
@@ -6358,6 +6366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, type :smiling: and AutoCorrect will replace it with ☺.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T213324Z" creationid="timot" creationdate="20250210T213324Z">
+        <seg>Por exemplo, digite :smiling:4 e Autocorreção irá substituí-lo por ☺.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, with a chart selected, the Properties deck contains Line, Position and Size, Area, and Shadow panels.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214330Z" creationid="olivier-tdf" creationdate="20250116T214330Z">
@@ -7750,6 +7766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If Word Completion is enabled, Writer tries to guess which word you are typing and offers to complete the word for you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T213549Z" creationid="timot" creationdate="20250210T213549Z">
+        <seg>Se a Completar palavras estiver ativada, o Writer tenta adivinhar qual palavra você está digitando e se oferece para completar aquela palavra para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a number is entered with leading zeroes (for example, 01481), Calc will drop the leading zeroes by default.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225953Z" creationid="olivier-tdf" creationdate="20250122T225953Z">
@@ -8442,6 +8466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier-tdf" creationdate="20250117T122049Z">
         <seg>Em muitos casos, os arquivos CSV contêm dados exportados de um banco de dados, resultando num arquivo no qual cada linha corresponde a um registro de uma tabela ou consulta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In most cases, the defaults are fine.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212602Z" creationid="timot" creationdate="20250210T212602Z">
+        <seg>Na maioria dos casos, os padrões são bons.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9242,6 +9274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194807Z" creationid="olivier-tdf" creationdate="20250109T194807Z">
         <seg>O LibreOffice vem com um extenso sistema de Ajuda e isso pode ser usado como a primeira linha de suporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice has an extensive list of special characters accessible with AutoCorrect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212732Z" creationid="timot" creationdate="20250210T212732Z">
+        <seg>O LibreOffice tem uma extensa lista de caracteres especiais acessíveis com a Autocorreção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10270,6 +10310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the &lt;f1&gt;Replace&lt;/f1&gt; tab, you can define which strings of text are corrected and how.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212557Z" creationid="timot" creationdate="20250210T212557Z">
+        <seg>Na guia &lt;f1&gt;Substituir&lt;/f1&gt;, é possível definir quais sequências de texto são corrigidas e de que maneira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the &lt;f2&gt;General&lt;/f2&gt; tab of the Cell Style dialog, enter a name for the new style in the &lt;f3&gt;Name&lt;/f3&gt; field and click the &lt;f4&gt;OK&lt;/f4&gt; button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211803Z" creationid="olivier" creationdate="20250204T163700Z">
@@ -10590,10 +10638,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options for customizing word completion from the AutoCorrect dialog include:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T213744Z" creationid="timot" creationdate="20250210T213744Z">
+        <seg>As opções para personalizar a conclusão de palavras na caixa de diálogo Autocorreção incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options tab</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T211101Z" creationid="olivier" creationdate="20250123T211101Z">
         <seg>Aba Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Or, (c) will be changed to ©.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T213333Z" creationid="timot" creationdate="20250210T213333Z">
+        <seg>Ou, (C) será alterado para ©.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10658,6 +10722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T225742Z" creationid="tdf" creationdate="20241226T225742Z">
         <seg>Outras versões do LibreOffice podem diferir na aparência e funcionalidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Otherwise, continue typing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T213603Z" creationid="timot" creationdate="20250210T213603Z">
+        <seg>Caso contrário, continue digitando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11702,6 +11774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the different tabs of the dialog for the other options available to fine-tune AutoCorrect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212706Z" creationid="timot" creationdate="20250210T212706Z">
+        <seg>Veja as diferentes guias da caixa de diálogo para as outras opções disponíveis para ajustar a Autocorreção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the section “&lt;bf0&gt;Selecting sheets&lt;/bf0&gt;” &lt;bf1&gt;above&lt;/bf1&gt;&lt;s2/&gt;for more details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224231Z" creationid="olivier" creationdate="20250123T224231Z">
@@ -12618,6 +12698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195536Z" creationid="olivier-tdf" creationdate="20250109T195536Z">
         <seg>Mostrar dica do dia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show the suggested word as a tip (hovering over the word) rather than completing the text as you type.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T213830Z" creationid="timot" creationdate="20250210T213830Z">
+        <seg>Mostre a palavra sugerida como uma dica (passando o mouse sobre a palavra) em vez de completar o texto enquanto você digita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14846,6 +14934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To accept the suggestion, press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T213559Z" creationid="timot" creationdate="20250210T213559Z">
+        <seg>Para aceitar a sugestão, digite &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To access a short list of synonyms, right-click on a word and point to &lt;f0&gt;Synonyms&lt;/f0&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T211820Z" creationid="timot" creationdate="20250210T211820Z">
@@ -14874,6 +14970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="timot" creationdate="20250205T155610Z">
         <seg>Para adicionar um novo caractere à lista &lt;f3&gt;de Caracteres favoritos&lt;/f3&gt;, clique num caractere e clique no botão &lt;f4&gt;Adicionar aos favoritos&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To add a new spelling to the list, type it into the &lt;f2&gt;Replace&lt;/f2&gt; and &lt;f3&gt;With&lt;/f3&gt; boxes on the &lt;f4&gt;Replace&lt;/f4&gt; tab, and click &lt;f5&gt;New&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212649Z" creationid="timot" creationdate="20250210T212649Z">
+        <seg>Para adicionar uma nova ortografia à lista, digite-a nas caixas &lt;f2&gt;Substituir&lt;/f2&gt; e &lt;f3&gt;Por&lt;/f3&gt; na guia &lt;f4&gt;Substituir&lt;/f4&gt; e clique em &lt;f5&gt;Novo&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15854,6 +15958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To stop Writer replacing a specific spelling, go to the &lt;f0&gt;Replace&lt;/f0&gt; tab, highlight the word pair, and click &lt;f1&gt;Delete&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T212614Z" creationid="timot" creationdate="20250210T212614Z">
+        <seg>Para impedir que o Writer substitua uma ortografia específica, vá para a guia &lt;f0&gt;Substituir&lt;/f0&gt;, destaque o par de palavras e clique em &lt;f1&gt;Excluir&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To this edition</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215624Z" creationid="timot" creationdate="20250110T215624Z">
@@ -15890,6 +16002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212554Z" creationid="olivier" creationdate="20250123T212554Z">
         <seg>Para desativá-la, acesse &lt;f0&gt;Ferramentas&lt;/f0&gt; na barra de menus e desmarque &lt;f1&gt; Autoentrada&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To turn off Word Completion, select &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f0&gt; and deselect &lt;f1&gt;Enable word completion&lt;/f1&gt; on the &lt;f2&gt;Word Completion&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T213732Z" creationid="timot" creationdate="20250210T213732Z">
+        <seg>Para desativar o Completar palavras, selecione &lt;f0&gt;Ferramentas &gt; Autocorreção &gt; Opções da Autocorreção&lt;/f0&gt; e desmarque &lt;f1&gt;Completar palavras &lt;/f1&gt; na guia &lt;f2&gt;Completar palavras&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16274,6 +16394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203037Z" creationid="olivier-tdf" creationdate="20250109T114116Z">
         <seg>LibreOffice no macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using Word Completion</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T213515Z" creationid="timot" creationdate="20250210T213515Z">
+        <seg>Usar o Completar palavras</seg>
       </tuv>
     </tu>
     <tu>
@@ -17354,6 +17482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T212321Z" creationid="timot" creationdate="20250210T212321Z">
         <seg>É possível adicionar suas próprias correções ou caracteres especiais ou alterar aqueles fornecidos com o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can add your own special characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250210T213349Z" creationid="timot" creationdate="20250210T213349Z">
+        <seg>É possível adicionar seus próprios caracteres especiais.</seg>
       </tuv>
     </tu>
     <tu>
