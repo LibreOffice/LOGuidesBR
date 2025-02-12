@@ -1392,8 +1392,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide &lt;/s0&gt;&lt;s1&gt;The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide &lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tulio" changedate="20250211T143342Z" creationid="tulio" creationdate="20250211T143342Z">
-        <seg>&lt;/s1&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T221858Z" creationid="olivier" creationdate="20250212T221858Z">
+        <seg>&lt;s0&gt;A barra de Status do Impress&lt;/s0&gt;&lt;s1&gt;A barra de Status do Impress&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4558,6 +4558,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cursor position</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T221946Z" creationid="olivier" creationdate="20250212T221946Z">
+        <seg>Posição do cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cursor position/Object size</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222326Z" creationid="olivier" creationdate="20250212T222326Z">
+        <seg>Posição do cursor/Tamanho do objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customizing the Enter key</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135420Z" creationid="olivier-tdf" creationdate="20250120T135420Z">
@@ -4962,6 +4978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201632Z" creationid="olivier-tdf" creationdate="20250209T201632Z">
         <seg>Duplo clique no nome do estilo de página na barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-click to open the Available Master Slides dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222316Z" creationid="olivier" creationdate="20250212T222316Z">
+        <seg>Clique duas vezes para abrir a caixa de diálogo Slides mestres disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6290,6 +6314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T193845Z" creationid="olivier-tdf" creationdate="20250209T193845Z">
         <seg>Primeiro, à medida que os dados na tabela dinâmica são alterados, o gráfico dinâmico se ajusta automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fit slide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222109Z" creationid="olivier" creationdate="20250212T222109Z">
+        <seg>Régua de ajuste</seg>
       </tuv>
     </tu>
     <tu>
@@ -8058,6 +8090,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194703Z" creationid="olivier-tdf" creationdate="20250109T194703Z">
         <seg>Se for difícil entender o que uma opção faz, o LibreOffice recomenda deixar a opção em sua configuração padrão, a menos que as instruções neste guia do usuário recomendem alterar a configuração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If necessary you can select a master slide and apply it to the current slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222255Z" creationid="olivier" creationdate="20250212T222255Z">
+        <seg>Se necessário, você pode selecionar um slide mestre e aplicá-lo ao slide atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9910,6 +9950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Master slide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T221936Z" creationid="olivier" creationdate="20250212T221936Z">
+        <seg>Slide mestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Math (equation editor)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114420Z" creationid="olivier-tdf" creationdate="20250109T114420Z">
@@ -10498,6 +10546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203203Z" creationid="olivier" creationdate="20250123T203203Z">
         <seg>Os números também podem ser inseridos como texto usando um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Object size</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222041Z" creationid="olivier" creationdate="20250212T222041Z">
+        <seg>Tamanho do objeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -13046,6 +13102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shows different information depending on which Impress objects are selected or not:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222340Z" creationid="olivier" creationdate="20250212T222340Z">
+        <seg>Mostra informações diferentes dependendo de quais objetos do Impress estão selecionados ou não:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shows the language and localization at the cursor position, or for the selected text, that is used for checking spelling, grammar, hyphenation, and the thesaurus.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T201204Z" creationid="timot" creationdate="20250111T201204Z">
@@ -13766,6 +13830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Impress Status bar Slide number Information area Master slide Cursor position Object size Unsaved changes Digital signature Text language Fit slide Zoom slide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T221925Z" creationid="olivier" creationdate="20250212T221925Z">
+        <seg>A barra de Status do Impress Número do slide Área de informações Slide mestre Posição do cursor Tamanho do objeto Alterações não salvas Assinatura digital Idioma do texto Ajustar slide Slide de zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Impress Status bar is shown in Figure &lt;t0&gt;4&lt;/t0&gt; and it has the following components:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T142621Z" creationid="tulio" creationdate="20250211T142621Z">
@@ -14346,6 +14418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214720Z" creationid="olivier-tdf" creationdate="20250116T214720Z">
         <seg>A seção principal do espaço de trabalho do Calc exibe as células na forma de uma grade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The master slide associated with the slide or notes pages in the Workspace.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222152Z" creationid="olivier" creationdate="20250212T222152Z">
+        <seg>O slide mestre associado às páginas de slides ou notas no espaço de trabalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16646,6 +16726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To use these options, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences LibreOffice &gt; View&lt;/f1&gt;) and select the options available in &lt;f2&gt;Visibility&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T221555Z" creationid="olivier" creationdate="20250212T221555Z">
+        <seg>Para usar essas opções, vá para &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Exibir&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências LibreOffice &gt; Visualizar&lt;/f1&gt;) e selecione as opções disponíveis em &lt;f2&gt;Exibir&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To view more completions that start with the same letters, use the key combinations &lt;f0&gt;Ctrl+Tab&lt;/f0&gt; to scroll forward, or &lt;f1&gt;Ctrl+Shift+Tab&lt;/f1&gt; to scroll backward.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213553Z" creationid="olivier" creationdate="20250123T213553Z">
@@ -16810,6 +16898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T222919Z" creationid="olivier-tdf" creationdate="20250122T222919Z">
         <seg>Soltar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unsaved changes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222050Z" creationid="olivier" creationdate="20250212T222050Z">
+        <seg>Alterações não salvas</seg>
       </tuv>
     </tu>
     <tu>
@@ -17470,6 +17566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When an object is selected and being resized, this area of the Impress Status bar shows the size of the object (width and height).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222431Z" creationid="olivier" creationdate="20250212T222431Z">
+        <seg>Quando um objeto é selecionado e está sendo redimensionado, esta área da barra de Status do Impress mostra o tamanho do objeto (largura e altura).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When creating a spreadsheet, you may want to restrict users to entering data that is valid and appropriate for the cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224440Z" creationid="olivier" creationdate="20250123T224440Z">
@@ -17506,6 +17610,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213345Z" creationid="olivier" creationdate="20250123T213345Z">
         <seg>Quando várias correspondências continuarem com as mesmas letras, elas aparecerão na célula após o que já foi digitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When no object is selected, Impress displays the current position (X and Y coordinates) of the cursor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222412Z" creationid="olivier" creationdate="20250212T222412Z">
+        <seg>Sem nenhum objeto selecionado, o Impress exibe a posição atual (coordenadas X e Y) do cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18486,6 +18598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can right-click this area to view a list of available master slides in Impress.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222231Z" creationid="olivier" creationdate="20250212T222231Z">
+        <seg>É possível clicar com o botão direito do mouse nesta área para visualizar uma lista de slides mestres disponíveis no Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can save a spreadsheet in another format:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123549Z" creationid="olivier-tdf" creationdate="20250117T123549Z">
@@ -18714,6 +18834,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105644Z" creationid="timot" creationdate="20250113T105644Z">
         <seg>As configurações de zoom interagem com o leiaute de exibição selecionado e a largura da janela para determinar quantas páginas são visíveis na janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom slide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222122Z" creationid="olivier" creationdate="20250212T222122Z">
+        <seg>Régua de zoom</seg>
       </tuv>
     </tu>
     <tu>
