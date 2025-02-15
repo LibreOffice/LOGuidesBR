@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Capitalize Every Word&lt;/f0&gt;, where every word is capitalized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T110843Z" creationid="timot" creationdate="20250215T110843Z">
+        <seg>&lt;f0&gt;Palavras Iniciando Com Maiúsculas&lt;/f0&gt;, onde cada palavra inicia com letra maiúscula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Cell Appearance:&lt;/f0&gt; Options for controlling the appearance of cells, including background color and border formats.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T214954Z" creationid="olivier-tdf" creationdate="20250116T214231Z">
@@ -686,6 +694,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Sentence case&lt;/f0&gt;, where only the first word is capitalized (together with any proper nouns).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T110740Z" creationid="timot" creationdate="20250215T110740Z">
+        <seg>&lt;f0&gt;Frase iniciando com maiúscula&lt;/f0&gt;, onde apenas a primeira palavra é maiúscula (juntamente com qualquer substantivo próprio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Small capitals&lt;/f0&gt;, which capitalizes all letters in a reduced font size.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T111035Z" creationid="timot" creationdate="20250215T111035Z">
+        <seg>&lt;f0&gt;Versaletes&lt;/f0&gt;, que deixa todas as letras em maiúsculas de tamanho reduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Snap, Flatpak, Appimage &lt;/f0&gt;&lt;f1&gt;and other &lt;/f1&gt;&lt;f2&gt;packages are available as well from your distribution channel.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194037Z" creationid="olivier-tdf" creationdate="20250109T194037Z">
@@ -798,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;UPPERCASE&lt;/f0&gt;, where all letters are capitalized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T110637Z" creationid="timot" creationdate="20250215T110637Z">
+        <seg>&lt;f0&gt;MAIÚSCULAS&lt;/f0&gt;, onde todas as letras são maiúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Wrap&lt;/f0&gt;: Modify wrap and spacing where these are available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T104241Z" creationid="timot" creationdate="20250114T104241Z">
@@ -810,6 +842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114912Z" creationid="olivier-tdf" creationdate="20250109T114912Z">
         <seg>&lt;f0&gt;Você pode baixar a versão gratuita da Comunidade do LibreOffice em: &lt;/f0&gt;&lt;f1&gt;&lt;a2&gt;https://libreoffice.org/download/&lt;/a2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;lowercase&lt;/f0&gt;, where no words (except proper nouns) are capitalized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T110647Z" creationid="timot" creationdate="20250215T110647Z">
+        <seg>&lt;f0&gt;minúsculas&lt;/f0&gt;, onde nenhuma palavra (exceto substantivos próprios) é maiúscula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -970,6 +1010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250207T104802Z" creationid="timot" creationdate="20250207T104802Z">
         <seg>&lt;s0&gt;Menu de contexto para erros gramaticais&lt;/s0&gt;&lt;s1&gt; Menu de contexto para erros gramaticais&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Creating an AutoText entry&lt;/s0&gt;&lt;s1&gt;Creating an AutoText entry&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105210Z" creationid="timot" creationdate="20250215T105210Z">
+        <seg>&lt;s0&gt;Criar uma entrada de Autotexto&lt;/s0&gt;&lt;s1&gt; Criar uma entrada de Autotexto&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2550,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Applies formatting directly to specific paragraphs, characters, pages, frames, lists, or tables.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T111908Z" creationid="timot" creationdate="20250215T111908Z">
+        <seg>Aplica a formatação diretamente a parágrafos, caracteres, páginas, quadros, listas ou tabelas específicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply any of the data types in the &lt;f0&gt;Category&lt;/f0&gt; list to the data.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210755Z" creationid="olivier-tdf" creationdate="20250128T210755Z">
@@ -2578,6 +2634,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215020Z" creationid="olivier-tdf" creationdate="20250109T215020Z">
         <seg>Quantos quiser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you add words when working on documents, you can either save them for later use in other documents or select the option to remove them from the list when closing documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T104509Z" creationid="timot" creationdate="20250215T104509Z">
+        <seg>Ao adicionar palavras enquanto trabalha em documentos, você pode salvá-las para uso posterior em outros documentos ou selecionar a opção de removê-las da lista ao fechar documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,6 +2734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AutoText is especially powerful when assigned to fields.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T110625Z" creationid="timot" creationdate="20250215T105504Z">
+        <seg>O Autotexto é especialmente poderoso quando atribuído a campos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automated tables of contents and indexes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195505Z" creationid="timot" creationdate="20250111T195505Z">
@@ -2682,6 +2754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194247Z" creationid="olivier-tdf" creationdate="20250209T194247Z">
         <seg>As linhas de quebra de página automáticas são exibidas na tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatic word completion only occurs after you type a word for the second time in a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T104736Z" creationid="timot" creationdate="20250215T104736Z">
+        <seg>O preenchimento automático de palavras só ocorre após a digitação de uma palavra pela segunda vez em um documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3350,6 +3430,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change the key that accepts a suggested entry—the options are right arrow, End key, Return (Enter), Space bar, and Tab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T104658Z" creationid="timot" creationdate="20250215T104658Z">
+        <seg>Altere a tecla que aceita uma entrada sugerida - as opções são seta para a direita, tecla End, Return (Enter), barra de espaço e Tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the maximum number of words remembered for word completion and the length of the smallest words to be remembered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T104618Z" creationid="timot" creationdate="20250215T104618Z">
+        <seg>Altere o número máximo de palavras lembradas para completar a palavra e o tamanho das menores palavras a serem lembradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change tracking during revisions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195543Z" creationid="timot" creationdate="20250111T195543Z">
@@ -3386,6 +3482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T114646Z" creationid="timot" creationdate="20250114T114646Z">
         <seg>Alterar a visualização do documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changing the case of selected text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105656Z" creationid="timot" creationdate="20250215T105656Z">
+        <seg>Alterar o a caixa do texto selecionado</seg>
       </tuv>
     </tu>
     <tu>
@@ -3550,6 +3654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Tools &gt; AutoText&lt;/f0&gt; on the Menu bar (or press &lt;f1&gt;Ctrl+F3&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105047Z" creationid="timot" creationdate="20250215T105047Z">
+        <seg>Escolha &lt;f0&gt;Ferramentas &gt; Autotexto&lt;/f0&gt; na barra de menu (ou tecle &lt;f1&gt;Ctrl+F3&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose &lt;f0&gt;View &gt; Freeze Rows and Columns&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Freeze Rows and Columns&lt;/f1&gt; icon on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T221926Z" creationid="olivier-tdf" creationdate="20250122T221926Z">
@@ -3582,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose the category for the AutoText entry, for example &lt;f0&gt;My AutoText&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105256Z" creationid="timot" creationdate="20250215T105256Z">
+        <seg>Escolha a categoria para a entrada de Autotexto, por exemplo, &lt;f0&gt;Meu Autotexto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose whether to check uppercase words or words that contain numbers, by clicking the &lt;f0&gt;Options&lt;/f0&gt; button on the Spelling dialog to open a dialog similar to the one in &lt;f1&gt;Tools &gt; Options &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Languages and Locales&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Writing Aids&lt;/f4&gt;, described in Chapter 12, Configuring LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T102900Z" creationid="timot" creationdate="20250206T102547Z">
@@ -3594,6 +3714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211455Z" creationid="olivier" creationdate="20250123T220314Z">
         <seg>Clique em &lt;f0&gt;Adicionar&lt;/f0&gt; e a nova lista aparecerá na caixa &lt;f1&gt;Listas&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Close&lt;/f0&gt; to return to your document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105404Z" creationid="timot" creationdate="20250215T105404Z">
+        <seg>Clique em &lt;f0&gt;Fechar&lt;/f0&gt; para retornar ao seu documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4018,6 +4146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120234Z" creationid="olivier" creationdate="20250121T120234Z">
         <seg>Clique ou clique e arraste para selecionar intervalos de células para adicionar à seleção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;AutoText&lt;/f0&gt; button at the bottom of the dialog and select in the menu either &lt;f1&gt;New&lt;/f1&gt;, to have the AutoText retain specific formatting, no matter where it is inserted, or &lt;f2&gt;New &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;(text only)&lt;/f4&gt;, to have the AutoText take on the existing formatting around the insertion point.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105356Z" creationid="timot" creationdate="20250215T105356Z">
+        <seg>Clique no botão &lt;f0&gt;Autotexto&lt;/f0&gt; na parte inferior da caixa de diálogo e selecione no menu &lt;f1&gt;Novo&lt;/f1&gt;, para que o Autotexto retenha uma formatação específica, não importa onde esteja inserido, ou &lt;f2&gt;Novo &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;(somente texto)&lt;/f4&gt;, para que o Autotexto assuma a formatação existente em torno do ponto de inserção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4534,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating an AutoText entry</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105241Z" creationid="timot" creationdate="20250215T105241Z">
+        <seg>Criar uma entrada de Autotexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creating formulas</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190449Z" creationid="olivier-tdf" creationdate="20250209T190449Z">
@@ -4734,6 +4878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete specific entries from the word completion list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T104632Z" creationid="timot" creationdate="20250215T104632Z">
+        <seg>Exclua entradas específicas da lista de conclusão de palavras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deleting a break</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200715Z" creationid="olivier-tdf" creationdate="20250209T200715Z">
@@ -4834,6 +4986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104711Z" creationid="timot" creationdate="20250113T104711Z">
         <seg>Assinatura digital</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Direct (or Manual) formatting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T111854Z" creationid="timot" creationdate="20250215T111854Z">
+        <seg>Formatação direta (ou manual)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5750,6 +5910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Creating an AutoText entry</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105222Z" creationid="timot" creationdate="20250215T105222Z">
+        <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;: Criar uma entrada de Autotexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Delete Cells dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154230Z" creationid="olivier" creationdate="20250121T154230Z">
@@ -6518,6 +6686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, rather than typing “Senior Management” every time you use that phrase, you can set up an AutoText entry to insert those words when you type “sm” and press &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T104927Z" creationid="timot" creationdate="20250215T104927Z">
+        <seg>Por exemplo, em vez de digitar "Gerência sênior" toda vez que usar essa frase, você pode configurar uma entrada de Autotexto para inserir essas palavras ao digitar "sm" e teclar &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, the People Gallery is available from &lt;a1&gt;https://extensions.libreoffice.org/en/extensions/show/people-gallery&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213810Z" creationid="olivier-tdf" creationdate="20250109T213810Z">
@@ -6602,6 +6778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214330Z" creationid="olivier-tdf" creationdate="20250116T214330Z">
         <seg>Por exemplo, com um gráfico selecionado, o deque Propriedades contém os painéis Linha, Posição e Tamanho, Área e Sombra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, you can select a word, then click on a button on the Formatting toolbar to format the text as bold or italics.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T111935Z" creationid="timot" creationdate="20250215T111935Z">
+        <seg>Por exemplo, você pode selecionar uma palavra e clicar em um botão na barra de ferramentas Formatação para formatar o texto em negrito ou itálico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7010,6 +7194,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210705Z" creationid="olivier-tdf" creationdate="20250128T210705Z">
         <seg>Formatar números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T111835Z" creationid="timot" creationdate="20250215T111835Z">
+        <seg>Formatar texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -7950,6 +8142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, you can use &lt;f1&gt;Capitalize Every Word&lt;/f1&gt; and then restore those words that you do not want capitalized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T111823Z" creationid="timot" creationdate="20250215T111823Z">
+        <seg>No entanto, você pode usar &lt;f1&gt;Palavras Iniciando Com Maiúsculas&lt;/f1&gt; e, em seguida, restaurar as palavras que não deseja em maiúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, you can use it in other spreadsheets.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164609Z" creationid="olivier" creationdate="20250204T164609Z">
@@ -8202,6 +8402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier-tdf" creationdate="20250109T194845Z">
         <seg>Se a ajuda offline não estiver instalada num computador, mas conectada à Internet, uma caixa de diálogo será aberta, dando a opção de &lt;f2&gt;Ler Ajuda Online&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the only option under the AutoText button is &lt;f0&gt;Import&lt;/f0&gt;, either you have not entered a name for your AutoText or there is no text selected in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105456Z" creationid="timot" creationdate="20250215T105456Z">
+        <seg>Se a única opção no botão Autotexto for &lt;f0&gt;Importar&lt;/f0&gt;, ou não foi inserido um nome para o Autotexto ou não há texto selecionado no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8866,6 +9074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T221101Z" creationid="olivier-tdf" creationdate="20250128T205548Z">
         <seg>Na linha &lt;f1&gt;Entrada&lt;/f1&gt; da barra de fórmulas, você também pode teclar &lt;f2&gt;Shift+Enter&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the AutoText dialog (Figure &lt;t0&gt;18&lt;/t0&gt;), type a name for the AutoText in the &lt;f1&gt;Name&lt;/f1&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105115Z" creationid="timot" creationdate="20250215T105115Z">
+        <seg>Na caixa de diálogo Autotexto (Figura &lt;t0&gt;18&lt;/t0&gt;), digite um nome para o Autotexto na caixa &lt;f1&gt;Nome&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12126,6 +12342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105517Z" creationid="timot" creationdate="20250215T105517Z">
+        <seg>Consulte o &lt;f0&gt;Guia do Writer&lt;/f0&gt; para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the Advanced Options in Chapter 12, Configuring LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194357Z" creationid="olivier-tdf" creationdate="20250109T194357Z">
@@ -13096,8 +13320,8 @@
       <tuv lang="en-US">
         <seg>Show the suggested word as a tip (hovering over the word) rather than completing the text as you type.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250210T213830Z" creationid="timot" creationdate="20250210T213830Z">
-        <seg>Mostre a palavra sugerida como uma dica (passando o mouse sobre a palavra) em vez de completar o texto enquanto você digita.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T104438Z" creationid="timot" creationdate="20250210T213830Z">
+        <seg>Mostre a palavra sugerida como dica (passando o mouse sobre a palavra) em vez de completar o texto enquanto digita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14434,6 +14658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T003332Z" creationid="olivier-tdf" creationdate="20250116T003332Z">
         <seg>Os menus específicos do Calc são Planilha e Dados; além disso, várias ferramentas importantes de análise de dados são encontradas no menu Ferramentas e o menu Exibir contém várias opções que são de interesse específico para os usuários do Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most common are:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T110407Z" creationid="timot" creationdate="20250215T110407Z">
+        <seg>As mais comuns são:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16110,6 +16342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To insert AutoText, type the shortcut and press &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105418Z" creationid="timot" creationdate="20250215T105418Z">
+        <seg>Para inserir Autotexto, digite o atalho e tecle &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To insert a manual line break in a cell, press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier-tdf" creationdate="20250128T205512Z">
@@ -16298,6 +16538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215658Z" creationid="timot" creationdate="20250110T215658Z">
         <seg>Edições anteriores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To quickly change the case of text, select it, choose &lt;f0&gt;Format &gt; Text&lt;/f0&gt; on the Menu bar, and then choose one of the items on the submenu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105726Z" creationid="timot" creationdate="20250215T105726Z">
+        <seg>Para alterar rapidamente a caixa do texto, selecione-o, escolha &lt;f0&gt;Formatar &gt; Texto&lt;/f0&gt; na Barra de menu e, em seguida, escolha um dos itens no submenu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16614,6 +16862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To store some text as AutoText:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105014Z" creationid="timot" creationdate="20250215T105014Z">
+        <seg>Para armazenar algum texto como Autotexto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To this edition</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215624Z" creationid="timot" creationdate="20250110T215624Z">
@@ -16862,6 +17118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type the text into your document, then select the text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105022Z" creationid="timot" creationdate="20250215T105022Z">
+        <seg>Digite o texto em seu documento e selecione o texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type the text you want to find in the &lt;f0&gt;Find&lt;/f0&gt; box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104851Z" creationid="timot" creationdate="20250204T104851Z">
@@ -16914,6 +17178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T122739Z" creationid="timot" creationdate="20250205T122739Z">
         <seg>Use &lt;f0&gt;Substituir todos&lt;/f0&gt; com cautela, caso contrário, é possível acabar com erros impossíveis de desfazer caso o arquivo for salvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use AutoText to store text, tables, fields, and other items for reuse and assign them to a key combination for easy retrieval.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T104838Z" creationid="timot" creationdate="20250215T104838Z">
+        <seg>Use o Autotexto para armazenar textos, tabelas, campos e outros itens para reutilização e atribua-os a uma combinação de teclas para facilitar a recuperação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17074,6 +17346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163832Z" creationid="olivier" creationdate="20250204T163832Z">
         <seg>Utilizar Autoformatação em células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using AutoText</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T104749Z" creationid="timot" creationdate="20250215T104749Z">
+        <seg>Usar Autotexto</seg>
       </tuv>
     </tu>
     <tu>
@@ -18126,6 +18406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer does not have an automated way to do &lt;f0&gt;Title Case&lt;/f0&gt;, where all words are capitalized except for certain subsets defined by rules that are not universally standardized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T111733Z" creationid="timot" creationdate="20250215T111733Z">
+        <seg>O Writer não tem uma maneira automatizada de criar &lt;f0&gt;Maiúsculas De Título&lt;/f0&gt;, onde todas as palavras são maiúsculas, exceto para certos subconjuntos definidos por regras que não são universalmente padronizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer has &lt;f0&gt;three&lt;/f0&gt; ways to find text within a document: the Find toolbar &lt;f1&gt;and the Find deck in the Sidebar &lt;/f1&gt;for fast searching&lt;f2&gt;,&lt;/f2&gt; and the Find and Replace dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="timot" creationdate="20250202T112610Z">
@@ -18154,6 +18442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195309Z" creationid="timot" creationdate="20250111T195309Z">
         <seg>O Writer é o componente de processamento de texto do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer will suggest a one-letter shortcut, which you can change.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T105143Z" creationid="timot" creationdate="20250215T105143Z">
+        <seg>O Writer sugerirá um atalho de uma letra, que pode ser alterado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18538,6 +18834,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T001625Z" creationid="olivier" creationdate="20250120T001625Z">
         <seg>Você pode filtrar ou escolher a tabela a importar pela sua legenda HTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can format text in two ways.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250215T111850Z" creationid="timot" creationdate="20250215T111850Z">
+        <seg>É possível formatar o texto de duas maneiras.</seg>
       </tuv>
     </tu>
     <tu>
