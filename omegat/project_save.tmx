@@ -4062,6 +4062,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Sidebar Settings&lt;/f0&gt; at the top right of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135238Z" creationid="olivier" creationdate="20250217T135238Z">
+        <seg>Clique em &lt;f0&gt;Configurações da barra lateral&lt;/f0&gt; no canto superior direito da barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Sidebar Settings&lt;/f0&gt; at the top right, do the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135013Z" creationid="olivier" creationdate="20250217T135013Z">
+        <seg>Clique em &lt;f0&gt;Configurações da barra lateral&lt;/f0&gt; no canto superior direito da Barra Lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on a word or phrase in the submenu to have it replace the highlighted word or phrase in the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250210T220255Z" creationid="timot" creationdate="20250210T211841Z">
@@ -6782,6 +6798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, click on &lt;f0&gt;Impress Presentation&lt;/f0&gt; and a new presentation is created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135519Z" creationid="olivier" creationdate="20250217T135519Z">
+        <seg>Por exemplo, clique em &lt;f0&gt;Apresentação do Impress&lt;/f0&gt; para criar uma apresentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, for 3 decimal places, type one period and three question marks [&lt;f2&gt;.???]&lt;/f2&gt; and click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231531Z" creationid="olivier-tdf" creationdate="20250122T231531Z">
@@ -6842,6 +6866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T104927Z" creationid="timot" creationdate="20250215T104927Z">
         <seg>Por exemplo, em vez de digitar "Gerência sênior" toda vez que usar essa frase, você pode configurar uma entrada de Autotexto para inserir essas palavras ao digitar "sm" e teclar &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, text can be made bold or italic with the Format menu, the Formatting toolbar, or the Properties deck.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134723Z" creationid="olivier" creationdate="20250217T134723Z">
+        <seg>Por exemplo, o texto pode ficar em negrito ou itálico com o menu Formato, a barra de ferramentas Formatação ou o deque Propriedades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7026,6 +7058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215617Z" creationid="olivier" creationdate="20250123T215617Z">
         <seg>Para obter mais detalhes sobre essa caixa de diálogo, consulte o Capítulo 2 – "Inserir e editar dados" no &lt;f2&gt;Guia do Calc&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more detail on options available on the Sidebar, see the guides for each LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134821Z" creationid="olivier" creationdate="20250217T134821Z">
+        <seg>Para obter mais detalhes sobre as opções disponíveis na barra lateral, consulte os guias de cada módulo do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7546,6 +7586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190508Z" creationid="olivier-tdf" creationdate="20250209T190508Z">
         <seg>Funções e fórmulas podem ser inseridas diretamente na barra de Fórmulas ou usando o Assistente de funções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Functions for Calc</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134646Z" creationid="olivier" creationdate="20250217T134646Z">
+        <seg>Funções para o Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -9038,6 +9086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In LibreOffice, menus, toolbars, and Sidebar panels share many functions across modules.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134705Z" creationid="olivier" creationdate="20250217T134705Z">
+        <seg>No LibreOffice, os menus, as barras de ferramentas e os painéis da barra lateral compartilham muitas funções entre os módulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Web view, you can use only the Zoom slider; the View Layout buttons on the Status Bar are disabled, and most of the choices on the Zoom &amp; View Layout dialog are not available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T115528Z" creationid="timot" creationdate="20250114T115528Z">
@@ -10078,6 +10134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice has multiple methods for creating a new document:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135400Z" creationid="olivier" creationdate="20250217T135400Z">
+        <seg>O LibreOffice tem vários métodos para criar um novo documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice has to be restarted to lock all toolbars.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T133541Z" creationid="tulio" creationdate="20250211T133541Z">
@@ -10426,6 +10490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192249Z" creationid="olivier-tdf" creationdate="20250109T192249Z">
         <seg>Muitos recursos que estão disponíveis como suplementos de custo extra em outros pacotes de escritório (como exportação de PDF) são gratuitos com o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Master Slides, Animation, Shapes, and Slide Transition for ImpressShapes for Draw</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134637Z" creationid="olivier" creationdate="20250217T134637Z">
+        <seg>Para o Impress, Slides mestres, Animação, Transição de formas e slides e para o Draw, Formas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10858,6 +10930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214934Z" creationid="olivier-tdf" creationdate="20250109T214934Z">
         <seg>O novo código está disponível em LGPL 3.0 e MPL 2.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New documents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135352Z" creationid="olivier" creationdate="20250217T135352Z">
+        <seg>Novos documentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -11350,6 +11430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the LibreOffice Start Center then click on the name of a LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135436Z" creationid="olivier" creationdate="20250217T135436Z">
+        <seg>Abra o Centro de partida  do LibreOffice clique no nome de um módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Page Style dialog (Figure &lt;t0&gt;47&lt;/t0&gt;) using one of the following methods:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201500Z" creationid="olivier-tdf" creationdate="20250209T201500Z">
@@ -11626,6 +11714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195439Z" creationid="olivier-tdf" creationdate="20250209T195439Z">
         <seg>Caixa de diálogo Estilo de página – aba Planilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page Style, Design themes, Style Inspector , Manage Track Changes, Accessibility check and, Search Text for Writer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134457Z" creationid="olivier" creationdate="20250217T134417Z">
+        <seg>Para o Writer, Estilo de página, Temas de esboço, Inspetor de estilo, Gerenciar registros de alterações, Verificação de acessibilidade e Pesquisa de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12734,6 +12830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Dock&lt;/f0&gt; from the options available, or use the keyboard shortcut &lt;f1&gt;Ctrl+Shift+F10&lt;/f1&gt; (macOS ⌘+&lt;f2&gt;Shift+F10&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135318Z" creationid="olivier" creationdate="20250217T135318Z">
+        <seg>Selecione &lt;f0&gt;Encaixar&lt;/f0&gt; das opções disponíveis, ou utilize o atalho de teclado  &lt;f1&gt;Ctrl+Shift+F10&lt;/f1&gt; (macOS ⌘+&lt;f2&gt;Shift+F10&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar to open the Save As dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123640Z" creationid="olivier-tdf" creationdate="20250117T123640Z">
@@ -12794,6 +12898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161100Z" creationid="olivier" creationdate="20250204T161100Z">
         <seg>Selecione &lt;f0&gt;Em cima&lt;/f0&gt;, &lt;f1&gt;Meio&lt;/f1&gt;, &lt;f2&gt;Embaixo&lt;/f2&gt;, &lt;f3&gt;Justificado&lt;/f3&gt; ou &lt;f4&gt;Distribuído&lt;/f4&gt; no menu &lt;f5&gt;Vertical&lt;/f5&gt; na aba &lt;f6&gt;Alinhamento&lt;/f6&gt; da caixa de diálogo Formatar células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Undock&lt;/f0&gt; from the options available, or use the keyboard shortcut &lt;f1&gt;Ctrl+Shift+F10&lt;/f1&gt; (macOS ⌘+&lt;f2&gt;Shift+F10&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135338Z" creationid="olivier" creationdate="20250217T135156Z">
+        <seg>Selecione &lt;f0&gt;Desencaixar&lt;/f0&gt; das opções disponíveis, ou utilize o atalho de teclado  &lt;f1&gt;Ctrl+Shift+F10&lt;/f1&gt; (macOS ⌘+&lt;f2&gt;Shift+F10&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13790,10 +13902,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some LibreOffice modules also have additional decks:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134148Z" creationid="olivier" creationdate="20250217T134148Z">
+        <seg>Alguns módulos do LibreOffice também têm deques adicionais:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some Linux operating systems, for example Ubuntu, include LibreOffice as part of the installation and may not include the required icon set.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213737Z" creationid="olivier-tdf" creationdate="20250109T213737Z">
         <seg>Alguns sistemas operacionais Linux, por exemplo, o Ubuntu, incluem o LibreOffice como parte da instalação e podem não incluir o conjunto de ícones necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some Sidebar panels also have a More Options button, which opens a dialog &lt;t0/&gt;with additional editing controls.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134803Z" creationid="olivier" creationdate="20250217T134803Z">
+        <seg>Alguns painéis da barra lateral também têm um botão Mais Opções, para abrir uma caixa de diálogo &lt;t0/&gt;com controles de edição adicionais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16550,6 +16678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To dock the Sidebar into its usual position on the main window, do the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135216Z" creationid="olivier" creationdate="20250217T135216Z">
+        <seg>Para encaixar a barra lateral na sua posição habitual na janela principal, faça o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To dock the selected floating toolbar in its default position, select &lt;f0&gt;Dock Toolbar&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T141634Z" creationid="tulio" creationdate="20250211T141634Z">
@@ -16682,6 +16818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122350Z" creationid="olivier" creationdate="20250121T122350Z">
         <seg>Para ocultar colunas ou linhas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To hide the Sidebar, click on &lt;f0&gt;Hide/Show&lt;/f0&gt; button on the left of the Sidebar (highlighted in Figure &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134848Z" creationid="olivier" creationdate="20250217T134848Z">
+        <seg>Para ocultar a barra lateral, clique no botão &lt;f0&gt;Ocultar/Mostrar&lt;/f0&gt; à esquerda da barra lateral (destacado na Figura &lt;t1&gt;5&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17166,6 +17310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To show the Sidebar, click on the &lt;f2&gt;Hide/Show&lt;/f2&gt; button again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134904Z" creationid="olivier" creationdate="20250217T134904Z">
+        <seg>Para mostrar a barra lateral, clique no botão &lt;f2&gt;Ocultar/Mostrar&lt;/f2&gt; novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To sign the document, or to view the certificate, click the area or icon.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104809Z" creationid="timot" creationdate="20250113T104809Z">
@@ -17290,6 +17442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212013Z" creationid="olivier" creationdate="20250123T212013Z">
         <seg>Para desativar alguns ou todos os recursos de Autocorreção, acesse &lt;f0&gt;Ferramentas &gt; Opções de Autocorreção&lt;/f0&gt; na barra de menus e desmarque os recursos indesejados nas guias &lt;f1&gt;Opções&lt;/f1&gt; e &lt;f2&gt;Opções da localidade&lt;/f2&gt; na caixa de diálogo Autocorreção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To undock the Sidebar and make it floating, do the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134914Z" creationid="olivier" creationdate="20250217T134914Z">
+        <seg>Para desacoplar a barra lateral e torná-la flutuante, faça o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
