@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Styles&lt;/f0&gt; menu on the Menu bar (limited to common styles)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100629Z" creationid="timot" creationdate="20250217T100629Z">
+        <seg>Menu &lt;f0&gt;Estilos&lt;/f0&gt; na Barra de menus (limitado a estilos comuns)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Styles&lt;/f0&gt; modifies the numbering scheme, background, page layout (specifies whether the page style should apply to odd or even pages or to both), and columns.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T113659Z" creationid="timot" creationdate="20250114T113659Z">
@@ -1154,6 +1162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230739Z" creationid="olivier-tdf" creationdate="20250122T230739Z">
         <seg>&lt;s0&gt;Caixa de diálogo Formatar células – aba Números&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Formatar células – aba Números&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Formatting (Styles) toolbar&lt;/s0&gt;&lt;s1&gt;Formatting (Styles) toolbar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100939Z" creationid="timot" creationdate="20250217T100917Z">
+        <seg>Barra de ferramentas &lt;s0&gt;Formatação (estilos) Barra&lt;/s0&gt;&lt;s1&gt;de ferramentas Formatação (estilos)&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2086,6 +2102,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Align Left, Align Center, Align Right, Justified</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101618Z" creationid="timot" creationdate="20250217T101618Z">
+        <seg>Alinhar à esquerda, Alinhar ao centro, Alinhar à direita, Justificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Align Top, Center Vertically, Align Bottom</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101732Z" creationid="timot" creationdate="20250217T101732Z">
+        <seg>Alinhar em cima, no meio e embaixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All L&lt;f0&gt;ibre&lt;/f0&gt;O&lt;f1&gt;ffice&lt;/f1&gt; users have a voice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T210125Z" creationid="olivier-tdf" creationdate="20250109T193915Z">
@@ -2870,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because styles apply whole groups of formats at the same time, you can easily format a document consistently and change the formatting of an entire document with minimal effort.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100035Z" creationid="timot" creationdate="20250217T100035Z">
+        <seg>Sendo que os estilos aplicam grupos inteiros de formatos ao mesmo tempo, é possível formatar facilmente um documento de forma consistente e alterar a formatação de um documento inteiro com o mínimo de esforço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before writing a new question on the Ask website, search for the same content as your question may have already been asked &lt;f1&gt;and answered&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T210225Z" creationid="olivier-tdf" creationdate="20250109T195908Z">
@@ -2906,6 +2946,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195521Z" creationid="timot" creationdate="20250111T195521Z">
         <seg>Ferramentas de desenho integradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bundles formatting options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T095919Z" creationid="timot" creationdate="20250217T095919Z">
+        <seg>Opções de formatação de pacotes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5926,6 +5974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Formatting (Styles) toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100948Z" creationid="timot" creationdate="20250217T100948Z">
+        <seg>Figura &lt;seq0&gt;19&lt;/seq0&gt;: Barra de ferramentas Formatação (estilos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Insert Sheet dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154518Z" creationid="olivier" creationdate="20250121T154518Z">
@@ -6606,6 +6662,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100146Z" creationid="timot" creationdate="20250217T100146Z">
+        <seg>Por exemplo, o Writer depende de estilos de títulos (ou outros estilos que podem ser especificados) quando compila um sumário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, a paragraph style defines numerous settings for options such as font type and size, whether paragraphs should be indented, the space between lines, how paragraphs should be aligned on the page, and many others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T095942Z" creationid="timot" creationdate="20250217T095942Z">
+        <seg>Por exemplo, um estilo de parágrafo define várias configurações para opções como tipo e tamanho de fonte, se os parágrafos devem ser recuados, o espaço entre as linhas, como os parágrafos devem ser alinhados na página e muitos outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, a simple macro allows you to enter your address into an open document and a macro can automate both simple and complex tasks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="rafael" creationdate="20250206T005313Z">
@@ -7134,6 +7206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formatting (Styles) toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100956Z" creationid="timot" creationdate="20250217T100956Z">
+        <seg>Barra de ferramentas Formatação (estilos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formatting cell background</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161852Z" creationid="olivier" creationdate="20250204T161852Z">
@@ -7194,6 +7274,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210705Z" creationid="olivier-tdf" creationdate="20250128T210705Z">
         <seg>Formatar números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting paragraphs directly</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101004Z" creationid="timot" creationdate="20250217T101004Z">
+        <seg>Formatar parágrafos diretamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting paragraphs using styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100304Z" creationid="timot" creationdate="20250217T100304Z">
+        <seg>Formatar parágrafos usando estilos</seg>
       </tuv>
     </tu>
     <tu>
@@ -8902,6 +8998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, LibreOffice uses styles for many processes, even if you are not aware of them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100108Z" creationid="timot" creationdate="20250217T100051Z">
+        <seg>Além disso, o LibreOffice usa estilos para muitos processos, mesmo que não seja evidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, every locale accepts input in an ISO 8601 YYYY-MM-DD pattern (for example, 2020-07-26).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier" creationdate="20250123T204340Z">
@@ -9178,6 +9282,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T164612Z" creationid="olivier" creationdate="20250121T164431Z">
         <seg>Dessa forma, você pode bloquear linhas na parte superior de uma planilha ou bloquear colunas à esquerda de uma planilha, para que os dados fixados permaneçam exibidos à medida que você percorre o restante dos dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase Indent, Decrease Indent, Hanging Indent</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T102017Z" creationid="timot" creationdate="20250217T101802Z">
+        <seg>Antes do texto, Depois do texto, Primeira linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase Paragraph Spacing, Decrease Paragraph Spacing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101748Z" creationid="timot" creationdate="20250217T101748Z">
+        <seg>Aumentar o espaçamento entre parágrafos, diminuir o espaçamento entre parágrafos</seg>
       </tuv>
     </tu>
     <tu>
@@ -9694,6 +9814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keyboard shortcuts &lt;f0&gt;Ctrl+1&lt;/f0&gt; to &lt;f1&gt;Ctrl+5&lt;/f1&gt; (paragraph styles Heading 1 to Heading 5)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100649Z" creationid="timot" creationdate="20250217T100649Z">
+        <seg>Atalhos de teclado &lt;f0&gt;Ctrl+1&lt;/f0&gt; a &lt;f1&gt;Ctrl+5&lt;/f1&gt; (estilos de parágrafo Título 1 a Título 5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Know how your CSV file is formatted before you open it in Calc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122842Z" creationid="olivier-tdf" creationdate="20250117T122842Z">
@@ -9930,6 +10058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200313Z" creationid="olivier-tdf" creationdate="20250109T200313Z">
         <seg>Informações da licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Line Spacing (choose from 1, 1.15, 1.5, 2, or custom spacing)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101743Z" creationid="timot" creationdate="20250217T101743Z">
+        <seg>Espaçamento entre linhas (escolha entre 1, 1,15, 1,5, 2 ou espaçamento personalizado)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10658,6 +10794,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T114814Z" creationid="timot" creationdate="20250114T114814Z">
         <seg>A visualização normal é a visualização padrão no Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not all buttons are visible in a standard installation, but you can customize the toolbar to include those you use regularly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101113Z" creationid="timot" creationdate="20250217T101113Z">
+        <seg>Nem todos os botões são visíveis em uma instalação padrão, mas é possível personalizar a barra de ferramentas para incluir aqueles que usados regularmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11394,6 +11538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204902Z" creationid="olivier-tdf" creationdate="20250109T204902Z">
         <seg>Suporte pago e treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paragraph (to open the Paragraph dialog)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101807Z" creationid="timot" creationdate="20250217T101807Z">
+        <seg>Parágrafo (para abrir a caixa de diálogo Parágrafo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12282,6 +12434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172309Z" creationid="olivier-tdf" creationdate="20250209T172309Z">
         <seg>Consulte o Capítulo 4, Formatação de Dados, no &lt;f1&gt;Guia do Calc&lt;/f1&gt; para obter detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Chapter 4, Working with Styles, Templates and Hyperlinks, in this book and also refer to the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100254Z" creationid="timot" creationdate="20250217T100254Z">
+        <seg>Veja o Capítulo 4, Trabalhar com estilos, modelos e hiperlinks, neste livro e também consulte o &lt;f0&gt;Guia do Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13198,6 +13358,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set Line Spacing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101920Z" creationid="timot" creationdate="20250217T101920Z">
+        <seg>Definir espaçamento entre linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set Paragraph Style</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101505Z" creationid="timot" creationdate="20250217T101505Z">
+        <seg>Definir estilo do parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set leading zeroes in Sidebar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231300Z" creationid="olivier-tdf" creationdate="20250122T231300Z">
@@ -13770,6 +13946,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250109T000840Z" creationid="olivier" creationdate="20250109T000840Z">
         <seg>Estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Styles can be applied to paragraphs in several ways:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100312Z" creationid="timot" creationdate="20250217T100312Z">
+        <seg>Os estilos podem ser aplicados aos parágrafos de várias maneiras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Styles deck of the Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100607Z" creationid="timot" creationdate="20250217T100607Z">
+        <seg>Deque Estilos na Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Styles drop-down selection list at the left end of the Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100342Z" creationid="timot" creationdate="20250217T100342Z">
+        <seg>Lista suspensa de seleção de estilos na extremidade esquerda da barra de Ferramentas Formatação</seg>
       </tuv>
     </tu>
     <tu>
@@ -15274,6 +15474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011138Z" creationid="olivier" creationdate="20250124T011138Z">
         <seg>Eles são descritos no Capítulo 2, Inserir e editar dados, no &lt;f9&gt;Guia do Calc&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These buttons and formats include:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101117Z" creationid="timot" creationdate="20250217T101117Z">
+        <seg>Esses botões e formatos incluem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17006,6 +17214,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle Ordered List (with a palette of numbering styles)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101612Z" creationid="timot" creationdate="20250217T101612Z">
+        <seg>Alternar lista ordenada (com uma paleta de estilos de numeração)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle Unordered List (with a palette of bullet styles)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101603Z" creationid="timot" creationdate="20250217T101603Z">
+        <seg>Alternar lista não ordenada (com uma paleta de estilos de marcadores)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tool palettes can be made into floating sub-toolbars using the following example:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173732Z" creationid="tulio" creationdate="20250119T173732Z">
@@ -17410,6 +17634,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123825Z" creationid="olivier-tdf" creationdate="20250114T123825Z">
         <seg>Documento de planilhas no LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using styles is highly recommended</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T095948Z" creationid="timot" creationdate="20250217T095948Z">
+        <seg>Usar estilos é altamente recomendado</seg>
       </tuv>
     </tu>
     <tu>
@@ -18398,6 +18630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer defines six types of styles: paragraph, character, frame, page, list, and table.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100212Z" creationid="timot" creationdate="20250217T100212Z">
+        <seg>O Writer define seis tipos de estilos: parágrafo, caractere, quadro, página, lista e tabela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer documents have the extension .ODT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T000902Z" creationid="olivier" creationdate="20250120T000902Z">
@@ -18434,6 +18674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123933Z" creationid="olivier-tdf" creationdate="20250109T123933Z">
         <seg>O Writer é uma ferramenta rica em recursos para criar cartas, livros, relatórios, boletins informativos, brochuras e outros documentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer is a style-based program.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T095958Z" creationid="timot" creationdate="20250217T095958Z">
+        <seg>O Writer é um programa baseado em estilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18634,6 +18882,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211932Z" creationid="olivier-tdf" creationdate="20250116T211932Z">
         <seg>Você também pode saltar para uma célula específica digitando uma referência de célula na &lt;f0&gt;Caixa de nome&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also open a Formatting (Styles) toolbar using &lt;f0&gt;View &gt; Toolbars &gt; Formatting (Styles)&lt;/f0&gt;; see Figure &lt;t1&gt;19&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T100902Z" creationid="timot" creationdate="20250217T100902Z">
+        <seg>Existe, também, a opção de abrir uma barra de ferramentas Formatação (Estilos) usando &lt;f0&gt;Exibir &gt; Barras de ferramentas &gt; Formatação (estilos)&lt;/f0&gt;; consulte a Figura &lt;t1&gt;19&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18874,6 +19130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200453Z" creationid="olivier-tdf" creationdate="20250209T200453Z">
         <seg>Você pode inserir uma quebra de página horizontal acima ou uma quebra de página vertical à esquerda da célula ativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can manually apply many direct formats to paragraphs using the buttons on the Formatting toolbar and by using the Paragraph panel of the Sidebar’s Properties deck.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250217T101039Z" creationid="timot" creationdate="20250217T101039Z">
+        <seg>Você pode aplicar manualmente muitos formatos diretos aos parágrafos usando os botões na barra de ferramentas Formatação e usar o painel Parágrafo do deque de Propriedades da Barra lateral.</seg>
       </tuv>
     </tu>
     <tu>
