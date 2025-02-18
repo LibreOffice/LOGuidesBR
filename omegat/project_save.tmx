@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, Writer relies on heading styles (or other styles if specified) when compiling a table of contents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130431Z" creationid="olivier-tdf" creationdate="20250218T130431Z">
+        <seg>Além disso, o Writer depende de estilos de títulos (ou outros estilos, se especificado) ao compilar um índice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, new styles can be created and these styles can be deleted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125842Z" creationid="olivier-tdf" creationdate="20250218T125842Z">
@@ -2434,6 +2442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T010831Z" creationid="olivier" creationdate="20250124T010831Z">
         <seg>Como alternativa, use os itens de submenu equivalentes obtidos em &lt;f5&gt;Editar &gt; Colar especial&lt;/f5&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively, use the keyboard shortcut &lt;f1&gt;Ctrl+M&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+M&lt;/f2&gt;) to clear direct formatting from selected text, or go to &lt;f3&gt;Format &gt; Clear Direct Formatting&lt;/f3&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130523Z" creationid="olivier-tdf" creationdate="20250218T130523Z">
+        <seg>Como alternativa, use o atalho de teclado &lt;f1&gt;Ctrl+M&lt;/f1&gt; (macOS&lt;f2&gt;⌘ +M&lt;/f2&gt;) para limpar a formatação direta do texto selecionado ou vá para &lt;f3&gt;Formatar &gt; Limpar formatação direta&lt;/f3&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7374,6 +7390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see the specific user guide for each LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130557Z" creationid="olivier-tdf" creationdate="20250218T130557Z">
+        <seg>Para obter mais informações, consulte o guia do usuário específico para cada módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more uses of the Navigator in Writer, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T182139Z" creationid="timot" creationdate="20250122T182139Z">
@@ -10358,6 +10382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice recommend the use of styles to reduce the workload and increase the accuracy of producing good documents with ease.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130349Z" creationid="olivier-tdf" creationdate="20250218T130349Z">
+        <seg>O LibreOffice recomenda o uso de estilos para reduzir a carga de trabalho e aumentar a precisão da produção de bons documentos com facilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice requests that users share with the LibreOffice project some of the profits made from sales of user guides, in consideration of all the work that LibreOffice volunteers have put into producing user guides.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215622Z" creationid="olivier-tdf" creationdate="20250109T215622Z">
@@ -10618,6 +10650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T102913Z" creationid="timot" creationdate="20250206T102913Z">
         <seg>Gerenciar dicionários personalizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manual formatting overrides any applied styles and once an element has been formatted manually, it cannot be modified by a style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130445Z" creationid="olivier-tdf" creationdate="20250218T130445Z">
+        <seg>A formatação manual substitui quaisquer estilos aplicados e, uma vez que um elemento tenha sido formatado manualmente, ele não pode ser modificado por um estilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12902,6 +12942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Table &lt;t0&gt;1&lt;/t0&gt; on which style categories are available for each module.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130545Z" creationid="olivier-tdf" creationdate="20250218T130545Z">
+        <seg>Consulte a Tabela &lt;t0&gt;1&lt;/t0&gt; sobre quais categorias de estilo estão disponíveis para cada módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T201136Z" creationid="timot" creationdate="20250111T201136Z">
@@ -14014,6 +14062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since LibreOffice styles may work differently from other office software programs, some planning may be needed, but that effort will save time and effort over the longer term.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130400Z" creationid="olivier-tdf" creationdate="20250218T130400Z">
+        <seg>Como os estilos do LibreOffice podem funcionar de maneira diferente de outros programas de software de escritório, algum planejamento pode ser necessário, mas esse esforço economizará tempo e esforço a longo prazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single cell</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144221Z" creationid="olivier-tdf" creationdate="20250120T144221Z">
@@ -14390,6 +14446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Style categories</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130534Z" creationid="olivier-tdf" creationdate="20250218T130534Z">
+        <seg>Categorias de estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Styles</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250109T000840Z" creationid="olivier" creationdate="20250109T000840Z">
@@ -14418,6 +14482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T100342Z" creationid="timot" creationdate="20250217T100342Z">
         <seg>Lista suspensa de seleção de estilos na extremidade esquerda da barra de Ferramentas Formatação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Styles provide consistency in documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130340Z" creationid="olivier-tdf" creationdate="20250218T130340Z">
+        <seg>Os estilos fornecem consistência nos documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17314,6 +17386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194746Z" creationid="olivier-tdf" creationdate="20250209T194746Z">
         <seg>Para remover todos os intervalos de impressão definidos, acesse &lt;f0&gt;Formatar &gt; Intervalos de impressão &gt; Limpar&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remove direct formatting, select the text, then right-click and select &lt;f0&gt;Clear Direct Formatting&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130453Z" creationid="olivier-tdf" creationdate="20250218T130453Z">
+        <seg>Para remover a formatação direta, selecione o texto, clique com o botão direito do mouse e selecione &lt;f0&gt;Limpar formatação direta&lt;/f0&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
