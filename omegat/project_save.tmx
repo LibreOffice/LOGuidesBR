@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3614,6 +3614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 4, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125440Z" creationid="olivier-tdf" creationdate="20250218T125440Z">
+        <seg>Capítulo 4,&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 4, Working with Styles, Templates, and Hyperlinks, covers how to create a document from a template.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T000752Z" creationid="olivier" creationdate="20250120T000752Z">
@@ -5114,6 +5122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T111854Z" creationid="timot" creationdate="20250215T111854Z">
         <seg>Formatação direta (ou manual)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Direct formatting is also known as manual formatting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125646Z" creationid="olivier-tdf" creationdate="20250218T125646Z">
+        <seg>A formatação direta também é conhecida como formatação manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7686,6 +7702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8 - Chapter 4, Working with Styles, Templates, and Hyperlinks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125419Z" creationid="olivier-tdf" creationdate="20250218T125419Z">
+        <seg>Guia de Introdução 24.8 - Capítulo 4, Trabalhar com estilos, modelos e hiperlinks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Getting Started Guide 24.8 - Preface</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T220327Z" creationid="olivier-tdf" creationdate="20250109T220327Z">
@@ -9686,6 +9710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125626Z" creationid="olivier-tdf" creationdate="20250218T125626Z">
+        <seg>Introdução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Introduction to LibreOffice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114219Z" creationid="olivier-tdf" creationdate="20250109T114219Z">
@@ -11166,6 +11198,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Olivier Hallot, B Antonio Fernandez, &lt;f0&gt;Timothy Brennan Jr.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125528Z" creationid="olivier-tdf" creationdate="20250218T125528Z">
+        <seg>Olivier Hallot, B Antonio Fernandez, &lt;f0&gt;Timothy Brennan Jr.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Olivier Hallot, Paul Figueiredo, Skip Masonsmith, Steve Fanning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125550Z" creationid="olivier-tdf" creationdate="20250218T125550Z">
+        <seg>Olivier Hallot, Paul Figueiredo, Skip Masonsmith, Steve Fanning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On &lt;f0&gt;the &lt;/f0&gt;Linux and Windows operating systems, go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f1&gt; on the Menu bar to open the dialog for view options.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier-tdf" creationdate="20250109T213225Z">
@@ -11822,6 +11870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Peter Schofield, Dave Barton, Felipe Viggiano, Jean Hollis Weber, Kees Kriek.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125543Z" creationid="olivier-tdf" creationdate="20250218T125543Z">
+        <seg>Peter Schofield, Dave Barton, Felipe Viggiano, Jean Hollis Weber, Kees Kriek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pivot charts</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T193806Z" creationid="olivier-tdf" creationdate="20250209T193806Z">
@@ -11834,6 +11890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191436Z" creationid="olivier-tdf" creationdate="20250209T191436Z">
         <seg>Tabelas dinâmicas e gráficos dinâmicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team forum at &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (registration is required) or send an email to: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125605Z" creationid="olivier-tdf" creationdate="20250218T125605Z">
+        <seg>Direcione os comentários ou sugestões sobre este documento para a lista de documentação brasileira: &lt;a0&gt;https://community.documentfoundation.org/c/portuguese/documentation/6&lt;/a0&gt; (requer registro), ou envie um e-mail para &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15478,6 +15542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The table below gives some common substitutions used in this document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125623Z" creationid="olivier-tdf" creationdate="20250218T125623Z">
+        <seg>A tabela abaixo fornece algumas substituições comuns usadas neste documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The technical names for common controls are shown in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214303Z" creationid="olivier-tdf" creationdate="20250109T214303Z">
@@ -16698,6 +16770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T201041Z" creationid="timot" creationdate="20250111T201041Z">
         <seg>Para editar os atributos do estilo de página atual, clique com o botão esquerdo neste campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To ensure formatting consistency in LibreOffice documents, users can control text and other elements by using templates, styles and direct formatting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125639Z" creationid="olivier-tdf" creationdate="20250218T125639Z">
+        <seg>Para garantir a consistência da formatação nos documentos do LibreOffice, os usuários podem controlar o texto e outros elementos usando modelos, estilos e formatação direta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17934,6 +18014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using consistent formatting in documents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125508Z" creationid="olivier-tdf" creationdate="20250218T125508Z">
+        <seg>Formatação consistente em documentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using formulas and functions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190257Z" creationid="olivier-tdf" creationdate="20250209T190257Z">
@@ -18890,6 +18978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215618Z" creationid="timot" creationdate="20250110T215618Z">
         <seg>Processamento de texto com LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working with Styles, Templates, and Hyperlinks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125450Z" creationid="olivier-tdf" creationdate="20250218T125450Z">
+        <seg>Trabalhar com estilos, modelos e hiperlinks</seg>
       </tuv>
     </tu>
     <tu>
