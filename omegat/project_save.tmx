@@ -1886,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A style allows you to apply a set of common formatting elements to pages, text, frames, cells, graphic objects, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130221Z" creationid="olivier-tdf" creationdate="20250218T130221Z">
+        <seg>Um estilo permite aplicar um conjunto de elementos de formatação comuns a páginas, texto, quadros, células, objetos gráficos e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A style in LibreOffice is a collection of formatting attributes that can be applied to text and other objects.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125732Z" creationid="olivier-tdf" creationdate="20250218T125732Z">
@@ -2682,6 +2690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T111908Z" creationid="timot" creationdate="20250215T111908Z">
         <seg>Aplica a formatação diretamente a parágrafos, caracteres, páginas, quadros, listas ou tabelas específicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Applies formatting directly, or manually, to selected text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130119Z" creationid="olivier-tdf" creationdate="20250218T130119Z">
+        <seg>Aplica a formatação diretamente ou manualmente ao texto selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5158,6 +5174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Direct (or manual) formatting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130109Z" creationid="olivier-tdf" creationdate="20250218T130109Z">
+        <seg>Formatação direta (ou manual)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Direct formatting is also known as manual formatting.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125646Z" creationid="olivier-tdf" creationdate="20250218T125646Z">
@@ -5522,6 +5546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125703Z" creationid="olivier-tdf" creationdate="20250114T125703Z">
         <seg>Cada documento de planilha pode ter até 10.000 planilhas e cada planilha pode ter no máximo 1.048.576 linhas e 16.384 colunas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each style has a name such as “Body Text” and “Document Title.” Using styles can quickly change the format, or appearance, of selected elements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130238Z" creationid="olivier-tdf" creationdate="20250218T130238Z">
+        <seg>Cada estilo tem um nome, como "Corpo do Texto" e "Título do Documento". "O uso de estilos pode alterar rapidamente o formato ou a aparência dos elementos selecionados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6930,6 +6962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T104927Z" creationid="timot" creationdate="20250215T104927Z">
         <seg>Por exemplo, em vez de digitar "Gerência sênior" toda vez que usar essa frase, você pode configurar uma entrada de Autotexto para inserir essas palavras ao digitar "sm" e teclar &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, select a word, then click on a tool on the Formatting toolbar, the Sidebar, or use a keyboard shortcut to format the text as bold or italic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130138Z" creationid="olivier-tdf" creationdate="20250218T130138Z">
+        <seg>Por exemplo, selecione uma palavra e clique em uma ferramenta na barra de ferramentas Formatação, na Barra Lateral ou use um atalho de teclado para formatar o texto em negrito ou itálico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8446,6 +8486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, using direct formatting can produce documents with a mismatch of formatting attributes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130149Z" creationid="olivier-tdf" creationdate="20250218T130149Z">
+        <seg>No entanto, o uso de formatação direta pode produzir documentos com uma incompatibilidade de atributos de formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, you can use &lt;f1&gt;Capitalize Every Word&lt;/f1&gt; and then restore those words that you do not want capitalized.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T111823Z" creationid="timot" creationdate="20250215T111823Z">
@@ -8842,6 +8890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="timot" creationdate="20250202T112223Z">
         <seg>Se os resultados não são aceitáveis, clique no botão &lt;f2&gt;Desfazer&lt;/f2&gt; ou tecle &lt;f3&gt;Ctrl+Z.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you do not use styles and manually format paragraphs, words, tables, page layouts, and other elements in documents, this can increase user workload and introduce format errors into a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130324Z" creationid="olivier-tdf" creationdate="20250218T130324Z">
+        <seg>Se não usar estilos e formatar manualmente parágrafos, palavras, tabelas, layouts de página e outros elementos em documentos, então isso pode aumentar a carga de trabalho do usuário e introduzir erros de formato num documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16134,6 +16190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This default template can be changed to suit personal or corporate requirements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130039Z" creationid="olivier-tdf" creationdate="20250218T130039Z">
+        <seg>Este modelo padrão pode ser alterado para atender aos requisitos pessoais ou corporativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This dialog shows any previously-defined series in the &lt;f2&gt;Lists&lt;/f2&gt; box and the contents of the highlighted list in the &lt;f3&gt;Entries&lt;/f3&gt; box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211442Z" creationid="olivier" creationdate="20250123T220128Z">
@@ -18462,6 +18526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When LibreOffice is installed on a computer, a number of predefined templates are also installed, providing a starting point for different types of documents, such as business letters, presentations, or drawings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130101Z" creationid="olivier-tdf" creationdate="20250218T130101Z">
+        <seg>Quando o LibreOffice é instalado num computador, vários modelos predefinidos também são instalados, fornecendo um ponto de partida para diferentes tipos de documentos, como cartas comerciais, apresentações ou desenhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a category is showing the list of objects in it, double-click on an object to jump directly to that object’s location in the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="timot" creationdate="20250122T181827Z">
@@ -19098,6 +19170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154246Z" creationid="olivier" creationdate="20250121T154246Z">
         <seg>Trabalhar com planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working with styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130200Z" creationid="olivier-tdf" creationdate="20250218T130200Z">
+        <seg>Trabalhar com estilos</seg>
       </tuv>
     </tu>
     <tu>
