@@ -2174,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T235958Z" creationid="olivier-tdf" creationdate="20250218T235958Z">
+        <seg>Todos os estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All active toolbars have a check-mark next to their name.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173251Z" creationid="tulio" creationdate="20250119T173251Z">
@@ -2726,6 +2734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Applied Styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000028Z" creationid="olivier-tdf" creationdate="20250219T000028Z">
+        <seg>Estilos aplicados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Applies formatting directly to specific paragraphs, characters, pages, frames, lists, or tables.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T111908Z" creationid="timot" creationdate="20250215T111908Z">
@@ -2890,6 +2906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195505Z" creationid="timot" creationdate="20250111T195505Z">
         <seg>Sumários e índices automatizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatic</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000051Z" creationid="olivier-tdf" creationdate="20250219T000051Z">
+        <seg>Automático</seg>
       </tuv>
     </tu>
     <tu>
@@ -3746,6 +3770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T000752Z" creationid="olivier" creationdate="20250120T000752Z">
         <seg>Capítulo 4, Trabalhar com estilos, modelos e hiperlinks, aborda como criar um documento a partir de um modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chapter Styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000138Z" creationid="olivier-tdf" creationdate="20250219T000138Z">
+        <seg>Estilos de capítulo</seg>
       </tuv>
     </tu>
     <tu>
@@ -4982,6 +5014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Custom Styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000037Z" creationid="olivier-tdf" creationdate="20250219T000037Z">
+        <seg>Estilos personalizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customizing the Enter key</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135420Z" creationid="olivier-tdf" creationdate="20250120T135420Z">
@@ -5318,6 +5358,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displays all styles of the selected style category.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000003Z" creationid="olivier-tdf" creationdate="20250219T000003Z">
+        <seg>Exibe todos os estilos da categoria de estilo selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays all user-defined styles in the selected style category.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000049Z" creationid="olivier-tdf" creationdate="20250219T000049Z">
+        <seg>Exibe todos os estilos definidos pelo usuário na categoria de estilo selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays formatting styles for headings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000216Z" creationid="olivier-tdf" creationdate="20250219T000216Z">
+        <seg>Exibe estilos de formatação para títulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays formatting styles for text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000122Z" creationid="olivier-tdf" creationdate="20250219T000122Z">
+        <seg>Exibe estilos de formatação para texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays styles appropriate to the current context.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000056Z" creationid="olivier-tdf" creationdate="20250219T000056Z">
+        <seg>Exibe estilos apropriados ao contexto atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Displays the contents of the selected cell (data, formula, or function) and allows you to edit the cell contents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212342Z" creationid="olivier-tdf" creationdate="20250116T212342Z">
@@ -5330,6 +5410,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211848Z" creationid="olivier-tdf" creationdate="20250116T211848Z">
         <seg>Exibe a referência de célula ativa atual usando uma combinação de uma letra e um número, por exemplo A1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the styles in the selected category in a hierarchical list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T235927Z" creationid="olivier-tdf" creationdate="20250218T235927Z">
+        <seg>Exibe os estilos na categoria selecionada em uma lista hierárquica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the styles of the selected category that have been applied in the current document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000036Z" creationid="olivier-tdf" creationdate="20250219T000036Z">
+        <seg>Exibe os estilos da categoria selecionada que foram aplicados no documento atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the styles that have been hidden in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000013Z" creationid="olivier-tdf" creationdate="20250219T000013Z">
+        <seg>Exibe os estilos que foram ocultados no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8454,6 +8558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hidden Styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000004Z" creationid="olivier-tdf" creationdate="20250219T000004Z">
+        <seg>Estilos ocultos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hiding and showing columns and rows</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122340Z" creationid="olivier" creationdate="20250121T122340Z">
@@ -8466,6 +8578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155759Z" creationid="olivier" creationdate="20250121T155759Z">
         <seg>Ocultar e mostrar planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hiding styles removes, but does not delete, selected styles from the list of displayed styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000027Z" creationid="olivier-tdf" creationdate="20250219T000027Z">
+        <seg>Ocultar estilos remove, mas não exclui, estilos selecionados da lista de estilos exibidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14982,6 +15102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000106Z" creationid="olivier-tdf" creationdate="20250219T000106Z">
+        <seg>Estilos de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text area</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T142956Z" creationid="tulio" creationdate="20250211T142956Z">
@@ -18146,6 +18274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier-tdf" creationdate="20250209T194050Z">
         <seg>Para visualizar as quebras de página, acesse &lt;f0&gt;Visualizar &gt; Quebra de página&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To view the styles inside a sub‑level, click on the chevron &lt;f0&gt;&gt;&lt;/f0&gt; next to the style name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T235956Z" creationid="olivier-tdf" creationdate="20250218T235956Z">
+        <seg>Para visualizar os estilos dentro de um subnível, clique na seta &lt;f0&gt;&gt;&lt;/f0&gt; ao lado do nome do estilo.</seg>
       </tuv>
     </tu>
     <tu>
