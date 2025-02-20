@@ -4110,6 +4110,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Open File&lt;/f0&gt; in the Start Center and select the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183155Z" creationid="olivier" creationdate="20250220T183155Z">
+        <seg>Clique em &lt;f0&gt;Abrir Arquivo&lt;/f0&gt; no Centro de partida e selecione o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Recent Documents&lt;/f0&gt; in the Start Center and select a recent file from the Center.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183345Z" creationid="olivier" creationdate="20250220T183345Z">
+        <seg>Clique em &lt;f0&gt;Documentos recentes&lt;/f0&gt; no Centro de partida e selecione um arquivo recente no Centro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;Save&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123855Z" creationid="olivier-tdf" creationdate="20250117T123855Z">
@@ -4298,6 +4314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T174046Z" creationid="olivier" creationdate="20250220T174046Z">
         <seg>Clique em &lt;f0&gt;Novo&lt;/f0&gt; na barra de ferramentas Padrão para criar um documento pelo módulo LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Open&lt;/f0&gt; on the Standard toolbar and select the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183227Z" creationid="olivier" creationdate="20250220T183227Z">
+        <seg>Clique em &lt;f0&gt;Abrir&lt;/f0&gt; na barra de ferramentas Padrão e selecione o arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8342,6 +8366,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Open Remote&lt;/f0&gt; on the menu bar and select the file from the list of files made available by the remote server service.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183549Z" creationid="olivier" creationdate="20250220T183549Z">
+        <seg>Vá para &lt;f0&gt;Arquivo &gt; Abrir arquivo remoto&lt;/f0&gt; na barra de menus e selecione o arquivo na lista de arquivos disponibilizados pelo serviço de servidor remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Open&lt;/f0&gt; on the Menu bar and select the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183213Z" creationid="olivier" creationdate="20250220T183213Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Abrir&lt;/f0&gt; na barra de menus e selecione o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Recent Documents&lt;/f0&gt; on the Menu bar and select the file from the files displayed in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183421Z" creationid="olivier" creationdate="20250220T183421Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Documentos recentes&lt;/f0&gt; na barra de menu e selecione o arquivo nos arquivos exibidos no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; Wizards&lt;/f0&gt; on the Menu bar and select the type of document from the options available in the submenu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183038Z" creationid="olivier" creationdate="20250220T183038Z">
@@ -11846,6 +11894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that the previous names or locations of files that have been renamed or relocated may still be in the Start Center, and clicking on those types of filenames will generate an error.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183649Z" creationid="olivier" creationdate="20250220T183649Z">
+        <seg>Observe que os nomes ou locais anteriores dos arquivos que foram renomeados ou realocados ainda podem estar no Centro de partida, e clicar nesses tipos de nomes de arquivos pode gerar um erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that there are some functions within Calc that are not in accordance with &lt;f7&gt;OpenFormula,&lt;/f7&gt; but many of these are included specifically to improve the exchange of files between Calc and Microsoft Excel.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T204419Z" creationid="olivier-tdf" creationdate="20250114T125405Z">
@@ -12282,6 +12338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121946Z" creationid="olivier-tdf" creationdate="20250117T121946Z">
         <seg>Abrir e importar um arquivo CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opening existing documents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183104Z" creationid="olivier" creationdate="20250220T183104Z">
+        <seg>Abrir documentos existentes</seg>
       </tuv>
     </tu>
     <tu>
@@ -18158,6 +18222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To open an existing LibreOffice document in the appropriate module, use one of the following methods.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183121Z" creationid="olivier" creationdate="20250220T183121Z">
+        <seg>Para abrir um documento existente do LibreOffice no módulo apropriado, use um dos seguintes métodos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To open the Customize dialog an add more tools to the toolbar, select &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T141255Z" creationid="tulio" creationdate="20250211T141255Z">
@@ -18250,6 +18322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130453Z" creationid="olivier-tdf" creationdate="20250218T130453Z">
         <seg>Para remover a formatação direta, selecione o texto, clique com o botão direito do mouse e selecione &lt;f0&gt;Limpar formatação direta&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remove the file from the Start Center, hover the cursor over the thumbnail until an X appears in the upper right corner, and then click on the X.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183707Z" creationid="olivier" creationdate="20250220T183707Z">
+        <seg>Para remover o arquivo do Centro de partida, passe o cursor sobre a miniatura até que um X apareça no canto superior direito e clique no X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18994,6 +19074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T174124Z" creationid="olivier" creationdate="20250220T174124Z">
         <seg>Use o atalho de teclado &lt;f0&gt;Ctrl+N&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;N&lt;/f1&gt;) para criar um documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+O&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;O&lt;/f1&gt;) and select the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183253Z" creationid="olivier" creationdate="20250220T183253Z">
+        <seg>Use o atalho de teclado &lt;f0&gt;Ctrl+O&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;O&lt;/f1&gt;) e selecione o arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20914,6 +21002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T174153Z" creationid="timot" creationdate="20250122T174153Z">
         <seg>É possível, também, optar por alterar o nome do arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may be asked to insert the right server credentials to open the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183557Z" creationid="olivier" creationdate="20250220T183557Z">
+        <seg>Você pode ser solicitado a inserir as credenciais corretas do servidor para abrir o arquivo.</seg>
       </tuv>
     </tu>
     <tu>
