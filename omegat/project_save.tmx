@@ -718,6 +718,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Save All&lt;/f0&gt; — can save all the files that are open in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231824Z" creationid="olivier" creationdate="20250220T231824Z">
+        <seg>&lt;f0&gt;Salvar tudo&lt;/f0&gt; — pode salvar todos os arquivos que estão abertos no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Save As&lt;/f0&gt; — can create a new document, change the filename or file format, or save the file in a different location on a computer system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231314Z" creationid="olivier" creationdate="20250220T231314Z">
+        <seg>&lt;f0&gt;Salvar como&lt;/f0&gt; — pode criar um novo documento, alterar o nome do arquivo ou formato de arquivo, ou salvar o arquivo num local diferente num sistema de computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Save Remote&lt;/f0&gt; – save the file in a remote server.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232044Z" creationid="olivier" creationdate="20250220T232044Z">
+        <seg>&lt;f0&gt;Salvar arquivo remoto&lt;/f0&gt; – salva o arquivo em um servidor remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Save a Copy&lt;/f0&gt; — can save a copy of the current document, for example, in a different location on the computer system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231651Z" creationid="olivier" creationdate="20250220T231651Z">
+        <seg>&lt;f0&gt;Salvar uma cópia&lt;/f0&gt; — pode salvar uma cópia do documento atual, por exemplo, em um local diferente no sistema do computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Save&lt;/f0&gt; — can save all changes made, keeping the current filename and location of the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231102Z" creationid="olivier" creationdate="20250220T231102Z">
+        <seg>&lt;f0&gt;Salvar&lt;/f0&gt; — pode salvar todas as alterações feitas, mantendo o nome do arquivo atual e a localização do arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Select Styles&lt;/f0&gt; on the Menu bar (Writer and Calc).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000600Z" creationid="olivier-tdf" creationdate="20250219T000600Z">
@@ -4334,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Save&lt;/f0&gt; on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231230Z" creationid="olivier" creationdate="20250220T231230Z">
+        <seg>Clique em &lt;f0&gt;Salvar&lt;/f0&gt; na barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Sidebar Settings&lt;/f0&gt; at the top right of the Sidebar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135238Z" creationid="olivier" creationdate="20250217T135238Z">
@@ -4422,10 +4470,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the &lt;f0&gt;Save&lt;/f0&gt; icon in the Status bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231240Z" creationid="olivier" creationdate="20250220T231240Z">
+        <seg>Clique no ícone &lt;f0&gt;Salvar&lt;/f0&gt; na barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the downward triangle ▼ next to &lt;f0&gt;New&lt;/f0&gt; on the Standard toolbar and select the type of document from that context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T173922Z" creationid="olivier" creationdate="20250220T173922Z">
         <seg>Clique no triângulo para baixo ao ▼ lado do ícone &lt;f0&gt;Novo&lt;/f0&gt; na barra de ferramentas Padrão e selecione o tipo de documento nesse menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the downward triangle ▼ next to &lt;f0&gt;Save&lt;/f0&gt; on the Standard toolbar and select &lt;f1&gt;Save As&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231636Z" creationid="olivier" creationdate="20250220T231636Z">
+        <seg>Clique no triângulo para baixo ao ▼ lado do ícone &lt;f0&gt;Salvar&lt;/f0&gt; na barra de ferramentas Padrão e selecione &lt;f1&gt;Salvar como&lt;/f1&gt;no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the downward triangle ▼ next to &lt;f0&gt;Save&lt;/f0&gt; on the Standard toolbar and select &lt;f1&gt;Save a Copy&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231802Z" creationid="olivier" creationdate="20250220T231802Z">
+        <seg>Clique no triângulo para baixo ao ▼ lado do ícone &lt;f0&gt;Salvar&lt;/f0&gt; na barra de ferramentas Padrão e selecione &lt;f1&gt;Salvar uma cópia&lt;/f1&gt;no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7254,6 +7326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, LibreOffice can open MS Word files (*.doc or *.docx) in Writer, MS Excel files (*.xls or *.xlsx) can be opened in Calc; MS PowerPoint files (*.ppt or *.pptx) can be opened in Impress, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231011Z" creationid="olivier" creationdate="20250220T231011Z">
+        <seg>Por exemplo, o LibreOffice pode abrir arquivos do MS Word (*.doc ou *.docx) no Writer, arquivos do MS Excel (*.xls ou *.xlsx) podem ser abertos no Calc; arquivos do MS PowerPoint (*.ppt ou *.pptx) podem ser abertos no Impress e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T100146Z" creationid="timot" creationdate="20250217T100146Z">
@@ -8406,6 +8486,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231328Z" creationid="olivier" creationdate="20250220T231328Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Salvar como&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Save a Copy&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231737Z" creationid="olivier" creationdate="20250220T231737Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Salvar uma cópia&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Save&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231114Z" creationid="olivier" creationdate="20250220T231114Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Salvar&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; Wizards&lt;/f0&gt; on the Menu bar and select the type of document from the options available in the submenu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183038Z" creationid="olivier" creationdate="20250220T183038Z">
@@ -8598,6 +8702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; Load/Save &gt; General&lt;/f1&gt;) on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232350Z" creationid="olivier" creationdate="20250220T232350Z">
+        <seg>Acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; Carregar/Salvar &gt; Geral&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; Carregar/Salvar &gt; Geral&lt;/f1&gt;) na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Protect Sheet&lt;/f0&gt;, or right-click on the sheet’s tab and select &lt;f1&gt;Protect Sheet&lt;/f1&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183441Z" creationid="olivier-tdf" creationdate="20250209T183441Z">
@@ -8642,6 +8754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213639Z" creationid="olivier-tdf" creationdate="20250122T225553Z">
         <seg>Acesse &lt;f0&gt;Exibir&lt;/f0&gt; na barra de menus e desmarque &lt;f1&gt;Dividir janela&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f1&gt;File &gt; Save All&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231932Z" creationid="olivier" creationdate="20250220T231838Z">
+        <seg>Acesse &lt;f1&gt;Arquivo &gt; Salvar tudo&lt;/f1&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9278,6 +9398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If not, you can define the remote server settings and protocols in the Remote Files dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232151Z" creationid="olivier" creationdate="20250220T232151Z">
+        <seg>Caso contrário, você pode definir as configurações e protocolos do servidor remoto na caixa de diálogo Arquivos remotos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If only one LibreOffice document is open, click on the X on the right of the title bar to close the entire application.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011347Z" creationid="tulio" creationdate="20250116T011347Z">
@@ -9542,6 +9670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you need LibreOffice to save files automatically, you can use the AutoRecovery function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232304Z" creationid="olivier" creationdate="20250220T232304Z">
+        <seg>Se precisar que o LibreOffice salve arquivos automaticamente, poderá usar a função Autorrecuperação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you need more information on customization, see Chapter 13, Customizing LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T141323Z" creationid="tulio" creationdate="20250211T141323Z">
@@ -9802,6 +9938,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213547Z" creationid="olivier-tdf" creationdate="20250109T213547Z">
         <seg>Em &lt;f0&gt;Tema de ícones&lt;/f0&gt;, selecione uma das opções disponíveis na lista suspensa, conforme mostrado na Figura &lt;t1&gt;2&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Save&lt;/f0&gt;, select the option &lt;f1&gt;AutoRecovery information every&lt;/f1&gt; and set the time interval in the box, for example 10 minutes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232427Z" creationid="olivier" creationdate="20250220T232427Z">
+        <seg>Em &lt;f0&gt;Salvar&lt;/f0&gt;, selecione a opção &lt;f1&gt;Informações de recuperação automática a cada&lt;/f1&gt; e defina o intervalo de tempo na caixa, por exemplo, 10 minutos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10906,6 +11050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194807Z" creationid="olivier-tdf" creationdate="20250109T194807Z">
         <seg>O LibreOffice vem com um extenso sistema de Ajuda e isso pode ser usado como a primeira linha de suporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice documents can be saved with one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231053Z" creationid="olivier" creationdate="20250220T231053Z">
+        <seg>Os documentos do LibreOffice podem ser salvos com um dos seguintes métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12478,6 +12630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Optionally, you can save the whole file instead by checking the &lt;f0&gt;Automatically save the document too&lt;/f0&gt; checkbox.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232555Z" creationid="olivier" creationdate="20250220T232555Z">
+        <seg>Opcionalmente, você pode salvar todo o arquivo marcando a caixa de seleção &lt;f0&gt;Em vez disso, Salvar automaticamente o documento&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options LibreOffice General dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212328Z" creationid="olivier-tdf" creationdate="20250109T212328Z">
@@ -13510,6 +13670,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Saving documents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231044Z" creationid="olivier" creationdate="20250220T231044Z">
+        <seg>Salvar documentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving documents automatically</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232210Z" creationid="olivier" creationdate="20250220T232210Z">
+        <seg>Salvar documentos automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Saving files in different formats</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123535Z" creationid="olivier-tdf" creationdate="20250117T123535Z">
@@ -13610,6 +13786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191426Z" creationid="olivier-tdf" creationdate="20250209T191426Z">
         <seg>Consulte o Capítulo 10, Análise de dados, no &lt;f0&gt;Guia do Calc&lt;/f0&gt; para obter mais informações sobre essas ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Chapter 10, Working with File Formats, Security and Exporting for more information about working with different file types.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231031Z" creationid="olivier" creationdate="20250220T231031Z">
+        <seg>Consulte o Capítulo 10, Trabalhar com formatos de arquivo, segurança e exportação para obter mais informações sobre como trabalhar com diferentes tipos de arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15022,6 +15206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some servers requires the correct credentials to allow the files to saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232200Z" creationid="olivier" creationdate="20250220T232200Z">
+        <seg>Alguns servidores exigem as credenciais corretas para permitir que os arquivos sejam salvos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some settings are intended for power users and programmers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194648Z" creationid="olivier-tdf" creationdate="20250109T194648Z">
@@ -15974,6 +16166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current document remains open for more editing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231704Z" creationid="olivier" creationdate="20250220T231704Z">
+        <seg>O documento atual permanece aberto para mais edições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cursor is placed at the end of the content in the cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225756Z" creationid="olivier" creationdate="20250123T225756Z">
@@ -16458,6 +16658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T141947Z" creationid="tulio" creationdate="20250211T141947Z">
         <seg>As ferramentas restantes são posicionadas na barra de ferramentas em uma posição que corresponda à posição da lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The remote server settings must exist prior to the &lt;f1&gt;Save Remote&lt;/f1&gt; command.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232102Z" creationid="olivier" creationdate="20250220T232102Z">
+        <seg>As configurações do servidor remoto devem existir antes do comando &lt;f1&gt;Salvar arquivo remoto&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17322,6 +17530,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250122T223532Z">
         <seg>Isso torna mais fácil ver como a alteração do número numa célula afeta cada uma das fórmulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option is only available when more than one LibreOffice document is open.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231945Z" creationid="olivier" creationdate="20250220T231945Z">
+        <seg>Esta opção só está disponível quando mais de um documento do LibreOffice está aberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18582,6 +18798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To set up automatic file saving, do the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232328Z" creationid="olivier" creationdate="20250220T232328Z">
+        <seg>Para configurar o salvamento automático de arquivos, faça o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To show hidden columns or rows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122507Z" creationid="olivier" creationdate="20250121T122507Z">
@@ -19114,6 +19338,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011330Z" creationid="tulio" creationdate="20250116T011330Z">
         <seg>Use o atalho de teclado &lt;f0&gt;Ctrl+Q&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;S&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231222Z" creationid="olivier" creationdate="20250220T231222Z">
+        <seg>Use o atalho de teclado &lt;f0&gt;Ctrl+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;S&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;Shift+S&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231425Z" creationid="olivier" creationdate="20250220T231425Z">
+        <seg>Use o atalho de teclado &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;Shift+S&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19786,6 +20026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211155Z" creationid="olivier" creationdate="20250123T204406Z">
         <seg>Ao inserir uma hora, separe os elementos de hora com dois-pontos (por exemplo, 10:43:45) e o formato da hora muda automaticamente para o formato selecionado usado pelo Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When files are saved automatically, LibreOffice will overwrite the last saved state of the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232320Z" creationid="olivier" creationdate="20250220T232320Z">
+        <seg>Quando os arquivos são salvos automaticamente, o LibreOffice substituirá o último estado salvo do arquivo.</seg>
       </tuv>
     </tu>
     <tu>
