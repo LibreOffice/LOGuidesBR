@@ -4294,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;New&lt;/f0&gt; on the Standard toolbar and a new document is created by the LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T174046Z" creationid="olivier" creationdate="20250220T174046Z">
+        <seg>Clique em &lt;f0&gt;Novo&lt;/f0&gt; na barra de ferramentas Padrão para criar um documento pelo módulo LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Sidebar Settings&lt;/f0&gt; at the top right of the Sidebar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135238Z" creationid="olivier" creationdate="20250217T135238Z">
@@ -4314,6 +4322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T001704Z" creationid="olivier-tdf" creationdate="20250219T001704Z">
         <seg>Clique em &lt;f0&gt;Estilos&lt;/f0&gt; à direita da barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Templates&lt;/f0&gt; in the Start Center and the available LibreOffice templates are displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T173736Z" creationid="olivier" creationdate="20250220T173736Z">
+        <seg>Clique em &lt;f0&gt;Modelos&lt;/f0&gt; na Central de partida e os modelos disponíveis do LibreOffice serão exibidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4374,6 +4390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the downward triangle ▼ next to &lt;f0&gt;New&lt;/f0&gt; on the Standard toolbar and select the type of document from that context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T173922Z" creationid="olivier" creationdate="20250220T173922Z">
+        <seg>Clique no triângulo para baixo ao ▼ lado do ícone &lt;f0&gt;Novo&lt;/f0&gt; na barra de ferramentas Padrão e selecione o tipo de documento nesse menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the header of the first column or row in the group.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120433Z" creationid="olivier" creationdate="20250121T120433Z">
@@ -4418,6 +4442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T183636Z" creationid="timot" creationdate="20250122T183636Z">
         <seg>Clique no campo Número da página no documento na barra de Status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the required template to create a new file and the LibreOffice module opens with a new document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T173756Z" creationid="olivier" creationdate="20250220T173756Z">
+        <seg>Clique no modelo necessário para criar um arquivo e o módulo LibreOffice será aberto com um novo documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7246,6 +7278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, click on &lt;f1&gt;Drawing&lt;/f1&gt; and a new drawing is created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T173950Z" creationid="olivier" creationdate="20250220T173950Z">
+        <seg>Por exemplo, clique em &lt;f1&gt;Desenho&lt;/f1&gt; e para criar um desenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, define paragraph and character styles in a document, then save the document as a template.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125926Z" creationid="olivier-tdf" creationdate="20250218T125926Z">
@@ -7258,6 +7298,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231531Z" creationid="olivier-tdf" creationdate="20250122T231531Z">
         <seg>Por exemplo, para 3 casas decimais, digite um ponto e três pontos de interrogação [&lt;f2&gt;.???]&lt;/f2&gt; e clique em &lt;f3&gt;OK.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if Calc is open and active, a new spreadsheet is created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T174152Z" creationid="olivier" creationdate="20250220T174152Z">
+        <seg>Por exemplo, se o Calc estiver aberto e ativo, uma planilha será criada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if Writer is open and active, this icon will create a new Writer document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T174101Z" creationid="olivier" creationdate="20250220T174101Z">
+        <seg>Por exemplo, se o Writer estiver aberto e ativo, este ícone criará um documento do Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8274,6 +8330,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213639Z" creationid="tulio" creationdate="20250116T011302Z">
         <seg>Acesse &lt;f0&gt;Arquivo &gt; Sair do LibreOffice&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; New&lt;/f0&gt; on the Menu bar and select the type of document from the submenu that opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T173824Z" creationid="olivier" creationdate="20250220T173824Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Novo&lt;/f0&gt; na barra de menus e selecione o tipo de documento no submenu que será aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Wizards&lt;/f0&gt; on the Menu bar and select the type of document from the options available in the submenu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183038Z" creationid="olivier" creationdate="20250220T183038Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Assistentes&lt;/f0&gt; na barra de menus e selecione o tipo de documento nas opções disponíveis no submenu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15766,6 +15838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The applicable LibreOffice module also opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T173845Z" creationid="olivier" creationdate="20250220T173845Z">
+        <seg>O módulo LibreOffice aplicável também é aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The character count includes spaces.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200802Z" creationid="timot" creationdate="20250111T200802Z">
@@ -16554,6 +16634,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213906Z" creationid="timot" creationdate="20250205T161102Z">
         <seg>Os dois hifens serão substituídos por um travessão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of document created depends on which LibreOffice module is open and active.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T174135Z" creationid="olivier" creationdate="20250220T174135Z">
+        <seg>O tipo de documento criado depende de qual módulo do LibreOffice está aberto e ativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18898,6 +18986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220313Z" creationid="olivier" creationdate="20250123T225815Z">
         <seg>Use as teclas de seta do teclado para posicionar o cursor onde deseja começar a inserir os novos dados na célula e tecle &lt;f0&gt;Delete&lt;/f0&gt; ou a tecla &lt;f1&gt;Backspace&lt;/f1&gt; para excluir quaisquer dados indesejados antes de digitar os novos dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+N&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;N&lt;/f1&gt;) to create a new document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250220T174124Z" creationid="olivier" creationdate="20250220T174124Z">
+        <seg>Use o atalho de teclado &lt;f0&gt;Ctrl+N&lt;/f0&gt; (macOS ⌘+&lt;f1&gt;N&lt;/f1&gt;) para criar um documento.</seg>
       </tuv>
     </tu>
     <tu>
