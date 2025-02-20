@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16098,6 +16098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215322Z" creationid="olivier-tdf" creationdate="20250109T215322Z">
         <seg>O mais notável é o mecanismo de banco de dados relacional HSQLDB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most powerful macros in LibreOffice can be created with one of the four supported scripting languages (LibreOffice Basic, Python, JavaScript, and BeanShell).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="rafael" changedate="20250220T000233Z" creationid="rafael" creationdate="20250220T000233Z">
+        <seg>As macros mais poderosas no LibreOffice podem ser criadas com uma das quatro linguagens de script suportadas: LibreOffice Basic, Python, JavaScript e BeanShell.</seg>
       </tuv>
     </tu>
     <tu>
