@@ -5558,6 +5558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Direct formatting (also called manual formatting) overrides styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T095557Z" creationid="timot" creationdate="20250221T095557Z">
+        <seg>A formatação direta (também chamada de formatação manual) substitui os estilos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Direct formatting is also known as manual formatting.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125646Z" creationid="olivier-tdf" creationdate="20250218T125646Z">
@@ -8050,6 +8058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161435Z" creationid="olivier" creationdate="20250204T161435Z">
         <seg>Formatar bordas de células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting characters using styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T095816Z" creationid="timot" creationdate="20250221T095816Z">
+        <seg>Formatar caracteres usando estilos</seg>
       </tuv>
     </tu>
     <tu>
@@ -13462,6 +13478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Removing direct formatting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T095620Z" creationid="timot" creationdate="20250221T095620Z">
+        <seg>Remover formatação direta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removing split views</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225228Z" creationid="olivier-tdf" creationdate="20250122T225228Z">
@@ -17654,6 +17678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This means that when a new style is applied, direct formatting is not removed and still determines the displayed format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T095612Z" creationid="timot" creationdate="20250221T095612Z">
+        <seg>Isso significa que, quando um novo estilo é aplicado, a formatação direta não é removida e ainda determina o formato exibido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This option is only available when more than one LibreOffice document is open.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231945Z" creationid="olivier" creationdate="20250220T231945Z">
@@ -17866,6 +17898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T101209Z" creationid="timot" creationdate="20250206T101209Z">
         <seg>Para também identificar possíveis problemas gramaticais, marque a caixa de seleção &lt;f3&gt;Verificar gramática&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To apply a character style, highlight the characters or words and apply the selected character style from the &lt;f0&gt;Character Styles&lt;/f0&gt; tab of the Styles deck on the Sidebar, in the Styles menu on the Menu bar (limited), or from the right-click context menu (limited).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T105743Z" creationid="timot" creationdate="20250221T105743Z">
+        <seg>Para aplicar um estilo de caractere, realce os caracteres ou palavras e aplique o estilo de caractere selecionado na guia &lt;f0&gt;Estilos de caractere&lt;/f0&gt; do deque Estilos na Barra lateral, no menu Estilos na barra de Menu (limitado) ou no menu de contexto do botão direito do mouse (limitado).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18682,6 +18722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194746Z" creationid="olivier-tdf" creationdate="20250209T194746Z">
         <seg>Para remover todos os intervalos de impressão definidos, acesse &lt;f0&gt;Formatar &gt; Intervalos de impressão &gt; Limpar&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remove direct formatting, select the text and choose &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; on the Menu bar, or right-click and choose &lt;f1&gt;Clear Direct Formatting&lt;/f1&gt; in the context menu, or press &lt;f2&gt;Ctrl+M&lt;/f2&gt; on the keyboard, or select the &lt;f3&gt;Clear Direct Formatting&lt;/f3&gt; icon on the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T095742Z" creationid="timot" creationdate="20250221T095742Z">
+        <seg>Para remover a formatação direta, selecione o texto e escolha &lt;f0&gt;Formatar &gt; Limpar formatação direta&lt;/f0&gt; na Barra de menus, ou clique com o botão direito e escolha &lt;f1&gt;Limpar Formatação Direta&lt;/f1&gt; no menu de contexto, ou pressione &lt;f2&gt;Ctrl+M&lt;/f2&gt; no teclado, ou selecione o ícone &lt;f3&gt;Limpar formatação direta&lt;/f3&gt; na barra de ferramentas Formatação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20130,6 +20178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T132840Z" creationid="olivier" creationdate="20250217T132840Z">
         <seg>Quando um objeto é selecionado, clicar nessas áreas abre a caixa de diálogo Posição e Tamanho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When clearing direct formatting, the text formatting will return to the applied paragraph and character style and not the default paragraph style or default character style (unless these styles are actually applied to the text).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T095800Z" creationid="timot" creationdate="20250221T095800Z">
+        <seg>Ao limpar a formatação direta, a formatação do texto retornará ao estilo de parágrafo e caractere aplicado e não ao estilo de parágrafo ou caractere padrão (a menos que esses estilos sejam realmente aplicados ao texto).</seg>
       </tuv>
     </tu>
     <tu>
