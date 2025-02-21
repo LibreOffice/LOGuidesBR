@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>' ' &lt;s0/&gt;" "</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111905Z" creationid="timot" creationdate="20250221T111905Z">
+        <seg>' ' &lt;s0/&gt;" "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(&lt;f1&gt;Ctrl+Z&lt;/f1&gt; works only before the file is saved.) A mistake with &lt;f2&gt;Replace All&lt;/f2&gt; might require a manual, word-by-word, search to fix.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T122816Z" creationid="timot" creationdate="20250205T122816Z">
@@ -1790,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A bulleted (unordered) list is created when you type a hyphen (-), star (*), or plus sign (+), followed by a space or tab at the beginning of a paragraph.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111621Z" creationid="timot" creationdate="20250221T111621Z">
+        <seg>Uma lista com marcadores (não ordenada) é criada ao digitar um hífen (-), asterisco (*) ou sinal de mais (+), seguido por um espaço ou tab no início de um parágrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A check mark appears against &lt;f1&gt;Lock Toolbar Position&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T134307Z" creationid="tulio" creationdate="20250211T134307Z">
@@ -1914,6 +1930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104112Z" creationid="timot" creationdate="20250113T104112Z">
         <seg>Uma nova seleção separada é adicionada a uma seleção existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A numbered (ordered) list is created when you type a number followed by a period (.), followed by a space or tab at the beginning of a paragraph.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111708Z" creationid="timot" creationdate="20250221T111708Z">
+        <seg>Uma lista numerada (ordenada) é criada quando digita-se um número seguido por um ponto (.), seguido por um espaço ou tab no início de um parágrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3018,6 +3042,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T111059Z" creationid="timot" creationdate="20250221T111059Z">
         <seg>Autoformatar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Autoformatting on the &lt;f0&gt;Options&lt;/f0&gt; tab includes URL recognition, bulleted and numbered lists, capitalizing the first letter of every sentence, and correcting two initial capitals on words.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111542Z" creationid="timot" creationdate="20250221T111542Z">
+        <seg>A Autoformatação na guia &lt;f0&gt;Opções&lt;/f0&gt; inclui reconhecimento de URL, listas com marcadores e numeradas, maiúsculas da primeira letra de cada frase e correção de duas letras maiúsculas iniciais nas palavras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5250,6 +5282,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190449Z" creationid="olivier-tdf" creationdate="20250209T190449Z">
         <seg>Criar fórmulas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating lists with styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112004Z" creationid="timot" creationdate="20250221T112004Z">
+        <seg>Criar listas com estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating unordered (bulleted) and ordered (numbered) lists</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112018Z" creationid="timot" creationdate="20250221T112018Z">
+        <seg>Criar listas não ordenadas (com marcadores) e ordenadas (numeradas)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7750,6 +7798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more about creating lists using styles, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112013Z" creationid="timot" creationdate="20250221T112013Z">
+        <seg>Para saber mais sobre como criar listas usando estilos, consulte o &lt;f0&gt;Guia do Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more about modifying styles, see Chapter 4, Working with Styles, Templates, and Hyperlinks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170752Z" creationid="olivier-tdf" creationdate="20250209T170752Z">
@@ -9318,6 +9374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, these styles do not include options for settings such as the type of bullet or position of numbers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112042Z" creationid="timot" creationdate="20250221T112042Z">
+        <seg>No entanto, esses estilos não incluem opções para configurações, como o tipo de marcador ou a posição dos números.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, they can be challenging to understand.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T125329Z" creationid="timot" creationdate="20250205T125329Z">
@@ -9870,6 +9934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you notice unexpected formatting changes occurring in your document, this is the first place to look for the cause.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111939Z" creationid="timot" creationdate="20250221T111939Z">
+        <seg>Se for notado alterações inesperadas de formatação ocorrendo no documento, este é o primeiro lugar para procurar a causa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you reload a document in LibreOffice, all the changes made in an editing session after the last save are discarded.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232919Z" creationid="olivier" creationdate="20250220T232919Z">
@@ -10314,6 +10386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier-tdf" creationdate="20250117T122049Z">
         <seg>Em muitos casos, os arquivos CSV contêm dados exportados de um banco de dados, resultando num arquivo no qual cada linha corresponde a um registro de uma tabela ou consulta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In most cases &lt;f0&gt;Edit &gt; Undo&lt;/f0&gt; (&lt;f1&gt;Ctrl+Z&lt;/f1&gt;) fixes the issue.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111956Z" creationid="timot" creationdate="20250221T111956Z">
+        <seg>Na maioria dos casos, &lt;f0&gt;Editar &gt; Desfazer&lt;/f0&gt; (&lt;f1&gt;Ctrl+Z&lt;/f1&gt;) corrige o problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10978,6 +11058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T105825Z" creationid="timot" creationdate="20250221T105825Z">
         <seg>Recomenda-se usar estilos para formatar caracteres o máximo possível, em vez de formatar caracteres diretamente, conforme descrito nesta seção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is recommended to use paragraph and list styles together in these ways:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112124Z" creationid="timot" creationdate="20250221T112124Z">
+        <seg>Recomenda-se usar estilos de parágrafo e lista juntos das seguintes maneiras:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11914,6 +12002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225711Z" creationid="olivier-tdf" creationdate="20250122T225711Z">
         <seg>A maioria das entradas de dados no Calc é feita com o teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most fonts include curly quotation marks (also known as “smart quotes”), but for some purposes (such as marking minutes and seconds of latitude and longitude) you may wish to format them as straight quotes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111846Z" creationid="timot" creationdate="20250221T111846Z">
+        <seg>A maioria das fontes inclui aspas curvas (também conhecidas como "aspas inteligentes"), mas para alguns fins (como marcar minutos e segundos de latitude e longitude) existe a possibilidade de formatá-las como aspas retas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15334,6 +15430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Smart quotes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111902Z" creationid="timot" creationdate="20250221T111902Z">
+        <seg>Aspas inteligentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So when a graphic object is selected in Writer, the Drawing Object Properties toolbar, which provides tools for formatting graphics, replaces the Formatting toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172547Z" creationid="tulio" creationdate="20250119T172547Z">
@@ -15666,6 +15770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215708Z" creationid="timot" creationdate="20250110T215708Z">
         <seg>Steve Fanning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Straight quotes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111851Z" creationid="timot" creationdate="20250221T111851Z">
+        <seg>Aspas retas</seg>
       </tuv>
     </tu>
     <tu>
@@ -16026,6 +16138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210937Z" creationid="olivier-tdf" creationdate="20250128T210937Z">
         <seg>A configuração de &lt;f0&gt;Idioma&lt;/f0&gt; controla as configurações locais para os diferentes formatos, como o formato de data e o símbolo de moeda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Localized Options&lt;/f0&gt; tab controls the formatting of quotation marks and apostrophes (which look like a closing single quote).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111743Z" creationid="timot" creationdate="20250221T111743Z">
+        <seg>A guia &lt;f0&gt;Opções do local&lt;/f0&gt; controla a formatação de aspas e apóstrofos (que se parecem com uma aspa única de fechamento).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17902,6 +18022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Those settings come from list styles, which are a different type of style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112050Z" creationid="timot" creationdate="20250221T112050Z">
+        <seg>Essas configurações vêm de estilos de lista, que são um tipo diferente de estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Though some introductory examples are included for the BeanShell, JavaScript, and Python scripting languages, an in-depth discussion on using these languages for scripting is beyond the scope of this chapter.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="rafael" changedate="20250220T000413Z" creationid="rafael" creationdate="20250220T000413Z">
@@ -19574,10 +19702,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use any of the Bullet list styles with these paragraph styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112221Z" creationid="timot" creationdate="20250221T112221Z">
+        <seg>Use qualquer um dos estilos de lista de marcadores com esses estilos de parágrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use any of the Numbering list styles with these paragraph styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112235Z" creationid="timot" creationdate="20250221T112235Z">
+        <seg>Use qualquer um dos estilos da lista de numeração com esses estilos de parágrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use one of the following methods to prepare for editing cell data:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T230314Z" creationid="olivier" creationdate="20250123T230314Z">
         <seg>Use um dos seguintes métodos para se preparar para a edição de dados da célula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use paragraph styles List 1, List 2, List 3, and so on for creating unordered lists.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112136Z" creationid="timot" creationdate="20250221T112136Z">
+        <seg>Use estilos de parágrafo Lista 1, Lista 2, Lista 3 e assim por diante para criar listas não ordenadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use paragraph styles Numbering 1, Numbering 2, Numbering 3, etc, for creating ordered lists.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112228Z" creationid="timot" creationdate="20250221T112228Z">
+        <seg>Use estilos de parágrafo Numeração 1, Numeração 2, Numeração 3, etc, para criar listas ordenadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20686,6 +20846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whenever possible, use paragraph styles for creating unordered (bulleted) and ordered (numbered) lists.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112029Z" creationid="timot" creationdate="20250221T112029Z">
+        <seg>Sempre que possível, use estilos de parágrafo para criar listas não ordenadas (com marcadores) e ordenadas (numeradas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Where to get more help</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114057Z" creationid="olivier-tdf" creationdate="20250109T114057Z">
@@ -20926,6 +21094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer comes with two sets of paragraph styles for this purpose.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112036Z" creationid="timot" creationdate="20250221T112036Z">
+        <seg>O Writer vem com dois conjuntos de estilos de parágrafo para esse fim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer defines six types of styles: paragraph, character, frame, page, list, and table.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T100212Z" creationid="timot" creationdate="20250217T100212Z">
@@ -21010,6 +21186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T212055Z" creationid="timot" creationdate="20250210T212055Z">
         <seg>A função Autocorreção do Writer tem uma longa lista de erros ortográficos e de digitação comuns, que são corrigidos automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer’s separate list styles have two major advantages: the same list style can be used with multiple paragraph styles, and a paragraph’s associated list style can be changed with a single selection.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T112115Z" creationid="timot" creationdate="20250221T112115Z">
+        <seg>Os estilos de lista separados do Writer têm duas vantagens principais: o mesmo estilo de lista pode ser usado com vários estilos de parágrafo e o estilo de lista associado a um parágrafo pode ser alterado com uma única seleção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21552,8 +21736,8 @@
       <tuv lang="en-US">
         <seg>You can set Writer to format or correct parts of a document automatically as you type, according to the choices made on the &lt;f0&gt;Options&lt;/f0&gt; and &lt;f1&gt;Localized Options&lt;/f1&gt; tabs of the AutoCorrect dialog (&lt;f2&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111229Z" creationid="timot" creationdate="20250221T111229Z">
-        <seg>Tem como definir o Writer para formatar ou corrigir partes de um documento automaticamente à medida que digita, de acordo com as escolhas feitas nas guias &lt;f0&gt;Opções&lt;/f0&gt; e &lt;f1&gt;Opções Localizadas&lt;/f1&gt; da caixa de diálogo AutoCorreção (&lt;f2&gt;Ferramentas &gt; AutoCorreção &gt; Opções de AutoCorreção&lt;/f2&gt;).</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111432Z" creationid="timot" creationdate="20250221T111229Z">
+        <seg>Existe a opção de definir o Writer para formatar ou corrigir partes de um documento automaticamente à medida que digita, de acordo com as escolhas feitas nas guias &lt;f0&gt;Opções&lt;/f0&gt; e &lt;f1&gt;Opções do local&lt;/f1&gt; da caixa de diálogo Autocorreção (&lt;f2&gt;Ferramentas &gt; Autocorreção &gt; Opções da autocorreção&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21954,6 +22138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T160944Z" creationid="timot" creationdate="20250205T160944Z">
         <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‘ ’ &lt;s0/&gt;“ ”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250221T111907Z" creationid="timot" creationdate="20250221T111907Z">
+        <seg>‘ ’ &lt;s0/&gt;“ ”</seg>
       </tuv>
     </tu>
     <tu>
