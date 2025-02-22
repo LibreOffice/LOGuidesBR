@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;able &lt;t1&gt;4&lt;/t1&gt;&lt;s2/&gt;&lt;f3&gt;l&lt;/f3&gt;ists the options that are available in the Printer Setup dialog:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183922Z" creationid="olivier" creationdate="20250222T183922Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt; A tabela &lt;t1&gt;4&lt;/t1&gt;&lt;s2/&gt;&lt;f3&gt;&lt;/f3&gt; apresenta as opções que estão disponíveis na caixa de diálogo Configuração da impressora:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Tab key:&lt;/f0&gt; Moves the cell focus right in a row to the next column.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T003846Z">
@@ -1170,6 +1178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112829Z" creationid="timot" creationdate="20250202T112829Z">
         <seg>&lt;s0&gt;Posição encaixada da barra de ferramentas Localizar&lt;/s0&gt;&lt;s1&gt; Posição encaixada da barra de ferramentas Localizar&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Draw Standard toolbar with Print Directly installed&lt;/s0&gt;&lt;s1&gt;Draw Standard toolbar with Print Directly installed&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183500Z" creationid="olivier" creationdate="20250222T183232Z">
+        <seg>&lt;s0&gt;Barra de ferramentas Padrão do Draw com Impressão direta instalada&lt;/s0&gt;&lt;s1&gt;Barra de ferramentas Padrão do Draw com Impressão direta instalada&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3926,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changes the printer settings of the computer operating system for the current document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184203Z" creationid="olivier" creationdate="20250222T184203Z">
+        <seg>Altera as configurações da impressora do sistema operacional do computador para o documento atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing data</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225618Z" creationid="olivier" creationdate="20250123T225618Z">
@@ -5726,6 +5750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Describes the current status of the selected printer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184105Z" creationid="olivier" creationdate="20250222T184105Z">
+        <seg>Descreve o status atual da impressora selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145248Z" creationid="tulio" creationdate="20250119T145248Z">
@@ -5854,6 +5886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displays additional information for the printer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184146Z" creationid="olivier" creationdate="20250222T184146Z">
+        <seg>Exibe informações adicionais para a impressora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Displays all styles of the selected style category.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000003Z" creationid="olivier-tdf" creationdate="20250219T000003Z">
@@ -5918,6 +5958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displays the computer connection for the selected printer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184131Z" creationid="olivier" creationdate="20250222T184131Z">
+        <seg>Exibe a conexão do computador para a impressora selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Displays the contents of the selected cell (data, formula, or function) and allows you to edit the cell contents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212342Z" creationid="olivier-tdf" creationdate="20250116T212342Z">
@@ -5954,6 +6002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000013Z" creationid="olivier-tdf" creationdate="20250219T000013Z">
         <seg>Exibe os estilos que foram ocultados no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the type of printer that is selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184116Z" creationid="olivier" creationdate="20250222T184116Z">
+        <seg>Exibe o tipo de impressora selecionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6114,6 +6170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123730Z" creationid="olivier-tdf" creationdate="20250109T123730Z">
         <seg>Draw (desenho vetorial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw Standard toolbar with Print Directly installed</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183510Z" creationid="olivier" creationdate="20250222T183510Z">
+        <seg>Barra de ferramentas Padrão do Draw com Impressão direta instalada</seg>
       </tuv>
     </tu>
     <tu>
@@ -7394,6 +7458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T111601Z" creationid="timot" creationdate="20250202T111601Z">
         <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Ícone de seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Draw Standard toolbar with Print Directly installed</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183428Z" creationid="olivier" creationdate="20250222T183428Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Barra de ferramentas Padrão do Draw com Impressão direta instalada</seg>
       </tuv>
     </tu>
     <tu>
@@ -9734,6 +9806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If &lt;f0&gt;Print Directly&lt;/f0&gt; is not visible on the Standard toolbar, it can be installed as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183559Z" creationid="olivier" creationdate="20250222T183559Z">
+        <seg>Se &lt;f0&gt;Imprimir Diretamente&lt;/f0&gt; não estiver visível na barra de ferramentas Padrão, ela pode ser instalada da seguinte forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If &lt;f1&gt;Check grammar as you type&lt;/f1&gt; has also been enabled, errors are marked with a wavy blue underline.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T002338Z" creationid="timot" creationdate="20250206T002338Z">
@@ -10018,6 +10098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T100248Z" creationid="timot" creationdate="20250206T100248Z">
         <seg>Se a lista não contiver a palavra desejada, clique em &lt;f2&gt;Ortografia&lt;/f2&gt; para abrir a caixa de diálogo Ortografia (Figura &lt;t3&gt;16&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the list is empty, install a default printer for the computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184026Z" creationid="olivier" creationdate="20250222T184026Z">
+        <seg>Se a lista estiver vazia, instale uma impressora padrão para o computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10474,6 +10562,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215758Z" creationid="olivier-tdf" creationdate="20250109T215758Z">
         <seg>Impress: Painel de notas sob o slide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Default printer&lt;/f0&gt; select the printer to use as default printer from the drop-down list, then close &lt;f1&gt;Settings&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183151Z" creationid="olivier" creationdate="20250222T183151Z">
+        <seg>Em &lt;f0&gt;Impressora padrão&lt;/f0&gt;, selecione a impressora a ser usada como impressora padrão na lista suspensa e feche &lt;f1&gt;Configurações&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11670,6 +11766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice can print an entire open document using the computer’s default printer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183531Z" creationid="olivier" creationdate="20250222T183531Z">
+        <seg>O LibreOffice pode imprimir um documento aberto inteiro na impressora padrão do computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice can run some Excel Visual Basic scripts if you enable this feature at &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; VBA Properties&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124845Z" creationid="olivier-tdf" creationdate="20250114T124845Z">
@@ -11998,6 +12102,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lists information that applies to the selected printer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183957Z" creationid="olivier" creationdate="20250222T183957Z">
+        <seg>Lista as informações que se aplicam à impressora selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lists the installed printers on the computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184048Z" creationid="olivier" creationdate="20250222T184048Z">
+        <seg>Lista as impressoras instaladas no computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Localization is well under way for another 30+ languages (50-80%) and for another 50+ languages help is more than welcome.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215056Z" creationid="olivier-tdf" creationdate="20250109T215056Z">
@@ -12082,6 +12202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011516Z" creationid="tulio" creationdate="20250116T011516Z">
         <seg>Janela principal do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make sure that the layout orientation (Landscape or Portrait) matches the page format set in &lt;f0&gt;Format &gt; Page&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184234Z" creationid="olivier" creationdate="20250222T184234Z">
+        <seg>Certifique-se de que a orientação do leiaute (Paisagem ou Retrato) corresponda ao formato de página definido em &lt;f0&gt;Formato &gt; Página&lt;/f0&gt; na barra de Menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13150,6 +13278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open &lt;f0&gt;System Settings&lt;/f0&gt;, then open &lt;f1&gt;Printers &amp; Scanners&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183116Z" creationid="olivier" creationdate="20250222T183116Z">
+        <seg>Abra as &lt;f0&gt;Configurações do Sistema&lt;/f0&gt; e, em seguida, abra &lt;f1&gt;Impressoras e Scanners&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Styles deck in Sidebar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195247Z" creationid="timot" creationdate="20250111T195247Z">
@@ -13346,6 +13482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203453Z" creationid="olivier-tdf" creationdate="20250112T203453Z">
         <seg>Sistema operacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Option</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183935Z" creationid="olivier" creationdate="20250222T183935Z">
+        <seg>Opção</seg>
       </tuv>
     </tu>
     <tu>
@@ -13894,6 +14038,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Printer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183941Z" creationid="olivier" creationdate="20250222T183941Z">
+        <seg>Impressora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Printer setup</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183827Z" creationid="olivier" creationdate="20250222T183827Z">
+        <seg>Configurações da impressora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T182548Z" creationid="olivier-tdf" creationdate="20250109T114501Z">
@@ -14014,6 +14174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quick printing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183516Z" creationid="olivier" creationdate="20250222T183516Z">
+        <seg>Impressão rápida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Radio buttons (only one can be selected at a time)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214515Z" creationid="olivier-tdf" creationdate="20250109T214515Z">
@@ -14090,6 +14258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T153822Z" creationid="timot" creationdate="20250205T153822Z">
         <seg>Consulte os arquivos de Ajuda para diretrizes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Refer to the printer and computer user guides for more information on connecting printers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184034Z" creationid="olivier" creationdate="20250222T184034Z">
+        <seg>Consulte os guias do usuário da impressora e do computador para obter mais informações sobre como conectar impressoras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14298,6 +14474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135214Z" creationid="olivier-tdf" creationdate="20250120T135214Z">
         <seg>Clicar com o botão direito do mouse em qualquer botão de seta ativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click in a blank area on the Standard toolbar to open a context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183611Z" creationid="olivier" creationdate="20250222T183611Z">
+        <seg>Clique com o botão direito do mouse em uma área em branco na barra de ferramentas Padrão para abrir um menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14862,6 +15046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Print Directly&lt;/f0&gt; from the list of available tools to install it on the Standard toolbar, as shown by the highlighted example in Figure &lt;t1&gt;9&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183821Z" creationid="olivier" creationdate="20250222T183821Z">
+        <seg>Selecione &lt;f0&gt;Imprimir Diretamente&lt;/f0&gt; na lista de ferramentas disponíveis para instalá-lo na barra de ferramentas Padrão, conforme mostrado pelo exemplo destacado na Figura &lt;t1&gt;9&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Protect this sheet and the contents of protected cells&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183535Z" creationid="olivier-tdf" creationdate="20250209T183535Z">
@@ -14930,6 +15122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223023Z" creationid="olivier-tdf" creationdate="20250122T223023Z">
         <seg>Selecione &lt;f0&gt;Exibir &gt; Fixar linhas e colunas&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Visible Buttons&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183806Z" creationid="olivier" creationdate="20250222T183806Z">
+        <seg>Selecione &lt;f0&gt;Botões Visíveis&lt;/f0&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16490,6 +16690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T142913Z" creationid="tulio" creationdate="20250211T142913Z">
         <seg>Tabela &lt;seq0&gt;3&lt;/seq0&gt;: Exemplos de informações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;4&lt;/seq0&gt;: Options for printer setup</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183929Z" creationid="olivier" creationdate="20250222T183929Z">
+        <seg>Tabela &lt;seq0&gt;4&lt;/seq0&gt;: Opções para configuração da impressora</seg>
       </tuv>
     </tu>
     <tu>
@@ -18830,6 +19038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change the default printer, select a printer name from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184056Z" creationid="olivier" creationdate="20250222T184056Z">
+        <seg>Para alterar a impressora padrão, selecione um nome de impressora na lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change the font color, do one of the following:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161108Z" creationid="olivier" creationdate="20250204T161108Z">
@@ -19562,6 +19778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T101921Z" creationid="timot" creationdate="20250222T101921Z">
         <seg>Para promover o nível de um item, tecle &lt;f1&gt;Shift+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To quick print, click on &lt;f0&gt;Print Directly&lt;/f0&gt; on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183541Z" creationid="olivier" creationdate="20250222T183541Z">
+        <seg>Para imprimir rapidamente, clique em &lt;f0&gt;Imprimir diretamente&lt;/f0&gt; na barra de ferramentas Padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22782,6 +23006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>‍Comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184135Z" creationid="olivier" creationdate="20250222T184135Z">
+        <seg>Anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>‍Edit</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145333Z" creationid="tulio" creationdate="20250119T145333Z">
@@ -22830,6 +23062,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>‍Location</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184121Z" creationid="olivier" creationdate="20250222T184121Z">
+        <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Name</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184039Z" creationid="olivier" creationdate="20250222T184039Z">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184242Z" creationid="olivier" creationdate="20250222T184242Z">
+        <seg>Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Properties</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184151Z" creationid="olivier" creationdate="20250222T184151Z">
+        <seg>Propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Status</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184100Z" creationid="olivier" creationdate="20250222T184100Z">
+        <seg>Status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>‍Styles</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145933Z" creationid="tulio" creationdate="20250119T145933Z">
@@ -22850,6 +23122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150309Z" creationid="tulio" creationdate="20250119T150309Z">
         <seg>‍Ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‍Type</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184109Z" creationid="olivier" creationdate="20250222T184109Z">
+        <seg>Tipo</seg>
       </tuv>
     </tu>
     <tu>
