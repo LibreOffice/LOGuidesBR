@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of separate windows list&lt;/s0&gt;&lt;s1&gt;Example of separate windows list&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T181600Z" creationid="olivier" creationdate="20250222T181600Z">
+        <seg>&lt;s0&gt;Exemplo de lista de janelas separadas&lt;/s0&gt;&lt;s1&gt;Exemplo de lista de janelas separadas&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of toolbar handles&lt;/s0&gt;&lt;s1&gt;Example of toolbar handles&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T134712Z" creationid="tulio" creationdate="20250211T134712Z">
@@ -6534,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of separate windows list</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T181611Z" creationid="olivier" creationdate="20250222T181611Z">
+        <seg>Exemplo de lista de janelas separadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example of toolbar handles</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T134730Z" creationid="tulio" creationdate="20250211T134730Z">
@@ -7302,6 +7318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Example of separate windows list</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T181607Z" creationid="olivier" creationdate="20250222T181607Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Exemplo de lista de janelas separadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Export Text File dialog for CSV files</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125108Z" creationid="olivier-tdf" creationdate="20250117T125108Z">
@@ -7346,6 +7370,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125614Z" creationid="olivier-tdf" creationdate="20250117T125614Z">
         <seg>A Figura &lt;t0&gt;9&lt;/t0&gt;&lt;s1/&gt;contém um exemplo de dados para exportação e a Figura &lt;t2&gt;10&lt;/t2&gt;&lt;s3/&gt;mostra o arquivo CSV resultante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;t1&gt;8&lt;/t1&gt; shows how separate views of one document can be open at the same time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T180901Z" creationid="olivier" creationdate="20250222T180901Z">
+        <seg>A Figura &lt;t1&gt;8&lt;/t1&gt; mostra como visualizações separadas de um documento podem ser abertas ao mesmo tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9782,6 +9814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If other LibreOffice documents are open at the same time, the LibreOffice windows list also includes these other documents and the active window has a check mark by its filename.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T180912Z" creationid="olivier" creationdate="20250222T180912Z">
+        <seg>Se outros documentos do LibreOffice estiverem abertos ao mesmo tempo, a lista de janelas do LibreOffice também inclui esses outros documentos e a janela ativa tem uma marca de seleção pelo nome do arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If possible you should give each object an easily identified name so you can easily locate an object, instead of using default names such as Sheet1, Table1, or Image2, and so on.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T165916Z" creationid="olivier" creationdate="20250222T165916Z">
@@ -10546,6 +10586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="timot" creationdate="20250205T160544Z">
         <seg>Nos casos em que não deseja que o hífen apareça no final de uma linha, por exemplo, num número como 123-4567, é possível teclar &lt;f0&gt;Ctrl+Shift+sinal de subtração&lt;/f0&gt; ou usar &lt;f1&gt;Inserir &gt; Marca de formatação &gt; Inserir hífen inseparável&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In each open window, the filename of the document will be displayed in the title bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T180851Z" creationid="olivier" creationdate="20250222T180851Z">
+        <seg>Em cada janela aberta, o nome do arquivo do documento será exibido na barra de título.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18694,6 +18742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To close a window, go to &lt;f0&gt;Window &gt; Close Window&lt;/f0&gt; on the Menu bar, use the keyboard shortcut &lt;f1&gt;Ctrl+W&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+W&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T181705Z" creationid="olivier" creationdate="20250222T181705Z">
+        <seg>Para fechar uma janela, Acesse &lt;f0&gt;Janela &gt; Fechar Janela&lt;/f0&gt; na barra de Menu, use o atalho de teclado &lt;f1&gt;Ctrl+W&lt;/f1&gt; (macOS &lt;f2&gt;⌘ +W&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To close the Find toolbar, click the &lt;f0&gt;X&lt;/f0&gt; button on the left, or press &lt;f1&gt;Esc&lt;/f1&gt; on the keyboard when the cursor is in the search box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T103911Z" creationid="timot" creationdate="20250204T103859Z">
@@ -19766,6 +19822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To undo the most recent change in a document, use one of these methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T181737Z" creationid="olivier" creationdate="20250222T181737Z">
+        <seg>Para desfazer a alteração mais recente num documento, use um destes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To undock the Sidebar and make it floating, do the following:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134914Z" creationid="olivier" creationdate="20250217T134914Z">
@@ -20026,6 +20090,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125721Z" creationid="olivier-tdf" creationdate="20250218T125721Z">
         <seg>Entender como formatar documentos destrava o poder do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Undoing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T181722Z" creationid="olivier" creationdate="20250222T181722Z">
+        <seg>Desfazer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Undoing and redoing changes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T181713Z" creationid="olivier" creationdate="20250222T181713Z">
+        <seg>Desfazer e refazer alterações</seg>
       </tuv>
     </tu>
     <tu>
@@ -22178,6 +22258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210417Z" creationid="olivier-tdf" creationdate="20250128T210417Z">
         <seg>Você pode dividir uma célula que foi criada a partir de várias células:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can switch between windows by clicking on a name in the list or by clicking on the window itself if it is visible on the display.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T180939Z" creationid="olivier" creationdate="20250222T180939Z">
+        <seg>Você pode alternar entre janelas clicando em um nome na lista ou clicando na própria janela, se ela estiver visível na tela.</seg>
       </tuv>
     </tu>
     <tu>
