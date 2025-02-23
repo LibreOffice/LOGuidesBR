@@ -2510,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allows you to select which paper tray to use from a drop-down list (if the printer has more than one paper tray).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150129Z" creationid="olivier" creationdate="20250223T150129Z">
+        <seg>Permite selecionar qual bandeja de papel usar em uma lista suspensa (se a impressora tiver mais de uma bandeja de papel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also at this link, the release notes for earlier versions of LibreOffice are located giving more information on the features that are included in LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215706Z" creationid="olivier-tdf" creationdate="20250109T215706Z">
@@ -3402,6 +3410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T122239Z" creationid="olivier" creationdate="20250109T002250Z">
         <seg>Book&lt;t0&gt;1&lt;/t0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Border</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150415Z" creationid="olivier" creationdate="20250223T150415Z">
+        <seg>Bordas</seg>
       </tuv>
     </tu>
     <tu>
@@ -5934,6 +5950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Determine how a multi-page document will be bound from a drop-down list: &lt;f0&gt;Off&lt;/f0&gt;; &lt;f1&gt;Long-Edge binding&lt;/f1&gt;; &lt;f2&gt;Short-Edge binding&lt;/f2&gt;, &lt;f3&gt;Booklet&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154736Z" creationid="olivier" creationdate="20250223T154736Z">
+        <seg>Determine como um documento de várias páginas será disposto a partir de uma lista suspensa: &lt;f0&gt;Desativado&lt;/f0&gt;; Vinculação de borda longa&lt;f1&gt;; Vinculação de borda curta&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, &lt;f3&gt;Livreto&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Determine what happens if a user enters invalid content.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224833Z" creationid="olivier" creationdate="20250123T224833Z">
@@ -7050,6 +7074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142730Z" creationid="olivier" creationdate="20250223T142730Z">
         <seg>Recurso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Feed from</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150120Z" creationid="olivier" creationdate="20250223T150120Z">
+        <seg>Alimentação de</seg>
       </tuv>
     </tu>
     <tu>
@@ -12182,6 +12214,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150228Z" creationid="olivier" creationdate="20250223T150228Z">
+        <seg>Leiaute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layout Direction</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150351Z" creationid="olivier" creationdate="20250223T150351Z">
+        <seg>Direção do leiaute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Leading zeroes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225859Z" creationid="olivier-tdf" creationdate="20250122T225859Z">
@@ -12858,6 +12906,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144915Z" creationid="tulio" creationdate="20250119T144915Z">
         <seg>Pode conter o ícone para o comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Media &amp; Quality</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150109Z" creationid="olivier" creationdate="20250223T150109Z">
+        <seg>Mídia e qualidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Media Type</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150137Z" creationid="olivier" creationdate="20250223T150137Z">
+        <seg>Tipo de mídia</seg>
       </tuv>
     </tu>
     <tu>
@@ -14342,6 +14406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pages per sheet</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150235Z" creationid="olivier" creationdate="20250223T150235Z">
+        <seg>Páginas por folha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pages users can also export (not save) a copy of a Pages document in a format compatible with Writer, such as &lt;f0&gt;.docx&lt;/f0&gt; or &lt;f1&gt;.rtf&lt;/f1&gt;, which Writer can then open, edit, and save to.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="timot" creationdate="20250122T180956Z">
@@ -14906,6 +14978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214742Z" creationid="olivier-tdf" creationdate="20250109T214742Z">
         <seg>Botões de pressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150157Z" creationid="olivier" creationdate="20250223T150157Z">
+        <seg>Qualidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -16134,6 +16214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select how many slides are printed on one sheet of paper &lt;f0&gt;f&lt;/f0&gt;rom the drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150340Z" creationid="olivier" creationdate="20250223T150340Z">
+        <seg>Selecione quantos slides são impressos numa folha &lt;f0&gt;de&lt;/f0&gt; papel da lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select one of the predefined formats in the &lt;f0&gt;Format&lt;/f0&gt; list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210810Z" creationid="olivier-tdf" creationdate="20250128T210810Z">
@@ -16422,6 +16510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the paper type that has been loaded into the paper tray from the drop-down list , (for example Envelope, Photo, Plain Paper).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150150Z" creationid="olivier" creationdate="20250223T150150Z">
+        <seg>Selecione o tipo de papel que foi carregado na bandeja de papel na lista suspensa (por exemplo, envelope, foto, papel comum).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the printer to be used from the drop-down list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T145106Z" creationid="olivier" creationdate="20250223T145106Z">
@@ -16434,6 +16530,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T143719Z" creationid="olivier" creationdate="20250223T143719Z">
         <seg>Selecione a impressora a ser usada nas impressoras disponíveis na lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the printing order of multiple slides on one sheet of paper.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150410Z" creationid="olivier" creationdate="20250223T150410Z">
+        <seg>Selecione a ordem de impressão de vários slides numa folha de papel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16458,6 +16562,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135516Z" creationid="olivier-tdf" creationdate="20250120T135516Z">
         <seg>Selecione a direção de movimento necessária no menu suspenso adjacente (&lt;f2&gt;para baixo, para&lt;/f2&gt; a &lt;f3&gt;direita&lt;/f3&gt;, para &lt;f4&gt;cima&lt;/f4&gt; ou para a &lt;f5&gt;esquerda&lt;/f5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the required level of printing quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150222Z" creationid="olivier" creationdate="20250223T150222Z">
+        <seg>Selecione o nível de qualidade necessário para a impressão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16586,6 +16698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142248Z" creationid="olivier" creationdate="20250223T142123Z">
         <seg>Selecione esta opção para avisar quando objetos transparentes estiverem contidos no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option to print the presentation double sided if the printer selected is capable of double sided printing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150104Z" creationid="olivier" creationdate="20250223T150104Z">
+        <seg>Selecione esta opção para imprimir a apresentação frente e verso se a impressora selecionada for capaz de imprimir frente e verso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21522,6 +21642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142055Z" creationid="olivier" creationdate="20250223T142055Z">
         <seg>Transparência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two-Sided</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150426Z" creationid="olivier" creationdate="20250223T150426Z">
+        <seg>Dupla face</seg>
       </tuv>
     </tu>
     <tu>
