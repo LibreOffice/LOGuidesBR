@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Print dialog — Impress General page — macOS&lt;/s0&gt;&lt;s1&gt;Print dialog — Impress General page — macOS&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154948Z" creationid="olivier" creationdate="20250223T154948Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Imprimir — Aba Geral do Impress — macOS&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Imprimir — Aba Geral do Impress — macOS&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Protect Sheet dialog with password strength meter&lt;/s0&gt;&lt;s1&gt;Protect Sheet dialog with password strength meter&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183650Z" creationid="olivier-tdf" creationdate="20250209T183650Z">
@@ -2262,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjusts the printed slide to fit the paper size.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155333Z" creationid="olivier" creationdate="20250223T155333Z">
+        <seg>Ajusta o slide impresso para caber no tamanho do papel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advantages of LibreOffice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113947Z" creationid="olivier-tdf" creationdate="20250109T113947Z">
@@ -2498,6 +2514,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190436Z" creationid="olivier-tdf" creationdate="20250209T190436Z">
         <seg>Tudo o que se precisa fazer é adicionar os argumentos e o cálculo é feito automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allows selected multiple printed copies to be collated into separate documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155029Z" creationid="olivier" creationdate="20250223T155029Z">
+        <seg>Permite que várias cópias impressas selecionadas sejam agrupadas em documentos separados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5294,6 +5318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Collate sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155021Z" creationid="olivier" creationdate="20250223T155021Z">
+        <seg>Agrupar folhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Collates multiple printed copies into separate documents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T144512Z" creationid="olivier" creationdate="20250223T144512Z">
@@ -5946,6 +5978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145248Z" creationid="tulio" creationdate="20250119T145248Z">
         <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destination Paper Size</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155338Z" creationid="olivier" creationdate="20250223T155338Z">
+        <seg>Tamanho do papel de destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -7206,6 +7246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Print dialog — Impress General page — macOS</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155000Z" creationid="olivier" creationdate="20250223T155000Z">
+        <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;:Caixa de diálogo Imprimir — Aba Geral do Impress — macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: The Special Characters dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T155714Z" creationid="timot" creationdate="20250205T155714Z">
@@ -7922,6 +7970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222109Z" creationid="olivier" creationdate="20250212T222109Z">
         <seg>Régua de ajuste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flip horizontally</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154811Z" creationid="olivier" creationdate="20250223T154811Z">
+        <seg>Inverter horizontalmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -10266,6 +10322,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194341Z" creationid="olivier-tdf" creationdate="20250109T194341Z">
         <seg>Se os recursos do LibreOffice que exigem Java forem usados, é importante que a edição correta de 32 bits ou 64 bits corresponda à versão instalada do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If LibreOffice prints the pages in the wrong orientation, select this option and print the document again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154822Z" creationid="olivier" creationdate="20250223T154822Z">
+        <seg>Se o LibreOffice imprimir as páginas na orientação errada, selecione esta opção e imprima o documento novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If LibreOffice prints the slides in the wrong order, select this option and print the document again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154758Z" creationid="olivier" creationdate="20250223T154758Z">
+        <seg>Se o LibreOffice imprimir os slides na ordem errada, selecione esta opção e imprima o documento novamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13910,6 +13982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only available if &lt;f0&gt;Scale to fit paper size&lt;/f0&gt; has been selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155409Z" creationid="olivier" creationdate="20250223T155409Z">
+        <seg>Disponível apenas se &lt;f0&gt;Dimensione para caber no tamanho do papel&lt;/f0&gt; tiver sido selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only files that can be opened by the selected LibreOffice module are displayed in the Start Center.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T010259Z" creationid="tulio" creationdate="20250116T004833Z">
@@ -14430,6 +14510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paper Handling</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155014Z" creationid="olivier" creationdate="20250223T155014Z">
+        <seg>Manuseio de papel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paper orientation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T141931Z" creationid="olivier" creationdate="20250223T141931Z">
@@ -14770,6 +14858,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142853Z" creationid="olivier" creationdate="20250223T142853Z">
         <seg>Imprimir um livreto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Print dialog — Impress General page — macOS</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155006Z" creationid="olivier" creationdate="20250223T155006Z">
+        <seg>Caixa de diálogo Imprimir — Aba Geral do Impress — macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -15302,6 +15398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reverse page orientation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154748Z" creationid="olivier" creationdate="20250223T154748Z">
+        <seg>Orientação inversa da página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213952Z" creationid="olivier-tdf" creationdate="20250109T213952Z">
@@ -15554,6 +15658,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122900Z" creationid="olivier-tdf" creationdate="20250117T122900Z">
         <seg>Salvar documento de planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scale down only</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155432Z" creationid="olivier" creationdate="20250223T155432Z">
+        <seg>Reduzir apenas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scale to fit paper size</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155259Z" creationid="olivier" creationdate="20250223T155259Z">
+        <seg>Dimensione para caber no tamanho do papel</seg>
       </tuv>
     </tu>
     <tu>
@@ -16726,6 +16846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select which slides in the document to print from the drop-down list: (&lt;f0&gt;All pages&lt;/f0&gt;; &lt;f1&gt;Odd only&lt;/f1&gt;; &lt;f2&gt;Even only)&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155213Z" creationid="olivier" creationdate="20250223T155213Z">
+        <seg>Selecione quais slides no documento a imprimir na lista suspensa: (&lt;f0&gt;Todas as páginas&lt;/f0&gt;; &lt;f1&gt;Apenas ímpar&lt;/f1&gt;; &lt;f2&gt;Apenas par)&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selecting &lt;f0&gt;Insert &gt; Comment&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T185727Z" creationid="olivier-tdf" creationdate="20250209T185727Z">
@@ -16886,6 +17014,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selects a paper size from the options available in the included drop‑down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155423Z" creationid="olivier" creationdate="20250223T155423Z">
+        <seg>Seleciona um tamanho de papel a partir das opções disponíveis na lista suspensa incluída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selects the page printing order from the drop-down list: &lt;f0&gt;Automatic&lt;/f0&gt;; &lt;f1&gt;Normal&lt;/f1&gt;; &lt;f2&gt;Reverse&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155251Z" creationid="olivier" creationdate="20250223T155251Z">
+        <seg>Seleciona a ordem de impressão da página na lista suspensa: &lt;f0&gt;Automático&lt;/f0&gt;; &lt;f1&gt;Normal&lt;/f1&gt;; &lt;f2&gt;Reverso&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Send Feedback</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195918Z" creationid="olivier-tdf" creationdate="20250109T195918Z">
@@ -17006,6 +17150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sheet Order</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155237Z" creationid="olivier" creationdate="20250223T155237Z">
+        <seg>Ordem das folhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sheet names can contain almost any character.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160454Z" creationid="olivier" creationdate="20250121T160454Z">
@@ -17034,6 +17186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121206Z" creationid="olivier-tdf" creationdate="20250117T121206Z">
         <seg>Abas das planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sheets to Print</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155144Z" creationid="olivier" creationdate="20250223T155144Z">
+        <seg>Folhas a imprimir</seg>
       </tuv>
     </tu>
     <tu>
