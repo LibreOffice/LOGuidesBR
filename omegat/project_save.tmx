@@ -10934,6 +10934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If all of the above fails, this function will reset the settings and user interface modifications (or the entire user profile) back to factory defaults.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233411Z" creationid="olivier-tdf" creationdate="20250224T233411Z">
+        <seg>Se todos os itens acima falharem, esta função redefinirá as configurações e as modificações da interface do usuário (ou todo o perfil do usuário) de volta aos padrões de fábrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If an object is currently selected in Impress, the position numbers shows X and Y coordinates of the upper‑left corner and the object size number pair displays the size of the object.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T132759Z" creationid="olivier" creationdate="20250217T132759Z">
@@ -11498,6 +11506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233033Z" creationid="olivier-tdf" creationdate="20250224T233033Z">
         <seg>Se suspeitar que os problemas foram causados por alterações recentes no estado de funcionamento do LibreOffice, esta opção pode ajudá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you think that a corrupted extension is blocking or causing LibreOffice to crash, this option will uninstall all user extensions and reset the state of any shared or bundled extensions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233316Z" creationid="olivier-tdf" creationdate="20250224T233316Z">
+        <seg>Se achar que uma extensão corrompida está bloqueando ou causando a falha do LibreOffice, essa opção desinstalará todas as extensões de usuário e redefinirá o estado de quaisquer extensões para todos os usuários ou instaladas com o sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12198,6 +12214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the case of shared, or bundled extensions, the option only works if a user has the proper system access rights.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233347Z" creationid="olivier-tdf" creationdate="20250224T233347Z">
+        <seg>No caso de extensões compartilhadas ou do sistema, a opção só funciona se um usuário tiver os direitos de acesso ao sistema adequados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the default LibreOffice installation, the Standard toolbar is docked at the top of the window across all of the LibreOffice modules and the second toolbar is in a docked to the top of the window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172350Z" creationid="tulio" creationdate="20250119T172350Z">
@@ -12858,6 +12882,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T142532Z" creationid="tulio" creationdate="20250211T142532Z">
         <seg>Ela fornece informações sobre o documento e também inclui maneiras convenientes de alterar alguns recursos rapidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It should be used with caution.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233353Z" creationid="olivier-tdf" creationdate="20250224T233353Z">
+        <seg>Deve ser usado com cautela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16290,6 +16322,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T211903Z" creationid="olivier" creationdate="20250123T211903Z">
         <seg>Redefine os valores modificados de volta para seus valores anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset settings and user interface modifications</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233420Z" creationid="olivier-tdf" creationdate="20250224T233420Z">
+        <seg>Redefinir configurações e modificações da interface do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset to factory settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233358Z" creationid="olivier-tdf" creationdate="20250224T233358Z">
+        <seg>Redefinir para as configurações de fábrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21078,6 +21126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This function resets any user interface and configuration changes, but keeps items such as personal dictionary, templates, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233610Z" creationid="olivier-tdf" creationdate="20250224T233610Z">
+        <seg>Esta função redefine qualquer alteração na interface de usuário e alterações de configuração, mas mantém itens como dicionário pessoal, modelos e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This handle is used to control the location of the toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T134658Z" creationid="tulio" creationdate="20250211T134658Z">
@@ -21162,6 +21218,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250122T223532Z">
         <seg>Isso torna mais fácil ver como a alteração do número numa célula afeta cada uma das fórmulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This may help you if there are crashes on startup or visual glitches that are often related to hardware acceleration.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233141Z" creationid="olivier-tdf" creationdate="20250224T233141Z">
+        <seg>Isso pode ajudá-lo se houver falhas na inicialização ou falhas visuais que geralmente estão relacionadas à aceleração de hardware.</seg>
       </tuv>
     </tu>
     <tu>
