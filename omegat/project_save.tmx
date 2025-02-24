@@ -2086,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A minimum of four slides is required to create a brochure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T230302Z" creationid="olivier-tdf" creationdate="20250224T230302Z">
+        <seg>É necessário um mínimo de quatro slides para criar uma brochura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A new, separate selection is added to an existing selection.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104112Z" creationid="timot" creationdate="20250113T104112Z">
@@ -4582,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the properties dialog and return to the Print dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T230221Z" creationid="olivier-tdf" creationdate="20250224T230221Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para fechar a caixa de diálogo de propriedades e retornar à caixa de diálogo Imprimir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to import the file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122830Z" creationid="olivier-tdf" creationdate="20250117T122830Z">
@@ -4594,6 +4610,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011147Z" creationid="olivier" creationdate="20250124T011147Z">
         <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para colar os dados na célula de destino ou no intervalo de células e fechar a caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to print the even slides in the presentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T230430Z" creationid="olivier-tdf" creationdate="20250224T230430Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para imprimir os slides pares na apresentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11582,10 +11606,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Layout&lt;/f0&gt;, select &lt;f1&gt;Brochure&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T230339Z" creationid="olivier-tdf" creationdate="20250224T230339Z">
+        <seg>Em &lt;f0&gt;Leiaute&lt;/f0&gt;, selecione &lt;f1&gt;Brochura&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In &lt;f0&gt;Options&lt;/f0&gt;, near the bottom of the dialog, scroll down to find the hyphenation settings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T112459Z" creationid="timot" creationdate="20250224T112323Z">
         <seg>Na seção &lt;f0&gt;Opções&lt;/f0&gt;, perto da parte inferior da caixa de diálogo, role para baixo para encontrar as configurações de hifenização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select &lt;f1&gt;All Slides&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T230252Z" creationid="olivier-tdf" creationdate="20250224T230252Z">
+        <seg>Em &lt;f0&gt;Intervalo e cópias&lt;/f0&gt;, selecione &lt;f1&gt;Todos os slides&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select &lt;f1&gt;Even slides&lt;/f1&gt; option in &lt;f2&gt;Include&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T230412Z" creationid="olivier-tdf" creationdate="20250224T230412Z">
+        <seg>Em &lt;f0&gt;Intervalo e cópias&lt;/f0&gt;, selecione a opção &lt;f1&gt;Slides pares&lt;/f1&gt; em &lt;f2&gt;Incluir&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select the &lt;f1&gt;Number of copies&lt;/f1&gt; required to match the required number of brochures.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T230324Z" creationid="olivier-tdf" creationdate="20250224T230324Z">
+        <seg>Em &lt;f0&gt;Intervalo e cópias&lt;/f0&gt;, selecione o &lt;f1&gt;Número de cópias&lt;/f1&gt; necessárias para corresponder ao número necessário de brochuras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18726,6 +18782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Take the printed pages out of the printer and put them back into the printer in the correct orientation to print on the other side of the paper.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T230510Z" creationid="olivier-tdf" creationdate="20250224T230510Z">
+        <seg>Retire as páginas impressas da impressora e coloque-as de volta na impressora na orientação correta para imprimir do outro lado do papel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Templates</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250109T000849Z" creationid="olivier" creationdate="20250109T000849Z">
@@ -23314,6 +23378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164644Z" creationid="olivier" creationdate="20250204T164644Z">
         <seg>Utilizar temas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usually page orientation does not matter, but it is important for brochures.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T230206Z" creationid="olivier-tdf" creationdate="20250224T230206Z">
+        <seg>Normalmente, a orientação da página não importa, mas é importante para brochuras.</seg>
       </tuv>
     </tu>
     <tu>
