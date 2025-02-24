@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8958,6 +8958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on using specific printing options available in each LibreOffice module, see the &lt;f0&gt;User Guide&lt;/f0&gt; for each LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224034Z" creationid="olivier-tdf" creationdate="20250224T224034Z">
+        <seg>Para obter mais informações sobre o uso de opções de impressão específicas disponíveis em cada módulo do LibreOffice, consulte o &lt;f0&gt;Guia do Usuário&lt;/f0&gt; para cada módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, refer to Chapter 13, Macros, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T175721Z" creationid="olivier-tdf" creationdate="20250114T124942Z">
@@ -12902,6 +12910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice module printing options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224015Z" creationid="olivier-tdf" creationdate="20250224T224015Z">
+        <seg>Opções de impressão de módulos do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice modules can be opened by:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T010451Z" creationid="tulio" creationdate="20250116T010451Z">
@@ -14430,6 +14446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only available if the paper size is smaller than the slide size.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T223822Z" creationid="olivier-tdf" creationdate="20250224T223822Z">
+        <seg>Disponível apenas se o tamanho do papel for menor que o tamanho do slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only files that can be opened by the selected LibreOffice module are displayed in the Start Center.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T010259Z" creationid="tulio" creationdate="20250116T004833Z">
@@ -15390,6 +15414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Printer info</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T223956Z" creationid="olivier-tdf" creationdate="20250224T223956Z">
+        <seg>Informação da impressora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printer setup</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183827Z" creationid="olivier" creationdate="20250222T183827Z">
@@ -15506,6 +15538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224821Z" creationid="olivier" creationdate="20250123T224821Z">
         <seg>Fornecer mensagens de ajuda explicando as regras de conteúdo configuradas para a célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Provides options to print watermark text on the slides, for example &lt;f0&gt;Confidential&lt;/f0&gt; if the presentation is of a sensitive nature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T223931Z" creationid="olivier-tdf" creationdate="20250224T223931Z">
+        <seg>Fornece opções para imprimir texto de marca d 'água nos slides, por exemplo, &lt;f0&gt;Confidencial&lt;/f0&gt; se a apresentação for de natureza sensível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17310,6 +17350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option to reduce slide size to fit the paper.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T223756Z" creationid="olivier-tdf" creationdate="20250224T223756Z">
+        <seg>Selecione esta opção para reduzir o tamanho do slide para caber no papel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select whether to save or discard the changes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011510Z" creationid="tulio" creationdate="20250116T011510Z">
@@ -17722,6 +17770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222340Z" creationid="olivier" creationdate="20250212T222340Z">
         <seg>Mostra informações diferentes dependendo de quais objetos do Impress estão selecionados ou não:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows the details of the selected printer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224005Z" creationid="olivier-tdf" creationdate="20250224T224005Z">
+        <seg>Mostra os detalhes da impressora selecionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23226,6 +23282,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T141815Z" creationid="olivier" creationdate="20250223T141815Z">
         <seg>Avisos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Watermark</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T223833Z" creationid="olivier-tdf" creationdate="20250224T223833Z">
+        <seg>Marca d'água</seg>
       </tuv>
     </tu>
     <tu>
