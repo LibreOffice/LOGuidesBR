@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Safe Mode dialog&lt;/s0&gt;&lt;s1&gt;Safe Mode dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233945Z" creationid="olivier-tdf" creationdate="20250224T233945Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Modo de segurança&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Modo de segurança&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Select All box&lt;/s0&gt;&lt;s1&gt;Select All box&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121107Z" creationid="olivier" creationdate="20250121T121107Z">
@@ -3194,6 +3202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130119Z" creationid="olivier-tdf" creationdate="20250218T130119Z">
         <seg>Aplica a formatação diretamente ou manualmente ao texto selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply Changes and Restart</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T234029Z" creationid="olivier-tdf" creationdate="20250224T234029Z">
+        <seg>Aplicar alterações e reiniciar</seg>
       </tuv>
     </tu>
     <tu>
@@ -7718,6 +7734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Safe Mode dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233953Z" creationid="olivier-tdf" creationdate="20250224T233953Z">
+        <seg>Figura &lt;seq0&gt;16&lt;/seq0&gt;: Caixa de diálogo Modo de segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Spelling dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250207T104201Z" creationid="timot" creationdate="20250207T104201Z">
@@ -11430,6 +11454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you have started Safe Mode accidentally, this option discards any changes, terminating Safe Mode, and restarting LibreOffice normally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T234024Z" creationid="olivier-tdf" creationdate="20250224T234024Z">
+        <seg>Se você iniciou o Modo de Segurança acidentalmente, esta opção descarta quaisquer alterações, encerrando o Modo de segurança e reiniciando o LibreOffice normalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you need LibreOffice to save files automatically, you can use the AutoRecovery function.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232304Z" creationid="olivier" creationdate="20250220T232304Z">
@@ -13026,6 +13058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T110335Z" creationid="timot" creationdate="20250221T110335Z">
         <seg>Assim como a formatação de parágrafo direto substitui o estilo de parágrafo atual, a aplicação da formatação de caractere direto aos caracteres substitui a formatação de estilo de caractere atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep in mind that any changes made to the temporary user profile are lost after a restart.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233810Z" creationid="olivier-tdf" creationdate="20250224T233810Z">
+        <seg>Lembre-se de que quaisquer alterações feitas no perfil de usuário temporário são perdidas após uma reinicialização.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16382,6 +16422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Restart in Normal Mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T234010Z" creationid="olivier-tdf" creationdate="20250224T234010Z">
+        <seg>Reiniciar no modo normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Restart in Safe Mode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200055Z" creationid="olivier-tdf" creationdate="20250109T200055Z">
@@ -16602,6 +16650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123949Z" creationid="olivier-tdf" creationdate="20250114T123949Z">
         <seg>Robert Thornton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Safe Mode dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T234002Z" creationid="olivier-tdf" creationdate="20250224T234002Z">
+        <seg>Caixa de diálogo Modo de segurança</seg>
       </tuv>
     </tu>
     <tu>
@@ -17850,6 +17906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142248Z" creationid="olivier" creationdate="20250223T142123Z">
         <seg>Selecione esta opção para avisar quando objetos transparentes estiverem contidos no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option to apply any of the above changes and restart LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T234038Z" creationid="olivier-tdf" creationdate="20250224T234038Z">
+        <seg>Selecione esta opção para aplicar qualquer uma das alterações acima e reiniciar o LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
