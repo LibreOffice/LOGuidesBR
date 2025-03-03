@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2706,6 +2706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001916Z" creationid="olivier" creationdate="20250303T001916Z">
         <seg>Acessar comandos da barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activates selected button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134019Z" creationid="olivier-tdf" creationdate="20250303T134019Z">
+        <seg>Ativa o botão selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6494,6 +6502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Controlling dialogs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T133841Z" creationid="olivier-tdf" creationdate="20250303T133841Z">
+        <seg>Controlar caixas de diálogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Controlling printing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142947Z" creationid="olivier" creationdate="20250223T142947Z">
@@ -7906,6 +7922,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T193924Z" creationid="olivier-tdf" creationdate="20250109T193924Z">
         <seg>Aprimoramentos, correções de software e datas de lançamento são orientados pela comunidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134012Z" creationid="olivier-tdf" creationdate="20250303T134012Z">
+        <seg>Enter</seg>
       </tuv>
     </tu>
     <tu>
@@ -9518,6 +9542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, a button, option field, entry in a list box, or checkbox.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T133925Z" creationid="olivier-tdf" creationdate="20250303T133925Z">
+        <seg>Por exemplo, um botão, campo de opção, entrada em uma caixa de listagem ou caixa de seleção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, a macOS laptop keyboard does not have &lt;f0&gt;the&lt;/f0&gt; &lt;f1&gt;Delete&lt;/f1&gt; key, but a macOS keyboard with a numeric keypad does have &lt;f2&gt;this &lt;/f2&gt;key.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000614Z" creationid="olivier" creationdate="20250303T000614Z">
@@ -9866,6 +9898,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194313Z" creationid="olivier-tdf" creationdate="20250109T194313Z">
         <seg>Para macOS, o Oracle Java Development Kit (JDK) deve ser instalado, não apenas o Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For macOS, use ⌘&lt;f0&gt;+Backspace&lt;/f0&gt; to delete everything from the cursor position to the beginning of the line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T133826Z" creationid="olivier-tdf" creationdate="20250303T133826Z">
+        <seg>Para o macOS, use&lt;f0&gt; ⌘+Backspace&lt;/f0&gt; para excluir tudo, desde a posição do cursor até o início da linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For macOS, use ⌘&lt;f0&gt;+Delete&lt;/f0&gt; (if the keyboard has a &lt;f1&gt;Delete&lt;/f1&gt; key) to delete everything from the cursor position to the end of the word.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T133801Z" creationid="olivier-tdf" creationdate="20250303T133801Z">
+        <seg>Para o macOS, use&lt;f0&gt;⌘ +Delete&lt;/f0&gt; (se o teclado tiver uma tecla &lt;f1&gt;Delete&lt;/f1&gt;) para excluir tudo, desde a posição do cursor até o final da palavra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11746,6 +11794,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215009Z" creationid="olivier-tdf" creationdate="20250109T215009Z">
         <seg>Em quantos computadores o LibreOffice pode ser instalado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How the element or option is highlighted depends on the computer operating system and how the computer is setup.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T133937Z" creationid="olivier-tdf" creationdate="20250303T133937Z">
+        <seg>A forma como o elemento ou opção é destacado depende do sistema operacional do computador e de como o computador está configurado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18350,6 +18406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Result</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134010Z" creationid="olivier-tdf" creationdate="20250303T134010Z">
+        <seg>Resultado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reverse page orientation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154748Z" creationid="olivier" creationdate="20250223T154748Z">
@@ -20350,6 +20414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shortcut Keys</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T133955Z" creationid="olivier-tdf" creationdate="20250303T133955Z">
+        <seg>Teclas de atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Tip of the Day</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195536Z" creationid="olivier-tdf" creationdate="20250109T195536Z">
@@ -21290,6 +21362,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002154Z" creationid="olivier" creationdate="20250303T002154Z">
         <seg>Tabela &lt;seq0&gt;6&lt;/seq0&gt;: Atalhos de teclado para navegação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;7&lt;/seq0&gt;: Keyboard shortcuts for controlling dialogs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T133944Z" creationid="olivier-tdf" creationdate="20250303T133944Z">
+        <seg>Tabela &lt;seq0&gt;7&lt;/seq0&gt;: Atalhos de teclado para controlar caixas de diálogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -26906,6 +26986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222412Z" creationid="olivier" creationdate="20250212T222412Z">
         <seg>Sem nenhum objeto selecionado, o Impress exibe a posição atual (coordenadas X e Y) do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When opening any dialog, one element or option is highlighted indicating that the element or option has focus on it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T133905Z" creationid="olivier-tdf" creationdate="20250303T133905Z">
+        <seg>Ao abrir qualquer caixa de diálogo, um elemento ou opção é destacada indicando que o elemento ou opção tem foco nele.</seg>
       </tuv>
     </tu>
     <tu>
