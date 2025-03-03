@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(macOS ⌥&lt;f2&gt;+Down Arrow&lt;/f2&gt;)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134413Z" creationid="olivier-tdf" creationdate="20250303T134413Z">
+        <seg>(macOS ⌥&lt;f2&gt;+Seta para baixo&lt;/f2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*.odb</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T235646Z" creationid="olivier" creationdate="20250301T235646Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214110Z" creationid="olivier-tdf" creationdate="20250116T214110Z">
         <seg>&lt;f0&gt;Alinhamento:&lt;/f0&gt; opções para organizar o texto de várias maneiras, incluindo alinhamento horizontal e vertical, quebra automática, recuo, orientação do texto e empilhamento vertical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Alt+Down Arrow&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134400Z" creationid="olivier-tdf" creationdate="20250303T134400Z">
+        <seg>&lt;f0&gt;Alt+Seta para baixo&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2834,6 +2850,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155333Z" creationid="olivier" creationdate="20250223T155333Z">
         <seg>Ajusta o slide impresso para caber no tamanho do papel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Advances focus to the next section or element of a dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134332Z" creationid="olivier-tdf" creationdate="20250303T134332Z">
+        <seg>Avança o foco para a próxima seção ou elemento de uma caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6550,6 +6574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Controlling documents and windows</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134435Z" creationid="olivier-tdf" creationdate="20250303T134435Z">
+        <seg>Controlar documentos e janelas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Controlling printing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142947Z" creationid="olivier" creationdate="20250223T142947Z">
@@ -6618,6 +6650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T102932Z" creationid="timot" creationdate="20250206T102932Z">
         <seg>Crie, edite ou exclua dicionários e edite palavras no dicionário na mesma caixa de diálogo Opções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creates a new document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134620Z" creationid="olivier-tdf" creationdate="20250303T134620Z">
+        <seg>Cria um documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6742,6 +6782,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ctrl+N</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134607Z" creationid="olivier-tdf" creationdate="20250303T134607Z">
+        <seg>Ctrl+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+O</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134506Z" creationid="olivier-tdf" creationdate="20250303T134506Z">
+        <seg>Ctrl+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ctrl+Page Down</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003617Z" creationid="olivier" creationdate="20250303T003617Z">
@@ -6762,6 +6818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002455Z" creationid="olivier" creationdate="20250303T002455Z">
         <seg>Ctrl+ Seta para a direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+S</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134532Z" creationid="olivier-tdf" creationdate="20250303T134532Z">
+        <seg>Ctrl+S</seg>
       </tuv>
     </tu>
     <tu>
@@ -12406,6 +12470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the document is a previously unsaved file, the shortcut opens the Save As dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134601Z" creationid="olivier-tdf" creationdate="20250303T134601Z">
+        <seg>Se o documento for um arquivo não salvo anteriormente, o atalho abrirá a caixa de diálogo Salvar como.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the document to be closed is the only document that is open, the following happens:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T233206Z" creationid="olivier" creationdate="20250220T233206Z">
@@ -16886,6 +16958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens the Open dialog to select and open a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134524Z" creationid="olivier-tdf" creationdate="20250303T134524Z">
+        <seg>Abre a caixa de diálogo Abrir para selecionar e abrir um documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens the Printer Options dialog box allowing the global printer options set in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer&lt;/f0&gt; or &lt;f1&gt;LibreOffice Calc &gt; Print&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferences &gt; LibreOffice Writer&lt;/f2&gt; or &lt;f3&gt;LibreOffice Calc &gt; Print&lt;/f3&gt;) to be overridden when printing the current document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T125957Z" creationid="olivier" creationdate="20250223T125957Z">
@@ -18486,6 +18566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Returns focus to the previous section or element in a dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134349Z" creationid="olivier-tdf" creationdate="20250303T134349Z">
+        <seg>Retorna o foco para a seção ou elemento anterior em uma caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reverse page orientation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154748Z" creationid="olivier" creationdate="20250223T154748Z">
@@ -18730,6 +18818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212947Z" creationid="olivier-tdf" creationdate="20250116T212947Z">
         <seg>Alterações salvas ou não salvas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saves the current document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134545Z" creationid="olivier-tdf" creationdate="20250303T134545Z">
+        <seg>Salva o documento atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20446,6 +20542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shift+Ctrl+N</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134627Z" creationid="olivier-tdf" creationdate="20250303T134627Z">
+        <seg>Shift+Ctrl+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shift+End</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003441Z" creationid="olivier" creationdate="20250303T003441Z">
@@ -20474,6 +20578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002424Z" creationid="olivier" creationdate="20250303T002424Z">
         <seg>Shift+ Seta para a direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shift+Tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134336Z" creationid="olivier-tdf" creationdate="20250303T134336Z">
+        <seg>Shift+Tab</seg>
       </tuv>
     </tu>
     <tu>
@@ -20514,6 +20626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222340Z" creationid="olivier" creationdate="20250212T222340Z">
         <seg>Mostra informações diferentes dependendo de quais objetos do Impress estão selecionados ou não:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows items in a drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134420Z" creationid="olivier-tdf" creationdate="20250303T134420Z">
+        <seg>Mostra itens em uma lista suspensa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21458,6 +21578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T133944Z" creationid="olivier-tdf" creationdate="20250303T133944Z">
         <seg>Tabela &lt;seq0&gt;7&lt;/seq0&gt;: Atalhos de teclado para controlar caixas de diálogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;8&lt;/seq0&gt;: Keyboard shortcuts for controlling documents and windows</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134454Z" creationid="olivier-tdf" creationdate="20250303T134454Z">
+        <seg>Tabela &lt;seq0&gt;8&lt;/seq0&gt;: Atalhos de teclado para controle de documentos e janelas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22522,6 +22650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234514Z" creationid="olivier" creationdate="20250301T234514Z">
         <seg>A propriedade intelectual da norma é disponibilizada irrevogavelmente sem royalties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The keyboard shortcuts for controlling documents and windows in LibreOffice are shown in Table &lt;t0&gt;8&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134446Z" creationid="olivier-tdf" creationdate="20250303T134446Z">
+        <seg>Os atalhos de teclado para controlar documentos e janelas no LibreOffice são mostrados na Tabela &lt;t0&gt;8&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29042,6 +29178,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003535Z" creationid="olivier" creationdate="20250303T003535Z">
         <seg>⌘&lt;f0&gt;+Fn+Stea para cima&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+N&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134610Z" creationid="olivier-tdf" creationdate="20250303T134610Z">
+        <seg>⌘&lt;f0&gt;+N&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+O&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134517Z" creationid="olivier-tdf" creationdate="20250303T134517Z">
+        <seg>⌘&lt;f0&gt;+O&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+S&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134540Z" creationid="olivier-tdf" creationdate="20250303T134540Z">
+        <seg>⌘&lt;f0&gt;+S&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
