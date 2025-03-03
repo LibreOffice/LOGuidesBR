@@ -6766,6 +6766,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ctrl+F</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134701Z" creationid="olivier-tdf" creationdate="20250303T134701Z">
+        <seg>Ctrl+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+H</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134713Z" creationid="olivier-tdf" creationdate="20250303T134713Z">
+        <seg>Ctrl+H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ctrl+Home</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002931Z" creationid="olivier" creationdate="20250303T002931Z">
@@ -6794,6 +6810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134506Z" creationid="olivier-tdf" creationdate="20250303T134506Z">
         <seg>Ctrl+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+P</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134647Z" creationid="olivier-tdf" creationdate="20250303T134647Z">
+        <seg>Ctrl+P</seg>
       </tuv>
     </tu>
     <tu>
@@ -6834,6 +6858,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002808Z" creationid="olivier" creationdate="20250303T002808Z">
         <seg>Ctrl + Shift + Seta para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134750Z" creationid="olivier-tdf" creationdate="20250303T134750Z">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+Shift+J</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134801Z" creationid="olivier-tdf" creationdate="20250303T134801Z">
+        <seg>Ctrl+Shift+J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134811Z" creationid="olivier-tdf" creationdate="20250303T134811Z">
+        <seg>Ctrl+Shift+R</seg>
       </tuv>
     </tu>
     <tu>
@@ -8442,6 +8490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192407Z" creationid="olivier-tdf" creationdate="20250109T192407Z">
         <seg>Amplo suporte a idiomas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134824Z" creationid="olivier-tdf" creationdate="20250303T134824Z">
+        <seg>F1</seg>
       </tuv>
     </tu>
     <tu>
@@ -12522,6 +12578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184026Z" creationid="olivier" creationdate="20250222T184026Z">
         <seg>Se a lista estiver vazia, instale uma impressora padrão para o computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the local Help package is not installed, LibreOffice opens the online Help located at &lt;a0&gt;https://help.libreoffice.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134847Z" creationid="olivier-tdf" creationdate="20250303T134847Z">
+        <seg>Se o pacote de Ajuda local não estiver instalado, o LibreOffice abrirá a Ajuda online localizada em &lt;a0&gt;https://help.libreoffice.org&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16958,6 +17022,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens and closes the rulers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134822Z" creationid="olivier-tdf" creationdate="20250303T134822Z">
+        <seg>Abre e fecha as réguas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the Find and Replace dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134746Z" creationid="olivier-tdf" creationdate="20250303T134746Z">
+        <seg>Abre a caixa de diálogo Localizar e Substituir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the Find toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134709Z" creationid="olivier-tdf" creationdate="20250303T134709Z">
+        <seg>Abre a barra de ferramentas Localizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the LibreOffice Help contents in your default browser.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134835Z" creationid="olivier-tdf" creationdate="20250303T134835Z">
+        <seg>Abre o conteúdo da Ajuda do LibreOffice no seu navegador padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens the Open dialog to select and open a document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134524Z" creationid="olivier-tdf" creationdate="20250303T134524Z">
@@ -16966,10 +17062,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens the Print dialog to print the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134658Z" creationid="olivier-tdf" creationdate="20250303T134658Z">
+        <seg>Abre a caixa de diálogo Imprimir para imprimir o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens the Printer Options dialog box allowing the global printer options set in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer&lt;/f0&gt; or &lt;f1&gt;LibreOffice Calc &gt; Print&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferences &gt; LibreOffice Writer&lt;/f2&gt; or &lt;f3&gt;LibreOffice Calc &gt; Print&lt;/f3&gt;) to be overridden when printing the current document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T125957Z" creationid="olivier" creationdate="20250223T125957Z">
         <seg>Abre a caixa de diálogo Opções da Impressora, permitindo que as opções globais da impressora definidas em &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice&lt;/f0&gt; Writer ou &lt;f1&gt;LibreOffice Calc &gt; Imprimir&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferências &gt; LibreOffice Writer&lt;/f2&gt; ou &lt;f3&gt;LibreOffice Calc &gt; Imprimir&lt;/f3&gt;) sejam substituídas ao imprimir o documento atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the Templates dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134642Z" creationid="olivier-tdf" creationdate="20250303T134642Z">
+        <seg>Abre a caixa de diálogo Modelos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18950,6 +19062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Searches for the last entered search term.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134758Z" creationid="olivier-tdf" creationdate="20250303T134758Z">
+        <seg>Pesquisa o último termo de pesquisa inserido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Second, a pivot chart includes field buttons, which are graphical elements that allow you to filter the content of the pivot table from within its pivot chart.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T193853Z" creationid="olivier-tdf" creationdate="20250209T193853Z">
@@ -20554,6 +20674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003441Z" creationid="olivier" creationdate="20250303T003441Z">
         <seg>Shift+End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shift+F1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134856Z" creationid="olivier-tdf" creationdate="20250303T134856Z">
+        <seg>Shift+F1</seg>
       </tuv>
     </tu>
     <tu>
@@ -25814,6 +25942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggles the view between full-screen mode and normal mode in Writer or Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134808Z" creationid="olivier-tdf" creationdate="20250303T134808Z">
+        <seg>Alterna a visualização entre o modo de tela cheia e o modo normal no Writer ou no Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tool palettes can be made into floating sub-toolbars using the following example:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173732Z" creationid="tulio" creationdate="20250119T173732Z">
@@ -25898,6 +26034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T111733Z" creationid="timot" creationdate="20250224T111733Z">
         <seg>Ativar a hifenização para o Estilo de parágrafo Padrão afeta todos os outros estilos de parágrafo baseados no Estilo de parágrafo Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turns the cursor into a What’s This?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134921Z" creationid="olivier-tdf" creationdate="20250303T134921Z">
+        <seg>Transforma o cursor em "O que é isso?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -28862,6 +29006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>question mark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134931Z" creationid="olivier-tdf" creationdate="20250303T134931Z">
+        <seg>Ponto de interrogação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| &lt;t0&gt;0&lt;/t0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T115217Z" creationid="olivier-tdf" creationdate="20250109T115217Z">
@@ -29166,6 +29318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+F&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134704Z" creationid="olivier-tdf" creationdate="20250303T134704Z">
+        <seg>⌘&lt;f0&gt;+F&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>⌘&lt;f0&gt;+Fn+Down Arrow&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003632Z" creationid="olivier" creationdate="20250303T003632Z">
@@ -29198,10 +29358,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+P&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134650Z" creationid="olivier-tdf" creationdate="20250303T134650Z">
+        <seg>⌘&lt;f0&gt;+P&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>⌘&lt;f0&gt;+S&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134540Z" creationid="olivier-tdf" creationdate="20250303T134540Z">
         <seg>⌘&lt;f0&gt;+S&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+Shift+N&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134636Z" creationid="olivier-tdf" creationdate="20250303T134636Z">
+        <seg>⌘&lt;f0&gt;+Shift+N&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+Shift+R&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134815Z" creationid="olivier-tdf" creationdate="20250303T134815Z">
+        <seg>⌘&lt;f0&gt;+Shift+R&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29258,6 +29442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T235351Z" creationid="olivier" creationdate="20250302T235351Z">
         <seg>⌥ ou &lt;f0&gt;Option&lt;/f0&gt; ou &lt;f1&gt;Alt&lt;/f1&gt;+&lt;f2&gt;Fn&lt;/f2&gt;+&lt;f3&gt;Seta para cima&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌥+⌘&lt;f0&gt;+F&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134734Z" creationid="olivier-tdf" creationdate="20250303T134734Z">
+        <seg>⌥+⌘&lt;f0&gt;+F&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
