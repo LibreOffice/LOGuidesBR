@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Fn+Right Arrow&lt;/f0&gt; or &lt;f1&gt;Ctrl+E&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003433Z" creationid="olivier" creationdate="20250303T003433Z">
+        <seg>&lt;f0&gt;Fn+Seta para&lt;/f0&gt; a direita ou &lt;f1&gt;Ctrl+E&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Fn&lt;/f0&gt;+&lt;f1&gt;Down Arrow&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000329Z" creationid="olivier" creationdate="20250303T000329Z">
@@ -5390,6 +5398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click four times in a paragraph with the cursor to select the whole of the paragraph.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003824Z" creationid="olivier" creationdate="20250303T003824Z">
+        <seg>Clique quatro vezes em um parágrafo com o cursor para selecionar todo o parágrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click in a cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250120T144324Z">
@@ -6646,6 +6662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ctrl+End</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003450Z" creationid="olivier" creationdate="20250303T003450Z">
+        <seg>Ctrl+End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ctrl+Home</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002931Z" creationid="olivier" creationdate="20250303T002931Z">
@@ -6658,6 +6682,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002311Z" creationid="olivier" creationdate="20250303T002311Z">
         <seg>Ctrl+ Seta para a esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+Page Down</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003617Z" creationid="olivier" creationdate="20250303T003617Z">
+        <seg>Ctrl+Page Down</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+Page Up</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003521Z" creationid="olivier" creationdate="20250303T003521Z">
+        <seg>Ctrl+Page Up</seg>
       </tuv>
     </tu>
     <tu>
@@ -7458,6 +7498,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222316Z" creationid="olivier" creationdate="20250212T222316Z">
         <seg>Clique duas vezes para abrir a caixa de diálogo Slides mestres disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double‑click on a word with the cursor to select the word.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003808Z" creationid="olivier" creationdate="20250303T003808Z">
+        <seg>Clique duas vezes numa palavra com o cursor para selecioná-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9266,6 +9314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154811Z" creationid="olivier" creationdate="20250223T154811Z">
         <seg>Inverter horizontalmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fn+Down Arrow</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003606Z" creationid="olivier" creationdate="20250303T003606Z">
+        <seg>Fn + Seta para baixo</seg>
       </tuv>
     </tu>
     <tu>
@@ -15478,6 +15534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moves the cursor to the beginning of the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003418Z" creationid="olivier" creationdate="20250303T003418Z">
+        <seg>Move o cursor para o início do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moves the cursor to the beginning of the line and selects the text from the cursor position.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002926Z" creationid="olivier" creationdate="20250303T002926Z">
@@ -15510,10 +15574,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moves the cursor to the end of the current line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003437Z" creationid="olivier" creationdate="20250303T003437Z">
+        <seg>Move o cursor para o final da linha atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moves the cursor to the end of the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003512Z" creationid="olivier" creationdate="20250303T003512Z">
+        <seg>Move o cursor para o final do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moves the cursor to the end of the line and selects the text from the cursor position.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003446Z" creationid="olivier" creationdate="20250303T003446Z">
+        <seg>Move o cursor para o final da linha e seleciona o texto a partir da posição do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moves the cursor to the end of the paragraph.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002748Z" creationid="olivier" creationdate="20250303T002748Z">
         <seg>Move o cursor para o final do parágrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moves the cursor to the footer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003636Z" creationid="olivier" creationdate="20250303T003636Z">
+        <seg>Move o cursor para o rodapé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moves the cursor to the header.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003545Z" creationid="olivier" creationdate="20250303T003545Z">
+        <seg>Move o cursor para o cabeçalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18566,6 +18670,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scrolls down one page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003612Z" creationid="olivier" creationdate="20250303T003612Z">
+        <seg>Role uma página para baixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scrolls up one page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003517Z" creationid="olivier" creationdate="20250303T003517Z">
+        <seg>Rola uma página para cima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seamless collaboration with other users by sharing spreadsheets.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124603Z" creationid="olivier-tdf" creationdate="20250114T124603Z">
@@ -19150,10 +19270,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select all of the text or objects in a document, use &lt;f0&gt;Ctrl+A&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+A&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003842Z" creationid="olivier" creationdate="20250303T003842Z">
+        <seg>Selecione todo o texto ou objetos em um documento, use &lt;f0&gt;Ctrl+A&lt;/f0&gt; (macOS&lt;f1&gt;⌘ +A&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select an entry in the &lt;f5&gt;Underlining&lt;/f5&gt; menu on the &lt;f6&gt;Font Effects&lt;/f6&gt; tab of the Format Cells dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T155715Z" creationid="olivier" creationdate="20250204T155715Z">
         <seg>Selecione uma entrada no menu &lt;f5&gt;Sublinhado&lt;/f5&gt; na guia Efeitos de &lt;f6&gt;fonte&lt;/f6&gt; da caixa de diálogo Formatar células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select and delete text using keyboard shortcuts as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003705Z" creationid="olivier" creationdate="20250303T003705Z">
+        <seg>Selecione e exclua o texto usando os atalhos de teclado da seguinte forma:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19274,6 +19410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142808Z" creationid="olivier" creationdate="20250223T142808Z">
         <seg>Selecionar páginas, planilhas ou slides para imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select text while moving the cursor, hold down the &lt;f0&gt;Shift&lt;/f0&gt; key as the cursor is moved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003746Z" creationid="olivier" creationdate="20250303T003746Z">
+        <seg>Selecione o texto enquanto move o cursor, mantenha pressionada a tecla &lt;f0&gt;Shift&lt;/f0&gt; ao mover o cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20162,6 +20306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155144Z" creationid="olivier" creationdate="20250223T155144Z">
         <seg>Folhas a imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shift+End</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003441Z" creationid="olivier" creationdate="20250303T003441Z">
+        <seg>Shift+End</seg>
       </tuv>
     </tu>
     <tu>
@@ -21298,6 +21450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112200Z" creationid="timot" creationdate="20250202T112200Z">
         <seg>O texto colado de sites e outras fontes também pode ser colocado em quadros ou tabelas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text selection and deletion</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003648Z" creationid="olivier" creationdate="20250303T003648Z">
+        <seg>Seleção e exclusão de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -25414,6 +25574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Triple‑click in a sentence with the cursor to select the whole of the sentence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003816Z" creationid="olivier" creationdate="20250303T003816Z">
+        <seg>Clique três vezes em uma frase com o cursor para selecionar toda a frase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Turning on automatic hyphenation in a paragraph style</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T112019Z" creationid="timot" creationdate="20250224T112019Z">
@@ -25642,6 +25810,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T110049Z" creationid="timot" creationdate="20250221T110049Z">
         <seg>Maiúsculas, Minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use &lt;f0&gt;Ctrl+Backspace&lt;/f0&gt; to delete everything from the cursor position to the beginning of the word.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003931Z" creationid="olivier" creationdate="20250303T003931Z">
+        <seg>Use &lt;f0&gt;Ctrl+Backspace&lt;/f0&gt; para excluir tudo, desde a posição do cursor até o início da palavra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use &lt;f0&gt;Ctrl+Delete&lt;/f0&gt; to delete everything from the cursor position to the end of the word.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003858Z" creationid="olivier" creationdate="20250303T003858Z">
+        <seg>Use &lt;f0&gt;Ctrl+Delete&lt;/f0&gt; para excluir tudo, desde a posição do cursor até o final da palavra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28650,6 +28834,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002741Z" creationid="olivier" creationdate="20250303T002741Z">
         <seg>⌘&lt;f0&gt;+Seta para baixo&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+Fn+Down Arrow&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003632Z" creationid="olivier" creationdate="20250303T003632Z">
+        <seg>⌘&lt;f0&gt;+Fn+Seta para baixo&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+Fn+Up Arrow&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003535Z" creationid="olivier" creationdate="20250303T003535Z">
+        <seg>⌘&lt;f0&gt;+Fn+Stea para cima&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
