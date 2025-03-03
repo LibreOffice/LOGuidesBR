@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Control&lt;/f0&gt;+click or right‑click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000513Z" creationid="olivier" creationdate="20250303T000513Z">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt;+clique e/ou clique com o botão direito dependendo da configuração do computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Control&lt;/f0&gt;+click, &lt;f1&gt;Ctrl&lt;/f1&gt;+click, or right-click depending on computer setup</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T234915Z" creationid="olivier-tdf" creationdate="20250112T203155Z">
@@ -546,6 +554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="timot" creationdate="20250114T114507Z">
         <seg>&lt;f0&gt;Deque pesquisar&lt;/f0&gt;: digite um termo de pesquisa ou frase na caixa que se encontra na parte superior e tecle&lt;f1&gt;Enter&lt;/f1&gt; para exibir uma lista dos resultados e seu contexto.&lt;f2&gt; Para mais informações, consulte a página&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Fn&lt;/f0&gt;+&lt;f1&gt;Down Arrow&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000329Z" creationid="olivier" creationdate="20250303T000329Z">
+        <seg>&lt;f0&gt;Fn&lt;/f0&gt;+&lt;f1&gt;Seta para baixo&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +2658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224652Z" creationid="olivier-tdf" creationdate="20250224T224652Z">
         <seg>O procedimento real de impressão de folhetos depende do sistema operacional do computador e do tipo de impressora que está sendo usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Actual keys available on a macOS keyboard depend on the type of keyboard being used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000545Z" creationid="olivier" creationdate="20250303T000545Z">
+        <seg>As teclas reais disponíveis em um teclado macOS dependem do tipo de teclado que está sendo usado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7638,6 +7662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Either assign different keys in LibreOffice using &lt;t0/&gt;&lt;f1&gt;Tools &gt; Customize &gt; Keyboard&lt;/f1&gt; on the Menu bar, or in the computer operating system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000734Z" creationid="olivier" creationdate="20250303T000734Z">
+        <seg>Atribua teclas diferentes no LibreOffice usando &lt;t0/&gt;&lt;f1&gt;Ferramentas &gt; Personalizar &gt; Teclado&lt;/f1&gt; na barra de menus ou no sistema operacional do computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Either use dialogs from the computer system (default), or dialogs provided by LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212408Z" creationid="olivier-tdf" creationdate="20250109T212408Z">
@@ -9078,6 +9110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fn+Up Arrow</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250302T235303Z" creationid="olivier" creationdate="20250302T235303Z">
+        <seg>Fn+ Seta para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Font Color (with a palette of colors)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T110233Z" creationid="timot" creationdate="20250221T110233Z">
@@ -9234,6 +9274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T100146Z" creationid="timot" creationdate="20250217T100146Z">
         <seg>Por exemplo, o Writer depende de estilos de títulos (ou outros estilos que podem ser especificados) quando compila um sumário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, a macOS laptop keyboard does not have &lt;f0&gt;the&lt;/f0&gt; &lt;f1&gt;Delete&lt;/f1&gt; key, but a macOS keyboard with a numeric keypad does have &lt;f2&gt;this &lt;/f2&gt;key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000614Z" creationid="olivier" creationdate="20250303T000614Z">
+        <seg>Por exemplo, um teclado de laptop macOS não tem &lt;f0&gt;a&lt;/f0&gt; tecla &lt;f1&gt;Delete&lt;/f1&gt;, mas um teclado macOS com um teclado numérico tem &lt;f2&gt;essa &lt;/f2&gt;tecla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12894,6 +12942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In computers using macOS, some keyboard shortcuts are not available and these unavailable keyboard shortcuts are indicated in the following tables with a blank cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000702Z" creationid="olivier" creationdate="20250303T000702Z">
+        <seg>Em computadores que usam o macOS, alguns atalhos de teclado não estão disponíveis e esses atalhos de teclado indisponíveis são indicados nas tabelas a seguir com uma célula em branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In computing, an open standard meets the following requirements:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234316Z" creationid="olivier" creationdate="20250301T234316Z">
@@ -14002,6 +14058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135339Z" creationid="olivier-tdf" creationdate="20250120T135339Z">
         <seg>Navegação pelo teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000622Z" creationid="olivier" creationdate="20250303T000622Z">
+        <seg>Atalhos do teclado</seg>
       </tuv>
     </tu>
     <tu>
@@ -16398,6 +16462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Page Down</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000332Z" creationid="olivier" creationdate="20250303T000332Z">
+        <seg>Page Down</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Page Layout</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T144832Z" creationid="olivier" creationdate="20250223T144832Z">
@@ -16434,6 +16506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134457Z" creationid="olivier" creationdate="20250217T134417Z">
         <seg>Para o Writer, Estilo de página, Temas de esboço, Inspetor de estilo, Gerenciar registros de alterações, Verificação de acessibilidade e Pesquisa de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page Up</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250302T235319Z" creationid="olivier" creationdate="20250302T235319Z">
+        <seg>Page Up</seg>
       </tuv>
     </tu>
     <tu>
@@ -17946,6 +18026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155259Z" creationid="olivier" creationdate="20250223T155259Z">
         <seg>Dimensione para caber no tamanho do papel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Screen Down</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000006Z" creationid="olivier" creationdate="20250303T000006Z">
+        <seg>Tela para baixo</seg>
       </tuv>
     </tu>
     <tu>
@@ -19862,6 +19950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some of the shortcut keys may be assigned to the computer operating system and are not available for LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000715Z" creationid="olivier" creationdate="20250303T000715Z">
+        <seg>Algumas das teclas de atalho podem ser atribuídas ao sistema operacional do computador e não estão disponíveis para o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some other features of the Writer interface are covered in this chapter.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195853Z" creationid="timot" creationdate="20250111T195853Z">
@@ -20402,6 +20498,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T235153Z" creationid="olivier" creationdate="20250302T235153Z">
         <seg>Tabela &lt;seq0&gt;3&lt;/seq0&gt;: Page Up e Page Down</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;4&lt;/seq0&gt;: Example of using macOS keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000420Z" creationid="olivier" creationdate="20250303T000420Z">
+        <seg>Tabela &lt;seq0&gt;4&lt;/seq0&gt;: Exemplo de uso de atalhos de teclado do macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -24638,6 +24742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tools &gt; Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000438Z" creationid="olivier" creationdate="20250303T000438Z">
+        <seg>Ferramentas &gt; Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tools already installed on a toolbar are indicated by a check mark next to the tool icon.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T235924Z" creationid="tulio" creationdate="20250211T141917Z">
@@ -27862,6 +27974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+T&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000535Z" creationid="olivier" creationdate="20250303T000535Z">
+        <seg>&lt;f0&gt;⌘+T&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>⌥ (Option) or &lt;f0&gt;Alt&lt;/f0&gt;, depending on keyboard</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195215Z" creationid="timot" creationdate="20250111T195215Z">
@@ -27882,6 +28002,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T234906Z" creationid="olivier" creationdate="20250302T234906Z">
         <seg>⌥ ou &lt;f0&gt;Option&lt;/f0&gt; ou &lt;f1&gt;Alt&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌥ or &lt;f0&gt;Option&lt;/f0&gt; or &lt;f1&gt;Alt&lt;/f1&gt;+&lt;f2&gt;Fn&lt;/f2&gt;+&lt;f3&gt;Down Arrow&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000358Z" creationid="olivier" creationdate="20250303T000358Z">
+        <seg>⌥ ou &lt;f0&gt;Option&lt;/f0&gt; ou &lt;f1&gt;Alt&lt;/f1&gt;+&lt;f2&gt;Fn&lt;/f2&gt;+&lt;f3&gt;Seta para baixo&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌥ or &lt;f0&gt;Option&lt;/f0&gt; or &lt;f1&gt;Alt&lt;/f1&gt;+&lt;f2&gt;Fn&lt;/f2&gt;+&lt;f3&gt;Up Arrow&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250302T235351Z" creationid="olivier" creationdate="20250302T235351Z">
+        <seg>⌥ ou &lt;f0&gt;Option&lt;/f0&gt; ou &lt;f1&gt;Alt&lt;/f1&gt;+&lt;f2&gt;Fn&lt;/f2&gt;+&lt;f3&gt;Seta para cima&lt;/f3&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
