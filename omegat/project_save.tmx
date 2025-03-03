@@ -3766,6 +3766,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Applies the Bold attribute to selected characters and text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135658Z" creationid="olivier-tdf" creationdate="20250303T135658Z">
+        <seg>Aplica o atributo Negrito aos caracteres e texto selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Applies the Italic attribute to selected characters and text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135639Z" creationid="olivier-tdf" creationdate="20250303T135639Z">
+        <seg>Aplica o atributo Itálico aos caracteres e texto selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Applies the Underline attribute to selected characters and text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135718Z" creationid="olivier-tdf" creationdate="20250303T135718Z">
+        <seg>Aplica o atributo Sublinhado aos caracteres e texto selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply Changes and Restart</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T234029Z" creationid="olivier-tdf" creationdate="20250224T234029Z">
@@ -6782,10 +6806,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ctrl+A</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135548Z" creationid="olivier-tdf" creationdate="20250303T135548Z">
+        <seg>Ctrl+A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ctrl+Alt+&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135509Z" creationid="olivier-tdf" creationdate="20250303T135509Z">
         <seg>Ctrl+Alt+&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+B</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135641Z" creationid="olivier-tdf" creationdate="20250303T135641Z">
+        <seg>Ctrl+B</seg>
       </tuv>
     </tu>
     <tu>
@@ -6838,10 +6878,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ctrl+I</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135628Z" creationid="olivier-tdf" creationdate="20250303T135628Z">
+        <seg>Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ctrl+Left Arrow</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002311Z" creationid="olivier" creationdate="20250303T002311Z">
         <seg>Ctrl+ Seta para a esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+M</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135722Z" creationid="olivier-tdf" creationdate="20250303T135722Z">
+        <seg>Ctrl+M</seg>
       </tuv>
     </tu>
     <tu>
@@ -6958,6 +7014,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ctrl+Shift+Y</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135617Z" creationid="olivier-tdf" creationdate="20250303T135617Z">
+        <seg>Ctrl+Shift+Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+U</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135702Z" creationid="olivier-tdf" creationdate="20250303T135702Z">
+        <seg>Ctrl+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ctrl+Up Arrow</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002615Z" creationid="olivier" creationdate="20250303T002615Z">
@@ -6978,6 +7050,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135409Z" creationid="olivier-tdf" creationdate="20250303T135409Z">
         <seg>Ctrl+X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135608Z" creationid="olivier-tdf" creationdate="20250303T135608Z">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135559Z" creationid="olivier-tdf" creationdate="20250303T135559Z">
+        <seg>Ctrl+Z</seg>
       </tuv>
     </tu>
     <tu>
@@ -11050,6 +11138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T232140Z" creationid="timot" creationdate="20250113T232140Z">
         <seg>Outras cores, gradientes, hachuras, padrões e seleção e importação de imagens estão disponíveis em &lt;f1&gt;Mais opções&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135754Z" creationid="olivier-tdf" creationdate="20250303T135754Z">
+        <seg>Geral</seg>
       </tuv>
     </tu>
     <tu>
@@ -16022,6 +16118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moves the focus in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135835Z" creationid="olivier-tdf" creationdate="20250303T135835Z">
+        <seg>Move o foco na barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving and copying sheets</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154733Z" creationid="olivier" creationdate="20250121T154733Z">
@@ -18510,6 +18614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Redoes last action.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135614Z" creationid="olivier-tdf" creationdate="20250303T135614Z">
+        <seg>Refaz a última ação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Redoing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T181907Z" creationid="olivier" creationdate="20250222T181907Z">
@@ -18614,6 +18726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Removes direct formatting from selected text or objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135728Z" creationid="olivier-tdf" creationdate="20250303T135728Z">
+        <seg>Remove a formatação direta do texto ou objetos selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removing a print range</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194645Z" creationid="olivier-tdf" creationdate="20250209T194645Z">
@@ -18698,6 +18818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T182220Z" creationid="olivier" creationdate="20250222T182220Z">
         <seg>Repetir comandos de desfazer e refazer pode economizar vários cliques repetitivos de navegação no menu ou atalhos de teclado, especialmente quando um comando é retirado de um menu de contexto ou submenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repeats last command.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135625Z" creationid="olivier-tdf" creationdate="20250303T135625Z">
+        <seg>Repete o último comando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20606,6 +20734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selects all text and objects in a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135556Z" creationid="olivier-tdf" creationdate="20250303T135556Z">
+        <seg>Seleciona todos os textos e objetos em um documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selects the page printing order from the drop-down list: &lt;f0&gt;Automatic&lt;/f0&gt;; &lt;f1&gt;Normal&lt;/f1&gt;; &lt;f2&gt;Reverse&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155251Z" creationid="olivier" creationdate="20250223T155251Z">
@@ -20978,6 +21114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105954Z" creationid="timot" creationdate="20250113T105954Z">
         <seg>Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sidebar keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135752Z" creationid="olivier-tdf" creationdate="20250303T135752Z">
+        <seg>Atalhos de teclado da barra lateral</seg>
       </tuv>
     </tu>
     <tu>
@@ -21738,6 +21882,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130908Z" creationid="olivier-tdf" creationdate="20250218T130908Z">
         <seg>Tabela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;10&lt;/seq0&gt;: General keyboard shortcuts for Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135824Z" creationid="olivier-tdf" creationdate="20250303T135824Z">
+        <seg>Tabela &lt;seq0&gt;10&lt;/seq0&gt;: Atalhos gerais de teclado para a barra lateral</seg>
       </tuv>
     </tu>
     <tu>
@@ -22866,6 +23018,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T233911Z" creationid="olivier" creationdate="20250301T233911Z">
         <seg>Os quatro direitos essenciais do software de código aberto estão incorporados na família GNU General Public License (GPL) da Free Software Foundation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The general keyboard shortcuts for using the Sidebar in LibreOffice are shown in Table  &lt;t0&gt;10&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135811Z" creationid="olivier-tdf" creationdate="20250303T135811Z">
+        <seg>Os atalhos gerais do teclado para usar a barra lateral no LibreOffice são mostrados na Tabela  &lt;t0&gt;10&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24066,6 +24226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T101147Z" creationid="timot" creationdate="20250206T101147Z">
         <seg>Isso verifica o documento ou a seleção e abre a caixa de diálogo Ortografia se alguma palavra não reconhecida for encontrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This command is also available in &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; in the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135746Z" creationid="olivier-tdf" creationdate="20250303T135746Z">
+        <seg>Este comando também está disponível em &lt;f0&gt;Formatar &gt; Limpar formatação direta&lt;/f0&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26402,6 +26570,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125721Z" creationid="olivier-tdf" creationdate="20250218T125721Z">
         <seg>Entender como formatar documentos destrava o poder do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Undoes last action.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135606Z" creationid="olivier-tdf" creationdate="20250303T135606Z">
+        <seg>Desfaz a última ação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29542,6 +29718,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+A&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135550Z" creationid="olivier-tdf" creationdate="20250303T135550Z">
+        <seg>⌘&lt;f0&gt;+A&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+B&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135643Z" creationid="olivier-tdf" creationdate="20250303T135643Z">
+        <seg>⌘&lt;f0&gt;+B&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>⌘&lt;f0&gt;+C&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135425Z" creationid="olivier-tdf" creationdate="20250303T135425Z">
@@ -29586,6 +29778,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003535Z" creationid="olivier" creationdate="20250303T003535Z">
         <seg>⌘&lt;f0&gt;+Fn+Stea para cima&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+I&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135632Z" creationid="olivier-tdf" creationdate="20250303T135632Z">
+        <seg>⌘&lt;f0&gt;+I&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+M&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135724Z" creationid="olivier-tdf" creationdate="20250303T135724Z">
+        <seg>⌘&lt;f0&gt;+M&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29662,10 +29870,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+Shift+Y&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135621Z" creationid="olivier-tdf" creationdate="20250303T135621Z">
+        <seg>⌘&lt;f0&gt;+Shift+Y&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>⌘&lt;f0&gt;+T&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000535Z" creationid="olivier" creationdate="20250303T000535Z">
         <seg>&lt;f0&gt;⌘+T&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+U&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135705Z" creationid="olivier-tdf" creationdate="20250303T135705Z">
+        <seg>⌘&lt;f0&gt;+U&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29690,6 +29914,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135411Z" creationid="olivier-tdf" creationdate="20250303T135411Z">
         <seg>⌘&lt;f0&gt;+X&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+Y&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135611Z" creationid="olivier-tdf" creationdate="20250303T135611Z">
+        <seg>⌘&lt;f0&gt;+Y&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>⌘&lt;f0&gt;+Z&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135602Z" creationid="olivier-tdf" creationdate="20250303T135602Z">
+        <seg>⌘&lt;f0&gt;+Z&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
