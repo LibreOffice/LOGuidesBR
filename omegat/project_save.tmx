@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Esc&lt;/f0&gt; is also equivalent to clicking &lt;f1&gt;Cancel&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134101Z" creationid="olivier-tdf" creationdate="20250303T134101Z">
+        <seg>&lt;f0&gt;Esc&lt;/f0&gt; também é equivalente a clicar em &lt;f1&gt;Cancelar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;File &gt; Open&lt;/f0&gt; on the Menu bar includes text indicating that &lt;f1&gt;Ctrl+O&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+O&lt;/f2&gt;) is a keyboard shortcut.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T233836Z" creationid="olivier" creationdate="20250302T233836Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T005238Z" creationid="olivier" creationdate="20250120T005238Z">
         <seg>&lt;f0&gt;Teclado&lt;/f0&gt; – &lt;f1&gt;Ctrl+Page Down&lt;/f1&gt; move uma planilha para a direita e &lt;f2&gt;Ctrl+Page Up&lt;/f2&gt; move uma planilha para a esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Left&lt;/f0&gt; or &lt;f1&gt;Right Arrow&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134302Z" creationid="olivier-tdf" creationdate="20250303T134302Z">
+        <seg>&lt;f0&gt;Seta para a esquerda&lt;/f0&gt; ou &lt;f1&gt;seta para a direita&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1154,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T110637Z" creationid="timot" creationdate="20250215T110637Z">
         <seg>&lt;f0&gt;MAIÚSCULAS&lt;/f0&gt;, onde todas as letras são maiúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Up&lt;/f0&gt; or &lt;f1&gt;Down Arrow&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134201Z" creationid="olivier-tdf" creationdate="20250303T134201Z">
+        <seg>&lt;f0&gt;Seta para cima&lt;/f0&gt; ou &lt;f1&gt;Seta para baixo&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5030,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Checks or clears an empty checkbox.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134137Z" creationid="olivier-tdf" creationdate="20250303T134137Z">
+        <seg>Marca ou desmarca uma caixa de seleção vazia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose &lt;f0&gt;Edit &gt; Find and Replace&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104504Z" creationid="timot" creationdate="20250204T104504Z">
@@ -6226,6 +6258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001330Z" creationid="olivier" creationdate="20250303T001330Z">
         <seg>Fecha um menu aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Closes dialog without saving any changes made while the dialog was open.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134052Z" creationid="olivier-tdf" creationdate="20250303T134052Z">
+        <seg>Fecha a caixa de diálogo sem salvar quaisquer alterações feitas enquanto a caixa de diálogo estava aberta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13654,6 +13694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increases or decreases value of a variable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134222Z" creationid="olivier-tdf" creationdate="20250303T134222Z">
+        <seg>Aumenta ou diminui o valor de uma variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Index Styles</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000239Z" creationid="olivier-tdf" creationdate="20250219T000239Z">
@@ -15538,6 +15586,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155701Z" creationid="olivier" creationdate="20250121T155701Z">
         <seg>Caixa de diálogo Mover/Copiar planilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moves focus horizontally within a section of a dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134311Z" creationid="olivier-tdf" creationdate="20250303T134311Z">
+        <seg>Move o foco horizontalmente dentro de uma seção de uma caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moves focus up or down a list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134211Z" creationid="olivier-tdf" creationdate="20250303T134211Z">
+        <seg>Move o foco para cima ou para baixo numa lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moves focus vertically within a section of dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134231Z" creationid="olivier-tdf" creationdate="20250303T134231Z">
+        <seg>Move o foco verticalmente dentro de uma seção da caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20822,6 +20894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spacebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134127Z" creationid="olivier-tdf" creationdate="20250303T134127Z">
+        <seg>Barra de espaço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Special Styles</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000247Z" creationid="olivier-tdf" creationdate="20250219T000247Z">
@@ -21210,6 +21290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T004917Z" creationid="tulio" creationdate="20250116T004917Z">
         <seg>Dica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134320Z" creationid="olivier-tdf" creationdate="20250303T134320Z">
+        <seg>Tab</seg>
       </tuv>
     </tu>
     <tu>
@@ -26806,6 +26894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a drop-down list is open and selected, &lt;f2&gt;Esc&lt;/f2&gt; closes the list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134112Z" creationid="olivier-tdf" creationdate="20250303T134112Z">
+        <seg>Quando uma lista suspensa é aberta e selecionada, &lt;f2&gt;Esc&lt;/f2&gt; fecha a lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a fill is initiated and the selected cell contains text, Calc will check if one of your predefined sort lists contains that text.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215923Z" creationid="olivier" creationdate="20250123T215708Z">
@@ -26978,6 +27074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250225T000645Z" creationid="olivier" creationdate="20250223T145001Z">
         <seg>Quando vários slides são impressos numa folha de papel, uma borda é desenhada em torno de cada slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When no button is selected, &lt;f0&gt;Enter&lt;/f0&gt; is equivalent to clicking &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134039Z" creationid="olivier-tdf" creationdate="20250303T134039Z">
+        <seg>Quando nenhum botão é selecionado, &lt;f0&gt;Enter&lt;/f0&gt; é equivalente a clicar em &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
