@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5022,6 +5022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 13, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134041Z" creationid="olivier" creationdate="20250305T134041Z">
+        <seg>Capítulo 13,&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 2, &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215607Z" creationid="timot" creationdate="20250110T215607Z">
@@ -7206,6 +7214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customizations can also be carried out by adding extensions that can be installed from the LibreOffice website or from other providers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135110Z" creationid="olivier" creationdate="20250305T135110Z">
+        <seg>As personalizações também podem ser realizadas adicionando extensões que podem ser instaladas a partir do site do LibreOffice ou de outros provedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customize dialog — Keyboard tab for Linux/Windows</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T234118Z" creationid="olivier" creationdate="20250302T234118Z">
@@ -7218,6 +7234,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T234253Z" creationid="olivier" creationdate="20250302T234253Z">
         <seg>Caixa de diálogo Personalizar — Aba Teclado para macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customized menus and toolbars can be saved in a template.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135229Z" creationid="olivier" creationdate="20250305T135229Z">
+        <seg>Menus e barras de ferramentas personalizados podem ser salvos num modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customizing LibreOffice</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134053Z" creationid="olivier" creationdate="20250305T134053Z">
+        <seg>Personalizar o LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -7594,6 +7626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T155621Z" creationid="timot" creationdate="20250205T155621Z">
         <seg>Fontes diferentes têm seus próprios caracteres especiais distintos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Different user interface variants can be selected and used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135058Z" creationid="olivier" creationdate="20250305T135058Z">
+        <seg>Diferentes variantes de interface de usuário podem ser selecionadas e usadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10790,6 +10830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see Chapter 4, Working with Styles, Templates, and Hyperlinks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135419Z" creationid="olivier" creationdate="20250305T135419Z">
+        <seg>Para obter mais informações, consulte o Capítulo 4, Trabalhar com estilos, modelos e hiperlinks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, see Chapter 5, Using Styles and Templates, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172112Z" creationid="olivier-tdf" creationdate="20250209T172112Z">
@@ -10818,6 +10866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130557Z" creationid="olivier-tdf" creationdate="20250218T130557Z">
         <seg>Para obter mais informações, consulte o guia do usuário específico para cada módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information, see “&lt;bf0&gt;Adding extensions&lt;/bf0&gt;” on page &lt;bf1&gt;13&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135200Z" creationid="olivier" creationdate="20250305T135200Z">
+        <seg>Para obter mais informações, consulte “&lt;bf0&gt;Adicionar extensões&lt;/bf0&gt;” na página &lt;bf1&gt;13&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11442,6 +11498,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T202603Z" creationid="olivier-tdf" creationdate="20250112T202603Z">
         <seg>Guia de Introdução 24.8 - Capítulo 1, Noções Básicas do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8 - Chapter 13, Customizing LibreOffice</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134030Z" creationid="olivier" creationdate="20250305T134030Z">
+        <seg>Guia de Introdução 24.8 - Capítulo 13, Personalizar o LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -14998,6 +15062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jean Hollis Weber, John A Smith.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134113Z" creationid="olivier" creationdate="20250305T134113Z">
+        <seg>Jean Hollis Weber, John A Smith.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Join the community and affect the course of LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T193957Z" creationid="olivier-tdf" creationdate="20250109T193957Z">
@@ -15022,6 +15094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jorge Rodríguez.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134120Z" creationid="olivier" creationdate="20250305T134120Z">
+        <seg>Jorge Rodríguez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Just as direct paragraph formatting overrides the current paragraph style, applying direct character formatting to characters overrides the current character style formatting.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T110335Z" creationid="timot" creationdate="20250221T110335Z">
@@ -15041,6 +15121,14 @@
         <seg>Kees Kriek</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215705Z" creationid="timot" creationdate="20250110T215705Z">
+        <seg>Kees Kriek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kees Kriek.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134127Z" creationid="olivier" creationdate="20250305T134127Z">
         <seg>Kees Kriek</seg>
       </tuv>
     </tu>
@@ -15150,6 +15238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice 7.6 requires macOS 10.15 or newer to run.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134322Z" creationid="olivier" creationdate="20250305T134322Z">
+        <seg>O LibreOffice 24.8 requer o macOS 10.15 ou mais recente para ser executado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice &lt;ud0&gt;24.8&lt;/ud0&gt;&lt;s1/&gt;requires one of the following operating systems:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194020Z" creationid="olivier-tdf" creationdate="20250109T194020Z">
@@ -15170,6 +15266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195018Z" creationid="timot" creationdate="20250111T195018Z">
         <seg>LibreOffice &gt; Preferências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice &gt; Preferences or ⌘ ,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134326Z" creationid="olivier" creationdate="20250305T134326Z">
+        <seg>[parcial]LibreOffice &gt; Preferências</seg>
       </tuv>
     </tu>
     <tu>
@@ -15942,10 +16046,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Menu customization</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135438Z" creationid="olivier" creationdate="20250305T135438Z">
+        <seg>Personalizar o menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Menu items that have&lt;bs0/&gt; no underlined character have to be clicked on directly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001318Z" creationid="olivier" creationdate="20250303T001318Z">
         <seg>Itens de menu que&lt;bs0/&gt; não têm caracteres sublinhados devem ser clicados diretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Menus, toolbars, keyboard shortcuts, and the tabbed interface in LibreOffice can be customized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135032Z" creationid="olivier" creationdate="20250305T135032Z">
+        <seg>Menus, barras de ferramentas, atalhos de teclado e a interface com guias no LibreOffice podem ser personalizados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16678,6 +16798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New menus and toolbars assign macros to events that can be added.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135047Z" creationid="olivier" creationdate="20250305T135047Z">
+        <seg>Novos menus e barras de ferramentas atribuem macros a eventos que podem ser adicionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New spreadsheet functions: XLOOKUP, XMATCH, FILTER, RANDARRAY, SEQUENCE, SORT, SORTBY, UNIQUE, LET</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T220202Z" creationid="olivier-tdf" creationdate="20250109T220202Z">
@@ -16970,6 +17098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125550Z" creationid="olivier-tdf" creationdate="20250218T125550Z">
         <seg>Olivier Hallot, Paul Figueiredo, Skip Masonsmith, Steve Fanning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Olivier Hallot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134132Z" creationid="olivier" creationdate="20250305T134132Z">
+        <seg>Olivier Hallot</seg>
       </tuv>
     </tu>
     <tu>
@@ -18198,6 +18334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Peter Schofield.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134147Z" creationid="olivier" creationdate="20250305T134147Z">
+        <seg>Peter Schofield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pivot charts</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T193806Z" creationid="olivier-tdf" creationdate="20250209T193806Z">
@@ -18249,6 +18393,14 @@
         <seg>Please direct any comments or suggestions about this document to the Documentation Team forum at &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (registration is required) or send an email to: &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125605Z" creationid="olivier-tdf" creationdate="20250218T125605Z">
+        <seg>Direcione os comentários ou sugestões sobre este documento para a lista de documentação brasileira: &lt;a0&gt;https://community.documentfoundation.org/c/portuguese/documentation/6&lt;/a0&gt; (requer registro), ou envie um e-mail para &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team forum at &lt;a0&gt;https://community.documentfoundation.org/c/documentation/loguides/&lt;/a0&gt; (registration is required), or send an email to &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134157Z" creationid="olivier" creationdate="20250305T134157Z">
         <seg>Direcione os comentários ou sugestões sobre este documento para a lista de documentação brasileira: &lt;a0&gt;https://community.documentfoundation.org/c/portuguese/documentation/6&lt;/a0&gt; (requer registro), ou envie um e-mail para &lt;a1&gt;loguides@community.documentfoundation.org&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
@@ -18902,6 +19054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rafael Lima.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134138Z" creationid="olivier" creationdate="20250305T134138Z">
+        <seg>Rafael Lima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Range and Copies</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T143804Z" creationid="olivier" creationdate="20250223T143804Z">
@@ -19514,6 +19674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123949Z" creationid="olivier-tdf" creationdate="20250114T123949Z">
         <seg>Robert Thornton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ron Faile Jr., Skip Masonsmith, Steve Fanning.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134142Z" creationid="olivier" creationdate="20250305T134142Z">
+        <seg>Ron Faile Jr., Skip Masonsmith, Steve Fanning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23262,6 +23430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The customized menus and toolbars are created in a document and the document is then saved as a template.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135401Z" creationid="olivier" creationdate="20250305T135401Z">
+        <seg>Os menus e barras de ferramentas personalizados são criados num documento e o documento é salvo como um modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The date format automatically changes to the selected format used by Calc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204215Z" creationid="olivier" creationdate="20250123T204215Z">
@@ -24686,6 +24862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This chapter describes some common customizations that can be carried out, as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134902Z" creationid="olivier" creationdate="20250305T134902Z">
+        <seg>Este capítulo descreve algumas personalizações comuns que podem ser realizadas, como segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This chapter provides an overview of LibreOffice’s macro facilities with an emphasis on its default macro scripting language, LibreOffice Basic.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="rafael" changedate="20250220T001709Z" creationid="rafael" creationdate="20250220T001709Z">
@@ -25106,6 +25290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T233059Z" creationid="olivier" creationdate="20250301T233059Z">
         <seg>Cronograma dos principais lançamentos do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Timothy Brennan Jr., Antonio Fernandez, Olivier Hallot</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134107Z" creationid="olivier" creationdate="20250305T134107Z">
+        <seg>Timothy Brennan Jr., Antonio Fernandez, Olivier Hallot</seg>
       </tuv>
     </tu>
     <tu>
