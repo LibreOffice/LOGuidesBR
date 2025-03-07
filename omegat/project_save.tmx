@@ -2966,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding tools</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222026Z" creationid="olivier" creationdate="20250307T222026Z">
+        <seg>Adicionar ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional character format options (including strikethrough and shadowing) are available on the Format Cells dialog and the Sidebar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T160208Z" creationid="olivier" creationdate="20250204T160208Z">
@@ -3450,6 +3458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T221450Z" creationid="olivier" creationdate="20250121T121030Z">
         <seg>Como alternativa, você pode teclar &lt;f1&gt;Ctrl+A&lt;/f1&gt;, teclar &lt;f2&gt;Ctrl+Shift+Espaço&lt;/f2&gt; ou acessar &lt;f3&gt;Editar &gt; Selecionar tudo&lt;/f3&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively, and to reduce the number of tools listed in &lt;f0&gt;Available Commands&lt;/f0&gt;, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222508Z" creationid="olivier" creationdate="20250307T222508Z">
+        <seg>Alternativamente, e para reduzir o número de ferramentas listadas em &lt;f0&gt;Comandos disponíveis&lt;/f0&gt;, use um dos seguintes métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4458,6 +4474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T000825Z" creationid="olivier" creationdate="20250120T000825Z">
         <seg>Normalmente, o LibreOffice cria e salva arquivos no formato OpenDocument (ODF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, all available tools are displayed in the &lt;f1&gt;Available Commands&lt;/f1&gt; list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222439Z" creationid="olivier" creationdate="20250307T222439Z">
+        <seg>Normalmente, todas as ferramentas disponíveis são exibidas na lista de &lt;f1&gt;Comandos disponíveis&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8790,6 +8814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter a search term in the &lt;f0&gt;Search&lt;/f0&gt; box</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222517Z" creationid="olivier" creationdate="20250307T222517Z">
+        <seg>Insira um termo de pesquisa na caixa &lt;f0&gt;Pesquisar&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter number of printed copies required for the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T144457Z" creationid="olivier" creationdate="20250223T144457Z">
@@ -13030,6 +13062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a listed document is selected in the &lt;f0&gt;Scope&lt;/f0&gt; drop‑down list, then any customization to a toolbar is only available for that selected document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222303Z" creationid="olivier" creationdate="20250307T222303Z">
+        <seg>Ao selecionar um documento na lista suspensa &lt;f0&gt;Escopo&lt;/f0&gt;, qualquer personalização para uma barra de ferramentas estará restrita para o documento selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a number is entered with leading zeroes (for example, 01481), Calc will drop the leading zeroes by default.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225953Z" creationid="olivier-tdf" creationdate="20250122T225953Z">
@@ -13538,6 +13578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215931Z" creationid="olivier" creationdate="20250123T215901Z">
         <seg>Se houver uma lista de classificação contendo o texto, o Calc usará as entradas nessa lista de ordenação para preencher as células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If there is no LibreOffice module, or document, open, then toolbar customization or creation cannot be carried out.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222018Z" creationid="olivier" creationdate="20250307T222018Z">
+        <seg>Se não houver nenhum módulo ou documento do LibreOffice aberto, a personalização ou criação da barra de ferramentas não poderá ser realizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14514,6 +14562,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123808Z" creationid="olivier-tdf" creationdate="20250117T123808Z">
         <seg>Na lista suspensa &lt;f0&gt;Tipo de arquivo&lt;/f0&gt;, selecione o tipo de formato de planilha que deseja usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Scope&lt;/f0&gt; drop‑down list, select the LibreOffice module displayed, or one of the listed documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222136Z" creationid="olivier" creationdate="20250307T222136Z">
+        <seg>Na lista suspensa &lt;f0&gt;Escopo&lt;/f0&gt;, selecione o módulo LibreOffice exibido ou um dos documentos listados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Target&lt;/f0&gt; drop‑down list, select the toolbar for customization.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222313Z" creationid="olivier" creationdate="20250307T222313Z">
+        <seg>Na lista suspensa &lt;f0&gt;Destino&lt;/f0&gt;, selecione a barra de ferramentas para personalização.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17966,6 +18030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Customize dialog and click on &lt;f0&gt;Toolbars&lt;/f0&gt; to open the &lt;f1&gt;Toolbars&lt;/f1&gt; page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222116Z" creationid="olivier" creationdate="20250307T222116Z">
+        <seg>Abra a caixa de diálogo Personalizar e clique em &lt;f0&gt;Barras de ferramentas&lt;/f0&gt; para abrir a aba &lt;f1&gt;Barras de ferramentas&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the LibreOffice Start Center then click on the name of a LibreOffice module.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135436Z" creationid="olivier" creationdate="20250217T135436Z">
@@ -20822,6 +20894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a category in the &lt;f0&gt;Category&lt;/f0&gt; drop‑down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222537Z" creationid="olivier" creationdate="20250307T222537Z">
+        <seg>Selecione uma categoria na lista suspensa &lt;f0&gt;Categoria&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a cell and double-click to activate edit mode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205546Z" creationid="olivier" creationdate="20250123T205546Z">
@@ -20890,6 +20970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier" creationdate="20250121T153252Z">
         <seg>Selecione um intervalo de células nas colunas ou linhas que deseja excluir, clique com o botão direito e selecione &lt;f0&gt;Excluir&lt;/f0&gt; no menu de contexto, selecione &lt;f1&gt;Planilha &gt; Excluir células&lt;/f1&gt; na barra de menus ou tecle &lt;f2&gt;Ctrl+-&lt;/f2&gt; para abrir a caixa de diálogo Excluir células (Figura &lt;t3&gt;18&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a tool in the &lt;f0&gt;Available Commands&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222414Z" creationid="olivier" creationdate="20250307T222414Z">
+        <seg>Selecione uma ferramenta na lista de &lt;f0&gt;Comandos disponíveis&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24954,6 +25042,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T141925Z" creationid="tulio" creationdate="20250211T141925Z">
         <seg>As ferramentas são adicionadas à barra de ferramentas na mesma ordem em que aparecem no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tools on the selected toolbar are displayed in the &lt;f1&gt;Assigned Commands&lt;/f1&gt; list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222356Z" creationid="olivier" creationdate="20250307T222356Z">
+        <seg>As ferramentas na barra de ferramentas selecionada são exibidas na lista de &lt;f1&gt;Comandos atribuídos&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29066,6 +29162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224440Z" creationid="olivier" creationdate="20250123T224440Z">
         <seg>Ao criar um documento de planilha, você pode restringir os usuários a inserir dados válidos e apropriados para a célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When customizing or creating toolbars in LibreOffice, make sure that there is a LibreOffice module open, for example Writer, and at least one document open.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222005Z" creationid="olivier" creationdate="20250307T222005Z">
+        <seg>Ao personalizar ou criar barras de ferramentas no LibreOffice, certifique-se de que haja um módulo do LibreOffice aberto, por exemplo, o Writer, e pelo menos um documento aberto.</seg>
       </tuv>
     </tu>
     <tu>
