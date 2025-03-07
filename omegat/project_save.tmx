@@ -1822,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Name dialog&lt;/s0&gt;&lt;s1&gt;Name dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224553Z" creationid="olivier" creationdate="20250307T224553Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Nome&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Nome&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Navigate By list on Navigator&lt;/s0&gt;&lt;s1&gt;Navigate By list on Navigator&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T182429Z" creationid="timot" creationdate="20250122T182429Z">
@@ -5574,6 +5582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the new toolbar and close the Name dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T230034Z" creationid="olivier" creationdate="20250307T230034Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar a nova barra de ferramentas e fechar a caixa de diálogo Nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the printer setup and close the Printer Setup Dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T133448Z" creationid="olivier" creationdate="20250223T133448Z">
@@ -6170,6 +6186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T214400Z" creationid="olivier" creationdate="20250307T214400Z">
         <seg>Clique na seta para a esquerda para mover o comando selecionado para a lista de &lt;f0&gt;Comandos disponíveis&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the left arrow to move the selected tool into the &lt;f0&gt;Available Commands&lt;/f0&gt; list and remove the tool from the selected toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224417Z" creationid="olivier" creationdate="20250307T224417Z">
+        <seg>Clique na seta para a esquerda para mover a ferramenta selecionada para a lista de &lt;f0&gt;Comandos disponíveis&lt;/f0&gt; e remova a ferramenta da barra de ferramentas selecionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7114,6 +7138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T214414Z" creationid="olivier" creationdate="20250307T214414Z">
         <seg>Criar menus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating new toolbars</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224625Z" creationid="olivier" creationdate="20250307T224625Z">
+        <seg>Criar barras de ferramentas</seg>
       </tuv>
     </tu>
     <tu>
@@ -9994,6 +10026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134047Z" creationid="olivier" creationdate="20250217T134047Z">
         <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Exemplo de deque de Propriedades na barra lateral do Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Name dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224602Z" creationid="olivier" creationdate="20250307T224602Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Caixa de diálogo Nome</seg>
       </tuv>
     </tu>
     <tu>
@@ -14614,6 +14654,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Save in&lt;/f0&gt; box select where to save the new toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T225424Z" creationid="olivier" creationdate="20250307T225424Z">
+        <seg>Na caixa &lt;f0&gt;Salvar em&lt;/f0&gt;, selecione onde salvar a nova barra de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Scope&lt;/f0&gt; drop-down list, the LibreOffice module that is open appears as the selected module.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224141Z" creationid="olivier" creationdate="20250307T224141Z">
+        <seg>Na lista suspensa &lt;f0&gt;Escopo&lt;/f0&gt;, o módulo LibreOffice que está aberto aparece como o módulo selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the &lt;f0&gt;Scope&lt;/f0&gt; drop‑down list, select the LibreOffice module displayed, or one of the listed documents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222136Z" creationid="olivier" creationdate="20250307T222136Z">
@@ -14626,6 +14682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222313Z" creationid="olivier" creationdate="20250307T222313Z">
         <seg>Na lista suspensa &lt;f0&gt;Destino&lt;/f0&gt;, selecione a barra de ferramentas para personalização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Target&lt;/f0&gt; drop‑down list, select the toolbar that has the tool that is going to be removed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224152Z" creationid="olivier" creationdate="20250307T224152Z">
+        <seg>Na lista suspensa &lt;f0&gt;Destino&lt;/f0&gt;, selecione a barra de ferramentas que contém a ferramenta que será removida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17186,6 +17250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211808Z" creationid="olivier-tdf" creationdate="20250116T211808Z">
         <seg>Caixa de nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224608Z" creationid="olivier" creationdate="20250307T224608Z">
+        <seg>Caixa de diálogo Nome</seg>
       </tuv>
     </tu>
     <tu>
@@ -20766,6 +20838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Add&lt;/f0&gt; from the drop‑down list to open the Name dialog (Figure &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T225026Z" creationid="olivier" creationdate="20250307T225026Z">
+        <seg>Selecione &lt;f0&gt;Adicionar&lt;/f0&gt; na lista suspensa para abrir a caixa de diálogo Nome (Figura &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Bold&lt;/f0&gt;, &lt;f1&gt;Italic&lt;/f1&gt;, or &lt;f2&gt;Bold Italic&lt;/f2&gt; in the &lt;f3&gt;Style&lt;/f3&gt; menu on the &lt;f4&gt;Font&lt;/f4&gt; tab of the Format Cells dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T155655Z" creationid="olivier" creationdate="20250204T155655Z">
@@ -21658,6 +21738,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T165828Z" creationid="olivier-tdf" creationdate="20250209T165828Z">
         <seg>Selecione o tema que deseja aplicar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the tool for removal in the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224218Z" creationid="olivier" creationdate="20250307T224218Z">
+        <seg>Selecione a ferramenta a remover na lista de &lt;f0&gt;Comandos atribuídos&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25614,6 +25702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can be a LibreOffice module, or one of the listed documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T225510Z" creationid="olivier" creationdate="20250307T225510Z">
+        <seg>Pode ser um módulo do LibreOffice ou um dos documentos listados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This can be done only on the Windows operating system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T220137Z" creationid="olivier" creationdate="20250307T220137Z">
@@ -27930,6 +28026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150426Z" creationid="olivier" creationdate="20250223T150426Z">
         <seg>Dupla face</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type a name for the new toolbar in the &lt;f0&gt;Toolbar name&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250307T225115Z" creationid="olivier" creationdate="20250307T225115Z">
+        <seg>Digite um nome para a nova barra de ferramentas na caixa &lt;f0&gt;Nome da barra de ferramentas&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
