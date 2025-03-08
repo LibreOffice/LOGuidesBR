@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9442,6 +9442,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104101Z" creationid="timot" creationdate="20250204T104101Z">
         <seg>Digite o texto na caixa Localizar na parte superior&lt;f0&gt;.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter values for Cyan (C), Magenta (M), Yellow (Y), and Key (K) (black) in the &lt;f0&gt;CMYK&lt;/f0&gt; text boxes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T200751Z" creationid="olivier-tdf" creationdate="20250308T200751Z">
+        <seg>Insira os valores para Ciano (C), Magenta (M), Amarelo (Y) e Chave (K) (preto) nas caixas de texto &lt;f0&gt;CMYK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter values for Hue (H), Saturation (S), and Brightness (B) in the &lt;f0&gt;HSB&lt;/f0&gt; text boxes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T200832Z" creationid="olivier-tdf" creationdate="20250308T200832Z">
+        <seg>Insira os valores de Matiz (H), Saturação (S) e Brilho (B) nas caixas de texto &lt;f0&gt;HSB&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter values for Red (R), Green (G), and Blue (B) in the &lt;f0&gt;RGB&lt;/f0&gt; text boxes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T200735Z" creationid="olivier-tdf" creationdate="20250308T200735Z">
+        <seg>Insira valores para Vermelho (R), Verde (G) e Azul (B) nas caixas de texto &lt;f0&gt;RGB&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22090,6 +22114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121755Z" creationid="olivier-tdf" creationdate="20250117T121755Z">
         <seg>Selecione uma cor e clique em &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a color range from the colored bar, then, using the cursor, move the target in the colored box until the cursor is on the color desired.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T200725Z" creationid="olivier-tdf" creationdate="20250308T200725Z">
+        <seg>Selecione um intervalo de cores na barra colorida e, em seguida, usando o cursor, mova o alvo na caixa colorida até que o cursor esteja na cor desejada.</seg>
       </tuv>
     </tu>
     <tu>
