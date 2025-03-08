@@ -2646,6 +2646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A keyboard configuration file can also be distributed among several users.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T000711Z" creationid="olivier" creationdate="20250308T000711Z">
+        <seg>Um arquivo de configuração de teclado também pode ser distribuído entre vários usuários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A list of available keyboard shortcuts in LibreOffice can be found &lt;f0&gt;in the keyboard tab of the Customize dialog box&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T233928Z" creationid="olivier" creationdate="20250302T233928Z">
@@ -3114,6 +3122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier-tdf" creationdate="20250109T194624Z">
         <seg>Após a instalação, para alterar as configurações padrão (opções) no LibreOffice para atender aos requisitos e preferências de trabalho, acesse &lt;f0&gt;Ferramentas &gt; Opções&lt;/f0&gt; na barra de menus (&lt;f1&gt;LibreOffice &gt; Preferências&lt;/f1&gt; no macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After making adjustments and changes to keyboard shortcut assignments, click on &lt;f0&gt;Save&lt;/f0&gt; at the right side of the Customize dialog to open the file browser for Save Keyboard Configuration (example shown in Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T000804Z" creationid="olivier" creationdate="20250308T000804Z">
+        <seg>Depois de fazer ajustes e alterações nas atribuições de atalho de teclado, clique em &lt;f0&gt;Salvar&lt;/f0&gt; no lado direito da caixa de diálogo Personalizar para abrir o navegador de arquivos para Salvar configuração do teclado (exemplo mostrado na Figura &lt;t1&gt;8&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9238,6 +9254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of Save Keyboard Configuration file browser</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T000245Z" creationid="olivier" creationdate="20250308T000245Z">
+        <seg>Exemplo de navegador de arquivo Salvar configuração do teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example of a Printer Setup dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T130613Z" creationid="olivier" creationdate="20250223T130613Z">
@@ -10274,6 +10298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250126T184038Z" creationid="timot" creationdate="20250126T184038Z">
         <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Selecionar itens que não estão próximos um do outro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Example of Save Keyboard Configuration file browser</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T000238Z" creationid="olivier" creationdate="20250308T000238Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Exemplo de navegador de arquivo Salvar configuração do teclado</seg>
       </tuv>
     </tu>
     <tu>
@@ -14974,6 +15006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the Save Keyboard Configuration file browser, enter a file name in the &lt;f0&gt;File name&lt;/f0&gt; text box, or select a keyboard configuration file in the file list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T001259Z" creationid="olivier" creationdate="20250308T001259Z">
+        <seg>No navegador de arquivos Salvar configuração do teclado, insira um nome de arquivo na caixa &lt;f0&gt;Nome de arquivo&lt;/f0&gt;, ou selecione um arquivo de configuração de teclado na lista de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the case of shared, or bundled extensions, the option only works if a user has the proper system access rights.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233347Z" creationid="olivier-tdf" creationdate="20250224T233347Z">
@@ -15978,6 +16018,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135339Z" creationid="olivier-tdf" creationdate="20250120T135339Z">
         <seg>Navegação pelo teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keyboard shortcut assignments can be saved as a configuration file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T000610Z" creationid="olivier" creationdate="20250308T000610Z">
+        <seg>As atribuições de atalho de teclado podem ser salvas como um arquivo de configuração.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17538,6 +17586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200541Z" creationid="olivier-tdf" creationdate="20250209T200541Z">
         <seg>Navegue até a célula onde a quebra de página é necessária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate to the folder to be used for keyboard configuration files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T000858Z" creationid="olivier" creationdate="20250308T000858Z">
+        <seg>Navegue até a pasta a ser usada para os arquivos de configuração do teclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20698,6 +20754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123535Z" creationid="olivier-tdf" creationdate="20250117T123535Z">
         <seg>Salvando arquivos em diferentes formatos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving keyboard configurations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T000251Z" creationid="olivier" creationdate="20250308T000251Z">
+        <seg>Salvando configurações de teclado</seg>
       </tuv>
     </tu>
     <tu>
@@ -24662,6 +24726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The file name extension used for a keyboard configuration file is &lt;f1&gt;CFG&lt;/f1&gt;, as shown by the example in the &lt;f2&gt;File type&lt;/f2&gt; text box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T001356Z" creationid="olivier" creationdate="20250308T001356Z">
+        <seg>A extensão de nome de arquivo usada para um arquivo de configuração de teclado é &lt;f1&gt;CFG&lt;/f1&gt;, como mostrado pelo exemplo na caixa de texto &lt;f2&gt;Tipo de arquivo&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first entry in the context menu describes the suspected broken grammatical rule.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250207T104753Z" creationid="timot" creationdate="20250207T104753Z">
@@ -25994,6 +26066,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194508Z" creationid="olivier-tdf" creationdate="20250209T194508Z">
         <seg>Isso permite que várias áreas separadas da mesma planilha sejam impressas sem imprimir a planilha inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This allows the creation and application of different keyboard configurations whenever necessary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T000658Z" creationid="olivier" creationdate="20250308T000658Z">
+        <seg>Isso permite a criação e aplicação de diferentes configurações de teclado sempre que necessário.</seg>
       </tuv>
     </tu>
     <tu>
