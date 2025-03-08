@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Extensions dialog&lt;/s0&gt;&lt;s1&gt;Extensions dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083346Z" creationid="olivier" creationdate="20250308T083346Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Extensões&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Extensões &lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Fill Series dialog&lt;/s0&gt;&lt;s1&gt;Fill Series dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215627Z" creationid="olivier" creationdate="20250123T215627Z">
@@ -5398,10 +5406,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check the extension description and its compatibility for the LibreOffice version and operating system being used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083534Z" creationid="olivier" creationdate="20250308T083534Z">
+        <seg>Verifique a descrição da extensão e sua compatibilidade com a versão do LibreOffice e o sistema operacional usado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Checkbox (more than one can be selected at a time)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214548Z" creationid="olivier-tdf" creationdate="20250109T214548Z">
         <seg>Caixa de seleção (mais de uma pode ser selecionada por vez).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Checking for extension updates is as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084140Z" creationid="olivier" creationdate="20250308T084140Z">
+        <seg>A verificação de atualizações de extensões é a seguinte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6034,6 +6058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="elianedomingos" changedate="20250301T224519Z" creationid="tulio" creationdate="20250119T173813Z">
         <seg>Clique em &lt;f0&gt;Formas simples&lt;/f0&gt; na barra de ferramentas Desenho para abrir a paleta de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Check for Updates&lt;/f0&gt; to open the Extension Update dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084320Z" creationid="olivier" creationdate="20250308T084320Z">
+        <seg>Clique em &lt;f0&gt;Verificar atualizações&lt;/f0&gt; para abrir a caixa de diálogo Atualização de extensão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6882,6 +6914,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T233117Z" creationid="olivier" creationdate="20250220T233117Z">
         <seg>Feche um documento do LibreOffice com um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close the Extension Update and Extensions dialogs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084403Z" creationid="olivier" creationdate="20250308T084403Z">
+        <seg>Feche as caixas de diálogo Atualização de Extensão e Extensões.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9550,6 +9590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extensions dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083401Z" creationid="olivier" creationdate="20250308T083401Z">
+        <seg>Caixa de diálogo Extensões </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extensive language support</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192407Z" creationid="olivier-tdf" creationdate="20250109T192407Z">
@@ -10450,6 +10498,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T215947Z" creationid="olivier-tdf" creationdate="20250117T215947Z">
         <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Exportação de valores brutos e calculados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Extensions dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083355Z" creationid="olivier" creationdate="20250308T083355Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Caixa de diálogo Extensões</seg>
       </tuv>
     </tu>
     <tu>
@@ -11702,6 +11758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the correct extension version, click on &lt;f0&gt;Download&lt;/f0&gt; and the extension will be downloaded into the Downloads folder (or any other you choose) on the computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083703Z" creationid="olivier" creationdate="20250308T083703Z">
+        <seg>Para a versão correta da extensão, clique em &lt;f0&gt;Download&lt;/f0&gt; e a extensão será baixada para a pasta Downloads (ou qualquer outra que escolher) no computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For this reason ODF is &lt;f1&gt;important&lt;/f1&gt; for government agencies, schools and other companies who prefer not to be too dependent on any software supplier.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234915Z" creationid="olivier" creationdate="20250301T234915Z">
@@ -12678,6 +12742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Extensions&lt;/f0&gt; on the Menu bar to open the Extensions dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084200Z" creationid="olivier" creationdate="20250308T084200Z">
+        <seg>Acesse &lt;f0&gt;Ferramentas &gt; Extensões&lt;/f0&gt; na barra de Menu para abrir a caixa de diálogo Extensões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Print&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; Print&lt;/f1&gt;) to open the Options LibreOffice Print dialog (Figure &lt;t2&gt;12&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T133731Z" creationid="olivier" creationdate="20250223T133731Z">
@@ -13630,6 +13702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If necessary, accept the license agreement and the extension will be installed and listed in the Extensions dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083828Z" creationid="olivier" creationdate="20250308T083828Z">
+        <seg>Se necessário, aceite o contrato de licença e a extensão será instalada e listada na caixa de diálogo Extensões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If necessary, bind the brochures to match either long edge or short edge binding.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T231414Z" creationid="olivier-tdf" creationdate="20250224T231414Z">
@@ -13734,6 +13814,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If necessary, restart LibreOffice for the extension to become effective.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083839Z" creationid="olivier" creationdate="20250308T083839Z">
+        <seg>Se necessário, reinicie o LibreOffice para que a extensão entre em vigor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If necessary, restart LibreOffice for the extension update to become effective.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084431Z" creationid="olivier" creationdate="20250308T084431Z">
+        <seg>Se necessário, reinicie o LibreOffice para que a atualização entre em vigor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If necessary, select &lt;f0&gt;View &gt; Sidebar&lt;/f0&gt; on the Menu bar, or press &lt;f1&gt;Ctrl+F5&lt;/f1&gt;, to display it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T215526Z" creationid="timot" creationdate="20250113T110122Z">
@@ -13746,6 +13842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T213437Z" creationid="olivier" creationdate="20250307T213437Z">
         <seg>Se necessário, selecione uma categoria de comando na lista suspensa &lt;f0&gt;Categoria&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If necessary, select a tag filter before searching to reduce the number of extensions in the search result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083246Z" creationid="olivier" creationdate="20250308T083246Z">
+        <seg>Se necessário, selecione um filtro de etiqueta antes de pesquisar para reduzir o número de extensões no resultado da pesquisa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15142,6 +15246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the Extensions dialog, click on &lt;f0&gt;Add&lt;/f0&gt; to open the Add Extension(s) browser window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083759Z" creationid="olivier" creationdate="20250308T083759Z">
+        <seg>Na caixa de diálogo Extensões, clique em &lt;f0&gt;Adicionar&lt;/f0&gt; para abrir o seletor de arquivo Adicionar extensão(ões).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the Save Keyboard Configuration file browser, enter a file name in the &lt;f0&gt;File name&lt;/f0&gt; text box, or select a keyboard configuration file in the file list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T001259Z" creationid="olivier" creationdate="20250308T001259Z">
@@ -15826,6 +15938,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191534Z" creationid="olivier-tdf" creationdate="20250109T191534Z">
         <seg>Ele é integrado aos recursos gráficos avançados dos módulos &lt;t0/&gt;LibreOffice Draw e Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is necessary to check for updates to extensions on a regular basis.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084031Z" creationid="olivier" creationdate="20250308T084031Z">
+        <seg>É necessário verificar regularmente se há atualizações para as extensões instaladas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16806,6 +16926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Locate the extension required and click on it to open the web page for the selected extension.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083501Z" creationid="olivier" creationdate="20250308T083501Z">
+        <seg>Localize a extensão desejada e clique nela para abrir a página da web para a extensão selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Locking and unlocking toolbars</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T133519Z" creationid="tulio" creationdate="20250211T133519Z">
@@ -17770,6 +17898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T000858Z" creationid="olivier" creationdate="20250308T000858Z">
         <seg>Navegue até a pasta a ser usada para os arquivos de configuração do teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate to the folder where the extension is located.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083809Z" creationid="olivier" creationdate="20250308T083809Z">
+        <seg>Navegue até a pasta onde a extensão está localizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20414,6 +20550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Removing extensions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084554Z" creationid="olivier" creationdate="20250308T084554Z">
+        <seg>Remover extensões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removing split views</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225228Z" creationid="olivier-tdf" creationdate="20250122T225228Z">
@@ -21702,6 +21846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select any extension that is listed in &lt;f0&gt;Available extension updates&lt;/f0&gt; and click on &lt;f1&gt;Install&lt;/f1&gt; to update the extension.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084338Z" creationid="olivier" creationdate="20250308T084338Z">
+        <seg>Selecione qualquer extensão listada em &lt;f0&gt;Atualizações de extensões disponíveis&lt;/f0&gt; e clique em &lt;f1&gt;Instalar&lt;/f1&gt; para atualizar a extensão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select cells in the rows or columns on each side of the hidden rows or columns.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T152053Z" creationid="olivier" creationdate="20250121T152053Z">
@@ -22010,6 +22162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T140111Z" creationid="tulio" creationdate="20250211T140111Z">
         <seg>Selecione o triângulo descendente ▼ na barra de título da barra de ferramentas e, em seguida, selecione &lt;f0&gt;Encaixar barra de ferramentas&lt;/f0&gt; nas opções disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the extension and click on &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083815Z" creationid="olivier" creationdate="20250308T083815Z">
+        <seg>Selecione a extensão e clique em &lt;f0&gt;Abrir&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27774,6 +27934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To install an extension that is not listed in the official extension repository, download the extension from its source, then continue from Step 7 above to install the extension.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083914Z" creationid="olivier" creationdate="20250308T083914Z">
+        <seg>Para instalar uma extensão que não esteja listada no repositório de extensões oficial, baixe a extensão de sua página e continue na Etapa 7 acima para instalar a extensão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To jump to a specific page in the document, click on this field.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200558Z" creationid="timot" creationdate="20250111T200558Z">
@@ -28994,6 +29162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135931Z" creationid="olivier-tdf" creationdate="20250303T135931Z">
         <seg>Seta para cima ou para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Updating extensions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083946Z" creationid="olivier" creationdate="20250308T083946Z">
+        <seg>Atualizar extensões</seg>
       </tuv>
     </tu>
     <tu>
