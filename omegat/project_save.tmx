@@ -20454,6 +20454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Perform check for default file associations on start-up</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T194536Z" creationid="olivier-tdf" creationdate="20250309T194536Z">
+        <seg>Verificar associação de arquivos padrão no início</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Performing one of these steps:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205907Z" creationid="olivier-tdf" creationdate="20250128T205907Z">
@@ -26678,6 +26686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The options available in the View page of the Options LibreOffice dialog (Figure &lt;t0&gt;Erro: Origem da referência não encontrada&lt;/t0&gt;) affect how the document window looks and behaves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T194702Z" creationid="olivier-tdf" creationdate="20250309T194702Z">
+        <seg>As opções disponíveis na página Visualizar da caixa de diálogo Opções do LibreOffice (Figura &lt;t0&gt;Erro: Origem da referência não encontrada&lt;/t0&gt;) afetam a aparência e o comportamento da janela do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The options available in this dialog depends on the type of printer connected to the computer and the computer operating system being used.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T143758Z" creationid="olivier" creationdate="20250223T143758Z">
@@ -32078,6 +32094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Windows Default apps button</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T194509Z" creationid="olivier-tdf" creationdate="20250309T194509Z">
+        <seg>Botão Aplicações padrão do Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Windows and Linux</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011224Z" creationid="tulio" creationdate="20250116T011224Z">
@@ -32098,6 +32122,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T193423Z" creationid="olivier-tdf" creationdate="20250309T193423Z">
         <seg>Somente Windows — se selecionada, a Ferramenta de Relatório de Erros inicia automaticamente quando ocorrer uma falha no programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows only — opens Default apps dialog in Windows.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T194517Z" creationid="olivier-tdf" creationdate="20250309T194517Z">
+        <seg>Somente Windows — abre a caixa de diálogo Aplicativos padrão no Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows only — when selected, LibreOffice checks file associations on startup and displays a message if any relevant formats are not registered to be opened by default in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T194550Z" creationid="olivier-tdf" creationdate="20250309T194550Z">
+        <seg>Somente Windows — quando selecionado, o LibreOffice verifica as associações de arquivos na inicialização e exibe uma mensagem se algum formato relevante não estiver registrado para ser aberto por padrão no LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
