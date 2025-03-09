@@ -1982,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice dialog — General page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — General page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192037Z" creationid="olivier-tdf" creationdate="20250309T192037Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Opções do LibreOffice — Página Geral&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Opções do LibreOffice — Página Geral&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options LibreOffice dialog — User Data page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — User Data page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T184227Z" creationid="olivier-tdf" creationdate="20250309T184227Z">
@@ -3954,6 +3962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121024Z" creationid="olivier-tdf" creationdate="20250117T121024Z">
         <seg>Uma opção está disponível para destacar toda a linha e coluna da célula ativa usando uma cor transparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An “earlier” date is interpreted as being in the following century; that is, 1/1/20 is interpreted as 1/1/2020.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192238Z" creationid="olivier-tdf" creationdate="20250309T192238Z">
+        <seg>Uma data "anterior" é interpretada como sendo no século seguinte; isto é, 1/1/20 é interpretado como 1/1/2020.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10606,6 +10622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Options LibreOffice dialog — General page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192050Z" creationid="olivier-tdf" creationdate="20250309T192050Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Caixa de diálogo Opções do LibreOffice — Página Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Writer Status bar, left end</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200213Z" creationid="timot" creationdate="20250111T200213Z">
@@ -11522,6 +11546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195554Z" creationid="olivier-tdf" creationdate="20250209T195554Z">
         <seg>Por exemplo, se as duas linhas superiores da planilha, bem como a coluna A, precisarem ser impressas em todas as páginas, faça o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192201Z" creationid="olivier-tdf" creationdate="20250309T192201Z">
+        <seg>Por exemplo, se o ano de dois dígitos estiver definido como 1930 e você inserir uma data de 1/1/30 ou posterior em seu documento, a data será interpretada como 1/1/1930 ou posterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19910,6 +19942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options LibreOffice dialog — General page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192106Z" creationid="olivier-tdf" creationdate="20250309T192106Z">
+        <seg>Caixa de diálogo Opções do LibreOffice — Página Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options LibreOffice dialog — User Data page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T184305Z" creationid="olivier-tdf" creationdate="20250309T184305Z">
@@ -24458,6 +24498,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000247Z" creationid="olivier-tdf" creationdate="20250219T000247Z">
         <seg>Estilos especiais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies how two-digit years are interpreted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192135Z" creationid="olivier-tdf" creationdate="20250309T192135Z">
+        <seg>Especifica como os anos de dois dígitos são interpretados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32234,6 +32282,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T112115Z" creationid="timot" creationdate="20250221T112115Z">
         <seg>Os estilos de lista separados do Writer têm duas vantagens principais: o mesmo estilo de lista pode ser usado com vários estilos de parágrafo e o estilo de lista associado a um parágrafo pode ser alterado com uma única seleção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Year (Two Digits)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192124Z" creationid="olivier-tdf" creationdate="20250309T192124Z">
+        <seg>Ano (dois dígitos)</seg>
       </tuv>
     </tu>
     <tu>
