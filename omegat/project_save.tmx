@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f1&gt;No function&lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250310T224209Z" creationid="olivier" creationdate="20250310T224135Z">
+        <seg>&lt;f1&gt;Sem função&lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f1&gt;Shift+Enter&lt;/f1&gt; moves the focus up in a column to the previous row.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T003639Z">
@@ -1382,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f3&gt;Automatic scrolling&lt;/f3&gt; — dragging while pressing the middle mouse button shifts the view.&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250310T224322Z" creationid="olivier" creationdate="20250310T224322Z">
+        <seg>&lt;f3&gt;Rolagem automática&lt;/f3&gt; — arrastar enquanto pressiona o botão do meio do mouse muda a visualização.&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f3&gt;Ctrl+Tab&lt;/f3&gt; is equivalent to &lt;f4&gt;Ctrl+Page Down&lt;/f4&gt;, while &lt;f5&gt;Ctrl+Shift+Tab&lt;/f5&gt; is equivalent to &lt;f6&gt;Ctrl+Page Up&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T005351Z" creationid="olivier" creationdate="20250120T005351Z">
@@ -1402,6 +1418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195104Z" creationid="olivier-tdf" creationdate="20250109T195104Z">
         <seg>&lt;f4&gt;As Dicas estendidas&lt;/f4&gt; fornecem uma breve descrição sobre ferramentas e comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f5&gt;Paste clipboard&lt;/f5&gt; — pressing the middle mouse button inserts the contents of the &lt;f6&gt;Selection clipboard&lt;/f6&gt; at the cursor position.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250310T230747Z" creationid="olivier" creationdate="20250310T230747Z">
+        <seg>&lt;f5&gt;Colar área de transferência&lt;/f5&gt; — pressionar o botão do meio do mouse insere o conteúdo da &lt;f6&gt;área de transferência de Seleção&lt;/f6&gt; na posição do cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8458,6 +8482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224751Z" creationid="olivier" creationdate="20250123T224751Z">
         <seg>Definir o intervalo de conteúdo que pode ser inserido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defines the function of the middle mouse button (if available)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250310T224129Z" creationid="olivier" creationdate="20250310T224129Z">
+        <seg>Define a função do botão do meio do mouse (se disponível)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18154,6 +18186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124824Z" creationid="olivier-tdf" creationdate="20250114T124824Z">
         <seg>O Microsoft Office usa o código do Visual Basic for Applications (VBA), e o LibreOffice usa o código Basic baseado na API do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Middle button</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250310T224113Z" creationid="olivier" creationdate="20250310T224113Z">
+        <seg>Botão central do mouse</seg>
       </tuv>
     </tu>
     <tu>
