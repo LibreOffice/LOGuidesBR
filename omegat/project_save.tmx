@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18326,6 +18326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mouse</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250310T223300Z" creationid="olivier" creationdate="20250310T223300Z">
+        <seg>Mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Move the cursor over the toolbar handle (the small vertical bar of dots to the left of a docked toolbar).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T134739Z" creationid="tulio" creationdate="20250211T134739Z">
@@ -20674,6 +20682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T001645Z" creationid="olivier" creationdate="20250120T001645Z">
         <seg>Posicione o cursor na célula onde deseja que o novo conteúdo seja importado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Positioning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250310T223306Z" creationid="olivier" creationdate="20250310T223306Z">
+        <seg>Posicionamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -23566,6 +23582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the visibility mode (&lt;f0&gt;Automatic, Hide, Show&lt;/f0&gt;) to hide or show icons as well as text on the Menu bar and in shortcut items.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250310T223249Z" creationid="olivier" creationdate="20250310T223249Z">
+        <seg>Selecione o modo de visibilidade (&lt;f0&gt;Automático, Ocultar, Mostrar&lt;/f0&gt;) para ocultar ou mostrar ícones, bem como texto na barra de menu e em itens de atalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option and the default web browser opens at the LibreOffice online help pages in the LibreOffice website.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194917Z" creationid="olivier-tdf" creationdate="20250109T194917Z">
@@ -24674,6 +24698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192135Z" creationid="olivier-tdf" creationdate="20250309T192135Z">
         <seg>Especifica como os anos de dois dígitos são interpretados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies if and how the cursor is positioned in newly opened dialogs (&lt;f0&gt;Default button, Dialog center, No automatic positioning&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250310T224052Z" creationid="olivier" creationdate="20250310T224052Z">
+        <seg>Especifica se e como o cursor está posicionado nas caixas de diálogo recém-abertas (&lt;f0&gt;botão padrão, centro da caixa de diálogo, sem posicionamento automático&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
