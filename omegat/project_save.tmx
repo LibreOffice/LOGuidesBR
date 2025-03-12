@@ -558,6 +558,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Edit &gt; Copy&lt;/f0&gt; or &lt;f1&gt;Ctrl+C&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+C&lt;/f2&gt;)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155708Z" creationid="olivier" creationdate="20250312T155708Z">
+        <seg>&lt;f0&gt;Editar &gt; Copiar&lt;/f0&gt; ou &lt;f1&gt;Ctrl+C&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+C&lt;/f2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Edit &gt; Paste&lt;/f0&gt; or &lt;f1&gt;Ctrl+V&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;V&lt;/f4&gt;&lt;/f3&gt;) pastes at the cursor position.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155813Z" creationid="olivier" creationdate="20250312T155813Z">
+        <seg>&lt;f0&gt;Editar &gt; Colar&lt;/f0&gt; ou &lt;f1&gt;Ctrl+V&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;V&lt;/f4&gt;&lt;/f3&gt;) cola na posição do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Effect&lt;/f0&gt;: Add and adjust a Glow or Soft Edge effect to the object.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T111327Z" creationid="timot" creationdate="20250114T111327Z">
@@ -7278,6 +7294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clicking the middle mouse button pastes at the cursor position.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155826Z" creationid="olivier" creationdate="20250312T155826Z">
+        <seg>Clicar no botão do meio do mouse cola na posição do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clicking this changes the text to the suggestion.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T211216Z" creationid="timot" creationdate="20250210T211216Z">
@@ -7290,6 +7314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114458Z" creationid="olivier-tdf" creationdate="20250109T114458Z">
         <seg>Galerias de clip-arts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clipboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155541Z" creationid="olivier" creationdate="20250312T155541Z">
+        <seg>Área de transferência</seg>
       </tuv>
     </tu>
     <tu>
@@ -7706,6 +7738,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135430Z" creationid="olivier-tdf" creationdate="20250303T135430Z">
         <seg>Copia o texto ou objetos selecionados e os coloca na área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy content</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155633Z" creationid="olivier" creationdate="20250312T155633Z">
+        <seg>Copiar conteúdo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8798,6 +8838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Directly accesses hardware features of the graphical display adapter to improve the screen display.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T160149Z" creationid="olivier" creationdate="20250312T160149Z">
+        <seg>Acessa diretamente os recursos de hardware do adaptador de vídeo gráfico do computador para melhorar a exibição da tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Directly cause an action, for example &lt;f0&gt;File &gt; Close&lt;/f0&gt; or &lt;f1&gt;Save.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144347Z" creationid="tulio" creationdate="20250119T144347Z">
@@ -9562,6 +9610,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195513Z" creationid="timot" creationdate="20250111T195513Z">
         <seg>Incorporação ou vinculação de imagens, equações, planilhas e outros objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enables and disables anti-aliasing, which makes the display of most graphical objects look smoother and with fewer artifacts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T160409Z" creationid="olivier" creationdate="20250312T160409Z">
+        <seg>Habilita e desabilita o anti-aliasing, o que faz com que a exibição da maioria dos objetos gráficos pareça mais suave e com menos artefatos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12758,6 +12814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Function</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155519Z" creationid="olivier" creationdate="20250312T155519Z">
+        <seg>Função</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Function Wizard</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212014Z" creationid="olivier-tdf" creationdate="20250116T211940Z">
@@ -13538,6 +13602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192743Z" creationid="olivier-tdf" creationdate="20250109T192743Z">
         <seg>Granularidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Graphics Output</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155924Z" creationid="olivier" creationdate="20250312T155924Z">
+        <seg>Saída gráfica</seg>
       </tuv>
     </tu>
     <tu>
@@ -18966,6 +19038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No effect on the clipboard contents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155858Z" creationid="olivier" creationdate="20250312T155858Z">
+        <seg>Sem efeito no conteúdo da área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No licensing fees</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192223Z" creationid="olivier-tdf" creationdate="20250109T192223Z">
@@ -20542,10 +20622,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paste content</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155737Z" creationid="olivier" creationdate="20250312T155737Z">
+        <seg>Colar conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pastes unformatted text from the clipboard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135521Z" creationid="olivier-tdf" creationdate="20250303T135521Z">
         <seg>Cola texto não formatado da área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pasting into another document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155833Z" creationid="olivier" creationdate="20250312T155833Z">
+        <seg>Colar em outro documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -23070,6 +23166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select text, table, or object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155731Z" creationid="olivier" creationdate="20250312T155731Z">
+        <seg>Selecionar texto, tabela ou objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the &lt;f0&gt;Cell Styles&lt;/f0&gt; icon on the Styles deck of the Sidebar and then click the &lt;f1&gt;New Style from Selection&lt;/f1&gt; icon on that deck.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163541Z" creationid="olivier" creationdate="20250204T163541Z">
@@ -23858,6 +23962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T143834Z" creationid="olivier" creationdate="20250223T143834Z">
         <seg>Seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selection clipboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155551Z" creationid="olivier" creationdate="20250312T155551Z">
+        <seg>Área de transferência de seleção</seg>
       </tuv>
     </tu>
     <tu>
@@ -25218,6 +25330,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T140649Z" creationid="olivier-tdf" creationdate="20250303T140649Z">
         <seg>Tabela &lt;seq0&gt;13&lt;/seq0&gt;: Atalhos de teclado para controle de macros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Clipboard and Selection clipboard functions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155511Z" creationid="olivier" creationdate="20250312T155511Z">
+        <seg>Tabela &lt;seq0&gt;1&lt;/seq0&gt;: Funções da área de transferência e da área de transferência de seleção</seg>
       </tuv>
     </tu>
     <tu>
@@ -26650,6 +26770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T101406Z" creationid="timot" creationdate="20250206T101406Z">
         <seg>O idioma a ser usado para verificar a ortografia pode ser selecionado nesta lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The last marked selection is the content of the Selection clipboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155917Z" creationid="olivier" creationdate="20250312T155917Z">
+        <seg>A última seleção marcada é o conteúdo da área de transferência de seleção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30670,6 +30798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use &lt;f0&gt;Ctrl+Shift+R&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Shift+R&lt;/f1&gt;) to restore or refresh the view of the current document after changing the anti-aliasing settings to see the effect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T160556Z" creationid="olivier" creationdate="20250312T160556Z">
+        <seg>Para ver o efeito, utilize &lt;f0&gt;Ctrl+Shift+R&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Shift+R&lt;/f1&gt;) para restaurar ou atualizar a exibição do documento após alterar as definições de anti-aliasing .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use &lt;f0&gt;Replace All&lt;/f0&gt; with caution; otherwise, you may end up with mistakes that you won’t be able to undo later if you save and close the file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T122739Z" creationid="timot" creationdate="20250205T122739Z">
@@ -30710,6 +30846,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use Skia for all rendering</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T161644Z" creationid="olivier" creationdate="20250312T161644Z">
+        <seg>Utilizar o Skia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use anti-aliasing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T160305Z" creationid="olivier" creationdate="20250312T160305Z">
+        <seg>Utilizar anti-aliasing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use any of the Bullet list styles with these paragraph styles.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T112221Z" creationid="timot" creationdate="20250221T112221Z">
@@ -30722,6 +30874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T112235Z" creationid="timot" creationdate="20250221T112235Z">
         <seg>Use qualquer um dos estilos da lista de numeração com esses estilos de parágrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use hardware acceleration</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T160112Z" creationid="olivier" creationdate="20250312T160112Z">
+        <seg>Utilizar aceleração de hardware</seg>
       </tuv>
     </tu>
     <tu>
