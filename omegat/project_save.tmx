@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Internal Paths&lt;/f0&gt; is a shared folder where LibreOffice is installed which is normally on a network.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T173630Z" creationid="olivier" creationdate="20250312T173630Z">
+        <seg>&lt;f0&gt;Caminhos internos&lt;/f0&gt; são os caminhos onde o LibreOffice foi instalado que é normalmente .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Keyboard&lt;/f0&gt; – &lt;f1&gt;Ctrl+Page Down&lt;/f1&gt; moves one sheet to the right and &lt;f2&gt;Ctrl+Page Up&lt;/f2&gt; moves one sheet to the left.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T005238Z" creationid="olivier" creationdate="20250120T005238Z">
@@ -1266,6 +1274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000541Z" creationid="olivier-tdf" creationdate="20250219T000541Z">
         <seg>Use &lt;f0&gt;Exibir &gt; Estilos&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;User Paths&lt;/f0&gt; is a user-specific folder and is normally located on a single computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172956Z" creationid="olivier" creationdate="20250312T172956Z">
+        <seg>&lt;f0&gt;Caminhos do usuário&lt;/f0&gt; são pastas específicas do usuário e normalmente estão localizados em um único computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,6 +2042,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192037Z" creationid="olivier-tdf" creationdate="20250309T192037Z">
         <seg>&lt;s0&gt;Caixa de diálogo Opções do LibreOffice — Página Geral&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Opções do LibreOffice — Página Geral&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice dialog — Paths page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — Paths page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172726Z" creationid="olivier" creationdate="20250312T172726Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Opções do LibreOffice — Página Caminhos&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Opções do LibreOffice — Página Caminhos&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6242,6 +6266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T002109Z" creationid="olivier" creationdate="20250120T002109Z">
         <seg>Clique em &lt;f2&gt;OK&lt;/f2&gt; para concluir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f2&gt;OK&lt;/f2&gt; to return to the Options dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172849Z" creationid="olivier" creationdate="20250312T172849Z">
+        <seg>Clique em &lt;f2&gt;OK&lt;/f2&gt; para retornar à caixa de diálogo Opções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11054,6 +11086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Options LibreOffice dialog — Paths page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172737Z" creationid="olivier" creationdate="20250312T172737Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Caixa de diálogo Opções do LibreOffice — Página Caminhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Selecting math operations on Status bar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213252Z" creationid="olivier-tdf" creationdate="20250116T213252Z">
@@ -11426,6 +11466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T105908Z" creationid="timot" creationdate="20250221T105908Z">
         <seg>Nome da fonte, tamanho da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fonts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T173719Z" creationid="olivier" creationdate="20250312T173719Z">
+        <seg>Fontes</seg>
       </tuv>
     </tu>
     <tu>
@@ -11850,6 +11898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T171739Z" creationid="olivier-tdf" creationdate="20250209T171739Z">
         <seg>Por exemplo, a cor superior esquerda na paleta é a cor &lt;f2&gt;Escura 1&lt;/f2&gt; do tema atualmente selecionado; a cor mais à esquerda na segunda linha é uma versão 50% mais clara do &lt;f3&gt;Escuro 1&lt;/f3&gt;; a entrada na interseção da segunda coluna e da terceira linha é uma versão 15% mais escura do &lt;f4&gt;Claro 1&lt;/f4&gt;; e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, there may be a requirement to store documents by default somewhere other than in &lt;f1&gt;My Documents&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172655Z" creationid="olivier" creationdate="20250312T172655Z">
+        <seg>Por exemplo, pode haver um requisito para armazenar documentos por padrão em outro lugar que não em &lt;f1&gt;Meus Documentos&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19606,6 +19662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the Paths page in the Options LibreOffice dialog (Figure &lt;t0&gt;5&lt;/t0&gt;), the location of files associated with, or used by, LibreOffice can be changed to suit the working situation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172623Z" creationid="olivier" creationdate="20250312T172623Z">
+        <seg>Na página Caminhos na caixa de diálogo Opções do LibreOffice (Figura &lt;t0&gt;5&lt;/t0&gt;), o local dos arquivos associados ou usados pelo LibreOffice pode ser alterado para se adequar à situação de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the Properties deck of the Sidebar, open the Alignment panel (Figure &lt;t0&gt;34&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T012322Z" creationid="olivier" creationdate="20250124T012322Z">
@@ -20274,6 +20338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192106Z" creationid="olivier-tdf" creationdate="20250309T192106Z">
         <seg>Caixa de diálogo Opções do LibreOffice — Página Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options LibreOffice dialog — Paths page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172745Z" creationid="olivier" creationdate="20250312T172745Z">
+        <seg>Caixa de diálogo Opções do LibreOffice — Página Caminhos</seg>
       </tuv>
     </tu>
     <tu>
@@ -24846,6 +24918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some items may have two paths listed as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172900Z" creationid="olivier" creationdate="20250312T172900Z">
+        <seg>Alguns itens podem ter dois caminhos listados da seguinte forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some keyboard shortcuts listed may not be available, if the computer operating system uses the same shortcuts as LibreOffice for other tasks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T234311Z" creationid="olivier" creationdate="20250302T234311Z">
@@ -26018,6 +26098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104031Z" creationid="timot" creationdate="20250204T104031Z">
         <seg>O &lt;f0&gt;deque&lt;/f0&gt; Localizar na Barra lateral é outra ferramenta útil para localizar rapidamente &lt;f1&gt;todas as ocorrências de &lt;/f1&gt;texto no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Fonts page on the Options LibreOffice dialog (Figure &lt;t0&gt;6&lt;/t0&gt;) allows the definition of any replacements for any fonts that might appear in documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T173748Z" creationid="olivier" creationdate="20250312T173748Z">
+        <seg>A página Fontes na caixa de diálogo Opções do LibreOffice (Figura &lt;t0&gt;6&lt;/t0&gt;) permite a definição de quaisquer substituições para quaisquer fontes que possam aparecer nos documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28606,6 +28694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This opens the Select Path dialog, or Edit Paths dialog, allowing folders to added, edited, or deleted as required.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172834Z" creationid="olivier" creationdate="20250312T172834Z">
+        <seg>Isso abre a caixa de diálogo Selecionar caminho ou Editar caminhos, permitindo que as pastas sejam adicionadas, editadas ou excluídas conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This option is only active when printing multiple copies of the same document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T231329Z" creationid="olivier-tdf" creationdate="20250224T231329Z">
@@ -29746,6 +29842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215158Z" creationid="olivier-tdf" creationdate="20250109T215158Z">
         <seg>Para fazer uma doação, acesse a seguinte página: &lt;a0&gt;https://www.libreoffice.org/donate/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To make changes, select an item in &lt;f0&gt;Paths used by LibreOffice&lt;/f0&gt; and click on &lt;f1&gt;Edit&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172806Z" creationid="olivier" creationdate="20250312T172806Z">
+        <seg>Para fazer alterações, selecione um item em &lt;f0&gt;Caminhos usados pelo LibreOffice&lt;/f0&gt; e clique em &lt;f1&gt;Editar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31186,6 +31290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T102911Z" creationid="timot" creationdate="20250222T102911Z">
         <seg>Use os botões na barra de ferramentas Marcadores e numeração para mover itens para cima ou para baixo na lista, criar subitens, alterar o estilo dos marcadores e acessar a caixa de diálogo Marcadores e numeração, que&lt;t0/&gt;contém controles mais detalhados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the entries on the Paths page of the Options LibreOffice dialog to compile a list of files, such as those containing AutoText, that are required to create a back up or copy to another computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T173714Z" creationid="olivier" creationdate="20250312T173714Z">
+        <seg>Use as entradas na página Caminhos da caixa de diálogo Opções do LibreOffice para compilar uma lista de arquivos, como aqueles que contêm AutoTexto, que são necessários para criar um backup ou copiar para outro computador.</seg>
       </tuv>
     </tu>
     <tu>
