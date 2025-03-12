@@ -2030,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice dialog — Print page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — Print page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165614Z" creationid="olivier" creationdate="20250312T165614Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Opções do LibreOffice — Página Imprimir&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Opções do LibreOffice — Página Imprimir&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options LibreOffice dialog — User Data page&lt;/s0&gt;&lt;s1&gt;Options LibreOffice dialog — User Data page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T184227Z" creationid="olivier-tdf" creationdate="20250309T184227Z">
@@ -3370,6 +3378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier-tdf" creationdate="20250109T194624Z">
         <seg>Após a instalação, para alterar as configurações padrão (opções) no LibreOffice para atender aos requisitos e preferências de trabalho, acesse &lt;f0&gt;Ferramentas &gt; Opções&lt;/f0&gt; na barra de menus (&lt;f1&gt;LibreOffice &gt; Preferências&lt;/f1&gt; no macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After installing a printer on a computer, the general printing options for LibreOffice can be selected to suit the most common printing method that is going to be used in the Print page of the Options LibreOffice dialog (Figure &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T170101Z" creationid="olivier" creationdate="20250312T170101Z">
+        <seg>Na página Imprimir da caixa de diálogo Opções do LibreOffice (Figura &lt;t0&gt;4&lt;/t0&gt;), e após instalar uma impressora no computador, as opções gerais de impressão do LibreOffice podem ser selecionadas para se adequar ao método de impressão mais comum a utilizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7190,6 +7206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click this button to run tests and determine the efficiency of LibreOffice graphics rendering.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165357Z" creationid="olivier" creationdate="20250312T165357Z">
+        <seg>Clique neste botão para executar testes e determinar a eficiência da representação gráfica do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to change to Overwrite mode; click again to return to Insert mode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T103458Z" creationid="timot" creationdate="20250113T103458Z">
@@ -10962,6 +10986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T221419Z" creationid="olivier" creationdate="20250307T221419Z">
         <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Caixa de diálogo Personalizar — Aba Barras de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Options LibreOffice dialog — Print page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165628Z" creationid="olivier" creationdate="20250312T165628Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Caixa de diálogo Opções do LibreOffice — Página Imprimir</seg>
       </tuv>
     </tu>
     <tu>
@@ -20222,6 +20254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options LibreOffice dialog — Print page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165633Z" creationid="olivier" creationdate="20250312T165633Z">
+        <seg>Caixa de diálogo Opções do LibreOffice — Página Imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options LibreOffice dialog — User Data page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T184305Z" creationid="olivier-tdf" creationdate="20250309T184305Z">
@@ -20378,6 +20418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200321Z" creationid="olivier-tdf" creationdate="20250109T200321Z">
         <seg>Descreve as licenças sob as quais o LibreOffice é disponibilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PDF as standard print job format</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172023Z" creationid="olivier" creationdate="20250312T172023Z">
+        <seg>PDF como formato de trabalho de impressão padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -21130,6 +21178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142928Z" creationid="olivier" creationdate="20250223T142928Z">
         <seg>Visualizar páginas e planilhas antes de imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Print</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165641Z" creationid="olivier" creationdate="20250312T165641Z">
+        <seg>Imprimir</seg>
       </tuv>
     </tu>
     <tu>
@@ -21970,6 +22026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134010Z" creationid="olivier-tdf" creationdate="20250303T134010Z">
         <seg>Resultado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results are saved in a log, which is displayed in a pop-up window and can be downloaded.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165435Z" creationid="olivier" creationdate="20250312T165435Z">
+        <seg>Os resultados são salvos em um arquivo de registro, exibido em uma janela pop-up e pode ser baixado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24978,6 +25042,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135537Z" creationid="olivier" creationdate="20250223T135537Z">
         <seg>Especifica a qualidade máxima de impressão em PPP (pontos por polegada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies whether the print settings apply to direct printing or printing to a file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T170124Z" creationid="olivier" creationdate="20250312T170124Z">
+        <seg>Especifica se as configurações de impressão se aplicam à impressão direta ou à impressão num arquivo.</seg>
       </tuv>
     </tu>
     <tu>
