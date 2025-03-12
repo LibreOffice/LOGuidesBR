@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A device is blacklisted when it is buggy or may render graphics with poor quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T161943Z" creationid="olivier" creationdate="20250312T161943Z">
+        <seg>Um dispositivo está na lista negra quando está cheio de bugs ou pode representar gráficos com baixa qualidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A dialog is a special type of window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214224Z" creationid="olivier-tdf" creationdate="20250109T214224Z">
@@ -11358,6 +11366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Font Lists</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T161959Z" creationid="olivier" creationdate="20250312T161959Z">
+        <seg>Listas de fontes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Font Name, Font Size</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T105908Z" creationid="timot" creationdate="20250221T105908Z">
@@ -12434,6 +12450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234915Z" creationid="olivier" creationdate="20250301T234915Z">
         <seg>Por esse motivo, o ODF é &lt;f1&gt;importante&lt;/f1&gt; para agências governamentais, escolas e outras empresas que preferem não ser muito dependentes de nenhum fornecedor de software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Force Skia software rendering</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T161739Z" creationid="olivier" creationdate="20250312T161739Z">
+        <seg>Forçar a representação com software Skia</seg>
       </tuv>
     </tu>
     <tu>
@@ -24382,6 +24406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show preview of fonts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T162023Z" creationid="olivier" creationdate="20250312T162023Z">
+        <seg>Mostrar visualização de fontes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show the suggested word as a tip (hovering over the word) rather than completing the text as you type.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T104438Z" creationid="timot" creationdate="20250210T213830Z">
@@ -32070,6 +32102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When selected — displays the font names shown with an example of the font.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165039Z" creationid="olivier" creationdate="20250312T165039Z">
+        <seg>Quando selecionado — exibe os nomes das fontes mostrados com um exemplo da fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When selected, a transparency does not print.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T141714Z" creationid="olivier" creationdate="20250223T141714Z">
@@ -32506,6 +32546,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194815Z" creationid="olivier-tdf" creationdate="20250109T194815Z">
         <seg>Os usuários do Windows e Linux podem optar por baixar e instalar a Ajuda offline para uso quando não estiverem conectados à Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows and macOS only — enables and disables the use of the 3D graphics language Skia.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T161702Z" creationid="olivier" creationdate="20250312T161702Z">
+        <seg>Somente Windows e macOS — habilita e desabilita o uso da linguagem gráfica 3D Skia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows and macOS only — forces the use of Skia even if the graphics device is blacklisted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T161917Z" creationid="olivier" creationdate="20250312T161917Z">
+        <seg>Somente Windows e macOS — força a utilização do Skia, mesmo que o dispositivo gráfico esteja na lista negra.</seg>
       </tuv>
     </tu>
     <tu>
