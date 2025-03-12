@@ -8702,6 +8702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Depending on bitmap size and the print resolution, a large amount of data may result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172311Z" creationid="olivier" creationdate="20250312T172311Z">
+        <seg>A depender do tamanho do bitmap e da resolução de impressão, uma grande quantidade de dados pode ser gerada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Depending on what you are trying to accomplish, a table or frame might be a better choice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T110126Z" creationid="timot" creationdate="20250224T110126Z">
@@ -12410,6 +12418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T193458Z" creationid="olivier-tdf" creationdate="20250309T193458Z">
         <seg>Para obter mais informações, consulte a Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information, see the following link: &lt;a0&gt;https://www.linuxfoundation.org/collaborate/workgroups/openprinting/pdf_as_standard_print_job_format&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172051Z" creationid="olivier" creationdate="20250312T172051Z">
+        <seg>Para mais informações, consulte o seguinte link: &lt;a0&gt;https://www.linuxfoundation.org/collaborate/workgroups/openprinting/pdf_as_standard_print_job_format&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17742,6 +17758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linux and macOS only — select this option to change the internal print job format from Postscript format to a PDF format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172028Z" creationid="olivier" creationdate="20250312T172028Z">
+        <seg>Somente Linux e macOS — selecione esta opção para alterar o formato interno do trabalho de impressão do formato Postscript para um formato PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linux only — send usage data to help The Document Foundation improve usability of the software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192531Z" creationid="olivier-tdf" creationdate="20250309T192531Z">
@@ -20734,6 +20758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paths</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172404Z" creationid="olivier" creationdate="20250312T172404Z">
+        <seg>Caminhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paul Figueiredo</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215714Z" creationid="timot" creationdate="20250110T215714Z">
@@ -21665,6 +21697,14 @@
         <seg>Reducing the amount of data sent by LibreOffice to the printer increases the print speed because the print files are smaller.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135741Z" creationid="olivier" creationdate="20250223T135741Z">
+        <seg>Reduzir a quantidade de dados enviados pelo LibreOffice para a impressora aumenta a velocidade de impressão porque os arquivos de impressão são menores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reducing the amount of data sent to the printer increases the print speed because the print files are smaller.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172232Z" creationid="olivier" creationdate="20250312T172232Z">
         <seg>Reduzir a quantidade de dados enviados pelo LibreOffice para a impressora aumenta a velocidade de impressão porque os arquivos de impressão são menores.</seg>
       </tuv>
     </tu>
@@ -24994,6 +25034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250310T224052Z" creationid="olivier" creationdate="20250310T224052Z">
         <seg>Especifica se e como o cursor está posicionado nas caixas de diálogo recém-abertas (&lt;f0&gt;botão padrão, centro da caixa de diálogo, sem posicionamento automático&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies that all colors in a document are printed only as grayscale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172201Z" creationid="olivier" creationdate="20250312T172201Z">
+        <seg>Especifica que todas as cores num documento são impressas apenas em escala de cinza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30622,6 +30670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transparencies must be visible to be calculated as bitmaps and sent to the printer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172256Z" creationid="olivier" creationdate="20250312T172256Z">
+        <seg>As transparências devem estar visíveis para serem calculadas como bitmaps e enviadas para a impressora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transparencies must be visible to be calculated by LibreOffice as bitmaps and sent to the printer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T141736Z" creationid="olivier" creationdate="20250223T141736Z">
@@ -31378,6 +31434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203037Z" creationid="olivier-tdf" creationdate="20250109T114116Z">
         <seg>LibreOffice no macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using PDF format has a number of advantages over Postscript.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172140Z" creationid="olivier" creationdate="20250312T172140Z">
+        <seg>Usar o formato PDF tem uma série de vantagens sobre o Postscript.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32210,6 +32274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T133905Z" creationid="olivier-tdf" creationdate="20250303T133905Z">
         <seg>Ao abrir qualquer caixa de diálogo, um elemento ou opção é destacada indicando que o elemento ou opção tem foco nele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When printing a document with transparencies, a dialog opens to enable selection if the transparency is to be printed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172343Z" creationid="olivier" creationdate="20250312T172343Z">
+        <seg>Ao imprimir um documento com transparências, abre-se uma caixa de diálogo para ativar a seleção se a transparência tiver de ser impressa.</seg>
       </tuv>
     </tu>
     <tu>
