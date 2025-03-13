@@ -14310,6 +14310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, this font replacement does not change the font specified in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250313T121634Z" creationid="olivier" creationdate="20250313T121634Z">
+        <seg>Entretanto, esta substituição de fonte não altera a fonte especificada no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, unlike the commands described above, these values are not inserted as fields and will not be updated or &lt;t2/&gt;recalculated later.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210104Z" creationid="olivier" creationdate="20250123T210104Z">
@@ -14474,6 +14482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T213549Z" creationid="timot" creationdate="20250210T213549Z">
         <seg>Se a Completar palavras estiver ativada, o Writer tenta adivinhar qual palavra você está digitando e se oferece para completar aquela palavra para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a document is received from another source it may contain fonts that that are not installed on the computer system being used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250313T121513Z" creationid="olivier" creationdate="20250313T121513Z">
+        <seg>Um documento for recebido de outra fonte pode conter fontes que não estão instaladas no sistema de computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17534,6 +17550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice can substitute any fonts it cannot locate using the fonts listed on the Fonts page when required.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250313T121605Z" creationid="olivier" creationdate="20250313T121605Z">
+        <seg>O LibreOffice pode substituir fontes que não possa localizar por fontes listadas na página Fontes, se necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice comes with an extensive Help system and this can be used as the first line of support.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194807Z" creationid="olivier-tdf" creationdate="20250109T194807Z">
@@ -17946,6 +17970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184048Z" creationid="olivier" creationdate="20250222T184048Z">
         <seg>Lista as impressoras instaladas no computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lists the original font and the font that replaces it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250313T121652Z" creationid="olivier" creationdate="20250313T121652Z">
+        <seg>Lista a fonte original e a fonte que a substitui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21998,6 +22030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Replacement table</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250313T121642Z" creationid="olivier" creationdate="20250313T121642Z">
+        <seg>Tabela de substituição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Replacing data</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225105Z" creationid="olivier" creationdate="20250123T225105Z">
@@ -22926,6 +22966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Always&lt;/f0&gt; to replace both the screen font and the printer font, even if the original font is installed on a computer system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250313T121813Z" creationid="olivier" creationdate="20250313T121813Z">
+        <seg>Selecione &lt;f0&gt;Sempre&lt;/f0&gt; para substituir a fonte da tela e a fonte da impressora, mesmo que a fonte original esteja instalada no computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Bold&lt;/f0&gt;, &lt;f1&gt;Italic&lt;/f1&gt;, or &lt;f2&gt;Bold Italic&lt;/f2&gt; in the &lt;f3&gt;Style&lt;/f3&gt; menu on the &lt;f4&gt;Font&lt;/f4&gt; tab of the Format Cells dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T155655Z" creationid="olivier" creationdate="20250204T155655Z">
@@ -23066,6 +23114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T103608Z" creationid="timot" creationdate="20250204T103608Z">
         <seg>Selecione &lt;f1&gt;Diferenciar maiúsculas de minúsculas&lt;/f1&gt; para encontrar apenas as instâncias que também correspondem ao caso (capitalização).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f1&gt;Screen only&lt;/f1&gt; to replace the screen font only and never replace the font for printing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250313T122928Z" creationid="olivier" creationdate="20250313T122928Z">
+        <seg>Selecione &lt;f1&gt;Somente tela&lt;/f1&gt; para substituir a fonte da tela e nunca substituir a fonte para impressão.</seg>
       </tuv>
     </tu>
     <tu>
