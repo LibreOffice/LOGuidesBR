@@ -2814,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A digital signature requires a personal signing certificate and most operating systems can generate a self-signed certificate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115210Z" creationid="olivier" creationdate="20250314T115210Z">
+        <seg>Uma assinatura digital requer um certificado de assinatura pessoal e a maioria dos sistemas operacionais pode gerar um certificado autoassinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A docked toolbar is attached to the document’s main window, while floating toolbars are independent of the main window and can be moved anywhere on your screen.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172317Z" creationid="tulio" creationdate="20250119T172317Z">
@@ -6002,6 +6010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211455Z" creationid="olivier" creationdate="20250123T220314Z">
         <seg>Clique em &lt;f0&gt;Adicionar&lt;/f0&gt; e a nova lista aparecerá na caixa &lt;f1&gt;Listas&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Certificate&lt;/f0&gt; and select which certificate store to use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115525Z" creationid="olivier" creationdate="20250314T115525Z">
+        <seg>Clique em &lt;f0&gt;Certificado&lt;/f0&gt; e selecione qual repositório de certificados utilizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11678,6 +11694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For Windows, LibreOffice uses the default Windows location for storing and retrieving certificates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115557Z" creationid="olivier" creationdate="20250314T115557Z">
+        <seg>No caso do Windows, o LibreOffice utiliza o local padrão do Windows para armazenar e recuperar certificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For Writer or Calc only, go to &lt;f0&gt;Styles &gt; Manage Styles&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T001621Z" creationid="olivier-tdf" creationdate="20250219T001621Z">
@@ -14434,6 +14458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T120928Z" creationid="olivier-tdf" creationdate="20250117T120928Z">
         <seg>No entanto, uma opção de configuração está disponível para alternar para o uso da forma de ponteiro definida no tema de ícones (normalmente uma cruz gorda).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, a personal certificate issued by an outside agency (after verifying an individual identity) has a higher degree of trust associated with it than does a self-signed certificate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115310Z" creationid="olivier" creationdate="20250314T115310Z">
+        <seg>Entretanto, um certificado pessoal emitido por uma agência externa (após verificar uma identidade individual) tem um grau de confiança mais alto associado a ele do que um certificado autoassinado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17782,6 +17814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice does not provide a secure method of storing these certificates, but it can access certificates that have been saved using other programs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115357Z" creationid="olivier" creationdate="20250314T115357Z">
+        <seg>O LibreOffice não fornece um método seguro de armazenar esses certificados, mas pode acessar certificados salvos utilizando outros programas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice functions can be used by using keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000829Z" creationid="olivier" creationdate="20250303T000829Z">
@@ -19942,6 +19982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the Personalization page of the Options LibreOffice dialog (Figure &lt;t0&gt;8&lt;/t0&gt;), the overall appearance of LibreOffice can be changed using themes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250314T121726Z" creationid="olivier" creationdate="20250314T121726Z">
+        <seg>Na página Personalização da caixa de diálogo Opções do LibreOffice (Figura &lt;t0&gt;8&lt;/t0&gt;), a aparência geral do LibreOffice pode ser alterada usando temas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the Properties deck of the Sidebar, open the Alignment panel (Figure &lt;t0&gt;34&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T012322Z" creationid="olivier" creationdate="20250124T012322Z">
@@ -20582,6 +20630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Optionally select a Time Stamping Authority (TSA) URL for PDF documents created by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115718Z" creationid="olivier" creationdate="20250314T115718Z">
+        <seg>Opcionalmente, selecione a URL de uma Autoridade de carimbo de tempo para documentos PDF criados pelo LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Optionally, you can save the whole file instead by checking the &lt;f0&gt;Automatically save the document too&lt;/f0&gt; checkbox.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232555Z" creationid="olivier" creationdate="20250220T232555Z">
@@ -21178,6 +21234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T124500Z" creationid="olivier" creationdate="20250313T124500Z">
         <seg>Salvar permanentemente as senhas de conexões internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personalization</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115807Z" creationid="olivier" creationdate="20250314T115807Z">
+        <seg>Personalização</seg>
       </tuv>
     </tu>
     <tu>
@@ -22050,6 +22114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215239Z" creationid="olivier-tdf" creationdate="20250109T215239Z">
         <seg>Leia as licenças: &lt;a0&gt;https://www.mozilla.org/MPL/2.0/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recipients of PDF documents with a trusted timestamp can verify when the document was digitally or electronically signed, as well as verify that the document was not altered after the date the timestamp vouches for.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115802Z" creationid="olivier" creationdate="20250314T115802Z">
+        <seg>Os destinatários de documentos PDF com um carimbo de data/hora confiável podem verificar quando o documento foi assinado digital ou eletronicamente, bem como verificar se o documento não foi alterado após a data em que o carimbo de data/hora estabeleceu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26002,6 +26074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T004917Z" creationid="tulio" creationdate="20250116T004917Z">
         <seg>Dica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TSAs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115617Z" creationid="olivier" creationdate="20250314T115617Z">
+        <seg>Autoridades de carimbo de tempo</seg>
       </tuv>
     </tu>
     <tu>
