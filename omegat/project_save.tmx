@@ -3222,10 +3222,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190627Z" creationid="olivier" creationdate="20250316T190627Z">
+        <seg>Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add (append) a space automatically after an accepted word.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T213810Z" creationid="timot" creationdate="20250210T213810Z">
         <seg>Acrescente um espaço automaticamente após uma palavra aceita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add a path to the root folder of a JRE on a computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190659Z" creationid="olivier" creationdate="20250316T190659Z">
+        <seg>Adiciona um caminho para a pasta raiz de um JRE em um computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4998,6 +5014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By adding a JRE to the $PATH variable.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190506Z" creationid="olivier" creationdate="20250316T190506Z">
+        <seg>Adicionando um JRE à variável $PATH.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, &lt;f1&gt;All commands &lt;/f1&gt;is displayed as the category.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T213602Z" creationid="olivier" creationdate="20250307T213602Z">
@@ -5114,6 +5138,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T133556Z" creationid="olivier" creationdate="20250217T133556Z">
         <seg>Normalmente, a barra lateral está no lado direito do espaço de trabalho de um módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By providing the configuration file for the computer operating system in the folder &lt;f2&gt;&lt;instdir&gt;/presets/config&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190616Z" creationid="olivier" creationdate="20250316T190616Z">
+        <seg>Fornecendo o arquivo de configuração para o sistema operacional do computador na pasta&lt;f2&gt;&lt;instdir&gt;/presets/config&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By setting the environment variable JAVA_HOME.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190457Z" creationid="olivier" creationdate="20250316T190457Z">
+        <seg>Definindo a variável de ambiente JAVA_HOME.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6114,6 +6154,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T183203Z" creationid="olivier-tdf" creationdate="20250309T183203Z">
         <seg>Escolhendo opções para se adequar à maneira de trabalhar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Class Path</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191008Z" creationid="olivier" creationdate="20250316T191008Z">
+        <seg>Caminho da classe</seg>
       </tuv>
     </tu>
     <tu>
@@ -9970,6 +10018,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195513Z" creationid="timot" creationdate="20250111T195513Z">
         <seg>Incorporação ou vinculação de imagens, equações, planilhas e outros objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable experimental features (may be unstable)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191353Z" creationid="olivier" creationdate="20250316T191353Z">
+        <seg>Ativa funcionalidades experimentais (pode provocar instabilidade)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20830,6 +20886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens the Class Path dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191014Z" creationid="olivier" creationdate="20250316T191014Z">
+        <seg>Abre a caixa de diálogo Caminho da classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens the Enter Title dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T140057Z" creationid="olivier-tdf" creationdate="20250303T140057Z">
@@ -20850,6 +20914,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134709Z" creationid="olivier-tdf" creationdate="20250303T134709Z">
         <seg>Abre a barra de ferramentas Localizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the Java Start Parameters dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190959Z" creationid="olivier" creationdate="20250316T190959Z">
+        <seg>Abre a caixa de diálogo Parâmetros de lançamento do Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20962,6 +21034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183935Z" creationid="olivier" creationdate="20250222T183935Z">
         <seg>Opção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Optional Features</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191037Z" creationid="olivier" creationdate="20250316T191037Z">
+        <seg>Funcionalidades opcionais</seg>
       </tuv>
     </tu>
     <tu>
@@ -21474,6 +21554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T101032Z" creationid="timot" creationdate="20250222T101032Z">
         <seg>Estilos de parágrafo, como Início da lista 1 e Final da lista 1, permitem ajustar propriedades específicas (como o espaço entre parágrafos) para itens no início ou no final da lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parameters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190828Z" creationid="olivier" creationdate="20250316T190828Z">
+        <seg>Parâmetros</seg>
       </tuv>
     </tu>
     <tu>
@@ -24982,6 +25070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option to enable features that are not yet complete, or contain known bugs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191824Z" creationid="olivier" creationdate="20250316T191824Z">
+        <seg>Selecione esta opção para ativar recursos que ainda não estão completos ou contêm bugs conhecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option to print the presentation double sided if the printer selected is capable of double sided printing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150104Z" creationid="olivier" creationdate="20250223T150104Z">
@@ -27790,6 +27886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default JRE of the operating system can be overridden with one of the following alternatives:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190446Z" creationid="olivier" creationdate="20250316T190446Z">
+        <seg>O JRE padrão do sistema operacional pode ser substituído por uma das seguintes alternativas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default controls for other modules may vary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150459Z" creationid="tulio" creationdate="20250119T150459Z">
@@ -28482,6 +28586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125742Z" creationid="olivier-tdf" creationdate="20250114T125742Z">
         <seg>As partes desta janela são descritas abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The path is set in the Select Path dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190820Z" creationid="olivier" creationdate="20250316T190820Z">
+        <seg>O caminho é definido na caixa de diálogo Selecionar caminho.</seg>
       </tuv>
     </tu>
     <tu>
