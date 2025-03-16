@@ -3382,6 +3382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T184723Z" creationid="olivier" creationdate="20250316T184723Z">
+        <seg>Avançado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advances focus to the next section or element of a dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134332Z" creationid="olivier-tdf" creationdate="20250303T134332Z">
@@ -4426,6 +4434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135718Z" creationid="olivier-tdf" creationdate="20250303T135718Z">
         <seg>Aplica o atributo Sublinhado aos caracteres e texto selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Applies the high contrast settings of the operating system to page previews.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T184651Z" creationid="olivier" creationdate="20250316T184651Z">
+        <seg>Aplica as configurações de alto-contraste do sistema operacional a visualizações de página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9254,6 +9270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displays fonts in LibreOffice using the system color settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T184529Z" creationid="olivier" creationdate="20250316T184529Z">
+        <seg>Exibe fontes no LibreOffice usando as configurações de cores do sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Displays formatting styles for headers, footers, footnotes, endnotes, tables, and captions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000255Z" creationid="olivier-tdf" creationdate="20250219T000255Z">
@@ -9890,6 +9914,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000734Z" creationid="olivier" creationdate="20250303T000734Z">
         <seg>Atribua teclas diferentes no LibreOffice usando &lt;t0/&gt;&lt;f1&gt;Ferramentas &gt; Personalizar &gt; Teclado&lt;/f1&gt; na barra de menus ou no sistema operacional do computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Either undo the changes manually, or click &lt;f0&gt;Cancel&lt;/f0&gt; and reopen the Options LibreOffice dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185228Z" creationid="olivier" creationdate="20250316T185228Z">
+        <seg>Desfaça as alterações manualmente ou clique em &lt;f0&gt;Cancelar&lt;/f0&gt; e reabra a caixa de diálogo Opções do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14422,6 +14454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>High contrast</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T184310Z" creationid="olivier" creationdate="20250316T184310Z">
+        <seg>Alto-contraste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>High print quality</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135606Z" creationid="olivier" creationdate="20250223T135606Z">
@@ -14862,6 +14902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If LibreOffice finds one or more JREs on a computer, it displays them in the list box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185619Z" creationid="olivier" creationdate="20250316T185619Z">
+        <seg>Se o LibreOffice encontrar um ou mais JREs em um computador, ele os exibirá na caixa de listagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If LibreOffice prints the pages in the wrong orientation, select this option and print the document again.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154822Z" creationid="olivier" creationdate="20250223T154822Z">
@@ -14882,6 +14930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T213549Z" creationid="timot" creationdate="20250210T213549Z">
         <seg>Se a Completar palavras estiver ativada, o Writer tenta adivinhar qual palavra você está digitando e se oferece para completar aquela palavra para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a JRE or JDK is installed after installing LibreOffice, or if more than one JRE is installed on a computer, use &lt;f0&gt;Java Options&lt;/f0&gt; to select the JRE for LibreOffice to use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185441Z" creationid="olivier" creationdate="20250316T185441Z">
+        <seg>Se um JRE ou JDK for instalado após a instalação do LibreOffice, ou se mais de um JRE estiver instalado em um computador, use &lt;f0&gt;Opções Java&lt;/f0&gt; para selecionar o JRE para o LibreOffice usar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17262,6 +17318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It also specifies whether to use experimental (unstable) features such as macro recording.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185011Z" creationid="olivier" creationdate="20250316T185011Z">
+        <seg>Ele também especifica se deve usar recursos experimentais (instáveis), como gravação de macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can also use PostgreSQL, dBASE, Microsoft Access, MySQL, Oracle, or any ODBC compliant or JDBC compliant database.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191914Z" creationid="olivier-tdf" creationdate="20250109T191914Z">
@@ -17570,6 +17634,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214238Z" creationid="olivier-tdf" creationdate="20250109T214238Z">
         <seg>Seu objetivo é informar, ou solicitar entrada, ou ambos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Java Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185424Z" creationid="olivier" creationdate="20250316T185424Z">
+        <seg>Opções do Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -18286,6 +18358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linux users may need to get a JRE from the distribution software repository if it not already installed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185043Z" creationid="olivier" creationdate="20250316T185043Z">
+        <seg>Os usuários do Linux podem precisar obter um JRE do repositório de software de distribuição, se ainda não estiver instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linux users will also find LibreOffice included free in many of the latest distributions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194421Z" creationid="olivier-tdf" creationdate="20250109T194421Z">
@@ -18470,6 +18550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MacOS users need to install Oracle Java Development Kit (JDK), not just JRE.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185056Z" creationid="olivier" creationdate="20250316T185056Z">
+        <seg>Os usuários do MacOS precisam instalar o Oracle Java Development Kit (JDK), não apenas o JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Macro Security</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T124718Z" creationid="olivier" creationdate="20250313T124718Z">
@@ -18570,6 +18658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203236Z" creationid="olivier" creationdate="20250123T203236Z">
         <seg>Certifique-se de que a aba &lt;f0&gt;Números&lt;/f0&gt; esteja selecionada e selecione &lt;f1&gt;Texto&lt;/f1&gt; na lista Categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make sure to install a JRE that is compatible with the LibreOffice architecture being used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185242Z" creationid="olivier" creationdate="20250316T185242Z">
+        <seg>Certifique-se de instalar um JRE compatível com a arquitetura do LibreOffice que está sendo usada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20114,6 +20210,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T123616Z" creationid="olivier" creationdate="20250314T123616Z">
         <seg>Na página Acessibilidade da caixa de diálogo Opções do LibreOffice (Figura &lt;t0&gt;10&lt;/t0&gt;), selecione opções de acessibilidade, incluindo, por exemplo, permitir gráficos animados ou texto, algumas opções para exibição de alto contraste e uma maneira de alterar a fonte da interface do usuário do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the Advanced page of the Options LibreOffice dialog (Figure &lt;t0&gt;Erro: Origem da referência não encontrada&lt;/t0&gt;), the support options are specified for Java applications in LibreOffice, including which Java Runtime Environment (JRE) to use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T184959Z" creationid="olivier" creationdate="20250316T184959Z">
+        <seg>Na página Avançado da caixa de diálogo Opções do LibreOffice (Figura &lt;t0&gt;Erro: Origem da referência não encontrada&lt;/t0&gt;), as opções de suporte para aplicativos Java no LibreOffice são especificadas, incluindo qual Java Runtime Environment (JRE) utilizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24158,6 +24262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select one of the JREs listed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185655Z" creationid="olivier" creationdate="20250316T185655Z">
+        <seg>Selecione um dos JREs listados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select one of the predefined formats in the &lt;f0&gt;Format&lt;/f0&gt; list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210810Z" creationid="olivier-tdf" creationdate="20250128T210810Z">
@@ -25862,6 +25974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some options cannot be reset once edited.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185201Z" creationid="olivier" creationdate="20250316T185201Z">
+        <seg>Algumas opções não podem ser redefinidas depois de editadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some options vary with the computer operating system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T194723Z" creationid="olivier-tdf" creationdate="20250309T194723Z">
@@ -26830,6 +26950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That is 64-bit JRE for 64-bit LibreOffice and 32-bit JRE for 32-bit LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185329Z" creationid="olivier" creationdate="20250316T185329Z">
+        <seg>Isso é, JRE de 64 bits para LibreOffice de 64 bits e JRE de 32 bits para LibreOffice de 32 bits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That is, the top tool in the &lt;f1&gt;Visible Buttons&lt;/f1&gt; list is positioned at the left end of the toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T141938Z" creationid="tulio" creationdate="20250211T141938Z">
@@ -27450,6 +27578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T165442Z" creationid="olivier" creationdate="20250222T165442Z">
         <seg>As categorias são específicas para cada módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The cell background color is ignored then.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T184300Z" creationid="olivier" creationdate="20250316T184300Z">
+        <seg>A cor de fundo da célula é ignorada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29646,6 +29782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This option only affects the screen display.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T184547Z" creationid="olivier" creationdate="20250316T184547Z">
+        <seg>Esta opção afeta apenas a tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This option replaces one or two hyphens, under certain conditions, with the corresponding dash.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213906Z" creationid="timot" creationdate="20250205T160803Z">
@@ -30594,6 +30738,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T193818Z">
         <seg>Para obter uma representação visual rápida dos dados contidos numa tabela dinâmica, você pode gerar um gráfico dinâmico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To get the required JDK, select the macOS option at &lt;a0&gt;https://www.oracle.com/java/technologies/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185110Z" creationid="olivier" creationdate="20250316T185110Z">
+        <seg>Para obter o JDK necessário, selecione a opção macOS em &lt;a0&gt;https://www.oracle.com/java/technologies/downloads/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32142,6 +32294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use automatic font color for screen display</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T184453Z" creationid="olivier" creationdate="20250316T184453Z">
+        <seg>Utilizar a cor da fonte automática para exibição na tela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use hardware acceleration</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T160112Z" creationid="olivier" creationdate="20250312T160112Z">
@@ -32170,6 +32330,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T112228Z" creationid="timot" creationdate="20250221T112228Z">
         <seg>Use estilos de parágrafo Numeração 1, Numeração 2, Numeração 3, etc, para criar listas ordenadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use system colors for page previews</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T184637Z" creationid="olivier" creationdate="20250316T184637Z">
+        <seg>Utilizar as cores do sistema para visualizações de página</seg>
       </tuv>
     </tu>
     <tu>
@@ -33902,10 +34070,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Windows users have a suitable Java Runtime Environment (JRE) already installed on their machines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185027Z" creationid="olivier" creationdate="20250316T185027Z">
+        <seg>Os usuários do Windows têm um Java Runtime Environment (JRE) adequado já instalado em suas máquinas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Windows x86_64 (Windows &lt;f0&gt;8&lt;/f0&gt; or newer required)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194119Z" creationid="olivier-tdf" creationdate="20250109T194119Z">
         <seg>Windows x86_64 (Windows &lt;f0&gt;8&lt;/f0&gt; ou mais recente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With Automatic and high contrast mode selected, it switches LibreOffice into high contrast mode when the system background color is very dark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T184424Z" creationid="olivier" creationdate="20250316T184424Z">
+        <seg>Com o modo Automático e de alto contraste selecionado, muda-se o LibreOffice para o modo de alto contraste quando a cor de fundo do sistema é muito escura.</seg>
       </tuv>
     </tu>
     <tu>
