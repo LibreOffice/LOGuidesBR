@@ -3574,6 +3574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After loading the VBA code, LibreOffice inserts the statement Option VBASupport 1 in every Basic module to enable a limited support for VBA statements, functions and objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161207Z" creationid="olivier" creationdate="20250318T161207Z">
+        <seg>Após carregar o código do VBA, o LibreOffice insere a instrução Option VBASupport 1 em cada módulo BASIC para permitir um suporte limitado para instruções, funções e objetos do VBA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After making adjustments and changes to keyboard shortcut assignments, click on &lt;f0&gt;Save&lt;/f0&gt; at the right side of the Customize dialog to open the file browser for Save Keyboard Configuration (example shown in Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T205053Z" creationid="olivier" creationdate="20250308T000804Z">
@@ -10734,6 +10742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Executable code</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161026Z" creationid="olivier" creationdate="20250318T161026Z">
+        <seg>Código executável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exits LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135207Z" creationid="olivier-tdf" creationdate="20250303T135207Z">
@@ -12498,6 +12514,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T133508Z" creationid="olivier-tdf" creationdate="20250120T133508Z">
         <seg>Por exemplo, se estiver atualmente na primeira guia da planilha, &lt;f7&gt;Ctrl+Page Up&lt;/f7&gt; se moverá para a última aba da planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if the document contains Microsoft Basic code and the document is saved in OpenDocument format, a warning is displayed stating that Microsoft Basic code will not be saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T174602Z" creationid="olivier" creationdate="20250318T174602Z">
+        <seg>Por exemplo, se o documento contiver o código do Microsoft BASIC e o documento for salvo no formato OpenDocument, será exibido um aviso informando que o código do Microsoft BASIC não será salvo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15614,6 +15638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If not selected, the VBA code is commented out so it can be inspected, but not run.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161137Z" creationid="olivier" creationdate="20250318T161137Z">
+        <seg>Se não for selecionado, o código VBA é comentado para que possa ser inspecionado, mas não executado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If not, you can define the remote server settings and protocols in the Remote Files dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232151Z" creationid="olivier" creationdate="20250220T232151Z">
@@ -15666,6 +15698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142431Z" creationid="olivier" creationdate="20250223T142431Z">
         <seg>Ao selecionar, os gradientes são impressos com qualidade reduzida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If selected, the Visual Basic for Applications (VBA) code is loaded ready to be executed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161121Z" creationid="olivier" creationdate="20250318T161121Z">
+        <seg>Se selecionado, carrega o código do Visual Basic for Applications (VBA) pronto para ser executado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23942,6 +23982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save original Basic code</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161228Z" creationid="olivier" creationdate="20250318T161228Z">
+        <seg>Salvar código BASIC original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save the spreadsheet in Calc spreadsheet file format (*.ods), for backup purposes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T214531Z" creationid="olivier-tdf" creationdate="20250117T215430Z">
@@ -26954,6 +27002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151745Z" creationid="olivier" creationdate="20250318T151745Z">
         <seg>Especifica para abrir a caixa de diálogo Propriedades quando salvar o arquivo pela primeira vez e sempre que o comando &lt;f0&gt;Salvar como&lt;/f0&gt; for selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies that the original Microsoft Basic code contained in the document is held in a special internal memory for as long as the document remains loaded in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161308Z" creationid="olivier" creationdate="20250318T161308Z">
+        <seg>Especifica que o código Microsoft BASIC original contido no documento ficará mantido numa memória interna especial enquanto o documento permanecer carregado no LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34594,6 +34650,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010543Z" creationid="olivier" creationdate="20250318T010543Z">
         <seg>Ao salvar um documento, essas configurações são salvas com ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When saving in a format other than Microsoft Format, the Microsoft Basic Code is not saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161843Z" creationid="olivier" creationdate="20250318T161843Z">
+        <seg>Ao salvar em um formato diferente do formato  Microsoftt, o código Microsoft BASIC não é salvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When saving in another format, the Basic code from the LibreOffice Basic IDE is not saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161011Z" creationid="olivier" creationdate="20250318T161011Z">
+        <seg>Ao salvar em outro formato, o código BASIC do LibreOffice BASIC IDE não é salvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When saving the document in Microsoft format, the Microsoft Basic code is saved again with the code in an unchanged form.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161757Z" creationid="olivier" creationdate="20250318T161757Z">
+        <seg>Ao salvar o documento no formato Microsoft, o código Microsoft BASIC é salvo novamente com o código num formato inalterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When saving the document in OpenDocument format, the Basic code is saved as well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T160948Z" creationid="olivier" creationdate="20250318T160948Z">
+        <seg>Ao salvar o documento no formato OpenDocument, salva também o código BASIC.</seg>
       </tuv>
     </tu>
     <tu>
