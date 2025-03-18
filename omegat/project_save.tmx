@@ -2126,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options Load/Save dialog — General page&lt;/s0&gt;&lt;s1&gt;Options Load/Save dialog — General page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152230Z" creationid="olivier" creationdate="20250318T152230Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Opções Carregar/Salvar — Página Geral&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Opções Carregar/Salvar — Página Geral&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Page Style dialog – Sheet tab&lt;/s0&gt;&lt;s1&gt;Page Style dialog – Sheet tab&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195350Z" creationid="olivier-tdf" creationdate="20250209T195350Z">
@@ -2734,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t3/&gt;Information about automatic updating for links, field functions, and charts.&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151108Z" creationid="olivier" creationdate="20250318T151108Z">
+        <seg>&lt;t3/&gt;Informações sobre atualização automática para links, funções de campo e gráficos.&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;ud0&gt;Getting Started Guide&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;24.8&lt;/ud2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T213150Z" creationid="tdf" creationdate="20241226T213150Z">
@@ -2762,6 +2778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="tulio" creationdate="20250116T011108Z">
         <seg>Um módulo do LibreOffice ficará ativo se você clicar duas vezes no nome de um documento ODF numa pasta ou navegador de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A backup copy uses the extension &lt;f0&gt;BAK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152111Z" creationid="olivier" creationdate="20250318T152111Z">
+        <seg>Uma cópia de backup utiliza a extensão &lt;f0&gt;BAK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4086,6 +4110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Always create backup copy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151943Z" creationid="olivier" creationdate="20250318T151943Z">
+        <seg>Sempre criar cópia de backup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amanda Labby</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215719Z" creationid="timot" creationdate="20250110T215719Z">
@@ -4706,6 +4738,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212316Z" creationid="olivier" creationdate="20250123T212316Z">
         <seg>Ferramenta Autoentrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AutoRecovery saves information required to restore all open documents if LibreOffice crashes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151512Z" creationid="olivier" creationdate="20250318T151512Z">
+        <seg>A autorrecuperação salva as informações necessárias para restaurar todos os documentos abertos se o LibreOffice falhar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10014,6 +10054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Edit document properties before saving</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151632Z" creationid="olivier" creationdate="20250318T151632Z">
+        <seg>Editar propriedades do documento antes de salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Edit the replacement table for automatically correcting or replacing words or abbreviations.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T211007Z" creationid="olivier" creationdate="20250123T211007Z">
@@ -10434,6 +10482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T112941Z" creationid="timot" creationdate="20250224T112941Z">
         <seg>Cada página no Writer é baseada em um estilo de página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every time LibreOffice creates a backup copy, the previous backup copy is replaced.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152044Z" creationid="olivier" creationdate="20250318T152044Z">
+        <seg>Toda vez que o LibreOffice criar uma cópia de backup, a cópia anterior é substituída.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10906,6 +10962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135420Z" creationid="olivier" creationdate="20250223T135406Z">
         <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: Caixa de diálogo Opções-LibreOffice-Imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Options Load/Save dialog — General page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152245Z" creationid="olivier" creationdate="20250318T152245Z">
+        <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: Caixa de diálogo Opções Carregar/Salvar — Página Geral</seg>
       </tuv>
     </tu>
     <tu>
@@ -15262,6 +15326,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If disabled, the default printer will be used to print the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151331Z" creationid="olivier" creationdate="20250318T151331Z">
+        <seg>Se desativada, a impressora padrão será usada para imprimir o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If enabled, the printer settings are loaded with the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151245Z" creationid="olivier" creationdate="20250318T151245Z">
+        <seg>Quando ativado, as configurações da impressora são carregadas com o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it is difficult to understand what an option does, LibreOffice recommends leaving the option on its default setting unless instructions in this user guide recommend changing the setting.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194703Z" creationid="olivier-tdf" creationdate="20250109T194703Z">
@@ -15770,6 +15850,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T134301Z" creationid="olivier-tdf" creationdate="20250120T134301Z">
         <seg>Se for esse o caso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this option is not selected, the following user-specific settings still apply:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151035Z" creationid="olivier" creationdate="20250318T151035Z">
+        <seg>Caso esta opção não seja selecionada, as seguintes configurações específicas do usuário ainda se aplicam:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16622,6 +16710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In adition to the AutoRecovery information option, LibreOffice can also automatically save the document in the given time interval.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151559Z" creationid="olivier" creationdate="20250318T151559Z">
+        <seg>Além da opção de informações de autorrecuperação, o LibreOffice também pode salvar automaticamente o documento no intervalo de tempo determinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In cases where you do not want the hyphen to appear at the end of a line, for example in a number such as 123‑4567, you can press &lt;f0&gt;Ctrl+Shift+minus sign&lt;/f0&gt; or use &lt;f1&gt;Insert &gt; Formatting Mark &gt; Insert non-breaking hyphen&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="timot" creationdate="20250205T160544Z">
@@ -17170,6 +17266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204821Z" creationid="olivier-tdf" creationdate="20250109T204821Z">
         <seg>Informações sobre redes sociais&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information about working with Asian character formats.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151117Z" creationid="olivier" creationdate="20250318T151117Z">
+        <seg>Informações sobre como trabalhar com formatos de caracteres asiáticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18730,6 +18834,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T193739Z" creationid="olivier-tdf" creationdate="20250309T193739Z">
         <seg>Carregar o LibreOffice durante a inicialização do sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load printer settings with the document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151227Z" creationid="olivier" creationdate="20250318T151227Z">
+        <seg>Carregar configurações da impressora com o documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -21446,6 +21558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options Load/Save dialog — General page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152250Z" creationid="olivier" creationdate="20250318T152250Z">
+        <seg>Caixa de diálogo Opções Carregar/Salvar — Página Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options for High Contrast Appearance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T183554Z" creationid="olivier" creationdate="20250316T183554Z">
@@ -23630,6 +23750,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save AutoRecovery information every __ minutes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151407Z" creationid="olivier" creationdate="20250318T151407Z">
+        <seg>Salvar informações do autorrecuperação a cada __ minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save URLs relative to file system/Save URLs relative to the Internet</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152326Z" creationid="olivier" creationdate="20250318T152326Z">
+        <seg>Salvar URLs em relação ao sistema de arquivos/Salvar URLs em relação à Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save and delete color schemes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T122742Z" creationid="olivier" creationdate="20250314T122706Z">
@@ -23674,6 +23810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T122947Z" creationid="olivier" creationdate="20250314T122947Z">
         <seg>Salva as configurações atuais como um esquema de cores que pode ser recarregado posteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saves the previous version of a document as a backup copy whenever a document is saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152011Z" creationid="olivier" creationdate="20250318T152011Z">
+        <seg>Salva a versão anterior de um documento como uma cópia de backup sempre que salvar um documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24394,6 +24538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121140Z" creationid="olivier" creationdate="20250121T121140Z">
         <seg>Caixa Selecionar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select AutoRecovery and the time period for how often the information used by the AutoRecovery process is saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151441Z" creationid="olivier" creationdate="20250318T151441Z">
+        <seg>Selecione a autorrecuperação e o período de tempo para a frequência com que as informações usadas pelo processo de autorrecuperação são salvas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25782,6 +25934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Setting this option makes recovering a document after a system crash easier.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151528Z" creationid="olivier" creationdate="20250318T151528Z">
+        <seg>Definir esta opção facilita a recuperação de um documento após uma falha do sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Setting up and customizing LibreOffice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194606Z" creationid="olivier-tdf" creationdate="20250109T114052Z">
@@ -25802,6 +25962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T133742Z" creationid="olivier" creationdate="20250223T133742Z">
         <seg>Configurações para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Settings in &lt;f0&gt;File &gt; Print &gt; Options&lt;/f0&gt;.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151046Z" creationid="olivier" creationdate="20250318T151046Z">
+        <seg>Configurações em &lt;f0&gt;Arquivo &gt; Imprimir &gt; Opções&lt;/f0&gt;.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26526,6 +26694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spacing options for paragraphs before text tables.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151057Z" creationid="olivier" creationdate="20250318T151057Z">
+        <seg>Opções de espaçamento para parágrafos antes de tabelas de texto.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Special Styles</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000247Z" creationid="olivier-tdf" creationdate="20250219T000247Z">
@@ -26578,6 +26754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142553Z" creationid="olivier" creationdate="20250223T142553Z">
         <seg>Especifica que os gradientes são impressos somente numa única cor intermediária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies that the Properties dialog opens when a file is saved for the first time and every time &lt;f0&gt;Save As&lt;/f0&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151745Z" creationid="olivier" creationdate="20250318T151745Z">
+        <seg>Especifica para abrir a caixa de diálogo Propriedades quando salvar o arquivo pela primeira vez e sempre que o comando &lt;f0&gt;Salvar como&lt;/f0&gt; for selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28158,6 +28342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current printer settings are stored with the document whether or not this option is selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151340Z" creationid="olivier" creationdate="20250318T151340Z">
+        <seg>As configurações atuais da impressora são armazenadas com o documento, independentemente de essa opção estar selecionada ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cursor is placed at the end of the content in the cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225756Z" creationid="olivier" creationdate="20250123T225756Z">
@@ -28194,6 +28386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135401Z" creationid="olivier" creationdate="20250305T135401Z">
         <seg>Os menus e barras de ferramentas personalizados são criados num documento e o documento é salvo como um modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The data source linked to the document and its view are always loaded with the document, whether or not this option is selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151133Z" creationid="olivier" creationdate="20250318T151133Z">
+        <seg>A fonte de dados vinculada ao documento e sua visualização são sempre carregadas com o documento, independentemente de essa opção estar selecionada ou não.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29942,6 +30142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can cause a document to be printed on a distant printer (perhaps in an office setting).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151307Z" creationid="olivier" creationdate="20250318T151307Z">
+        <seg>Isso pode fazer com que um documento seja impresso em uma impressora distante (talvez em um ambiente de escritório).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This chapter describes some common customizations that can be carried out, as follows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134902Z" creationid="olivier" creationdate="20250305T134902Z">
@@ -30762,6 +30970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T160218Z" creationid="olivier" creationdate="20250204T160218Z">
         <seg>Para alterar o alinhamento horizontal do parágrafo, siga um destes procedimentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change the location of the backup copy, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; Paths&lt;/f1&gt;) and then enter a new path for the backup file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152133Z" creationid="olivier" creationdate="20250318T152133Z">
+        <seg>Para alterar o local da cópia de backup, acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Caminhos&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; LibreOffice &gt; Caminhos&lt;/f1&gt;) e, em seguida, insira um novo caminho para o arquivo de backup.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31618,6 +31834,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T010248Z" creationid="tulio" creationdate="20250116T010248Z">
         <seg>Para fixar um documento no centro de partida para que ele esteja sempre visível, passe o mouse sobre o documento correspondente e clique no ícone de alfinete no canto superior esquerdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To prevent this happening, manually change the printer in the Print dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151315Z" creationid="olivier" creationdate="20250318T151315Z">
+        <seg>Para evitar que isso aconteça, altere manualmente a impressora na caixa de diálogo Imprimir.</seg>
       </tuv>
     </tu>
     <tu>
