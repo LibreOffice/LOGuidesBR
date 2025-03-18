@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A LibreOffice document contains settings that are read from a computer system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010510Z" creationid="olivier" creationdate="20250318T010510Z">
+        <seg>Um documento do LibreOffice contém configurações que são lidas a partir de um sistema de computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A LibreOffice module will become active if you double-click the filename of an ODF document in a folder, or file browser.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="tulio" creationdate="20250116T011108Z">
@@ -12814,6 +12822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on OpenCL, visit &lt;a0&gt;https://www.khronos.org/opencl/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010052Z" creationid="olivier" creationdate="20250318T010052Z">
+        <seg>Para mais informações sobre o OpenCL, visite &lt;a0&gt;https://www.khronos.org/opencl/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on Security Options and Warnings, see LibreOffice Help: &lt;a1&gt;https://help.libreoffice.org/7.4/en-GB/text/shared/optionen/securityoptionsdialog.html&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T124120Z" creationid="olivier" creationdate="20250313T124120Z">
@@ -15530,6 +15546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215347Z" creationid="olivier-tdf" creationdate="20250109T215347Z">
         <seg>Se os recursos do LibreOffice que exigem Java forem usados, é importante que a edição correta de 32 bits ou 64 bits corresponda à versão instalada do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the Options Load/Save dialog is not already open, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; Load/Save&lt;/f1&gt;) on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010347Z" creationid="olivier" creationdate="20250318T010347Z">
+        <seg>Se a caixa de diálogo Opções Carregar/Salvar ainda não estiver aberta, acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; Carregar/Salvar&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; Carregar/Salvar&lt;/f1&gt;) na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18694,10 +18718,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Load</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010426Z" creationid="olivier" creationdate="20250318T010426Z">
+        <seg>Carregar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Load LibreOffice during system start-up</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T193739Z" creationid="olivier-tdf" creationdate="20250309T193739Z">
         <seg>Carregar o LibreOffice durante a inicialização do sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load user-specific settings with the document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010449Z" creationid="olivier" creationdate="20250318T010449Z">
+        <seg>Carrega as configurações específicas do usuário com o documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading and saving documents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010159Z" creationid="olivier" creationdate="20250318T010159Z">
+        <seg>Carregar e salvar documentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -20462,6 +20510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the General page of the Options Load/Save dialog (Figure &lt;t0&gt;12&lt;/t0&gt;), the default settings for saving documents and default file formats can be selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010415Z" creationid="olivier" creationdate="20250318T010415Z">
+        <seg>Na página Geral da caixa de diálogo Opções Carregar/Salvar (Figura &lt;t0&gt;12&lt;/t0&gt;), as configurações padrão para salvar documentos e formatos de arquivo padrão podem ser selecionadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the Keyboard page, find the shortcut available in all LibreOffice modules by selecting &lt;f0&gt;LibreOffice&lt;/f0&gt; at the upper right of the dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T235232Z" creationid="olivier" creationdate="20250307T235232Z">
@@ -20914,6 +20970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T005949Z" creationid="olivier" creationdate="20250318T005949Z">
         <seg>OpenCL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenCL (Open Computing Language) greatly improves speed and responsiveness for a wide spectrum of applications in numerous market categories from gaming and entertainment to scientific and medical software.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010031Z" creationid="olivier" creationdate="20250318T010031Z">
+        <seg>O OpenCL (Open Computing Language) melhora muito a velocidade e a capacidade de resposta para um amplo espectro de aplicações em várias categorias de mercado, desde jogos e entretenimento até software científico e médico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21394,6 +21458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T213744Z" creationid="timot" creationdate="20250210T213744Z">
         <seg>As opções para personalizar a conclusão de palavras na caixa de diálogo Autocorreção incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options for loading and saving documents can be selected in the Options Load/Save dialog to suit working requirements on a computer system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010302Z" creationid="olivier" creationdate="20250318T010302Z">
+        <seg>As opções para carregar e salvar documentos podem ser selecionadas na caixa de diálogo Opções Carregar/Salvar para atender aos requisitos de trabalho num sistema de computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25278,6 +25350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option so that when a document loads, it ignores the stored settings in favor of the settings on the computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010613Z" creationid="olivier" creationdate="20250318T010613Z">
+        <seg>Selecione esta opção para que, quando um documento for carregado, ele ignore as configurações armazenadas em favor das configurações no computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option to apply any of the above changes and restart LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T234038Z" creationid="olivier-tdf" creationdate="20250224T234038Z">
@@ -28042,6 +28122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T233721Z" creationid="olivier" creationdate="20250301T233721Z">
         <seg>A comunidade opera internacionalmente em todos os fusos horários e em muitos idiomas, ligada através da internet em &lt;a0&gt;www.libreoffice.org&lt;/a0&gt; e &lt;a1&gt;www.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The computer video card driver must have support for OpenCL to use this feature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010124Z" creationid="olivier" creationdate="20250318T010124Z">
+        <seg>O driver da placa de vídeo do computador deve ter suporte para OpenCL para usar esse recurso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34022,6 +34110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When saving a document, these settings are saved with it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010543Z" creationid="olivier" creationdate="20250318T010543Z">
+        <seg>Ao salvar um documento, essas configurações são salvas com ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When selected — displays the font names shown with an example of the font.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165039Z" creationid="olivier" creationdate="20250312T165039Z">
@@ -34554,6 +34650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T184424Z" creationid="olivier" creationdate="20250316T184424Z">
         <seg>Com o modo Automático e de alto contraste selecionado, muda-se o LibreOffice para o modo de alto contraste quando a cor de fundo do sistema é muito escura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With OpenCL enabled, LibreOffice can benefit from the very fast numerical calculations performed in the GPU, which is especially useful in very large spreadsheets with extensive calculations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010112Z" creationid="olivier" creationdate="20250318T010112Z">
+        <seg>Com o OpenCL ativado, o LibreOffice pode se beneficiar dos cálculos numéricos muito rápidos realizados na GPU, o que é especialmente útil em planilhas muito grandes com cálculos extensos.</seg>
       </tuv>
     </tu>
     <tu>
