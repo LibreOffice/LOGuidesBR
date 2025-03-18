@@ -15438,6 +15438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If both options are marked and the disabled Basic code is edited in the LibreOffice Basic IDE, the original Microsoft Basic code is saved when saving in Microsoft format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T174710Z" creationid="olivier" creationdate="20250318T174710Z">
+        <seg>Se ambas as opções estiverem marcadas e o código BASIC desabilitado for editado no IDE LibreOffice BASIC, o código Microsoft BASIC original será salvo ao ser salvo no formato Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If disabled, the default printer will be used to print the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151331Z" creationid="olivier" creationdate="20250318T151331Z">
@@ -19506,6 +19514,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T203219Z" creationid="olivier-tdf" creationdate="20250128T203219Z">
         <seg>Método 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Microsoft Excel</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T175500Z" creationid="olivier" creationdate="20250318T175500Z">
+        <seg>Microsoft Excel</seg>
       </tuv>
     </tu>
     <tu>
@@ -27918,6 +27934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Save original Basic code&lt;/f0&gt; selection takes precedence over the &lt;f1&gt;Load Basic code&lt;/f1&gt; selection.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T174631Z" creationid="olivier" creationdate="20250318T174631Z">
+        <seg>A seleção &lt;f0&gt;Salvar código BASIC original&lt;/f0&gt; tem precedência sobre a seleção &lt;f1&gt;Carregar código BASIC&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Toggle Unordered List&lt;/f0&gt; and &lt;f1&gt;Toggle Ordered List&lt;/f1&gt; buttons on the Sidebar’s Properties deck can also be used to create nested lists.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T103658Z" creationid="timot" creationdate="20250222T103658Z">
@@ -28762,6 +28786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T232443Z" creationid="olivier-tdf" creationdate="20250224T232443Z">
         <seg>O documento pode ser editado ao usar a &lt;f2&gt;visualização de livro&lt;/f2&gt; na barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The document is saved without the Microsoft Basic code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T174759Z" creationid="olivier" creationdate="20250318T174759Z">
+        <seg>O documento é salvo sem o código do Microsoft BASIC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32234,6 +32266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084607Z" creationid="olivier" creationdate="20250308T084607Z">
         <seg>Para remover e desinstalar completamente uma extensão que não é mais necessária, faça o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remove any possible Microsoft Basic macro viruses from a Microsoft document, deselect &lt;f0&gt;Save original Basic code&lt;/f0&gt; and save the document in Microsoft format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T174741Z" creationid="olivier" creationdate="20250318T174741Z">
+        <seg>Para remover possíveis vírus de macro do Microsoft BASIC de um documento da Microsoft, desmarque &lt;f0&gt;Salvar código BASIC original&lt;/f0&gt; e salve o documento no formato Microsoft.</seg>
       </tuv>
     </tu>
     <tu>
