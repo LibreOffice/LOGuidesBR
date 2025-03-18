@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Embedded Objects&lt;/f0&gt; specifies how Microsoft Office objects, or other OLE objects, are imported and exported.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T175840Z" creationid="olivier" creationdate="20250318T175840Z">
+        <seg>&lt;f0&gt;Objetos incorporados&lt;/f0&gt; especifica como os objetos do Microsoft Office, ou outros objetos OLE, são importados e exportados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Enter key:&lt;/f0&gt; By default, moves the cell focus down in a column to the next row.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T003622Z">
@@ -2138,6 +2146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152230Z" creationid="olivier" creationdate="20250318T152230Z">
         <seg>&lt;s0&gt;Caixa de diálogo Opções Carregar/Salvar — Página Geral&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Opções Carregar/Salvar — Página Geral&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options Load/Save dialog — Microsoft Office page&lt;/s0&gt;&lt;s1&gt;Options Load/Save dialog — Microsoft Office page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T180108Z" creationid="olivier" creationdate="20250318T180108Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Opções Carregar/Salvar — Página do Microsoft Office&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Opções Carregar/Salvar — Página do Microsoft Office&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10206,6 +10222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Embedded Objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T175803Z" creationid="olivier" creationdate="20250318T175803Z">
+        <seg>Objetos incorporados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Embedded object (OLE) “ObjectName” selected</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T143043Z" creationid="tulio" creationdate="20250211T143043Z">
@@ -11098,6 +11122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T134538Z" creationid="olivier-tdf" creationdate="20250120T134538Z">
         <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: Navegar pelas abas da planilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Options Load/Save dialog — Microsoft Office page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T180122Z" creationid="olivier" creationdate="20250318T180122Z">
+        <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: Caixa de diálogo Opções Carregar/Salvar — Página do Microsoft Office</seg>
       </tuv>
     </tu>
     <tu>
@@ -12798,6 +12830,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For information on &lt;f0&gt;Load Basic code&lt;/f0&gt; and &lt;f1&gt;Save original Basic code&lt;/f1&gt;, see &lt;f2&gt;Microsoft Word&lt;/f2&gt; above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T175635Z" creationid="olivier" creationdate="20250318T175635Z">
+        <seg>Para obter informações sobre &lt;f0&gt;Carregar código BASIC&lt;/f0&gt; e &lt;f1&gt;Salvar código BASIC original&lt;/f1&gt;, consulte o &lt;f2&gt;Microsoft Word&lt;/f2&gt; acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For information on &lt;f0&gt;Load Basic code&lt;/f0&gt;, &lt;f1&gt;Executable code&lt;/f1&gt;, and &lt;f2&gt;Save original Basic code&lt;/f2&gt;, see &lt;f3&gt;Microsoft Word&lt;/f3&gt; above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T175536Z" creationid="olivier" creationdate="20250318T175536Z">
+        <seg>Para obter informações sobre &lt;f0&gt;Carregar código BASIC&lt;/f0&gt;, &lt;f1&gt;Código Executável&lt;/f1&gt; e &lt;f2&gt;Salvar código BASIC original&lt;/f2&gt;, consulte o &lt;f3&gt;Microsoft Word&lt;/f3&gt; acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For information on how to save files manually or automatically, see Chapter 1, LibreOffice Basics.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123431Z" creationid="olivier-tdf" creationdate="20250117T123431Z">
@@ -13330,6 +13378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083703Z" creationid="olivier" creationdate="20250308T083703Z">
         <seg>Para a versão correta da extensão, clique em &lt;f0&gt;Download&lt;/f0&gt; e a extensão será baixada para a pasta Downloads (ou qualquer outra que escolher) no computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For this conversion, the embedded MathType objects must not exceed the MathType 3.1 specifications.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T180028Z" creationid="olivier" creationdate="20250318T180028Z">
+        <seg>Para essa conversão, os objetos MathType incorporados não devem exceder as especificações do MathType 3.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15398,6 +15454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If an OLE server is active for the embedded object, then the OLE server is used to handle the object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T175951Z" creationid="olivier" creationdate="20250318T175951Z">
+        <seg>Se um servidor OLE estiver ativo para o objeto incorporado, este servidor OLE será usado para manipular o objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If an object is currently selected in Impress, the position numbers shows X and Y coordinates of the upper‑left corner and the object size number pair displays the size of the object.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T132759Z" creationid="olivier" creationdate="20250217T132759Z">
@@ -15642,6 +15706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083246Z" creationid="olivier" creationdate="20250308T083246Z">
         <seg>Se necessário, selecione um filtro de etiqueta antes de pesquisar para reduzir o número de extensões no resultado da pesquisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If no OLE server is active for MathType objects, then embedded MathType objects are converted to LibreOffice Math objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T180007Z" creationid="olivier" creationdate="20250318T180007Z">
+        <seg>Se nenhum servidor OLE estiver ativo para objetos MathType, os objetos MathType incorporados serão convertidos em objetos LibreOffice Math.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19526,10 +19598,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Microsoft Office</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T175639Z" creationid="olivier" creationdate="20250318T175639Z">
+        <seg>Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Microsoft Office uses Visual Basic for Applications (VBA) code, and LibreOffice uses Basic code based on the LibreOffice API.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124824Z" creationid="olivier-tdf" creationdate="20250114T124824Z">
         <seg>O Microsoft Office usa o código do Visual Basic for Applications (VBA), e o LibreOffice usa o código Basic baseado na API do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Microsoft PowerPoint</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T175540Z" creationid="olivier" creationdate="20250318T175540Z">
+        <seg>Microsoft PowerPoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -20846,6 +20934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the Microsoft Office page of the Options Load/Save dialog (Figure &lt;t0&gt;14&lt;/t0&gt;), the settings for importing and exporting Microsoft Office and other documents are specified.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T175759Z" creationid="olivier" creationdate="20250318T175759Z">
+        <seg>Na página Microsoft Office da caixa de diálogo Opções Carregar/Salvar (Figura &lt;t0&gt;14&lt;/t0&gt;), são especificadas as configurações para importar e exportar documentos do Microsoft Office e de outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the Number Format panel (Figure &lt;t0&gt;25&lt;/t0&gt;), select &lt;f1&gt;Number&lt;/f1&gt; in the drop-down list, and enter the maximum number of zeroes to display in front of the integer part of a number in the &lt;f2&gt;Leading zeroes&lt;/f2&gt; box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211104Z" creationid="olivier-tdf" creationdate="20250122T231222Z">
@@ -21770,6 +21866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152250Z" creationid="olivier" creationdate="20250318T152250Z">
         <seg>Caixa de diálogo Opções Carregar/Salvar — Página Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options Load/Save dialog — Microsoft Office page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T180129Z" creationid="olivier" creationdate="20250318T180129Z">
+        <seg>Caixa de diálogo Opções Carregar/Salvar — Página do Microsoft Office</seg>
       </tuv>
     </tu>
     <tu>
@@ -25166,6 +25270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the &lt;f0&gt;[L]&lt;/f0&gt; column in front of the entry if a Microsoft or other OLE object, is to be converted into the specified LibreOffice OLE object when a Microsoft or other document is loaded into LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T183746Z" creationid="olivier" creationdate="20250318T183746Z">
+        <seg>Marque a caixa na coluna &lt;f0&gt;[C]&lt;/f0&gt; na frente da entrada caso o objeto Microsoft ou outro objeto OLE deva ser convertido no objeto OLE especificado do LibreOffice quando um documento Microsoft for carregado no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the &lt;f4&gt;New&lt;/f4&gt; button to create new categories.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T112638Z" creationid="timot" creationdate="20250114T112638Z">
@@ -25954,6 +26066,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121146Z" creationid="olivier" creationdate="20250121T121146Z">
         <seg>Selecionar planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting the &lt;f0&gt;[L]&lt;/f0&gt; and &lt;f1&gt;[S]&lt;/f1&gt; columns displays the entries for OLE objects that can be converted when loading into LibreOffice &lt;f2&gt;[L]&lt;/f2&gt; and/or when saving into a Microsoft format &lt;f3&gt;[S]&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T180316Z" creationid="olivier" creationdate="20250318T180316Z">
+        <seg>As caixas de seleção &lt;f0&gt;[C]&lt;/f0&gt; e &lt;f1&gt;[S]&lt;/f1&gt; mostram as entradas para os pares de objetos OLE que podem ser convertidos quando carregados de um formato Microsoft &lt;f2&gt;[C]&lt;/f2&gt; e/ou quando salvos num dos formatos Microsoft &lt;f3&gt;[S]&lt;/f3&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -30274,6 +30394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T143703Z" creationid="olivier" creationdate="20250223T143703Z">
         <seg>Essas opções de impressão estão disponíveis na aba Geral da caixa de diálogo Imprimir do Impress para Windows ou Linux (Figura &lt;t0&gt;13&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These settings are valid even when no Microsoft, or other OLE, &lt;t1/&gt;server exists (for example, in UNIX), or when there is no LibreOffice OLE server ready for editing the OLE objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T175918Z" creationid="olivier" creationdate="20250318T175918Z">
+        <seg>Essas configurações são válidas mesmo quando não existe um servidor Microsoft ou outro &lt;t1/&gt;servidor OLE (por exemplo, no UNIX) ou quando não há um servidor OLE do LibreOffice pronto para editar os objetos OLE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36386,6 +36514,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213033Z" creationid="olivier-tdf" creationdate="20250116T213033Z">
         <seg>Régua de zoom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[L] and [S] Columns</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T180152Z" creationid="olivier" creationdate="20250318T180152Z">
+        <seg>Colunas [C] e [S]</seg>
       </tuv>
     </tu>
     <tu>
