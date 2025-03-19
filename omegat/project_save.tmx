@@ -2870,6 +2870,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A change in &lt;f1&gt;Default currency&lt;/f1&gt; will change all open documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T233003Z" creationid="olivier" creationdate="20250319T233003Z">
+        <seg>Uma alteração na &lt;f1&gt;Moeda padrão&lt;/f1&gt; alterará todos os documentos abertos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A change in this field is immediately applicable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232806Z" creationid="olivier" creationdate="20250319T232806Z">
+        <seg>Uma alteração neste campo é imediatamente aplicável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can be assigned as a keyboard shortcut for menu commands.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T220353Z" creationid="olivier" creationdate="20250307T220353Z">
@@ -3922,6 +3938,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T005055Z" creationid="olivier" creationdate="20250318T005055Z">
         <seg>Além disso, clique em &lt;f3&gt;Verificar agora&lt;/f3&gt; para verificar imediatamente se há uma atualização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also, dialogs and icons that use the currency format also changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T233020Z" creationid="olivier" creationdate="20250319T233020Z">
+        <seg>Além disso, as caixas de diálogo e os ícones que usam o formato de moeda também mudam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9070,6 +9094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Default currency</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232815Z" creationid="olivier" creationdate="20250319T232815Z">
+        <seg>Moeda padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Default printer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T182601Z" creationid="olivier" creationdate="20250222T182601Z">
@@ -13598,6 +13630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formats</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232635Z" creationid="olivier" creationdate="20250319T232635Z">
+        <seg>Formatos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formatting (Styles) toolbar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T100956Z" creationid="timot" creationdate="20250217T100956Z">
@@ -16150,6 +16190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the locale setting is changed, the default currency changes automatically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232840Z" creationid="olivier" creationdate="20250319T232840Z">
+        <seg>Se a configuração de localidade for alterada, a moeda padrão será alterada automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the offline help is not installed on a computer, but connected to the Internet, a dialog opens giving the option to &lt;f2&gt;Read Help Online&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier-tdf" creationdate="20250109T194845Z">
@@ -16250,6 +16298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T134301Z" creationid="olivier-tdf" creationdate="20250120T134301Z">
         <seg>Se for esse o caso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this language is not available in the LibreOffice installation, the language of the LibreOffice installation is the default language.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232632Z" creationid="olivier" creationdate="20250319T232632Z">
+        <seg>Se esse idioma não estiver disponível na instalação do LibreOffice, o idioma da instalação do LibreOffice será o idioma padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19378,6 +19434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T160853Z" creationid="olivier" creationdate="20250318T160853Z">
         <seg>Carrega e salva o código BASIC de um documento da Microsoft como um módulo especial do LibreOffice BASIC com o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Locale setting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232657Z" creationid="olivier" creationdate="20250319T232657Z">
+        <seg>Configuração de localidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -27558,10 +27622,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specifies the default currency used by the currency format and the currency fields.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232831Z" creationid="olivier" creationdate="20250319T232831Z">
+        <seg>Especifica a moeda padrão usada pelo formato de moeda e pelos campos de moeda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specifies the document type to define the default file format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T153317Z" creationid="olivier" creationdate="20250318T153317Z">
         <seg>Especifica o tipo de documento para definir o formato de arquivo padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies the locale setting of the country setting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232713Z" creationid="olivier" creationdate="20250319T232713Z">
+        <seg>Especifica a configuração de localidade da configuração de país.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28418,6 +28498,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T203727Z" creationid="olivier-tdf" creationdate="20250309T203727Z">
         <seg>A opção &lt;f0&gt;Automático&lt;/f0&gt; usa um conjunto de ícones compatível com o sistema operacional e a escolha da área de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Default&lt;/f0&gt; entry applies to the currency format that is assigned by the selected locale setting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232935Z" creationid="olivier" creationdate="20250319T232935Z">
+        <seg>A entrada &lt;f0&gt;Padrão&lt;/f0&gt; se aplica ao formato de moeda atribuído pela configuração de localidade selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Default&lt;/f0&gt; entry selects the language of the user interface used by the computer operating system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232603Z" creationid="olivier" creationdate="20250319T232603Z">
+        <seg>A entrada &lt;f0&gt;Padrão&lt;/f0&gt; seleciona o idioma da interface do usuário usada pelo sistema operacional do computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Default&lt;/f0&gt; entry selects the locale used by the operating system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232753Z" creationid="olivier" creationdate="20250319T232753Z">
+        <seg>A entrada &lt;f0&gt;Padrão&lt;/f0&gt; seleciona a localidade usada pelo sistema operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30670,6 +30774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There must be at least one additional language pack installed, or a multi‑language version of LibreOffice installed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232549Z" creationid="olivier" creationdate="20250319T232549Z">
+        <seg>Deve haver pelo menos um pacote de idiomas adicional instalado ou uma versão multilíngue do LibreOffice instalada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There will be prompt to save the document again, even if any other changes have not been made.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T191928Z" creationid="olivier-tdf" creationdate="20250309T191928Z">
@@ -31258,6 +31370,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183558Z" creationid="olivier-tdf" creationdate="20250209T183558Z">
         <seg>Isso incorpora uma barra colorida para refletir a força da senha, com vermelho indicando uma senha fraca e verde indicando uma senha forte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This influences settings for numbering, currency and units of measure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232743Z" creationid="olivier" creationdate="20250319T232743Z">
+        <seg>Isso afeta as configurações de numeração, moeda e unidades de medida.</seg>
       </tuv>
     </tu>
     <tu>
