@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Searching in Japanese&lt;/f0&gt; and &lt;f1&gt;Asian Layout&lt;/f1&gt; pages are only visible if the Asian language support option in the Languages page is activated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232338Z" creationid="olivier" creationdate="20250319T232338Z">
+        <seg>A &lt;f0&gt;Pesquisa em japonês&lt;/f0&gt; e &lt;f1&gt;Leiaute asiático&lt;/f1&gt; só são visíveis se a opção de suporte ao idioma asiático na página Idiomas estiver ativada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Select Styles&lt;/f0&gt; on the Menu bar (Writer and Calc).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000600Z" creationid="olivier-tdf" creationdate="20250219T000600Z">
@@ -1434,6 +1442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195504Z" creationid="olivier-tdf" creationdate="20250109T195504Z">
         <seg>&lt;f1&gt;Você também pode &lt;/f1&gt; &lt;f2&gt;abrir a página &lt;/f2&gt;&lt;s3/&gt;&lt;a4&gt;https://books.libreoffice.org&lt;/a4&gt; &lt;f5&gt;para o mesmo conteúdo&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f2&gt;Complex Text Layout&lt;/f2&gt; page is only visible if the CTL support is activated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232428Z" creationid="olivier" creationdate="20250319T232428Z">
+        <seg>A página &lt;f2&gt;de Layout de texto complexo&lt;/f2&gt; só é visível se o suporte CTL estiver ativado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10238,6 +10254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Either undo the changes manually, or click &lt;f0&gt;Cancel&lt;/f0&gt; and reopen the Options dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232049Z" creationid="olivier" creationdate="20250319T232049Z">
+        <seg>Desfaça as alterações manualmente ou clique em &lt;f0&gt;Cancelar&lt;/f0&gt; e reabra a caixa de diálogo Opções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Either use dialogs from the computer system (default), or dialogs provided by LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212408Z" creationid="olivier-tdf" creationdate="20250109T212408Z">
@@ -14502,6 +14526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Language &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;and Locale&lt;/f2&gt;&lt;/f1&gt; (macOS &lt;f3&gt;LibreOffice &gt; Preferences &gt; Language &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;and Locale&lt;/f5&gt;&lt;/f4&gt;) on the Menu bar to open dialogs where the properties for languages, writing aids and language tools can be defined.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232207Z" creationid="olivier" creationdate="20250319T232207Z">
+        <seg>Acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; Idiomas &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;e Localidades&lt;/f2&gt;&lt;/f1&gt; (macOS &lt;f3&gt;LibreOffice &gt; Preferências &gt; Idiomas &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;e Localidades&lt;/f5&gt;&lt;/f4&gt;) na barra de menu para abrir caixas de diálogo onde as propriedades de idiomas, auxiliares de escrita e ferramentas de idioma podem ser definidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Print&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; Print&lt;/f1&gt;) to open the Options LibreOffice Print dialog (Figure &lt;t2&gt;12&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T133731Z" creationid="olivier" creationdate="20250223T133731Z">
@@ -18574,6 +18606,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Language of</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232510Z" creationid="olivier" creationdate="20250319T232510Z">
+        <seg>Idioma de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Languages and Locales</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232053Z" creationid="olivier" creationdate="20250319T232053Z">
+        <seg>Idiomas e localidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Layout</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150228Z" creationid="olivier" creationdate="20250223T150228Z">
@@ -21154,6 +21202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T122430Z" creationid="olivier" creationdate="20250314T122430Z">
         <seg>Na página Cores da interface da caixa de diálogo Opções do LibreOffice (Figura &lt;t0&gt;9&lt;/t0&gt;), a aparência geral do LibreOffice pode ser alterada definindo as cores usadas para a interface do usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the General page of the Options Languages and Locales settings dialog (Figure &lt;t0&gt;16&lt;/t0&gt;), define the default languages and locale settings for documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232450Z" creationid="olivier" creationdate="20250319T232450Z">
+        <seg>Na página Geral da caixa de diálogo Opções Idiomas e Localidades (Figura &lt;t0&gt;16&lt;/t0&gt;), defina os idiomas padrão e as configurações de localidade para documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25814,6 +25870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the language used for the user interface, for example menus, dialogs, and help files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232535Z" creationid="olivier" creationdate="20250319T232535Z">
+        <seg>Selecione o idioma utilizado na interface de usuário, por exemplo, nos menus, caixas de diálogo e arquivos de ajuda. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the menu command from the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T220731Z" creationid="olivier" creationdate="20250307T220731Z">
@@ -26170,6 +26234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T234038Z" creationid="olivier-tdf" creationdate="20250224T234038Z">
         <seg>Selecione esta opção para aplicar qualquer uma das alterações acima e reiniciar o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option to automatically upload the embedded images to the Internet server when uploading using FTP.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T231916Z" creationid="olivier" creationdate="20250319T231916Z">
+        <seg>Selecione esta opção para carregar automaticamente as imagens incorporadas para o servidor de Internet ao carregar usando FTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34046,6 +34118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the Save As dialog to save the document and enter a complete FTP URL as the file name in the Internet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232037Z" creationid="olivier" creationdate="20250319T232037Z">
+        <seg>Use a caixa de diálogo Salvar como para salvar o documento e digite uma URL de FTP completa como o nome do arquivo na Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the arrow keys to move to the start of the next piece of text to be selected.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250126T183835Z" creationid="timot" creationdate="20250126T183835Z">
@@ -34242,6 +34322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T184937Z" creationid="olivier-tdf" creationdate="20250309T184937Z">
         <seg>Dados do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User interface</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232515Z" creationid="olivier" creationdate="20250319T232515Z">
+        <seg>Interface de usuário</seg>
       </tuv>
     </tu>
     <tu>
