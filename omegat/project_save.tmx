@@ -8270,6 +8270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copy local images to Internet</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T231224Z" creationid="olivier" creationdate="20250319T231224Z">
+        <seg>Copiar figuras locais para a Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250110T133918Z" creationid="tdf" creationdate="20241226T213205Z">
@@ -9442,6 +9450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084726Z" creationid="olivier" creationdate="20250308T084726Z">
         <seg>Desativar extensões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display warning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230331Z" creationid="olivier" creationdate="20250319T230331Z">
+        <seg>Exibir aviso</seg>
       </tuv>
     </tu>
     <tu>
@@ -10810,6 +10826,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104727Z" creationid="timot" creationdate="20250204T104727Z">
         <seg>Caixa de diálogo Localizar e substituir expandida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230127Z" creationid="olivier" creationdate="20250319T230127Z">
+        <seg>Exportar</seg>
       </tuv>
     </tu>
     <tu>
@@ -12318,6 +12342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a closing tag, an &lt;f1&gt;HTML_OFF&lt;/f1&gt; is created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225840Z" creationid="olivier" creationdate="20250319T225840Z">
+        <seg>&lt;f1&gt;HTML_OFF&lt;/f1&gt; é criado como uma tag de fechamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a detailed list of requirements and operating systems supported, see the LibreOffice website, &lt;a0&gt;https://www.libreoffice.org/get-help/system-requirements/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194129Z" creationid="olivier-tdf" creationdate="20250109T194129Z">
@@ -12386,6 +12418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T193416Z" creationid="olivier-tdf" creationdate="20250209T193416Z">
         <seg>Para uma explicação detalhada das tabelas dinâmicas e das pré-condições necessárias para usá-las, consulte o Capítulo 9, Tabelas dinâmicas, no &lt;f0&gt;Guia do Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For an opening tag, an &lt;f0&gt;HTML_ON&lt;/f0&gt; field is created with the value of the tag name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225934Z" creationid="olivier" creationdate="20250319T225752Z">
+        <seg>Um campo &lt;f0&gt;HTML_ON&lt;/f0&gt; é criado como uma tag de abertura com o valor do nome da tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12706,6 +12746,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T204642Z" creationid="olivier" creationdate="20250307T220558Z">
         <seg>Por exemplo, o caractere F é usado para abrir o menu &lt;f0&gt;Formato&lt;/f0&gt; na barra de menu quando se usa a combinação de teclas &lt;f1&gt;Alt+F&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the characters "1.000" copied from a German Web page probably mean “one thousand” because the dot-on-the-line is the thousands separator in a German locale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225617Z" creationid="olivier" creationdate="20250319T225617Z">
+        <seg>Por exemplo, os caracteres "1.000" copiados de uma página da Web alemã provavelmente significam "mil" porque o ponto na linha é o separador de milhares em um local alemão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15582,6 +15630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If copied from an English Web page, the same characters stand for the number 1 as in “one dot zero zero zero”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225633Z" creationid="olivier" creationdate="20250319T225633Z">
+        <seg>Se copiado de uma página da Web em inglês, os mesmos caracteres representam o número 1 como em "um ponto zero zero zero".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If disabled, the default printer will be used to print the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151331Z" creationid="olivier" creationdate="20250318T151331Z">
@@ -15610,6 +15666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T200923Z" creationid="olivier-tdf" creationdate="20250308T200923Z">
         <seg>Se conhecido, insira o &lt;f0&gt;número hexadecimal #&lt;/f0&gt; na caixa de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If marked, numbers are interpreted using the English (USA) locale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225702Z" creationid="olivier" creationdate="20250319T225702Z">
+        <seg>Se marcado, os números são interpretados usando o idioma inglês (EUA).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15790,6 +15854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If not selected, numbers are interpreted according to the setting in &lt;f0&gt;Tools &gt; Options &gt; Languages and Locales&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; Languages and Locales&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225653Z" creationid="olivier" creationdate="20250319T225653Z">
+        <seg>Se não estiver selecionado, os números são interpretados de acordo com a configuração em &lt;f0&gt;Ferramentas &gt; Opções &gt; Idiomas e Localidades&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; Idiomas e Localidades&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If not selected, the VBA code is commented out so it can be inspected, but not run.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161137Z" creationid="olivier" creationdate="20250318T161137Z">
@@ -15862,6 +15934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If selected, the print layout of the current document (for example, table of contents with justified page numbers and dot leaders) is exported as well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230541Z" creationid="olivier" creationdate="20250319T230541Z">
+        <seg>Se selecionado, exporta também o layout de impressão do documento atual (por exemplo, índice com números de página justificados e pontilhados).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If selected, the reduction in print quality for bitmaps also applies to the transparent areas of objects.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T133949Z" creationid="olivier" creationdate="20250223T133949Z">
@@ -15874,6 +15954,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135902Z" creationid="olivier" creationdate="20250223T135902Z">
         <seg>Se selecionado, os objetos transparentes são impressos como objetos normais e não transparentes, dependendo da sua seleção nos dois botões de opção a seguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If selected, when exporting to HTML a warning is displayed stating that LibreOffice Basic macros will be lost.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230407Z" creationid="olivier" creationdate="20250319T230407Z">
+        <seg>Se selecionado, ao exportar para HTML, exibe um aviso informando que as macros do LibreOffice BASIC serão perdidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16534,6 +16622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ignore font settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230022Z" creationid="olivier" creationdate="20250319T230022Z">
+        <seg>Ignorar configurações de fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Illustrations</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212333Z" creationid="olivier-tdf" creationdate="20250109T212333Z">
@@ -16554,6 +16650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124537Z" creationid="olivier-tdf" creationdate="20250114T124537Z">
         <seg>Importar e exportar planilhas de trabalho em vários formatos, incluindo HTML, CSV, PDF e DIF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import unknown HTML tags as fields</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225710Z" creationid="olivier" creationdate="20250319T225710Z">
+        <seg>Importar tags HTML desconhecidas como campos</seg>
       </tuv>
     </tu>
     <tu>
@@ -17958,6 +18062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be read by LibreOffice, Mozilla Firefox, and MS Internet Explorer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230830Z" creationid="olivier" creationdate="20250319T230830Z">
+        <seg>Pode ser lido pelo LibreOffice e outros navegadores modernos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It cannot be removed in C2 despite also appearing to be the bottom border for cell C2.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161835Z" creationid="olivier" creationdate="20250204T161835Z">
@@ -18546,6 +18658,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T183240Z" creationid="olivier-tdf" creationdate="20250309T183240Z">
         <seg>[parcial]LibreOffice &gt; Preferências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice Basic</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230138Z" creationid="olivier" creationdate="20250319T230138Z">
+        <seg>LibreOffice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice Basic scripts must be located in the header of the HTML document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230232Z" creationid="olivier" creationdate="20250319T230232Z">
+        <seg>Os scripts do LibreOffice BASIC devem estar localizados no cabeçalho do documento HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20702,6 +20830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that these capabilities are only effective if print layout export is activated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T231004Z" creationid="olivier" creationdate="20250319T231004Z">
+        <seg>Observe que esses recursos só são eficazes se a exportação de layout de impressão estiver ativada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213716Z" creationid="olivier-tdf" creationdate="20250109T213716Z">
@@ -21210,6 +21346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T140451Z" creationid="tulio" creationdate="20250211T140451Z">
         <seg>Assim que a borda pontilhada aparecer, solte a barra de ferramentas e a barra de ferramentas será encaixada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once the macro is created in LibreOffice Basic IDE, it appears in the source text of the HTML document in the header.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230310Z" creationid="olivier" creationdate="20250319T230310Z">
+        <seg>Depois de criar a macro no LibreOffice Basic IDE, ela aparece no texto de origem do documento HTML no cabeçalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23042,6 +23186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142912Z" creationid="olivier" creationdate="20250223T142912Z">
         <seg>Imprimir etiquetas ou cartões de visita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Print layout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230440Z" creationid="olivier" creationdate="20250319T230440Z">
+        <seg>Leiaute de impressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -25998,6 +26150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option if tags that are not recognized by LibreOffice are to be imported as fields.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225721Z" creationid="olivier" creationdate="20250319T225721Z">
+        <seg>Selecione esta opção se as tags que não são reconhecidas pelo LibreOffice devem ser importadas como campos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option so that when a document loads, it ignores the stored settings in favor of the settings on the computer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010613Z" creationid="olivier" creationdate="20250318T010613Z">
@@ -26018,6 +26178,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191824Z" creationid="olivier" creationdate="20250316T191824Z">
         <seg>Selecione esta opção para ativar recursos que ainda não estão completos ou contêm bugs conhecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option to ignore all font settings when importing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230034Z" creationid="olivier" creationdate="20250319T230034Z">
+        <seg>Selecione esta opção para ignorar todas as configurações de fonte ao importar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option to include the LibreOffice Basic instructions when exporting to HTML format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230148Z" creationid="olivier" creationdate="20250319T230148Z">
+        <seg>Selecione esta opção para incluir as instruções do LibreOffice Basic ao exportar para o formato HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28358,6 +28534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The HTML filter supports CSS2 (Cascading Style Sheets Level 2) for printing documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230947Z" creationid="olivier" creationdate="20250319T230947Z">
+        <seg>O filtro HTML suporta CSS2 (Cascading Style Sheets Level 2) para impressão de documentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Help menu also includes links to other LibreOffice information and support resources.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194930Z" creationid="olivier-tdf" creationdate="20250109T194930Z">
@@ -28822,6 +29006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The clipboard, however, contains no information about the locale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225600Z" creationid="olivier" creationdate="20250319T225600Z">
+        <seg>A área de transferência, no entanto, não contém informações sobre a localidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The color appears as a fill in the selected object.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T200958Z" creationid="olivier-tdf" creationdate="20250308T200958Z">
@@ -29234,6 +29426,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165105Z" creationid="olivier" creationdate="20250312T165105Z">
         <seg>As fontes listadas são aquelas que estão instaladas no sistema do computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The fonts that were defined in the HTML Page Style are the fonts used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230116Z" creationid="olivier" creationdate="20250319T230116Z">
+        <seg>São usadas as fontes que foram definidas no estilo de página HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30486,6 +30686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These fields are converted to tags in the HTML export.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225943Z" creationid="olivier" creationdate="20250319T225943Z">
+        <seg>Esses campos são convertidos em tags na exportação HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These files can easily be unzipped and read by any text editor, and their framework is open and published.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T210141Z" creationid="olivier-tdf" creationdate="20250109T193857Z">
@@ -31138,6 +31346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231945Z" creationid="olivier" creationdate="20250220T231945Z">
         <seg>Esta opção só está disponível quando mais de um documento do LibreOffice está aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option must be selected before creating the LibreOffice Basic Script, otherwise it will not be inserted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230207Z" creationid="olivier" creationdate="20250319T230207Z">
+        <seg>Esta opção deve ser selecionada antes de criar o Script BASIC do LibreOffice, caso contrário, ele não será inserido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34946,6 +35162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T232320Z" creationid="olivier" creationdate="20250220T232320Z">
         <seg>Quando os arquivos são salvos automaticamente, o LibreOffice substituirá o último estado salvo do arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When importing numbers from an HTML page, the decimal separator and the thousands separator characters differ according to the locale of the HTML page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225549Z" creationid="olivier" creationdate="20250319T225549Z">
+        <seg>Ao importar números de uma página HTML, o separador decimal e os caracteres do separador de milhares diferem de acordo com a localidade da página HTML.</seg>
       </tuv>
     </tu>
     <tu>
