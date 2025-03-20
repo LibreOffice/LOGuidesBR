@@ -3078,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A language module can contain one, two or three sub-modules: spelling, hyphenation and thesaurus.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250320T133159Z" creationid="olivier" creationdate="20250320T133159Z">
+        <seg>Um módulo de idioma pode conter um, dois ou três submódulos: ortografia, hifenização e dicionário de sinônimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A list of available keyboard shortcuts in LibreOffice can be found &lt;f0&gt;in the keyboard tab of the Customize dialog box&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T233928Z" creationid="olivier" creationdate="20250302T233928Z">
@@ -5002,6 +5010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135926Z" creationid="olivier" creationdate="20250223T135926Z">
         <seg>Automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Available Language Modules</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250320T133136Z" creationid="olivier" creationdate="20250320T133136Z">
+        <seg>Módulos de idiomas disponíveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -9510,6 +9526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deselecting a module name, deactivates all available sub‑modules simultaneously.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250320T133255Z" creationid="olivier" creationdate="20250320T133255Z">
+        <seg>Desmarcar um nome de módulo, desativa todos os sub-módulos disponíveis simultaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destination Paper Size</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155338Z" creationid="olivier" creationdate="20250223T155338Z">
@@ -10378,6 +10402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130238Z" creationid="olivier-tdf" creationdate="20250218T130238Z">
         <seg>Cada estilo tem um nome, como "Corpo do Texto" e "Título do Documento". "O uso de estilos pode alterar rapidamente o formato ou a aparência dos elementos selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each sub-module is available in one or more languages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250320T133212Z" creationid="olivier" creationdate="20250320T133212Z">
+        <seg>Cada submódulo está disponível em um ou mais idiomas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19830,6 +19862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lists the installed language modules in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250320T133142Z" creationid="olivier" creationdate="20250320T133142Z">
+        <seg>Lista os módulos de idioma instalados no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lists the installed printers on the computer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184048Z" creationid="olivier" creationdate="20250222T184048Z">
@@ -21922,6 +21962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T160758Z" creationid="olivier" creationdate="20250318T160758Z">
         <seg>Na página Propriedades VBA da caixa de diálogo Opções Carregar/Salvar (Figura &lt;t0&gt;13&lt;/t0&gt;), você pode especificar as propriedades gerais para carregar e salvar documentos do Microsoft Office com o código VBA (Visual Basic for Applications).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the Writing Aids page of the Options Languages and Locales dialog (Figure &lt;t0&gt;17&lt;/t0&gt;), the properties of spelling, thesaurus and hyphenation can be specified.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250320T133100Z" creationid="olivier" creationdate="20250320T133100Z">
+        <seg>Na página Recursos para a redação da caixa de diálogo Opções Idiomas e Localidades (Figura &lt;t0&gt;17&lt;/t0&gt;), as propriedades de ortografia, dicionário de sinônimos e hifenização podem ser especificadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26986,6 +27034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210436Z" creationid="olivier-tdf" creationdate="20250128T210436Z">
         <seg>Selecione uma célula mesclada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting a module name activates all available sub‑modules simultaneously.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250320T133239Z" creationid="olivier" creationdate="20250320T133239Z">
+        <seg>Selecionar um nome de módulo ativa todos os sub-módulos disponíveis simultaneamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32434,6 +32490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213021Z" creationid="tulio" creationdate="20250119T172822Z">
         <seg>Para ativar a interface de usuário barra de ferramentas única, acesse &lt;f0&gt;Exibir &gt; Interface do usuário&lt;/f0&gt; e selecione &lt;f1&gt;Barra única&lt;/f1&gt; na caixa de diálogo Selecionar a interface de usuário preferida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To activate or deactivate individual sub-modules, click on &lt;f0&gt;Edit&lt;/f0&gt; to open the Edit Modules dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250320T133330Z" creationid="olivier" creationdate="20250320T133330Z">
+        <seg>Para ativar ou desativar submódulos individuais, clique em &lt;f0&gt;Editar&lt;/f0&gt; para abrir a caixa de diálogo Editar módulos.</seg>
       </tuv>
     </tu>
     <tu>
