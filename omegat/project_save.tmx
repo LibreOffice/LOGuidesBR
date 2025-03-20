@@ -1966,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Insert Image dialog&lt;/s0&gt;&lt;s1&gt;Insert Image dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012201Z" creationid="tulio" creationdate="20250320T012201Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Inserir imagem&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Inserir imagem&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Insert Sheet dialog&lt;/s0&gt;&lt;s1&gt;Insert Sheet dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154502Z" creationid="olivier" creationdate="20250121T154502Z">
@@ -7070,6 +7078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Open&lt;/f0&gt; and the image, or graphic, is embedded into the document and Insert Image dialog closes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012301Z" creationid="tulio" creationdate="20250320T012301Z">
+        <seg>Clique em &lt;f0&gt;Abrir&lt;/f0&gt; e a imagem, ou gráfico, é incorporada ao documento e a caixa de diálogo Inserir imagem é fechada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Open&lt;/f0&gt; on the Standard toolbar and select the file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183227Z" creationid="olivier" creationdate="20250220T183227Z">
@@ -11534,6 +11550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Insert Image dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012222Z" creationid="tulio" creationdate="20250320T012222Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Caixa de diálogo Inserir imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice Start Center</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T001133Z" creationid="tulio" creationdate="20250116T001133Z">
@@ -13360,8 +13384,8 @@
       <tuv lang="en-US">
         <seg>For more information on Security Options and Warnings, see LibreOffice Help: &lt;a1&gt;https://help.libreoffice.org/7.4/en-GB/text/shared/optionen/securityoptionsdialog.html&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250313T124120Z" creationid="olivier" creationdate="20250313T124120Z">
-        <seg>Para obter mais informações sobre opções e avisos de segurança, consulte a Ajuda do &lt;a1&gt;LibreOffice: https://help.libreoffice.org/latest/pt-BR/text/shared/optionen/securityoptionsdialog.html&lt;/a1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250320T014124Z" creationid="olivier" creationdate="20250313T124120Z">
+        <seg>Para obter mais informações sobre opções e avisos de segurança, consulte a Ajuda do &lt;a1&gt;74LibreOffice: https://help.libreoffice.org/latest/pt-BR/text/shared/optionen/securityoptionsdialog.html&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16246,6 +16270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the Link option is selected, a message box appears when &lt;f0&gt;Open&lt;/f0&gt; is clicked and the Confirm Linked Graphic dialog opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012821Z" creationid="tulio" creationdate="20250320T012821Z">
+        <seg>Se a opção Link for selecionada, uma caixa de mensagem será exibida quando o botão  &lt;f0&gt;Abrir&lt;/f0&gt; for clicado e a caixa de diálogo Confirmar figuras vinculadas será aberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the Options Load/Save dialog is not already open, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; Load/Save&lt;/f1&gt;) on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010347Z" creationid="olivier" creationdate="20250318T010347Z">
@@ -16338,6 +16370,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210653Z" creationid="olivier-tdf" creationdate="20250128T210653Z">
         <seg>Se as células ocultas tinham algum conteúdo antes de serem mescladas, você deve mover manualmente o conteúdo para a célula correta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the image, or graphic, is going to be linked and not embedded, select the &lt;f0&gt;Link&lt;/f0&gt; option before clicking &lt;f1&gt;Open&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012411Z" creationid="tulio" creationdate="20250320T012411Z">
+        <seg>Se a imagem, ou gráfico, for vinculada e não incorporada, selecione a opção &lt;f0&gt;Link&lt;/f0&gt; antes de clicar em &lt;f1&gt;Abrir&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20910,6 +20950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigate to where the file is located and select it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012242Z" creationid="tulio" creationdate="20250320T012242Z">
+        <seg>Navegue até onde o arquivo está localizado e selecione-o.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigating sheet tabs</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T134600Z" creationid="olivier-tdf" creationdate="20250120T134600Z">
@@ -23904,8 +23952,8 @@
       <tuv lang="en-US">
         <seg>Published &lt;ud0&gt;August&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;2024&lt;/ud2&gt;&lt;s3/&gt;Based on LibreOffice &lt;ud4&gt;24.8&lt;/ud4&gt;&lt;s5/&gt;Community.&lt;br6/&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T183632Z" creationid="olivier-tdf" creationdate="20250309T183231Z">
-        <seg>Publicado em &lt;ud0&gt;Agosto&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;2024&lt;/ud2&gt;&lt;s3/&gt; com base no LibreOffice Community.&lt;ud4&gt;24&lt;/ud4&gt;&lt;s5/&gt;&lt;br6/&gt;</seg>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250320T013552Z" creationid="olivier-tdf" creationdate="20250309T183231Z">
+        <seg>Publicado em &lt;ud0&gt;Agosto&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;20248&lt;/ud2&gt;&lt;s3/&gt; com base no LibreOffice Community.&lt;ud4&gt;24.8&lt;/ud4&gt;&lt;s5/&gt;&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25578,6 +25626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183806Z" creationid="olivier" creationdate="20250222T183806Z">
         <seg>Selecione &lt;f0&gt;Botões Visíveis&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f1&gt;Keep Link&lt;/f1&gt; to the link the file, or &lt;f2&gt;Embed Graphic&lt;/f2&gt; to embed the image, or graphic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012923Z" creationid="tulio" creationdate="20250320T012923Z">
+        <seg>Selecione &lt;f1&gt;Manter vínculo&lt;/f1&gt; para o vincular o arquivo ou &lt;f2&gt;Incorporar figura&lt;/f2&gt; para incorporar a imagem ou o gráfico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31566,6 +31622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This dialog is similar to a file browser window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012055Z" creationid="tulio" creationdate="20250320T012055Z">
+        <seg>Esta caixa de diálogo é semelhante a uma janela do navegador de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This dialog shows any previously-defined series in the &lt;f2&gt;Lists&lt;/f2&gt; box and the contents of the highlighted list in the &lt;f3&gt;Entries&lt;/f3&gt; box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211442Z" creationid="olivier" creationdate="20250123T220128Z">
@@ -33266,6 +33330,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151315Z" creationid="olivier" creationdate="20250318T151315Z">
         <seg>Para evitar que isso aconteça, altere manualmente a impressora na caixa de diálogo Imprimir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To prevent this message from appearing again, deselect the option &lt;f3&gt;Ask when linking a graphic&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250320T013318Z" creationid="tulio" creationdate="20250320T013318Z">
+        <seg>Para evitar que esta mensagem apareça novamente, desmarque a opção &lt;f3&gt;Perguntar ao vincular uma figura&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
