@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Hindi&lt;/f0&gt; — all numbers are shown using Hindi numerals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024713Z" creationid="olivier" creationdate="20250321T024713Z">
+        <seg>&lt;f0&gt;Hindi&lt;/f0&gt; — todos os números são mostrados usando numerais hindi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Home&lt;/f0&gt; moves the cell focus to the start of a row.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003941Z" creationid="olivier" creationdate="20250120T003941Z">
@@ -1226,6 +1234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T113659Z" creationid="timot" creationdate="20250114T113659Z">
         <seg>&lt;f0&gt;Estilos&lt;/f0&gt; modifica o esquema de numeração, o plano de fundo, o leiaute da página (especifica se o estilo da página deve ser aplicado a páginas pares ou ímpares ou a ambas) e colunas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;System&lt;/f0&gt; — all numbers are shown using Arabic, or Hindi, numerals according to the locale settings defined by the computer system locality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024754Z" creationid="olivier" creationdate="20250321T024754Z">
+        <seg>&lt;f0&gt;Sistema&lt;/f0&gt; — todos os números são mostrados usando algarismos arábicos ou hindi, de acordo com as configurações de localidade definidas pela localidade do sistema de computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2106,6 +2122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023216Z" creationid="olivier" creationdate="20250321T023216Z">
         <seg>&lt;s0&gt;Caixa de diálogo Opções Idiomas e Localidades — Página de Layout de Texto Complexo&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Opções Idiomas e Localidades — Página de Layout de Texto Complexo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options Languages and Locales dialog — Language Tool Server page&lt;/s0&gt;&lt;s1&gt;Options Languages and Locales dialog — Language Tool Server page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T025304Z" creationid="olivier" creationdate="20250321T025130Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Opções Idiomas e Localidades — Página do Servidor LanguageTool&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Opções Idiomas e Localidades — Página do Servidor LanguageTool&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10966,6 +10990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>English sentence checking</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T025558Z" creationid="olivier" creationdate="20250321T025558Z">
+        <seg>Verificação de frases em inglês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enhanced language support</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T132755Z" creationid="olivier" creationdate="20250320T132755Z">
@@ -12098,6 +12130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T175832Z" creationid="timot" creationdate="20250122T175832Z">
         <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: Linhas e colunas congeladas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Options Languages and Locales dialog — Language Tool Server page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T025240Z" creationid="olivier" creationdate="20250321T025150Z">
+        <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: Caixa de diálogo Opções Idiomas e Localidades — Página do Servidor LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -16614,6 +16654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If necessary, click on the link &lt;a1&gt;https://languagetool.org/legal/privacy&lt;/a1&gt; to access the privacy policy for using the language tool assistant.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T025039Z" creationid="olivier" creationdate="20250321T025039Z">
+        <seg>Se necessário, clique no link https://languagetool.org/legal/privacy para &lt;a1&gt;acessar&lt;/a1&gt; a política de privacidade para usar o assistente de ferramenta de idioma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If necessary, click on the up arrow, or down arrow, to move the command into its correct position in the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T204456Z" creationid="olivier" creationdate="20250307T213701Z">
@@ -19686,6 +19734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Language tool server</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024942Z" creationid="olivier" creationdate="20250321T024819Z">
+        <seg>Servidor LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Languages and Locales</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232053Z" creationid="olivier" creationdate="20250319T232053Z">
@@ -22478,6 +22534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the Language Tool Server page of the Options Languages and Locales dialog (Figure &lt;t0&gt;21&lt;/t0&gt;), select the Enable Language Tool to use a language tool assistant available for LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T025022Z" creationid="olivier" creationdate="20250321T024936Z">
+        <seg>Na página Servidor LanguageTool da caixa de diálogo Opções Idiomas e Localidades (Figura &lt;t0&gt;21&lt;/t0&gt;), selecione Ativar LanguageTool para usar um assistente de ferramenta de idioma disponível para o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the Menu bar, select &lt;f0&gt;File &gt; Export as PDF&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T221250Z" creationid="olivier-tdf" creationdate="20250117T221250Z">
@@ -23402,6 +23466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023319Z" creationid="olivier" creationdate="20250321T023319Z">
         <seg>Caixa de diálogo Opções Idiomas e Localidades — Página de Layout de Texto Complexo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options Languages and Locales dialog — Language Tool Server page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T025227Z" creationid="olivier" creationdate="20250321T025227Z">
+        <seg>Caixa de diálogo Opções Idiomas e Localidades — Página do Servidor LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -33162,6 +33234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T184822Z" creationid="olivier" creationdate="20250318T184822Z">
         <seg>Esta é a configuração padrão desde o LibreOffice 7.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024705Z" creationid="olivier" creationdate="20250321T024705Z">
+        <seg>Este é o padrão.</seg>
       </tuv>
     </tu>
     <tu>
