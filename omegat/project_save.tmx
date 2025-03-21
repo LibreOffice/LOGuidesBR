@@ -10568,8 +10568,8 @@
       <tuv lang="en-US">
         <seg>Each sub-module is available in one or more languages.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250320T133212Z" creationid="olivier" creationdate="20250320T133212Z">
-        <seg>Cada submódulo está disponível em um ou mais idiomas.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T014142Z" creationid="olivier" creationdate="20250320T133212Z">
+        <seg>Cada submódulo está disponível num ou mais idiomas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13264,8 +13264,8 @@
       <tuv lang="en-US">
         <seg>For example, the characters "1.000" copied from a German Web page probably mean “one thousand” because the dot-on-the-line is the thousands separator in a German locale.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225617Z" creationid="olivier" creationdate="20250319T225617Z">
-        <seg>Por exemplo, os caracteres "1.000" copiados de uma página da Web alemã provavelmente significam "mil" porque o ponto na linha é o separador de milhares em um local alemão.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T014044Z" creationid="olivier" creationdate="20250319T225617Z">
+        <seg>Por exemplo, os caracteres "1.000" copiados de uma página da Web alemã provavelmente significam "mil" porque o ponto na linha é o separador de milhares numa localidade alemã.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19568,8 +19568,8 @@
       <tuv lang="en-US">
         <seg>LibreOffice automatically installs several language modules when it is installed on a computer.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012331Z" creationid="olivier" creationdate="20250321T012331Z">
-        <seg>O LibreOffice instala automaticamente vários módulos de idioma quando é instalado em um computador.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T014351Z" creationid="olivier" creationdate="20250321T012331Z">
+        <seg>O LibreOffice instala automaticamente vários módulos de idioma quando é instalado num computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22296,8 +22296,8 @@
       <tuv lang="en-US">
         <seg>Once the macro is created in LibreOffice Basic IDE, it appears in the source text of the HTML document in the header.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230310Z" creationid="olivier" creationdate="20250319T230310Z">
-        <seg>Depois de criar a macro no LibreOffice Basic IDE, ela aparece no texto de origem do documento HTML no cabeçalho.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T014111Z" creationid="olivier" creationdate="20250319T230310Z">
+        <seg>Após criar a macro no LibreOffice Basic IDE, ela aparece no texto de origem do documento HTML no cabeçalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22816,8 +22816,8 @@
       <tuv lang="en-US">
         <seg>Opens the Edit Custom Dictionary dialog allowing adding new entries and editing existing entries in a custom dictionary.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010032Z" creationid="olivier" creationdate="20250321T010032Z">
-        <seg>Abre a caixa de diálogo Editar dicionário personalizado, permitindo adicionar novas entradas e editar entradas existentes em um dicionário personalizado.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T014207Z" creationid="olivier" creationdate="20250321T010032Z">
+        <seg>Abre a caixa de diálogo Editar dicionário personalizado, permitindo adicionar novas entradas e editar entradas existentes num dicionário personalizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25618,6 +25618,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134758Z" creationid="olivier-tdf" creationdate="20250303T134758Z">
         <seg>Pesquisa o último termo de pesquisa inserido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Searching in Japanese</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T014316Z" creationid="olivier" creationdate="20250321T014316Z">
+        <seg>Pesquisar em japonês</seg>
       </tuv>
     </tu>
     <tu>
@@ -33072,8 +33080,8 @@
       <tuv lang="en-US">
         <seg>To change a value in an option, select the entry.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012242Z" creationid="olivier" creationdate="20250321T012242Z">
-        <seg>Para alterar um valor em uma opção, selecione a entrada.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T014336Z" creationid="olivier" creationdate="20250321T012242Z">
+        <seg>Para alterar um valor numa opção, selecione a entrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34992,8 +35000,8 @@
       <tuv lang="en-US">
         <seg>Type numbers and characters that correspond to the defined date acceptance patterns into a table cell, and then move the cursor outside of the cell.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250320T132157Z" creationid="olivier" creationdate="20250320T131832Z">
-        <seg>Digite números e caracteres que correspondem aos formatos de aceitação de data definidos em uma célula da tabela e, em seguida, mova o cursor para fora da célula.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T014130Z" creationid="olivier" creationdate="20250320T131832Z">
+        <seg>Digite números e caracteres que correspondem aos formatos de aceitação de data definidos numa célula da tabela e, em seguida, mova o cursor para fora da célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36390,6 +36398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a custom dictionary is edited, a check is made on the status of the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T014230Z" creationid="olivier" creationdate="20250321T014230Z">
+        <seg>Quando um dicionário personalizado for editado, uma verificação é feita no status do arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a document is created the document name will be Untitled X, where X is a number.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T142934Z" creationid="tulio" creationdate="20250119T142934Z">
@@ -36728,8 +36744,8 @@
       <tuv lang="en-US">
         <seg>When saving in a format other than Microsoft Format, the Microsoft Basic Code is not saved.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013942Z" creationid="olivier" creationdate="20250318T161843Z">
-        <seg>Ao salvar num formato diferente do formato  Microsoftt, o código Microsoft BASIC não é salvo.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013957Z" creationid="olivier" creationdate="20250318T161843Z">
+        <seg>Ao salvar num formato diferente do formato Microsoftt, o código Microsoft BASIC não é salvo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38528,8 +38544,8 @@
       <tuv lang="en-US">
         <seg>macOS keyboard shortcuts</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250302T234644Z" creationid="olivier" creationdate="20250302T234644Z">
-        <seg>atalhos de teclado do macOS</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T014607Z" creationid="olivier" creationdate="20250302T234644Z">
+        <seg>Atalhos de teclado do macOS</seg>
       </tuv>
     </tu>
     <tu>
