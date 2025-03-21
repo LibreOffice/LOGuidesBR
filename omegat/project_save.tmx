@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Arabic&lt;/f0&gt; — all numbers are shown using Arabic numerals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024642Z" creationid="olivier" creationdate="20250321T024642Z">
+        <seg>&lt;f0&gt;Arábico&lt;/f0&gt; — todos os números são mostrados usando algarismos arábicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Area&lt;/f0&gt;: Modify fill and transparency.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T110828Z" creationid="timot" creationdate="20250114T110828Z">
@@ -714,6 +722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T214847Z" creationid="timot" creationdate="20250114T112110Z">
         <seg>&lt;f0&gt;Deque Galeria&lt;/f0&gt;: contém imagens e diagramas incluídos nos temas da Galeria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;General Options&lt;/f0&gt; setting is not saved in the document but in the LibreOffice configuration.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024219Z" creationid="olivier" creationdate="20250321T024219Z">
+        <seg>A configuração de &lt;f0&gt;Opções gerais&lt;/f0&gt; não é salva no documento, mas na configuração do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9190,6 +9206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cursor control</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023906Z" creationid="olivier" creationdate="20250321T023906Z">
+        <seg>Controle do cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cursor position</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250212T221946Z" creationid="olivier" creationdate="20250212T221946Z">
@@ -10918,6 +10942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enables sequence input checking for languages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023657Z" creationid="olivier" creationdate="20250321T023657Z">
+        <seg>Habilita a verificação de entrada de sequência para idiomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enables the font replacement settings that have been defined.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T123023Z" creationid="olivier" creationdate="20250313T123023Z">
@@ -12050,6 +12082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155654Z" creationid="olivier" creationdate="20250121T155654Z">
         <seg>Figura &lt;seq0&gt;20&lt;/seq0&gt;: Caixa de diálogo Mover/Copiar planilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Options Languages and Locales dialog — Complex Text Layout page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023239Z" creationid="olivier" creationdate="20250321T023239Z">
+        <seg>Figura &lt;seq0&gt;20&lt;/seq0&gt;: Caixa de diálogo Opções Idiomas e Localidades — Página de Layout de Texto Complexo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14710,6 +14750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>General Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024154Z" creationid="olivier" creationdate="20250321T024154Z">
+        <seg>Opções gerais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>General printing options</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T133511Z" creationid="olivier" creationdate="20250223T133511Z">
@@ -16266,6 +16314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154758Z" creationid="olivier" creationdate="20250223T154758Z">
         <seg>Se o LibreOffice imprimir os slides na ordem errada, selecione esta opção e imprima o documento novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If Sequence Input Checking (SIC) is enabled, LibreOffice will not allow a character next to another specific character if it is forbidden by a rule.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023520Z" creationid="olivier" creationdate="20250321T023520Z">
+        <seg>Se a Verificação de Entrada de Sequência (SIC) estiver ativada, o LibreOffice não permitirá um caractere ao lado de outro caractere específico se for proibido por uma regra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18126,6 +18182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In languages, for example Thai, rules specify that certain characters are not allowed next to other characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023505Z" creationid="olivier" creationdate="20250321T023505Z">
+        <seg>Em idiomas, por exemplo, tailandês, as regras especificam que certos caracteres não são permitidos ao lado de outros caracteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In macOS — click on the red button at the left end of the title bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T233155Z" creationid="olivier" creationdate="20250220T233155Z">
@@ -18186,6 +18250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213159Z" creationid="olivier-tdf" creationdate="20250109T214752Z">
         <seg>Na maioria dos casos, é possível interagir apenas com a caixa de diálogo (não com o documento em si), desde que a caixa de diálogo permaneça aberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In multicolumn pages, sections, or frames that are formatted with text flow from right to left, the first column is the right column and the last column is the left column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023418Z" creationid="olivier" creationdate="20250321T023418Z">
+        <seg>Em páginas, seções ou quadros multicolunas formatados com fluxo de texto da direita para a esquerda, a primeira coluna é a coluna da direita e a última coluna é a coluna da esquerda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20510,6 +20582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Logical</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023933Z" creationid="olivier" creationdate="20250321T023933Z">
+        <seg>Lógico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mac OS X (Aarch64/Apple Silicon)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194046Z" creationid="olivier-tdf" creationdate="20250109T194046Z">
@@ -22086,6 +22166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Numerals</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024226Z" creationid="olivier" creationdate="20250321T024226Z">
+        <seg>Numerais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ODF format version</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T153143Z" creationid="olivier" creationdate="20250318T153143Z">
@@ -22666,6 +22754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T223822Z" creationid="olivier-tdf" creationdate="20250224T223822Z">
         <seg>Disponível apenas se o tamanho do papel for menor que o tamanho do slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only cell contents of LibreOffice Calc are not affected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024501Z" creationid="olivier" creationdate="20250321T024501Z">
+        <seg>Apenas o conteúdo das células do LibreOffice Calc não é afetado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23298,6 +23394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T021003Z" creationid="olivier" creationdate="20250321T021003Z">
         <seg>Caixa de diálogo Opções Idiomas e Localidades — Layout Asiático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options Languages and Locales dialog — Complex Text Layout page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023319Z" creationid="olivier" creationdate="20250321T023319Z">
+        <seg>Caixa de diálogo Opções Idiomas e Localidades — Página de Layout de Texto Complexo</seg>
       </tuv>
     </tu>
     <tu>
@@ -24430,6 +24534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prevents the use and the printing of illegal character combinations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023800Z" creationid="olivier" creationdate="20250321T023800Z">
+        <seg>Impede o uso e a impressão de combinações ilegais de caracteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Preview pages or sheets before printing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142928Z" creationid="olivier" creationdate="20250223T142928Z">
@@ -25362,6 +25474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233009Z" creationid="olivier-tdf" creationdate="20250224T233009Z">
         <seg>Restaurar do backup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restricted</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023746Z" creationid="olivier" creationdate="20250321T023746Z">
+        <seg>Restrito</seg>
       </tuv>
     </tu>
     <tu>
@@ -27478,6 +27598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the type of cursor movement and text selection for mixed text (right-to-left mixed with left-to-right text direction).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023926Z" creationid="olivier" creationdate="20250321T023926Z">
+        <seg>Selecione o tipo de movimento do cursor e a seleção de texto para texto misto (misturado da direita para a esquerda com a direção do texto da esquerda para a direita).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the type of format and format color in the list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164117Z" creationid="olivier" creationdate="20250204T164117Z">
@@ -27926,6 +28054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selects the type of numerals used within text, text in objects, fields, and controls, in all LibreOffice modules.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024443Z" creationid="olivier" creationdate="20250321T024443Z">
+        <seg>Seleciona o tipo de números usados no texto, texto em objetos, campos e controles, em todos os módulos do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Send Feedback</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195918Z" creationid="olivier-tdf" creationdate="20250109T195918Z">
@@ -27938,6 +28074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192318Z" creationid="olivier-tdf" creationdate="20250309T192318Z">
         <seg>Enviar relatório de erros para a The Document Foundation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sequence Checking</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023432Z" creationid="olivier" creationdate="20250321T023432Z">
+        <seg>Verificação de sequência</seg>
       </tuv>
     </tu>
     <tu>
@@ -35430,6 +35574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type and replace</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023824Z" creationid="olivier" creationdate="20250321T023824Z">
+        <seg>Digitar e substituir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type at least one character, a space, a hyphen, another space, and at least one more letter.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T160859Z" creationid="timot" creationdate="20250205T160859Z">
@@ -35842,6 +35994,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T112228Z" creationid="timot" creationdate="20250221T112228Z">
         <seg>Use estilos de parágrafo Numeração 1, Numeração 2, Numeração 3, etc, para criar listas ordenadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use sequence checking</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023609Z" creationid="olivier" creationdate="20250321T023609Z">
+        <seg>Usar verificação de sequência</seg>
       </tuv>
     </tu>
     <tu>
@@ -36358,6 +36518,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using the &lt;f0&gt;Right Arrow&lt;/f0&gt; key moves the text cursor in the right-hand direction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024123Z" creationid="olivier" creationdate="20250321T024123Z">
+        <seg>Usando a tecla de &lt;f0&gt;seta para a direita&lt;/f0&gt; move o cursor de texto na direção da direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the &lt;f0&gt;Right Arrow&lt;/f0&gt; key moves the text cursor towards the end of the current text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024031Z" creationid="olivier" creationdate="20250321T024031Z">
+        <seg>Usando a tecla de &lt;f0&gt;seta para a direita&lt;/f0&gt; move o cursor de texto para o final do texto atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the &lt;f1&gt;Left Arrow&lt;/f1&gt; key moves the text cursor in the left-hand direction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024148Z" creationid="olivier" creationdate="20250321T024148Z">
+        <seg>Usando a tecla de &lt;f1&gt;seta para a esquerda&lt;/f1&gt; move o cursor de texto na direção da esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the &lt;f1&gt;Left Arrow&lt;/f1&gt; key moves the text cursor towards the beginning of the current text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024039Z" creationid="olivier" creationdate="20250321T024039Z">
+        <seg>Usando a tecla de &lt;f1&gt;seta para a esquerda&lt;/f1&gt; move o cursor de texto em direção ao início do texto atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the Fill tool</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215325Z" creationid="olivier" creationdate="20250123T215325Z">
@@ -36578,6 +36770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T204318Z" creationid="olivier-tdf" creationdate="20250309T204318Z">
         <seg>Visibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visual</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024048Z" creationid="olivier" creationdate="20250321T024048Z">
+        <seg>Visual</seg>
       </tuv>
     </tu>
     <tu>
@@ -37274,6 +37474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T132450Z" creationid="olivier" creationdate="20250320T132450Z">
         <seg>Quando selecionado, ativa o suporte a idiomas asiáticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When selected, allows typing and replacing of characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023901Z" creationid="olivier" creationdate="20250321T023901Z">
+        <seg>Quando selecionado, permite digitar e substituir caracteres.</seg>
       </tuv>
     </tu>
     <tu>
