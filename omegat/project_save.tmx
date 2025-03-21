@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;New&lt;/f0&gt; and &lt;f1&gt;Delete&lt;/f1&gt; are deactivated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010101Z" creationid="olivier" creationdate="20250321T010101Z">
+        <seg>&lt;f0&gt;Novo&lt;/f0&gt; e &lt;f1&gt;Excluir&lt;/f1&gt; estão desativados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Number Format:&lt;/f0&gt; Options for formatting numbers, including decimals, percentages, currency, and dates.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213942Z" creationid="olivier-tdf" creationdate="20250116T213942Z">
@@ -2066,6 +2074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T131016Z" creationid="olivier" creationdate="20250320T131016Z">
         <seg>&lt;s0&gt;Opções - Caixa de diálogo Idiomas e Localidades — Página Idiomas&lt;/s0&gt;&lt;s1&gt; Opções - Caixa de diálogo Idiomas e Localidades — Página Idiomas&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options Languages and Locales dialog — Writing Aids page&lt;/s0&gt;&lt;s1&gt;Options Languages and Locales dialog — Writing Aids page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010231Z" creationid="olivier" creationdate="20250321T010231Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Opções Idiomas e Localidades — Página de Recursos para redação&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Opções Idiomas e Localidades — Página de Recursos para redação&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3250,6 +3266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="tulio" creationdate="20250119T173723Z">
         <seg>Uma paleta de ferramentas é uma coleção de ferramentas anexadas a uma única ferramenta numa barra de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A user can only edit and delete the user dictionaries that are located in the writable path.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005801Z" creationid="olivier" creationdate="20250321T005801Z">
+        <seg>Um usuário só pode editar e excluir os dicionários de usuário localizados no caminho gravável.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5014,6 +5038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Automatically checks spelling as text is typed and underlines errors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011025Z" creationid="olivier" creationdate="20250321T011025Z">
+        <seg>Verifica automaticamente a ortografia enquanto digita, e sublinha os erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Available Language Modules</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T133136Z" creationid="olivier" creationdate="20250320T133136Z">
@@ -6238,6 +6270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check spelling as you type</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010950Z" creationid="olivier" creationdate="20250321T010950Z">
+        <seg>Verificar ortografia ao digitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check the descriptions to see what licenses and fees apply to extensions from other sources.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T082637Z" creationid="olivier" creationdate="20250308T082637Z">
@@ -7038,6 +7078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Help&lt;/f0&gt; for more information on the options available for the New Dictionary dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010015Z" creationid="olivier" creationdate="20250321T010015Z">
+        <seg>Clique em &lt;f0&gt;Ajuda&lt;/f0&gt; para obter mais informações sobre as opções disponíveis para esta caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Insert&lt;/f0&gt; and select &lt;f1&gt;Insert Separator&lt;/f1&gt; from the drop‑down list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T213845Z" creationid="olivier" creationdate="20250307T213845Z">
@@ -7298,6 +7346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T232456Z" creationid="olivier-tdf" creationdate="20250224T232456Z">
         <seg>Clique em &lt;f3&gt;Visualização de página única&lt;/f3&gt; para retornar o documento à visualização normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on Help for more information on the options available for the Edit Custom Dictionary dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010125Z" creationid="olivier" creationdate="20250321T010125Z">
+        <seg>Clique em Ajuda para obter mais informações sobre as opções disponíveis para a caixa de diálogo Editar dicionário personalizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9310,6 +9366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defines the options for spell check and hyphenation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010325Z" creationid="olivier" creationdate="20250321T010325Z">
+        <seg>Define as opções de verificação ortográfica e hifenização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defines the settings for importing HTML documents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T185955Z" creationid="olivier" creationdate="20250318T185955Z">
@@ -10442,6 +10506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T202838Z" creationid="olivier-tdf" creationdate="20250112T202838Z">
         <seg>Ed Olson, B. Antonio Fernandez, Olivier Hallot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005811Z" creationid="olivier" creationdate="20250321T005811Z">
+        <seg>Editar</seg>
       </tuv>
     </tu>
     <tu>
@@ -11594,6 +11666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250207T104806Z" creationid="timot" creationdate="20250207T104806Z">
         <seg>Figura &lt;seq0&gt;17&lt;/seq0&gt;: Menu de contexto para erros gramaticais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Options Languages and Locales dialog — Writing Aids page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010310Z" creationid="olivier" creationdate="20250321T010310Z">
+        <seg>Figura &lt;seq0&gt;17&lt;/seq0&gt;: Caixa de diálogo Opções Idiomas e Localidades — Página de Recursos para redação</seg>
       </tuv>
     </tu>
     <tu>
@@ -16462,6 +16542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the cursor is placed over a highlighted word, a context menu opens with a list of suggested corrections.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011116Z" creationid="olivier" creationdate="20250321T011116Z">
+        <seg>Se o cursor for colocado sobre uma palavra destacada, um menu de contexto abre com uma lista de correções sugeridas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the default printer is being used, then this printer will already be selected.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T145118Z" creationid="olivier" creationdate="20250223T145118Z">
@@ -16498,6 +16586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T233206Z" creationid="olivier" creationdate="20250220T233206Z">
         <seg>Se o documento a ser fechado for o único documento aberto, acontece o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the file is write-protected, it cannot be changed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010052Z" creationid="olivier" creationdate="20250321T010052Z">
+        <seg>Se o arquivo estiver protegido contra gravação, ele não poderá ser alterado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19862,6 +19958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lists the available user dictionaries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005851Z" creationid="olivier" creationdate="20250321T005851Z">
+        <seg>Lista os dicionários disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lists the installed language modules in LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T133142Z" creationid="olivier" creationdate="20250320T133142Z">
@@ -21186,6 +21290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225831Z" creationid="olivier-tdf" creationdate="20250122T225831Z">
         <seg>Números negativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005933Z" creationid="olivier" creationdate="20250321T005933Z">
+        <seg>Novo</seg>
       </tuv>
     </tu>
     <tu>
@@ -22518,6 +22630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens the Edit Custom Dictionary dialog allowing adding new entries and editing existing entries in a custom dictionary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010032Z" creationid="olivier" creationdate="20250321T010032Z">
+        <seg>Abre a caixa de diálogo Editar dicionário personalizado, permitindo adicionar novas entradas e editar entradas existentes em um dicionário personalizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens the Enter Title dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T140057Z" creationid="olivier-tdf" creationdate="20250303T140057Z">
@@ -22554,6 +22674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134835Z" creationid="olivier-tdf" creationdate="20250303T134835Z">
         <seg>Abre o conteúdo da Ajuda do LibreOffice no seu navegador padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the New Dictionary dialog where the details of a new user-defined dictionary are added and the language specified.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005948Z" creationid="olivier" creationdate="20250321T005948Z">
+        <seg>Abre a caixa de diálogo Novo Dicionário, onde os detalhes de um novo dicionário definido pelo usuário são adicionados e o idioma especificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22686,10 +22814,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010316Z" creationid="olivier" creationdate="20250321T010316Z">
+        <seg>Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options - Languages and Locales dialog — Languages page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T131045Z" creationid="olivier" creationdate="20250320T131045Z">
         <seg>Opções - Caixa de diálogo Idiomas e Localidades — Página Idiomas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options Languages and Locales dialog — Writing Aids page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010314Z" creationid="olivier" creationdate="20250321T010314Z">
+        <seg>Caixa de diálogo Opções Idiomas e Localidades — Página de Recursos para redação</seg>
       </tuv>
     </tu>
     <tu>
@@ -22890,6 +23034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T144847Z" creationid="olivier" creationdate="20250223T144847Z">
         <seg>Orientação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other dictionaries can be read only.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005810Z" creationid="olivier" creationdate="20250321T005810Z">
+        <seg>Outros dicionários podem ser lidos apenas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26014,6 +26166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a suggested correction to replace the suspect word with the suggestion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011135Z" creationid="olivier" creationdate="20250321T011135Z">
+        <seg>Selecione uma correção sugerida para substituir a palavra suspeita pela sugestão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a tool in the &lt;f0&gt;Available Commands&lt;/f0&gt; list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222414Z" creationid="olivier" creationdate="20250307T222414Z">
@@ -26822,6 +26982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the user dictionaries required for spelling and hyphenation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005931Z" creationid="olivier" creationdate="20250321T005931Z">
+        <seg>Selecione os dicionários de usuário necessários para ortografia e hifenização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the visibility mode (&lt;f0&gt;Automatic, Hide, Show&lt;/f0&gt;) to hide or show icons as well as text on the Menu bar and in shortcut items.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250310T223249Z" creationid="olivier" creationdate="20250310T223249Z">
@@ -26986,6 +27154,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155213Z" creationid="olivier" creationdate="20250223T155213Z">
         <seg>Selecione quais slides no documento a imprimir na lista suspensa: (&lt;f0&gt;Todas as páginas&lt;/f0&gt;; &lt;f1&gt;Apenas ímpar&lt;/f1&gt;; &lt;f2&gt;Apenas par)&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select, or deselect, each sub-module as required.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005836Z" creationid="olivier" creationdate="20250321T005836Z">
+        <seg>Selecione ou desmarque cada submódulo, conforme necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29874,6 +30050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010124Z" creationid="olivier" creationdate="20250318T010124Z">
         <seg>O driver da placa de vídeo do computador deve ter suporte para OpenCL para usar esse recurso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The configuration allows two folders: one folder where a user has write permissions, and one folder without write permissions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005735Z" creationid="olivier" creationdate="20250321T005735Z">
+        <seg>A configuração permite duas pastas: uma pasta onde um usuário tem permissões de gravação e uma pasta sem permissões de gravação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33094,6 +33278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To edit a language module, click on &lt;f0&gt;Edit&lt;/f0&gt; to open the Edit Modules dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005828Z" creationid="olivier" creationdate="20250321T005828Z">
+        <seg>Para editar um módulo de idioma, clique em &lt;f0&gt;Editar&lt;/f0&gt; para abrir a caixa de diálogo Editar módulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To edit line drawings, use a vector drawing program.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T010352Z" creationid="tulio" creationdate="20250320T010352Z">
@@ -34598,6 +34790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Typing errors are highlighted in the document with a red wavy underline.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011042Z" creationid="olivier" creationdate="20250321T011042Z">
+        <seg>Os erros de digitação são destacados no documento com um sublinhado vermelho ondulado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unable to acquire the trademarked OpenOffice.org name from Oracle Corporation, The Document Foundation named its product &lt;f0&gt;as&lt;/f0&gt; LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T232902Z" creationid="olivier" creationdate="20250301T232902Z">
@@ -35194,6 +35394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T201500Z" creationid="olivier-tdf" creationdate="20250308T201500Z">
         <seg>Variantes da interface do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User-defined dictionaries</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005848Z" creationid="olivier" creationdate="20250321T005848Z">
+        <seg>Dicionários definidos pelo usuário</seg>
       </tuv>
     </tu>
     <tu>
