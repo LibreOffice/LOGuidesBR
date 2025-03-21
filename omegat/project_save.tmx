@@ -760,8 +760,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Internal Paths&lt;/f0&gt; is a shared folder where LibreOffice is installed which is normally on a network.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T173630Z" creationid="olivier" creationdate="20250312T173630Z">
-        <seg>&lt;f0&gt;Caminhos internos&lt;/f0&gt; são os caminhos onde o LibreOffice foi instalado que é normalmente .</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013445Z" creationid="olivier" creationdate="20250312T173630Z">
+        <seg>&lt;f0&gt;Caminhos internos&lt;/f0&gt; são os caminhos onde o LibreOffice foi instalado que é normalmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1320,8 +1320,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;User Paths&lt;/f0&gt; is a user-specific folder and is normally located on a single computer.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172956Z" creationid="olivier" creationdate="20250312T172956Z">
-        <seg>&lt;f0&gt;Caminhos do usuário&lt;/f0&gt; são pastas específicas do usuário e normalmente estão localizados em um único computador.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013423Z" creationid="olivier" creationdate="20250312T172956Z">
+        <seg>&lt;f0&gt;Caminhos do usuário&lt;/f0&gt; são pastas específicas do usuário e normalmente estão localizados num único computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3424,8 +3424,8 @@
       <tuv lang="en-US">
         <seg>Add a path to the root folder of a JRE on a computer.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190659Z" creationid="olivier" creationdate="20250316T190659Z">
-        <seg>Adiciona um caminho para a pasta raiz de um JRE em um computador.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013713Z" creationid="olivier" creationdate="20250316T190659Z">
+        <seg>Adiciona um caminho para a pasta raiz de um JRE num computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7118,6 +7118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Close&lt;/f0&gt; to close the Extensions Dictionary dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012902Z" creationid="olivier" creationdate="20250321T012902Z">
+        <seg>Clique em &lt;f0&gt;Fechar&lt;/f0&gt; para fechar a caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Close&lt;/f0&gt; to close the dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T202042Z" creationid="olivier-tdf" creationdate="20250308T202042Z">
@@ -7170,6 +7178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T213911Z" creationid="olivier" creationdate="20250307T213911Z">
         <seg>Clique em &lt;f0&gt;Inserir&lt;/f0&gt; e selecione &lt;f1&gt;Inserir submenu&lt;/f1&gt; na lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Install&lt;/f0&gt; below the required dictionary and the dictionary is installed into LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012843Z" creationid="olivier" creationdate="20250321T012843Z">
+        <seg>Clique em &lt;f0&gt;Instalar&lt;/f0&gt; abaixo do dicionário necessário e o dicionário é instalado no LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8224,8 +8240,8 @@
       <tuv lang="en-US">
         <seg>Columns A through F and rows 1 through 3 are frozen.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250121T164700Z" creationid="olivier" creationdate="20250121T164551Z">
-        <seg>As colunas A a F e as linhas 1 a 3 estão fixadas.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013201Z" creationid="olivier" creationdate="20250121T164551Z">
+        <seg>As colunas A até F e as linhas 1 a 3 estão fixadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10152,8 +10168,8 @@
       <tuv lang="en-US">
         <seg>Double-click on a listed preference to enter a value to configure the preference.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T004644Z" creationid="olivier" creationdate="20250318T004644Z">
-        <seg>Clique duas vezes em uma preferência listada para inserir um valor para configurar a preferência.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013752Z" creationid="olivier" creationdate="20250318T004644Z">
+        <seg>Clique duas vezes numa preferência listada para inserir um valor para configurar a preferência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15054,6 +15070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Language &gt; More Dictionaries Online&lt;/f0&gt; on the Menu bar to open the Extension Dictionaries dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012750Z" creationid="olivier" creationdate="20250321T012750Z">
+        <seg>Vá para &lt;f0&gt;Ferramentas &gt; Idioma &gt; Mais dicionários online&lt;/f0&gt; na barra de menu para abrir a caixa de diálogo Extensões: Dicionários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Language &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;and Locale&lt;/f2&gt;&lt;/f1&gt; (macOS &lt;f3&gt;LibreOffice &gt; Preferences &gt; Language &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;and Locale&lt;/f5&gt;&lt;/f4&gt;) on the Menu bar to open dialogs where the properties for languages, writing aids and language tools can be defined.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232207Z" creationid="olivier" creationdate="20250319T232207Z">
@@ -16040,8 +16064,8 @@
       <tuv lang="en-US">
         <seg>If LibreOffice finds one or more JREs on a computer, it displays them in the list box.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185619Z" creationid="olivier" creationdate="20250316T185619Z">
-        <seg>Se o LibreOffice encontrar um ou mais JREs em um computador, ele os exibirá na caixa de listagem.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013659Z" creationid="olivier" creationdate="20250316T185619Z">
+        <seg>Se o LibreOffice encontrar um ou mais JREs num computador, ele os exibirá na caixa de listagem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16072,8 +16096,8 @@
       <tuv lang="en-US">
         <seg>If a JRE or JDK is installed after installing LibreOffice, or if more than one JRE is installed on a computer, use &lt;f0&gt;Java Options&lt;/f0&gt; to select the JRE for LibreOffice to use.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185441Z" creationid="olivier" creationdate="20250316T185441Z">
-        <seg>Se um JRE ou JDK for instalado após a instalação do LibreOffice, ou se mais de um JRE estiver instalado em um computador, use &lt;f0&gt;Opções Java&lt;/f0&gt; para selecionar o JRE para o LibreOffice usar.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013642Z" creationid="olivier" creationdate="20250316T185441Z">
+        <seg>Se um JRE ou JDK for instalado após a instalação do LibreOffice, ou se mais de um JRE estiver instalado num computador, use &lt;f0&gt;Opções Java&lt;/f0&gt; para selecionar o JRE para o LibreOffice usar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16338,6 +16362,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T204456Z" creationid="olivier" creationdate="20250307T213701Z">
         <seg>Se necessário, clique na seta para cima ou para baixo para mover o comando para a sua posição correta na lista de &lt;f0&gt;Comandos atribuídos&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If necessary, click on the website link to find out more information on the selected dictionary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012811Z" creationid="olivier" creationdate="20250321T012811Z">
+        <seg>Se necessário, clique no link do site para obter mais informações sobre o dicionário selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20342,6 +20374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make sure all documents are saved and closed, then restart LibreOffice for the new dictionary to register in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012916Z" creationid="olivier" creationdate="20250321T012916Z">
+        <seg>Certifique-se de que todos os documentos estejam salvos e fechados e reinicie o LibreOffice para que o novo dicionário se registre no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make sure that the layout orientation (Landscape or Portrait) matches the page format set in &lt;f0&gt;Format &gt; Page&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184234Z" creationid="olivier" creationdate="20250222T184234Z">
@@ -22296,8 +22336,8 @@
       <tuv lang="en-US">
         <seg>Once you have set up nested lists, you can readily change the hierarchy of an item.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250222T101730Z" creationid="timot" creationdate="20250222T101730Z">
-        <seg>Depois de configurar listas aninhadas, a hierarquia de um item pode ser imediatamente mudada.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013054Z" creationid="timot" creationdate="20250222T101730Z">
+        <seg>Após configurar listas aninhadas, a hierarquia de um item pode ser imediatamente mudada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22640,8 +22680,8 @@
       <tuv lang="en-US">
         <seg>Opening a window, switching between windows, and recording in a different window from where the recording began, are not supported.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T192443Z" creationid="olivier" creationdate="20250316T192443Z">
-        <seg>Abrir uma janela, alternar entre janelas e gravar em uma janela diferente de onde a gravação começou não são suportados.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013734Z" creationid="olivier" creationdate="20250316T192443Z">
+        <seg>Abrir uma janela, alternar entre janelas e gravar numa janela diferente de onde a gravação começou não são suportados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25040,8 +25080,8 @@
       <tuv lang="en-US">
         <seg>Results are saved in a log, which is displayed in a pop-up window and can be downloaded.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165435Z" creationid="olivier" creationdate="20250312T165435Z">
-        <seg>Os resultados são salvos em um arquivo de registro, exibido em uma janela pop-up e pode ser baixado.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013334Z" creationid="olivier" creationdate="20250312T165435Z">
+        <seg>Os resultados são salvos num arquivo de registro, exibido numa janela pop-up e pode ser baixado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26032,8 +26072,8 @@
       <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Preinstalled Theme&lt;/f0&gt;, then click on a theme thumbnail and click &lt;f1&gt;Apply&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250314T122014Z" creationid="olivier" creationdate="20250314T122014Z">
-        <seg>Selecione &lt;f0&gt;Tema pré-instalado&lt;/f0&gt;, clique em uma miniatura do tema para selecionar e clique em &lt;f1&gt;Aplicar&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013501Z" creationid="olivier" creationdate="20250314T122014Z">
+        <seg>Selecione &lt;f0&gt;Tema pré-instalado&lt;/f0&gt;, clique numa miniatura do tema para selecionar e clique em &lt;f1&gt;Aplicar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26970,6 +27010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T213615Z" creationid="olivier" creationdate="20250307T213615Z">
         <seg>Selecione o comando necessário na lista de &lt;f0&gt;Comandos disponíveis&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the required dictionary from the list of available dictionaries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012758Z" creationid="olivier" creationdate="20250321T012758Z">
+        <seg>Selecione o dicionário necessário na lista de dicionários disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28352,8 +28400,8 @@
       <tuv lang="en-US">
         <seg>Some options cannot be reset once edited.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185201Z" creationid="olivier" creationdate="20250316T185201Z">
-        <seg>Algumas opções não podem ser redefinidas depois de editadas.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013616Z" creationid="olivier" creationdate="20250316T185201Z">
+        <seg>Algumas opções não podem ser redefinidas após editadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30360,8 +30408,8 @@
       <tuv lang="en-US">
         <seg>The data source linked to the document and its view are always loaded with the document, whether or not this option is selected.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151133Z" creationid="olivier" creationdate="20250318T151133Z">
-        <seg>A fonte de dados vinculada ao documento e sua visualização são sempre carregadas com o documento, independentemente de essa opção estar selecionada ou não.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013819Z" creationid="olivier" creationdate="20250318T151133Z">
+        <seg>A fonte de dados vinculada ao documento e a sua visualização são sempre carregadas com o documento, independentemente de essa opção estar selecionada ou não.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32208,8 +32256,8 @@
       <tuv lang="en-US">
         <seg>This can cause a document to be printed on a distant printer (perhaps in an office setting).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151307Z" creationid="olivier" creationdate="20250318T151307Z">
-        <seg>Isso pode fazer com que um documento seja impresso em uma impressora distante (talvez em um ambiente de escritório).</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013905Z" creationid="olivier" creationdate="20250318T151307Z">
+        <seg>Isso pode fazer com que um documento seja impresso numa impressora distante (talvez num ambiente de escritório).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35200,8 +35248,8 @@
       <tuv lang="en-US">
         <seg>Use &lt;f0&gt;Ctrl+Shift+R&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Shift+R&lt;/f1&gt;) to restore or refresh the view of the current document after changing the anti-aliasing settings to see the effect.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250312T160556Z" creationid="olivier" creationdate="20250312T160556Z">
-        <seg>Para ver o efeito, utilize &lt;f0&gt;Ctrl+Shift+R&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Shift+R&lt;/f1&gt;) para restaurar ou atualizar a exibição do documento após alterar as definições de anti-aliasing .</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013302Z" creationid="olivier" creationdate="20250312T160556Z">
+        <seg>Para ver o efeito, utilize &lt;f0&gt;Ctrl+Shift+R&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Shift+R&lt;/f1&gt;) para restaurar ou atualizar a exibição do documento após alterar as definições de anti-aliasing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36680,8 +36728,8 @@
       <tuv lang="en-US">
         <seg>When saving in a format other than Microsoft Format, the Microsoft Basic Code is not saved.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161843Z" creationid="olivier" creationdate="20250318T161843Z">
-        <seg>Ao salvar em um formato diferente do formato  Microsoftt, o código Microsoft BASIC não é salvo.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013942Z" creationid="olivier" creationdate="20250318T161843Z">
+        <seg>Ao salvar num formato diferente do formato  Microsoftt, o código Microsoft BASIC não é salvo.</seg>
       </tuv>
     </tu>
     <tu>
