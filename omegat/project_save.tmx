@@ -13710,10 +13710,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fit in window</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T223223Z" creationid="olivier" creationdate="20250324T223223Z">
+        <seg>Ajustar à janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fit slide</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222109Z" creationid="olivier" creationdate="20250212T222109Z">
         <seg>Régua de ajuste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fit visible</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T223345Z" creationid="olivier" creationdate="20250324T223345Z">
+        <seg>Ajustar à área visível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fit width</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T223301Z" creationid="olivier" creationdate="20250324T223301Z">
+        <seg>Ajustar à largura</seg>
       </tuv>
     </tu>
     <tu>
@@ -15670,6 +15694,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Generate a PDF file that displays the page zoomed to fit entirely into a PDF reader window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T223259Z" creationid="olivier" creationdate="20250324T223259Z">
+        <seg>Gera um arquivo PDF que mostre a página com zoom para ajustar-se inteiramente à janela do leitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generate a PDF file that displays the page zoomed to fit the width of a PDF reader window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T223342Z" creationid="olivier" creationdate="20250324T223342Z">
+        <seg>Gera um arquivo PDF que mostre a página com zoom para ajustar-à largura da janela do leitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Generate a PDF file that shows a bookmarks palette and page contents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T223033Z" creationid="olivier" creationdate="20250324T223033Z">
@@ -15690,6 +15730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222948Z" creationid="olivier" creationdate="20250324T222948Z">
         <seg>Gere um arquivo PDF que mostre apenas o conteúdo da página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generate a PDF file that shows the page contents without zooming.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T223205Z" creationid="olivier" creationdate="20250324T223205Z">
+        <seg>Gera um arquivo PDF que mostra o conteúdo da página sem zoom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17978,6 +18026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T213209Z" creationid="olivier" creationdate="20250324T213209Z">
         <seg>O LibreOffice pode exportar documentos do Writer, Calc, Impress e Draw no formato de arquivo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the PDF reader application is configured to use a zoom factor by default, the page displays with that zoom factor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T223221Z" creationid="olivier" creationdate="20250324T223221Z">
+        <seg>Se o aplicativo leitor de PDF estiver configurado para usar um fator de zoom por padrão, a página será exibida com esse fator de zoom.</seg>
       </tuv>
     </tu>
     <tu>
