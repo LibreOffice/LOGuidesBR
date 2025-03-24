@@ -4190,6 +4190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allow duplicate field names</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220659Z" creationid="olivier" creationdate="20250324T220659Z">
+        <seg>Permitir nomes de campos duplicados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allows selected multiple printed copies to be collated into separate documents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155029Z" creationid="olivier" creationdate="20250223T155029Z">
@@ -4202,6 +4210,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130800Z" creationid="olivier-tdf" creationdate="20250218T130800Z">
         <seg>Permite a seleção de formato e posicionamento de números ou marcadores em listas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allows the use of the same field name for multiple fields in a generated PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220744Z" creationid="olivier" creationdate="20250324T220744Z">
+        <seg>Permite que o mesmo nome de campo seja usado para vários campos no arquivo PDF gerado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5610,6 +5626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T122239Z" creationid="olivier" creationdate="20250109T002250Z">
         <seg>Book&lt;t0&gt;1&lt;/t0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bookmarks are created for all outline paragraphs and for all table of contents entries where hyperlinks are assigned in the source document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221027Z" creationid="olivier" creationdate="20250324T221027Z">
+        <seg>Os marcadores são criados para todos os parágrafos de estrutura de tópicos e para todas as entradas de índice em que os hiperlinks são atribuídos no documento de origem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8766,6 +8790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comments as PDF annotations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221502Z" creationid="olivier" creationdate="20250324T221318Z">
+        <seg>Anotações como anotações PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compatibility with other spreadsheet applications</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124606Z" creationid="olivier-tdf" creationdate="20250114T124606Z">
@@ -9174,6 +9206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create PDF form</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220428Z" creationid="olivier" creationdate="20250324T220428Z">
+        <seg>Criar formulário PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create or update a style.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T111135Z" creationid="timot" creationdate="20250113T111135Z">
@@ -9194,6 +9234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134620Z" creationid="olivier-tdf" creationdate="20250303T134620Z">
         <seg>Cria um documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creates a universal, accessible PDF file that follows the requirements of PDF/UA (ISO 14289) specifications.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220232Z" creationid="olivier" creationdate="20250324T220232Z">
+        <seg>Cria um arquivo PDF universal que atende os requisitos de acessibilidade das especificações PDF/UA (ISO 14289).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12102,10 +12150,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Export automatically inserted blank pages</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221638Z" creationid="olivier" creationdate="20250324T221638Z">
+        <seg>Exportar páginas em branco inseridas automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Export dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T213129Z" creationid="olivier" creationdate="20250324T213129Z">
         <seg>Caixa de diálogo Exportar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export outlines</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220852Z" creationid="olivier" creationdate="20250324T220852Z">
+        <seg>Exportar tópicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export placeholders</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221231Z" creationid="olivier" creationdate="20250324T221231Z">
+        <seg>Exportar espaços reservados</seg>
       </tuv>
     </tu>
     <tu>
@@ -14218,6 +14290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145216Z" creationid="tulio" creationdate="20250119T145216Z">
         <seg>Por exemplo, a barra de menus padrão para o módulo LibreOffice Writer inclui os controles descritos &lt;f0&gt;na Tabela &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the default version of Paragraph Style Title is not exported when its Outline level is Text Body.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221228Z" creationid="olivier" creationdate="20250324T221228Z">
+        <seg>Por exemplo, a versão padrão do estilo de parágrafo Título não é exportada quando seu nível de estrutura de tópicos é Corpo de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17406,6 +17486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If disabled, field names are assigned generated unique names.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220816Z" creationid="olivier" creationdate="20250324T220816Z">
+        <seg>Se desativado, os nomes dos campos serão exportados usando nomes únicos gerados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If disabled, the default printer will be used to print the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151331Z" creationid="olivier" creationdate="20250318T151331Z">
@@ -18126,6 +18214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this option is selected, comments are included in the PDF file as annotations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221518Z" creationid="olivier" creationdate="20250324T221443Z">
+        <seg>Se esta opção for selecionada, as anotações serão incluídos no arquivo PDF como anotações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this option is selected, the next time the document is closed after printing, the print date is recorded in the document properties as a change.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T191915Z" creationid="olivier-tdf" creationdate="20250309T191915Z">
@@ -18170,6 +18266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T210635Z" creationid="olivier" creationdate="20250301T232552Z">
         <seg>Se for novo no LibreOffice, este apêndice fornecerá algumas informações sobre a sua história, a sua comunidade e algumas de suas especificações técnicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you are submitting forms within the PDF file, select the available options from the &lt;f0&gt;Submit format&lt;/f0&gt; drop‑down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220450Z" creationid="olivier" creationdate="20250324T220450Z">
+        <seg>Se estiver enviando formulários no arquivo PDF, selecione as opções disponíveis na lista suspensa &lt;f0&gt;Formato de envio&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20162,6 +20266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215248Z" creationid="olivier-tdf" creationdate="20250109T215248Z">
         <seg>Está escrito em Java?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It also compresses better (JPEG 2000) than PDF/A-1b, usually producing smaller files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220150Z" creationid="olivier" creationdate="20250324T220150Z">
+        <seg>Também comprime melhor que o formato PDF/A-1b (usando o padrão JPEG 2000), em geral produzindo arquivo menores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23406,6 +23518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Normally PDF format is selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220656Z" creationid="olivier" creationdate="20250324T220656Z">
+        <seg>Normalmente, o formato PDF é selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Normally, long edge binding is used for portrait printing and short edge binding is used for landscape printing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T231233Z" creationid="olivier-tdf" creationdate="20250224T231233Z">
@@ -24226,6 +24346,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T010259Z" creationid="tulio" creationdate="20250116T004833Z">
         <seg>Somente os arquivos que podem ser abertos pelo módulo LibreOffice selecionado são exibidos no centro de partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only one setting is valid for the PDF document: PDF (sends the whole document); FDF (sends the control contents); HTML, and XML.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220635Z" creationid="olivier" creationdate="20250324T220635Z">
+        <seg>Apenas uma configuração é válida para o documento PDF: PDF (envia todo o documento); FDF (envia o conteúdo de controle); HTML e XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only paragraphs with Outline level 1 — 10 are exported.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221101Z" creationid="olivier" creationdate="20250324T221101Z">
+        <seg>Somente os parágrafos com nível de tópico 1 a 10 são exportados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25322,6 +25458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220130Z" creationid="olivier" creationdate="20250324T220130Z">
         <seg>O formato PDF/A-2b é recomendado para a maioria dos usuário, por que permite camadas e transparências em desenhos e imagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PDF/A-3b is identical to PDF/A-2b, but also accepts embedding of other file formats.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220202Z" creationid="olivier" creationdate="20250324T220202Z">
+        <seg> O formato PDF/A-3b é idêntico ao PDF/A-2b, mas aceita também incorporar outros' formatos de arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29886,6 +30030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sets options for diverse features such as bookmarks, comments, page layout, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220849Z" creationid="olivier" creationdate="20250324T220849Z">
+        <seg>Define as opções para várias estruturas tais como marca-páginas, anotações, leiaute de página e mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sets the PDF export options for images in a PDF file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215034Z" creationid="olivier" creationdate="20250324T215034Z">
@@ -30678,6 +30830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some tags that are exported are table of contents, hyperlinks, and controls.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220422Z" creationid="olivier" creationdate="20250324T220422Z">
+        <seg>Algumas marcas exportadas são índices, hiperlinks e controles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some toolbars in LibreOffice are context sensitive and only open when an object is selected, or the cursor has been positioned in text.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T140509Z" creationid="tulio" creationdate="20250211T140509Z">
@@ -31286,6 +31446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Structure</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220818Z" creationid="olivier" creationdate="20250324T220818Z">
+        <seg>Estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Style Category</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130848Z" creationid="olivier-tdf" creationdate="20250218T130848Z">
@@ -31810,6 +31978,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T204839Z" creationid="olivier" creationdate="20250324T204839Z">
         <seg>Tag Image File Format (*.tif, *.tiff)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tagged PDF (add document structure)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220236Z" creationid="olivier" creationdate="20250324T220236Z">
+        <seg>PDF marcado (adiciona a estrutura do documento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tagged PDFs contain information about the structure of document contents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220251Z" creationid="olivier" creationdate="20250324T220251Z">
+        <seg>PDF marcado contém informações sobre a estrutura do conteúdo do documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33022,6 +33206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The exported pages are scaled down and the comments are placed into margins.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221622Z" creationid="olivier" creationdate="20250324T221622Z">
+        <seg>As páginas exportadas são reduzidas e as anotações são colocadas nas margens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The fields are updated with the latest information when the spreadsheet is saved or recalculated using the &lt;f0&gt;Ctrl+Shift+F9&lt;/f0&gt; shortcut or going to &lt;f1&gt;Data &gt; Calculate &gt; Recalculate Hard&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205955Z" creationid="olivier" creationdate="20250123T205955Z">
@@ -33466,6 +33658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T210523Z" creationid="olivier-tdf" creationdate="20250303T140716Z">
         <seg>O sinal de multiplicação só está disponível num teclado numérico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The name of the Paragraph Style is irrelevant.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221136Z" creationid="olivier" creationdate="20250324T221136Z">
+        <seg>O nome do estilo de parágrafo é irrelevante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34134,6 +34334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The user can choose if the PDF file will include any defined placeholder fields, which can be filled in by users.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221315Z" creationid="olivier" creationdate="20250324T221315Z">
+        <seg>Escolha se o arquivo PDF incluirá quaisquer campos de espaço reservado definidos, que podem ser preenchidos pelos usuários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The watermark is not part of the source document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215754Z" creationid="olivier" creationdate="20250324T215754Z">
@@ -34782,6 +34990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can help to display the document on devices with different screens and using screen &lt;t0/&gt;reader applications.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220415Z" creationid="olivier" creationdate="20250324T220415Z">
+        <seg>Isso pode ajudar a exibir o documento em dispositivos com telas diferentes e ao usar um &lt;t0/&gt;software leitor de tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This chapter describes some common customizations that can be carried out, as follows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134902Z" creationid="olivier" creationdate="20250305T134902Z">
@@ -35174,10 +35390,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This menu will override the URL property that is set in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220533Z" creationid="olivier" creationdate="20250324T220533Z">
+        <seg>Esta configuração se sobrepõe às propriedades de URL configuradas para o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This opens the Select Path dialog, or Edit Paths dialog, allowing folders to added, edited, or deleted as required.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172834Z" creationid="olivier" creationdate="20250312T172834Z">
         <seg>Isso abre a caixa de diálogo Selecionar caminho ou Editar caminhos, permitindo que as pastas sejam adicionadas, editadas ou excluídas conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option can increase file sizes significantly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220425Z" creationid="olivier" creationdate="20250324T220425Z">
+        <seg>Esta opção pode aumentar significativamente o tamanho dos arquivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35194,6 +35426,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T231329Z" creationid="olivier-tdf" creationdate="20250224T231329Z">
         <seg>Esta opção só está ativa ao imprimir várias cópias do mesmo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option is only available in Writer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221242Z" creationid="olivier" creationdate="20250324T221242Z">
+        <seg>Esta opção só está disponível no Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36218,6 +36458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T214758Z" creationid="olivier" creationdate="20250324T214758Z">
         <seg>Para exportar um intervalo de páginas, use o formato 3-6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To export comments of Writer documents as displayed in LibreOffice, select &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Print&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice Writer &gt; Print&lt;/f1&gt;) and select the &lt;f2&gt;In margins&lt;/f2&gt; option in &lt;f3&gt;Comments&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221558Z" creationid="olivier" creationdate="20250324T221558Z">
+        <seg>Para exportar anotações de documentos do Writer exibidos no LibreOffice, selecione &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Writer &gt; Imprimir&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; LibreOffice Writer &gt; Imprimir&lt;/f1&gt;) e selecione a opção &lt;f2&gt;Nas margens&lt;/f2&gt; em &lt;f3&gt;Anotações&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37822,6 +38070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Universal Accessibility (PDF/UA)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220219Z" creationid="olivier" creationdate="20250324T220219Z">
+        <seg>Acessibilidade universal (PDF/UA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unlike Save As, exporting the file produces a document while keeping the current file format of the actual document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T212939Z" creationid="olivier" creationdate="20250324T212939Z">
@@ -38282,6 +38538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T184509Z" creationid="olivier" creationdate="20250318T184509Z">
         <seg>Utilize este controle para selecionar o atributo, highlighting ou shading, que o LibreOffice deve usar ao exportar o destaque de caracteres do LibreOffice para arquivos no formato do Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this option to export bookmarks of Writer documents as PDF bookmarks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221007Z" creationid="olivier" creationdate="20250324T221007Z">
+        <seg>Use esta opção para exportar favoritos de documentos do Writer como favoritos em PDF.</seg>
       </tuv>
     </tu>
     <tu>
