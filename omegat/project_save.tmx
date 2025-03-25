@@ -2366,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;PDF Options dialog — Digital Signatures page&lt;/s0&gt;&lt;s1&gt;PDF Options dialog — Digital Signatures page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201128Z" creationid="olivier" creationdate="20250325T201128Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Opções de PDF — Página Assinaturas Digitais&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Opções de PDF — Página Assinaturas Digitais&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;PDF Options dialog — General page&lt;/s0&gt;&lt;s1&gt;PDF Options dialog — General page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T214315Z" creationid="olivier" creationdate="20250324T214315Z">
@@ -4134,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All certificates found in the selected key store are displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201507Z" creationid="olivier" creationdate="20250325T201507Z">
+        <seg>Todos os certificados encontrados no armazenamento de chaves selecionado são mostrados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All changes are permitted, except extracting pages.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200907Z" creationid="olivier" creationdate="20250325T200907Z">
@@ -4178,6 +4194,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192631Z" creationid="olivier-tdf" creationdate="20250109T192631Z">
         <seg>Todos os módulos compartilham um verificador ortográfico comum e outras ferramentas, que são usadas de forma consistente em toda a suíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All other fields on the Digital Signatures page are only accessible after a certificate has been selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201641Z" creationid="olivier" creationdate="20250325T201641Z">
+        <seg>Os demais campos na página Assinaturas Digitais só são acessíveis após a seleção de um certificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4290,6 +4314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220744Z" creationid="olivier" creationdate="20250324T220744Z">
         <seg>Permite que o mesmo nome de campo seja usado para vários campos no arquivo PDF gerado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allows users to select a certificate to be used for signing a PDF export.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201407Z" creationid="olivier" creationdate="20250325T201407Z">
+        <seg>Permite que os usuários selecionem um certificado a ser usado para assinar uma exportação de PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5782,6 +5814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But to be on the safe side, enter the password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201748Z" creationid="olivier" creationdate="20250325T201748Z">
+        <seg>Mas, para garantir, insira a senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By adding a JRE to the $PATH variable.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190506Z" creationid="olivier" creationdate="20250316T190506Z">
@@ -6446,10 +6486,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Certificate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201342Z" creationid="olivier" creationdate="20250325T201342Z">
+        <seg>Certificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Certificate Path</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T125012Z" creationid="olivier" creationdate="20250313T125012Z">
         <seg>Caminhos do certificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Certificate password</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201643Z" creationid="olivier" creationdate="20250325T201643Z">
+        <seg>Senha do certificado</seg>
       </tuv>
     </tu>
     <tu>
@@ -10662,6 +10718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Digital signatures are used to ensure that the PDF was really created by the original author and that the document has not been modified since it was signed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201231Z" creationid="olivier" creationdate="20250325T201231Z">
+        <seg>As assinaturas digitais são usadas para garantir que o PDF foi realmente criado pelo autor original e que o documento não foi modificado desde que foi assinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Direct (or Manual) formatting</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T111854Z" creationid="timot" creationdate="20250215T111854Z">
@@ -11558,6 +11622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each, or all of the three fields, are optional and may be left blank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201954Z" creationid="olivier" creationdate="20250325T201954Z">
+        <seg>Cada campo, ou todos eles podem ser deixados em branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ed Olson, B. Antonio Fernandez, Olivier Hallot</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T202838Z" creationid="olivier-tdf" creationdate="20250112T202838Z">
@@ -12010,6 +12082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T145206Z" creationid="olivier" creationdate="20250223T145206Z">
         <seg>Insira o número de cópias a serem impressas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter the password that will be used to protecting the private key associated with the selected certificate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201701Z" creationid="olivier" creationdate="20250325T201701Z">
+        <seg>Insira a senha usada para proteger a chave privada associada ao certificado selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13682,6 +13762,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T124954Z" creationid="olivier" creationdate="20250313T124954Z">
         <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Caixa de diálogo Opções do LibreOffice — Página de segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: PDF Options dialog — Digital Signatures page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201146Z" creationid="olivier" creationdate="20250325T201146Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Caixa de diálogo Opções de PDF — Página Assinaturas Digitais</seg>
       </tuv>
     </tu>
     <tu>
@@ -18630,6 +18718,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the key store is protected by a password, there is a prompt to enter a password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201527Z" creationid="olivier" creationdate="20250325T201527Z">
+        <seg>Se o armazenamento de chaves estiver protegido por uma senha, há um aviso para inserir uma senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the key store password has already been entered in the Select Certificate dialog box, the key store may already be unlocked and not require the password again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201740Z" creationid="olivier" creationdate="20250325T201740Z">
+        <seg>Se a senha do armazenamento de chaves já tiver sido inserida na caixa de diálogo Selecionar certificado, o armazenamento de chaves já pode estar desbloqueado e não exigir a senha novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the list does not contain the word you want, click &lt;f2&gt;Spelling&lt;/f2&gt; to open the Spelling dialog (Figure &lt;t3&gt;16&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T100248Z" creationid="timot" creationdate="20250206T100248Z">
@@ -21030,6 +21134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is embedded in the appropriate PDF fields and is visible to anyone viewing the PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201934Z" creationid="olivier" creationdate="20250325T201934Z">
+        <seg>Essas informações serão incorporadas nos campos apropriados do arquivo PDF e serão visíveis a todos que visualizarem o PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is integrated with the advanced graphics capabilities of &lt;t0/&gt;LibreOffice Draw and Math modules.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191534Z" creationid="olivier-tdf" creationdate="20250109T191534Z">
@@ -22434,6 +22546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083501Z" creationid="olivier" creationdate="20250308T083501Z">
         <seg>Localize a extensão desejada e clique nela para abrir a página da web para a extensão selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Location, Contact information, Reason</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201847Z" creationid="olivier" creationdate="20250325T201847Z">
+        <seg>Localização, Informações de contato e Motivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -25654,6 +25774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens the Select Certificate dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201423Z" creationid="olivier" creationdate="20250325T201423Z">
+        <seg>Abre a caixa de diálogo Selecionar certificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens the Templates dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134642Z" creationid="olivier-tdf" creationdate="20250303T134642Z">
@@ -26154,6 +26282,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200321Z" creationid="olivier-tdf" creationdate="20250109T200321Z">
         <seg>Descreve as licenças sob as quais o LibreOffice é disponibilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PDF Options dialog — Digital Signatures page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201201Z" creationid="olivier" creationdate="20250325T201201Z">
+        <seg>Caixa de diálogo Opções de PDF — Página Assinaturas Digitais</seg>
       </tuv>
     </tu>
     <tu>
@@ -29054,6 +29190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201409Z" creationid="olivier" creationdate="20250325T201409Z">
+        <seg>Selecionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select / deselect &lt;f0&gt;Same content on first page&lt;/f0&gt; as required.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201745Z" creationid="olivier-tdf" creationdate="20250209T201745Z">
@@ -29842,6 +29986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153553Z" creationid="olivier" creationdate="20250121T153553Z">
         <seg>Selecione as células que deseja excluir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the certificate to use for digitally signing the exported PDF by clicking on the corresponding line, then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201612Z" creationid="olivier" creationdate="20250325T201612Z">
+        <seg>Selecione o certificado a ser usado para assinar digitalmente o PDF exportado clicando na linha correspondente e clique em &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31686,6 +31838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some smart card software prompts you to enter the PIN again before signing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201844Z" creationid="olivier" creationdate="20250325T201844Z">
+        <seg>Alguns softwares de cartão inteligente solicitarão o PIN novamente antes de assinar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some tags that are exported are table of contents, hyperlinks, and controls.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220422Z" creationid="olivier" creationdate="20250324T220422Z">
@@ -33526,6 +33686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The PDF signing process uses the Time Stamp Authority (TSA) to obtain a digitally signed timestamp that is then embedded in the signature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T203515Z" creationid="olivier" creationdate="20250325T203515Z">
+        <seg>Durante o processo de assinatura do PDF, o URL da autoridade do carimbo de tempo será usado para obter um carimbo de tempo assinado digitalmente que será incorporado à assinatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Page Count field inserts the total number of pages in the document, as shown on the &lt;f0&gt;Statistics&lt;/f0&gt; tab of the document’s Properties dialog (&lt;f1&gt;File &gt; Properties&lt;/f1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T192700Z" creationid="timot" creationdate="20250228T192700Z">
@@ -35078,6 +35246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The signed PDF export uses the keys and X.509 certificates already stored in a default key store location, or on a smart card.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201309Z" creationid="olivier" creationdate="20250325T201309Z">
+        <seg>A exportação de PDF assinado utiliza as chaves e certificados X.509 já armazenados em seu local de armazenamento de chaves padrão ou num cartão inteligente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The simplest way to create a macro is to record a series of actions with LibreOffice’s user interface via the open source LibreOffice Basic scripting language (an implementation of the well-known BASIC programming language).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="rafael" changedate="20250220T001348Z" creationid="rafael" creationdate="20250220T001348Z">
@@ -35798,6 +35974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These three fields allow additional information to be entered about the digital signature that is applied to the PDF (where, by whom and why it was made).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201914Z" creationid="olivier" creationdate="20250325T201914Z">
+        <seg>Estes três campos permitem inserir informações adicionais opcionais sobre a assinatura digital que será aplicada no PDF (onde, por quem e por que foi assinado).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These tools are divided between the Tools and Data menus.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191242Z" creationid="olivier-tdf" creationdate="20250209T191242Z">
@@ -36342,6 +36526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is usually done during installation of smart card software.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201341Z" creationid="olivier" creationdate="20250325T201341Z">
+        <seg>Normalmente isto é feito durante a instalação do software do smartcard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This makes it easier for printers with a smaller memory when printing large files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135808Z" creationid="olivier" creationdate="20250223T135808Z">
@@ -36698,6 +36890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205253Z" creationid="olivier" creationdate="20250324T205253Z">
         <seg>Assim, recomendamos fortemente que salve arquivos em um formato ODF como arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time Stamp Authority</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201957Z" creationid="olivier" creationdate="20250325T201957Z">
+        <seg>Autoridade de carimbo do tempo</seg>
       </tuv>
     </tu>
     <tu>
@@ -39598,6 +39798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use this certificate to digitally sign PDF documents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201345Z" creationid="olivier" creationdate="20250325T201345Z">
+        <seg>Utilizar este certificado para assinar digitalmente os documentos PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use this control to select the attribute, highlighting or shading, that LibreOffice should use when exporting LibreOffice character highlighting to Microsoft Office file formats.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T184509Z" creationid="olivier" creationdate="20250318T184509Z">
@@ -40082,6 +40290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T230206Z" creationid="olivier-tdf" creationdate="20250224T230206Z">
         <seg>Normalmente, a orientação da página não importa, mas é importante para brochuras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usually this is the key store password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201707Z" creationid="olivier" creationdate="20250325T201707Z">
+        <seg>Normalmente, esta é a senha do armazenamento de chaves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41130,6 +41346,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213651Z" creationid="olivier" creationdate="20250123T213651Z">
         <seg>Ao digitar fórmulas usando caracteres que correspondem a nomes de funções, uma dica de ajuda será exibida listando as funções disponíveis que começam com caracteres correspondentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When using a smart card that is protected by a PIN, there is a prompt to enter the PIN.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201537Z" creationid="olivier" creationdate="20250325T201537Z">
+        <seg>Ao usar um cartão inteligente protegido por um PIN, há um aviso para inserir o PIN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When using a smart card, enter the PIN here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201817Z" creationid="olivier" creationdate="20250325T201817Z">
+        <seg>Ao usar um cartão inteligente, insira o PIN aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When using a smart card, it must already be configured for use by a key store.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201334Z" creationid="olivier" creationdate="20250325T201334Z">
+        <seg>Ao utilizar um smartcard, este já deve estar configurado para utilização pelo chaveiro. </seg>
       </tuv>
     </tu>
     <tu>
