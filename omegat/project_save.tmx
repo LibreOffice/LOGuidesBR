@@ -4134,6 +4134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All changes are permitted, except extracting pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200907Z" creationid="olivier" creationdate="20250325T200907Z">
+        <seg>Todas as alterações são permitidas, menos a extração de páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All fonts used in the source document are embedded in the generated PDF file, and PDF tags are created.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220026Z" creationid="olivier" creationdate="20250324T220026Z">
@@ -4946,6 +4954,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011446Z" creationid="olivier" creationdate="20250321T011446Z">
         <seg>Erros de gramática são destacados com um sublinhado ondulado azul à medida que o texto é digitado num documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any except extracting pages</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200843Z" creationid="olivier" creationdate="20250325T200843Z">
+        <seg>Qualquer, exceto extrair páginas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8878,6 +8894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Commenting, filling in form fields</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200812Z" creationid="olivier" creationdate="20250325T200812Z">
+        <seg>Inserir comentários, preencher de campos de formulário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Comments as PDF annotations</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221502Z" creationid="olivier" creationdate="20250324T221318Z">
@@ -9018,6 +9042,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144905Z" creationid="tulio" creationdate="20250119T144905Z">
         <seg>Contém atalhos de teclado para alguns comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Content can be copied to the clipboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200925Z" creationid="olivier" creationdate="20250325T200925Z">
+        <seg>O conteúdo pode ser copiado para a área de transferência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10606,6 +10638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Digital Signature PDF options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201002Z" creationid="olivier" creationdate="20250325T201002Z">
+        <seg>Opções de assinatura digital em PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Digital signature</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104711Z" creationid="timot" creationdate="20250113T104711Z">
@@ -11670,6 +11710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enable copying of content</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200910Z" creationid="olivier" creationdate="20250325T200910Z">
+        <seg>Permitir copiar o conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enable experimental features (may be unstable)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191353Z" creationid="olivier" creationdate="20250316T191353Z">
@@ -11682,6 +11730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191934Z" creationid="olivier" creationdate="20250316T191934Z">
         <seg>Ativar gravação de macro (recurso com limitações)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable text access for accessibility tools</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200926Z" creationid="olivier" creationdate="20250325T200926Z">
+        <seg>Permitir acesso por ferramentas de acessibilidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -13834,6 +13890,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213728Z" creationid="olivier" creationdate="20250123T213728Z">
         <seg>Preencher células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filling in form fields</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200750Z" creationid="olivier" creationdate="20250325T200750Z">
+        <seg>Preencher campos de formulários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filling in form fields is permitted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200809Z" creationid="olivier" creationdate="20250325T200809Z">
+        <seg>Permitido o preenchimento de campos do formulário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24942,6 +25014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only commenting and filling in form fields is permitted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200833Z" creationid="olivier" creationdate="20250325T200833Z">
+        <seg>Só é permitido preencher campos de formulários e inserir comentários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only files that can be opened by the selected LibreOffice module are displayed in the Start Center.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T010259Z" creationid="tulio" creationdate="20250116T004833Z">
@@ -30374,6 +30454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select to enable text access for accessibility tools.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200946Z" creationid="olivier" creationdate="20250325T200946Z">
+        <seg>Selecione para ativar o acesso ao texto para ferramentas de acessibilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select to show all outline levels as bookmarks when a PDF reader opens a PDF file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124820Z" creationid="olivier" creationdate="20250325T124820Z">
@@ -33410,6 +33498,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194544Z" creationid="olivier" creationdate="20250325T194544Z">
         <seg>A página de &lt;f0&gt;vínculos&lt;/f0&gt; da caixa de diálogo Opções de PDF (Figura &lt;t1&gt;5&lt;/t1&gt;) especifica como os tópicos e hiperlinks serão exportados num documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The PDF Options dialog’s &lt;f0&gt;Digital Signatures&lt;/f0&gt; page in Figure &lt;t1&gt;7&lt;/t1&gt; specifies how the exported PDF file can be digitally signed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201022Z" creationid="olivier" creationdate="20250325T201022Z">
+        <seg>A página &lt;f0&gt;Assinaturas Digitais&lt;/f0&gt; da caixa de diálogo Opções de PDF na Figura &lt;t1&gt;7&lt;/t1&gt; especifica como o arquivo PDF exportado pode ser assinado digitalmente.</seg>
       </tuv>
     </tu>
     <tu>
