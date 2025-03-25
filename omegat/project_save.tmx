@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Complex Text Layout&lt;/f0&gt; must be enabled in &lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferences Language Settings &gt; Languages&lt;/f2&gt;) for this option to be available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124040Z" creationid="olivier" creationdate="20250325T124040Z">
+        <seg>&lt;f0&gt;O Leiaute de texto complexo&lt;/f0&gt; deve estar habilitado em &lt;f1&gt;Ferramentas &gt; Opções &gt; Idiomas e localidades &gt; Idiomas&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferências &gt; Idiomas e localidades &gt; Idiomas&lt;/f2&gt;) para que esta opção esteja disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Control&lt;/f0&gt; or &lt;f1&gt;Ctrl&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T234826Z" creationid="olivier" creationdate="20250302T234826Z">
@@ -2370,6 +2378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222802Z" creationid="olivier" creationdate="20250324T222802Z">
         <seg>&lt;s0&gt;Caixa de diálogo Opções de PDF — Página de visualização inicial&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Opções de PDF — Página de visualização inicial&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;PDF Options dialog — User Interface page&lt;/s0&gt;&lt;s1&gt;PDF Options dialog — User Interface page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124609Z" creationid="olivier" creationdate="20250325T124609Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Opções de PDF — Página de Interface do usuário&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Opções de PDF — Página de Interface do Usuário&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6366,6 +6382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Center window on screen</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124249Z" creationid="olivier" creationdate="20250325T124249Z">
+        <seg>Centralizar a janela na tela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Certificate Path</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T125012Z" creationid="olivier" creationdate="20250313T125012Z">
@@ -8718,6 +8742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Collapse Outlines</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124750Z" creationid="olivier" creationdate="20250325T124750Z">
+        <seg>Recolher tópicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Collate sheets</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155021Z" creationid="olivier" creationdate="20250223T155021Z">
@@ -9010,6 +9042,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T232931Z" creationid="olivier" creationdate="20250301T232931Z">
         <seg>Dando continuidade aos números de versão do OpenOffice.org, o LibreOffice 3.3 foi lançado em janeiro de 2011 e a versão &lt;ud1&gt;24.8&lt;/ud1&gt;&lt;s2/&gt;foi lançada em &lt;ud3&gt;agosto de&lt;/ud3&gt;&lt;s4/&gt;&lt;ud5&gt;2024&lt;/ud5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Continuous</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123647Z" creationid="olivier" creationdate="20250325T123647Z">
+        <seg>Contínuo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Continuous facing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123714Z" creationid="olivier" creationdate="20250325T123714Z">
+        <seg>Páginas abertas</seg>
       </tuv>
     </tu>
     <tu>
@@ -10550,6 +10598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display document title</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124525Z" creationid="olivier" creationdate="20250325T124525Z">
+        <seg>Exibir o título do documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display warning</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230331Z" creationid="olivier" creationdate="20250319T230331Z">
@@ -11750,6 +11806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter a zoom factor which determines when a PDF reader opens a PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123551Z" creationid="olivier" creationdate="20250325T123551Z">
+        <seg>Insira um fator de zoom que determina quando um leitor de PDF abre um arquivo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter number of printed copies required for the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T144457Z" creationid="olivier" creationdate="20250223T144457Z">
@@ -12250,6 +12314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125548Z" creationid="olivier-tdf" creationdate="20250117T125548Z">
         <seg>Exportando valores e fórmulas como um arquivo CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exports Impress slide transition effects to respective PDF effects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124747Z" creationid="olivier" creationdate="20250325T124747Z">
+        <seg>Exporta os efeitos de transição de slides do Impress para efeitos PDF correspondentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13286,6 +13358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: PDF Options dialog — User Interface page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124622Z" creationid="olivier" creationdate="20250325T124622Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Caixa de diálogo Opções de PDF — Página Interface do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Status bar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212853Z" creationid="olivier-tdf" creationdate="20250116T212853Z">
@@ -13698,6 +13778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T020444Z" creationid="olivier" creationdate="20250321T020444Z">
         <seg>Primeiro e último caracteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First page is left</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123805Z" creationid="olivier" creationdate="20250325T123805Z">
+        <seg>Primeira página à esquerda</seg>
       </tuv>
     </tu>
     <tu>
@@ -15046,6 +15134,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more than two pages, the first page is displayed on the left.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123900Z" creationid="olivier" creationdate="20250325T123900Z">
+        <seg>Para mais de duas páginas, a primeira página é exibida à direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more than two pages, the first page is displayed on the right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123802Z" creationid="olivier" creationdate="20250325T123802Z">
+        <seg>Por mais de duas páginas, a primeira página é exibida à direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more uses of the Navigator in Writer, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T182139Z" creationid="timot" creationdate="20250122T182139Z">
@@ -15694,6 +15798,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Generate a PDF file that displays one page at a time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123645Z" creationid="olivier" creationdate="20250325T123645Z">
+        <seg>Gera um arquivo PDF que exibe uma página de cada vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generate a PDF file that displays pages in a continuous vertical column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123703Z" creationid="olivier" creationdate="20250325T123703Z">
+        <seg>Gera um arquivo PDF que exibe páginas em uma coluna vertical contínua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generate a PDF file that displays pages side by side in a continuous column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123753Z" creationid="olivier" creationdate="20250325T123753Z">
+        <seg>Gera um arquivo PDF que exibe páginas lado a lado em uma coluna contínua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Generate a PDF file that displays the page zoomed to fit entirely into a PDF reader window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T223259Z" creationid="olivier" creationdate="20250324T223259Z">
@@ -15706,6 +15834,46 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T223342Z" creationid="olivier" creationdate="20250324T223342Z">
         <seg>Gera um arquivo PDF que mostre a página com zoom para ajustar-à largura da janela do leitor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generate a PDF file that displays the pages according to the layout setting of the PDF reader application.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123613Z" creationid="olivier" creationdate="20250325T123613Z">
+        <seg>Gera um arquivo PDF que exibe as páginas de acordo com a configuração de layout do aplicativo leitor de PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generate a PDF file that displays the text and graphics on the page zoomed to fit the width of a PDF reader window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123541Z" creationid="olivier" creationdate="20250325T123541Z">
+        <seg>Gera um arquivo PDF que exibe o texto e os gráficos na página com zoom para caber na largura de uma janela do leitor de PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generate a PDF file that is shown in a PDF reader application that is centered on the display.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124418Z" creationid="olivier" creationdate="20250325T124418Z">
+        <seg>Gera um arquivo PDF que seja exibido em uma janela do leitor centralizada na tela.&lt;/ahelp&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generate a PDF file that is shown in a window displaying the whole initial page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124242Z" creationid="olivier" creationdate="20250325T124242Z">
+        <seg>Gera um arquivo PDF que será mostrado em uma janela com a página inicial inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generate a PDF file that is shown in full screen in a PDF reader window and in front of all other windows.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124522Z" creationid="olivier" creationdate="20250325T124522Z">
+        <seg>Gera um arquivo PDF que seja exibido em uma janela do leitor na tela inteira sobre todas as outras janelas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15734,10 +15902,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Generate a PDF file that shows pages side by side in a continuous column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123825Z" creationid="olivier" creationdate="20250325T123825Z">
+        <seg>Gera um arquivo PDF que exibe páginas lado a lado em uma coluna contínua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Generate a PDF file that shows the page contents without zooming.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T223205Z" creationid="olivier" creationdate="20250324T223205Z">
         <seg>Gera um arquivo PDF que mostra o conteúdo da página sem zoom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generate a PDF file that will display the file title in the PDF reader’s title bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124546Z" creationid="olivier" creationdate="20250325T124546Z">
+        <seg>Gera um arquivo PDF que seja exibido com o título do documento na barra de título do leitor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16794,6 +16978,54 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000004Z" creationid="olivier-tdf" creationdate="20250219T000004Z">
         <seg>Estilos ocultos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide menubar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124642Z" creationid="olivier" creationdate="20250325T124642Z">
+        <seg>Ocultar menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide the menu bar when a PDF file is active.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124655Z" creationid="olivier" creationdate="20250325T124655Z">
+        <seg>Oculta a barra de menu quando um arquivo PDF estiver ativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124657Z" creationid="olivier" creationdate="20250325T124657Z">
+        <seg>Ocultar a barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide window controls</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124709Z" creationid="olivier" creationdate="20250325T124709Z">
+        <seg>Ocultar os controles de janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hides the reader controls when a PDF file is active.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124717Z" creationid="olivier" creationdate="20250325T124717Z">
+        <seg>Oculta os controles do leitor quando um arquivo PDF está ativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hides the toolbar when a PDF file is active.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124704Z" creationid="olivier" creationdate="20250325T124704Z">
+        <seg>Oculta a barra de ferramentas quando um arquivo PDF está ativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18538,6 +18770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233723Z" creationid="olivier-tdf" creationdate="20250224T233723Z">
         <seg>Se precisar continuar no Modo de segurança, permite que você trabalhe no LibreOffice com um perfil temporário que foi criado na inicialização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you need to create a PDF file that will be used as a presentation or a kiosk-type display, these options are useful.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124209Z" creationid="olivier" creationdate="20250325T124209Z">
+        <seg>Se precisar criar um arquivo PDF que será usado como uma apresentação ou uma exibição do tipo quiosque, essas opções são úteis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24646,6 +24886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open in full screen mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124420Z" creationid="olivier" creationdate="20250325T124420Z">
+        <seg>Abrir no modo tela inteira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open on page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T223104Z" creationid="olivier" creationdate="20250324T223104Z">
@@ -25614,6 +25862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PDF Options dialog — User Interface page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124633Z" creationid="olivier" creationdate="20250325T124633Z">
+        <seg>Caixa de diálogo Opções de PDF — Página Interface do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PDF as standard print job format</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172023Z" creationid="olivier" creationdate="20250312T172023Z">
@@ -25730,6 +25986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200407Z" creationid="olivier-tdf" creationdate="20250209T200407Z">
         <seg>Quebras de página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page layout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123555Z" creationid="olivier" creationdate="20250325T123555Z">
+        <seg>Leiaute da página</seg>
       </tuv>
     </tu>
     <tu>
@@ -27426,6 +27690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T001906Z" creationid="olivier" creationdate="20250308T001906Z">
         <seg>Redefinir a configuração do teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resize window to initial page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124215Z" creationid="olivier" creationdate="20250325T124215Z">
+        <seg>Redimensionar a janela à página inicial</seg>
       </tuv>
     </tu>
     <tu>
@@ -29846,6 +30118,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select to show all outline levels as bookmarks when a PDF reader opens a PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124820Z" creationid="olivier" creationdate="20250325T124820Z">
+        <seg>Selecione para mostrar todos os níveis de tópicos como marca-páginas quando o leitor abrir o arquivo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select to show bookmarks down to the selected level when a PDF reader opens a PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124846Z" creationid="olivier" creationdate="20250325T124846Z">
+        <seg>Selecione para mostrar os marca-páginas até o nível selecionado quando o leitor abrir o arquivo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select whether to save or discard the changes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011510Z" creationid="tulio" creationdate="20250116T011510Z">
@@ -30558,6 +30846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show All</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124753Z" creationid="olivier" creationdate="20250325T124753Z">
+        <seg>Mostrar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Tip of the Day</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195536Z" creationid="olivier-tdf" creationdate="20250109T195536Z">
@@ -30754,6 +31050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T120249Z" creationid="olivier" creationdate="20250121T120249Z">
         <seg>Coluna ou linha única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123623Z" creationid="olivier" creationdate="20250325T123623Z">
+        <seg>Página única</seg>
       </tuv>
     </tu>
     <tu>
@@ -32474,6 +32778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T103658Z" creationid="timot" creationdate="20250222T103658Z">
         <seg>Os botões &lt;f0&gt;Alternar lista não ordenada&lt;/f0&gt; e&lt;f1&gt;Alternar lista ordenada&lt;/f1&gt; no deque Propriedades da Barra lateral também podem ser usados para criar listas aninhadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;User Interface&lt;/f0&gt; page in the PDF Options dialog (Figure &lt;t1&gt;4&lt;/t1&gt;), allows users to specify how the interface for an external PDF viewer will appear.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124153Z" creationid="olivier" creationdate="20250325T124153Z">
+        <seg>A página &lt;f0&gt;Interface do usuário&lt;/f0&gt; na caixa de diálogo Opções de PDF (Figura &lt;t1&gt;4&lt;/t1&gt;) permite que os usuários especifiquem como exibir a interface de um visualizador de PDF externo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37974,6 +38286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transitions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124719Z" creationid="olivier" creationdate="20250325T124719Z">
+        <seg>Transições</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transparencies cannot be sent directly to a printer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T141725Z" creationid="olivier" creationdate="20250223T141725Z">
@@ -38838,6 +39158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use transition effects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124722Z" creationid="olivier" creationdate="20250325T124722Z">
+        <seg>Utilizar efeitos de transição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use wildcards and regular expressions to fine-tune a search</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112635Z" creationid="timot" creationdate="20250202T112635Z">
@@ -38866,6 +39194,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195120Z" creationid="olivier-tdf" creationdate="20250109T195120Z">
         <seg>Guias do Usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User Interface Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124636Z" creationid="olivier" creationdate="20250325T124636Z">
+        <seg>Opções de interface do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User Interface PDF options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124120Z" creationid="olivier" creationdate="20250325T124120Z">
+        <seg>Opções da interface de usuário do PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -39370,6 +39714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T204318Z" creationid="olivier-tdf" creationdate="20250309T204318Z">
         <seg>Visibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visible levels</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124822Z" creationid="olivier" creationdate="20250325T124822Z">
+        <seg>Níveis visíveis:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40562,6 +40914,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124609Z" creationid="olivier-tdf" creationdate="20250114T124609Z">
         <seg>Caracteres curinga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Window Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124212Z" creationid="olivier" creationdate="20250325T124212Z">
+        <seg>Opções da janela</seg>
       </tuv>
     </tu>
     <tu>
@@ -41866,6 +42226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105647Z" creationid="timot" creationdate="20250113T105647Z">
         <seg>Zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom factor</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123543Z" creationid="olivier" creationdate="20250325T123543Z">
+        <seg>Fator de zoom</seg>
       </tuv>
     </tu>
     <tu>
