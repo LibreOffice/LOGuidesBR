@@ -3510,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A text-only document generally exports well, but some contents (such as illustrations, tables, and cross-references) may not export correctly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T203953Z" creationid="olivier" creationdate="20250325T203953Z">
+        <seg>Um documento somente de texto geralmente exporta bem, mas alguns conteúdos (como ilustrações, tabelas e referências cruzadas) podem não ser exportados corretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A tool palette is a pop-up collection of tools attached to a single tool on a toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="tulio" creationdate="20250119T173723Z">
@@ -11438,6 +11446,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EPUB format export (Writer only)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T203722Z" creationid="olivier" creationdate="20250325T203722Z">
+        <seg>Exportação do formato EPUB (somente Writer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EPUB is standard for electronic book files with the extension .&lt;f0&gt;epub&lt;/f0&gt; that can be downloaded and read on devices like smartphones, tablets, computers or e-readers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T203818Z" creationid="olivier" creationdate="20250325T203818Z">
+        <seg>O EPUB é padrão para arquivos de livros eletrônicos com a extensão &lt;f0&gt;.epub&lt;/f0&gt; que podem ser baixados e lidos em dispositivos como smartphones, tablets, computadores ou leitores específicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each Calc spreadsheet can contain multiple sheets, which are displayed as tabs at the bottom of the spreadsheet window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121259Z" creationid="olivier-tdf" creationdate="20250117T121259Z">
@@ -18386,6 +18410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T180007Z" creationid="olivier" creationdate="20250318T180007Z">
         <seg>Se nenhum servidor OLE estiver ativo para objetos MathType, os objetos MathType incorporados serão convertidos em objetos LibreOffice Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If no TSA URL is selected (the default), the signature is timestamped, but it uses the current time from the local computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T203618Z" creationid="olivier" creationdate="20250325T203618Z">
+        <seg>Se nenhum URL de carimbo de tempo for selecionado (o padrão), a assinatura não terá um carimbo de data / hora, mas usará a hora atual do seu computador local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27646,6 +27678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quick EPUB export</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T204638Z" creationid="olivier" creationdate="20250325T204638Z">
+        <seg>Exportação rápida de EPUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quick printing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183516Z" creationid="olivier" creationdate="20250222T183516Z">
@@ -33430,6 +33470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The EPUB format is implemented as an archive file consisting of HTML files carrying the content, along with images and other supporting files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T203914Z" creationid="olivier" creationdate="20250325T203914Z">
+        <seg>O formato EPUB é implementado como um arquivo de arquivamento que consiste em arquivos HTML carregando o conteúdo, juntamente com imagens e outros arquivos de suporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Expert Configuration dialog lets a user access, edit, and save configuration preferences that can make the user profile of LibreOffice unstable, inconsistent, or even unusable.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T004735Z" creationid="olivier" creationdate="20250318T004735Z">
@@ -36034,6 +36082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T143232Z" creationid="tulio" creationdate="20250119T143232Z">
         <seg>Eles apresentam comandos que podem executar um destes comandos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This (RFC 3161) timestamp allows viewing of the PDF to verify when the document was signed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T203539Z" creationid="olivier" creationdate="20250325T203539Z">
+        <seg>Este carimbo de data/hora (RFC 3161) permite a visualização do PDF para verificar quando o documento foi assinado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41970,6 +42026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T213217Z" creationid="olivier" creationdate="20250324T213217Z">
         <seg>O Writer também pode exportar em EPUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer can export a file to EPUB.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T203929Z" creationid="olivier" creationdate="20250325T203929Z">
+        <seg>O Writer pode exportar em EPUB.</seg>
       </tuv>
     </tu>
     <tu>
