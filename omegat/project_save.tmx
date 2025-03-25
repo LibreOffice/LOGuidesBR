@@ -2390,6 +2390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;PDF Options dialog — Security page&lt;/s0&gt;&lt;s1&gt;PDF Options dialog — Security page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200255Z" creationid="olivier" creationdate="20250325T200255Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Opções de PDF — Página Segurança&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Opções de PDF — Página Segurança&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;PDF Options dialog — User Interface page&lt;/s0&gt;&lt;s1&gt;PDF Options dialog — User Interface page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124609Z" creationid="olivier" creationdate="20250325T124609Z">
@@ -3680,8 +3688,8 @@
       <tuv lang="en-US">
         <seg>Add a centered, vertical, light green watermark text to the page background.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215738Z" creationid="olivier" creationdate="20250324T215738Z">
-        <seg>Adicione um texto de marca d 'água verde claro, vertical e centralizado ao plano de fundo da página.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195614Z" creationid="olivier" creationdate="20250324T215738Z">
+        <seg>Adicione um texto de marca d 'água verde-claro, vertical e centralizado ao plano de fundo da página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6498,6 +6506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195543Z" creationid="timot" creationdate="20250111T195543Z">
         <seg>Rastreamento de alterações durante revisões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200707Z" creationid="olivier" creationdate="20250325T200707Z">
+        <seg>Alterações</seg>
       </tuv>
     </tu>
     <tu>
@@ -9470,6 +9486,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cross-document links are opened with a web browser.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200133Z" creationid="olivier" creationdate="20250325T200133Z">
+        <seg>Vínculos entre documentos são abertos no navegador da internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cross-document links are opened with the PDF reader application that currently shows the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200001Z" creationid="olivier" creationdate="20250325T200001Z">
+        <seg>Vínculos entre documentos são abertos no aplicativo leitor de PDF que está neste momento mostrando o documento. O leitor de PDF deve ser capaz de manipular o tipo de arquivo do hiperlink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cross-platform</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192352Z" creationid="olivier-tdf" creationdate="20250109T192352Z">
@@ -11870,6 +11902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter an optional password that allows a user viewing the PDF to edit and/or print the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200516Z" creationid="olivier" creationdate="20250325T200516Z">
+        <seg>Digite uma senha opcional que permita que um usuário visualize o PDF para editar e/ou imprimir o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter number of printed copies required for the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T144457Z" creationid="olivier" creationdate="20250223T144457Z">
@@ -13542,6 +13582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: PDF Options dialog — Security page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200310Z" creationid="olivier" creationdate="20250325T200310Z">
+        <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Caixa de diálogo Opções de PDF — Página Segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Text Import dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122527Z" creationid="olivier-tdf" creationdate="20250117T122527Z">
@@ -13714,6 +13762,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145303Z" creationid="tulio" creationdate="20250119T145303Z">
         <seg>Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File Encryption and Permission</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200426Z" creationid="olivier" creationdate="20250325T200426Z">
+        <seg>Criptografia e permissão de arquivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -14304,8 +14360,8 @@
       <tuv lang="en-US">
         <seg>For example, books usually have chapters set to start on an odd-numbered (right-hand) page.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221901Z" creationid="olivier" creationdate="20250324T221901Z">
-        <seg>Por exemplo, os livros geralmente têm capítulos definidos para começar em uma página ímpar (à direita).</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195636Z" creationid="olivier" creationdate="20250324T221901Z">
+        <seg>Por exemplo, os livros geralmente têm capítulos definidos para começar numa página ímpar (à direita).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15254,6 +15310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For older PDF readers, these restrictions may have no effect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200401Z" creationid="olivier" creationdate="20250325T200401Z">
+        <seg>Portanto, em leitores de PDF antigos, estas restrições não tem efeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For printing it is generally preferable to use at least 300 or 600 DPI, depending on the capability of the printer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215634Z" creationid="olivier" creationdate="20250324T215634Z">
@@ -15888,16 +15952,16 @@
       <tuv lang="en-US">
         <seg>Generate a PDF file that displays pages in a continuous vertical column.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123703Z" creationid="olivier" creationdate="20250325T123703Z">
-        <seg>Gera um arquivo PDF que exibe páginas em uma coluna vertical contínua.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195735Z" creationid="olivier" creationdate="20250325T123703Z">
+        <seg>Gera um arquivo PDF que exibe páginas numa coluna vertical contínua.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Generate a PDF file that displays pages side by side in a continuous column.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123753Z" creationid="olivier" creationdate="20250325T123753Z">
-        <seg>Gera um arquivo PDF que exibe páginas lado a lado em uma coluna contínua.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195746Z" creationid="olivier" creationdate="20250325T123753Z">
+        <seg>Gera um arquivo PDF que exibe páginas lado a lado numa coluna contínua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15936,24 +16000,24 @@
       <tuv lang="en-US">
         <seg>Generate a PDF file that is shown in a PDF reader application that is centered on the display.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124418Z" creationid="olivier" creationdate="20250325T124418Z">
-        <seg>Gera um arquivo PDF que seja exibido em uma janela do leitor centralizada na tela.&lt;/ahelp&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195836Z" creationid="olivier" creationdate="20250325T124418Z">
+        <seg>Gera um arquivo PDF que seja exibido numa janela do leitor centralizada na tela.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Generate a PDF file that is shown in a window displaying the whole initial page.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124242Z" creationid="olivier" creationdate="20250325T124242Z">
-        <seg>Gera um arquivo PDF que será mostrado em uma janela com a página inicial inteira.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195817Z" creationid="olivier" creationdate="20250325T124242Z">
+        <seg>Gera um arquivo PDF que será mostrado numa janela com a página inicial inteira.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Generate a PDF file that is shown in full screen in a PDF reader window and in front of all other windows.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124522Z" creationid="olivier" creationdate="20250325T124522Z">
-        <seg>Gera um arquivo PDF que seja exibido em uma janela do leitor na tela inteira sobre todas as outras janelas.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195842Z" creationid="olivier" creationdate="20250325T124522Z">
+        <seg>Gera um arquivo PDF que seja exibido numa janela do leitor na tela inteira sobre todas as outras janelas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15984,8 +16048,8 @@
       <tuv lang="en-US">
         <seg>Generate a PDF file that shows pages side by side in a continuous column.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123825Z" creationid="olivier" creationdate="20250325T123825Z">
-        <seg>Gera um arquivo PDF que exibe páginas lado a lado em uma coluna contínua.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195758Z" creationid="olivier" creationdate="20250325T123825Z">
+        <seg>Gera um arquivo PDF que exibe páginas lado a lado numa coluna contínua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17174,6 +17238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>High resolution</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200649Z" creationid="olivier" creationdate="20250325T200649Z">
+        <seg>Alta resolução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>High-contrast is an operating system setting that changes the system color scheme to improve readability.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T183839Z" creationid="olivier" creationdate="20250316T183839Z">
@@ -17442,6 +17514,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135839Z" creationid="olivier" creationdate="20250223T135839Z">
         <seg>Todavia, a redução dos dados de impressão pode resultar numa qualidade de impressão ligeiramente menor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, some PDF readers ignore this option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200647Z" creationid="olivier" creationdate="20250325T200647Z">
+        <seg>No entanto, alguns leitores de PDF ignoram essa opção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20550,6 +20630,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inserting, deleting, and rotating pages</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200720Z" creationid="olivier" creationdate="20250325T200720Z">
+        <seg>Inserir, excluir e girar páginas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inserting, deleting, and rotating pages will be permitted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200747Z" creationid="olivier" creationdate="20250325T200747Z">
+        <seg>Será permitido inserir, excluir e girar páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inserts a copy of the selected object into the current document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T140220Z" creationid="olivier-tdf" creationdate="20250303T140220Z">
@@ -22326,6 +22422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Low resolution (150 dpi)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200547Z" creationid="olivier" creationdate="20250325T200547Z">
+        <seg>Baixa resolução (150 dpi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lower DPI (dots per inch) images have lower quality.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215514Z" creationid="olivier" creationdate="20250324T215514Z">
@@ -22336,8 +22440,8 @@
       <tuv lang="en-US">
         <seg>Lower resolutions (100 DPI or less) may be sufficient for viewing on a computer screen, but many modern devices have much higher resolutions.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215624Z" creationid="olivier" creationdate="20250324T215624Z">
-        <seg>Resoluções mais baixas (100 DPI ou menos) podem ser suficientes para visualização em uma tela de computador, mas muitos dispositivos modernos têm resoluções muito mais altas.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195550Z" creationid="olivier" creationdate="20250324T215624Z">
+        <seg>Resoluções mais baixas (100 DPI ou menos) podem ser suficientes para visualização numa tela de computador, mas muitos dispositivos modernos têm resoluções muito mais altas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24062,6 +24166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not permitted</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200518Z" creationid="olivier" creationdate="20250325T200518Z">
+        <seg>Não autorizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T225345Z" creationid="tdf" creationdate="20241226T225345Z">
@@ -25094,6 +25206,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open with Internet browser</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200030Z" creationid="olivier" creationdate="20250325T200030Z">
+        <seg>Abrir com o navegador da Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open with PDF reader application</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195931Z" creationid="olivier" creationdate="20250325T195931Z">
+        <seg>Abrir com o programa leitor de PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open-source tools and many other Open-source applications work on Windows, macOS, and Linux operating systems.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T010505Z" creationid="tulio" creationdate="20250320T010505Z">
@@ -25266,6 +25394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204400Z" creationid="olivier-tdf" creationdate="20250109T204400Z">
         <seg>Abre uma caixa de diálogo, que exibe informações sobre a versão do &lt;f0&gt;LibreOffice&lt;/f0&gt; e o sistema operacional que se está usando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens a dialog box where passwords are entered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200455Z" creationid="olivier" creationdate="20250325T200455Z">
+        <seg>Abre uma caixa de diálogo par inserir senhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25962,6 +26098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194728Z" creationid="olivier" creationdate="20250325T194728Z">
         <seg>Caixa de diálogo Opções de PDF — Página Vínculos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PDF Options dialog — Security page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200326Z" creationid="olivier" creationdate="20250325T200326Z">
+        <seg>Caixa de diálogo Opções de PDF — Página Segurança</seg>
       </tuv>
     </tu>
     <tu>
@@ -28518,6 +28662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Security PDF options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200213Z" creationid="olivier" creationdate="20250325T200213Z">
+        <seg>Opções de segurança de PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Security Warnings</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T124223Z" creationid="olivier" creationdate="20250313T124223Z">
@@ -30598,6 +30750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set passwords</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200428Z" creationid="olivier" creationdate="20250325T200428Z">
+        <seg>Definir senhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set the margins, spacing, and height for the header or footer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201803Z" creationid="olivier-tdf" creationdate="20250209T201803Z">
@@ -31822,6 +31982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specify a password required for viewing a PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200503Z" creationid="olivier" creationdate="20250325T200503Z">
+        <seg>Especifique uma senha necessária para visualizar um arquivo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specify how to handle hyperlinks from a PDF file to other files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195134Z" creationid="olivier" creationdate="20250325T195134Z">
@@ -32848,8 +33016,8 @@
       <tuv lang="en-US">
         <seg>The &lt;f0&gt;Initial View&lt;/f0&gt; page in the PDF Options dialog (Figure &lt;t1&gt;3&lt;/t1&gt;) allows users to determine how the PDF file opens by default in a PDF viewer.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222749Z" creationid="olivier" creationdate="20250324T222749Z">
-        <seg>A página &lt;f0&gt;Visualização Inicial&lt;/f0&gt; na caixa de diálogo Opções de PDF (Figura &lt;t1&gt;3&lt;/t1&gt;) permite determinar como o arquivo PDF é aberto por padrão em um visualizador de PDF.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195716Z" creationid="olivier" creationdate="20250324T222749Z">
+        <seg>A página &lt;f0&gt;Visualização Inicial&lt;/f0&gt; na caixa de diálogo Opções de PDF (Figura &lt;t1&gt;3&lt;/t1&gt;) permite determinar como o arquivo PDF é aberto por padrão num visualizador de PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32882,6 +33050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T174631Z" creationid="olivier" creationdate="20250318T174631Z">
         <seg>A seleção &lt;f0&gt;Salvar código BASIC original&lt;/f0&gt; tem precedência sobre a seleção &lt;f1&gt;Carregar código BASIC&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Security&lt;/f0&gt; page in the PDF Options dialog (Figure &lt;t1&gt;6&lt;/t1&gt;) specifies the security options used by an exported PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200233Z" creationid="olivier" creationdate="20250325T200233Z">
+        <seg>A página &lt;f0&gt;Segurança&lt;/f0&gt; na caixa de diálogo Opções de PDF (Figura &lt;t1&gt;6&lt;/t1&gt;) especifica as opções de segurança usadas por um arquivo PDF exportado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33242,6 +33418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222336Z" creationid="olivier" creationdate="20250324T222336Z">
         <seg>A exportação de PDF mescla imagens, fontes e outros recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The PDF reader application must be able to handle the specified file type inside the hyperlink.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200028Z" creationid="olivier" creationdate="20250325T200028Z">
+        <seg>O leitor de PDF deve ser capaz de manipular o tipo de arquivo do hiperlink.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33638,6 +33822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The content of the PDF file cannot be changed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200713Z" creationid="olivier" creationdate="20250325T200713Z">
+        <seg>O conteúdo do arquivo PDF não pode ser alterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The corresponding Asian language settings in LibreOffice can now be defined.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T132509Z" creationid="olivier" creationdate="20250320T132509Z">
@@ -33830,6 +34022,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The document can be printed in high resolution.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200705Z" creationid="olivier" creationdate="20250325T200705Z">
+        <seg>O documento pode ser impresso em alta resolução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The document can only be printed in low resolution (150 dpi).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200640Z" creationid="olivier" creationdate="20250325T200640Z">
+        <seg>O documento pode ser impresso somente em baixa resolução (150 dpi).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The document is saved without the Microsoft Basic code.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T174759Z" creationid="olivier" creationdate="20250318T174759Z">
@@ -33842,6 +34050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011116Z" creationid="tulio" creationdate="20250116T011116Z">
         <seg>O documento é aberto no módulo LibreOffice apropriado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The document permission restrictions set by a password are observed only by PDF readers compliant with the version 1.5 of the PDF format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200352Z" creationid="olivier" creationdate="20250325T200352Z">
+        <seg>As restrições de permissão do documento definidas por senha serão observadas somente por leitores de PDF em conformidade com a versão 1.5 do formato. </seg>
       </tuv>
     </tu>
     <tu>
@@ -35002,6 +35218,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215754Z" creationid="olivier" creationdate="20250324T215754Z">
         <seg>A marca d 'água não faz parte do documento de origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The web browser must be able to handle the specified file type inside the hyperlink.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200157Z" creationid="olivier" creationdate="20250325T200157Z">
+        <seg>O navegador internet deve ser capaz de manipular o tipo de arquivo do hiperlink.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39430,6 +39654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Users will not be able to print the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200551Z" creationid="olivier" creationdate="20250325T200551Z">
+        <seg>Os usuários não poderão imprimir o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Usin&lt;f0&gt;g&lt;/f0&gt; the Find &lt;f1&gt;deck&lt;/f1&gt; in the Sidebar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T103954Z" creationid="timot" creationdate="20250204T103954Z">
@@ -39832,8 +40064,8 @@
       <tuv lang="en-US">
         <seg>View PDF after export</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T214907Z" creationid="olivier" creationdate="20250324T214907Z">
-        <seg>Visualizar o PDF depois de exportar</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195518Z" creationid="olivier" creationdate="20250324T214907Z">
+        <seg>Visualizar o PDF após exportar</seg>
       </tuv>
     </tu>
     <tu>
@@ -40720,8 +40952,8 @@
       <tuv lang="en-US">
         <seg>When the previous chapter ends on an odd page, LibreOffice inserts a blank page between the two odd pages.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221923Z" creationid="olivier" creationdate="20250324T221923Z">
-        <seg>Quando o capítulo anterior termina em uma página ímpar, o LibreOffice insere uma página em branco entre as duas páginas ímpares.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195651Z" creationid="olivier" creationdate="20250324T221923Z">
+        <seg>Quando o capítulo anterior termina numa página ímpar, o LibreOffice insere uma página em branco entre as duas páginas ímpares.</seg>
       </tuv>
     </tu>
     <tu>
