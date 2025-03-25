@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;PDF Options dialog — Links page&lt;/s0&gt;&lt;s1&gt;PDF Options dialog — Links page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194715Z" creationid="olivier" creationdate="20250325T194643Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Opções de PDF — Página Vínculos&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Opções de PDF — Página Vínculos&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;PDF Options dialog — User Interface page&lt;/s0&gt;&lt;s1&gt;PDF Options dialog — User Interface page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124609Z" creationid="olivier" creationdate="20250325T124609Z">
@@ -3150,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A checkbox can allow you to export the names of objects in a document as valid bookmark targets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194836Z" creationid="olivier" creationdate="20250325T194836Z">
+        <seg>Uma caixa de seleção pode permitir que você exporte os nomes de objetos num documento como destinos de marcadores válidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A comma-separated values (CSV) file contains data in tabular format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122033Z" creationid="olivier-tdf" creationdate="20250117T122033Z">
@@ -3838,6 +3854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additionally, bookmarks to named objects are defined by their names.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194804Z" creationid="olivier" creationdate="20250325T194804Z">
+        <seg>Além disso, os marcadores para objetos nomeados são definidos por seus nomes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust the settings as required on the &lt;f0&gt;Sort Criteria&lt;/f0&gt; and &lt;f1&gt;Options&lt;/f1&gt; tabs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T184820Z" creationid="olivier-tdf" creationdate="20250209T184820Z">
@@ -4114,6 +4138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164002Z" creationid="olivier" creationdate="20250204T164002Z">
         <seg>Toda a formatação aplicada é formatação direta – os estilos de célula não são usados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All links from a PDF document to other documents are handled as specified in the computer operating system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195210Z" creationid="olivier" creationdate="20250325T195210Z">
+        <seg>Vínculos de seu documento PDF para outros documentos serão tratados conforme especificado em seu sistema operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9182,6 +9214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Convert document references to PDF targets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194852Z" creationid="olivier" creationdate="20250325T194852Z">
+        <seg>Converter referências de documentos em destinos PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Converts to the PDF/A-1b, PDF/A-2b, or PDF/A-3b format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215954Z" creationid="olivier" creationdate="20250324T215954Z">
@@ -9418,6 +9458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T105359Z" creationid="timot" creationdate="20250224T105359Z">
         <seg>Criar listas não ordenadas e ordenadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cross-document links</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195126Z" creationid="olivier" creationdate="20250325T195126Z">
+        <seg>Vínculos entre documentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -10114,6 +10162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232815Z" creationid="olivier" creationdate="20250319T232815Z">
         <seg>Moeda padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Default mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195136Z" creationid="olivier" creationdate="20250325T195136Z">
+        <seg>Modo padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -12230,6 +12286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Export URLs relative to file system</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195111Z" creationid="olivier" creationdate="20250325T195111Z">
+        <seg>Exportar URLs relativos ao sistema de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Export automatically inserted blank pages</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221638Z" creationid="olivier" creationdate="20250324T221638Z">
@@ -12250,6 +12314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220852Z" creationid="olivier" creationdate="20250324T220852Z">
         <seg>Exportar tópicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export outlines as named destinations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194733Z" creationid="olivier" creationdate="20250325T194733Z">
+        <seg>Exportar tópicos como destinos nomeados</seg>
       </tuv>
     </tu>
     <tu>
@@ -13418,6 +13490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172737Z" creationid="olivier" creationdate="20250312T172737Z">
         <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Caixa de diálogo Opções do LibreOffice — Página Caminhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: PDF Options dialog — Links page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194701Z" creationid="olivier" creationdate="20250325T194701Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Caixa de diálogo Opções de PDF — Página Vínculos</seg>
       </tuv>
     </tu>
     <tu>
@@ -20022,6 +20102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the referencing URLs, the extensions .&lt;f0&gt;odt&lt;/f0&gt;, .&lt;f1&gt;odp&lt;/f1&gt;, .&lt;f2&gt;ods&lt;/f2&gt;, .&lt;f3&gt;odg&lt;/f3&gt;, and .&lt;f4&gt;odm&lt;/f4&gt; are converted to the extension .&lt;f5&gt;pdf&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195108Z" creationid="olivier" creationdate="20250325T195108Z">
+        <seg>Nas referências de URLs, as extensões .&lt;f0&gt;odt&lt;/f0&gt;, .&lt;f1&gt;odp&lt;/f1&gt;, .&lt;f2&gt;ods&lt;/f2&gt;, .&lt;f3&gt;odg&lt;/f3&gt; e .&lt;f4&gt;odm&lt;/f4&gt; são convertidas na extensão &lt;f5&gt;pdf&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the section named &lt;f1&gt;Default File Format and ODF Settings&lt;/f1&gt;, under &lt;f2&gt;Document type&lt;/f2&gt;, select &lt;f3&gt;Text document&lt;/f3&gt;, then under &lt;f4&gt;Always save as&lt;/f4&gt;, select your preferred file format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T180610Z" creationid="timot" creationdate="20250122T180610Z">
@@ -21882,6 +21970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T002801Z" creationid="olivier" creationdate="20250120T002801Z">
         <seg>Link para dados externos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Links PDF options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194510Z" creationid="olivier" creationdate="20250325T194510Z">
+        <seg>Opções de vínculos de PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -25858,6 +25954,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222819Z" creationid="olivier" creationdate="20250324T222819Z">
         <seg>Caixa de diálogo Opções de PDF — Página de visualização inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PDF Options dialog — Links page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194728Z" creationid="olivier" creationdate="20250325T194728Z">
+        <seg>Caixa de diálogo Opções de PDF — Página Vínculos</seg>
       </tuv>
     </tu>
     <tu>
@@ -31718,6 +31822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specify how to handle hyperlinks from a PDF file to other files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195134Z" creationid="olivier" creationdate="20250325T195134Z">
+        <seg>Especifique como manipular hiperlinks de um arquivo PDF para outros arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specify language for specific paragraphs</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T102939Z" creationid="timot" creationdate="20250206T102939Z">
@@ -33118,6 +33230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The PDF Options dialog &lt;f0&gt;Links&lt;/f0&gt; page (Figure &lt;t1&gt;5&lt;/t1&gt;) specifies how outlines and hyperlinks will be exported in a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194544Z" creationid="olivier" creationdate="20250325T194544Z">
+        <seg>A página de &lt;f0&gt;vínculos&lt;/f0&gt; da caixa de diálogo Opções de PDF (Figura &lt;t1&gt;5&lt;/t1&gt;) especifica como os tópicos e hiperlinks serão exportados num documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The PDF export merges images, fonts and other resources during export.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222336Z" creationid="olivier" creationdate="20250324T222336Z">
@@ -33362,6 +33482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234149Z" creationid="olivier" creationdate="20250301T234149Z">
         <seg>A ideia básica por trás do código aberto é muito simples: quando os programadores podem ler, redistribuir e modificar o código-fonte de um software, o software evolui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bookmarks (targets of references) in PDF files are defined as rectangular areas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194751Z" creationid="olivier" creationdate="20250325T194751Z">
+        <seg>Os marcadores (alvos de referências) em arquivos PDF são definidos como áreas retangulares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35422,6 +35550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This allows objects to be exported by name from other documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194846Z" creationid="olivier" creationdate="20250325T194846Z">
+        <seg>Isso permite que os objetos sejam exportados por nome de outros documentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This allows the creation and application of different keyboard configurations whenever necessary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T000658Z" creationid="olivier" creationdate="20250308T000658Z">
@@ -35954,6 +36090,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172834Z" creationid="olivier" creationdate="20250312T172834Z">
         <seg>Isso abre a caixa de diálogo Selecionar caminho ou Editar caminhos, permitindo que as pastas sejam adicionadas, editadas ou excluídas conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option allows URLs to be exported to other documents as relative URLs in the file system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195123Z" creationid="olivier" creationdate="20250325T195123Z">
+        <seg>Esta opção permite que os URLs sejam exportados para outros documentos como URLs relativos no sistema de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option automatically converts filename extensions in URLs from ODF to PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195029Z" creationid="olivier" creationdate="20250325T195029Z">
+        <seg>Esta opção converte automaticamente extensões de nome de arquivo em URLs de ODF para PDF.</seg>
       </tuv>
     </tu>
     <tu>
