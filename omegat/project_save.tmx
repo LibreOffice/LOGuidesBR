@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Heading&lt;/f0&gt; — Starts the next section on headings, according to the document outline numbering.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195645Z" creationid="olivier" creationdate="20250327T195645Z">
+        <seg>&lt;f0&gt;Título&lt;/f0&gt; — Inicia a próxima seção nos títulos, de acordo com a numeração dos tópicos do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Hindi&lt;/f0&gt; — all numbers are shown using Hindi numerals.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024713Z" creationid="olivier" creationdate="20250321T024713Z">
@@ -1018,6 +1026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T004933Z" creationid="olivier" creationdate="20250120T004933Z">
         <seg>&lt;f0&gt;Page Up:&lt;/f0&gt; move o foco da célula uma exibição de tela completa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Page break&lt;/f0&gt; — Starts the new section on a page break.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195708Z" creationid="olivier" creationdate="20250327T195708Z">
+        <seg>&lt;f0&gt;Quebra de página&lt;/f0&gt; — Inicia a nova seção em uma quebra de página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1818,6 +1834,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183500Z" creationid="olivier" creationdate="20250222T183232Z">
         <seg>&lt;s0&gt;Barra de ferramentas Padrão do Draw com Impressão direta instalada&lt;/s0&gt;&lt;s1&gt;Barra de ferramentas Padrão do Draw com Impressão direta instalada&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;EPUB Export dialog&lt;/s0&gt;&lt;s1&gt;EPUB Export dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195324Z" creationid="olivier" creationdate="20250327T195324Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Exportação para EPUB&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Exportação EPUB&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6294,6 +6318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calibre provides many e‑book conversion facilities (including PDF to EPUB) and allows editing of the conversion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195440Z" creationid="olivier" creationdate="20250327T195440Z">
+        <seg>O Calibre fornece muitos recursos de conversão de e-books (incluindo PDF para EPUB) e permite a edição da conversão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can LibreOffice be distributed to anyone?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214940Z" creationid="olivier-tdf" creationdate="20250109T214940Z">
@@ -7582,6 +7614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click OK to close the EPUB Export dialog and open the Export dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195259Z" creationid="olivier" creationdate="20250327T195259Z">
+        <seg>Clique em OK para fechar a caixa de diálogo Exportação para EPUB e abrir a caixa de diálogo Exportação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click above the top margin (or below the bottom margin) to make the Header or Footer marker appear (Figure &lt;t0&gt;25&lt;/t0&gt;), and then click on the + sign.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T113535Z" creationid="timot" creationdate="20250224T113535Z">
@@ -7802,6 +7842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T213647Z" creationid="olivier" creationdate="20250324T213647Z">
         <seg>Clique em &lt;f0&gt;Exportar diretamente como PDF&lt;/f0&gt; na barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Export&lt;/f0&gt; and the Writer file is converted to an EPUB file and saved in the selected location.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T194802Z" creationid="olivier" creationdate="20250327T194802Z">
+        <seg>Clique em &lt;f0&gt;Exportar&lt;/f0&gt; e o arquivo Writer o converte num arquivo EPUB e o salva no local selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9270,6 +9318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Controlled EPUB export</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T194808Z" creationid="olivier" creationdate="20250327T194808Z">
+        <seg>Exportação controlada de EPUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Controlled PDF export</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T214158Z" creationid="olivier" creationdate="20250324T214158Z">
@@ -10654,6 +10710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Determines the layout that is generated for the EPUB document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200059Z" creationid="olivier" creationdate="20250327T195745Z">
+        <seg>Determina a disposição gerada para o documento EPUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Determining header and footer appearance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T184728Z" creationid="timot" creationdate="20250228T184728Z">
@@ -11454,6 +11518,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EPUB Export dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195354Z" creationid="olivier" creationdate="20250327T195354Z">
+        <seg>Caixa de diálogo Exportação para EPUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EPUB export options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195519Z" creationid="olivier" creationdate="20250327T195519Z">
+        <seg>Opções de Exportação EPUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EPUB format export (Writer only)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T203722Z" creationid="olivier" creationdate="20250325T203722Z">
@@ -11958,6 +12038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter a file name in the &lt;f0&gt;File name&lt;/f0&gt; text box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T194641Z" creationid="olivier" creationdate="20250327T194641Z">
+        <seg>Insira um nome de arquivo na caixa de texto &lt;f0&gt;Nome do arquivo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter a file name the PDF file and click on &lt;f0&gt;Export&lt;/f0&gt; to save the PDF file in its selected location.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T214441Z" creationid="olivier" creationdate="20250324T214441Z">
@@ -12106,6 +12194,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224259Z" creationid="olivier" creationdate="20250123T224259Z">
         <seg>Insira as informações nas células da primeira planilha onde deseja que elas apareçam e elas serão repetidas em todas as planilhas selecionadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter the necessary information into the various options in EPUB Export dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195101Z" creationid="olivier" creationdate="20250327T195101Z">
+        <seg>Insira as informações necessárias nas várias opções na caixa de diálogo Exportação EPUB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13814,6 +13910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: EPUB Export dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195337Z" creationid="olivier" creationdate="20250327T195337Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Caixa de diálogo Exportação para EPUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Example of Save Keyboard Configuration file browser</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T000238Z" creationid="olivier" creationdate="20250308T000238Z">
@@ -15342,6 +15446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, refer to “&lt;bf0&gt;EPUB export options&lt;/bf0&gt;” &lt;bf1&gt;below&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195123Z" creationid="olivier" creationdate="20250327T195123Z">
+        <seg>Para obter mais informações, consulte "&lt;bf0&gt;Opções de exportação EPUB&lt;/bf0&gt;" &lt;bf1&gt;abaixo&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, see Appendix B, Open Source, Open Standards, OpenDocument.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123902Z" creationid="olivier-tdf" creationdate="20250109T123902Z">
@@ -16482,6 +16594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T213854Z" creationid="olivier" creationdate="20250324T213854Z">
         <seg>Acesse &lt;f0&gt;Arquivo &gt; Exportar como &gt; Exportar diretamente como PDF&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Export As &gt; Export as EPUB&lt;/f0&gt; and open the EPUB Export dialog (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195052Z" creationid="olivier" creationdate="20250327T195052Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Exportar como &gt; Exportar como EPUB&lt;/f0&gt; e abra a caixa de diálogo Exportar EPUB (Figura &lt;t1&gt;8&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21726,6 +21846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layout method</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200036Z" creationid="olivier" creationdate="20250327T195723Z">
+        <seg>Método de disposição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Leading zeroes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T225859Z" creationid="olivier-tdf" creationdate="20250122T225859Z">
@@ -24070,6 +24198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigate to the folder where the EPUB file is going to be saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T194613Z" creationid="olivier" creationdate="20250327T194613Z">
+        <seg>Navegue até a pasta onde o arquivo EPUB será salvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigate to the folder where the extension is located.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083809Z" creationid="olivier" creationdate="20250308T083809Z">
@@ -25456,8 +25592,8 @@
       <tuv lang="en-US">
         <seg>Open the Writer file that is going to be converted.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T224740Z" creationid="olivier" creationdate="20250325T224740Z">
-        <seg>Abra o arquivo Writer que será convertido.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195007Z" creationid="olivier" creationdate="20250325T224740Z">
+        <seg>Abra o arquivo Writer a converter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26314,6 +26450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T225742Z" creationid="tdf" creationdate="20241226T225742Z">
         <seg>Outras versões do LibreOffice podem diferir na aparência e funcionalidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other ways to export to EPUB from Writer (.&lt;f0&gt;odt&lt;/f0&gt;) files include Calibre, an open source e‑book manager that runs on Windows, macOS, and Linux.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195424Z" creationid="olivier" creationdate="20250327T195424Z">
+        <seg>Outras maneiras de exportar para EPUB a partir de arquivos do Writer (.&lt;f0&gt;odt&lt;/f0&gt;) incluem o Calibre, um gerenciador de e-books de código aberto que roda no Windows, macOS e Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28982,6 +29126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See &lt;a1&gt;https://calibre-ebook.com/&lt;/a1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195451Z" creationid="olivier" creationdate="20250327T195451Z">
+        <seg>Consulte &lt;a1&gt;https://calibre-ebook.com/&lt;/a1&gt; para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Appendix B for a full list of image and graphic formats that LibreOffice can import.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T010157Z" creationid="tulio" creationdate="20250320T010157Z">
@@ -30526,6 +30678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the type of start of the next EPUB section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195612Z" creationid="olivier" creationdate="20250327T195612Z">
+        <seg>Selecione o tipo de início da próxima seção EPUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the user dictionaries required for spelling and hyphenation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005931Z" creationid="olivier" creationdate="20250321T005931Z">
@@ -31138,6 +31298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011841Z" creationid="olivier" creationdate="20250321T011841Z">
         <seg>Define o número mínimo de caracteres para que a palavra seja hifenizada para que permaneça no final da linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sets the version of the resulting EPUB file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195536Z" creationid="olivier" creationdate="20250327T195536Z">
+        <seg>Define a versão do arquivo EPUB resultante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32386,6 +32554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214700Z" creationid="olivier-tdf" creationdate="20250109T214700Z">
         <seg>Contador (clique nas setas para cima e para baixo para alterar o número mostrado na caixa de texto ao lado dela ou digite na caixa de texto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Split method</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200018Z" creationid="olivier" creationdate="20250327T195542Z">
+        <seg>Método de separação</seg>
       </tuv>
     </tu>
     <tu>
@@ -34578,6 +34754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230116Z" creationid="olivier" creationdate="20250319T230116Z">
         <seg>São usadas as fontes que foram definidas no estilo de página HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The format of the exported file is fixed to EPUB Document (.&lt;f1&gt;epub&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T194719Z" creationid="olivier" creationdate="20250327T194719Z">
+        <seg>O formato do arquivo exportado é fixo no Documento EPUB (&lt;f1&gt;.epub&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37474,6 +37658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250123T225114Z">
         <seg>Para substituir completamente os dados numa célula, selecione a célula e digite os novos dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To control the content and quality of the resulting EPUB file in Writer, do the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T194943Z" creationid="olivier" creationdate="20250327T194943Z">
+        <seg>Para controlar o conteúdo e a qualidade do arquivo EPUB resultante no Writer, faça o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40442,6 +40634,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124002Z" creationid="olivier-tdf" creationdate="20250114T124002Z">
         <seg>Vasudev Narayanan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195528Z" creationid="olivier" creationdate="20250327T195528Z">
+        <seg>Versão</seg>
       </tuv>
     </tu>
     <tu>
