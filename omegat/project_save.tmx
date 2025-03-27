@@ -3550,6 +3550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A text document can be saved in HTML format so that it can be viewed in a web browser.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202852Z" creationid="olivier" creationdate="20250327T202852Z">
+        <seg>Um documento de texto pode ser salvo em formato HTML para que possa ser visualizado em um navegador da web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A text-only document generally exports well, but some contents (such as illustrations, tables, and cross-references) may not export correctly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T203953Z" creationid="olivier" creationdate="20250325T203953Z">
@@ -5418,6 +5426,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160525Z" creationid="olivier" creationdate="20250121T160525Z">
         <seg>Tentar renomear uma planilha com um nome inválido produzirá uma mensagem de erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202202Z" creationid="olivier" creationdate="20250327T202202Z">
+        <seg>Autor</seg>
       </tuv>
     </tu>
     <tu>
@@ -9550,6 +9566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating HTML files</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202433Z" creationid="olivier" creationdate="20250327T202433Z">
+        <seg>Criar arquivos HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creating a shortcut character</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T215556Z" creationid="olivier" creationdate="20250307T215556Z">
@@ -10318,6 +10342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202228Z" creationid="olivier" creationdate="20250327T202228Z">
+        <seg>Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Date acceptance patterns</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T131632Z" creationid="olivier" creationdate="20250320T131632Z">
@@ -10402,6 +10434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232815Z" creationid="olivier" creationdate="20250319T232815Z">
         <seg>Moeda padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Default is the date and time when the export dialogue box opened.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202417Z" creationid="olivier" creationdate="20250327T202417Z">
+        <seg>O padrão é a data e hora em que a caixa de diálogo de exportação foi aberta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11146,6 +11186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T112722Z" creationid="timot" creationdate="20250224T112722Z">
         <seg>&lt;f0&gt;Não&lt;/f0&gt; use um hífen normal, pois permanecerá visível mesmo que a palavra não esteja mais no final de uma linha quando adicionar ou excluir texto, ou alterar as margens ou o tamanho da fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not expect the same layout when saving a file in HTML format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202829Z" creationid="olivier" creationdate="20250327T202829Z">
+        <seg>Não espere o mesmo leiaute ao salvar um arquivo em formato HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12190,6 +12238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter a unique identifier for the publication.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202147Z" creationid="olivier" creationdate="20250327T202147Z">
+        <seg>Insira um identificador exclusivo para a publicação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter a zoom factor which determines when a PDF reader opens a PDF file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123551Z" creationid="olivier" creationdate="20250325T123551Z">
@@ -12222,6 +12278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter the Author of the publication.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202215Z" creationid="olivier" creationdate="20250327T202215Z">
+        <seg>Insira o autor da publicação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter the URL of the HTML document or the name of the spreadsheet, then press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier" creationdate="20250120T001929Z">
@@ -12242,6 +12306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200747Z" creationid="olivier" creationdate="20250327T200747Z">
         <seg>Digite o diretório de multimídia personalizado para o arquivo EPUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter the custom metadata that overrides the document default metadata.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202122Z" creationid="olivier" creationdate="20250327T202122Z">
+        <seg>Insira os metadados personalizados que substituem os metadados padrão do documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12298,6 +12370,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104101Z" creationid="timot" creationdate="20250204T104101Z">
         <seg>Digite o texto na caixa Localizar na parte superior&lt;f0&gt;.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter the title of the publication.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202200Z" creationid="olivier" creationdate="20250327T202200Z">
+        <seg>Insira o título da publicação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14862,6 +14942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, in Writer, go to &lt;f0&gt;View &gt; Web&lt;/f0&gt; and the view will change to show how the text document appears as a web page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202551Z" creationid="olivier" creationdate="20250327T202551Z">
+        <seg>Por exemplo, no Writer, acesse &lt;f0&gt;Exibir &gt; Web&lt;/f0&gt; para alterar a exibição e mostrar como o documento de texto aparece como uma página da web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, open a Draw file from Writer and this will open Draw automatically.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192738Z" creationid="olivier-tdf" creationdate="20250109T192738Z">
@@ -15114,6 +15202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T140519Z" creationid="tulio" creationdate="20250211T140519Z">
         <seg>Por exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For graphics, JPEG, or SVG formats are saved as HTML and all other graphic formats are saved as PNG.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203005Z" creationid="olivier" creationdate="20250327T203005Z">
+        <seg>Para gráficos, os formatos JPEG ou SVG são salvos como HTML e todos os outros formatos gráficos são salvos como PNG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17822,6 +17918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, &lt;f1&gt;Web&lt;/f1&gt; view does not show which features will, or will not be saved correctly in HTML format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202608Z" creationid="olivier" creationdate="20250327T202608Z">
+        <seg>No entanto, o modo de exibição &lt;f1&gt;Web&lt;/f1&gt; não mostra quais recursos serão ou não salvos corretamente no formato HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, LibreOffice can also open and save documents in many other formats, including those used by several versions of Microsoft Office.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123842Z" creationid="olivier-tdf" creationdate="20250109T123842Z">
@@ -18074,6 +18178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T231400Z" creationid="olivier" creationdate="20250307T231400Z">
         <seg>Os ícones podem ser criados usando um programa gráfico e importados para o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Identifier</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202143Z" creationid="olivier" creationdate="20250327T202143Z">
+        <seg>Identificador</seg>
       </tuv>
     </tu>
     <tu>
@@ -21918,6 +22030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Language of the publication (see RFC4646 and ISO 639 for possible values).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202226Z" creationid="olivier" creationdate="20250327T202226Z">
+        <seg>Idioma da publicação (consulte RFC4646 e ISO 639 para valores possíveis).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Language tool server</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024942Z" creationid="olivier" creationdate="20250321T024819Z">
@@ -21930,6 +22050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232053Z" creationid="olivier" creationdate="20250319T232053Z">
         <seg>Idiomas e localidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last modification date for the publication.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202235Z" creationid="olivier" creationdate="20250327T202235Z">
+        <seg>Data da última modificação para a publicação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22250,6 +22378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000829Z" creationid="olivier" creationdate="20250303T000829Z">
         <seg>As funções do LibreOffice podem ser usadas com atalhos de teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice generates the image files and the HTML file necessary to create an HTML page in a browser.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203037Z" creationid="olivier" creationdate="20250327T203037Z">
+        <seg>O LibreOffice gera os arquivos de imagem e o arquivo HTML necessários para criar uma página HTML num navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23378,6 +23514,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210313Z" creationid="olivier-tdf" creationdate="20250128T210313Z">
         <seg>Mesclar células pode levar a erros de cálculo nas fórmulas usadas na planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metadata</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202102Z" creationid="olivier" creationdate="20250327T202102Z">
+        <seg>Metadados</seg>
       </tuv>
     </tu>
     <tu>
@@ -28166,6 +28310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Refer to Table &lt;t0&gt;1&lt;/t0&gt; for the file types created and file content when saving HTML format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203103Z" creationid="olivier" creationdate="20250327T203103Z">
+        <seg>Consulte a Tabela &lt;t0&gt;1&lt;/t0&gt; para os tipos de arquivo criados e o conteúdo do arquivo ao salvar o formato HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Refer to the &lt;f4&gt;Writer Guide&lt;/f4&gt; for details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T101637Z" creationid="timot" creationdate="20250222T101637Z">
@@ -28194,6 +28346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T230417Z" creationid="olivier" creationdate="20250307T230417Z">
         <seg>Consulte "&lt;bf0&gt;Personalizar da barra de ferramentas&lt;/bf0&gt;" na página &lt;bf1&gt;8&lt;/bf1&gt; para obter informações sobre como adicionar ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Refer to “&lt;bf2&gt;HTML files using Writer/Web&lt;/bf2&gt;” &lt;bf3&gt;below&lt;/bf3&gt;&lt;s4/&gt;for more information on creating a web page from a text document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202633Z" creationid="olivier" creationdate="20250327T202633Z">
+        <seg>Consulte &lt;bf2&gt;Arquivos HTML usando o Writer/Web&lt;/bf2&gt; &lt;bf3&gt;abaixo&lt;/bf3&gt;&lt;s4/&gt;para obter mais informações sobre como criar uma página da Web a partir de um documento de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28986,6 +29146,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152011Z" creationid="olivier" creationdate="20250318T152011Z">
         <seg>Salva a versão anterior de um documento como uma cópia de backup sempre que salvar um documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving a text document as HTML is limited by the HTML 4.0 Transitional specification.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202747Z" creationid="olivier" creationdate="20250327T202747Z">
+        <seg>Salvar um documento de texto como HTML se limita à especificação do HTML 4.0 Transitional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving as HTML</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202841Z" creationid="olivier" creationdate="20250327T202841Z">
+        <seg>Salvar como HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -33142,6 +33318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: File types created saving in HTML format</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203119Z" creationid="olivier" creationdate="20250327T203119Z">
+        <seg>Tabela &lt;seq0&gt;1&lt;/seq0&gt;: Tipos de arquivo criados ao salvar em formato HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Filenames extensions for OpenDocument files</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T235212Z" creationid="olivier" creationdate="20250301T235212Z">
@@ -33514,6 +33698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T203231Z" creationid="olivier" creationdate="20250324T203231Z">
         <seg>Documentos de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text documents in office suites normally use a richer set of resources that do not appear in HTML, for example page formatting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202800Z" creationid="olivier" creationdate="20250327T202800Z">
+        <seg>Documentos de texto em suítes de escritório normalmente usam um conjunto mais rico de recursos que não aparecem em HTML, por exemplo, formatação de página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34254,6 +34446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Writer module automatically creates a page containing hyperlinks to each of these pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202918Z" creationid="olivier" creationdate="20250327T202918Z">
+        <seg>O módulo Writer cria automaticamente uma página contendo hiperlinks para cada uma dessas páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The active cell is always indicated by highlighting its corresponding column and row header cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121010Z" creationid="olivier-tdf" creationdate="20250117T121010Z">
@@ -34706,6 +34906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T232321Z" creationid="olivier-tdf" creationdate="20250224T232321Z">
         <seg>O documento volta à visualização normal e a barra de ferramentas Formatação reabre substituindo a barra de ferramentas Visualização de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The easiest way to create HTML documents in LibreOffice is to start with an existing text document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202457Z" creationid="olivier" creationdate="20250327T202457Z">
+        <seg>A maneira mais fácil de criar documentos HTML no LibreOffice é começar com um documento de texto existente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35294,6 +35502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The number of files generated by the format conversion depends on the number of images and objects in the original text document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203048Z" creationid="olivier" creationdate="20250327T203048Z">
+        <seg>O número de arquivos gerados pela conversão de formato depende do número de imagens e objetos no documento de texto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The official extension repository for LibreOffice opens in a web browser.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T082951Z" creationid="olivier" creationdate="20250308T082951Z">
@@ -35878,10 +36094,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The use of styles in the text document is strongly recommended when saving, or exporting to HTML, or XHTML format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202650Z" creationid="olivier" creationdate="20250327T202650Z">
+        <seg>O uso de estilos no documento de texto é altamente recomendado ao salvar ou exportar para HTML ou formato XHTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The user can choose if the PDF file will include any defined placeholder fields, which can be filled in by users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221315Z" creationid="olivier" creationdate="20250324T221315Z">
         <seg>Escolha se o arquivo PDF incluirá quaisquer campos de espaço reservado definidos, que podem ser preenchidos pelos usuários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The value of this property must be an XML Schema date Time conformant date in the form: CCYY-MM-DDThh:mm:ssZ.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202409Z" creationid="olivier" creationdate="20250327T202409Z">
+        <seg>O valor desta propriedade deve ser uma data conforme o esquema XML Date Time no formato: CCYY-MM-DDThh:mm:ssZ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36370,6 +36602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T002102Z" creationid="olivier" creationdate="20250120T002102Z">
         <seg>Essas tabelas agora estão listadas na ordem em que aparecem na origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These text fields can be left empty.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202134Z" creationid="olivier" creationdate="20250327T202134Z">
+        <seg>Estes campos de texto podem ser deixados em branco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37350,6 +37590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202149Z" creationid="olivier" creationdate="20250327T202149Z">
+        <seg>Título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title bar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125902Z" creationid="olivier-tdf" creationdate="20250114T125902Z">
@@ -38202,6 +38450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier" creationdate="20250122T183152Z">
         <seg>Para fixar a primeira linha numa planilha, acesse &lt;f0&gt;Exibir &gt; Fixar células &gt; Fixar primeira linha&lt;/f0&gt; na barra de menu ou clique na seta para baixo à direita do ícone &lt;f1&gt;Fixar linhas e colunas&lt;/f1&gt; na barra de ferramentas padrão e selecione &lt;f2&gt;Fixar primeira linha&lt;/f2&gt; no menu suspenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To generate a separate HTML page, you can associate a page break with a specific heading paragraph style each time that style appears in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202907Z" creationid="olivier" creationdate="20250327T202907Z">
+        <seg>Para gerar uma página HTML separada, você pode associar uma quebra de página a um estilo de parágrafo de cabeçalho específico sempre que esse estilo aparecer no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41922,6 +42178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T130020Z" creationid="olivier-tdf" creationdate="20250114T130020Z">
         <seg>Quando salvar um documento de planilha pela primeira vez, insira um nome de sua escolha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you save a text document in HTML format, any graphics in the document are saved into the HTML document as embedded data streams.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202946Z" creationid="olivier" creationdate="20250327T202946Z">
+        <seg>Quando salvar um documento de texto no formato HTML, quaisquer gráficos no documento serão salvos no documento HTML como fluxos de dados incorporados.</seg>
       </tuv>
     </tu>
     <tu>
