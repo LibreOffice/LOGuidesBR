@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Fixed&lt;/f0&gt; — Gives greater control over presentation when a reflowable EPUB is not suitable for its content.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200344Z" creationid="olivier" creationdate="20250327T200344Z">
+        <seg>&lt;f0&gt;Fixo&lt;/f0&gt; — Oferece maior controle sobre a apresentação quando um EPUB refluível não é adequado para o seu conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Fn+Left Arrow&lt;/f0&gt; or &lt;f1&gt;Ctrl+A&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002901Z" creationid="olivier" creationdate="20250303T002901Z">
@@ -1130,6 +1138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T030657Z" creationid="olivier" creationdate="20250321T030657Z">
         <seg>Página de &lt;f0&gt;Proxy&lt;/f0&gt; — insira as configurações de proxy para uso com o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Reflowable&lt;/f0&gt; — Content flows (or reflows) to fit the screen and to fit the needs of the user.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200201Z" creationid="olivier" creationdate="20250327T200201Z">
+        <seg>&lt;f0&gt;Ajustável&lt;/f0&gt; — O conteúdo flui (ou reflui) para se adequar à tela e às necessidades do usuário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5990,6 +6006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, the exporter looks inside a folder in the current document directory with the same name of the document file name for custom media and custom metadata.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200821Z" creationid="olivier" creationdate="20250327T200821Z">
+        <seg>Normalmente, o exportador procura dentro de uma pasta no diretório do documento atual com o mesmo nome do nome do arquivo do documento para mídia personalizada e metadados personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By providing the configuration file for the computer operating system in the folder &lt;f2&gt;&lt;instdir&gt;/presets/config&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190616Z" creationid="olivier" creationdate="20250316T190616Z">
@@ -10078,10 +10102,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Custom cover image</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200426Z" creationid="olivier" creationdate="20250327T200426Z">
+        <seg>Imagem da capa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Custom media directory</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200718Z" creationid="olivier" creationdate="20250327T200718Z">
+        <seg>Diretório multimídia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customizations can also be carried out by adding extensions that can be installed from the LibreOffice website or from other providers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135110Z" creationid="olivier" creationdate="20250305T135110Z">
         <seg>As personalizações também podem ser realizadas adicionando extensões que podem ser instaladas a partir do site do LibreOffice ou de outros provedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customize</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200347Z" creationid="olivier" creationdate="20250327T200347Z">
+        <seg>Personalizar</seg>
       </tuv>
     </tu>
     <tu>
@@ -12186,6 +12234,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211001Z" creationid="olivier" creationdate="20250121T115929Z">
         <seg>Insira a referência de célula para a célula superior esquerda, seguida por dois-pontos (:) e depois a referência de célula inferior direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter the custom media directory for the EPUB file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200747Z" creationid="olivier" creationdate="20250327T200747Z">
+        <seg>Digite o diretório de multimídia personalizado para o arquivo EPUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter the full path of the custom cover image file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200452Z" creationid="olivier" creationdate="20250327T200452Z">
+        <seg>Insira o caminho completo do arquivo de imagem de capa personalizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14526,6 +14590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For custom metadata, provide a file with same name as the original filename with the extension .&lt;f0&gt;xmp&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200955Z" creationid="olivier" creationdate="20250327T200955Z">
+        <seg>Para metadados personalizados, forneça um arquivo com o mesmo nome do nome do arquivo original com a extensão .&lt;f0&gt;xmp&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For details about these options, see Chapter 1, Introduction, in the &lt;f1&gt;Calc Guide&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122440Z" creationid="olivier-tdf" creationdate="20250117T122440Z">
@@ -14754,6 +14826,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T174602Z" creationid="olivier" creationdate="20250318T174602Z">
         <seg>Por exemplo, se o documento contiver o código do Microsoft BASIC e o documento for salvo no formato OpenDocument, será exibido um aviso informando que o código do Microsoft BASIC não será salvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if the document name is &lt;f0&gt;MyText.odt&lt;/f0&gt;, the default media folder for cover and metadata is &lt;f1&gt;MyText&lt;/f1&gt; in the current directory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200934Z" creationid="olivier" creationdate="20250327T200934Z">
+        <seg>Por exemplo, se o nome do documento for &lt;f0&gt;MeuTexto.odt&lt;/f0&gt;, a pasta de mídia padrão para capa e metadados é &lt;f1&gt;MeuTexto&lt;/f1&gt; no diretório atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18838,6 +18918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the entry is empty, the exporter uses the cover image in the media directory when the name is one of the following: &lt;f0&gt;cover.gif, cover.jpg, cover.png&lt;/f0&gt;, or &lt;f1&gt;cover.svg&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200608Z" creationid="olivier" creationdate="20250327T200608Z">
+        <seg>Se a entrada estiver vazia, o exportador utiliza a imagem de capa no diretório de mídia quando o nome é um dos seguintes: &lt;f0&gt;cover.gif, cover.jpg, cover.png&lt;/f0&gt; ou &lt;f1&gt;cover.svg&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the file is write-protected, it cannot be changed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T010052Z" creationid="olivier" creationdate="20250321T010052Z">
@@ -19594,6 +19682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T004019Z" creationid="tulio" creationdate="20250320T004019Z">
         <seg>Arquivos de imagem e gráficos, por exemplo, fotos, desenhos, documentos PDF e imagens digitalizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Image links mean that if create relative links are created on images or text and they link an image that is available in the media directory, then this media is available in the EPUB export file as a pop-up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202056Z" creationid="olivier" creationdate="20250327T202056Z">
+        <seg>Links de imagem significam que, ao criar links relativos, eles são criados nas imagens ou textos, e se ligam a uma imagem disponível no diretório de mídia, então esta mídia está disponível no arquivo de exportação EPUB como um pop-up.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20506,6 +20602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112621Z" creationid="timot" creationdate="20250202T112621Z">
         <seg>Na caixa de diálogo, é possível:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the example above, the custom metadata must exist in the &lt;f1&gt;MyText&lt;/f1&gt; directory as &lt;f2&gt;MyText.xmp.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T201342Z" creationid="olivier" creationdate="20250327T201342Z">
+        <seg>No exemplo acima, os metadados personalizados devem existir no diretório &lt;f1&gt;MeuTexto&lt;/f1&gt; como &lt;f2&gt;MeuTexto.xmp&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34430,6 +34534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The custom cover image is embedded in the EPUB file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200618Z" creationid="olivier" creationdate="20250327T200618Z">
+        <seg>A imagem de capa personalizada é incorporada no arquivo EPUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The customized menus and toolbars are created in a document and the document is then saved as a template.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135401Z" creationid="olivier" creationdate="20250305T135401Z">
@@ -34982,6 +35094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The media directory may contain a cover image as seen above, custom metadata and image links.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200757Z" creationid="olivier" creationdate="20250327T200757Z">
+        <seg>O diretório de mídia pode conter uma imagem de capa como visto acima, metadados personalizados e links de imagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The menus in the other LibreOffice modules are also created using a similar procedure.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T204548Z" creationid="olivier" creationdate="20250307T214537Z">
@@ -35330,6 +35450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183809Z" creationid="olivier-tdf" creationdate="20250209T183809Z">
         <seg>A planilha protegida tem um ícone de cadeado em sua aba, conforme mostrado na Figura &lt;t0&gt;42&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The provided metadata overrides the internal document metadata.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T201004Z" creationid="olivier" creationdate="20250327T201004Z">
+        <seg>Os metadados fornecidos substituem os metadados internos do documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36362,6 +36490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T145153Z" creationid="olivier" creationdate="20250223T145153Z">
         <seg>Isso também inclui quaisquer predefinições personalizadas que tenham sido criadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This also means that page style information (for example, page size or header/footer content) will not be exported.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200229Z" creationid="olivier" creationdate="20250327T200229Z">
+        <seg>Significa também que as informações de estilo de página (por exemplo, tamanho da página ou conteúdo do cabeçalho/rodapé) não serão exportadas.</seg>
       </tuv>
     </tu>
     <tu>
