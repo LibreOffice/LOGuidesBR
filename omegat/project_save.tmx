@@ -7910,6 +7910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Export&lt;/f0&gt; to save the file as XHTML and close the Export dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224232Z" creationid="olivier" creationdate="20250327T224232Z">
+        <seg>Clique em &lt;f0&gt;Exportar&lt;/f0&gt; para salvar o arquivo como XHTML e fechar a caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;General&lt;/f0&gt; to open the page for general print options and, if necessary, select a printer from the &lt;f1&gt;Printer&lt;/f1&gt; drop-down list of printers available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T225013Z" creationid="olivier-tdf" creationdate="20250224T225013Z">
@@ -12766,6 +12774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Export as XHTML</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224017Z" creationid="olivier" creationdate="20250327T224017Z">
+        <seg>Exportar como XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Export automatically inserted blank pages</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221638Z" creationid="olivier" creationdate="20250324T221638Z">
@@ -16814,6 +16830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Export&lt;/f0&gt; on the Menu bar to open the Export dialog (Figure &lt;t1&gt;1&lt;/t1&gt; on page &lt;t2&gt;7&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224150Z" creationid="olivier" creationdate="20250327T224150Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Exportar&lt;/f0&gt; na barra de menu para abrir a caixa de diálogo Exportar (Figura &lt;t1&gt;1&lt;/t1&gt; na página &lt;t2&gt;7&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; New&lt;/f0&gt; on the Menu bar and select the type of document from the submenu that opens.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T173824Z" creationid="olivier" creationdate="20250220T173824Z">
@@ -18662,6 +18686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If necessary, create a new folder as a location for the HTML file and images.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224132Z" creationid="olivier" creationdate="20250327T224132Z">
+        <seg>Se necessário, crie uma nova pasta como um local para o arquivo HTML e imagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If necessary, enter a command name in the &lt;f0&gt;Search&lt;/f0&gt; text box to locate the command in the &lt;f1&gt;Available Commands&lt;/f1&gt; list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T213419Z" creationid="olivier" creationdate="20250307T213419Z">
@@ -19670,6 +19702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want LibreOffice to export a text document as a XHTML file, LibreOffice generates an XHTML file for each text document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224036Z" creationid="olivier" creationdate="20250327T224036Z">
+        <seg>Se desejar que o LibreOffice exporte um documento de texto como um arquivo XHTML, o LibreOffice gera um arquivo XHTML para cada documento de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to apply the active (last used) color again, then simply click the main body of the &lt;f1&gt;Background Color&lt;/f1&gt; icon.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T162025Z" creationid="olivier" creationdate="20250204T162025Z">
@@ -19834,6 +19874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T004019Z" creationid="tulio" creationdate="20250320T004019Z">
         <seg>Arquivos de imagem e gráficos, por exemplo, fotos, desenhos, documentos PDF e imagens digitalizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Image files are also embedded in the XHTML file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224046Z" creationid="olivier" creationdate="20250327T224046Z">
+        <seg>Os arquivos de imagem também são incorporados no arquivo XHTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20034,6 +20082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203556Z" creationid="olivier" creationdate="20250327T203556Z">
         <seg>Em &lt;f0&gt;Tipo de arquivo:&lt;/f0&gt;, selecione &lt;f1&gt;Documento HTML (Writer) (.html)&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;File type:,&lt;/f0&gt; select &lt;f1&gt;XHTML (Extensible Hypertext Markup Language)&lt;/f1&gt; as the file type.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224221Z" creationid="olivier" creationdate="20250327T224221Z">
+        <seg>Em &lt;f0&gt;Tipo de arquivo:,&lt;/f0&gt; selecione &lt;f1&gt;XHTML (Extensible Hypertext Markup Language)&lt;/f1&gt; como o tipo de arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21390,6 +21446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Instead, use borderless tables to position contents instead of the Tab character in a line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224452Z" creationid="olivier" creationdate="20250327T224452Z">
+        <seg>Em vez disso, use tabelas sem bordas para posicionar o conteúdo em vez do caractere de tabulação numa linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Integration</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192559Z" creationid="olivier-tdf" creationdate="20250109T192559Z">
@@ -22698,6 +22762,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T124519Z" creationid="olivier" creationdate="20250313T124519Z">
         <seg>O LibreOffice armazenará com segurança todas as senhas usadas para acessar arquivos de servidores internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice-generated XHTML files have better layout rendering, but fail to render objects other than images.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224122Z" creationid="olivier" creationdate="20250327T224122Z">
+        <seg>Os arquivos XHTML gerados pelo LibreOffice têm melhor renderização de leiaute, mas não conseguem renderizar objetos que não sejam imagens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24546,6 +24618,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T001818Z" creationid="olivier" creationdate="20250308T001818Z">
         <seg>Navegue até a pasta onde os arquivos de configuração do teclado estão localizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate to the location of the new folder in the Export dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224207Z" creationid="olivier" creationdate="20250327T224207Z">
+        <seg>Navegue até o local da nova pasta na caixa de diálogo Exportar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34470,6 +34550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Tab character is not rendered when LibreOffice exports to XHTML.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224432Z" creationid="olivier" creationdate="20250327T224432Z">
+        <seg>O caractere de tabulação não é renderizado quando o LibreOffice exporta para XHTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Title bar is located at the top of the LibreOffice window and it shows the file name of the current document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T142913Z" creationid="tulio" creationdate="20250119T142913Z">
@@ -38190,6 +38278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To create extra spaces in a HTML file or web page, insert non-breaking spaces in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224341Z" creationid="olivier" creationdate="20250327T224341Z">
+        <seg>Para criar espaços extras em um arquivo HTML ou página da web, insira espaços não quebráveis no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To customize a toolbar, you can add tools listed in &lt;f0&gt;Visible Buttons&lt;/f0&gt;, or add new tools to a toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T141124Z" creationid="tulio" creationdate="20250211T141124Z">
@@ -38450,6 +38546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T160745Z" creationid="timot" creationdate="20250205T160745Z">
         <seg>Para inserir meios traços e travessões enquanto digita, é possível usar &lt;f0&gt;Substituir traços&lt;/f0&gt; na guia &lt;f1&gt;Opções&lt;/f1&gt; na caixa de diálogo Autocorreção (&lt;f2&gt;Ferramentas &gt; Autocorreção &gt; Opções da Autocorreção).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To enter non-breaking spaces, use the keyboard shortcut &lt;f0&gt;Ctrl+Spacebar&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Shift+Spacebar&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224415Z" creationid="olivier" creationdate="20250327T224415Z">
+        <seg>Para inserir espaços que não quebrem, use o atalho de teclado &lt;f0&gt;Ctrl+Barra de espaço&lt;/f0&gt; (macOS&lt;f1&gt;⌘ +Shift+Barra de espaço&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42838,6 +42942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer does not replace multiple spaces in the original document with the HTML code for non-breaking spaces.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224330Z" creationid="olivier" creationdate="20250327T224330Z">
+        <seg>O Writer não substitui múltiplos espaços em branco no documento original pelo código HTML para espaços não quebráveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer has &lt;f0&gt;three&lt;/f0&gt; ways to find text within a document: the Find toolbar &lt;f1&gt;and the Find deck in the Sidebar &lt;/f1&gt;for fast searching&lt;f2&gt;,&lt;/f2&gt; and the Find and Replace dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="timot" creationdate="20250202T112610Z">
@@ -43746,6 +43858,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114700Z" creationid="olivier-tdf" creationdate="20250109T114700Z">
         <seg>Você também pode se envolver com o trabalho voluntário em muitas áreas: desenvolvimento, garantia de qualidade, documentação, tradução, suporte ao usuário e muito mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will have to change the bullet and number lists that insert a Tab character between the bullet or number and the text—instead, create a list style where the Tab character is replaced by a space.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T225457Z" creationid="olivier" creationdate="20250327T225457Z">
+        <seg>Você terá que alterar as listas de marcadores e números que inserem um caractere de tabulação entre o marcador ou número e o texto - em vez disso, crie um estilo de lista em que o caractere de tabulação seja substituído por um espaço.</seg>
       </tuv>
     </tu>
     <tu>
