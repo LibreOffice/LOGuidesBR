@@ -2070,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;File Services dialog&lt;/s0&gt;&lt;s1&gt;File Services dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185535Z" creationid="olivier-tdf" creationdate="20250328T185535Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Serviços de arquivo&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Serviços de arquivo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Fill Series dialog&lt;/s0&gt;&lt;s1&gt;Fill Series dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215627Z" creationid="olivier" creationdate="20250123T215627Z">
@@ -8238,6 +8246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;OK&lt;/f0&gt; to save the details and close the File Services dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185713Z" creationid="olivier-tdf" creationdate="20250328T185713Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar os detalhes e fechar a caixa de diálogo Serviços de arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Open&lt;/f0&gt; and the image, or graphic, is embedded into the document and Insert Image dialog closes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012301Z" creationid="tulio" creationdate="20250320T012301Z">
@@ -8258,6 +8274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T001836Z" creationid="olivier" creationdate="20250308T001836Z">
         <seg>Clique em &lt;f0&gt;Abrir&lt;/f0&gt; para carregar a configuração de teclado selecionada no LibreOffice e feche o navegador de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Open&lt;/f0&gt; to open the file and close the Remote Files dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185754Z" creationid="olivier-tdf" creationdate="20250328T185754Z">
+        <seg>Clique em &lt;f0&gt;Abrir&lt;/f0&gt; para abrir o arquivo e fechar a caixa de diálogo Arquivos remotos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11006,6 +11030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Depending on the file service selected, different parameters are necessary for connection to a remote server.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185615Z" creationid="olivier-tdf" creationdate="20250328T185615Z">
+        <seg>Dependendo do serviço de arquivo selecionado, diferentes parâmetros são necessários para a conexão a um servidor remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Depending on what you are trying to accomplish, a table or frame might be a better choice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T110126Z" creationid="timot" creationdate="20250224T110126Z">
@@ -12670,6 +12702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter the necessary information in the text boxes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185620Z" creationid="olivier-tdf" creationdate="20250328T185620Z">
+        <seg>Insira as informações necessárias nas caixas de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter the necessary information into the various options in EPUB Export dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195101Z" creationid="olivier" creationdate="20250327T195101Z">
@@ -13600,8 +13640,8 @@
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Remote Files dialog</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185319Z" creationid="olivier-tdf" creationdate="20250328T185319Z">
-        <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: Caixa de diálogo Serviços de arquivo</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185456Z" creationid="olivier-tdf" creationdate="20250328T185319Z">
+        <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: Caixa de diálogo Arquivos remotos</seg>
       </tuv>
     </tu>
     <tu>
@@ -13610,6 +13650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T155714Z" creationid="timot" creationdate="20250205T155714Z">
         <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: A caixa de diálogo Caracteres especiais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: File Services dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185543Z" creationid="olivier-tdf" creationdate="20250328T185543Z">
+        <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: Caixa de diálogo Serviços de arquivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14626,6 +14674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200426Z" creationid="olivier" creationdate="20250325T200426Z">
         <seg>Criptografia e permissão de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File Services dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185552Z" creationid="olivier-tdf" creationdate="20250328T185552Z">
+        <seg>Caixa de diálogo Serviços de arquivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -19238,6 +19294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If necessary, enter a label for the remote server in the &lt;f0&gt;Label&lt;/f0&gt; text box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185701Z" creationid="olivier-tdf" creationdate="20250328T185701Z">
+        <seg>Se necessário, insira um rótulo para o servidor remoto na caixa de texto &lt;f0&gt;Rótulo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If necessary, insert a menu separator above the newly inserted command as follows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T213806Z" creationid="olivier" creationdate="20250307T213806Z">
@@ -21354,6 +21418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T030635Z" creationid="olivier" creationdate="20250321T030635Z">
         <seg>Na caixa de diálogo Opções da Internet (Figura &lt;t0&gt;24&lt;/t0&gt;), as seguintes configurações da Internet estão localizadas em páginas de diálogo separadas, dependendo do sistema operacional do computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the Remote Files dialog, select the service from the Service drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185735Z" creationid="olivier-tdf" creationdate="20250328T185735Z">
+        <seg>Na caixa de diálogo Arquivos remotos, selecione o serviço na lista suspensa Serviço.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25322,6 +25394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012242Z" creationid="tulio" creationdate="20250320T012242Z">
         <seg>Navegue até onde o arquivo está localizado e selecione-o.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate to where the remote file is located and select the required file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185742Z" creationid="olivier-tdf" creationdate="20250328T185742Z">
+        <seg>Navegue até onde o arquivo remoto está localizado e selecione o arquivo necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29368,8 +29448,8 @@
       <tuv lang="en-US">
         <seg>Remote Files dialog</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185323Z" creationid="olivier-tdf" creationdate="20250328T185323Z">
-        <seg>Caixa de diálogo Serviços de arquivo</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185500Z" creationid="olivier-tdf" creationdate="20250328T185323Z">
+        <seg>Caixa de diálogo Arquivos remotos</seg>
       </tuv>
     </tu>
     <tu>
@@ -31970,6 +32050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023926Z" creationid="olivier" creationdate="20250321T023926Z">
         <seg>Selecione o tipo de movimento do cursor e a seleção de texto para texto misto (misturado da direita para a esquerda com a direção do texto da esquerda para a direita).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the type of file service required from options available in the &lt;f0&gt;Type&lt;/f0&gt; drop‑down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185605Z" creationid="olivier-tdf" creationdate="20250328T185605Z">
+        <seg>Selecione o tipo de serviço de arquivo necessário nas opções disponíveis na lista suspensa &lt;f0&gt;Tipo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37122,6 +37210,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214223Z" creationid="olivier-tdf" creationdate="20250109T214223Z">
         <seg>Os termos usados no LibreOffice para a maioria das partes da interface do usuário (as partes do programa que se vê e usa, em contraste com o código dos bastidores que realmente o faz funcionar) são os mesmos da maioria dos outros programas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The text boxes change depending on the type of service that has been selected in &lt;f0&gt;Type&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185631Z" creationid="olivier-tdf" creationdate="20250328T185631Z">
+        <seg>As caixas de texto mudam dependendo do tipo de serviço que foi selecionado em &lt;f0&gt;Tipo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
