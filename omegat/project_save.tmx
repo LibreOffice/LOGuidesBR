@@ -4310,6 +4310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After printing, a document must be saved to preserve the &lt;f0&gt;Last printed&lt;/f0&gt; data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193731Z" creationid="olivier-tdf" creationdate="20250328T193731Z">
+        <seg>Após a impressão, um documento precisa ser salvo para preservar os dados de &lt;f0&gt;Última impreassão&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After selecting &lt;f0&gt;View &gt; Page Break&lt;/f0&gt;, you can right-click on a cell to access a context menu containing &lt;f1&gt;Row Break&lt;/f1&gt; and &lt;f2&gt;Column Break&lt;/f2&gt; options.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T212056Z" creationid="olivier-tdf" creationdate="20250209T200702Z">
@@ -11366,6 +11374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Digital Signatures</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193537Z" creationid="olivier-tdf" creationdate="20250328T193537Z">
+        <seg>Assinaturas digitais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Digital Signatures dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190620Z" creationid="olivier-tdf" creationdate="20250328T190620Z">
@@ -11622,6 +11638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displays the amount of time that the file has been open for editing since the file was created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193820Z" creationid="olivier-tdf" creationdate="20250328T193820Z">
+        <seg>Exibe a quantidade de tempo que o arquivo esteve aberto para edição desde que foi criado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Displays the computer connection for the selected printer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184131Z" creationid="olivier" creationdate="20250222T184131Z">
@@ -11666,6 +11690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193149Z" creationid="olivier-tdf" creationdate="20250328T193149Z">
         <seg>Exibe a data, hora e autor quando o arquivo foi salvo pela última vez em um formato de arquivo LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the date, time and user name when the file was last printed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193632Z" creationid="olivier-tdf" creationdate="20250328T193632Z">
+        <seg>Exibe a data, a hora e o nome do usuário quando o arquivo foi impresso pela última vez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23278,6 +23310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Last printed</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193617Z" creationid="olivier-tdf" creationdate="20250328T193617Z">
+        <seg>Última impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Layout</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150228Z" creationid="olivier" creationdate="20250223T150228Z">
@@ -26070,6 +26110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No warning message is displayed if an unsaved document is closed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193747Z" creationid="olivier-tdf" creationdate="20250328T193747Z">
+        <seg>Não há mensagens de aviso sobre o assunto, caso o documento seja fechado sem salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Non-breaking hyphens</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213922Z" creationid="timot" creationdate="20250205T160444Z">
@@ -27578,6 +27626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191014Z" creationid="olivier" creationdate="20250316T191014Z">
         <seg>Abre a caixa de diálogo Caminho da classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the Digital Signatures dialog box where digital signatures are managed for the current document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193615Z" creationid="olivier-tdf" creationdate="20250328T193615Z">
+        <seg>Abre a caixa de diálogo Assinaturas digitais, para gerenciá-las no documento atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36670,6 +36726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The editing time is updated when the file is saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193832Z" creationid="olivier-tdf" creationdate="20250328T193832Z">
+        <seg>O tempo de edição é atualizado quando se salva o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The exact options may vary with your language settings (&lt;f0&gt;Tools &gt; Options &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Languages and Locales&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;General&lt;/f5&gt;&lt;/f4&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T105900Z" creationid="timot" creationdate="20250204T105900Z">
@@ -41610,6 +41674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T204803Z" creationid="olivier" creationdate="20250307T230816Z">
         <seg>As ferramentas numa barra de ferramentas são indicadas por ícones e podem ser alteradas da seguinte forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total editing time</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193749Z" creationid="olivier-tdf" creationdate="20250328T193749Z">
+        <seg>Tempo total de edição</seg>
       </tuv>
     </tu>
     <tu>
