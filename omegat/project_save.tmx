@@ -12862,6 +12862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each key is used only once and is sent to the recipient along with the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225836Z" creationid="olivier-tdf" creationdate="20250328T225836Z">
+        <seg>Cada chave é usada apenas uma vez e é enviada ao destinatário junto com o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each language module can contain up to three submodules: spelling dictionary, hyphenation dictionary, and thesaurus.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012347Z" creationid="olivier" creationdate="20250321T012347Z">
@@ -15722,6 +15730,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152849Z" creationid="olivier" creationdate="20250318T152849Z">
         <seg>Sistema de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Files encrypted with OpenPGP encryption, the document is encrypted using an algorithm, which requires a key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225824Z" creationid="olivier-tdf" creationdate="20250328T225824Z">
+        <seg>Com arquivos criptografados com OpenPGP, o conteúdo é criptografado usando um algoritmo, que requer uma chave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Files encrypted with the &lt;f0&gt;Save password option&lt;/f0&gt; enabled cannot be decrypted without the password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225726Z" creationid="olivier-tdf" creationdate="20250328T225726Z">
+        <seg>Os arquivos criptografados com a opção &lt;f0&gt;Salvar com senha&lt;/f0&gt; ativada não podem ser descriptografados sem a senha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24798,6 +24822,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice provides two levels of password protection:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225845Z" creationid="olivier-tdf" creationdate="20250328T225845Z">
+        <seg>O LibreOffice oferece dois níveis de proteção por senha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice provides two types of document protection: password protection and OpenPGP encryption.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225641Z" creationid="olivier-tdf" creationdate="20250328T225641Z">
+        <seg>O LibreOffice fornece dois tipos de proteção de documentos: proteção por senha e criptografia OpenPGP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice recommend the use of styles to reduce the workload and increase the accuracy of producing good documents with ease.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130349Z" creationid="olivier-tdf" creationdate="20250218T130349Z">
@@ -29730,6 +29770,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234758Z" creationid="olivier" creationdate="20250301T234758Z">
         <seg>Part 3, OpenDocument Schema: &lt;a0&gt;https://docs.oasis-open.org/office/OpenDocument/v1.3/OpenDocument-v1.3-part3-schema.html&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Password protection</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225839Z" creationid="olivier-tdf" creationdate="20250328T225839Z">
+        <seg>Proteção com senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Password protection and OpenPGP encryption</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225631Z" creationid="olivier-tdf" creationdate="20250328T225631Z">
+        <seg>Proteção por senha e criptografia OpenPGP</seg>
       </tuv>
     </tu>
     <tu>
@@ -38262,6 +38318,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The document cannot be edited until a second password is entered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225857Z" creationid="olivier-tdf" creationdate="20250328T225857Z">
+        <seg>O documento não pode ser editado até que uma segunda senha seja inserida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The document file cannot be opened without entering a password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225851Z" creationid="olivier-tdf" creationdate="20250328T225851Z">
+        <seg>O arquivo do documento não pode ser aberto sem inserir uma senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The document is copied, prepared and transferred to LibreOffice Draw as an untitled file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205641Z" creationid="olivier-tdf" creationdate="20250328T205641Z">
@@ -39448,8 +39520,8 @@
       <tuv lang="en-US">
         <seg>The targets are available after the document is saved and closed.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225543Z" creationid="olivier-tdf" creationdate="20250328T225543Z">
-        <seg>Os alvos estão disponíveis após o documento ser salvo e fechado.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225625Z" creationid="olivier-tdf" creationdate="20250328T225543Z">
+        <seg>Os alvos ficam disponíveis após salvar e fechar o documento.</seg>
       </tuv>
     </tu>
     <tu>
