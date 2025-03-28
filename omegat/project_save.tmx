@@ -4910,6 +4910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, go to &lt;f3&gt;File &gt; Save As&lt;/f3&gt; on the Menu bar and save the file with a different name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202952Z" creationid="olivier-tdf" creationdate="20250328T202952Z">
+        <seg>Como alternativa, vá para &lt;f3&gt;Arquivo &gt; Salvar como&lt;/f3&gt; na barra de menus e salve o arquivo com um nome diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, right-click on selected row or column headers and select &lt;f4&gt;Hide Rows&lt;/f4&gt; or &lt;f5&gt;Hide Columns&lt;/f5&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122501Z" creationid="olivier" creationdate="20250121T122501Z">
@@ -20790,6 +20798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this option is not selected, personal information can still be removed for the current document using &lt;f0&gt;Reset Properties&lt;/f0&gt; on the General page of the Properties dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203244Z" creationid="olivier-tdf" creationdate="20250328T203244Z">
+        <seg>Se esta opção não for selecionada, as informações pessoais ainda poderão ser removidas do documento atual usando &lt;f0&gt;Redefinir propriedades&lt;/f0&gt; na página Geral da caixa de diálogo Propriedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this option is not selected, the following user-specific settings still apply:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151035Z" creationid="olivier" creationdate="20250318T151035Z">
@@ -30630,6 +30646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove personal information on saving</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203205Z" creationid="olivier-tdf" creationdate="20250328T203205Z">
+        <seg>Remover informações pessoais ao salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removes direct formatting from selected text or objects.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135728Z" creationid="olivier-tdf" creationdate="20250303T135728Z">
@@ -31698,6 +31722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T123835Z" creationid="olivier" creationdate="20250313T123835Z">
         <seg>Segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Security &lt;f0&gt;W&lt;/f0&gt;arnings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203005Z" creationid="olivier-tdf" creationdate="20250328T203005Z">
+        <seg>Avisos &lt;f0&gt;&lt;/f0&gt; de segurança</seg>
       </tuv>
     </tu>
     <tu>
@@ -33598,6 +33630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select to always remove user data from file properties, comments and tracked changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203214Z" creationid="olivier-tdf" creationdate="20250328T203214Z">
+        <seg>Selecione para remover sempre os dados do usuário das propriedades do arquivo, comentários e alterações rastreadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select to enable recording changes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T195244Z" creationid="olivier-tdf" creationdate="20250328T195244Z">
@@ -33610,6 +33650,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200946Z" creationid="olivier" creationdate="20250325T200946Z">
         <seg>Selecione para ativar o acesso ao texto para ferramentas de acessibilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select to see a warning dialog when printing a document that contains recorded changes or comments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203058Z" creationid="olivier-tdf" creationdate="20250328T203058Z">
+        <seg>Selecione para ver uma caixa de diálogo de aviso ao imprimir um documento que contém alterações ou anotações gravadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select to see a warning dialog when saving or sending a document that contains recorded changes, versions, or comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203031Z" creationid="olivier-tdf" creationdate="20250328T203031Z">
+        <seg>Selecione para ver uma caixa de diálogo de aviso ao salvar ou enviar um documento que contenha alterações, versões ou comentários registrados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select to see a warning dialog when signing a document that contains recorded changes, versions, fields, references to other sources (for example linked sections or linked pictures), or comments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203122Z" creationid="olivier-tdf" creationdate="20250328T203122Z">
+        <seg>Selecione para ver um aviso ao assinar um documento que contém alterações registradas, versões, campos, referências a outras fontes (por exemplo, seções vinculadas ou imagens vinculadas) ou comentários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select to see a warning dialog when you exporting a document to PDF format that displays recorded changes in Writer, or displays comments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203159Z" creationid="olivier-tdf" creationdate="20250328T203159Z">
+        <seg>Selecione para ver um aviso ao exportar um documento para o formato PDF que mostre alterações gravadas no Writer ou mostre comentários.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36934,6 +37006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Security Warnings dialog allows users to set the following options:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203014Z" creationid="olivier-tdf" creationdate="20250328T203014Z">
+        <seg>A caixa de diálogo Avisos de Segurança permite que os usuários definam as seguintes opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Selection clipboard is independent of the normal clipboard used by &lt;f0&gt;Edit &gt; Copy/Cut/Paste&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250310T230800Z" creationid="olivier" creationdate="20250310T230800Z">
@@ -38146,6 +38226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T215104Z" creationid="olivier" creationdate="20250307T215104Z">
         <seg>O nome do novo menu aparece na parte inferior da lista de menus na &lt;f1&gt;Posição do menu&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The names of authors in comments and changes are replaced by generic values as "Author1", "Author2" and so forth.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203222Z" creationid="olivier-tdf" creationdate="20250328T203222Z">
+        <seg>Os nomes dos autores nos comentários e alterações são substituídos por valores genéricos como "Autor1", "Autor2" e assim por diante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40458,6 +40546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201957Z" creationid="olivier" creationdate="20250325T201957Z">
         <seg>Autoridade de carimbo do tempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time values are reset to a single standard value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203228Z" creationid="olivier-tdf" creationdate="20250328T203228Z">
+        <seg>Os valores de tempo são redefinidos para um único valor padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44742,6 +44838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When creating PDF files</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203128Z" creationid="olivier-tdf" creationdate="20250328T203128Z">
+        <seg>Ao criar arquivos PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When creating a spreadsheet, you may want to restrict users to entering data that is valid and appropriate for the cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224440Z" creationid="olivier" creationdate="20250123T224440Z">
@@ -44886,6 +44990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When printing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203037Z" creationid="olivier-tdf" creationdate="20250328T203037Z">
+        <seg>Ao imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When printing a document with transparencies, a dialog opens to enable selection if the transparency is to be printed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172343Z" creationid="olivier" creationdate="20250312T172343Z">
@@ -44930,6 +45042,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161011Z" creationid="olivier" creationdate="20250318T161011Z">
         <seg>Ao salvar em outro formato, o código BASIC do LibreOffice BASIC IDE não é salvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When saving or sending</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203019Z" creationid="olivier-tdf" creationdate="20250328T203019Z">
+        <seg>Ao salvar ou enviar</seg>
       </tuv>
     </tu>
     <tu>
@@ -45010,6 +45130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184156Z" creationid="olivier-tdf" creationdate="20250328T184156Z">
         <seg>Ao enviar planilhas, apresentações ou desenhos, as opções de e-mail mudam para refletir o tipo de documento que está sendo anexado a uma mensagem de e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When signing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203104Z" creationid="olivier-tdf" creationdate="20250328T203104Z">
+        <seg>Ao assinar</seg>
       </tuv>
     </tu>
     <tu>
