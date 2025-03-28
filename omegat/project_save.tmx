@@ -3734,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A personal pair of cryptography keys must be defined using the OpenPGP software.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231036Z" creationid="olivier-tdf" creationdate="20250328T231036Z">
+        <seg>Um par de chaves de criptografia deve ser definido usando o software OpenPGP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A preview of the selected user interface is displayed in the dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T201926Z" creationid="olivier-tdf" creationdate="20250308T201926Z">
@@ -13030,6 +13038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each symmetric key is used only once and is also called a session key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T230914Z" creationid="olivier-tdf" creationdate="20250328T230914Z">
+        <seg>Cada chave simétrica é usada apenas uma vez e também é chamada de chave de sessão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each toolbar from top to bottom and from left to right.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001442Z" creationid="olivier" creationdate="20250303T001442Z">
@@ -17262,6 +17278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on using OpenPGP encryption, go to the LibreOffice Help website.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231000Z" creationid="olivier-tdf" creationdate="20250328T231000Z">
+        <seg>Para obter mais informações sobre o uso da criptografia OpenPGP, acesse o site de Ajuda do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on using specific printing options available in each LibreOffice module, see the &lt;f0&gt;User Guide&lt;/f0&gt; for each LibreOffice module.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224034Z" creationid="olivier-tdf" creationdate="20250224T224034Z">
@@ -18938,6 +18962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202605Z" creationid="olivier-tdf" creationdate="20250328T202605Z">
         <seg>Acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Segurança&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; LibreOffice &gt; Segurança&lt;/f1&gt;) na barra de menus para abrir a página &lt;f2&gt;Segurança&lt;/f2&gt; da caixa de diálogo Opções do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; User Data&lt;/f1&gt;) on the Menu bar and select the following options in the &lt;f2&gt;Cryptography&lt;/f2&gt; section:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231225Z" creationid="olivier-tdf" creationdate="20250328T231225Z">
+        <seg>Vá para &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Dados do usuário&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; LibreOffice &gt; Dados do usuário&lt;/f1&gt;) na barra de menus e selecione as seguintes opções na seção &lt;f2&gt;Criptografia&lt;/f2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20778,6 +20810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T180007Z" creationid="olivier" creationdate="20250318T180007Z">
         <seg>Se nenhum servidor OLE estiver ativo para objetos MathType, os objetos MathType incorporados serão convertidos em objetos LibreOffice Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If no OpenPGP software is available, download and install OpenPGP software that is compatible with the computer operating system before using OpenPGP encryption.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231019Z" creationid="olivier-tdf" creationdate="20250328T231019Z">
+        <seg>Se nenhum software OpenPGP estiver disponível, baixe e instale o software OpenPGP compatível com o sistema operacional do computador antes de usar a criptografia OpenPGP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25070,6 +25110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice uses the OpenPGP software installed on a computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231007Z" creationid="olivier-tdf" creationdate="20250328T231007Z">
+        <seg>O LibreOffice usa o software OpenPGP instalado em um computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice uses the term “export” for file operations where there is a change of file type.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T212918Z" creationid="olivier" creationdate="20250324T212918Z">
@@ -28294,6 +28342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only the private key belonging to the recipient can decrypt the session key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T230954Z" creationid="olivier-tdf" creationdate="20250328T230954Z">
+        <seg>Somente a chave privada pertencente ao destinatário pode descriptografar a chave de sessão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only themes added to LibreOffice can be renamed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T140103Z" creationid="olivier-tdf" creationdate="20250303T140103Z">
@@ -28770,6 +28826,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T230834Z" creationid="olivier-tdf" creationdate="20250328T230834Z">
         <seg>Criptografia OpenPGP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenPGP encryption requires the use of the public key belonging to the recipient.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231051Z" creationid="olivier-tdf" creationdate="20250328T231051Z">
+        <seg>A criptografia OpenPGP requer o uso da chave pública pertencente ao destinatário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31330,6 +31394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T153822Z" creationid="timot" creationdate="20250205T153822Z">
         <seg>Consulte os arquivos de Ajuda para diretrizes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Refer to the OpenPGP software installed on how to create a pair of keys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231042Z" creationid="olivier-tdf" creationdate="20250328T231042Z">
+        <seg>Consulte o software OpenPGP instalado sobre como criar um par de chaves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34950,6 +35022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set the preferred public key for OpenPGP encryption and digital signature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231118Z" creationid="olivier-tdf" creationdate="20250328T231118Z">
+        <seg>Defina a chave pública preferida para criptografia OpenPGP e assinatura digital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set these options to suit user personal preferences.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T194715Z" creationid="olivier-tdf" creationdate="20250309T194715Z">
@@ -38494,6 +38574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The document and its session key are sent to the recipient.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T230921Z" creationid="olivier-tdf" creationdate="20250328T230921Z">
+        <seg>O documento e sua chave de sessão são enviados ao destinatário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The document can be edited when using &lt;f2&gt;Book view&lt;/f2&gt; on the Status bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T232443Z" creationid="olivier-tdf" creationdate="20250224T232443Z">
@@ -38538,6 +38626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205641Z" creationid="olivier-tdf" creationdate="20250328T205641Z">
         <seg>O documento é copiado, preparado e transferido para o LibreOffice Draw como um arquivo sem título.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The document is encrypted using a symmetric encryption algorithm, which requires a symmetric key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T230905Z" creationid="olivier-tdf" creationdate="20250328T230905Z">
+        <seg>O documento é criptografado usando um algoritmo de criptografia simétrica, que requer uma chave simétrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38706,6 +38802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T212826Z" creationid="olivier" creationdate="20250307T212826Z">
         <seg>Segue um exemplo de personalização de um menu no LibreOffice Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following is an example of how to use OpenPGP encryption on a document:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231108Z" creationid="olivier-tdf" creationdate="20250328T231108Z">
+        <seg>A seguir, um exemplo de como usar a criptografia OpenPGP num documento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39578,6 +39682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204739Z" creationid="olivier-tdf" creationdate="20250109T204739Z">
         <seg>O serviço está disponível em vários outros idiomas; basta &lt;f0&gt;selecionar o seu idioma &lt;/f0&gt;&lt;f1&gt;na&lt;/f1&gt;&lt;f2&gt; página&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The session key must be sent to the recipients so they know how to decrypt the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T230932Z" creationid="olivier-tdf" creationdate="20250328T230932Z">
+        <seg>A chave de sessão deve ser enviada aos destinatários para que eles saibam como descriptografar o documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41110,6 +41222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This key must be available in the OpenPGP key chain stored in the computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231057Z" creationid="olivier-tdf" creationdate="20250328T231057Z">
+        <seg>Esta chave deve estar disponível no chaveiro OpenPGP armazenado no computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This makes it easier for printers with a smaller memory when printing large files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135808Z" creationid="olivier" creationdate="20250223T135808Z">
@@ -41310,6 +41430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This preferred key is pre-selected in &lt;f0&gt;the&lt;/f0&gt; key selection dialog each time a document is signed or encrypted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231137Z" creationid="olivier-tdf" creationdate="20250328T231137Z">
+        <seg>Essa chave preferencial é pré-selecionada na caixa &lt;f0&gt;&lt;/f0&gt; de diálogo de seleção de chaves sempre que um documento é assinado ou criptografado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This preserves color fidelity between LibreOffice and Microsoft Office documents, but Microsoft Office users must edit this character attribute with a tool that is not commonly used or easy to find in Microsoft Office applications.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T184754Z" creationid="olivier" creationdate="20250318T184754Z">
@@ -41330,6 +41458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T000951Z" creationid="olivier" creationdate="20250120T000951Z">
         <seg>Isso reduz a probabilidade de erros e problemas de compatibilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This removes the requirement to select the preferred key when frequently signing a document with one specific key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231147Z" creationid="olivier-tdf" creationdate="20250328T231147Z">
+        <seg>Isso remove o requisito de selecionar a chave preferida ao assinar frequentemente um documento com uma chave específica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42962,6 +43098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T101921Z" creationid="timot" creationdate="20250222T101921Z">
         <seg>Para promover o nível de um item, tecle &lt;f1&gt;Shift+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To protect the document during transmission, it is encrypted with the public key belonging to the recipient.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T230944Z" creationid="olivier-tdf" creationdate="20250328T230944Z">
+        <seg>Para proteger o documento durante a transmissão, ele é criptografado com a chave pública pertencente ao destinatário.</seg>
       </tuv>
     </tu>
     <tu>
