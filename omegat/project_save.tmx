@@ -6118,6 +6118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Blocking the use of links means that images are not loaded in untrusted documents, only a placeholder frame is visible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204215Z" creationid="olivier-tdf" creationdate="20250328T204215Z">
+        <seg>Bloquear o uso de links significa que as imagens não são carregadas em documentos não confiáveis, apenas um quadro de espaço reservado é visível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Blocks the use of linked images by documents not in the trusted locations defined in &lt;f0&gt;Trusted Sources&lt;/f0&gt; of the Macro Security dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204145Z" creationid="olivier-tdf" creationdate="20250328T204145Z">
@@ -30510,6 +30518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Redaction</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204219Z" creationid="olivier-tdf" creationdate="20250328T204219Z">
+        <seg>Censurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Redoes last action.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135614Z" creationid="olivier-tdf" creationdate="20250303T135614Z">
@@ -39778,6 +39794,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220415Z" creationid="olivier" creationdate="20250324T220415Z">
         <seg>Isso pode ajudar a exibir o documento em dispositivos com telas diferentes e ao usar um &lt;t0/&gt;software leitor de tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can increase security if working with documents from untrusted sources (for example the internet) and are worried about vulnerabilities in image processing software components.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204157Z" creationid="olivier-tdf" creationdate="20250328T204157Z">
+        <seg>Isso pode aumentar a segurança se trabalhar com documentos de fontes não confiáveis (por exemplo, a Internet) e estiver preocupado com vulnerabilidades em componentes de software de processamento de imagem.</seg>
       </tuv>
     </tu>
     <tu>
