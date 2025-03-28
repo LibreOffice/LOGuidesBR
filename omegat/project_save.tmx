@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Predefined&lt;/f0&gt; — select predefined regular expressions for automatic redaction, such as credit card numbers, email addresses and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222353Z" creationid="olivier-tdf" creationdate="20250328T222353Z">
+        <seg>&lt;f0&gt;Predefinido&lt;/f0&gt; — selecione expressões regulares predefinidas para censura automática, como números de cartão de crédito, endereços de e-mail e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Press &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Enter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104116Z" creationid="timot" creationdate="20250204T104116Z">
@@ -1178,6 +1186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200201Z" creationid="olivier" creationdate="20250327T200201Z">
         <seg>&lt;f0&gt;Ajustável&lt;/f0&gt; — O conteúdo flui (ou reflui) para se adequar à tela e às necessidades do usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Regular expression&lt;/f0&gt; — define a regular expression for searching in a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222306Z" creationid="olivier-tdf" creationdate="20250328T222306Z">
+        <seg>&lt;f0&gt;Expressão regular&lt;/f0&gt; — define uma expressão regular para pesquisar em um documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4562,6 +4578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195210Z" creationid="olivier" creationdate="20250325T195210Z">
         <seg>Vínculos de seu documento PDF para outros documentos serão tratados conforme especificado em seu sistema operacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All matches are marked for redaction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222336Z" creationid="olivier-tdf" creationdate="20250328T222336Z">
+        <seg>Todas as ocorrências são marcadas para censura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13454,6 +13478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter the content in the &lt;f0&gt;Content&lt;/f0&gt; text box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222413Z" creationid="olivier-tdf" creationdate="20250328T222413Z">
+        <seg>Insira o conteúdo na caixa de texto &lt;f0&gt;Conteúdo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter the custom media directory for the EPUB file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200747Z" creationid="olivier" creationdate="20250327T200747Z">
@@ -20514,6 +20546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083246Z" creationid="olivier" creationdate="20250308T083246Z">
         <seg>Se necessário, selecione um filtro de etiqueta antes de pesquisar para reduzir o número de extensões no resultado da pesquisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If necessary, select the options &lt;f0&gt;Match case&lt;/f0&gt; and &lt;f1&gt;Whole words only&lt;/f1&gt; to help define which targets are auto-redacted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222553Z" creationid="olivier-tdf" creationdate="20250328T222553Z">
+        <seg>Se necessário, selecione as opções &lt;f0&gt;Corresponder maiúsculas e minúsculas&lt;/f0&gt; e &lt;f1&gt;Palavras inteiras apenas&lt;/f1&gt; para ajudar a definir quais alvos são censurados automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
