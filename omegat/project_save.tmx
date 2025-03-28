@@ -1040,8 +1040,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Page break&lt;/f0&gt; — Starts the new section on a page break.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195708Z" creationid="olivier" creationdate="20250327T195708Z">
-        <seg>&lt;f0&gt;Quebra de página&lt;/f0&gt; — Inicia a nova seção em uma quebra de página.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005813Z" creationid="olivier" creationdate="20250327T195708Z">
+        <seg>&lt;f0&gt;Quebra de página&lt;/f0&gt; — Inicia a nova seção numa quebra de página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1616,8 +1616,8 @@
       <tuv lang="en-US">
         <seg>&lt;f4&gt;Most modern browsers also have a full-screen mode suitable to display the exported page as in a slide show.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T002049Z" creationid="olivier" creationdate="20250328T002049Z">
-        <seg>&lt;f4&gt;A maioria dos navegadores modernos também tem um modo de tela cheia adequado para exibir a página exportada como em uma apresentação de slides.&lt;/f4&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010028Z" creationid="olivier" creationdate="20250328T002049Z">
+        <seg>&lt;f4&gt;A maioria dos navegadores modernos também tem um modo de tela cheia adequado para exibir a página exportada como numa apresentação de slides.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3608,8 +3608,8 @@
       <tuv lang="en-US">
         <seg>A text document can be saved in HTML format so that it can be viewed in a web browser.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202852Z" creationid="olivier" creationdate="20250327T202852Z">
-        <seg>Um documento de texto pode ser salvo em formato HTML para que possa ser visualizado em um navegador da web.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005849Z" creationid="olivier" creationdate="20250327T202852Z">
+        <seg>Um documento de texto pode ser salvo em formato HTML para que possa ser visualizado num navegador da web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3874,6 +3874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T223757Z" creationid="olivier" creationdate="20250123T223757Z">
         <seg>Adicione, edite ou remova entradas da tabela de dados conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add, or edit the HTML source code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010142Z" creationid="olivier" creationdate="20250328T010142Z">
+        <seg>Adicione ou edite o código-fonte HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7670,6 +7678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Preview in Web Browser&lt;/f0&gt; on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010501Z" creationid="olivier" creationdate="20250328T010501Z">
+        <seg>Clique em &lt;f0&gt;Visualizar no navegador Internet&lt;/f0&gt; na barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;Recent Documents&lt;/f0&gt; in the Start Center and select a recent file from the Center.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183345Z" creationid="olivier" creationdate="20250220T183345Z">
@@ -10536,8 +10552,8 @@
       <tuv lang="en-US">
         <seg>Decide which heading style in a document starts a new page and make sure all those headings have the same paragraph style, for example, Heading 1.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T225648Z" creationid="olivier" creationdate="20250327T225648Z">
-        <seg>Decida qual estilo de título em um documento inicia uma nova página e certifique-se de que todos esses títulos tenham o mesmo estilo de parágrafo, por exemplo, Título 1.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005951Z" creationid="olivier" creationdate="20250327T225648Z">
+        <seg>Decida qual estilo de título num documento inicia uma nova página e certifique-se de que todos esses títulos tenham o mesmo estilo de parágrafo, por exemplo, Título 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14928,8 +14944,8 @@
       <tuv lang="en-US">
         <seg>For custom metadata, provide a file with same name as the original filename with the extension .&lt;f0&gt;xmp&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200955Z" creationid="olivier" creationdate="20250327T200955Z">
-        <seg>Para metadados personalizados, forneça um arquivo com o mesmo nome do nome do arquivo original com a extensão .&lt;f0&gt;xmp&lt;/f0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005833Z" creationid="olivier" creationdate="20250327T200955Z">
+        <seg>Para metadados personalizados, forneça um arquivo com o mesmo nome do nome do arquivo original com a extensão &lt;f0&gt;.xmp&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17082,6 +17098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183213Z" creationid="olivier" creationdate="20250220T183213Z">
         <seg>Acesse &lt;f0&gt;Arquivo &gt; Abrir&lt;/f0&gt; na barra de menus e selecione o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Preview in Web Browser&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010437Z" creationid="olivier" creationdate="20250328T010437Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Visualizar no navegador Internet&lt;/f0&gt; na barra de Menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19944,8 +19968,8 @@
       <tuv lang="en-US">
         <seg>If you save a LibreOffice file in an ODF format, that file will be correctly rendered if it is transferred to another user;reopened in a later version of LibreOffice; or opened with another application that can open ODF files.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205243Z" creationid="olivier" creationdate="20250324T205243Z">
-        <seg>Se salvar um arquivo do LibreOffice num formato ODF, esse arquivo será processado corretamente se for transferido para outro usuário; reaberto em uma versão posterior do LibreOffice ou aberto com outro aplicativo que possa abrir arquivos ODF.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005557Z" creationid="olivier" creationdate="20250324T205243Z">
+        <seg>Se salvar um arquivo do LibreOffice num formato ODF, esse arquivo será processado corretamente se for transferido para outro usuário; reaberto numa versão posterior do LibreOffice ou aberto com outro aplicativo que possa abrir arquivos ODF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20400,8 +20424,8 @@
       <tuv lang="en-US">
         <seg>In &lt;f0&gt;File type:,&lt;/f0&gt; select &lt;f1&gt;XHTML (Extensible Hypertext Markup Language)&lt;/f1&gt; as the file type.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224221Z" creationid="olivier" creationdate="20250327T224221Z">
-        <seg>Em &lt;f0&gt;Tipo de arquivo:,&lt;/f0&gt; selecione &lt;f1&gt;XHTML (Extensible Hypertext Markup Language)&lt;/f1&gt; como o tipo de arquivo.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005916Z" creationid="olivier" creationdate="20250327T224221Z">
+        <seg>Em &lt;f0&gt;Tipo de arquivo:, &lt;/f0&gt; selecione &lt;f1&gt;XHTML (Extensible Hypertext Markup Language)&lt;/f1&gt; como o tipo de arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21184,8 +21208,8 @@
       <tuv lang="en-US">
         <seg>In the referencing URLs, the extensions .&lt;f0&gt;odt&lt;/f0&gt;, .&lt;f1&gt;odp&lt;/f1&gt;, .&lt;f2&gt;ods&lt;/f2&gt;, .&lt;f3&gt;odg&lt;/f3&gt;, and .&lt;f4&gt;odm&lt;/f4&gt; are converted to the extension .&lt;f5&gt;pdf&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195108Z" creationid="olivier" creationdate="20250325T195108Z">
-        <seg>Nas referências de URLs, as extensões .&lt;f0&gt;odt&lt;/f0&gt;, .&lt;f1&gt;odp&lt;/f1&gt;, .&lt;f2&gt;ods&lt;/f2&gt;, .&lt;f3&gt;odg&lt;/f3&gt; e .&lt;f4&gt;odm&lt;/f4&gt; são convertidas na extensão &lt;f5&gt;pdf&lt;/f5&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005752Z" creationid="olivier" creationdate="20250325T195108Z">
+        <seg>Nas referências de URLs, as extensões &lt;f0&gt;.odt&lt;/f0&gt;, &lt;f1&gt;.odp&lt;/f1&gt;, &lt;f2&gt;.ods&lt;/f2&gt;, &lt;f3&gt;.odg&lt;/f3&gt; e &lt;f4&gt;.odm&lt;/f4&gt; são convertidas na extensão &lt;f5&gt;pdf&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21978,6 +22002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201934Z" creationid="olivier" creationdate="20250325T201934Z">
         <seg>Essas informações serão incorporadas nos campos apropriados do arquivo PDF e serão visíveis a todos que visualizarem o PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is important to preview HTML documents in a web browser to make sure it displays correctly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010238Z" creationid="olivier" creationdate="20250328T010238Z">
+        <seg>É importante visualizar documentos HTML em um navegador da web para garantir que sejam exibidos corretamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25672,8 +25704,8 @@
       <tuv lang="en-US">
         <seg>On a multi slide or page export, use the mouse wheel, &lt;f1&gt;mouse buttons, left and right arrows,&lt;/f1&gt; &lt;f2&gt;Page Up&lt;/f2&gt; and &lt;f3&gt;Page Down&lt;/f3&gt; keys to scroll the slides or pages.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T002023Z" creationid="olivier" creationdate="20250328T002023Z">
-        <seg>Numa exportação de vários slides ou páginas, use a roda do mouse, &lt;f1&gt;os botões do mouse, as setas para a esquerda e para a direita,&lt;/f1&gt; as teclas &lt;f2&gt;Page Up&lt;/f2&gt; e &lt;f3&gt;Page Down&lt;/f3&gt; para rolar os slides ou páginas.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010014Z" creationid="olivier" creationdate="20250328T002023Z">
+        <seg>Numa exportação de vários slides ou páginas, use a roda do mouse, &lt;f1&gt;os botões do mouse, as setas para a esquerda e para a direita, &lt;/f1&gt; as teclas &lt;f2&gt;Page Up&lt;/f2&gt; e &lt;f3&gt;Page Down&lt;/f3&gt; para rolar os slides ou páginas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26442,6 +26474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T213557Z" creationid="olivier" creationdate="20250324T213534Z">
         <seg>Abra o arquivo de interesse no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the web browser and then open the HTML file in the browser.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010528Z" creationid="olivier" creationdate="20250328T010528Z">
+        <seg>Acione o navegador da internet e abra o arquivo HTML no navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28326,10 +28366,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Preview the HTML document in a browser to make sure &lt;f0&gt;it &lt;/f0&gt;renders correctly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010210Z" creationid="olivier" creationdate="20250328T010210Z">
+        <seg>Visualize o documento HTML num navegador para ter certeza de que &lt;f0&gt;&lt;/f0&gt;ele foi renderizado corretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Preview the HTML document in a browser to make sure it has rendered correctly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005006Z" creationid="olivier" creationdate="20250328T005006Z">
         <seg>Visualize o documento HTML num navegador para ter certeza de que ele foi renderizado corretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previewing HTML documents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010224Z" creationid="olivier" creationdate="20250328T010224Z">
+        <seg>Visualizar documentos HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -32726,6 +32782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since not all browsers render HTML files the same way, you should preview an HTML document in several browsers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010311Z" creationid="olivier" creationdate="20250328T010311Z">
+        <seg>Como nem todos os navegadores processam arquivos HTML da mesma maneira, visualize um documento HTML em vários navegadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single cell</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144221Z" creationid="olivier-tdf" creationdate="20250120T144221Z">
@@ -35352,8 +35416,8 @@
       <tuv lang="en-US">
         <seg>The contents in an HTML document are rendered as if displayed in a browser.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T002459Z" creationid="olivier" creationdate="20250328T002459Z">
-        <seg>O conteúdo de um documento HTML é processado como se fosse exibido em um navegador.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010049Z" creationid="olivier" creationdate="20250328T002459Z">
+        <seg>O conteúdo de um documento HTML é processado como se fosse exibido num navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38264,8 +38328,8 @@
       <tuv lang="en-US">
         <seg>Thus, we strongly recommend that you save files in an ODF as file format.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205253Z" creationid="olivier" creationdate="20250324T205253Z">
-        <seg>Assim, recomendamos fortemente que salve arquivos em um formato ODF como arquivo.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005613Z" creationid="olivier" creationdate="20250324T205253Z">
+        <seg>Assim, recomendamos fortemente que salve arquivos num formato ODF como arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38832,8 +38896,8 @@
       <tuv lang="en-US">
         <seg>To create extra spaces in a HTML file or web page, insert non-breaking spaces in LibreOffice.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224341Z" creationid="olivier" creationdate="20250327T224341Z">
-        <seg>Para criar espaços extras em um arquivo HTML ou página da web, insira espaços não quebráveis no LibreOffice.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005936Z" creationid="olivier" creationdate="20250327T224341Z">
+        <seg>Para criar espaços extras num arquivo HTML ou página da web, insira espaços não quebráveis no LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39450,6 +39514,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T141831Z" creationid="tulio" creationdate="20250211T141831Z">
         <seg>Para travar uma barra de ferramentas encaixada em sua posição encaixada, selecione &lt;f0&gt;Bloquear posição da barra de ferramentas&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To make LibreOffice open the default web browser and display an HTML document, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010328Z" creationid="olivier" creationdate="20250328T010328Z">
+        <seg>Para fazer o LibreOffice abrir o navegador padrão e exibir um documento HTML, use um dos seguintes métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42382,6 +42454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When all editing is complete, go to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar and save the document as HTML file type.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010144Z" creationid="olivier" creationdate="20250328T010144Z">
+        <seg>Quando a edição estiver concluída, acesse &lt;f0&gt;Arquivo &gt; Salvar como&lt;/f0&gt; na barra de menus e salve o documento no tipo de arquivo HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When all editing is complete, go to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar and save the document in the HTML file type.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T004949Z" creationid="olivier" creationdate="20250328T004949Z">
@@ -42568,8 +42648,8 @@
       <tuv lang="en-US">
         <seg>When opening a Word document that contains an embedded equation editor object, if the option &lt;f0&gt;MathType to LibreOffice Math or reverse&lt;/f0&gt; is checked in &lt;f1&gt;Tools &gt; Options &gt; Load/Save &gt; Microsoft Office&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferences &gt; Load/Save &gt; Microsoft Office&lt;/f2&gt;), the object is automatically converted to a LibreOffice Math object.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205133Z" creationid="olivier" creationdate="20250324T205133Z">
-        <seg>Ao abrir um documento do Word que contenha um objeto editor de equações incorporado, se a opção &lt;f0&gt;MathType para LibreOffice Math ou reverso&lt;/f0&gt; estiver marcada em &lt;f1&gt;Ferramentas &gt; Opções &gt; Carregar/Salvar &gt; Microsoft Office&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferências &gt; Carrega/Salvar &gt; Microsoft Office&lt;/f2&gt;), o objeto será automaticamente convertido em um objeto LibreOffice Math.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005531Z" creationid="olivier" creationdate="20250324T205133Z">
+        <seg>Ao abrir um documento do Word que contenha um objeto editor de equações incorporado, se a opção &lt;f0&gt;MathType para LibreOffice Math ou reverso&lt;/f0&gt; estiver marcada em &lt;f1&gt;Ferramentas &gt; Opções &gt; Carregar/Salvar &gt; Microsoft Office&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferências &gt; Carrega/Salvar &gt; Microsoft Office&lt;/f2&gt;), o objeto será automaticamente convertido num objeto LibreOffice Math.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43666,6 +43746,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T002131Z" creationid="olivier" creationdate="20250328T002131Z">
         <seg>O Writer/Web só está disponível quando se trabalha com documentos em formato HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer/Web options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010548Z" creationid="olivier" creationdate="20250328T010548Z">
+        <seg>Opções do Writer/Web</seg>
       </tuv>
     </tu>
     <tu>
