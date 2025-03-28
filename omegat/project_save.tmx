@@ -3438,6 +3438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A copy of any documents redacted in LibreOffice Writer, Calc, or Impress are automatically transferred to LibreOffice Draw where the redaction is carried out.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204632Z" creationid="olivier-tdf" creationdate="20250328T204632Z">
+        <seg>Um documentos com censura no LibreOffice Writer, Calc ou Impress é automaticamente copiado para o LibreOffice Draw, onde a censura é executada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A desktop icon is created</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203606Z" creationid="olivier-tdf" creationdate="20250112T203606Z">
@@ -3666,6 +3674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144316Z" creationid="olivier-tdf" creationdate="20250120T144316Z">
         <seg>Use o teclado ou o mouse para selecionar um intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A redacted document is exported in PDF format for publication, or sharing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204429Z" creationid="olivier-tdf" creationdate="20250328T204429Z">
+        <seg>Um documento censurado é exportado em formato PDF para publicação ou compartilhamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24190,6 +24206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice documents can be redacted to remove, or hide, any sensitive information allowing selective disclosure of information in a document while keeping other parts of the document secret.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204349Z" creationid="olivier-tdf" creationdate="20250328T204349Z">
+        <seg>Os documentos do LibreOffice podem ser censurados e remover ou ocultar qualquer informação sensível, permitindo a divulgação seletiva de informações num documento, mantendo outras partes do documento em segredo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice documents can be saved with one of the following methods:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231053Z" creationid="olivier" creationdate="20250220T231053Z">
@@ -44682,6 +44706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190018Z" creationid="olivier" creationdate="20250316T190018Z">
         <seg>Quando um aplicativo Java tenta acessar um disco rígido, abre-se um prompt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a LibreOffice document is redacted, it is exported as a new PDF file with all the redacted portions removed and replaced by redaction blocks of pixels preventing any attempt to restore or copy the original contents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204414Z" creationid="olivier-tdf" creationdate="20250328T204414Z">
+        <seg>Quando um documento do LibreOffice é censurado, ele é exportado como um novo arquivo PDF com todas as partes editadas removidas e substituídas por blocos de edição de pixels, impedindo qualquer tentativa de restaurar ou copiar o conteúdo original.</seg>
       </tuv>
     </tu>
     <tu>
