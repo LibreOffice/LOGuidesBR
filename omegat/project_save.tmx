@@ -7870,6 +7870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the Automatic Redaction dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225057Z" creationid="olivier-tdf" creationdate="20250328T225057Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para fechar a caixa de diálogo de Censura automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the Customize dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T215401Z" creationid="olivier" creationdate="20250307T215401Z">
@@ -8770,6 +8778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T002031Z" creationid="olivier" creationdate="20250308T002031Z">
         <seg>Clique em &lt;f0&gt;Redefinir&lt;/f0&gt; no lado direito da caixa de diálogo Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Save Targets&lt;/f0&gt; to open the Save Targets dialog and navigate to the location where the JSON file is going to be saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225317Z" creationid="olivier-tdf" creationdate="20250328T225317Z">
+        <seg>Clique em &lt;f0&gt;Salvar alvos&lt;/f0&gt; para abrir a caixa de diálogo Salvar alvos e navegue até o local onde o arquivo JSON será salvo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14126,6 +14142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exporting targets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225146Z" creationid="olivier-tdf" creationdate="20250328T225146Z">
+        <seg>Exportar alvos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exporting values and formulas as a CSV file</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125548Z" creationid="olivier-tdf" creationdate="20250117T125548Z">
@@ -18674,6 +18698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211721Z" creationid="olivier" creationdate="20250204T163500Z">
         <seg>Acesse &lt;f0&gt;Estilos &gt; Novo estilo a partir da seleção&lt;/f0&gt; na barra de Menus, digite um nome para o novo estilo e clique no botão &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Auto-Redact&lt;/f0&gt; on the Menu bar to open the Automatic Redaction dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225225Z" creationid="olivier-tdf" creationdate="20250328T225225Z">
+        <seg>Acesse &lt;f0&gt;Ferramentas &gt; Censura automática&lt;/f0&gt; na barra de menus para abrir a caixa de diálogo Censura automática.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28158,6 +28190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a document where targets for automatic redaction have been added.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225200Z" creationid="olivier-tdf" creationdate="20250328T225200Z">
+        <seg>Abra um documento onde os alvos para censura automática foram adicionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a drawing file in Draw, then use Steps 2) thr&lt;f0&gt;o&lt;/f0&gt;u&lt;f1&gt;gh&lt;/f1&gt; 8) in “&lt;bf2&gt;Documents, spreadsheets, or presentations&lt;/bf2&gt;” &lt;bf3&gt;above&lt;/bf3&gt;&lt;s4/&gt;to create a redacted PDF copy of the drawing file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T221340Z" creationid="olivier-tdf" creationdate="20250328T221340Z">
@@ -30446,6 +30486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Print the document, or export the document as a PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225136Z" creationid="olivier-tdf" creationdate="20250328T225136Z">
+        <seg>Imprima o documento ou exporte-o como um arquivo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183941Z" creationid="olivier" creationdate="20250222T183941Z">
@@ -31200,8 +31248,8 @@
       <tuv lang="en-US">
         <seg>Repeat Steps 2 thr&lt;f0&gt;o&lt;/f0&gt;u&lt;f1&gt;gh&lt;/f1&gt; 7 above until all targets required have been added to the document.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225009Z" creationid="olivier-tdf" creationdate="20250328T224937Z">
-        <seg>Repita as etapas 2&lt;f0&gt;&lt;/f0&gt; a 7&lt;f1&gt;&lt;/f1&gt; acima até que todos os alvos necessários tenham sido adicionados ao documento.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225032Z" creationid="olivier-tdf" creationdate="20250328T224937Z">
+        <seg>Repita as etapas 2&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; a 7 acima até que todos os alvos necessários tenham sido adicionados ao documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33858,6 +33906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T231041Z" creationid="olivier" creationdate="20250123T231041Z">
         <seg>Selecione a célula de destino ou o intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the targets for export in the Redaction Targets list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225245Z" creationid="olivier-tdf" creationdate="20250328T225245Z">
+        <seg>Selecione os alvos para exportação na lista de Alvos de censura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40778,6 +40834,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172834Z" creationid="olivier" creationdate="20250312T172834Z">
         <seg>Isso abre a caixa de diálogo Selecionar caminho ou Editar caminhos, permitindo que as pastas sejam adicionadas, editadas ou excluídas conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This opens the document as a drawing in LibreOffice Draw with all targets automatically redacted using &lt;f1&gt;Rectangle Redaction&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225127Z" creationid="olivier-tdf" creationdate="20250328T225127Z">
+        <seg>Isso abre o documento como um desenho no LibreOffice Draw com todos os alvos censurados automaticamente usando a &lt;f1&gt;Censura por retângulo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
