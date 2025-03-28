@@ -3446,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A copy of a document, spreadsheet, or presentation is automatically transferred to LibreOffice Draw where the redaction is carried out.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205557Z" creationid="olivier-tdf" creationdate="20250328T205557Z">
+        <seg>Uma cópia do documento, planilha ou apresentação é automaticamente transferida para o LibreOffice Draw, onde a censura é realizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A copy of any documents redacted in LibreOffice Writer, Calc, or Impress are automatically transferred to LibreOffice Draw where the redaction is carried out.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204632Z" creationid="olivier-tdf" creationdate="20250328T204632Z">
@@ -12222,6 +12230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Documents, spreadsheets, or presentations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205530Z" creationid="olivier-tdf" creationdate="20250328T205530Z">
+        <seg>Documentos, planilhas ou apresentações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Donate to LibreOffice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200219Z" creationid="olivier-tdf" creationdate="20250109T200219Z">
@@ -14762,6 +14778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T031001Z" creationid="olivier" creationdate="20250321T031001Z">
         <seg>Figura &lt;seq0&gt;24&lt;/seq0&gt;: Caixa de diálogo Opções Internet — Página Proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Redaction toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205518Z" creationid="olivier-tdf" creationdate="20250328T205518Z">
+        <seg>Figura &lt;seq0&gt;24&lt;/seq0&gt;: Barra de ferramentas de Censura</seg>
       </tuv>
     </tu>
     <tu>
@@ -20582,6 +20606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the Redaction toolbar is not displayed, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar in LibreOffice Draw and select &lt;f1&gt;Redaction&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205817Z" creationid="olivier-tdf" creationdate="20250328T205817Z">
+        <seg>Se a barra de ferramentas Censurar não for exibida, acesse &lt;f0&gt;Exibir &gt; Barras de ferramentas&lt;/f0&gt; na barra de menus no LibreOffice Draw e selecione &lt;f1&gt;Censurar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the cells contain any data, a small dialog (Figure &lt;t0&gt;35&lt;/t0&gt;) opens, showing choices for moving or hiding data in the hidden cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210249Z" creationid="olivier-tdf" creationdate="20250128T210249Z">
@@ -24042,6 +24074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T202728Z" creationid="olivier-tdf" creationdate="20250112T202728Z">
         <seg>Noções básicas do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice Draw opens with the untitled document displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205656Z" creationid="olivier-tdf" creationdate="20250328T205656Z">
+        <seg>O LibreOffice Draw abre com o documento sem título exibido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28070,6 +28110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the document to be redacted in LibreOffice Writer, Calc or Impress, then go to &lt;f0&gt;Tools &gt; Redact&lt;/f0&gt; on the Menu bar and the following happens:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205632Z" creationid="olivier-tdf" creationdate="20250328T205632Z">
+        <seg>Abra o documento a ser censurado no LibreOffice Writer, Calc ou Impress e, em seguida, acesse &lt;f0&gt;Ferramentas &gt; Censurar&lt;/f0&gt; na barra de menus e o seguinte acontecerá:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the target file in LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T213557Z" creationid="olivier" creationdate="20250324T213534Z">
@@ -30626,6 +30674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204219Z" creationid="olivier-tdf" creationdate="20250328T204219Z">
         <seg>Censurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Redaction toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205521Z" creationid="olivier-tdf" creationdate="20250328T205521Z">
+        <seg>Barra de ferramentas de Censura</seg>
       </tuv>
     </tu>
     <tu>
@@ -37182,6 +37238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Redaction toolbar automatically opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205713Z" creationid="olivier-tdf" creationdate="20250328T205713Z">
+        <seg>A barra de ferramentas Censurar abre automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The SVG export preserves slide transition and object animation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T002059Z" creationid="olivier" creationdate="20250328T002059Z">
@@ -37834,6 +37898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200640Z" creationid="olivier" creationdate="20250325T200640Z">
         <seg>O documento pode ser impresso somente em baixa resolução (150 dpi).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The document is copied, prepared and transferred to LibreOffice Draw as an untitled file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205641Z" creationid="olivier-tdf" creationdate="20250328T205641Z">
+        <seg>O documento é copiado, preparado e transferido para o LibreOffice Draw como um arquivo sem título.</seg>
       </tuv>
     </tu>
     <tu>
