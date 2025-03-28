@@ -4662,6 +4662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allows the user to mark the content for redaction by drawing free-form lines, or polygons covering the content.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204937Z" creationid="olivier-tdf" creationdate="20250328T204937Z">
+        <seg>Permite que o usuário marque o conteúdo para censura desenhando linhas à mão livre ou polígonos cobrindo o conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allows users to select a certificate to be used for signing a PDF export.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201407Z" creationid="olivier" creationdate="20250325T201407Z">
@@ -17482,6 +17490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T233929Z" creationid="olivier" creationdate="20250301T233929Z">
         <seg>Liberdade para redistribuir o software gratuitamente ou por uma taxa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Freeform Redaction</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204915Z" creationid="olivier-tdf" creationdate="20250328T204915Z">
+        <seg>Censura a mão livre</seg>
       </tuv>
     </tu>
     <tu>
@@ -30546,6 +30562,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204829Z" creationid="olivier-tdf" creationdate="20250328T204829Z">
         <seg>Censura com retângulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Redacted Export (&lt;f0&gt;B&lt;/f0&gt;lack)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205227Z" creationid="olivier-tdf" creationdate="20250328T205227Z">
+        <seg>Exportar PDF censurado (&lt;f0&gt; Preto&lt;/f0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
