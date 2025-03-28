@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;elect &lt;f1&gt;HTML Document (Calc) (.html)&lt;/f1&gt; in the &lt;f2&gt;File type: field&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T230205Z" creationid="olivier" creationdate="20250327T230205Z">
+        <seg>&lt;f0&gt;Selecione&lt;/f0&gt; &lt;f1&gt;Documento HTML (Calc) (.html)&lt;/f1&gt; no campo &lt;f2&gt;Tipo de arquivo:&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;S&lt;/f0&gt;prea&lt;f1&gt;d&lt;/f1&gt;sheet&lt;f2&gt;s&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T235543Z" creationid="olivier" creationdate="20250301T235543Z">
@@ -6202,6 +6210,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205522Z" creationid="olivier" creationdate="20250324T205522Z">
         <seg>O Calc pode salvar nos formatos de planilha ODF (.ods, .ots e .fods), bem como nos seguintes formatos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc can save spreadsheet files as HTML documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T225931Z" creationid="olivier" creationdate="20250327T225931Z">
+        <seg>O Calc pode salvar arquivos de planilha como documentos HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14198,6 +14214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Name and Path of the HTML Document dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T225913Z" creationid="olivier" creationdate="20250327T225913Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Nome e caminho da caixa de diálogo Documento HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Options LibreOffice dialog — Application Colors page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T122611Z" creationid="olivier" creationdate="20250314T122611Z">
@@ -18686,6 +18710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If necessary, click on &lt;f0&gt;Use HTML Document (Calc) Format&lt;/f0&gt; in the Confirmation dialog that opens confirming the file is saved as HTML.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001010Z" creationid="olivier" creationdate="20250328T001010Z">
+        <seg>Se necessário, clique em &lt;f0&gt;Utilizar formato de documento HTML (Calc)&lt;/f0&gt; na caixa de diálogo Confirmação, confirmando que o arquivo foi salvo como HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If necessary, click on &lt;f0&gt;Use HTML Document (Writer) Format&lt;/f0&gt; in the Confirmation dialog that opens confirming the file is saved as HTML.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224002Z" creationid="olivier" creationdate="20250327T224002Z">
@@ -18730,6 +18762,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224132Z" creationid="olivier" creationdate="20250327T224132Z">
         <seg>Se necessário, crie uma nova pasta como um local para o arquivo HTML e imagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If necessary, create a new folder as a location for the HTML file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T230121Z" creationid="olivier" creationdate="20250327T230121Z">
+        <seg>Se necessário, crie uma pasta como um local para o arquivo HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19146,6 +19186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200608Z" creationid="olivier" creationdate="20250327T200608Z">
         <seg>Se a entrada estiver vazia, o exportador utiliza a imagem de capa no diretório de mídia quando o nome é um dos seguintes: &lt;f0&gt;cover.gif, cover.jpg, cover.png&lt;/f0&gt; ou &lt;f1&gt;cover.svg&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the file contains more than one sheet, the additional sheets follow each other in the HTML file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T230011Z" creationid="olivier" creationdate="20250327T230011Z">
+        <seg>Se o arquivo contiver mais de uma planilha, as planilhas adicionais se seguirão no arquivo HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22862,6 +22910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Links to each sheet are placed at the top of the HTML document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T230027Z" creationid="olivier" creationdate="20250327T230027Z">
+        <seg>Os links para cada planilha são colocados na parte superior do documento HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Links to the LibreOffice Help, What’s This?, and information about LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T150433Z" creationid="tulio" creationdate="20250119T150433Z">
@@ -24590,6 +24646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Name and Path of the HTML Document dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T225923Z" creationid="olivier" creationdate="20250327T225923Z">
+        <seg>Nome e caminho da caixa de diálogo Documento HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Name dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224608Z" creationid="olivier" creationdate="20250307T224608Z">
@@ -26050,6 +26114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224908Z" creationid="olivier-tdf" creationdate="20250224T224908Z">
         <seg>Abra a caixa de diálogo Imprimir usando um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Save As dialog by selecting &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T230131Z" creationid="olivier" creationdate="20250327T230131Z">
+        <seg>Para abrir a caixa de diálogo Salvar como, selecione &lt;f0&gt;Arquivo &gt; Salvar como&lt;/f0&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38514,6 +38586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200850Z" creationid="timot" creationdate="20250111T200850Z">
         <seg>Para exibir a contagem de caracteres excluindo espaços, clique na contagem de palavras na barra de status ou escolha&lt;f0&gt;Ferramentas &gt; Contagem de palavras&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To do this task, perform the following steps:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250327T230034Z" creationid="olivier" creationdate="20250327T230034Z">
+        <seg>Para realizar esta tarefa, execute as seguintes etapas:</seg>
       </tuv>
     </tu>
     <tu>
