@@ -3294,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A certificate is obtained from a certification authority, which may be a private company or a government institution.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185957Z" creationid="olivier-tdf" creationdate="20250328T185957Z">
+        <seg>Um certificado é obtido de uma autoridade de certificação, que pode ser uma empresa privada ou uma instituição governamental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A change in &lt;f1&gt;Default currency&lt;/f1&gt; will change all open documents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T233003Z" creationid="olivier" creationdate="20250319T233003Z">
@@ -37790,6 +37798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These keys are added to a drawing when a digital signature is applied.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185946Z" creationid="olivier-tdf" creationdate="20250328T185946Z">
+        <seg>Essas chaves são adicionadas a um desenho quando uma assinatura digital é aplicada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These keys are pre-selected in the text boxes for &lt;f1&gt;OpenPGP signing key&lt;/f1&gt; and &lt;f2&gt;OpenPGP encryption key&lt;/f2&gt; when a document is digitally signed or encrypted (for more information, see Chapter 10, Working with File Formats, Security, and Exporting).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T185545Z" creationid="olivier-tdf" creationdate="20250309T185545Z">
@@ -38626,6 +38642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213906Z" creationid="timot" creationdate="20250205T160803Z">
         <seg>Esta opção substitui um ou dois hifens, sob certas condições, pelo traço correspondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This personal key is stored on the computer being used as a combination of a private key, which must be kept secret, and a public key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185917Z" creationid="olivier-tdf" creationdate="20250328T185917Z">
+        <seg>Essa chave pessoal é armazenada no computador que está sendo usado como uma combinação de uma chave privada, que deve ser mantida em segredo, e uma chave pública.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40602,6 +40626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134904Z" creationid="olivier" creationdate="20250217T134904Z">
         <seg>Para mostrar a barra lateral, clique no botão &lt;f2&gt;Ocultar/Mostrar&lt;/f2&gt; novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To sign a file digitally, a personal key, also known as a certificate, is required.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185905Z" creationid="olivier-tdf" creationdate="20250328T185905Z">
+        <seg>Para assinar um arquivo digitalmente, é necessária uma chave pessoal, também conhecida como certificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42810,6 +42842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T014230Z" creationid="olivier" creationdate="20250321T014230Z">
         <seg>Quando um dicionário personalizado for editado, uma verificação é feita no status do arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a digital signature is applied to a document, a checksum is computed from the document content, plus the personal key being used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190119Z" creationid="olivier-tdf" creationdate="20250328T190119Z">
+        <seg>Quando aplicar uma assinatura digital a um documento, O LibreOffice calcula uma soma de verificação a partir do conteúdo do documento, combinado a chave pessoal que está sendo usada.</seg>
       </tuv>
     </tu>
     <tu>
