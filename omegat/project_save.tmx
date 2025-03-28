@@ -1192,8 +1192,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Regular expression&lt;/f0&gt; — define a regular expression for searching in a document.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222306Z" creationid="olivier-tdf" creationdate="20250328T222306Z">
-        <seg>&lt;f0&gt;Expressão regular&lt;/f0&gt; — define uma expressão regular para pesquisar em um documento.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T224714Z" creationid="olivier-tdf" creationdate="20250328T222306Z">
+        <seg>&lt;f0&gt;Expressão regular&lt;/f0&gt; — define uma expressão regular para pesquisar no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7842,6 +7842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T231338Z" creationid="olivier" creationdate="20250307T231338Z">
         <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para alterar o ícone da ferramenta selecionada e feche a caixa de diálogo Alterar ícone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the Add Target dialog and the target is added to the &lt;f1&gt;Redaction Targets&lt;/f1&gt; list in the Automatic Redaction dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T224901Z" creationid="olivier-tdf" creationdate="20250328T224901Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para fechar a caixa de diálogo Adicionar alvo com o alvo adicionado à lista &lt;f1&gt;Alvos de censura&lt;/f1&gt; na caixa de diálogo Censura automática.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20552,8 +20560,8 @@
       <tuv lang="en-US">
         <seg>If necessary, select the options &lt;f0&gt;Match case&lt;/f0&gt; and &lt;f1&gt;Whole words only&lt;/f1&gt; to help define which targets are auto-redacted.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222553Z" creationid="olivier-tdf" creationdate="20250328T222553Z">
-        <seg>Se necessário, selecione as opções &lt;f0&gt;Corresponder maiúsculas e minúsculas&lt;/f0&gt; e &lt;f1&gt;Palavras inteiras apenas&lt;/f1&gt; para ajudar a definir quais alvos são censurados automaticamente.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T224820Z" creationid="olivier-tdf" creationdate="20250328T222553Z">
+        <seg>Se necessário, selecione as opções &lt;f0&gt;Diferenciar maiúsculas de minúsculas&lt;/f0&gt; e &lt;f1&gt;Somente palavras inteiras&lt;/f1&gt; para ajudar a definir quais alvos são censurados automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31186,6 +31194,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160048Z" creationid="olivier" creationdate="20250121T160048Z">
         <seg>Renomear planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repeat Steps 2 thr&lt;f0&gt;o&lt;/f0&gt;u&lt;f1&gt;gh&lt;/f1&gt; 7 above until all targets required have been added to the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225009Z" creationid="olivier-tdf" creationdate="20250328T224937Z">
+        <seg>Repita as etapas 2&lt;f0&gt;&lt;/f0&gt; a 7&lt;f1&gt;&lt;/f1&gt; acima até que todos os alvos necessários tenham sido adicionados ao documento.</seg>
       </tuv>
     </tu>
     <tu>
