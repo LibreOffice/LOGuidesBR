@@ -5102,6 +5102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any created HTML documents must not have a background defined to use this option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182745Z" creationid="olivier-tdf" creationdate="20250328T182745Z">
+        <seg>Quaisquer documentos HTML criados não devem ter um fundo definido para usar esta opção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Any data in the cell will remain in the first cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210636Z" creationid="olivier-tdf" creationdate="20250128T210636Z">
@@ -5706,6 +5714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205836Z" creationid="olivier" creationdate="20250324T205836Z">
         <seg>BMP – Bitmap do Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182623Z" creationid="olivier-tdf" creationdate="20250328T182623Z">
+        <seg>Plano de fundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10658,6 +10674,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224751Z" creationid="olivier" creationdate="20250123T224751Z">
         <seg>Definir o intervalo de conteúdo que pode ser inserido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defines the LibreOffice text and HTML documents’ display for certain characters and for the direct cursor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182538Z" creationid="olivier-tdf" creationdate="20250328T182538Z">
+        <seg>Define o texto do LibreOffice e a exibição de documentos HTML para determinados caracteres e para o cursor direto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defines the attributes of tables in text documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182617Z" creationid="olivier-tdf" creationdate="20250328T182617Z">
+        <seg>Define os atributos de tabelas em documentos de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17706,6 +17738,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123954Z" creationid="olivier-tdf" creationdate="20250109T123954Z">
         <seg>Figuras e objetos de outros módulos do LibreOffice podem ser inseridos em documentos do Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grid</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182542Z" creationid="olivier-tdf" creationdate="20250328T182542Z">
+        <seg>Grade</seg>
       </tuv>
     </tu>
     <tu>
@@ -33254,6 +33294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specifies print settings within a text or HTML document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182609Z" creationid="olivier-tdf" creationdate="20250328T182609Z">
+        <seg>Especifica as configurações de impressão em um documento de texto ou HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specifies that all colors in a document are printed only as grayscale.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172201Z" creationid="olivier" creationdate="20250312T172201Z">
@@ -33398,6 +33446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specifies the background for HTML documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182700Z" creationid="olivier-tdf" creationdate="20250328T182700Z">
+        <seg>Especifica o plano de fundo para documentos HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specifies the characters that will not appear alone at the beginning of a line.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T021428Z" creationid="olivier" creationdate="20250321T021428Z">
@@ -33522,6 +33578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T015602Z" creationid="olivier" creationdate="20250321T015602Z">
         <seg>Especifica as opções a serem tratadas como iguais durante uma pesquisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies the settings for the configurable grid for document pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182550Z" creationid="olivier-tdf" creationdate="20250328T182550Z">
+        <seg>Especifica as configurações para a grade configurável para páginas de documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35306,6 +35370,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T192137Z" creationid="timot" creationdate="20250228T192137Z">
         <seg>O plano de fundo não é exibido quando impresso e pode ser desativado em &lt;f1&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Aparência&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The background is valid for creating new HTML documents and for HTML documents already created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182711Z" creationid="olivier-tdf" creationdate="20250328T182711Z">
+        <seg>O plano de fundo é válido para a criação de novos documentos HTML e para documentos HTML já criados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37874,6 +37946,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233610Z" creationid="olivier-tdf" creationdate="20250224T233610Z">
         <seg>Esta função redefine qualquer alteração na interface de usuário e alterações de configuração, mas mantém itens como dicionário pessoal, modelos e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This grid helps to determine the exact position of objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182555Z" creationid="olivier-tdf" creationdate="20250328T182555Z">
+        <seg>Essa grade ajuda a determinar a posição exata dos objetos.</seg>
       </tuv>
     </tu>
     <tu>
