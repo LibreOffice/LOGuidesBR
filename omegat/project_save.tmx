@@ -15494,6 +15494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Font Embedding</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200444Z" creationid="olivier-tdf" creationdate="20250328T200315Z">
+        <seg>Incorporar fontes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Font Lists</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T161959Z" creationid="olivier" creationdate="20250312T161959Z">
@@ -19746,6 +19754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151245Z" creationid="olivier" creationdate="20250318T151245Z">
         <seg>Quando ativado, as configurações da impressora são carregadas com o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If fonts have been defined for the document (for example, in the template), but have not been used, select this option to not embed them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200250Z" creationid="olivier-tdf" creationdate="20250328T200250Z">
+        <seg>Se as fontes foram definidas para o documento (por exemplo, no modelo), mas não foram usadas, selecione esta opção para não incorporá-las.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33070,6 +33086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option to embed document fonts into the document file and allow portability between different computer systems.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200453Z" creationid="olivier-tdf" creationdate="20250328T200453Z">
+        <seg>Selecione esta opção para incorporar fontes de documento no arquivo de documento e permitir a portabilidade entre diferentes sistemas de computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option to enable features that are not yet complete, or contain known bugs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191824Z" creationid="olivier" creationdate="20250316T191824Z">
@@ -37098,6 +37122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T232321Z" creationid="olivier-tdf" creationdate="20250224T232321Z">
         <seg>O documento volta à visualização normal e a barra de ferramentas Formatação reabre substituindo a barra de ferramentas Visualização de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The document with embedded fonts has a larger size and the fonts are used on the target computer for better rendering of the document layout.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200503Z" creationid="olivier-tdf" creationdate="20250328T200503Z">
+        <seg>O documento com fontes incorporaras tem tamanho maior e as fontes são usadas no computador de destino para melhor resultado no leiaute do documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45826,6 +45858,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T214200Z" creationid="timot" creationdate="20250205T161347Z">
         <seg>É possível optar por verificar a ortografia e a gramática automaticamente ao digitar, em qualquer outro momento, ou ambos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can choose which types of fonts are embedded: Latin, Asian, Complex.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200312Z" creationid="olivier-tdf" creationdate="20250328T200312Z">
+        <seg>Você pode escolher os tipos de fontes a incorporar: Latina, Asiática, Complexa.</seg>
       </tuv>
     </tu>
     <tu>
