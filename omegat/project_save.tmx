@@ -9686,6 +9686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consider embedding fonts when a document use rare, or custom fonts not generally available in other computers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200524Z" creationid="olivier-tdf" creationdate="20250328T200524Z">
+        <seg>Considere incorporar fontes quando um documento usa fontes raras ou personalizadas que geralmente não estão disponíveis em outros computadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consistent user interface</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192543Z" creationid="olivier-tdf" creationdate="20250109T192543Z">
@@ -15518,6 +15526,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Font files contain flags that indicate if and how they can be embedded within a document file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200614Z" creationid="olivier-tdf" creationdate="20250328T200614Z">
+        <seg>Arquivos de fonte contêm sinalizadores que indicam se e como eles podem ser incorporados em um arquivo de documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Font licenses may restrict embedding fonts in documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200534Z" creationid="olivier-tdf" creationdate="20250328T200534Z">
+        <seg>As licenças de fonte podem restringir a incorporação de fontes em documentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Font replacement on screen and when printing, but only if font is not available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T123429Z" creationid="olivier" creationdate="20250313T123429Z">
@@ -15546,6 +15570,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T123407Z" creationid="olivier" creationdate="20250313T123407Z">
         <seg>Substituição de fonte apenas na tela, esteja a fonte instalada ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Font scripts to embed</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200723Z" creationid="olivier-tdf" creationdate="20250328T200723Z">
+        <seg>Scripts de fontes a incorporar</seg>
       </tuv>
     </tu>
     <tu>
@@ -24058,6 +24090,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T183737Z" creationid="olivier-tdf" creationdate="20250309T183737Z">
         <seg>Opções do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice parses these flags and determines if and how it may be embedded in a document file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200641Z" creationid="olivier-tdf" creationdate="20250328T200641Z">
+        <seg>O LibreOffice analisa esses sinalizadores e determina se e como eles podem ser incorporados num arquivo de documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33226,6 +33266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155213Z" creationid="olivier" creationdate="20250223T155213Z">
         <seg>Selecione quais slides no documento a imprimir na lista suspensa: (&lt;f0&gt;Todas as páginas&lt;/f0&gt;; &lt;f1&gt;Apenas ímpar&lt;/f1&gt;; &lt;f2&gt;Apenas par)&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select which types of fonts are embedded: Latin, Asian, Complex.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200813Z" creationid="olivier-tdf" creationdate="20250328T200813Z">
+        <seg>Selecione o tipos de fontes a incorporar: Latina, Asiática, Complexa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44346,6 +44394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005531Z" creationid="olivier" creationdate="20250324T205133Z">
         <seg>Ao abrir um documento do Word que contenha um objeto editor de equações incorporado, se a opção &lt;f0&gt;MathType para LibreOffice Math ou reverso&lt;/f0&gt; estiver marcada em &lt;f1&gt;Ferramentas &gt; Opções &gt; Carregar/Salvar &gt; Microsoft Office&lt;/f1&gt; (macOS &lt;f2&gt;LibreOffice &gt; Preferências &gt; Carrega/Salvar &gt; Microsoft Office&lt;/f2&gt;), o objeto será automaticamente convertido num objeto LibreOffice Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When opening a document containing embedded fonts, LibreOffice looks at these flags to determine if and how a document can be viewed or edited.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200717Z" creationid="olivier-tdf" creationdate="20250328T200717Z">
+        <seg>Ao abrir um documento contendo fontes incorporadas, o LibreOffice analisa esses sinalizadores para determinar se e como um documento pode ser visualizado ou editado.</seg>
       </tuv>
     </tu>
     <tu>
