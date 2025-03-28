@@ -23856,8 +23856,8 @@
       <tuv lang="en-US">
         <seg>LibreOffice allows users to customize the levels of classification for a business.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202003Z" creationid="olivier-tdf" creationdate="20250328T202003Z">
-        <seg>O LibreOffice permite que os usuários personalizem os níveis de classificação de uma empresa.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202030Z" creationid="olivier-tdf" creationdate="20250328T202003Z">
+        <seg>O LibreOffice permite personalizar os níveis de classificação na empresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24018,6 +24018,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194807Z" creationid="olivier-tdf" creationdate="20250109T194807Z">
         <seg>O LibreOffice vem com um extenso sistema de Ajuda e isso pode ser usado como a primeira linha de suporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice displays a warning message wherever it detects that the contents of the clipboard have higher security classification than the target document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202306Z" creationid="olivier-tdf" creationdate="20250328T202306Z">
+        <seg>O LibreOffice exibe uma mensagem de aviso sempre que detecta que o conteúdo da área de transferência tem uma classificação de segurança mais alta do que o documento de destino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29174,6 +29182,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pasting contents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202232Z" creationid="olivier-tdf" creationdate="20250328T202232Z">
+        <seg>Colar conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pasting contents in documents with different levels of classification prevents a breach in the security policy, contents with high classification level pasted to documents with lower classification level are not allowed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202245Z" creationid="olivier-tdf" creationdate="20250328T202245Z">
+        <seg>Colar conteúdos em documentos com diferentes níveis de classificação evita uma violação na política de segurança, não são permitidos conteúdos com alto nível de classificação colados em documentos com menor nível de classificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pasting into another document</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155833Z" creationid="olivier" creationdate="20250312T155833Z">
@@ -31266,6 +31290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T192707Z" creationid="olivier-tdf" creationdate="20250328T192707Z">
         <seg>Salve o documento &lt;f0&gt;e&lt;/f0&gt; fixe a caixa de assinatura no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save the file and make the required changes to the classification path to access the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202228Z" creationid="olivier-tdf" creationdate="20250328T202228Z">
+        <seg>Salve o arquivo e faça as alterações necessárias no caminho de classificação para acessar o arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40870,6 +40902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To customize the number and the name of the levels, copy a file, for example &lt;f0&gt;&lt;f1&gt;example.xml&lt;/f1&gt;&lt;/f0&gt;, located in &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths &gt; Classification&lt;/f2&gt; (macOS &lt;f3&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; Paths &gt; Classification&lt;/f3&gt;) into a local folder and edit the contents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202215Z" creationid="olivier-tdf" creationdate="20250328T202215Z">
+        <seg>Para personalizar o número e o nome dos níveis, copie um arquivo, por exemplo example.xml&lt;f0&gt;&lt;f1&gt;,&lt;/f1&gt;&lt;/f0&gt; localizado em &lt;f2&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Caminhos &gt; Classificação&lt;/f2&gt; (macOS &lt;f3&gt;LibreOffice &gt; Preferências &gt; LibreOffice &gt; Caminhos &gt; Classificação&lt;/f3&gt;) em uma pasta local e edite o conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To define a new print range or modify an existing print range:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194147Z" creationid="olivier-tdf" creationdate="20250209T194147Z">
@@ -43466,6 +43506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124120Z" creationid="olivier" creationdate="20250325T124120Z">
         <seg>Opções da interface de usuário do PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User and personal data</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202334Z" creationid="olivier-tdf" creationdate="20250328T202334Z">
+        <seg>Dados pessoais e do usuário</seg>
       </tuv>
     </tu>
     <tu>
