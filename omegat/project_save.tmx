@@ -2662,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Redaction toolbar&lt;/s0&gt;&lt;s1&gt;Redaction toolbar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205505Z" creationid="olivier-tdf" creationdate="20250328T205505Z">
+        <seg>&lt;s0&gt;Barra de ferramentas de Censura&lt;/s0&gt;&lt;s1&gt;Barra de ferramentas de Censura&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Remote Files dialog&lt;/s0&gt;&lt;s1&gt;Remote Files dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185443Z" creationid="olivier-tdf" creationdate="20250328T185300Z">
@@ -10070,6 +10078,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Converts the semi-transparent redaction shape to opaque black and exports as pixels in the PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205248Z" creationid="olivier-tdf" creationdate="20250328T205248Z">
+        <seg>Converte a forma de censura semitransparente em preto opaco e exporta como pixels no arquivo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Converts the semi-transparent redaction shapes to opaque white shapes and exports as pixels in the PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205335Z" creationid="olivier-tdf" creationdate="20250328T205335Z">
+        <seg>Converte as formas de censura semitransparentes em formas brancas opacas e exporta como pixels no arquivo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Converts to the PDF/A-1b, PDF/A-2b, or PDF/A-3b format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215954Z" creationid="olivier" creationdate="20250324T215954Z">
@@ -13810,6 +13834,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T201601Z" creationid="olivier-tdf" creationdate="20250328T201601Z">
         <seg>Controle de Exportação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export Preview PDF</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205401Z" creationid="olivier-tdf" creationdate="20250328T205401Z">
+        <seg>Exportar PDF da visualização</seg>
       </tuv>
     </tu>
     <tu>
@@ -25198,6 +25230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Makes a copy of the presentation as a PDF file to preview the redaction areas before making a redacted PDF file of the presentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205427Z" creationid="olivier-tdf" creationdate="20250328T205427Z">
+        <seg>Faz uma cópia da apresentação como um arquivo PDF para visualizar as áreas censuradas antes de fazer um arquivo PDF editado da apresentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manage custom dictionaries</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T102913Z" creationid="timot" creationdate="20250206T102913Z">
@@ -30570,6 +30610,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205227Z" creationid="olivier-tdf" creationdate="20250328T205227Z">
         <seg>Exportar PDF censurado (&lt;f0&gt; Preto&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Redacted Export (White)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205322Z" creationid="olivier-tdf" creationdate="20250328T205322Z">
+        <seg>Exportar PDF censurado (branco)</seg>
       </tuv>
     </tu>
     <tu>
