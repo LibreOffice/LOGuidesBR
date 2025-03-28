@@ -8582,6 +8582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Load Targets&lt;/f0&gt; to open the Load Targets dialog and navigate to the location of the JSON file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225435Z" creationid="olivier-tdf" creationdate="20250328T225435Z">
+        <seg>Clique em &lt;f0&gt;Carregar alvos&lt;/f0&gt; para abrir a caixa de diálogo Carregar alvos e navegar até o local do arquivo JSON.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Load&lt;/f0&gt; at the right side of the Customize dialog to open the Load Keyboard Configuration file browser.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T001749Z" creationid="olivier" creationdate="20250308T001749Z">
@@ -8810,6 +8818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T221216Z" creationid="olivier-tdf" creationdate="20250328T221216Z">
         <seg>Clique em &lt;f0&gt;Salvar&lt;/f0&gt; para criar o arquivo PDF censurado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Save&lt;/f0&gt; to save the JSON file and close the Save Targets dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225349Z" creationid="olivier-tdf" creationdate="20250328T225349Z">
+        <seg>Clique em &lt;f0&gt;Salvar&lt;/f0&gt; para salvar o arquivo JSON e fechar a caixa de diálogo Salvar alvos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13282,6 +13298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203519Z" creationid="olivier" creationdate="20250327T203519Z">
         <seg>Insira um nome para o arquivo HTML na caixa de texto &lt;f0&gt;Nome do arquivo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter a file name for the JSON file in the &lt;f0&gt;File name&lt;/f0&gt; text box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225329Z" creationid="olivier-tdf" creationdate="20250328T225329Z">
+        <seg>Digite um nome de arquivo para o arquivo JSON na caixa de texto &lt;f0&gt;Nome do arquivo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21822,6 +21846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Importing targets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225358Z" creationid="olivier-tdf" creationdate="20250328T225358Z">
+        <seg>Importar alvos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impress</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130852Z" creationid="olivier-tdf" creationdate="20250218T130852Z">
@@ -28190,6 +28222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a document where targets for automatic redaction are going to be used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225418Z" creationid="olivier-tdf" creationdate="20250328T225418Z">
+        <seg>Abra um documento onde os alvos para censura automática serão usados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a document where targets for automatic redaction have been added.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225200Z" creationid="olivier-tdf" creationdate="20250328T225200Z">
@@ -33774,6 +33814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the required file and click on &lt;f0&gt;Open&lt;/f0&gt; to import the targets into the document and close the Load Targets dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225502Z" creationid="olivier-tdf" creationdate="20250328T225502Z">
+        <seg>Selecione o arquivo necessário e clique em &lt;f0&gt;Abrir&lt;/f0&gt; para importar os alvos para o documento e fechar a caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the required function for the keyboard shortcut from the &lt;f0&gt;Function&lt;/f0&gt; list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T235335Z" creationid="olivier" creationdate="20250307T235335Z">
@@ -37774,6 +37822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The automatic redaction targets are saved in a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225520Z" creationid="olivier-tdf" creationdate="20250328T225520Z">
+        <seg>Os alvos de censura automática são salvos no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The background does not show when printed and can be turned off in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T192137Z" creationid="timot" creationdate="20250228T192137Z">
@@ -39386,6 +39442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125623Z" creationid="olivier-tdf" creationdate="20250218T125623Z">
         <seg>A tabela abaixo fornece algumas substituições comuns usadas neste documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The targets are available after the document is saved and closed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225543Z" creationid="olivier-tdf" creationdate="20250328T225543Z">
+        <seg>Os alvos estão disponíveis após o documento ser salvo e fechado.</seg>
       </tuv>
     </tu>
     <tu>
