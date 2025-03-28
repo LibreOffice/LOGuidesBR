@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Title&lt;/f0&gt;, &lt;f1&gt;Subject&lt;/f1&gt; and &lt;f2&gt;Keywords&lt;/f2&gt; are exported to PDF files as PDF Document Properties.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194743Z" creationid="olivier-tdf" creationdate="20250328T194743Z">
+        <seg>&lt;f0&gt;Título&lt;/f0&gt;, &lt;f1&gt;Assunto&lt;/f1&gt; e &lt;f2&gt;Palavras-chave&lt;/f2&gt; são exportados para arquivos PDF como propriedades do documento PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;To &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;p&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;revious &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;e&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;ditions&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250109T002657Z" creationid="olivier" creationdate="20250109T002657Z">
@@ -3542,6 +3550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A keyword can contain white space characters, or semicolons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194524Z" creationid="olivier-tdf" creationdate="20250328T194524Z">
+        <seg>Uma palavra-chave pode conter caracteres de espaço em branco ou ponto e vírgula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A language entry has a check mark in front of it if spell checking is activated for the selected language.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T132324Z" creationid="olivier" creationdate="20250320T132324Z">
@@ -3698,6 +3714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125732Z" creationid="olivier-tdf" creationdate="20250218T125732Z">
         <seg>Um estilo no LibreOffice é uma coleção de atributos de formatação que podem ser aplicados a texto e outros objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A subject can be used to group documents with similar contents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194500Z" creationid="olivier-tdf" creationdate="20250328T194500Z">
+        <seg>Um assunto pode ser usado para agrupar documentos com conteúdos semelhantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9494,6 +9518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194651Z" creationid="olivier-tdf" creationdate="20250328T194651Z">
+        <seg>Anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Comments as PDF annotations</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221502Z" creationid="olivier" creationdate="20250324T221318Z">
@@ -9746,6 +9778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123714Z" creationid="olivier" creationdate="20250325T123714Z">
         <seg>Páginas abertas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contributor, Coverage, Identifier, Publisher, Relation, Rights, Source, Type</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194532Z" creationid="olivier-tdf" creationdate="20250328T194532Z">
+        <seg>Colaborador, Cobertura, Identificador, Editor, Relação, Direitos, Fonte, Tipo</seg>
       </tuv>
     </tu>
     <tu>
@@ -12934,6 +12974,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter a subject for the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194453Z" creationid="olivier-tdf" creationdate="20250328T194453Z">
+        <seg>Insira um assunto para o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter a title for the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194445Z" creationid="olivier-tdf" creationdate="20250328T194445Z">
+        <seg>Insira um título para o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter a unique identifier for the publication.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202147Z" creationid="olivier" creationdate="20250327T202147Z">
@@ -12954,6 +13010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200516Z" creationid="olivier" creationdate="20250325T200516Z">
         <seg>Digite uma senha opcional que permita que um usuário visualize o PDF para editar e/ou imprimir o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter comments to help identify the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194714Z" creationid="olivier-tdf" creationdate="20250328T194714Z">
+        <seg>Insira comentários para ajudar a identificar o documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13098,6 +13162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202200Z" creationid="olivier" creationdate="20250327T202200Z">
         <seg>Insira o título da publicação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter the words that required to index the content of the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194517Z" creationid="olivier-tdf" creationdate="20250328T194517Z">
+        <seg>Insira as palavras necessárias para indexar o conteúdo do documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23258,6 +23330,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T001405Z" creationid="olivier-tdf" creationdate="20250219T001405Z">
         <seg>Atalhos de teclado, quando disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keywords</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194502Z" creationid="olivier-tdf" creationdate="20250328T194502Z">
+        <seg>Palavras-chave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keywords must be separated by commas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194520Z" creationid="olivier-tdf" creationdate="20250328T194520Z">
+        <seg>As palavras-chave devem ser separadas por vírgulas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34958,6 +35046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194447Z" creationid="olivier-tdf" creationdate="20250328T194447Z">
+        <seg>Assunto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Submenus and tool palettes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173522Z" creationid="tulio" creationdate="20250119T173522Z">
@@ -38394,6 +38490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011138Z" creationid="olivier" creationdate="20250124T011138Z">
         <seg>Eles são descritos no Capítulo 2, Inserir e editar dados, no &lt;f9&gt;Guia do Calc&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are the Dublin Core Metadata Element Set for describing resources.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194648Z" creationid="olivier-tdf" creationdate="20250328T194648Z">
+        <seg>Estes são o conjunto de elementos de metadados Dublin Core para descrever recursos.</seg>
       </tuv>
     </tu>
     <tu>
