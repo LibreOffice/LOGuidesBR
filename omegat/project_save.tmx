@@ -5918,6 +5918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Automatic redaction</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T221538Z" creationid="olivier-tdf" creationdate="20250328T221538Z">
+        <seg>Censura automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automatic word completion only occurs after you type a word for the second time in a document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T104736Z" creationid="timot" creationdate="20250215T104736Z">
@@ -39638,6 +39646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These blocks of pixels prevent any attempt to restore, or copying the original contents that have been redacted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T221534Z" creationid="olivier-tdf" creationdate="20250328T221534Z">
+        <seg>Esses blocos de pixels impedem qualquer tentativa de restauração ou cópia do conteúdo original que foi censurado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These buttons and formats include:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T101117Z" creationid="timot" creationdate="20250217T101117Z">
@@ -44950,6 +44966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When LibreOffice conducts automatic redaction, it allows the user to define words and patterns that are automatically marked for redaction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T221632Z" creationid="olivier-tdf" creationdate="20250328T221632Z">
+        <seg>O LibreOffice realiza a censura automática, ao permitir que o usuário defina palavras e padrões que são automaticamente marcados para censura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When LibreOffice is acquired through official app stores, follow the installation instructions provided by the store.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194555Z" creationid="olivier-tdf" creationdate="20250109T194555Z">
@@ -45106,6 +45130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001249Z" creationid="olivier" creationdate="20250303T001249Z">
         <seg>Quando um menu é aberto, pode haver itens de submenu com caracteres sublinhados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a redacted document is exported as a new PDF file, any redacted areas are removed from the new document and replaced by redacted blocks of pixels.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T221515Z" creationid="olivier-tdf" creationdate="20250328T221515Z">
+        <seg>Quando um documento censurado for exportado como um novo arquivo PDF, as áreas censuradas são removidas do novo documento e substituídas por censuras com blocos de pixels.</seg>
       </tuv>
     </tu>
     <tu>
