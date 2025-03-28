@@ -1614,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f4&gt;To export a presentation or a drawing:&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001240Z" creationid="olivier" creationdate="20250328T001240Z">
+        <seg>&lt;f4&gt;Para exportar uma apresentação ou um desenho:&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f5&gt;Paste clipboard&lt;/f5&gt; — pressing the middle mouse button inserts the contents of the &lt;f6&gt;Selection clipboard&lt;/f6&gt; at the cursor position.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250310T230747Z" creationid="olivier" creationdate="20250310T230747Z">
@@ -6122,6 +6130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T005042Z" creationid="olivier" creationdate="20250120T005042Z">
         <seg>Navegador do Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc allows the insertion of links directly into a spreadsheet using the Hyperlink dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001036Z" creationid="olivier" creationdate="20250328T001036Z">
+        <seg>O Calc permite a inserção de links diretamente numa planilha usando a caixa de diálogo Hiperlink.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12874,6 +12890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195641Z" creationid="timot" creationdate="20250111T195641Z">
         <seg>Exportar para PDF e EPUB (ver Capítulo 10)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exporting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001058Z" creationid="olivier" creationdate="20250328T001058Z">
+        <seg>Exportar</seg>
       </tuv>
     </tu>
     <tu>
@@ -20118,6 +20142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Impress presentations and Draw drawings cannot &lt;f0&gt;properly &lt;/f0&gt;be saved in HTML format, but can be exported as &lt;f1&gt;SVG&lt;/f1&gt; documents &lt;f2&gt;with&lt;/f2&gt; the Export &lt;f3&gt;command&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001235Z" creationid="olivier" creationdate="20250328T001235Z">
+        <seg>As apresentações do Impress e os desenhos do Draw não podem ser salvos &lt;f0&gt;corretamente &lt;/f0&gt;no formato HTML, mas podem ser exportados como documentos &lt;f1&gt;SVG&lt;/f1&gt; &lt;f2&gt;&lt;/f2&gt; com o comando &lt;f3&gt;Exportar&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impress provides all the common multimedia presentation tools, such as special effects, animation, and drawing tools.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191522Z" creationid="olivier-tdf" creationdate="20250109T191522Z">
@@ -24758,6 +24790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigate to the required location in the Export dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001303Z" creationid="olivier" creationdate="20250328T001303Z">
+        <seg>Navegue até o local desejado na caixa de diálogo Exportar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigate to the required location in the Save As dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203447Z" creationid="olivier" creationdate="20250327T203447Z">
@@ -26082,6 +26122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T213613Z" creationid="olivier" creationdate="20250324T213613Z">
         <seg>Abra a caixa de diálogo Exportar (Figura &lt;t0&gt;1&lt;/t0&gt;) e utilize um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Export dialog by selecting &lt;f0&gt;File &gt; Export.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001253Z" creationid="olivier" creationdate="20250328T001253Z">
+        <seg>Abra a caixa de diálogo Exportar selecionando &lt;f0&gt;Arquivo &gt; Exportar.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27786,6 +27834,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T235620Z" creationid="olivier" creationdate="20250301T235620Z">
         <seg>Apresentações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presentations and drawings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001056Z" creationid="olivier" creationdate="20250328T001056Z">
+        <seg>Apresentações e desenhos</seg>
       </tuv>
     </tu>
     <tu>
@@ -29814,6 +29870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Chapter 4, Working with Styles, Templates and Hyperlinks, for more information on hyperlinks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001050Z" creationid="olivier" creationdate="20250328T001050Z">
+        <seg>Consulte o Capítulo 4, Trabalhar com estilos, modelos e hiperlinks, para obter mais informações sobre hiperlinks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Chapter 4, Working with Styles, Templates and Hyperlinks, in this book and also refer to the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T100254Z" creationid="timot" creationdate="20250217T100254Z">
@@ -30170,6 +30234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200633Z" creationid="olivier-tdf" creationdate="20250209T200633Z">
         <seg>Selecione &lt;f0&gt;Quebra de linha&lt;/f0&gt; para criar uma quebra de página horizontal acima da célula selecionada ou selecione &lt;f1&gt;Quebra de coluna&lt;/f1&gt; para criar uma quebra de página vertical à esquerda da célula selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;SVG – Scalable Vector Graphics (.svg)&lt;/f0&gt; in the File format list box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001521Z" creationid="olivier" creationdate="20250328T001521Z">
+        <seg>Selecione &lt;f0&gt;SVG – Scalable Vector Graphics (.svg)&lt;/f0&gt; na caixa de listagem Formato de arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31210,6 +31282,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier" creationdate="20250121T160433Z">
         <seg>Selecione a aba da planilha e acesse &lt;f0&gt;Planilha &gt; Renomear planilha&lt;/f0&gt; na barra de menu para abrir a caixa de diálogo Renomear Planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the slides or pages to export.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001245Z" creationid="olivier" creationdate="20250328T001245Z">
+        <seg>Selecione os slides ou páginas para exportar.</seg>
       </tuv>
     </tu>
     <tu>
