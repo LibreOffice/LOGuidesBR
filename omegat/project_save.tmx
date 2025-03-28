@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;If not selected, you will not be able to decrypt your own files.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231405Z" creationid="olivier-tdf" creationdate="20250328T231405Z">
+        <seg>&lt;f0&gt;Se não for selecionado, você não poderá descriptografar seus próprios arquivos.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Image&lt;/f0&gt;: Modify the image brightness, contrast, color mode, and transparency.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T110525Z" creationid="timot" creationdate="20250114T110525Z">
@@ -1042,6 +1050,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T174956Z" creationid="olivier-tdf" creationdate="20250109T194435Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;Outras versões do LibreOffice estão listadas na página de download, &lt;f1&gt;como Portable, &lt;/f1&gt;&lt;f2&gt;um aplicativo&lt;/f2&gt; na Microsoft Store e Apple Mac App Store a &lt;f3&gt;preços&lt;/f3&gt; baixos e &lt;f4&gt;acessíveis&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;OpenPGP encryption key&lt;/f0&gt; — select an OpenPGP key from the drop-down list for encrypting ODF documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231249Z" creationid="olivier-tdf" creationdate="20250328T231249Z">
+        <seg>&lt;f0&gt;Chave de criptografia OpenPGP&lt;/f0&gt; — selecione uma chave OpenPGP na lista suspensa para criptografar documentos ODF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;OpenPGP signing key&lt;/f0&gt; — select an OpenPGP key from the drop-down list for signing ODF documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231235Z" creationid="olivier-tdf" creationdate="20250328T231235Z">
+        <seg>&lt;f0&gt;Chave de assinatura OpenPGP&lt;/f0&gt; — selecione uma chave OpenPGP na lista suspensa para assinar documentos ODF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,6 +1530,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T235439Z" creationid="olivier" creationdate="20250301T235439Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;&lt;s1/&gt;Processador de texto (documentos de texto)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;When encrypting documents, always encrypt to self&lt;/f0&gt; — select this option to also encrypt the file with a public key, allowing the document to be opened with a private key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231332Z" creationid="olivier-tdf" creationdate="20250328T231332Z">
+        <seg>&lt;f0&gt;Ao criptografar documentos, sempre criptografe para si mesmo&lt;/f0&gt; — selecione esta opção para também criptografar o arquivo com sua chave pública, permitindo que o documento seja aberto com sua chave privada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24230,6 +24262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keep this option selected to allow decryption of documents that have been encrypted for other people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231353Z" creationid="olivier-tdf" creationdate="20250328T231353Z">
+        <seg>Mantenha esta opção selecionada para permitir a descriptografia de documentos que foram criptografados para outras pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keeping files on remote servers allows access to documents using different computers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184215Z" creationid="olivier-tdf" creationdate="20250328T184215Z">
@@ -27130,6 +27170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T214433Z" creationid="olivier" creationdate="20250324T214433Z">
         <seg>Navegue até a pasta necessária para o arquivo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate to the required location for the file, then enter a file name and file type in the Save as dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231421Z" creationid="olivier-tdf" creationdate="20250328T231421Z">
+        <seg>Navegue até o local desejado para o arquivo e insira um nome e tipo de arquivo na caixa de diálogo Salvar como.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33026,6 +33074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135318Z" creationid="olivier" creationdate="20250217T135318Z">
         <seg>Selecione &lt;f0&gt;Encaixar&lt;/f0&gt; das opções disponíveis, ou utilize o atalho de teclado  &lt;f1&gt;Ctrl+Shift+F10&lt;/f1&gt; (macOS ⌘+&lt;f2&gt;Shift+F10&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Encrypt with GPG key&lt;/f0&gt; option and click on &lt;f1&gt;Save&lt;/f1&gt; to open the Select X.509 Certificate dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231558Z" creationid="olivier-tdf" creationdate="20250328T231558Z">
+        <seg>Selecione a opção &lt;f0&gt;Criptografar com chave GPG&lt;/f0&gt; e clique em &lt;f1&gt;Salvar&lt;/f1&gt; para abrir a caixa de diálogo Selecionar Certificado X.509.</seg>
       </tuv>
     </tu>
     <tu>
