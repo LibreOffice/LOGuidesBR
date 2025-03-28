@@ -5438,6 +5438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Applying digital signatures</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190314Z" creationid="olivier-tdf" creationdate="20250328T190314Z">
+        <seg>Aplicar assinaturas digitais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Applying styles</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000439Z" creationid="olivier-tdf" creationdate="20250219T000439Z">
@@ -15998,6 +16006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on digital signatures, see “About Digital Signatures” and “Applying Digital Signatures” on the LibreOffice Help website.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190304Z" creationid="olivier-tdf" creationdate="20250328T190304Z">
+        <seg>Para obter mais informações sobre assinaturas digitais, consulte “Sobre Assinaturas Digitais” e “Aplicando Assinaturas Digitais” no site de Ajuda do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on editing print ranges, see Chapter 7, Printing, Exporting, Emailing, and Signing, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200016Z" creationid="olivier-tdf" creationdate="20250209T200016Z">
@@ -17290,6 +17306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T233131Z" creationid="olivier" creationdate="20250220T233131Z">
         <seg>Acesse &lt;f0&gt;Arquivo &gt; Fechar&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Digital Signatures &gt; Digital Signatures&lt;/f0&gt; on the Menu bar and open the Digital Signatures dialog (Figure &lt;t1&gt;16&lt;/t1&gt;) that lists the available digital signatures for the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190459Z" creationid="olivier-tdf" creationdate="20250328T190459Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Assinaturas digitais &gt; Assinaturas digitais&lt;/f0&gt; na barra de menu e abra a caixa de diálogo Assinaturas digitais (Figura &lt;t1&gt;16&lt;/t1&gt;) que lista as assinaturas digitais disponíveis para o documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19106,6 +19130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012251Z" creationid="olivier" creationdate="20250321T012251Z">
         <seg>Se aplicável, clique em &lt;f0&gt;Editar&lt;/f0&gt; para abrir uma caixa de diálogo permitindo que um novo valor seja inserido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If both checksums are the same, the program opens the original, unchanged document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190211Z" creationid="olivier-tdf" creationdate="20250328T190211Z">
+        <seg>Se ambas as somas de verificação forem iguais, o programa abre o documento original inalterado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21074,6 +21106,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183604Z" creationid="olivier-tdf" creationdate="20250209T183604Z">
         <seg>Além disso, quanto maior a barra colorida, maior a força da senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, the program can display the public key information from the certificate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190220Z" creationid="olivier-tdf" creationdate="20250328T190220Z">
+        <seg>Além disso, o programa pode exibir as informações da chave pública do certificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35774,6 +35814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The checksum and public key are stored together with the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190127Z" creationid="olivier-tdf" creationdate="20250328T190127Z">
+        <seg>A soma de verificação e a chave pública são armazenadas juntamente com o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The clipboard, however, contains no information about the locale.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225600Z" creationid="olivier" creationdate="20250319T225600Z">
@@ -38366,6 +38414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This information can then be compared with the public key that is published on the web site of the certificate authority.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190235Z" creationid="olivier-tdf" creationdate="20250328T190235Z">
+        <seg>Essas informações podem então ser comparadas com a chave pública publicada no site da autoridade de certificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This information is often requested if the community is asked for help or assistance with the software (on macOS, this option is found under &lt;f1&gt;LibreOffice&lt;/f1&gt; on the Menu bar).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204425Z" creationid="olivier-tdf" creationdate="20250109T204425Z">
@@ -38394,6 +38450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222434Z" creationid="olivier" creationdate="20250324T222434Z">
         <seg>Esta é uma operação complexa, mas o resultado pode ser visto em vários visualizadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a sample method for digitally signing a document in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190322Z" creationid="olivier-tdf" creationdate="20250328T190322Z">
+        <seg>Este é um método de exemplo para assinar digitalmente um documento no LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43382,6 +43446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the document is opened on another computer with a recent version of LibreOffice, the program computes the checksum again and compares it with the stored checksum.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190201Z" creationid="olivier-tdf" creationdate="20250328T190201Z">
+        <seg>Quando abrir o documento em outro computador com uma versão recente do LibreOffice, o programa calcula a soma de verificação novamente e a compara com a soma de verificação armazenada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the mouse pointer lies over the grid of cells, the system default pointer is normally shown (typically an arrow pointer).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T120906Z" creationid="olivier-tdf" creationdate="20250117T120906Z">
@@ -43682,6 +43754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200913Z" creationid="olivier-tdf" creationdate="20250209T200913Z">
         <seg>Quando quiser removê-las, você pode remover cada intervalo individualmente, conforme descrito acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whenever a document is changed, this change breaks the digital signature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190253Z" creationid="olivier-tdf" creationdate="20250328T190253Z">
+        <seg>Sempre que um documento é alterado, esta alteração rompe a assinatura digital.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45146,6 +45226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T225457Z" creationid="olivier" creationdate="20250327T225457Z">
         <seg>Você terá que alterar as listas de marcadores e números que inserem um caractere de tabulação entre o marcador ou número e o texto - em vez disso, crie um estilo de lista em que o caractere de tabulação seja substituído por um espaço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your actual procedure depends on how your &lt;f0&gt;computer &lt;/f0&gt;is &lt;s1/&gt;set up and what operating system is being used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190357Z" creationid="olivier-tdf" creationdate="20250328T190357Z">
+        <seg>Seu procedimento depende de como seu &lt;f0&gt;computador &lt;/f0&gt;está &lt;s1/&gt;configurado e de qual sistema operacional está sendo usado.</seg>
       </tuv>
     </tu>
     <tu>
