@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2338,6 +2338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T210356Z" creationid="olivier-tdf" creationdate="20250109T213105Z">
         <seg>&lt;s0&gt;Caixa de diálogo Exibir das opções do LibreOffice&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Exibir das opções do LibreOffice&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Options LibreOffice Writer/Web dialog&lt;/s0&gt;&lt;s1&gt;Options LibreOffice Writer/Web dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182211Z" creationid="olivier-tdf" creationdate="20250328T182211Z">
+        <seg>&lt;s0&gt;Opções Caixa de diálogo LibreOffice Writer/Web&lt;/s0&gt;&lt;s1&gt; Opções Caixa de diálogo LibreOffice Writer/Web&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8350,6 +8358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on a tab in the dialog to access the available options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182245Z" creationid="olivier-tdf" creationdate="20250328T182245Z">
+        <seg>Clique em uma aba na caixa de diálogo para acessar as opções disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on a word or phrase in the submenu to have it replace the highlighted word or phrase in the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250210T220255Z" creationid="timot" creationdate="20250210T211841Z">
@@ -10650,6 +10666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T020252Z" creationid="olivier" creationdate="20250321T020252Z">
         <seg>Define as configurações padrão para espaçamento de caracteres em textos, células e objetos de desenho asiáticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defines the default settings for displaying objects in text documents and also the default settings for the window elements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182353Z" creationid="olivier-tdf" creationdate="20250328T182353Z">
+        <seg>Define as configurações padrão para exibir objetos em documentos de texto e também as configurações padrão para os elementos da janela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13414,6 +13438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Options LibreOffice Writer/Web dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182222Z" creationid="olivier-tdf" creationdate="20250328T182222Z">
+        <seg>Figura &lt;seq0&gt;13&lt;/seq0&gt;: Caixa de diálogo Opções do LibreOffice Writer/Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Options Load/Save dialog — VBA Properties page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T160703Z" creationid="olivier" creationdate="20250318T160703Z">
@@ -15854,6 +15886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on the options available for Writer/Web, go to the LibreOffice Help website.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182201Z" creationid="olivier-tdf" creationdate="20250328T182201Z">
+        <seg>Para obter mais informações sobre as opções disponíveis para o Writer/Web, acesse o site de Ajuda do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on using Find and Replace, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T153833Z" creationid="timot" creationdate="20250205T153833Z">
@@ -16226,6 +16266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T100956Z" creationid="timot" creationdate="20250217T100956Z">
         <seg>Barra de ferramentas Formatação (estilos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting Aids</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182500Z" creationid="olivier-tdf" creationdate="20250328T182500Z">
+        <seg>Recursos de formatação</seg>
       </tuv>
     </tu>
     <tu>
@@ -17450,6 +17498,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220008Z" creationid="olivier" creationdate="20250123T220008Z">
         <seg>Acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Listas de ordenação&lt;/f0&gt; para visualizar suas listas de ordenação definidas no momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer/Web&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice Writer/Web&lt;/f1&gt;) on the Menu bar to open the Options LibreOffice Writer/Web dialog (Figure &lt;t2&gt;13&lt;/t2&gt;), and then you can define the basic settings for LibreOffice documents in HTML format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182152Z" creationid="olivier-tdf" creationdate="20250328T182152Z">
+        <seg>Acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Writer/Web&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; LibreOffice Writer/Web&lt;/f1&gt;) na barra de menu para abrir a caixa de diálogo Opções LibreOffice Writer/Web (Figura &lt;t2&gt;13&lt;/t2&gt;) e, em seguida, você pode definir as configurações básicas para documentos do LibreOffice em formato HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27058,6 +27114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T210446Z" creationid="olivier-tdf" creationdate="20250109T213134Z">
         <seg>Caixa de diálogo Exibir das opções do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options LibreOffice Writer/Web dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182228Z" creationid="olivier-tdf" creationdate="20250328T182228Z">
+        <seg>Caixa de diálogo Opções do LibreOffice Writer/Web</seg>
       </tuv>
     </tu>
     <tu>
@@ -36698,6 +36762,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121442Z" creationid="olivier" creationdate="20250121T121442Z">
         <seg>A aba para a planilha selecionada muda de aparência – na configuração padrão do Calc, a cor de fundo da aba muda para branco, o texto na aba muda para negrito e uma linha colorida é desenhada ao longo da borda inferior da aba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tabbed pages are as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182256Z" creationid="olivier-tdf" creationdate="20250328T182256Z">
+        <seg>As páginas com abas são as seguintes:</seg>
       </tuv>
     </tu>
     <tu>
