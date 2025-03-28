@@ -6878,6 +6878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change Password</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193057Z" creationid="olivier-tdf" creationdate="20250328T193057Z">
+        <seg>Alterar senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change the alignment of the number if you wish (left, right, or center).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T192351Z" creationid="timot" creationdate="20250228T192351Z">
@@ -9966,6 +9974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Created</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193127Z" creationid="olivier-tdf" creationdate="20250328T193127Z">
+        <seg>Criado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creates a new document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134620Z" creationid="olivier-tdf" creationdate="20250303T134620Z">
@@ -11382,6 +11398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Digitally signed</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193222Z" creationid="olivier-tdf" creationdate="20250328T193222Z">
+        <seg>Assinado digitalmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Direct (or Manual) formatting</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T111854Z" creationid="timot" creationdate="20250215T111854Z">
@@ -11622,10 +11646,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displays the date, time and author when the file was first saved</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193138Z" creationid="olivier-tdf" creationdate="20250328T193138Z">
+        <seg>Exibe a data, a hora e o autor em que o arquivo foi salvo pela primeira vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the date, time and author when the file was last saved in a LibreOffice file format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193149Z" creationid="olivier-tdf" creationdate="20250328T193149Z">
+        <seg>Exibe a data, hora e autor quando o arquivo foi salvo pela última vez em um formato de arquivo LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the file name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193052Z" creationid="olivier-tdf" creationdate="20250328T193052Z">
+        <seg>Exibe o nome do arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the file type for the current document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193111Z" creationid="olivier-tdf" creationdate="20250328T193111Z">
+        <seg>Exibe o tipo de arquivo do documento atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the path and the name of the directory where the file is stored.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193120Z" creationid="olivier-tdf" creationdate="20250328T193120Z">
+        <seg>Exibe o caminho e o nome do diretório onde o arquivo está armazenado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Displays the selected folder to store the downloaded files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T005318Z" creationid="olivier" creationdate="20250318T005318Z">
         <seg>Exibe a pasta selecionada para armazenar os arquivos baixados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the size of the current document in bytes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193125Z" creationid="olivier-tdf" creationdate="20250328T193125Z">
+        <seg>Exibe o tamanho do documento atual em bytes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11650,6 +11722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000013Z" creationid="olivier-tdf" creationdate="20250219T000013Z">
         <seg>Exibe os estilos que foram ocultados no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the template that was used to create the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193157Z" creationid="olivier-tdf" creationdate="20250328T193157Z">
+        <seg>Exibe o modelo que foi usado para criar o arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24158,6 +24238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193114Z" creationid="olivier-tdf" creationdate="20250328T193114Z">
+        <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Location, Contact information, Reason</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201847Z" creationid="olivier" creationdate="20250325T201847Z">
@@ -25018,6 +25106,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T103853Z" creationid="timot" creationdate="20250113T103853Z">
         <seg>Modo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Modified</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193141Z" creationid="olivier-tdf" creationdate="20250328T193141Z">
+        <seg>Modificado</seg>
       </tuv>
     </tu>
     <tu>
@@ -27402,6 +27498,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212041Z" creationid="olivier-tdf" creationdate="20250116T212041Z">
         <seg>Abre uma caixa de diálogo a partir da qual é possível pesquisar listas de funções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens a dialog to change the password if a password has been set for the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193104Z" creationid="olivier-tdf" creationdate="20250328T193104Z">
+        <seg>Abre uma caixa de diálogo para alterar a senha se uma senha tiver sido definida para o arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35158,6 +35262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Template</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193151Z" creationid="olivier-tdf" creationdate="20250328T193151Z">
+        <seg>Modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Templates</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250109T000849Z" creationid="olivier" creationdate="20250109T000849Z">
@@ -41594,6 +41706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150426Z" creationid="olivier" creationdate="20250223T150426Z">
         <seg>Dupla face</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193106Z" creationid="olivier-tdf" creationdate="20250328T193106Z">
+        <seg>Tipo</seg>
       </tuv>
     </tu>
     <tu>
