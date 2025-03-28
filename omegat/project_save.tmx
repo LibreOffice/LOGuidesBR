@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; — automatic redaction looks for all occurrences of the specified text and marks them for redaction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222248Z" creationid="olivier-tdf" creationdate="20250328T222248Z">
+        <seg>&lt;f0&gt;Texto&lt;/f0&gt; — A censura automática procura por todas as ocorrências para o texto especificado e marca-os para censura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;The Color&lt;/f0&gt; page in the Area dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T085413Z" creationid="olivier" creationdate="20250308T085413Z">
@@ -1706,6 +1714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T171833Z" creationid="olivier-tdf" creationdate="20250209T171833Z">
         <seg>&lt;s0&gt;Uma paleta de cores de tema&lt;/s0&gt;&lt;s1&gt; Uma paleta de cores de tema&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Add Target dialog&lt;/s0&gt;&lt;s1&gt;Add Target dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222122Z" creationid="olivier-tdf" creationdate="20250328T222122Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Adicionar alvo&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Adicionar alvo&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4018,6 +4034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T213810Z" creationid="timot" creationdate="20250210T213810Z">
         <seg>Acrescente um espaço automaticamente após uma palavra aceita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Target dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222141Z" creationid="olivier-tdf" creationdate="20250328T222141Z">
+        <seg>Caixa de diálogo Adicionar alvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8314,6 +8338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T135923Z" creationid="tulio" creationdate="20250211T135923Z">
         <seg>Clique na barra de título da barra de ferramentas e arraste a barra de ferramentas para uma nova posição flutuante na janela principal e solte a barra de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Add Target&lt;/f0&gt; to open the Add Target dialog (Figure &lt;t1&gt;26&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222006Z" creationid="olivier-tdf" creationdate="20250328T222006Z">
+        <seg>Clique em &lt;f0&gt;Adicionar alvo&lt;/f0&gt; para abrir a caixa de diálogo correspondente (Figura &lt;t1&gt;26&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13326,6 +13358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter a target name in the &lt;f0&gt;Name&lt;/f0&gt; text box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222035Z" creationid="olivier-tdf" creationdate="20250328T222035Z">
+        <seg>Digite o nome do alvo na caixa de texto &lt;f0&gt;Nome&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter a title for the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194445Z" creationid="olivier-tdf" creationdate="20250328T194445Z">
@@ -14890,6 +14930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231253Z" creationid="olivier-tdf" creationdate="20250122T231253Z">
         <seg>Figura &lt;seq0&gt;25&lt;/seq0&gt;: Definir zeros à esquerda na barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Add Target dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222130Z" creationid="olivier-tdf" creationdate="20250328T222130Z">
+        <seg>Figura &lt;seq0&gt;26&lt;/seq0&gt;: Caixa de diálogo Adicionar alvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -32914,6 +32962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011135Z" creationid="olivier" creationdate="20250321T011135Z">
         <seg>Selecione uma correção sugerida para substituir a palavra suspeita pela sugestão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a target type from the available options in the &lt;f0&gt;Type&lt;/f0&gt; drop‑down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222050Z" creationid="olivier-tdf" creationdate="20250328T222050Z">
+        <seg>Selecione um tipo de alvo nas opções disponíveis na lista suspensa &lt;f0&gt;Tipo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
