@@ -630,10 +630,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Email as Microsoft Word&lt;/f0&gt; — LibreOffice creates a file in Microsoft Word format, opens the default email program, and the document is attached to the email message.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184051Z" creationid="olivier-tdf" creationdate="20250328T184051Z">
+        <seg>&lt;f0&gt;Por e-mail como Microsoft Word&lt;/f0&gt; — O LibreOffice cria um arquivo no formato Microsoft Word, abre o programa de e-mail padrão e o documento é anexado à mensagem de e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Email as OpenDocument text&lt;/f0&gt; — The default email program is opened and the document is attached to the email message.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184022Z" creationid="olivier-tdf" creationdate="20250328T184022Z">
         <seg>&lt;f0&gt;Por e-mail como documento de texto OpenDocument&lt;/f0&gt; — O programa de e-mail padrão é aberto e o documento é anexado à mensagem de e-mail no formato OpenDocument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Email as PDF&lt;/f0&gt; — First, the PDF Options dialog opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184114Z" creationid="olivier-tdf" creationdate="20250328T184114Z">
+        <seg>&lt;f0&gt;por e-mail como PDF&lt;/f0&gt; — Primeiro, abre a caixa de diálogo Opções de PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12638,6 +12654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter the recipient name, subject, and message, then send the email.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184136Z" creationid="olivier-tdf" creationdate="20250328T184136Z">
+        <seg>Insira o nome do destinatário, o assunto e a mensagem e envie o e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter the smallest font size to apply anti-aliasing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165236Z" creationid="olivier" creationdate="20250312T165236Z">
@@ -14590,6 +14614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Files on remote servers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184201Z" creationid="olivier-tdf" creationdate="20250328T184201Z">
+        <seg>Arquivos em servidores remotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fill Series dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215638Z" creationid="olivier" creationdate="20250123T215638Z">
@@ -15522,6 +15554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214330Z" creationid="olivier-tdf" creationdate="20250116T214330Z">
         <seg>Por exemplo, com um gráfico selecionado, o deque Propriedades contém os painéis Linha, Posição e Tamanho, Área e Sombra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, working on a document in the office during the day and edit the same document at home for last-minute changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184225Z" creationid="olivier-tdf" creationdate="20250328T184225Z">
+        <seg>Por exemplo, trabalhar em um documento no escritório durante o dia e editar o mesmo documento em casa para alterações de última hora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22518,6 +22558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keeping files on remote servers allows access to documents using different computers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184215Z" creationid="olivier-tdf" creationdate="20250328T184215Z">
+        <seg>Manter arquivos em servidores remotos permite o acesso a documentos usando computadores diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Kees Kriek</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215705Z" creationid="timot" creationdate="20250110T215705Z">
@@ -22926,6 +22974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice can open and save files stored on remote servers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184207Z" creationid="olivier-tdf" creationdate="20250328T184207Z">
+        <seg>O LibreOffice pode abrir e salvar arquivos armazenados em servidores remotos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice can print an entire open document using the computer’s default printer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183531Z" creationid="olivier" creationdate="20250222T183531Z">
@@ -23258,6 +23314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T212918Z" creationid="olivier" creationdate="20250324T212918Z">
         <seg>O LibreOffice usa o termo "exportação" para operações de arquivo onde há uma mudança de tipo de arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice will open the default email program with the PDF file attached to the email message.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184129Z" creationid="olivier-tdf" creationdate="20250328T184129Z">
+        <seg>O LibreOffice abrirá o programa de e-mail padrão com o arquivo PDF anexado à mensagem de e-mail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25346,6 +25410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T211205Z" creationid="timot" creationdate="20250210T211205Z">
         <seg>Em seguida, poderá ser a correção sugerida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next, select the required settings required and click OK.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184121Z" creationid="olivier-tdf" creationdate="20250328T184121Z">
+        <seg>Em seguida, selecione as configurações necessárias e clique em OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35374,6 +35446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The above procedure is for sending text documents as an attachment to an email.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184144Z" creationid="olivier-tdf" creationdate="20250328T184144Z">
+        <seg>O procedimento acima é para enviar documentos de texto como anexo a um e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The active cell is always indicated by highlighting its corresponding column and row header cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121010Z" creationid="olivier-tdf" creationdate="20250117T121010Z">
@@ -42970,6 +43050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T143214Z" creationid="tulio" creationdate="20250119T143214Z">
         <seg>Ao selecionar um dos menus na barra de menus, um submenu específico será exibido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When sending spreadsheets, presentations, or drawings, the email options change to reflect the type of document being attached to an email message.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184156Z" creationid="olivier-tdf" creationdate="20250328T184156Z">
+        <seg>Ao enviar planilhas, apresentações ou desenhos, as opções de e-mail mudam para refletir o tipo de documento que está sendo anexado a uma mensagem de e-mail.</seg>
       </tuv>
     </tu>
     <tu>
