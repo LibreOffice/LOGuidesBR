@@ -3630,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A signed document displays a &lt;f0&gt;Digital Signature&lt;/f0&gt; icon in the Status Bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191221Z" creationid="olivier-tdf" creationdate="20250328T191221Z">
+        <seg>Um documento assinado exibe um ícone de &lt;f0&gt;Assinatura digital&lt;/f0&gt; na barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A small Go to Page dialog pops up.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200610Z" creationid="timot" creationdate="20250111T200610Z">
@@ -6910,6 +6918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing an existing description invalidates a digital signature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191257Z" creationid="olivier-tdf" creationdate="20250328T191257Z">
+        <seg>Alterar uma descrição existente invalida uma assinatura digital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing colors can make using LibreOffice easier, for example when writing, editing, creating page layouts and page margins, inserting page breaks or graphics, and so on.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T122511Z" creationid="olivier" creationdate="20250314T122511Z">
@@ -8062,6 +8078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Close&lt;/f0&gt; to apply the selected digital signature to the document and close the Digital Signatures dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191137Z" creationid="olivier-tdf" creationdate="20250328T191137Z">
+        <seg>Clique em &lt;f0&gt;Fechar&lt;/f0&gt; para aplicar a assinatura digital selecionada ao documento e fechar a caixa de diálogo Assinaturas digitais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Close&lt;/f0&gt; to close the Extensions Dictionary dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012902Z" creationid="olivier" creationdate="20250321T012902Z">
@@ -8450,6 +8474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135013Z" creationid="olivier" creationdate="20250217T135013Z">
         <seg>Clique em &lt;f0&gt;Configurações da barra lateral&lt;/f0&gt; no canto superior direito da Barra Lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Sign&lt;/f0&gt; to apply the digital signature to the document and close the Select Certificate dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191057Z" creationid="olivier-tdf" creationdate="20250328T191057Z">
+        <seg>Clique em &lt;f0&gt;Assinar&lt;/f0&gt; para aplicar a assinatura digital ao documento e feche a caixa de diálogo Selecionar certificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11746,6 +11778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003808Z" creationid="olivier" creationdate="20250303T003808Z">
         <seg>Clique duas vezes numa palavra com o cursor para selecioná-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double‑click on this &lt;f1&gt;Digital Signature &lt;/f1&gt;icon to view the certificate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191233Z" creationid="olivier-tdf" creationdate="20250328T191233Z">
+        <seg>Clique duas vezes neste ícone de &lt;f1&gt;Assinatura Digital &lt;/f1&gt;para visualizar o certificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17478,6 +17518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Save&lt;/f0&gt; on the Menu bar to save the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191153Z" creationid="olivier-tdf" creationdate="20250328T191153Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Salvar&lt;/f0&gt; na barra de menu para salvar o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;File &gt; Save&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231114Z" creationid="olivier" creationdate="20250220T231114Z">
@@ -18698,6 +18746,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211635Z" creationid="olivier-tdf" creationdate="20250116T211635Z">
         <seg>No entanto, ela pode ser oculta ou tornada visível acessando &lt;f1&gt;Exibir &gt; Barra de fórmulas&lt;/f1&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, multiple digital signatures from the same author are allowed, because each digital signature can have a different description.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191309Z" creationid="olivier-tdf" creationdate="20250328T191309Z">
+        <seg>No entanto, são permitidas várias assinaturas digitais do mesmo autor, porque cada assinatura digital pode ter uma descrição diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21498,6 +21554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011748Z" creationid="olivier" creationdate="20250124T011748Z">
         <seg>Na caixa de diálogo Excluir conteúdo (Figura &lt;t0&gt;32&lt;/t0&gt;), escolha qualquer uma das opções ou &lt;f1&gt;Excluir tudo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the Digital Signatures dialog, select the required digital signature from the signature list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191113Z" creationid="olivier-tdf" creationdate="20250328T191113Z">
+        <seg>Na caixa de diálogo Assinaturas digitais, selecione a assinatura digital necessária na lista de assinaturas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24890,6 +24954,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222701Z" creationid="olivier" creationdate="20250324T222701Z">
         <seg>Mais informações podem ser encontradas na &lt;f0&gt;especificação PDF, ISO 32000-2:2017&lt;/f0&gt; (&lt;a1&gt;https://www.iso.org/standard/63534.html&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More than one digital signature can be added to a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191247Z" creationid="olivier-tdf" creationdate="20250328T191247Z">
+        <seg>Mais de uma assinatura digital pode ser adicionada a um documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31998,6 +32070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the required digital signature in the Select Certificate dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191043Z" creationid="olivier-tdf" creationdate="20250328T191043Z">
+        <seg>Selecione a assinatura digital necessária na caixa de diálogo Selecionar certificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the required direction of movement in the adjacent drop-down menu (&lt;f2&gt;Down&lt;/f2&gt;, &lt;f3&gt;Right&lt;/f3&gt;, &lt;f4&gt;Up&lt;/f4&gt;, or &lt;f5&gt;Left&lt;/f5&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135516Z" creationid="olivier-tdf" creationdate="20250120T135516Z">
@@ -33234,6 +33314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215756Z" creationid="olivier" creationdate="20250324T215756Z">
         <seg>Assinar com marca d'água</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Signature line</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191315Z" creationid="olivier-tdf" creationdate="20250328T191315Z">
+        <seg>Linha de assinatura</seg>
       </tuv>
     </tu>
     <tu>
