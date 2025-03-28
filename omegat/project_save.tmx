@@ -9646,6 +9646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contains optional editable descriptive information about the document, which may be exported as metadata to other file formats.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194440Z" creationid="olivier-tdf" creationdate="20250328T194440Z">
+        <seg>Contém informações descritivas editáveis opcionais sobre o documento, que podem ser exportadas como metadados para outros formatos de arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Content can be copied to the clipboard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200925Z" creationid="olivier" creationdate="20250325T200925Z">
@@ -28998,6 +29006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Preferred resolution for images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194245Z" creationid="olivier-tdf" creationdate="20250328T194245Z">
+        <seg>Resolução preferencial para imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Presentation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130912Z" creationid="olivier-tdf" creationdate="20250218T130912Z">
@@ -30174,6 +30190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194417Z" creationid="olivier-tdf" creationdate="20250328T194417Z">
+        <seg>Redefinir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reset Properties</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194131Z" creationid="olivier-tdf" creationdate="20250328T194131Z">
@@ -30218,6 +30242,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233358Z" creationid="olivier-tdf" creationdate="20250224T233358Z">
         <seg>Redefinir para as configurações de fábrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resets any changes made to the document and is available for all tabbed pages in the Properties dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194430Z" creationid="olivier-tdf" creationdate="20250328T194430Z">
+        <seg>Redefine quaisquer alterações feitas no documento e está disponível para todas as páginas com guias na caixa de diálogo Propriedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resets the editing time to zero, the creation date to the current date and time, and the version number to 1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194148Z" creationid="olivier-tdf" creationdate="20250328T194148Z">
+        <seg>Redefine a hora de edição para zero, a data de criação para a data e hora atuais e o número da versão para 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30710,6 +30750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save preview image with this document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194211Z" creationid="olivier-tdf" creationdate="20250328T194211Z">
+        <seg>Salvar figura de visualização com este documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save the document &lt;f0&gt;and&lt;/f0&gt; fix the signature box into the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T192707Z" creationid="olivier-tdf" creationdate="20250328T192707Z">
@@ -30738,6 +30786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212947Z" creationid="olivier-tdf" creationdate="20250116T212947Z">
         <seg>Alterações salvas ou não salvas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saves a thumbnail preview in PNG format inside the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194227Z" creationid="olivier-tdf" creationdate="20250328T194227Z">
+        <seg>Salva uma miniatura de visualização em formato PNG dentro do documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32698,6 +32754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250310T223249Z" creationid="olivier" creationdate="20250310T223249Z">
         <seg>Selecione o modo de visibilidade (&lt;f0&gt;Automático, Ocultar, Mostrar&lt;/f0&gt;) para ocultar ou mostrar ícones, bem como texto na barra de menu e em itens de atalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option and enter a value in Points Per Inch (ppi) for the preferred image resolution.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194334Z" creationid="olivier-tdf" creationdate="20250328T194334Z">
+        <seg>Selecione esta opção e insira um valor em pontos por polegada (ppi) para a resolução de imagem preferida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37214,6 +37278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The modification and printing dates are also deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194154Z" creationid="olivier-tdf" creationdate="20250328T194154Z">
+        <seg>As datas de modificação e impressão também são excluídas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most common are:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T110407Z" creationid="timot" creationdate="20250215T110407Z">
@@ -38998,6 +39070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This image may be used by a file manager under certain conditions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194241Z" creationid="olivier-tdf" creationdate="20250328T194241Z">
+        <seg>Esta imagem pode ser utilizada por um gerenciador de arquivos sob certas condições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This includes applying existing styles, modifying them, or creating new ones.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T111952Z" creationid="timot" creationdate="20250114T111952Z">
@@ -39146,6 +39226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T024705Z" creationid="olivier" creationdate="20250321T024705Z">
         <seg>Este é o padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is used as default when an image is inserted into a Writer, Impress, or Draw document and resize images according to the value in the list box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194406Z" creationid="olivier-tdf" creationdate="20250328T194406Z">
+        <seg>Isso é usado como padrão quando uma imagem for inserida em um documento do Writer, Impress ou Draw e redimensiona as imagens de acordo com o valor na caixa de listagem.</seg>
       </tuv>
     </tu>
     <tu>
