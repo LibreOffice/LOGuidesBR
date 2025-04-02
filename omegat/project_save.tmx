@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2056,8 +2056,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of Navigator deck in Writer Sidebar&lt;/s0&gt;&lt;s1&gt;Example of Navigator deck in Writer Sidebar&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T170015Z" creationid="olivier" creationdate="20250222T170015Z">
-        <seg>&lt;s0&gt;Exemplo de deque do Navegador na Barra Lateral do Writer&lt;/s0&gt;&lt;s1&gt;Exemplo de deque do Navegador na Barra Lateral do Writer&lt;/s1&gt;</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="olivier" creationdate="20250222T170015Z">
+        <seg>&lt;s0&gt;Exemplo de deque do Navegador na Barra lateral do Writer&lt;/s0&gt;&lt;s1&gt;Exemplo de deque do Navegador na Barra lateral do Writer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,6 +2362,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155633Z" creationid="olivier" creationdate="20250121T155633Z">
         <seg>&lt;s0&gt;Caixa de diálogo Mover/Copiar planilha &lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Mover/Copiar planilha&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Moving the margins&lt;/s0&gt;&lt;s1&gt;Moving the margins&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210355Z" creationid="timot" creationdate="20250402T210355Z">
+        <seg>&lt;s0&gt;Mover as margens&lt;/s0&gt;&lt;s1&gt;Mover as margens&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4258,6 +4266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T220655Z" creationid="olivier" creationdate="20250307T220655Z">
         <seg>Adicionar um caractere como atalho de teclado a um comando de menu é como segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding a custom watermark to the page background</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T211657Z" creationid="timot" creationdate="20250402T211657Z">
+        <seg>Adicionar uma marca d 'água personalizada ao plano de fundo da página</seg>
       </tuv>
     </tu>
     <tu>
@@ -6286,6 +6302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because the triangles and arrows are often in the same place, when changing page margins you need to be careful to move the arrows, not the gray triangles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210339Z" creationid="timot" creationdate="20250402T210339Z">
+        <seg>Porque os triângulos e as setas geralmente estão no mesmo lugar, ao alterar as margens da página, é preciso ter cuidado para mover as setas e não os triângulos cinza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before writing a new question on the Ask website, search for the same content as your question may have already been asked &lt;f1&gt;and answered&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T210225Z" creationid="olivier-tdf" creationdate="20250109T195908Z">
@@ -7358,6 +7382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing page margins</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205913Z" creationid="timot" creationdate="20250402T205913Z">
+        <seg>Alterar margens da página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing passwords</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T230713Z" creationid="olivier-tdf" creationdate="20250328T230713Z">
@@ -7782,6 +7814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Format &gt; Watermark&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T220242Z" creationid="timot" creationdate="20250402T220242Z">
+        <seg>Escolha &lt;f0&gt;Formatar &gt; Marca d 'água&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose &lt;f0&gt;Insert &gt; Field &gt; Title&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T185449Z" creationid="timot" creationdate="20250228T185449Z">
@@ -7882,6 +7922,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T102900Z" creationid="timot" creationdate="20250206T102547Z">
         <seg>Escolha se deseja verificar palavras maiúsculas ou palavras que contenham números, clicando no botão &lt;f0&gt;Opções&lt;/f0&gt; na caixa de diálogo Ortografia para abrir uma caixa de diálogo semelhante à de &lt;f1&gt;Ferramentas &gt; Opções &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Idiomas e localidades&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Recursos para redação&lt;/f4&gt;, descrita no Capítulo 12, Configurar o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choosing a page background</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T211424Z" creationid="timot" creationdate="20250402T211424Z">
+        <seg>Escolher um plano de fundo da página</seg>
       </tuv>
     </tu>
     <tu>
@@ -9384,8 +9432,8 @@
       <tuv lang="en-US">
         <seg>Click on the triangle ▼ next to &lt;f0&gt;Fill Color&lt;/f0&gt; in the Area panel of the Properties deck on the Sidebar and select &lt;f1&gt;Custom Color&lt;/f1&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250308T165003Z" creationid="olivier" creationdate="20250308T165003Z">
-        <seg>Clique no triângulo ao ▼ lado de &lt;f0&gt;Cor de preenchimento&lt;/f0&gt; no painel Área do deque de Propriedades na Barra Lateral e selecione &lt;f1&gt;Cor personalizada&lt;/f1&gt; no menu de contexto.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="olivier" creationdate="20250308T165003Z">
+        <seg>Clique no triângulo ao ▼ lado de &lt;f0&gt;Cor de preenchimento&lt;/f0&gt; no painel Área do deque de Propriedades na Barra lateral e selecione &lt;f1&gt;Cor personalizada&lt;/f1&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9530,6 +9578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T103217Z" creationid="timot" creationdate="20250204T103217Z">
         <seg>Clique nos botões (setas) &lt;f1&gt;Localizar o próximo&lt;/f1&gt; ou &lt;f2&gt;Localizar o anterior&lt;/f2&gt;, conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f2&gt;More Options&lt;/f2&gt; button to open the Page Style dialog where you can enter exact margin distances.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T211311Z" creationid="timot" creationdate="20250402T211311Z">
+        <seg>Clique no botão &lt;f2&gt;Mais opções&lt;/f2&gt; para abrir a caixa de diálogo Estilo de página, para a opção de inserir distâncias de margem exatas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14032,8 +14088,8 @@
       <tuv lang="en-US">
         <seg>Example of Navigator deck in Writer Sidebar</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T170043Z" creationid="olivier" creationdate="20250222T170043Z">
-        <seg>Exemplo de deque do Navegador na Barra Lateral do Writer</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="olivier" creationdate="20250222T170043Z">
+        <seg>Exemplo de deque do Navegador na Barra lateral do Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -15270,6 +15326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Moving the margins</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210403Z" creationid="timot" creationdate="20250402T210403Z">
+        <seg>Figura &lt;seq0&gt;28&lt;/seq0&gt;: Mover as margens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Sort Lists dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T221218Z" creationid="olivier" creationdate="20250123T221218Z">
@@ -15704,8 +15768,8 @@
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Example of Navigator deck in Writer Sidebar</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T170049Z" creationid="olivier" creationdate="20250222T170031Z">
-        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Exemplo de deque do Navegador na Barra Lateral do Writer</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="olivier" creationdate="20250222T170031Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Exemplo de deque do Navegador na Barra lateral do Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -16728,8 +16792,8 @@
       <tuv lang="en-US">
         <seg>For example, select a word, then click on a tool on the Formatting toolbar, the Sidebar, or use a keyboard shortcut to format the text as bold or italic.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130138Z" creationid="olivier-tdf" creationdate="20250218T130138Z">
-        <seg>Por exemplo, selecione uma palavra e clique em uma ferramenta na barra de ferramentas Formatação, na Barra Lateral ou use um atalho de teclado para formatar o texto em negrito ou itálico.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="olivier-tdf" creationdate="20250218T130138Z">
+        <seg>Por exemplo, selecione uma palavra e clique em uma ferramenta na barra de ferramentas Formatação, na Barra lateral ou use um atalho de teclado para formatar o texto em negrito ou itálico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16850,6 +16914,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T141012Z" creationid="olivier-tdf" creationdate="20250303T141012Z">
         <seg>Por exemplo, para inserir o sinal de direitos autorais no texto, digite &lt;f3&gt;U +00A9&lt;/f3&gt; seguido imediatamente por &lt;f4&gt;Ctrl+Alt+X&lt;/f4&gt; (macOS&lt;f5&gt;⌘+⌥ +X&lt;/f5&gt;) e o sinal de direitos autorais © aparece na posição do cursor no texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, to number the lines of example code in a document, you will probably want to use a font or indentation that is different from normal text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205907Z" creationid="timot" creationdate="20250402T205907Z">
+        <seg>Por exemplo, para numerar linhas de código de exemplo em um documento, é possível usar uma fonte ou recuo diferente do texto normal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17058,6 +17130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125110Z" creationid="olivier-tdf" creationdate="20250114T125110Z">
         <seg>Para muitas funções, o Calc segue o padrão &lt;f0&gt;OpenFormula&lt;/f0&gt; definido na parte &lt;f1&gt;Formato de Fórmula Recalculada (OpenFormula)&lt;/f1&gt; do padrão &lt;f2&gt;Open Document Format for Office Applications &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;(OpenDocument)&lt;/f4&gt;, que pode ser acessado no site da OASIS (&lt;a5&gt;https://www.oasis-open.org/&lt;/a5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more about backgrounds, see the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T211649Z" creationid="timot" creationdate="20250402T211649Z">
+        <seg>Para saber mais sobre planos de fundo, consulte o &lt;f2&gt;Guia do Writer&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19854,6 +19934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hold down the left mouse button and drag the mouse to move the margin.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210231Z" creationid="timot" creationdate="20250402T210231Z">
+        <seg>Mantenha pressionado o botão esquerdo do mouse e arraste o mouse para mover a margem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Home</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T235057Z" creationid="olivier" creationdate="20250302T235057Z">
@@ -21782,6 +21870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you require different margins, you need to use the Page Style dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T211415Z" creationid="timot" creationdate="20250402T211415Z">
+        <seg>Se diferentes margens forem necessitados, é necessário usar a caixa de diálogo Estilo de página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you restart page numbering anywhere in the document, then the total page count may not be what you want.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T192723Z" creationid="timot" creationdate="20250228T192723Z">
@@ -22616,8 +22712,8 @@
       <tuv lang="en-US">
         <seg>In addition, many documents have the “front matter” (such as the table of contents) numbered with Roman numerals and the main body of the document numbered in Arabic numerals, starting with 1.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250326T222858Z" creationid="timot" creationdate="20250228T225358Z">
-        <seg>Além disso, muitos documentos têm a “capa” (como o sumário) numerada com algarismos romanos e o corpo principal do documento numerado em algarismos arábicos, começando com 1.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205247Z" creationid="timot" creationdate="20250228T225358Z">
+        <seg>Além disso, muitos documentos têm os “elementos pré-textuais” (como capa, sumário, dedicatória, epígrafe, agradecimentos, etc) numerada com algarismos romanos e o corpo principal do documento numerado em algarismos arábicos, começando com 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24056,8 +24152,8 @@
       <tuv lang="en-US">
         <seg>It is similar to the Sidebar in Writer (shown in Chapter 1 and Chapter 2 of this book) and consists of five decks: &lt;f2&gt;Properties&lt;/f2&gt;, &lt;f3&gt;Styles&lt;/f3&gt;, &lt;f4&gt;Gallery&lt;/f4&gt;, &lt;f5&gt;Navigator&lt;/f5&gt;, and &lt;f6&gt;Functions&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213431Z" creationid="olivier-tdf" creationdate="20250116T213431Z">
-        <seg>É semelhante à Barra Lateral no Writer (mostrada no Capítulo 1 e Capítulo 2 deste livro) e consiste em cinco deques: &lt;f2&gt;Propriedades&lt;/f2&gt;, &lt;f3&gt;Estilos&lt;/f3&gt;, &lt;f4&gt;Galeria&lt;/f4&gt;, &lt;f5&gt;Navegador&lt;/f5&gt; e &lt;f6&gt;Funções&lt;/f6&gt;.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="olivier-tdf" creationdate="20250116T213431Z">
+        <seg>É semelhante à Barra lateral no Writer (mostrada no Capítulo 1 e Capítulo 2 deste livro) e consiste em cinco deques: &lt;f2&gt;Propriedades&lt;/f2&gt;, &lt;f3&gt;Estilos&lt;/f3&gt;, &lt;f4&gt;Galeria&lt;/f4&gt;, &lt;f5&gt;Navegador&lt;/f5&gt; e &lt;f6&gt;Funções&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25266,6 +25362,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T101743Z" creationid="timot" creationdate="20250217T101743Z">
         <seg>Espaçamento entre linhas (escolha entre 1, 1,15, 1,5, 2 ou espaçamento personalizado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Line numbering</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205539Z" creationid="timot" creationdate="20250402T205539Z">
+        <seg>Numeração de linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Line numbers are included when you print the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205630Z" creationid="timot" creationdate="20250402T205630Z">
+        <seg>Os números de linha são incluídos quando o documento é impresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Line numbers in the margin are often used in legal documents, poetry, and lists of programming code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205553Z" creationid="timot" creationdate="20250402T205553Z">
+        <seg>Os números de linha na margem são frequentemente usados em documentos legais, poesia e listas de código de programação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26990,6 +27110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moving the margins</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210413Z" creationid="timot" creationdate="20250402T210413Z">
+        <seg>Mover as margens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving the mouse’s arrow over one of these commands opens another submenu that contains additional commands, for example &lt;f1&gt;View &gt; Rulers &gt; Rulers&lt;/f1&gt;, or &lt;f2&gt;Vertical Ruler&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144846Z" creationid="tulio" creationdate="20250119T144846Z">
@@ -27304,8 +27432,8 @@
       <tuv lang="en-US">
         <seg>Navigator deck on the Sidebar: click on the Navigator icon on the right of the Sidebar, or use the keyboard shortcut &lt;f0&gt;Alt+Ctrl+4&lt;/f0&gt; for Windows and Linux, or ⌥+⌘&lt;f1&gt;+4&lt;/f1&gt; for macOS.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250222T165425Z" creationid="olivier" creationdate="20250222T165425Z">
-        <seg>Deque do Navegador na Barra Lateral: clique no ícone Navegador à direita da Barra Lateral ou use o atalho de teclado &lt;f0&gt;Alt+Ctrl+4&lt;/f0&gt; para Windows e Linux, ou &lt;f1&gt;⌥+⌘ + 4&lt;/f1&gt; para macOS.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="olivier" creationdate="20250222T165425Z">
+        <seg>Deque do Navegador na Barra Lateral: clique no ícone Navegador à direita da Barra lateral ou use o atalho de teclado &lt;f0&gt;Alt+Ctrl+4&lt;/f0&gt; para Windows e Linux, ou &lt;f1&gt;⌥+⌘ + 4&lt;/f1&gt; para macOS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27990,10 +28118,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;Area&lt;/f0&gt; tab of the Page Style dialog, choose a background type (color, gradient, bitmap, pattern, or hatch).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T211526Z" creationid="timot" creationdate="20250402T211526Z">
+        <seg>Na aba &lt;f0&gt;Área&lt;/f0&gt; da caixa de diálogo Estilo de página, escolha um tipo de plano de fundo (cor, gradiente, bitmap, padrão ou hachura).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;Format&lt;/f0&gt; panel, use the &lt;f1&gt;Margins&lt;/f1&gt; drop-down list to select the desired margins from the defaults provided.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T211049Z" creationid="timot" creationdate="20250402T211049Z">
+        <seg>No painel &lt;f0&gt;Formato&lt;/f0&gt;, use a lista suspensa &lt;f1&gt;Margens&lt;/f1&gt; para selecionar as margens desejadas a partir dos padrões fornecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab of the PDF Options dialog (Figure &lt;t1&gt;11&lt;/t1&gt;), select the option &lt;f2&gt;Whole sheet export&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T221513Z" creationid="olivier-tdf" creationdate="20250117T221513Z">
         <seg>Na guia &lt;f0&gt;Geral&lt;/f0&gt; da caixa de diálogo Opções de PDF (Figura &lt;t1&gt;11&lt;/t1&gt;), selecione a opção &lt;f2&gt;Exportação de planilha inteira&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;Page&lt;/f0&gt; tab of the dialog, type the required distances in the boxes in the &lt;f1&gt;Margins&lt;/f1&gt; area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210622Z" creationid="timot" creationdate="20250402T210622Z">
+        <seg>Na guia &lt;f0&gt;Página&lt;/f0&gt; da caixa de diálogo, digite as distâncias necessárias nas caixas na área &lt;f1&gt;Margens&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28006,10 +28158,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;Text Flow&lt;/f0&gt; tab of the Paragraph dialog (Figure &lt;t1&gt;23&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;28&lt;/t3&gt;), select &lt;f4&gt;Insert&lt;/f4&gt; in the &lt;f5&gt;Breaks&lt;/f5&gt; area, and then select &lt;f6&gt;With page style&lt;/f6&gt; and specify the page style to use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205511Z" creationid="timot" creationdate="20250402T205511Z">
+        <seg>Na aba &lt;f0&gt;Fluxo de texto&lt;/f0&gt; da caixa de diálogo Parágrafo (Figura &lt;t1&gt;23&lt;/t1&gt;&lt;s2/&gt; na página &lt;t3&gt;28&lt;/t3&gt;), selecione &lt;f4&gt;Inserir&lt;/f4&gt; na área &lt;f5&gt;Quebras&lt;/f5&gt; e, em seguida, selecione &lt;f6&gt;Com estilo de página&lt;/f6&gt; e especifique o estilo de página a ser usado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the &lt;f1&gt;Description&lt;/f1&gt; tab,&lt;f2&gt; &lt;/f2&gt;type a title for your document, and click the &lt;f3&gt;OK&lt;/f3&gt; button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T185411Z" creationid="timot" creationdate="20250228T185411Z">
         <seg>Na guia &lt;f1&gt;Descrição&lt;/f1&gt;,&lt;f2&gt; &lt;/f2&gt;digite um título para o documento e clique no botão &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the &lt;f1&gt;Page&lt;/f1&gt; tab of the dialog, you can choose whether the background covers only the text area (the area inside the margins) or the entire page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T211624Z" creationid="timot" creationdate="20250402T211531Z">
+        <seg>Na aba &lt;f1&gt;Página&lt;/f1&gt; da caixa de diálogo, escolha se quiser que o plano de fundo cubra apenas a área de texto (a área dentro das margens) ou a página inteira.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28234,6 +28402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231034Z" creationid="olivier-tdf" creationdate="20250122T231034Z">
         <seg>Na barra lateral, abra o deque Propriedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the Sidebar, open the Page deck.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T211138Z" creationid="timot" creationdate="20250402T210910Z">
+        <seg>Na Barra lateral, abra o deque Páginas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31198,6 +31374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Put the mouse pointer over the line between the gray and white sections.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210209Z" creationid="timot" creationdate="20250402T210209Z">
+        <seg>Posicione o ponteiro do mouse sobre a linha entre as seções cinza e branca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quality</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150157Z" creationid="olivier" creationdate="20250223T150157Z">
@@ -32114,6 +32298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135214Z" creationid="olivier-tdf" creationdate="20250120T135214Z">
         <seg>Clicar com o botão direito do mouse em qualquer botão de seta ativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click anywhere in the text area on the page and select &lt;f0&gt;Page Style&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210604Z" creationid="timot" creationdate="20250402T210604Z">
+        <seg>Clique com o botão direito do mouse em qualquer lugar na área de texto da página e selecione &lt;f0&gt;Estilo de página&lt;/f0&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36494,6 +36686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specify the page number to start from, and then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205517Z" creationid="timot" creationdate="20250402T205517Z">
+        <seg>Especifique o número da página para começar e clique em &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specify the values in &lt;f0&gt;New&lt;/f0&gt; for Red (R), Green (G), and Blue (B) on a 0 to 255 scale, or enter the Hex # number for the custom color, if known.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T205259Z" creationid="olivier" creationdate="20250308T090342Z">
@@ -37936,8 +38136,8 @@
       <tuv lang="en-US">
         <seg>The Navigator is available as a dialog or Sidebar deck, and it lists all objects contained in a document in categories.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250225T000321Z" creationid="olivier" creationdate="20250221T200736Z">
-        <seg>O Navegador está disponível como uma caixa de diálogo ou deque da Barra Lateral e lista todos os objetos contidos num documento em categorias.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="olivier" creationdate="20250221T200736Z">
+        <seg>O Navegador está disponível como uma caixa de diálogo ou deque da Barra lateral e lista todos os objetos contidos num documento em categorias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38096,16 +38296,16 @@
       <tuv lang="en-US">
         <seg>The Sidebar (&lt;f0&gt;View &gt; Sidebar &lt;/f0&gt;or &lt;f1&gt;Ctrl+F5&lt;/f1&gt;) is located on the right-hand side of the window.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213331Z" creationid="olivier-tdf" creationdate="20250116T213331Z">
-        <seg>A Barra Lateral (&lt;f0&gt;Exibir &gt; Barra lateral &lt;/f0&gt;ou &lt;f1&gt;Ctrl+F5&lt;/f1&gt;) está localizada no lado direito da janela.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="olivier-tdf" creationdate="20250116T213331Z">
+        <seg>A Barra lateral (&lt;f0&gt;Exibir &gt; Barra lateral &lt;/f0&gt;ou &lt;f1&gt;Ctrl+F5&lt;/f1&gt;) está localizada no lado direito da janela.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The Sidebar contains several decks and each deck contains tools and options for formatting a document.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T133847Z" creationid="olivier" creationdate="20250217T133847Z">
-        <seg>A Barra Lateral contém vários deques e cada deque contém ferramentas e opções para formatar um documento.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="olivier" creationdate="20250217T133847Z">
+        <seg>A Barra lateral contém vários deques e cada deque contém ferramentas e opções para formatar um documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38806,6 +39006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The double-headed arrows shown in Figure &lt;t0&gt;28&lt;/t0&gt;&lt;s1/&gt;are mouse pointers shown in the correct position for moving the margin markers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210256Z" creationid="timot" creationdate="20250402T210256Z">
+        <seg>As setas de duas pontas mostradas na Figura &lt;t0&gt;28&lt;/t0&gt;&lt;s1/&gt;são ponteiros do mouse mostrados na posição correta para mover os marcadores de margem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The easiest way to create HTML documents in LibreOffice is to start with an existing text document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202457Z" creationid="olivier" creationdate="20250327T202457Z">
@@ -39046,6 +39254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The gray sections of the rulers are the margins.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210154Z" creationid="timot" creationdate="20250402T210154Z">
+        <seg>As seções cinzas das réguas são as margens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The heavy lines that indicate frozen rows and columns will disappear.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223112Z" creationid="olivier-tdf" creationdate="20250122T223112Z">
@@ -39226,6 +39442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214720Z" creationid="olivier-tdf" creationdate="20250116T214720Z">
         <seg>A seção principal do espaço de trabalho do Calc exibe as células na forma de uma grade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The margin selections on the Sidebar change all four margins to be the same.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T211328Z" creationid="timot" creationdate="20250402T211328Z">
+        <seg>As seleções de margem na Barra lateral alteram todas as quatro margens para serem as mesmas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39578,6 +39802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190244Z" creationid="olivier" creationdate="20250316T190244Z">
         <seg>O caminho para o JRE é exibido abaixo da caixa de listagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The pointer turns into a double-headed arrow and displays the current setting in a tool-tip.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210225Z" creationid="timot" creationdate="20250402T210225Z">
+        <seg>O ponteiro se transforma em uma seta de duas pontas e exibe a configuração atual em uma dica de ferramenta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40118,6 +40350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The two small gray triangles on the ruler are used for indenting paragraphs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210243Z" creationid="timot" creationdate="20250402T210243Z">
+        <seg>Os dois pequenos triângulos cinza na régua são usados para recuar parágrafos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of document created depends on which LibreOffice module is open and active.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T174135Z" creationid="olivier" creationdate="20250220T174135Z">
@@ -40306,6 +40546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112510Z" creationid="timot" creationdate="20250202T112510Z">
         <seg>Em seguida, selecione &lt;f0&gt;Colar&lt;/f0&gt; texto &lt;f1&gt;sem formatação&lt;/f1&gt; ou Texto sem formatação no menu resultante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then select any options you want and click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205735Z" creationid="timot" creationdate="20250402T205735Z">
+        <seg>Em seguida, selecione as opções desejadas e clique em &lt;f2&gt;OK&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41254,6 +41502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is also useful for numbering the first page of a document with a page number greater than 1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205527Z" creationid="timot" creationdate="20250402T205527Z">
+        <seg>Isso também é útil para numerar a primeira página de um documento com um número de página maior que 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is an example of how you can create a brochure or booklet with a printer that can only print single sided pages.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224856Z" creationid="olivier-tdf" creationdate="20250224T224856Z">
@@ -41910,10 +42166,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To add a watermark to a page background:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T211704Z" creationid="timot" creationdate="20250402T211704Z">
+        <seg>Para adicionar uma marca d 'água a um plano de fundo da página:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To add data validation to a cell, select that cell and use &lt;f0&gt;Data &gt; Validity&lt;/f0&gt; on the Menu bar to define which types of content can be entered in the cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224609Z" creationid="olivier" creationdate="20250123T224609Z">
         <seg>Para adicionar validação de dados a uma célula, selecione essa célula e use &lt;f0&gt;Dados &gt; Validação&lt;/f0&gt; na barra de menus para definir quais tipos de conteúdo podem ser inseridos na célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To add line numbers to a document, choose &lt;f0&gt;Tools &gt; Line Numbering&lt;/f0&gt; and select the &lt;f1&gt;Show numbering&lt;/f1&gt; option in the top left corner of the Line Numbering dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205726Z" creationid="timot" creationdate="20250402T205726Z">
+        <seg>Para adicionar números de linha a um documento, escolha &lt;f0&gt;Ferramentas &gt; Numeração de linhas&lt;/f0&gt; e selecione a opção &lt;f1&gt;Mostrar numeração&lt;/f1&gt; no canto superior esquerdo da caixa de diálogo Numeração de linhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42034,6 +42306,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210900Z" creationid="olivier" creationdate="20250123T210900Z">
         <seg>Para alterar o funcionamento da Autocorreção, acesse &lt;f0&gt;Ferramentas &gt; Opções de Autocorreção&lt;/f0&gt; na barra de menus para exibir a caixa de diálogo Autocorreção (Figura &lt;t1&gt;26&lt;/t1&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change margins using the Page Style dialog:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210529Z" creationid="timot" creationdate="20250402T210529Z">
+        <seg>Para alterar as margens usando a caixa de diálogo Estilo de página:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change margins using the Page deck of the Sidebar:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210712Z" creationid="timot" creationdate="20250402T210712Z">
+        <seg>Para alterar as margens usando o deque Página da Barra lateral:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change margins using the rulers:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210148Z" creationid="timot" creationdate="20250402T210148Z">
+        <seg>Para alterar as margens usando as réguas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45334,6 +45630,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using the Page Style dialog — you can specify margins with precision of up to two decimal places.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210020Z" creationid="timot" creationdate="20250402T210020Z">
+        <seg>Usar a caixa de diálogo Estilo de página — especificar margens com precisão de até duas casas decimais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Page deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210045Z" creationid="timot" creationdate="20250402T210045Z">
+        <seg>Usando o deque Página da Barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the Sheet menu:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121952Z" creationid="olivier" creationdate="20250121T121952Z">
@@ -45386,6 +45698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T230255Z" creationid="olivier" creationdate="20250123T230255Z">
         <seg>Utilizar o mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the page rulers — quick and easy, but does not allow fine control.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205952Z" creationid="timot" creationdate="20250402T205952Z">
+        <seg>Usar as réguas de página — rápido e fácil, mas não permite um controle fino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46654,6 +46974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you change the margins, the page style is also changed and the changed margins apply to all pages using that style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210120Z" creationid="timot" creationdate="20250402T210120Z">
+        <seg>Ao alterar as margens, o estilo da página também é alterado e as margens alteradas se aplicam a todas as páginas que usam esse estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you close the dialog after use (usually, clicking OK or another button saves your changes and closes the dialog), then you can again work with the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213247Z" creationid="olivier-tdf" creationdate="20250109T214818Z">
@@ -47278,6 +47606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer can insert line numbers in an entire document or for selected paragraphs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205602Z" creationid="timot" creationdate="20250402T205602Z">
+        <seg>O Writer pode inserir números de linha em um documento inteiro ou para parágrafos selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer can read Open Document text formats (.odt, .ott, .oth, .odm, and .fodt), and the following text formats (including various legacy formats):</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T203456Z" creationid="olivier" creationdate="20250324T203456Z">
@@ -47336,8 +47672,8 @@
       <tuv lang="en-US">
         <seg>Writer has &lt;f0&gt;three&lt;/f0&gt; ways to find text within a document: the Find toolbar &lt;f1&gt;and the Find deck in the Sidebar &lt;/f1&gt;for fast searching&lt;f2&gt;,&lt;/f2&gt; and the Find and Replace dialog.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="timot" creationdate="20250202T112610Z">
-        <seg>O Writer tem &lt;f0&gt;três&lt;/f0&gt; maneiras de encontrar texto num documento: a barra de ferramentas Localizar &lt;f1&gt;e o deque Localizar na Barra Lateral &lt;/f1&gt;para pesquisa rápida&lt;f2&gt;&lt;/f2&gt; e a caixa de diálogo Localizar e Substituir.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="timot" creationdate="20250202T112610Z">
+        <seg>O Writer tem &lt;f0&gt;três&lt;/f0&gt; maneiras de encontrar texto num documento: a barra de ferramentas Localizar &lt;f1&gt;e o deque Localizar na Barra lateral &lt;/f1&gt;para pesquisa rápida&lt;f2&gt;&lt;/f2&gt; e a caixa de diálogo Localizar e Substituir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47622,6 +47958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also create a paragraph style that includes line numbering, and apply it to the paragraphs that you want to add line numbers to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205757Z" creationid="timot" creationdate="20250402T205757Z">
+        <seg>Também, é possível criar um estilo de parágrafo que inclua numeração de linhas e aplicá-lo aos parágrafos aos quais deseja adicionar números de linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also create a pivot chart that allows you to view a graphical representation of the data in a pivot table.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T192146Z">
@@ -47782,10 +48126,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can apply backgrounds to many elements in Writer, including pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T211454Z" creationid="timot" creationdate="20250402T211454Z">
+        <seg>Existe a opção de aplicar planos de fundo a muitos elementos no Writer, inclusive páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can change how Calc converts strings to numeric values, cell references, dates, and times by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Formula&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203407Z" creationid="olivier" creationdate="20250123T203407Z">
         <seg>Você pode alterar a forma como o Calc converte textos em valores numéricos, referências de células, datas e horas acessando &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Fórmula&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can change page margins in three ways:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205941Z" creationid="timot" creationdate="20250402T205941Z">
+        <seg>Existem três maneiras de alterara alterar as margens da página:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47802,6 +48162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T144448Z" creationid="olivier-tdf" creationdate="20250120T144448Z">
         <seg>Você pode escolher um intervalo contíguo de células clicando na área &lt;f0&gt;Modo de seleção&lt;/f0&gt; na barra de status (Figura &lt;t1&gt;4&lt;/t1&gt;) e selecionando &lt;f2&gt;Estender seleção&lt;/f2&gt; antes de clicar no canto oposto do intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can choose how many lines are numbered (for example, every line or every tenth line), the numbering type, and whether numbers restart on each page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250402T205649Z" creationid="timot" creationdate="20250402T205649Z">
+        <seg>Você pode escolher quantas linhas são numeradas (por exemplo, cada linha ou cada décima linha), o tipo de numeração e se os números são reiniciados em cada página.</seg>
       </tuv>
     </tu>
     <tu>
