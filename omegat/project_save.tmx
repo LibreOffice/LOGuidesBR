@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2946,6 +2946,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212841Z" creationid="olivier-tdf" creationdate="20250116T212841Z">
         <seg>&lt;s0&gt;Barra de status&lt;/s0&gt;&lt;s1&gt;Barra de status&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Styles deck on Sidebar — Writer&lt;/s0&gt;&lt;s1&gt;Styles deck on Sidebar — Writer&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250402T233051Z" creationid="olivier-tdf" creationdate="20250402T233051Z">
+        <seg>&lt;s0&gt;Deque de estilos na barra lateral — Writer&lt;/s0&gt;&lt;s1&gt;Deque de estilos na barra lateral — Writer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15058,6 +15066,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T184251Z" creationid="olivier-tdf" creationdate="20250309T184251Z">
         <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Caixa de diálogo Opções do LibreOffice — Página Dados do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Styles deck on Sidebar — Writer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250402T233107Z" creationid="olivier-tdf" creationdate="20250402T233107Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Deque de estilos na barra lateral — Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -33246,6 +33262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See “&lt;bf0&gt;Style types&lt;/bf0&gt;” on page &lt;bf1&gt;5&lt;/bf1&gt; for more information on available style types for each LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250402T232928Z" creationid="olivier-tdf" creationdate="20250402T232928Z">
+        <seg>Consulte “&lt;bf0&gt;Tipos de estilo&lt;/bf0&gt;” na página &lt;bf1&gt;5&lt;/bf1&gt; para obter mais informações sobre os tipos de estilo disponíveis para cada módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See “&lt;bf1&gt;Using built-in language tools&lt;/bf1&gt;” on page &lt;bf2&gt;35&lt;/bf2&gt;&lt;s3/&gt;or refer to the &lt;f4&gt;Writer Guide&lt;/f4&gt; for more information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250207T104055Z" creationid="timot" creationdate="20250207T104055Z">
@@ -37006,6 +37030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Styles deck on Sidebar — Writer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250402T233119Z" creationid="olivier-tdf" creationdate="20250402T233119Z">
+        <seg>Deque de estilos na barra lateral — Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Styles drop-down selection list at the left end of the Formatting toolbar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T100342Z" creationid="timot" creationdate="20250217T100342Z">
@@ -40138,6 +40170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T221236Z" creationid="olivier-tdf" creationdate="20250117T221236Z">
         <seg>As etapas para exportar o conteúdo para uma página:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The style types available depends on which LibreOffice module is open and the type of document being edited.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250402T232908Z" creationid="olivier-tdf" creationdate="20250402T232908Z">
+        <seg>Os tipos de estilo disponíveis dependem de qual módulo do LibreOffice está aberto e do tipo de documento que está sendo editado.</seg>
       </tuv>
     </tu>
     <tu>
