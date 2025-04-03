@@ -4846,6 +4846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All user-created styles can be edited or deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195434Z" creationid="olivier-tdf" creationdate="20250403T195434Z">
+        <seg>Todos os estilos criados pelo usuário podem ser editados ou excluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All you have to do is enter the arguments and the calculation is made automatically.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190436Z" creationid="olivier-tdf" creationdate="20250209T190436Z">
@@ -13070,6 +13078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dragging and dropping a formatted element into the Styles deck in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195515Z" creationid="olivier-tdf" creationdate="20250403T195515Z">
+        <seg>Arrastar e soltar um elemento formatado no deque de Estilos na barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dragging and dropping embeds a copy of the file into a document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T011703Z" creationid="tulio" creationdate="20250320T011703Z">
@@ -13602,6 +13618,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005014Z" creationid="olivier" creationdate="20250328T005014Z">
         <seg>Editar código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Editing styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195305Z" creationid="olivier-tdf" creationdate="20250403T195305Z">
+        <seg>Editar estilos</seg>
       </tuv>
     </tu>
     <tu>
@@ -17706,6 +17730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T184113Z" creationid="olivier-tdf" creationdate="20250403T184113Z">
         <seg>Para obter mais informações sobre a criação de estilos, consulte o guia desse módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on creating styles, see “&lt;bf0&gt;Creating new styles&lt;/bf0&gt;” &lt;bf1&gt;above&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195449Z" creationid="olivier-tdf" creationdate="20250403T195449Z">
+        <seg>Para obter mais informações sobre a criação de estilos, consulte "&lt;bf0&gt;Criar novos estilos&lt;/bf0&gt;" &lt;bf1&gt;acima&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24770,6 +24802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194724Z" creationid="olivier-tdf" creationdate="20250209T194724Z">
         <seg>Pode ser necessário remover um intervalo de impressão definido, por exemplo, se a planilha inteira precisar ser impressa posteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides a starting point for creating documents with styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195412Z" creationid="olivier-tdf" creationdate="20250403T195412Z">
+        <seg>O conjunto fornece um ponto de partida para a criação de documentos com estilos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37774,6 +37814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Styles can be edited using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195458Z" creationid="olivier-tdf" creationdate="20250403T195458Z">
+        <seg>Os estilos podem ser editados usando um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Styles categories and action buttons</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T194609Z" creationid="olivier-tdf" creationdate="20250403T194609Z">
@@ -40526,6 +40574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The new style is based on the formatting of the selected element and it is placed in &lt;f1&gt;Custom Styles&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195301Z" creationid="olivier-tdf" creationdate="20250403T195301Z">
+        <seg>O novo estilo é baseado na formatação do elemento selecionado e é colocado em &lt;f1&gt;Estilos personalizados&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The new style is based on the formatting of the selected text or the selected cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T194953Z" creationid="olivier-tdf" creationdate="20250403T194953Z">
@@ -41698,6 +41754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214411Z" creationid="olivier-tdf" creationdate="20250116T214411Z">
         <seg>Esses deques são semelhantes aos do Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These default styles cannot be deleted, but can be edited to match the formatting requirements for documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195422Z" creationid="olivier-tdf" creationdate="20250403T195422Z">
+        <seg>Esses estilos padrão não podem ser excluídos, mas podem ser editados para corresponder aos requisitos de formatação dos documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47194,6 +47258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130101Z" creationid="olivier-tdf" creationdate="20250218T130101Z">
         <seg>Quando o LibreOffice é instalado num computador, vários modelos predefinidos também são instalados, fornecendo um ponto de partida para diferentes tipos de documentos, como cartas comerciais, apresentações ou desenhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When LibreOffice is installed onto a computer, a default set of styles is included.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195356Z" creationid="olivier-tdf" creationdate="20250403T195356Z">
+        <seg>Ao instalar o LibreOffice num computador, instala-se também um conjunto padrão de estilos.</seg>
       </tuv>
     </tu>
     <tu>
