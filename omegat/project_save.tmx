@@ -2960,8 +2960,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Style submenu in Calc&lt;/s0&gt;&lt;s1&gt;Style submenu in Calc&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T171737Z" creationid="olivier-tdf" creationdate="20250403T171737Z">
-        <seg>&lt;s0&gt;Submenu Estilo no Calc&lt;/s0&gt;&lt;s1&gt;Submenu Estilo no Calc&lt;/s1&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172003Z" creationid="olivier-tdf" creationdate="20250403T171737Z">
+        <seg>&lt;s0&gt;Submenu Estilos no Calc&lt;/s0&gt;&lt;s1&gt;Submenu Estilos no Calc&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2976,8 +2976,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Styles submenu in Writer&lt;/s0&gt;&lt;s1&gt;Styles submenu in Writer&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T171830Z" creationid="olivier-tdf" creationdate="20250403T171830Z">
-        <seg>&lt;s0&gt;Submenu Estilo no Writer&lt;/s0&gt;&lt;s1&gt;Submenu Estilo no Writer&lt;/s1&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T171943Z" creationid="olivier-tdf" creationdate="20250403T171830Z">
+        <seg>&lt;s0&gt;Submenu Estilos no Writer&lt;/s0&gt;&lt;s1&gt;Submenu Estilos no Writer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5850,6 +5850,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000439Z" creationid="olivier-tdf" creationdate="20250219T000439Z">
         <seg>Aplicar estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Applying styles with the context menu</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172017Z" creationid="olivier-tdf" creationdate="20250403T172017Z">
+        <seg>Aplicar estilos com o menu de contexto</seg>
       </tuv>
     </tu>
     <tu>
@@ -15608,8 +15616,8 @@
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Style submenu in Calc</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T171748Z" creationid="olivier-tdf" creationdate="20250403T171748Z">
-        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Submenu Estilo no Calc</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T171953Z" creationid="olivier-tdf" creationdate="20250403T171748Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Submenu Estilos no Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -18034,6 +18042,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T111835Z" creationid="timot" creationdate="20250215T111835Z">
         <seg>Formatar texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172146Z" creationid="olivier-tdf" creationdate="20250403T172146Z">
+        <seg>Barra de ferramentas Formatação</seg>
       </tuv>
     </tu>
     <tu>
@@ -20570,6 +20586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231658Z" creationid="olivier-tdf" creationdate="20250122T231658Z">
         <seg>Se um valor numérico não precisar ser tratado como um número nos cálculos (por exemplo, ao inserir um código CEP), você poderá digitar um apóstrofo (') antes do número, por exemplo, "&lt;f0&gt;'01481&lt;/f0&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a paragraph style has been created and applied to text, the style name will appear in the &lt;f0&gt;Set Paragraph Style&lt;/f0&gt; drop‑down list at the left-hand end of the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172217Z" creationid="olivier-tdf" creationdate="20250403T172217Z">
+        <seg>Se um estilo de parágrafo tiver sido criado e aplicado ao texto, o nome do estilo aparecerá na lista suspensa &lt;f0&gt;Definir estilo de parágrafo&lt;/f0&gt; na extremidade esquerda da barra de ferramentas Formatação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23346,6 +23370,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="rafael" changedate="20250220T003105Z" creationid="rafael" creationdate="20250220T003105Z">
         <seg>Neste exemplo, a macro na Listagem &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;é usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this module, select cells, right-click to bring up the context menu, then select Styles to apply a style to those cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172141Z" creationid="olivier-tdf" creationdate="20250403T172141Z">
+        <seg>Neste módulo, selecione as células, clique com o botão direito do mouse para abrir o menu de contexto e selecione Estilos para aplicar um estilo a essas células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32510,6 +32542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click on text to bring up the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172035Z" creationid="olivier-tdf" creationdate="20250403T172035Z">
+        <seg>Clique com o botão direito no texto para abrir o menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click on the header and select &lt;f0&gt;Freeze Rows and Columns&lt;/f0&gt; in the context menu, or go to &lt;f1&gt;View &gt; Freeze Rows and Columns&lt;/f1&gt; on the Menu bar, or click the &lt;f2&gt;Freeze Rows and Columns&lt;/f2&gt; icon on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier" creationdate="20250122T183750Z">
@@ -37144,8 +37184,8 @@
       <tuv lang="en-US">
         <seg>Style submenu in Calc</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T171802Z" creationid="olivier-tdf" creationdate="20250403T171802Z">
-        <seg>Submenu Estilo no Calc</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T171948Z" creationid="olivier-tdf" creationdate="20250403T171802Z">
+        <seg>Submenu Estilos no Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -37224,8 +37264,8 @@
       <tuv lang="en-US">
         <seg>Styles submenu in Writer</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T171845Z" creationid="olivier-tdf" creationdate="20250403T171845Z">
-        <seg>Submenu Estilo no Writer</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T171932Z" creationid="olivier-tdf" creationdate="20250403T171845Z">
+        <seg>Submenu Estilos no Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -40830,6 +40870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then select either &lt;f0&gt;Paragraph&lt;/f0&gt;, Character, or List and choose the appropriate style from a sub‑context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172120Z" creationid="olivier-tdf" creationdate="20250403T172120Z">
+        <seg>Em seguida, selecione &lt;f0&gt;Parágrafo&lt;/f0&gt;, Caractere ou Lista e escolha o estilo apropriado em um submenu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then the command &lt;f0&gt;New &gt; Templates…&lt;/f0&gt; can be used to create a new document with the same look and feel of that template.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125940Z" creationid="olivier-tdf" creationdate="20250218T125940Z">
@@ -41978,6 +42026,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220533Z" creationid="olivier" creationdate="20250324T220533Z">
         <seg>Esta configuração se sobrepõe às propriedades de URL configuradas para o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This module’s context menu can apply styles to selected text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172028Z" creationid="olivier-tdf" creationdate="20250403T172028Z">
+        <seg>O menu de contexto deste módulo pode aplicar estilos ao texto selecionado.</seg>
       </tuv>
     </tu>
     <tu>
