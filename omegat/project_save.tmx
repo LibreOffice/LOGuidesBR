@@ -2790,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Save As Template dialog&lt;/s0&gt;&lt;s1&gt;Save As Template dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205858Z" creationid="olivier" creationdate="20250404T205858Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Salvar como modelo&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Salvar como modelo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Security Options and Warnings dialog&lt;/s0&gt;&lt;s1&gt;Security Options and Warnings dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202751Z" creationid="olivier-tdf" creationdate="20250328T202751Z">
@@ -4326,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add any content that is required for the new template; for example company logo, copyright statement, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205825Z" creationid="olivier" creationdate="20250404T205825Z">
+        <seg>Adicione qualquer conteúdo necessário para o novo modelo; por exemplo, logotipo da empresa, declaração de direitos autorais e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add commands to the new menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T215339Z" creationid="olivier" creationdate="20250307T215339Z">
@@ -5134,6 +5150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, predefined text and graphics can be added to a template.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205757Z" creationid="olivier" creationdate="20250404T205757Z">
+        <seg>Além disso, textos e figuras predefinidos podem ser incluídos no modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, saving in ODF format enables you to re-save or modify the document if the recipient of &lt;f0&gt;the&lt;/f0&gt; document experiences trouble with the Microsoft format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T174014Z" creationid="timot" creationdate="20250122T174014Z">
@@ -5770,6 +5794,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233747Z" creationid="olivier-tdf" creationdate="20250224T233747Z">
         <seg>Quaisquer extensões ou opções de configuração feitas anteriormente devem ser reconfiguradas antes de usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any formatting element in a document can be saved in a template: for example, printer settings; file paths; text or object colors; and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205720Z" creationid="olivier" creationdate="20250404T205720Z">
+        <seg>Qualquer elemento de formatação num documento pode ser salvo em um modelo: por exemplo, configurações de impressora; caminhos de arquivo; cores de texto ou objeto; e assim por diante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9246,6 +9278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Open&lt;/f0&gt; on the Template dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205647Z" creationid="olivier" creationdate="20250404T205647Z">
+        <seg>Clique em &lt;f0&gt;Abrir&lt;/f0&gt; na caixa de diálogo Modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Open&lt;/f0&gt; to load the selected keyboard configuration into LibreOffice and close the Load Keyboard Configuration file browser.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T001836Z" creationid="olivier" creationdate="20250308T001836Z">
@@ -11014,6 +11054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create, or modify, any styles required for the new template.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205954Z" creationid="olivier" creationdate="20250404T205954Z">
+        <seg>Crie ou modifique os estilos necessários para o novo modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Created</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193127Z" creationid="olivier-tdf" creationdate="20250328T193127Z">
@@ -11058,6 +11106,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T215556Z" creationid="olivier" creationdate="20250307T215556Z">
         <seg>Criar um caractere de atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating a template</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205651Z" creationid="olivier" creationdate="20250404T205651Z">
+        <seg>Criar um modelo</seg>
       </tuv>
     </tu>
     <tu>
@@ -12512,8 +12568,8 @@
       <tuv lang="en-US">
         <seg>Determine where to display the template and select the LibreOffice application and template category in the &lt;f0&gt;Filter&lt;/f0&gt; drop‑down lists.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204823Z" creationid="olivier" creationdate="20250404T204823Z">
-        <seg>Determine onde exibir o modelo e selecione o aplicativo LibreOffice e a categoria do modelo nas listas suspensas &lt;f0&gt;Filtro&lt;/f0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205610Z" creationid="olivier" creationdate="20250404T204823Z">
+        <seg>Determine se deve exibir o modelo e selecione o aplicativo LibreOffice e a categoria do modelo nas listas suspensas &lt;f0&gt;Filtrar&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13250,6 +13306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003808Z" creationid="olivier" creationdate="20250303T003808Z">
         <seg>Clique duas vezes numa palavra com o cursor para selecioná-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double‑click on the selected template.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205626Z" creationid="olivier" creationdate="20250404T205626Z">
+        <seg>Clique duas vezes no modelo selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14186,6 +14250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211739Z" creationid="olivier" creationdate="20250204T163550Z">
         <seg>Digite um nome para o novo estilo e clique no botão &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter a name for the new template in the &lt;f0&gt;Enter Template Name&lt;/f0&gt; text box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T210107Z" creationid="olivier" creationdate="20250404T210107Z">
+        <seg>Digite um nome para o novo modelo na caixa de texto &lt;f0&gt;Digite o nome do modelo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16494,6 +16566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Save As Template dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205930Z" creationid="olivier" creationdate="20250404T205902Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: caixa de diálogo Salvar como modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Selection icon</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T111601Z" creationid="timot" creationdate="20250202T111601Z">
@@ -18518,6 +18598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Format any content added to the template requirements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205947Z" creationid="olivier" creationdate="20250404T205947Z">
+        <seg>Formate qualquer conteúdo adicionado aos requisitos do modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Format cell data, such as fonts, alignment, borders, background, number formats (for example, currency, date, number), and cell protection.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130815Z" creationid="olivier-tdf" creationdate="20250218T130815Z">
@@ -19214,6 +19302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Generate a document with the template with one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205619Z" creationid="olivier" creationdate="20250404T205619Z">
+        <seg>Gere um documento com o modelo com um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get Help Online</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195645Z" creationid="olivier-tdf" creationdate="20250109T195645Z">
@@ -19594,6 +19690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182930Z" creationid="olivier-tdf" creationdate="20250328T182930Z">
         <seg>Acesse &lt;f0&gt;Arquivo &gt; Enviar&lt;/f0&gt; na barra de menu e use uma das seguintes opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;File &gt; Templates &gt; Save as Template&lt;/f0&gt; on the Menu bar to open the Save As Template dialog (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T210012Z" creationid="olivier" creationdate="20250404T210012Z">
+        <seg>Acesse &lt;f0&gt;Arquivo &gt; Modelos &gt; Salvar como modelo&lt;/f0&gt; na barra de menus para abrir a caixa de diálogo Salvar como modelo (Figura &lt;t1&gt;8&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29942,6 +30046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open an existing document, or create a new document of the type required for a template.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205815Z" creationid="olivier" creationdate="20250404T205815Z">
+        <seg>Abra um documento existente ou crie um documento do tipo necessário para um modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open another submenu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144456Z" creationid="tulio" creationdate="20250119T144456Z">
@@ -33774,6 +33886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right‑click on the template and select &lt;f0&gt;Open&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205636Z" creationid="olivier" creationdate="20250404T205636Z">
+        <seg>Clique com o botão direito do mouse no modelo e selecione &lt;f0&gt;Abrir&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Robert Thornton</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123949Z" creationid="olivier-tdf" creationdate="20250114T123949Z">
@@ -33858,6 +33978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T122939Z" creationid="olivier" creationdate="20250314T122939Z">
         <seg>Salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save As Template dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205939Z" creationid="olivier" creationdate="20250404T205939Z">
+        <seg>Caixa de diálogo Salvar como modelo</seg>
       </tuv>
     </tu>
     <tu>
