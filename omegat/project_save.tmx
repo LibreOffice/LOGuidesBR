@@ -4022,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A template is a document that contains user-specified formatting styles, graphics, tables, objects, and other information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203800Z" creationid="olivier" creationdate="20250404T203800Z">
+        <seg>Um modelo é um documento que contém estilos de formatação especificados pelo usuário, gráficos, tabelas, objetos e outras informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A text document can be saved in HTML format so that it can be viewed in a web browser.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005849Z" creationid="olivier" creationdate="20250327T202852Z">
@@ -4322,6 +4330,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195750Z" creationid="olivier-tdf" creationdate="20250403T195710Z">
         <seg>Adicione estilos de outro documento ou modelo ao documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add the name of the new page style in the &lt;f0&gt;Enter new style name&lt;/f0&gt; text box and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203540Z" creationid="olivier" creationdate="20250404T203540Z">
+        <seg>Adicione o nome do novo estilo de página na caixa de texto &lt;f0&gt;Digite o nome do novo estilo&lt;/f0&gt; e clique em &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4790,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All documents in LibreOffice are based on templates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203950Z" creationid="olivier" creationdate="20250404T203950Z">
+        <seg>Todos os documentos do LibreOffice são baseados em modelos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All fonts used in the source document are embedded in the generated PDF file, and PDF tags are created.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220026Z" creationid="olivier" creationdate="20250324T220026Z">
@@ -5114,6 +5138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T184314Z" creationid="olivier-tdf" creationdate="20250209T184314Z">
         <seg>Além disso, a ordenação permite adicionar novas informações à parte inferior da planilha e, em seguida, usar uma ordenação para colocar os valores na ordem correta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also, templates &lt;t0/&gt;can be downloaded from the LibreOffice website using the following link: &lt;a1&gt;https://extensions.libreoffice.org&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204133Z" creationid="olivier" creationdate="20250404T204133Z">
+        <seg>Além disso, os modelos &lt;t0/&gt;podem ser baixados do site do LibreOffice usando o seguinte link: &lt;a1&gt;https://extensions.libreoffice.org&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8454,6 +8486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the changes and close the Page Style dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203727Z" creationid="olivier" creationdate="20250404T203727Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar as alterações e fechar a caixa de diálogo Estilo de página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the changes and close the dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T031339Z" creationid="olivier" creationdate="20250321T031339Z">
@@ -9402,6 +9442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191057Z" creationid="olivier-tdf" creationdate="20250328T191057Z">
         <seg>Clique em &lt;f0&gt;Assinar&lt;/f0&gt; para aplicar a assinatura digital ao documento e feche a caixa de diálogo Selecionar certificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Styles actions&lt;/f0&gt; at the top of the Styles deck and select &lt;f1&gt;New Style from Selection&lt;/f1&gt; from the context menu to open the New Style from Selection dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203439Z" creationid="olivier" creationdate="20250404T203439Z">
+        <seg>Clique em &lt;f0&gt;Ações de estilos&lt;/f0&gt; na parte superior do deque de estilos e selecione &lt;f1&gt;Novo estilo a partir da seleção&lt;/f1&gt; no menu de contexto para abrir a caixa de diálogo Novo estilo a partir da seleção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17574,6 +17622,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, you can add the outline of a report and also define paragraph and character styles in a document, save the document as a template, and then use the template to create a new document with the same report outline and styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203945Z" creationid="olivier" creationdate="20250404T203945Z">
+        <seg>Por exemplo, você pode adicionar os tópicos de um relatório e também definir estilos de parágrafo e de caractere num documento, salvar o documento como um modelo e, em seguida, usar o modelo para criar um documento com os mesmos tópicos e estilos de relatório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, you can create a style that is only applied to the first page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202828Z" creationid="olivier" creationdate="20250404T202828Z">
+        <seg>Por exemplo, você pode criar um estilo que só é aplicado à primeira página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, you can put the page number on the left-hand edge of the left pages and on the right-hand edge of the right pages, put the document title on the right-hand page only, or make other changes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T184717Z" creationid="timot" creationdate="20250228T184706Z">
@@ -18002,6 +18066,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201033Z" creationid="olivier-tdf" creationdate="20250209T201033Z">
         <seg>Para obter mais informações sobre quebras de página, consulte o Capítulo 7, Imprimir, Exportar, Enviar por E-mail e Assinar, no &lt;f0&gt;Guia do Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on page styles, see the &lt;f0&gt;Writer Guide&lt;/f0&gt; and the &lt;f1&gt;Calc Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202816Z" creationid="olivier" creationdate="20250404T202816Z">
+        <seg>Para obter mais informações sobre estilos de página, consulte o &lt;f0&gt;Guia do Writer&lt;/f0&gt; e o &lt;f1&gt;Guia do Calc&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21082,6 +21154,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013642Z" creationid="olivier" creationdate="20250316T185441Z">
         <seg>Se um JRE ou JDK for instalado após a instalação do LibreOffice, ou se mais de um JRE estiver instalado num computador, use &lt;f0&gt;Opções Java&lt;/f0&gt; para selecionar o JRE para o LibreOffice usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a blank document is created in LibreOffice, then the software uses the appropriate LibreOffice default template.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204156Z" creationid="olivier" creationdate="20250404T204156Z">
+        <seg>Se um documento em branco for criado no LibreOffice, o software usará o modelo padrão apropriado do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25822,6 +25902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice can use a template to generate new documents with a common content and a common format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203816Z" creationid="olivier" creationdate="20250404T203816Z">
+        <seg>O LibreOffice pode usar um modelo para gerar novos documentos com um conteúdo comum e um formato comum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice can use the format of selected text or a selected cell to create a new style.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T192350Z" creationid="olivier-tdf" creationdate="20250403T192350Z">
@@ -27546,6 +27634,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193141Z" creationid="olivier-tdf" creationdate="20250328T193141Z">
         <seg>Modificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Modify and format the page with the options available on the Page Style dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203719Z" creationid="olivier" creationdate="20250404T203719Z">
+        <seg>Modifique e formate a página com as opções disponíveis na caixa de diálogo Estilo de página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29766,6 +29862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a new text document and open the Styles deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203003Z" creationid="olivier" creationdate="20250404T203003Z">
+        <seg>Abra um novo documento de texto e abra o deque de Estilos na barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open another submenu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T144456Z" creationid="tulio" creationdate="20250119T144456Z">
@@ -29818,6 +29922,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T201011Z" creationid="olivier-tdf" creationdate="20250308T201011Z">
         <seg>Abra a página &lt;f0&gt;Cor&lt;/f0&gt; da caixa de diálogo Área.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the &lt;f0&gt;Page Styles&lt;/f0&gt; panel and select &lt;f1&gt;Page Styles&lt;/f1&gt; at the top of the Styles deck.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203350Z" creationid="olivier" creationdate="20250404T203350Z">
+        <seg>Abra o painel &lt;f0&gt;Estilos de página&lt;/f0&gt; e selecione &lt;f1&gt;Estilos de Página&lt;/f1&gt; na parte superior do deque de Estilos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31162,6 +31274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130610Z" creationid="olivier-tdf" creationdate="20250218T130610Z">
         <seg>Estilos de página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page styles can be created in Writer or Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202803Z" creationid="olivier" creationdate="20250404T202803Z">
+        <seg>Estilos de página podem ser criados no Writer ou no Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33546,6 +33666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250225T000357Z" creationid="olivier" creationdate="20250222T165946Z">
         <seg>Clique com o botão direito do mouse num objeto na caixa de diálogo Navegador ou na barra lateral e selecione &lt;f0&gt;Renomear&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right‑click on the new page style in the &lt;f0&gt;Page Styles&lt;/f0&gt; panel and select &lt;f1&gt;&lt;f2&gt;Edit Style&lt;/f2&gt;&lt;/f1&gt; from the context &lt;f3&gt;menu &lt;/f3&gt;to open the Page Style dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203706Z" creationid="olivier" creationdate="20250404T203706Z">
+        <seg>Clique com o botão direito do mouse no novo estilo de página no painel &lt;f0&gt;Estilos de página&lt;/f0&gt; e selecione &lt;f1&gt;&lt;f2&gt;Editar estilo&lt;/f2&gt;&lt;/f1&gt; no &lt;f3&gt;&lt;/f3&gt; menu de contexto para abrir a caixa de diálogo Estilo de página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38862,6 +38990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Templates can be created to suit your requirements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204116Z" creationid="olivier" creationdate="20250404T204116Z">
+        <seg>Os modelos podem ser criados para atender às suas necessidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T203941Z" creationid="olivier" creationdate="20250123T203941Z">
@@ -41486,6 +41622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The software has a number of predefined templates that can be used to create different types of documents, including business letters, presentations, or drawings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204056Z" creationid="olivier" creationdate="20250404T204056Z">
+        <seg>O software tem vários modelos predefinidos que podem ser utilizados para criar diferentes tipos de documentos de texto, incluindo como cartas comerciais, apresentações, ou desenhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The spell check for the selected language only functions when the corresponding language module is installed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T132242Z" creationid="olivier" creationdate="20250320T132242Z">
@@ -42654,6 +42798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This closes the New style from Selection dialog and the new page style appears in the &lt;f2&gt;Page Styles&lt;/f2&gt; panel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203618Z" creationid="olivier" creationdate="20250404T203618Z">
+        <seg>Isso fecha a caixa de diálogo e o novo estilo de página aparece no painel &lt;f2&gt;Estilos de página&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This command is also available in &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; in the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135746Z" creationid="olivier-tdf" creationdate="20250303T135746Z">
@@ -43718,6 +43870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To apply the new page style, double‑click on the required page style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203742Z" creationid="olivier" creationdate="20250404T203742Z">
+        <seg>Para aplicar o novo estilo de página, clique duas vezes no estilo de página desejado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To assign a list style to a paragraph style, go to the Styles deck in the Sidebar, right-click on the paragraph style you want to use, then choose &lt;f0&gt;&lt;f1&gt;Edit Style&lt;/f1&gt;&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T100629Z" creationid="timot" creationdate="20250222T100629Z">
@@ -44098,6 +44258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T165016Z" creationid="olivier" creationdate="20250308T165016Z">
         <seg>Para criar uma cor personalizada, existem três maneiras de fazê-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To create a new page style in Writer, do the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202835Z" creationid="olivier" creationdate="20250404T202835Z">
+        <seg>Para criar um novo estilo de página no Writer, faça o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
