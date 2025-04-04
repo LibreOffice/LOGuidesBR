@@ -8886,6 +8886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Apply&lt;/f0&gt; to delete the selected style, then click &lt;f1&gt;OK&lt;/f1&gt; to close the style dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202626Z" creationid="olivier" creationdate="20250404T202626Z">
+        <seg>Clique em &lt;f0&gt;Aplicar&lt;/f0&gt; para excluir o estilo selecionado e clique em &lt;f1&gt;OK&lt;/f1&gt; para fechar a caixa de diálogo de estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Apply&lt;/f0&gt; to rename the selected style, then click &lt;f1&gt;OK&lt;/f1&gt; to close the style dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202031Z" creationid="olivier" creationdate="20250404T202031Z">
@@ -20950,6 +20958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If &lt;f0&gt;Delete&lt;/f0&gt; is grayed out in the context menu, then the selected style cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202650Z" creationid="olivier" creationdate="20250404T202650Z">
+        <seg>Se o comando &lt;f0&gt;Excluir&lt;/f0&gt; estiver acinzentado no menu de contexto, o estilo selecionado não pode ser excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If &lt;f0&gt;Modify&lt;/f0&gt; is grayed out in the context menu, then the selected style cannot be renamed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202004Z" creationid="olivier" creationdate="20250404T202004Z">
@@ -21162,6 +21178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T185049Z" creationid="olivier-tdf" creationdate="20250403T185049Z">
         <seg>Se selecionar um estilo em &lt;f0&gt;Herdar de&lt;/f0&gt; na página &lt;f1&gt;&lt;f2&gt;Geral&lt;/f2&gt;&lt;/f1&gt;, quaisquer alterações de formatação nesse estilo também serão levadas ao novo estilo criado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a style is deleted that is in use, all elements that used the deleted style will return to the default style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202724Z" creationid="olivier" creationdate="20250404T202724Z">
+        <seg>Se um estilo em uso for excluído, todos os elementos que usam o estilo excluído retornarão ao estilo padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33530,6 +33554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T201936Z" creationid="olivier" creationdate="20250404T201936Z">
         <seg>Clique com o botão direito do mouse no estilo e selecione &lt;f0&gt;&lt;f1&gt;Editar estilo&lt;/f1&gt;&lt;/f0&gt; no menu de contexto para abrir a caixa de diálogo de estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right‑click on the selected style and select &lt;f0&gt;Delete&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202614Z" creationid="olivier" creationdate="20250404T202614Z">
+        <seg>Clique com o botão direito do mouse no estilo selecionado e selecione &lt;f0&gt;Excluir&lt;/f0&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
