@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Paragraph Style dialog&lt;/s0&gt;&lt;s1&gt;Paragraph Style dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193509Z" creationid="olivier" creationdate="20250404T193509Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Estilo de parágrafo&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Estilo de parágrafo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Paste Special dialog&lt;/s0&gt;&lt;s1&gt;Paste Special dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T010947Z" creationid="olivier" creationdate="20250124T010947Z">
@@ -3946,6 +3954,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130221Z" creationid="olivier-tdf" creationdate="20250218T130221Z">
         <seg>Um estilo permite aplicar um conjunto de elementos de formatação comuns a páginas, texto, quadros, células, objetos gráficos e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A style can also be edited with &lt;f0&gt;Set Paragraph Style&lt;/f0&gt; for Writer or &lt;f1&gt;Apply Style&lt;/f1&gt; for Calc on the Formatting toolbar by performing the following steps:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T192834Z" creationid="olivier" creationdate="20250404T192834Z">
+        <seg>Um estilo também pode ser editado com &lt;f0&gt;Definir estilo de parágrafo&lt;/f0&gt; no Writer ou &lt;f1&gt;Aplicar estilo&lt;/f1&gt; no Calc na barra de ferramentas Formatação, executando as seguintes etapas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6086,6 +6102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the top of the Sidebar, click on the chevron &lt;f0&gt;˅,&lt;/f0&gt; or triangle ▼next to &lt;f1&gt;Styles actions&lt;/f1&gt; and select &lt;f2&gt;Update Selected Style&lt;/f2&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T194423Z" creationid="olivier" creationdate="20250404T194423Z">
+        <seg>Na parte superior da barra lateral, clique na seta &lt;f0&gt;˅&lt;/f0&gt;, ou no triângulo ▼ ao lado das &lt;f1&gt;Ações de estilos&lt;/f1&gt; e selecione &lt;f2&gt;Atualizar estilo selecionado&lt;/f2&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the top of the columns and the left of the rows are a series of header boxes containing letters and numbers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214942Z" creationid="olivier-tdf" creationdate="20250116T214942Z">
@@ -7490,6 +7514,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184203Z" creationid="olivier" creationdate="20250222T184203Z">
         <seg>Altera as configurações da impressora do sistema operacional do computador para o documento atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changes to a style can be checked in the preview box on the dialog page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193745Z" creationid="olivier" creationdate="20250404T193745Z">
+        <seg>As alterações num estilo podem ser verificadas na caixa de visualização na página de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13662,6 +13694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Edit the selected style by using various options available on the dialog pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193717Z" creationid="olivier" creationdate="20250404T193717Z">
+        <seg>Edite o estilo selecionando várias opções disponíveis nas páginas de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Editing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T010240Z" creationid="tulio" creationdate="20250320T010240Z">
@@ -16206,6 +16246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Paragraph Style dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193518Z" creationid="olivier" creationdate="20250404T193518Z">
+        <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Caixa de diálogo Estilo de parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Text Import dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122527Z" creationid="olivier-tdf" creationdate="20250117T122527Z">
@@ -16402,6 +16450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T180901Z" creationid="olivier" creationdate="20250222T180901Z">
         <seg>A Figura &lt;t1&gt;8&lt;/t1&gt; mostra como visualizações separadas de um documento podem ser abertas ao mesmo tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;t2&gt;6&lt;/t2&gt; shows an example of the Paragraph Styles dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T192645Z" creationid="olivier" creationdate="20250404T192617Z">
+        <seg>A Figura &lt;t2&gt;6&lt;/t2&gt; mostra um exemplo da caixa de diálogo Estilos de parágrafo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29030,6 +29086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the Formatting toolbar, open a drop‑down list of styles by clicking on the chevron &lt;f0&gt;˅&lt;/f0&gt; or triangle ▼ next to &lt;f1&gt;Set Paragraph Style&lt;/f1&gt; for Writer or &lt;f2&gt;Apply Style&lt;/f2&gt; for Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193437Z" creationid="olivier" creationdate="20250404T193437Z">
+        <seg>Na barra de ferramentas Formatação, abra a lista suspensa de estilos clicando na seta ou triângulo &lt;f0&gt;˅&lt;/f0&gt; ▼ ao lado de &lt;f1&gt;Definir estilo de parágrafo&lt;/f1&gt; no Writer ou &lt;f2&gt;Aplicar estilo&lt;/f2&gt; no Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the General page of the Options Languages and Locales settings dialog (Figure &lt;t0&gt;16&lt;/t0&gt;), define the default languages and locale settings for documents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232450Z" creationid="olivier" creationdate="20250319T232450Z">
@@ -29202,6 +29266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T111459Z" creationid="timot" creationdate="20250224T111459Z">
         <seg>No deque Estilos na Barra lateral, abra Estilos de parágrafo, clique com o botão direito do mouse em Estilo de parágrafo padrão (ou outro estilo que deseja usar) e selecione &lt;f0&gt;&lt;f1&gt;Editar estilo&lt;/f1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the Styles deck, select the style that is going to be updated from the selection.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193917Z" creationid="olivier" creationdate="20250404T193917Z">
+        <seg>No deque de Estilos, selecione o estilo que será atualizado pela seleção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31074,6 +31146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T101807Z" creationid="timot" creationdate="20250217T101807Z">
         <seg>Parágrafo (para abrir a caixa de diálogo Parágrafo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paragraph Style dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193523Z" creationid="olivier" creationdate="20250404T193523Z">
+        <seg>Caixa de diálogo Estilo de parágrafo</seg>
       </tuv>
     </tu>
     <tu>
@@ -34590,6 +34670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a paragraph in Writer or a cell in Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193032Z" creationid="olivier" creationdate="20250404T193032Z">
+        <seg>Selecione um parágrafo no Writer ou uma célula no Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a preferred user interface variant as follows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T201804Z" creationid="olivier-tdf" creationdate="20250308T201804Z">
@@ -34618,6 +34706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier" creationdate="20250121T153252Z">
         <seg>Selecione um intervalo de células nas colunas ou linhas que deseja excluir, clique com o botão direito e selecione &lt;f0&gt;Excluir&lt;/f0&gt; no menu de contexto, selecione &lt;f1&gt;Planilha &gt; Excluir células&lt;/f1&gt; na barra de menus ou tecle &lt;f2&gt;Ctrl+-&lt;/f2&gt; para abrir a caixa de diálogo Excluir células (Figura &lt;t3&gt;18&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a style and click on the chevron &lt;f0&gt;˅&lt;/f0&gt;, or triangle ▼next to the style name, then select &lt;f1&gt;Edit Style&lt;/f1&gt; from the context menu to open the Paragraph Style dialog (Figure &lt;t2&gt;6&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193650Z" creationid="olivier" creationdate="20250404T193650Z">
+        <seg>Selecione um estilo e clique na seta ou triângulo &lt;f0&gt;˅&lt;/f0&gt; ▼ ao lado do nome do estilo e, em seguida, selecione &lt;f1&gt;Editar estilo&lt;/f1&gt; no menu de contexto para abrir a caixa de diálogo Estilo de parágrafo (Figura &lt;t2&gt;6&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35082,6 +35178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T140111Z" creationid="tulio" creationdate="20250211T140111Z">
         <seg>Selecione o triângulo descendente ▼ na barra de título da barra de ferramentas e, em seguida, selecione &lt;f0&gt;Encaixar barra de ferramentas&lt;/f0&gt; nas opções disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the element that is formatted with the attributes of the desired style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193851Z" creationid="olivier" creationdate="20250404T193851Z">
+        <seg>Selecione o elemento formatado com os atributos do estilo desejado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36218,6 +36322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T101505Z" creationid="timot" creationdate="20250217T101505Z">
         <seg>Definir estilo do parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set Paragraph Style or Apply Style</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T192750Z" creationid="olivier" creationdate="20250404T192750Z">
+        <seg>Definir estilo de parágrafo ou aplicar estilo</seg>
       </tuv>
     </tu>
     <tu>
@@ -45990,10 +46102,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Update the style using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193925Z" creationid="olivier" creationdate="20250404T193925Z">
+        <seg>Atualize o estilo usando um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Updating extensions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083946Z" creationid="olivier" creationdate="20250308T083946Z">
         <seg>Atualizar extensões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Updating styles from selection</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193843Z" creationid="olivier" creationdate="20250404T193843Z">
+        <seg>Atualizar estilos a partir da seleção</seg>
       </tuv>
     </tu>
     <tu>
@@ -46450,6 +46578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222751Z" creationid="olivier" creationdate="20250307T222751Z">
         <seg>Use as setas para cima e para baixo em &lt;f0&gt;Comandos atribuídos&lt;/f0&gt; para colocar a ferramenta na posição desejada na barra de ferramentas selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the various options available on the dialog pages to edit the selected style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T192723Z" creationid="olivier" creationdate="20250404T192723Z">
+        <seg>Utilize as várias opções disponíveis nas abas para editar o estilo selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47738,6 +47874,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T111700Z" creationid="timot" creationdate="20250224T111700Z">
         <seg>Quando a hifenização automática está ativada, há a opção de definir os critérios para quando deve ocorrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When changes are complete, click on &lt;f0&gt;OK&lt;/f0&gt; to save the changes and close the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T192737Z" creationid="olivier" creationdate="20250404T192737Z">
+        <seg>Quando as alterações estiverem concluídas, clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar as alterações e fechar a caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When changes have been completed, click on &lt;f0&gt;OK&lt;/f0&gt; to save the changes and close the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193825Z" creationid="olivier" creationdate="20250404T193825Z">
+        <seg>Ao concluir as alterações, clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar e fechar a caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
