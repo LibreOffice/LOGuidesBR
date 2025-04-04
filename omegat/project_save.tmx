@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3014,6 +3014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;The Watermark dialog&lt;/s0&gt;&lt;s1&gt;The Watermark dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T110033Z" creationid="timot" creationdate="20250404T110033Z">
+        <seg>&lt;s0&gt;A caixa de diálogo Marca d 'água&lt;/s0&gt;&lt;s1&gt; A caixa de diálogo Marca d'&lt;/s1&gt;água</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;The main Writer workspace&lt;/s0&gt;&lt;s1&gt;The main Writer workspace&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195958Z" creationid="timot" creationdate="20250111T195958Z">
@@ -4254,6 +4262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add a title page at the beginning of the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111101Z" creationid="timot" creationdate="20250404T111101Z">
+        <seg>Adicione uma página de título no início do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add a word to the dictionary</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T101457Z" creationid="timot" creationdate="20250206T101457Z">
@@ -4354,6 +4370,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T212901Z" creationid="olivier" creationdate="20250307T212901Z">
         <seg>Adicionar comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding comments to a document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111207Z" creationid="timot" creationdate="20250404T111207Z">
+        <seg>Adicionar comentários a um documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -6082,6 +6106,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202202Z" creationid="olivier" creationdate="20250327T202202Z">
         <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Authors and reviewers often use comments to exchange ideas, ask for suggestions, or mark items needing attention.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111217Z" creationid="timot" creationdate="20250404T111217Z">
+        <seg>Autores e revisores costumam usar comentários para trocar ideias, pedir sugestões ou marcar itens que precisam de atenção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12022,6 +12054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defining a different first page for a document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T110049Z" creationid="timot" creationdate="20250404T110049Z">
+        <seg>Definir uma primeira página diferente para um documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defining a fill series</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215647Z" creationid="olivier" creationdate="20250123T215647Z">
@@ -12210,6 +12250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145248Z" creationid="tulio" creationdate="20250119T145248Z">
         <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deselect the &lt;f0&gt;Same content on first page&lt;/f0&gt; option on the Header/Footer tabs in the Page Style dialog, and then add different headers/footers to the first page and to the other pages of the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T110802Z" creationid="timot" creationdate="20250404T110802Z">
+        <seg>Desmarque a opção &lt;f0&gt;Mesmo conteúdo na primeira página&lt;/f0&gt; nas guias Cabeçalho/Rodapé na caixa de diálogo Estilo de página e, em seguida, adicione diferentes cabeçalhos/rodapés à primeira página e às outras páginas do documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15718,6 +15766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: The Watermark dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T110038Z" creationid="timot" creationdate="20250404T110038Z">
+        <seg>Figura &lt;seq0&gt;29&lt;/seq0&gt;: A caixa de diálogo Marca d 'água</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Adding new menu</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T214553Z" creationid="olivier" creationdate="20250307T214553Z">
@@ -17306,6 +17362,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192653Z" creationid="olivier-tdf" creationdate="20250109T192653Z">
         <seg>Por exemplo, as ferramentas de desenho disponíveis no Writer também são encontradas no Calc com versões semelhantes, mas aprimoradas, no Impress e no Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the first page of a letterhead typically has a different header, or the first page of a report might have no header or footer, while the other pages do.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T110124Z" creationid="timot" creationdate="20250404T110124Z">
+        <seg>Por exemplo, a primeira página de um papel timbrado normalmente tem um cabeçalho diferente, ou a primeira página de um relatório pode não ter cabeçalho ou rodapé, enquanto as outras páginas têm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26734,6 +26798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Many documents, such as letters and memos, have a first page that is different from the other pages in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T110105Z" creationid="timot" creationdate="20250404T110105Z">
+        <seg>Muitos documentos, como cartas e memorandos, têm uma primeira página que é diferente das outras páginas do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Many features that are available as extra cost add-ins in other office suites (like PDF export) are free with LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192249Z" creationid="olivier-tdf" creationdate="20250109T192249Z">
@@ -30938,6 +31010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="timot" creationdate="20250122T180956Z">
         <seg>Os usuários do Pages também podem exportar (não salvar) uma cópia de um documento do Pages num formato compatível com o Writer, como &lt;f0&gt;.docx&lt;/f0&gt; ou &lt;f1&gt;.rtf&lt;/f1&gt;, permitindo o Writer abrir, editar e salvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pages with different or no watermarks need different Page Styles for those pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T110011Z" creationid="timot" creationdate="20250404T110011Z">
+        <seg>Páginas com marcas d 'água diferentes ou sem marcas d' água precisam de Estilos de página diferentes para essas páginas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36174,6 +36254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set the &lt;f0&gt;Next Page&lt;/f0&gt; attribute for the first page so the next page automatically becomes the style for following pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111053Z" creationid="timot" creationdate="20250404T111053Z">
+        <seg>Defina o atributo &lt;f0&gt;Próxima página&lt;/f0&gt; para a primeira página para que a próxima página se torne automaticamente o estilo para as páginas seguintes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set the margins, spacing, and height for the header or footer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201803Z" creationid="olivier-tdf" creationdate="20250209T201803Z">
@@ -39382,6 +39470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Watermark dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T110041Z" creationid="timot" creationdate="20250404T110041Z">
+        <seg>A caixa de diálogo Marca d 'água</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Writer Sidebar contains &lt;f0&gt;eight&lt;/f0&gt; decks by default: Properties, Styles, Gallery, Navigator, Page, Style Inspector, Manage Changes, Accessibility Check&lt;f1&gt;, and Find&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T110657Z" creationid="timot" creationdate="20250113T110626Z">
@@ -39434,6 +39530,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194641Z" creationid="olivier-tdf" creationdate="20250209T194641Z">
         <seg>O intervalo de impressão adicional será impresso como uma página separada, mesmo que ambos os intervalos estejam na mesma planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The anchor point of the comment is connected by a dotted line to a box on the right-hand side of the page where you can type the text of the comment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111447Z" creationid="timot" creationdate="20250404T111447Z">
+        <seg>O ponto de ancoragem do comentário é conectado por uma linha pontilhada a uma caixa no lado direito da página, onde você pode digitar o texto do comentário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44278,6 +44382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To insert a comment, select the text, or place the cursor in the place the comment refers to, and choose &lt;f0&gt;Insert &gt; Comment &lt;/f0&gt;on the menu bar, click the &lt;f1&gt;Insert Comment&lt;/f1&gt; icon on the Standard toolbar,&lt;f2&gt; &lt;/f2&gt;or press &lt;f3&gt;Ctrl+Alt+C&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111341Z" creationid="timot" creationdate="20250404T111341Z">
+        <seg>Para inserir um comentário, selecione o texto ou posicione o cursor no lugar deve ir o comentário e escolha &lt;f0&gt;Inserir &gt; Comentário &lt;/f0&gt;na barra de menu, clique no ícone &lt;f1&gt;Inserir comentário&lt;/f1&gt; na barra de ferramentas Padrão&lt;f2&gt; &lt;/f2&gt;ou tecle &lt;f3&gt;Ctrl+Alt+C.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To insert a manual line break in a cell, press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier-tdf" creationdate="20250128T205512Z">
@@ -46046,6 +46158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use different page styles for the first page and for the following pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T110813Z" creationid="timot" creationdate="20250404T110813Z">
+        <seg>Use estilos de página diferentes para a primeira página e para as páginas seguintes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use hardware acceleration</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T160112Z" creationid="olivier" creationdate="20250312T160112Z">
@@ -46130,6 +46250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T105438Z" creationid="timot" creationdate="20250224T105438Z">
         <seg>Use os botões &lt;f0&gt;Alternar lista não ordenada&lt;/f0&gt; e &lt;f1&gt;Alternar lista ordenada&lt;/f1&gt; na barra de ferramentas Formatação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Default Page Style (or any other page style) for your document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T110604Z" creationid="timot" creationdate="20250404T110604Z">
+        <seg>Use o Estilo de página Padrão (ou qualquer outro estilo de página) para o seu documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48894,6 +49022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer provides a fast and convenient way to add one or more title pages to a document and optionally to restart the page number at 1 for the body of the document, using &lt;f0&gt;Format &gt; Title Page&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111201Z" creationid="timot" creationdate="20250404T111201Z">
+        <seg>O Writer fornece uma maneira rápida e conveniente de adicionar uma ou mais páginas de título a um documento e, opcionalmente, reiniciar o número de página em 1 para o corpo do documento, usando &lt;f0&gt;Formato &gt; Página de rosto&lt;/f0&gt; na Barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer will suggest a one-letter shortcut, which you can change.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T105143Z" creationid="timot" creationdate="20250215T105143Z">
@@ -49374,6 +49510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can connect a comment to multiple paragraphs or a single point.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111239Z" creationid="timot" creationdate="20250404T111239Z">
+        <seg>Existe a possibilidade de conectar um comentário a vários parágrafos ou a um único ponto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can copy a sheet within the same spreadsheet, by holding down the &lt;f0&gt;Ctrl&lt;/f0&gt; key, clicking on the sheet tab, and dragging it to its required position before releasing the mouse button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205417Z" creationid="olivier" creationdate="20250121T154828Z">
@@ -49418,6 +49562,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T105903Z" creationid="timot" creationdate="20250221T105903Z">
         <seg>É possível aplicar diretamente muitos formatos aos caracteres usando os botões na barra de ferramentas Formatação e usando o painel Caracteres do deique Propriedades da Barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can do this in several ways, as described in the Writer Guide:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250404T110547Z" creationid="timot" creationdate="20250404T110547Z">
+        <seg>Tem como fazer isso de várias maneiras, conforme descrito no Guia do Writer:</seg>
       </tuv>
     </tu>
     <tu>
