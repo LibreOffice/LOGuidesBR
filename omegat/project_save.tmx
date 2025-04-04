@@ -8838,6 +8838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;&lt;f1&gt;General&lt;/f1&gt;&lt;/f0&gt; to open the &lt;f2&gt;&lt;f3&gt;General&lt;/f3&gt;&lt;/f2&gt; page in the style dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202010Z" creationid="olivier" creationdate="20250404T202010Z">
+        <seg>Clique em &lt;f0&gt;&lt;f1&gt;Geral&lt;/f1&gt;&lt;/f0&gt; para abrir a página &lt;f2&gt;&lt;f3&gt;Geral&lt;/f3&gt;&lt;/f2&gt; na caixa de diálogo de estilos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;&lt;f1&gt;General&lt;/f1&gt;&lt;/f0&gt; to open the &lt;f2&gt;&lt;f3&gt;General&lt;/f3&gt;&lt;/f2&gt; page in the styles dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T184420Z" creationid="olivier-tdf" creationdate="20250403T184420Z">
@@ -8874,6 +8882,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T182618Z" creationid="olivier-tdf" creationdate="20250403T182618Z">
         <seg>Clique em &lt;f0&gt;Aplicar estilo&lt;/f0&gt; na barra de ferramentas Formatação para abrir a lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Apply&lt;/f0&gt; to rename the selected style, then click &lt;f1&gt;OK&lt;/f1&gt; to close the style dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202031Z" creationid="olivier" creationdate="20250404T202031Z">
+        <seg>Clique em &lt;f0&gt;Aplicar&lt;/f0&gt; para renomear o estilo selecionado e clique em &lt;f1&gt;OK&lt;/f1&gt; para fechar a caixa de diálogo de estilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12234,6 +12250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160532Z" creationid="olivier" creationdate="20250121T160532Z">
         <seg>Excluir planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleting styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202033Z" creationid="olivier" creationdate="20250404T202033Z">
+        <seg>Excluir estilos</seg>
       </tuv>
     </tu>
     <tu>
@@ -20926,6 +20950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If &lt;f0&gt;Modify&lt;/f0&gt; is grayed out in the context menu, then the selected style cannot be renamed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202004Z" creationid="olivier" creationdate="20250404T202004Z">
+        <seg>Se o comando &lt;f0&gt;Modificar&lt;/f0&gt; estiver acinzentado no menu de contexto, o estilo selecionado não poderá ser renomeado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If &lt;f0&gt;Print Directly&lt;/f0&gt; is not visible on the Standard toolbar, it can be installed as follows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183559Z" creationid="olivier" creationdate="20250222T183559Z">
@@ -21674,6 +21706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T214650Z" creationid="olivier" creationdate="20250324T214650Z">
         <seg>Se nenhum intervalo de impressão for definido, todo o documento será exportado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If not already open, open the Styles deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202449Z" creationid="olivier" creationdate="20250404T202449Z">
+        <seg>Abra o deque de Estilos na barra lateral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23238,6 +23278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In LibreOffice, only custom styles can be renamed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T201811Z" creationid="olivier" creationdate="20250404T201811Z">
+        <seg>No LibreOffice, apenas estilos personalizados podem ser renomeados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In PDF viewers it behaves like a normal PDF file, but remains fully editable in LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215942Z" creationid="olivier" creationdate="20250324T215942Z">
@@ -23282,6 +23330,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T194500Z" creationid="olivier" creationdate="20250404T194500Z">
         <seg>No Writer ou no Calc, escolha &lt;f0&gt;Estilos &gt; Atualizar estilo selecionado&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In Writer, &lt;f3&gt;AutoUpdate&lt;/f3&gt; only applies to paragraph and frame styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T201745Z" creationid="olivier" creationdate="20250404T201745Z">
+        <seg>No Writer, a &lt;f3&gt;atualização automática&lt;/f3&gt; só se aplica a estilos de parágrafo e quadro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23662,6 +23718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Name&lt;/f0&gt; text box, enter a new name for the selected style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202021Z" creationid="olivier" creationdate="20250404T202021Z">
+        <seg>Na caixa de texto &lt;f0&gt;Nome&lt;/f0&gt;, insira um novo nome para o estilo selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the &lt;f0&gt;Options&lt;/f0&gt; area, set the &lt;f1&gt;Leading zeroes&lt;/f1&gt; field to the maximum number of zeroes to display in front of the integer part of the number.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211038Z" creationid="olivier-tdf" creationdate="20250122T230612Z">
@@ -23854,6 +23918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the Styles drop‑down list at the bottom of the Sidebar, select &lt;f0&gt;Custom Styles&lt;/f0&gt; so you can see any custom styles that are available in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T201837Z" creationid="olivier" creationdate="20250404T201837Z">
+        <seg>Na lista suspensa Estilos, na parte inferior da barra lateral, selecione &lt;f0&gt;Estilos personalizados&lt;/f0&gt; para que possa ver todos os estilos personalizados disponíveis no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the Watermark dialog (Figure &lt;t0&gt;29&lt;/t0&gt;), type the text and select the font, angle, transparency and color of the watermark.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T220304Z" creationid="timot" creationdate="20250402T220304Z">
@@ -23938,6 +24010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T180610Z" creationid="timot" creationdate="20250122T180610Z">
         <seg>Na seção chamada &lt;f1&gt;Formato de arquivo padrão e configurações ODF&lt;/f1&gt;, em &lt;f2&gt;Tipo de documento, selecione Documento&lt;/f2&gt; de &lt;f3&gt;texto&lt;/f3&gt; (Writer) e, em &lt;f4&gt;Salvar sempre como&lt;/f4&gt;, selecione seu formato de arquivo preferido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the styles category drop‑down list at the bottom of the Sidebar, select &lt;f0&gt;Custom Styles&lt;/f0&gt; to display any custom styles that are available in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202509Z" creationid="olivier" creationdate="20250404T202509Z">
+        <seg>Na lista suspensa de categorias de estilos na parte inferior da barra lateral, selecione &lt;f0&gt;Estilos personalizados&lt;/f0&gt; para exibir todos os estilos personalizados disponíveis no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29454,6 +29534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only custom styles can be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202044Z" creationid="olivier" creationdate="20250404T202044Z">
+        <seg>Somente estilos personalizados podem ser excluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only embed the fonts that are used in your documents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200211Z" creationid="olivier-tdf" creationdate="20250328T200211Z">
@@ -32822,6 +32910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Renaming styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T201802Z" creationid="olivier" creationdate="20250404T201802Z">
+        <seg>Renomear estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Repeat Steps 2 thr&lt;f0&gt;o&lt;/f0&gt;u&lt;f1&gt;gh&lt;/f1&gt; 7 above until all targets required have been added to the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225032Z" creationid="olivier-tdf" creationdate="20250328T224937Z">
@@ -33426,6 +33522,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250225T000357Z" creationid="olivier" creationdate="20250222T165946Z">
         <seg>Clique com o botão direito do mouse num objeto na caixa de diálogo Navegador ou na barra lateral e selecione &lt;f0&gt;Renomear&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right‑click on the selected style and select &lt;f0&gt;&lt;f1&gt;Edit Style&lt;/f1&gt;&lt;/f0&gt; from the context menu to open the style dialog for the selected type of of style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T201936Z" creationid="olivier" creationdate="20250404T201936Z">
+        <seg>Clique com o botão direito do mouse no estilo e selecione &lt;f0&gt;&lt;f1&gt;Editar estilo&lt;/f1&gt;&lt;/f0&gt; no menu de contexto para abrir a caixa de diálogo de estilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34130,6 +34234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T192730Z" creationid="timot" creationdate="20250228T192730Z">
         <seg>Consulte o &lt;f2&gt;Guia do Writer&lt;/f2&gt; para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the &lt;f4&gt;Writer Guide&lt;/f4&gt; for more information on &lt;f5&gt;AutoUpdate&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T201800Z" creationid="olivier" creationdate="20250404T201800Z">
+        <seg>Consulte o &lt;f4&gt;Guia do Writer&lt;/f4&gt; para obter mais informações sobre a &lt;f5&gt;atualização automática&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35618,6 +35730,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T223943Z" creationid="olivier" creationdate="20250121T155243Z">
         <seg>Selecione o documento de planilha onde deseja que a planilha seja colocada na lista suspensa &lt;f0&gt;&lt;f1&gt;Para o documento&lt;/f1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the style that is going to be deleted from the displayed list of custom styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202529Z" creationid="olivier" creationdate="20250404T202529Z">
+        <seg>Selecione o estilo a excluir da lista exibida de estilos personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the style that is going to be renamed from the displayed list of custom styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T201901Z" creationid="olivier" creationdate="20250404T201901Z">
+        <seg>Selecione o estilo a renomear na lista exibida de estilos personalizados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44022,6 +44150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To delete multiple styles, hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key (macOS ⌘) while selecting styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202604Z" creationid="olivier" creationdate="20250404T202604Z">
+        <seg>Para excluir vários estilos, mantenha pressionada a tecla &lt;f0&gt;Ctrl&lt;/f0&gt; (macOS ⌘) enquanto seleciona estilos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To delete one or more sheets, first select the sheets (see “&lt;bf0&gt;Selecting sheets&lt;/bf0&gt;” on page &lt;bf1&gt;19&lt;/bf1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160613Z" creationid="olivier" creationdate="20250121T160613Z">
@@ -48258,6 +48394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T110953Z" creationid="timot" creationdate="20250113T110953Z">
         <seg>Quando texto é selecionado, estes painéis aparecem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the &lt;f0&gt;AutoUpdate&lt;/f0&gt; option is selected on the &lt;f1&gt;&lt;f2&gt;General&lt;/f2&gt;&lt;/f1&gt; page of the Paragraph Style, or Frame Style dialog, a style is updated whenever you directly format a paragraph or frame that is in that style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250404T201726Z" creationid="olivier" creationdate="20250404T201726Z">
+        <seg>Ao selecionar a opção &lt;f0&gt;Atualizar automaticamente pelo documento&lt;/f0&gt; na aba &lt;f1&gt;&lt;f2&gt;Geral&lt;/f2&gt;&lt;/f1&gt; da caixa de diálogo Estilo de parágrafo ou Estilo de quadro, o estilo é atualizado sempre que formatar diretamente um parágrafo ou quadro com esse estilo.</seg>
       </tuv>
     </tu>
     <tu>
