@@ -2294,6 +2294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Hyperlink dialog — Internet page&lt;/s0&gt;&lt;s1&gt;Hyperlink dialog — Internet page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T144501Z" creationid="olivier" creationdate="20250405T144501Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Hiperlink — Página Internet&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Hiperlink — Página Internet&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Impress Print dialog — Impress General page — Windows or Linux&lt;/s0&gt;&lt;s1&gt;Impress Print dialog — Impress General page — Windows or Linux&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T144804Z" creationid="olivier" creationdate="20250223T144804Z">
@@ -3774,6 +3782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A file browser window will appear.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143132Z" creationid="olivier" creationdate="20250405T143132Z">
+        <seg>Um navegador de arquivos abre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A filter is a tool that hides or displays records within a sheet based on a set of filtering conditions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier-tdf" creationdate="20250209T172325Z">
@@ -3970,6 +3986,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152634Z" creationid="olivier" creationdate="20250318T152634Z">
         <seg>Um endereço relativo sempre começa a partir do diretório no qual o documento atual está localizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A relative hyperlink contains an address that is relative to the document’s current file location.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143337Z" creationid="olivier" creationdate="20250405T143337Z">
+        <seg>Um hiperlink relativo contém um endereço que é relativo ao local atual do arquivo do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A relative hyperlink stops working if the document is removed from the current location.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143347Z" creationid="olivier" creationdate="20250405T143347Z">
+        <seg>Um hiperlink relativo para de funcionar se o documento for removido do local atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4190,6 +4222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Absolute and relative hyperlinks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143219Z" creationid="olivier" creationdate="20250405T143219Z">
+        <seg>Hiperlinks absolutos e relativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access PDF Options by going to &lt;f0&gt;File &gt; Export As &gt; Export as PDF&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T214353Z" creationid="olivier" creationdate="20250324T214353Z">
@@ -4266,6 +4306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001916Z" creationid="olivier" creationdate="20250303T001916Z">
         <seg>Acessar comandos da barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activate the context menu by right-clicking on the template to be exported then select &lt;f0&gt;Export&lt;/f0&gt; from the menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143059Z" creationid="olivier" creationdate="20250405T143059Z">
+        <seg>Ative o menu de contexto clicando com o botão direito do mouse no modelo a ser exportado e selecione &lt;f0&gt;Exportar&lt;/f0&gt; no menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5538,6 +5586,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T202854Z" creationid="olivier-tdf" creationdate="20250112T202854Z">
         <seg>Amanda Labby, Dave Barton, Hazel Russman, Jean Hollis Weber, Jeremy Cartwright, John A Smith, Jorge Rodriguez, Kees Kriek, Martin Saffron, Olivier Hallot, Paul Figueiredo, Ron Faile Jr., Skip Masonsmith, Steve Fanning, Peter Schofield, Rob Thornton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An absolute hyperlink links to a web page, or file, that is outside the current domain or file location.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143245Z" creationid="olivier" creationdate="20250405T143245Z">
+        <seg>Um hiperlink absoluto vincula a uma página da web, ou arquivo, que está fora do domínio ou local do arquivo atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An absolute hyperlink will stop working if its target is moved to a new location in the internet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143324Z" creationid="olivier" creationdate="20250405T143324Z">
+        <seg>Um hiperlink absoluto deixará de funcionar se seu alvo for movido para um novo local na Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8326,10 +8390,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Apply&lt;/f0&gt; to insert the hyperlink into the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143510Z" creationid="olivier" creationdate="20250405T143510Z">
+        <seg>Clique em &lt;f0&gt;Aplicar&lt;/f0&gt; para inserir o hiperlink no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;Certificate&lt;/f0&gt; and select which certificate store to use.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115525Z" creationid="olivier" creationdate="20250314T115525Z">
         <seg>Clique em &lt;f0&gt;Certificado&lt;/f0&gt; e selecione qual repositório de certificados utilizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Close&lt;/f0&gt; or &lt;f1&gt;OK&lt;/f1&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143519Z" creationid="olivier" creationdate="20250405T143519Z">
+        <seg>Clique em &lt;f0&gt;Fechar&lt;/f0&gt; ou &lt;f1&gt;OK&lt;/f1&gt; para fechar a caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14774,6 +14854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter the required web address in the &lt;f0&gt;URL&lt;/f0&gt; text box and a name for the hyperlink in the &lt;f1&gt;Text&lt;/f1&gt; text box (Figure &lt;t2&gt;12&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T144439Z" creationid="olivier" creationdate="20250405T144439Z">
+        <seg>Digite o endereço da web na caixa de texto &lt;f0&gt;URL&lt;/f0&gt; e um nome para o hiperlink na caixa de texto &lt;f1&gt;Texto&lt;/f1&gt; (Figura &lt;t2&gt;12&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter the smallest font size to apply anti-aliasing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165236Z" creationid="olivier" creationdate="20250312T165236Z">
@@ -15330,6 +15418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225146Z" creationid="olivier-tdf" creationdate="20250328T225146Z">
         <seg>Exportar alvos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exporting templates</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143032Z" creationid="olivier" creationdate="20250405T143032Z">
+        <seg>Exportar modelos</seg>
       </tuv>
     </tu>
     <tu>
@@ -18174,6 +18270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For information, see the &lt;f0&gt;Writer Guide&lt;/f0&gt; and &lt;f1&gt;Calc Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T144339Z" creationid="olivier" creationdate="20250405T144339Z">
+        <seg>Para obter informações, consulte o &lt;f0&gt;Guia do Writer&lt;/f0&gt; e o &lt;f1&gt;Guia do Calc&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For macOS, the Oracle Java Development Kit (JDK) has to be installed, not just the Java Runtime Environment (JRE).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194313Z" creationid="olivier-tdf" creationdate="20250109T194313Z">
@@ -20174,6 +20278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Insert &gt; Hyperlinks&lt;/f0&gt; on the Menu bar or use the keyboard shortcut &lt;f1&gt;Ctrl+K&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+K&lt;/f2&gt;) to open the Hyperlink dialog (Figure &lt;t3&gt;12&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143453Z" creationid="olivier" creationdate="20250405T143453Z">
+        <seg>Acesse &lt;f0&gt;Inserir &gt; Hiperlinks&lt;/f0&gt; na barra de menus ou use o atalho de teclado &lt;f1&gt;Ctrl+K&lt;/f1&gt; (macOS&lt;f2&gt;⌘ +K&lt;/f2&gt;) para abrir a caixa de diálogo Hiperlink (Figura &lt;t3&gt;12&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Insert &gt; Image&lt;/f0&gt; on the Menu bar to open the Insert Image dialog (Figure &lt;t1&gt;1&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012045Z" creationid="tulio" creationdate="20250320T012045Z">
@@ -21442,6 +21554,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215916Z" creationid="olivier" creationdate="20250324T215916Z">
         <seg>PDF híbrido (incorporar arquivo ODF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hyperlink types</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T144346Z" creationid="olivier" creationdate="20250405T144346Z">
+        <seg>Tipos de hiperlink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143200Z" creationid="olivier" creationdate="20250405T143200Z">
+        <seg>Hiperlinks</seg>
       </tuv>
     </tu>
     <tu>
@@ -23910,6 +24038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In LibreOffice, hyperlinks allow you to create references to web pages and other elements in remote locations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143212Z" creationid="olivier" creationdate="20250405T143212Z">
+        <seg>No LibreOffice, os hiperlinks permitem criar referências a páginas da web e outros elementos em locais remotos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In LibreOffice, menus, toolbars, and Sidebar panels share many functions across modules.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134705Z" creationid="olivier" creationdate="20250217T134705Z">
@@ -23954,6 +24090,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T233239Z" creationid="olivier" creationdate="20250220T233239Z">
         <seg>No Windows ou Linux — o documento é fechado e o Centro de partida do LibreOffice fica aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In Writer and Calc, the Navigator can be used to insert hyperlinks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T144333Z" creationid="olivier" creationdate="20250405T144333Z">
+        <seg>No Writer e no Calc, você pode usar o Navegador para inserir hiperlinks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25110,6 +25254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inserting hyperlinks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143357Z" creationid="olivier" creationdate="20250405T143357Z">
+        <seg>Inserir hiperlinks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inserting new sheets</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154254Z" creationid="olivier" creationdate="20250121T154254Z">
@@ -25698,6 +25850,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194724Z" creationid="olivier-tdf" creationdate="20250209T194724Z">
         <seg>Pode ser necessário remover um intervalo de impressão definido, por exemplo, se a planilha inteira precisar ser impressa posteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It must contain the full address of the target file, or web site, such as &lt;a0&gt;https://libreoffice.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143306Z" creationid="olivier" creationdate="20250405T143306Z">
+        <seg>Deve conter o endereço completo do arquivo de destino ou site, como &lt;a0&gt;https://pt-br.libreoffice.org&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26338,6 +26498,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T234541Z" creationid="olivier" creationdate="20250302T234541Z">
         <seg>Ferramentas assistivas do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice automatically converts website URLs into hyperlinks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143544Z" creationid="olivier" creationdate="20250405T143544Z">
+        <seg>O LibreOffice converte automaticamente URLs de sites em hiperlinks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28958,6 +29126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigate to the folder where the template will be exported and click on &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143148Z" creationid="olivier" creationdate="20250405T143148Z">
+        <seg>Navegue até a pasta onde o modelo será exportado e clique em &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigate to the location of the new folder in the Export dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224207Z" creationid="olivier" creationdate="20250327T224207Z">
@@ -29466,6 +29642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T231004Z" creationid="olivier" creationdate="20250319T231004Z">
         <seg>Observe que esses recursos só são eficazes se a exportação de layout de impressão estiver ativada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that this color change changes the color for all hyperlinks across all LibreOffice modules.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T144308Z" creationid="olivier" creationdate="20250405T144308Z">
+        <seg>Observe que essa mudança de cor altera a cor de todos os hiperlinks em todos os módulos do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30134,6 +30318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the left hand side, determine whether the hyperlink will be absolute or relative.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143502Z" creationid="olivier" creationdate="20250405T143502Z">
+        <seg>No lado esquerdo, determine se o hiperlink será absoluto ou relativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the top right of the Navigator is a &lt;f0&gt;Go to Page&lt;/f0&gt; field, which you can use to jump directly to a specific page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T182124Z" creationid="timot" creationdate="20250122T182048Z">
@@ -30738,6 +30930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204532Z" creationid="olivier" creationdate="20250404T204532Z">
         <seg>Abra a caixa de diálogo Modelos (Figura &lt;t0&gt;7&lt;/t0&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Templates dialog by selecting &lt;f0&gt;File &gt; New &gt; Templates&lt;/f0&gt; or &lt;f1&gt;File &gt; Templates &gt; Manage Templates &lt;/f1&gt;on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143047Z" creationid="olivier" creationdate="20250405T143047Z">
+        <seg>Abra a caixa de diálogo Modelos selecionando &lt;f0&gt;Arquivo &gt; Novo &gt; Modelos&lt;/f0&gt; ou &lt;f1&gt;Arquivo &gt; Modelos &gt; Gerenciar Modelos&lt;/f1&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36398,6 +36598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the location where the hyperlink will be inserted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143421Z" creationid="olivier" creationdate="20250405T143421Z">
+        <seg>Selecione o local a inserir o hiperlink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the menu command from the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T220731Z" creationid="olivier" creationdate="20250307T220731Z">
@@ -36842,6 +37050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250310T223249Z" creationid="olivier" creationdate="20250310T223249Z">
         <seg>Selecione o modo de visibilidade (&lt;f0&gt;Automático, Ocultar, Mostrar&lt;/f0&gt;) para ocultar ou mostrar ícones, bem como texto na barra de menu e em itens de atalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select them, choose new colors from the color palettes for the links, and click &lt;f4&gt;OK&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T144258Z" creationid="olivier" creationdate="20250405T144258Z">
+        <seg>Selecione-as, escolha novas cores nas paletas de cores dos links e clique em &lt;f4&gt;OK&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42694,6 +42910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The template is exported to the selected location and the browser closes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143158Z" creationid="olivier" creationdate="20250405T143158Z">
+        <seg>O modelo é exportado para o local selecionado e o navegador é fechado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The terms used in LibreOffice for most parts of the user interface (the parts of the program seen and used, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214223Z" creationid="olivier-tdf" creationdate="20250109T214223Z">
@@ -43130,6 +43354,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223827Z" creationid="olivier-tdf" creationdate="20250122T223827Z">
         <seg>Existem dois métodos para dividir uma tela tanto horizontalmente &lt;f0&gt;quanto&lt;/f0&gt; verticalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are two types of hyperlinks: absolute and relative.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143227Z" creationid="olivier" creationdate="20250405T143227Z">
+        <seg>Existem dois tipos de hiperlinks: absolutos e relativos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44638,6 +44870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tips</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143531Z" creationid="olivier" creationdate="20250405T143523Z">
+        <seg>Dicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202149Z" creationid="olivier" creationdate="20250327T202149Z">
@@ -44950,6 +45190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change the color of hyperlinks, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; Application Colors&lt;/f1&gt;), and scroll to the &lt;f2&gt;Unvisited links&lt;/f2&gt; and/or &lt;f3&gt;Visited links checkboxes&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T144116Z" creationid="olivier" creationdate="20250405T144116Z">
+        <seg>Para alterar a cor dos hiperlinks, escolha &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Cores do aplicativo&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; LibreOffice &gt; Cores do aplicativo&lt;/f1&gt;) e role até as caixas de seleção &lt;f2&gt;Links não visitados&lt;/f2&gt; e/ou &lt;f3&gt;Links visitados&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change the date or time format used by Calc:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204413Z" creationid="olivier" creationdate="20250123T204413Z">
@@ -45090,6 +45338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier-tdf" creationdate="20250209T194616Z">
         <seg>Para verificar o intervalo de impressão, acesse &lt;f0&gt;Arquivo &gt; Visualizar impressão&lt;/f0&gt; na barra de menu, tecle &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt; ou clique no ícone &lt;f2&gt;Alternar visualização de impressão&lt;/f2&gt; na barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To choose a hyperlink type, go to &lt;f0&gt;Insert &gt; Hyperlinks&lt;/f0&gt; on the Menu bar or use the keyboard shortcut &lt;f1&gt;Ctrl+K&lt;/f1&gt; (macOS ⌘&lt;f2&gt;+K&lt;/f2&gt;) to open the Hyperlink dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T144416Z" creationid="olivier" creationdate="20250405T144416Z">
+        <seg>Para escolher um tipo de hiperlink, acione &lt;f0&gt;Inserir &gt; Hiperlinks&lt;/f0&gt; na barra de menus ou use o atalho de teclado &lt;f1&gt;Ctrl+K&lt;/f1&gt; (macOS&lt;f2&gt;⌘ +K&lt;/f2&gt;) para abrir a caixa de diálogo Hiperlink.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46722,6 +46978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212013Z" creationid="olivier" creationdate="20250123T212013Z">
         <seg>Para desativar alguns ou todos os recursos de Autocorreção, acesse &lt;f0&gt;Ferramentas &gt; Opções de Autocorreção&lt;/f0&gt; na barra de menus e desmarque os recursos indesejados nas guias &lt;f1&gt;Opções&lt;/f1&gt; e &lt;f2&gt;Opções da localidade&lt;/f2&gt; na caixa de diálogo Autocorreção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To turn off this function, go to &lt;f0&gt;Tools &gt; AutoCorrect Options &gt; Options&lt;/f0&gt; and deselect &lt;f1&gt;URL Recognition&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T144039Z" creationid="olivier" creationdate="20250405T144039Z">
+        <seg>Para desativar esta função, escolha &lt;f0&gt;Ferramentas &gt; Opções da Autocorreção &gt; Opções&lt;/f0&gt; e desmarque &lt;f1&gt;Reconhecer URLs&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
