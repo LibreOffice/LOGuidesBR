@@ -2414,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;New Category dialog&lt;/s0&gt;&lt;s1&gt;New Category dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120103Z" creationid="olivier" creationdate="20250405T120103Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Nova categoria&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Nova categoria&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;New Menu dialog&lt;/s0&gt;&lt;s1&gt;New Menu dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T215501Z" creationid="olivier" creationdate="20250307T215501Z">
@@ -2818,6 +2826,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121107Z" creationid="olivier" creationdate="20250121T121107Z">
         <seg>&lt;s0&gt;Caixa Selecionar tudo&lt;/s0&gt;&lt;s1&gt;Caixa Selecionar tudo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Select Category dialog&lt;/s0&gt;&lt;s1&gt;Select Category dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120746Z" creationid="olivier" creationdate="20250405T120746Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Selecionar categoria&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Selecionar categoria&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8518,6 +8534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to move the template to its new category and close the Select Category dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120714Z" creationid="olivier" creationdate="20250405T120714Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para mover o modelo para sua nova categoria e fechar a caixa de diálogo Selecionar categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to paste the data into the target cell or range of cells and close the dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011147Z" creationid="olivier" creationdate="20250124T011147Z">
@@ -8602,6 +8626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224012Z" creationid="olivier" creationdate="20250307T224012Z">
         <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar as alterações na barra de ferramentas e fechar a caixa de diálogo Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the new category and the category appears in the &lt;f1&gt;Filter&lt;/f1&gt; drop-down list for categories at the top of the Templates dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115926Z" creationid="olivier" creationdate="20250405T115926Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar a nova categoria e a categoria aparecerá na lista suspensa &lt;f1&gt;Filtrar&lt;/f1&gt; na parte superior da caixa de diálogo Modelos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8722,6 +8754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123855Z" creationid="olivier-tdf" creationdate="20250117T123855Z">
         <seg>Clique em &lt;f0&gt;Salvar&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Yes&lt;/f0&gt; to confirm the deletion of the custom category.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120027Z" creationid="olivier" creationdate="20250405T120027Z">
+        <seg>Clique em &lt;f0&gt;Sim&lt;/f0&gt; para confirmar a exclusão da categoria personalizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9270,6 +9310,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Manage&lt;/f0&gt; at the top right of the Template dialog and select &lt;f1&gt;Delete Category&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120017Z" creationid="olivier" creationdate="20250405T120017Z">
+        <seg>Clique em &lt;f0&gt;Gerenciar&lt;/f0&gt; no canto superior direito da caixa de diálogo Modelo e selecione &lt;f1&gt;Excluir categoria&lt;/f1&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Manage&lt;/f0&gt; at the top right of the Templates dialog and select &lt;f1&gt;New Category&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115839Z" creationid="olivier" creationdate="20250405T115839Z">
+        <seg>Clique em &lt;f0&gt;Gerenciar&lt;/f0&gt; no canto superior direito da caixa de diálogo Modelos e selecione &lt;f1&gt;Nova categoria&lt;/f1&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Menus&lt;/f0&gt; to open the &lt;f1&gt;Menus&lt;/f1&gt; page (Figure &lt;t2&gt;1&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T213005Z" creationid="olivier" creationdate="20250307T213005Z">
@@ -9626,6 +9682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T181818Z" creationid="olivier" creationdate="20250222T181818Z">
         <seg>Clique em &lt;f0&gt;Desfazer&lt;/f0&gt; na barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Yes&lt;/f0&gt; to confirm the deletion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120956Z" creationid="olivier" creationdate="20250405T120956Z">
+        <seg>Clique em &lt;f4&gt;Sim&lt;/f4&gt; para confirmar a exclusão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11222,6 +11286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating custom categories</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115823Z" creationid="olivier" creationdate="20250405T115823Z">
+        <seg>Criar categorias personalizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creating custom colors</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084917Z" creationid="olivier" creationdate="20250308T084917Z">
@@ -12478,6 +12550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deleting custom categories</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115937Z" creationid="olivier" creationdate="20250405T115937Z">
+        <seg>Excluir categorias personalizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deleting data</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011351Z" creationid="olivier" creationdate="20250124T011351Z">
@@ -12514,6 +12594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202033Z" creationid="olivier" creationdate="20250404T202033Z">
         <seg>Excluir estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleting templates</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120854Z" creationid="olivier" creationdate="20250405T120854Z">
+        <seg>Excluir modelos</seg>
       </tuv>
     </tu>
     <tu>
@@ -14286,6 +14374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter a category name in &lt;f0&gt;Enter new category name&lt;/f0&gt; box in the New Category dialog (Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115857Z" creationid="olivier" creationdate="20250405T115857Z">
+        <seg>Insira um nome de categoria na caixa &lt;f0&gt;Inserir novo nome de categoria&lt;/f0&gt; na caixa de diálogo Nova categoria (Figura &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter a custom format code.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210856Z" creationid="olivier-tdf" creationdate="20250128T210856Z">
@@ -14426,6 +14522,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T230811Z" creationid="olivier-tdf" creationdate="20250328T230811Z">
         <seg>Digite uma nova senha para abrir o arquivo e permitir a edição do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter a new template name in the text box that has opened, then click on &lt;f0&gt;OK&lt;/f0&gt; to save the new template name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T121212Z" creationid="olivier" creationdate="20250405T121212Z">
+        <seg>Digite um novo nome de modelo na caixa de texto aberta e clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar o novo nome de modelo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15422,6 +15526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: New Category dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120111Z" creationid="olivier" creationdate="20250405T120111Z">
+        <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Caixa de diálogo Nova categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Options LibreOffice dialog — Accessibility page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T123549Z" creationid="olivier" creationdate="20250314T123549Z">
@@ -15474,6 +15586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T212805Z" creationid="olivier" creationdate="20250308T090740Z">
         <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Caixa de diálogo Selecionar cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Select Category dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120756Z" creationid="olivier" creationdate="20250405T120756Z">
+        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Caixa de diálogo Selecionar categoria</seg>
       </tuv>
     </tu>
     <tu>
@@ -17682,6 +17802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="olivier-tdf" creationdate="20250218T130138Z">
         <seg>Por exemplo, selecione uma palavra e clique em uma ferramenta na barra de ferramentas Formatação, na Barra lateral ou use um atalho de teclado para formatar o texto em negrito ou itálico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, separate template categories for different projects or clients.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115727Z" creationid="olivier" creationdate="20250405T115727Z">
+        <seg>Por exemplo, categorias de modelos separadas para diferentes projetos ou clientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24382,6 +24510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the Select Category dialog (Figure &lt;t0&gt;11&lt;/t0&gt;), select a category from the displayed list of categories, or enter a name in the &lt;f1&gt;Create a New Category&lt;/f1&gt; box to create a new category for the template.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120603Z" creationid="olivier" creationdate="20250405T120603Z">
+        <seg>Na caixa de diálogo Selecionar categoria (Figura &lt;t0&gt;11&lt;/t0&gt;), selecione uma categoria na lista exibida ou insira um nome na caixa &lt;f1&gt;Criar uma nova categoria&lt;/f1&gt; para criar uma categoria para o modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the Styles drop‑down list at the bottom of the Sidebar, select &lt;f0&gt;Custom Styles&lt;/f0&gt; so you can see any custom styles that are available in the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T201837Z" creationid="olivier" creationdate="20250404T201837Z">
@@ -26710,6 +26846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice’s default template categories or categories using the Extension Manager cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120219Z" creationid="olivier" creationdate="20250405T120219Z">
+        <seg>As categorias de modelos padrão do LibreOffice ou categorias oriundas do Gerenciador de extensões não podem ser excluídas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice’s toolbars can be in one of two states: docked and floating.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="tulio" creationdate="20250119T172257Z">
@@ -28518,6 +28662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moving templates</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120506Z" creationid="olivier" creationdate="20250405T120506Z">
+        <seg>Mover modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving the margins</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T210413Z" creationid="timot" creationdate="20250402T210413Z">
@@ -28890,6 +29042,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215745Z" creationid="olivier-tdf" creationdate="20250109T215745Z">
         <seg>Novo deque de "localização rápida" na barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Category dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120119Z" creationid="olivier" creationdate="20250405T120119Z">
+        <seg>Caixa de diálogo Nova categoria</seg>
       </tuv>
     </tu>
     <tu>
@@ -30054,10 +30214,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only custom categories that have been created in Impress can be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120456Z" creationid="olivier" creationdate="20250405T120456Z">
+        <seg>Somente categorias personalizadas podem ser excluídas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only custom styles can be deleted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202044Z" creationid="olivier" creationdate="20250404T202044Z">
         <seg>Somente estilos personalizados podem ser excluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only custom templates can be moved between categories.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120810Z" creationid="olivier" creationdate="20250405T120810Z">
+        <seg>Apenas modelos personalizados podem ser movidos entre categorias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30098,6 +30274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115403Z" creationid="olivier" creationdate="20250405T115403Z">
         <seg>Somente modelos criados ou importados podem ser editados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only templates that have been created in LibreOffice, or imported from other sources, can be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T121059Z" creationid="olivier" creationdate="20250405T121059Z">
+        <seg>Somente modelos criados no LibreOffice ou importados de outras fontes podem ser excluídos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33494,6 +33678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Renaming templates</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T121110Z" creationid="olivier" creationdate="20250405T121110Z">
+        <seg>Renomear modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Repeat Steps 2 thr&lt;f0&gt;o&lt;/f0&gt;u&lt;f1&gt;gh&lt;/f1&gt; 7 above until all targets required have been added to the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225032Z" creationid="olivier-tdf" creationdate="20250328T224937Z">
@@ -34042,6 +34234,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115110Z" creationid="olivier" creationdate="20250405T114412Z">
         <seg>Clique com o botão direito do mouse no modelo e selecione &lt;f0&gt;Redefinir padrão&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click on the template being deleted and select &lt;f0&gt;Delete&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120943Z" creationid="olivier" creationdate="20250405T120943Z">
+        <seg>Clique com o botão direito do mouse no modelo a excluir e selecione &lt;f0&gt;Excluir&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click on the template being renamed and select &lt;f0&gt;Rename&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T121145Z" creationid="olivier" creationdate="20250405T121145Z">
+        <seg>Clique com o botão direito do mouse no modelo a renomear e selecione &lt;f0&gt;Renomear&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click on the template that is going to be moved and select &lt;f0&gt;Move&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120530Z" creationid="olivier" creationdate="20250405T120530Z">
+        <seg>Clique com o botão direito do mouse no modelo a mover e selecione &lt;f0&gt;Mover&lt;/f0&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35318,6 +35534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select Category dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120800Z" creationid="olivier" creationdate="20250405T120800Z">
+        <seg>Caixa de diálogo Selecionar categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select Certificate dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191025Z" creationid="olivier-tdf" creationdate="20250328T191025Z">
@@ -35946,6 +36170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T214342Z" creationid="olivier" creationdate="20250307T214342Z">
         <seg>Selecione o comando para remoção na lista de &lt;f0&gt;Comandos atribuídos&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the custom category for deletion from the drop-down list of categories at the top of the Templates dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120005Z" creationid="olivier" creationdate="20250405T120005Z">
+        <seg>Selecione a categoria personalizada a excluir na lista suspensa de categorias na parte superior da caixa de diálogo Modelos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39534,6 +39766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Templates can also be imported and exported.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115734Z" creationid="olivier" creationdate="20250405T115734Z">
+        <seg>Os modelos também podem ser importados e exportados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Templates can be created to suit your requirements.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204116Z" creationid="olivier" creationdate="20250404T204116Z">
@@ -39546,6 +39786,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204445Z" creationid="olivier" creationdate="20250404T204445Z">
         <seg>Caixa de diálogo Modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Templates supplied with LibreOffice or installed with the Extension Manager cannot be moved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120846Z" creationid="olivier" creationdate="20250405T120846Z">
+        <seg>Os modelos fornecidos com o LibreOffice ou instalados com o Gerenciador de extensões não podem mover-se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Templates supplied with LibreOffice, or installed using the Extension Manager, cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T121036Z" creationid="olivier" creationdate="20250405T121036Z">
+        <seg>Os modelos fornecidos com o LibreOffice ou instalados com o Gerenciador de extensões não podem ser excluídos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41474,6 +41730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191848Z" creationid="olivier" creationdate="20250316T191848Z">
         <seg>A lista desses recursos é diferente versão por versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The location of folders used LibreOffice template categories varies with computer operating systems.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115744Z" creationid="olivier" creationdate="20250405T115744Z">
+        <seg>A localização das pastas usadas nas categorias de modelos do LibreOffice varia de acordo com os sistemas operacionais do computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45522,6 +45786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier-tdf" creationdate="20250209T190549Z">
         <seg>Para iniciar o Assistente de função, clique no ícone &lt;f0&gt;Assistente de função&lt;/f0&gt; na barra de Fórmulas, selecione &lt;f1&gt;Inserir &gt; Função&lt;/f1&gt; na barra de menu ou tecle &lt;f2&gt;Ctrl+F2&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To learn where the template folders are stored on a computer, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; Paths&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115812Z" creationid="olivier" creationdate="20250405T115812Z">
+        <seg>Para saber onde as pastas de modelo estão armazenadas num computador, scesse &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Caminhos&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; LibreOffice &gt; Caminhos&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
