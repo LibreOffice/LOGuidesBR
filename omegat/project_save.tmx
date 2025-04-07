@@ -6758,6 +6758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be careful when changing a language in character or paragraph styles, as this will change the language for all characters or paragraphs using that style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T120006Z" creationid="timot" creationdate="20250407T120006Z">
+        <seg>Cuidado ao alterar um idioma nos estilos de caracteres ou parágrafos, pois isso mudará o idioma de todos os caracteres ou parágrafos que usam esse estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because styles apply whole groups of formats at the same time, you can easily format a document consistently and change the formatting of an entire document with minimal effort.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T100035Z" creationid="timot" creationdate="20250217T100035Z">
@@ -25872,8 +25880,8 @@
       <tuv lang="en-US">
         <seg>It also applies the localized versions of AutoCorrect replacement options and uses the appropriate thesaurus.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115735Z" creationid="timot" creationdate="20250407T115735Z">
-        <seg>Também aplica as versões localizadas das opções de substituição da AutoCorreção e usa o dicionário de sinônimos apropriado.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115743Z" creationid="timot" creationdate="20250407T115735Z">
+        <seg>Também aplica as versões localizadas das opções de substituição da Autocorreção e usa o dicionário de sinônimos apropriado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26210,6 +26218,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T230528Z" creationid="olivier-tdf" creationdate="20250224T230528Z">
         <seg>Pode ser necessário experimentar para descobrir o arranjo correto para a impressora que está sendo usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It may be useful to include the language in the name of the style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T120017Z" creationid="timot" creationdate="20250407T120017Z">
+        <seg>Pode ser útil incluir o idioma no nome do estilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26626,6 +26642,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232053Z" creationid="olivier" creationdate="20250319T232053Z">
         <seg>Idiomas e localidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Languages can be set on the &lt;f0&gt;Font&lt;/f0&gt; tab of the Paragraph Style dialog or the Character Style dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115935Z" creationid="timot" creationdate="20250407T115935Z">
+        <seg>Os idiomas podem ser definidos na guia &lt;f0&gt;Fonte&lt;/f0&gt; da caixa de diálogo Estilo de parágrafo ou na caixa de diálogo Estilo de caractere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Languages set with direct formatting will override languages set using styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T120025Z" creationid="timot" creationdate="20250407T120025Z">
+        <seg>Os idiomas definidos com formatação direta substituirão os idiomas definidos usando estilos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32198,6 +32230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options for applying languages</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115757Z" creationid="timot" creationdate="20250407T115757Z">
+        <seg>Opções para aplicar idiomas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options for customizing word completion from the AutoCorrect dialog include:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T213744Z" creationid="timot" creationdate="20250210T213744Z">
@@ -35850,6 +35890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T105517Z" creationid="timot" creationdate="20250215T105517Z">
         <seg>Consulte o &lt;f0&gt;Guia do Writer&lt;/f0&gt; para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the &lt;f1&gt;Writer Guide&lt;/f1&gt; for information on how to manage the language settings of a style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115946Z" creationid="timot" creationdate="20250407T115946Z">
+        <seg>Consulte o &lt;f1&gt;Guia do Writer&lt;/f1&gt; para obter informações sobre como gerenciar as configurações de idioma de um estilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42566,10 +42614,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The language of a whole document can be set by using &lt;f0&gt;Tools &gt; Options &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Languages and Locales&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;General&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T120219Z" creationid="timot" creationdate="20250407T120219Z">
+        <seg>O idioma de um documento inteiro pode ser definido usando &lt;f0&gt;Ferramentas &gt; Opções &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Idiomas e localidades&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Geral&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The language to be used for checking spelling can be selected in this drop-down list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T101406Z" creationid="timot" creationdate="20250206T101406Z">
         <seg>O idioma a ser usado para verificar a ortografia pode ser selecionado nesta lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The language used at the location of the cursor is shown in the Status bar, next to the page style in use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115909Z" creationid="timot" creationdate="20250407T115909Z">
+        <seg>O idioma usado no local do cursor fica exibido na Barra de status, ao lado do estilo de página em uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49174,6 +49238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using direct formatting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T120034Z" creationid="timot" creationdate="20250407T120034Z">
+        <seg>Usar formatação direta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using formulas and functions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190257Z" creationid="olivier-tdf" creationdate="20250209T190257Z">
@@ -49202,6 +49274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123825Z" creationid="olivier-tdf" creationdate="20250114T123825Z">
         <seg>Documento de planilhas no LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115917Z" creationid="timot" creationdate="20250407T115917Z">
+        <seg>Usar estilos</seg>
       </tuv>
     </tu>
     <tu>
