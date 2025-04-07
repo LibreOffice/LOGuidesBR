@@ -2118,6 +2118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of comments&lt;/s0&gt;&lt;s1&gt;Example of comments&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114330Z" creationid="timot" creationdate="20250407T114330Z">
+        <seg>&lt;s0&gt;Exemplo de anotações&lt;/s0&gt;&lt;s1&gt; Exemplo de anotações&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of creating floating sub-toolbar from a tool palette&lt;/s0&gt;&lt;s1&gt;Example of creating floating sub-toolbar from a tool palette&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173747Z" creationid="tulio" creationdate="20250119T173747Z">
@@ -3614,6 +3622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A &lt;f4&gt;Comments&lt;/f4&gt; button is also added to the right of the horizontal ruler at the top of the page; you can click this button to toggle the display of the comments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114207Z" creationid="timot" creationdate="20250407T113907Z">
+        <seg>Um botão &lt;f4&gt;Anotações&lt;/f4&gt; também é adicionado à direita da régua horizontal na parte superior da página. Clicar neste botão alterna a exibição das anotações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A CSV file stores data in a text format, separating values with a specific delimiter character.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier-tdf" creationdate="20250117T122122Z">
@@ -4600,8 +4616,8 @@
       <tuv lang="en-US">
         <seg>Adding comments to a document</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111207Z" creationid="timot" creationdate="20250404T111207Z">
-        <seg>Adicionar comentários a um documento</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114004Z" creationid="timot" creationdate="20250404T111207Z">
+        <seg>Adicionar anotações a um documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -6374,6 +6390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the bottom of the comment, Writer automatically adds the author’s name and a time stamp indicating when the comment was created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114246Z" creationid="timot" creationdate="20250407T113928Z">
+        <seg>Na parte inferior da anotação, o Writer adiciona automaticamente o nome do autor e um carimbo de data/hora indicando por quem e quando o comentário foi criado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the top of the Sidebar, click on the chevron &lt;f0&gt;˅,&lt;/f0&gt; or triangle ▼next to &lt;f1&gt;Styles actions&lt;/f1&gt; and select &lt;f2&gt;Update Selected Style&lt;/f2&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T194423Z" creationid="olivier" creationdate="20250404T194423Z">
@@ -6408,8 +6432,8 @@
       <tuv lang="en-US">
         <seg>Authors and reviewers often use comments to exchange ideas, ask for suggestions, or mark items needing attention.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111217Z" creationid="timot" creationdate="20250404T111217Z">
-        <seg>Autores e revisores costumam usar comentários para trocar ideias, pedir sugestões ou marcar itens que precisam de atenção.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T113950Z" creationid="timot" creationdate="20250404T111217Z">
+        <seg>Autores e revisores costumam usar anotações para trocar ideias, pedir sugestões ou marcar itens que precisam de atenção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7894,6 +7918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing the language for specific text enables you to use the correct dictionaries and rules to check spelling, grammar, and hyphenation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115727Z" creationid="timot" creationdate="20250407T115727Z">
+        <seg>Alterar o idioma de um texto específico permite o uso de dicionários e regras corretos para verificar a ortografia, a gramática e a hifenização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing the measurement unit for a ruler</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T110708Z" creationid="timot" creationdate="20250224T110708Z">
@@ -8354,6 +8386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T105047Z" creationid="timot" creationdate="20250215T105047Z">
         <seg>Escolha &lt;f0&gt;Ferramentas &gt; Autotexto&lt;/f0&gt; na barra de menu (ou tecle &lt;f1&gt;Ctrl+F3&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; to provide the name you want to appear in the Author field of comments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114435Z" creationid="timot" creationdate="20250407T114435Z">
+        <seg>Escolha &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Dados do Uuuário&lt;/f0&gt; para preencher o nome que deseja que apareça no campo Autor das anotações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10458,6 +10498,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T184124Z" creationid="olivier-tdf" creationdate="20250309T184124Z">
         <seg>Clique na divisa &lt;f3&gt;&gt;&lt;/f3&gt; ao lado de LibreOffice para selecionar uma categoria na lista suspensa e exibir a página relevante no lado direito da caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the comment directly to edit it and right-click on the comment to delete it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115315Z" creationid="timot" creationdate="20250407T115315Z">
+        <seg>Clique diretamente na anotação para editá-lo e clique com o botão direito do mouse na anotação para excluí-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15310,6 +15358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114344Z" creationid="timot" creationdate="20250407T114344Z">
+        <seg>Exemplo de anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example of creating floating sub-toolbar from a tool palette</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173805Z" creationid="tulio" creationdate="20250119T173805Z">
@@ -16654,6 +16710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Example of comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114337Z" creationid="timot" creationdate="20250407T114337Z">
+        <seg>Figura &lt;seq0&gt;30&lt;/seq0&gt;: Exemplo de anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Paste Special dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T010956Z" creationid="olivier" creationdate="20250124T010956Z">
@@ -17194,6 +17258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223340Z" creationid="olivier-tdf" creationdate="20250122T223340Z">
         <seg>A Figura &lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;fornece um exemplo de uma planilha dividida horizontalmente em duas seções, com a divisão indicada pela linha separadora cinza localizada entre as linhas 2 e 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;t0&gt;30&lt;/t0&gt;&lt;s1/&gt;shows an example of text with comments from two different authors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114310Z" creationid="timot" creationdate="20250407T114310Z">
+        <seg>A Figura &lt;t0&gt;30&lt;/t0&gt;&lt;s1/&gt; mostra um exemplo de texto com anotações de dois autores diferentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19298,6 +19370,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T095816Z" creationid="timot" creationdate="20250221T095816Z">
         <seg>Formatar caracteres usando estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formatting comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114218Z" creationid="timot" creationdate="20250407T113915Z">
+        <seg>Formatar anotações</seg>
       </tuv>
     </tu>
     <tu>
@@ -22382,6 +22462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If more than one person edits the document, each author is automatically allocated a different background color.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114256Z" creationid="timot" creationdate="20250407T114256Z">
+        <seg>Se mais de uma pessoa editar o documento, cada autor receberá automaticamente uma cor de fundo diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If necessary you can select a master slide and apply it to the current slide.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222255Z" creationid="olivier" creationdate="20250212T222255Z">
@@ -24718,6 +24806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In that case, the text on each page is scaled down to make space for the comments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115510Z" creationid="timot" creationdate="20250407T115510Z">
+        <seg>Nesse caso, o texto em cada página é reduzido para dar espaço às anotações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the &lt;f0&gt;Action&lt;/f0&gt; area, select &lt;f1&gt;Move&lt;/f1&gt; to move the sheet or &lt;f2&gt;Copy&lt;/f2&gt; to copy the sheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155159Z" creationid="olivier" creationdate="20250121T155159Z">
@@ -25770,6 +25866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215248Z" creationid="olivier-tdf" creationdate="20250109T215248Z">
         <seg>Está escrito em Java?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It also applies the localized versions of AutoCorrect replacement options and uses the appropriate thesaurus.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115735Z" creationid="timot" creationdate="20250407T115735Z">
+        <seg>Também aplica as versões localizadas das opções de substituição da AutoCorreção e usa o dicionário de sinônimos apropriado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29534,6 +29638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigating through comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114957Z" creationid="timot" creationdate="20250407T114957Z">
+        <seg>Navegar pelas anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigating within spreadsheets</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T002843Z" creationid="olivier" creationdate="20250120T002843Z">
@@ -30658,6 +30770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T182124Z" creationid="timot" creationdate="20250122T182048Z">
         <seg>No canto superior direito do Navegador há um campo &lt;f0&gt;Ir para página&lt;/f0&gt;, útil para pular diretamente a uma página específica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On this menu, you can also reply to a comment, open a dialog to apply some basic formatting to the text, and mark comments as Resolved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114909Z" creationid="timot" creationdate="20250407T114909Z">
+        <seg>Neste menu, também, é possível responder a um comentário, abrir uma caixa de diálogo para aplicar alguma formatação básica ao texto e marcar os comentários como Resolvidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33558,6 +33678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Printing comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115427Z" creationid="timot" creationdate="20250407T115427Z">
+        <seg>Imprimir anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printing from Calc is similar to &lt;s0/&gt;printing from other LibreOffice components (see Chapter 1, LibreOffice Basics), but some details of printing in Calc are different, especially regarding preparation for printing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194032Z" creationid="olivier-tdf" creationdate="20250209T194032Z">
@@ -34778,6 +34906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier-tdf" creationdate="20250122T225608Z">
         <seg>Clique com o botão direito do mouse num título de coluna ou linha e desmarque &lt;f0&gt;Dividir janela&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click on a comment to open a context menu where you can delete the current comment or whore current commend thread, all the comments from the same author, or all the comments in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114841Z" creationid="timot" creationdate="20250407T114841Z">
+        <seg>Clique com o botão direito do mouse em uma anotação para abrir um menu de contexto abrindo a possibilidade de excluir a anotação atual ou o tópico inteiro, todos as anotações do mesmo autor ou todas as anotações no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41246,6 +41382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Print dialog also has options for placing comments at the end of the page or at the end of the document, or for printing only the comments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115538Z" creationid="timot" creationdate="20250407T115538Z">
+        <seg>A caixa de diálogo Imprimir também tem opções para colocar anotações no final da página ou no final do documento, ou para imprimir apenas as anotações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Protect Sheet dialog opens (Figure &lt;t2&gt;41&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183501Z" creationid="olivier-tdf" creationdate="20250209T183501Z">
@@ -41488,8 +41632,8 @@
       <tuv lang="en-US">
         <seg>The anchor point of the comment is connected by a dotted line to a box on the right-hand side of the page where you can type the text of the comment.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111447Z" creationid="timot" creationdate="20250404T111447Z">
-        <seg>O ponto de ancoragem do comentário é conectado por uma linha pontilhada a uma caixa no lado direito da página, onde você pode digitar o texto do comentário.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114137Z" creationid="timot" creationdate="20250404T111447Z">
+        <seg>A âncora de anotação é conectado por uma linha pontilhada a uma caixa no lado direito da página, contendo um espaço para digitar o texto do comentário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44054,6 +44198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These options are also available on a drop-down menu accessed by clicking the down arrow icon at the bottom right of the comment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114947Z" creationid="timot" creationdate="20250407T114947Z">
+        <seg>Essas opções também estão disponíveis em um menu suspenso que pode ser acessado clicando no ícone de seta para baixo no canto inferior direito da anotação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These pages &lt;f6&gt;give&lt;/f6&gt; access to the LibreOffice User Guides and other useful information that can be opened in the default browser.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195515Z" creationid="olivier-tdf" creationdate="20250109T195515Z">
@@ -46496,8 +46648,8 @@
       <tuv lang="en-US">
         <seg>To insert a comment, select the text, or place the cursor in the place the comment refers to, and choose &lt;f0&gt;Insert &gt; Comment &lt;/f0&gt;on the menu bar, click the &lt;f1&gt;Insert Comment&lt;/f1&gt; icon on the Standard toolbar,&lt;f2&gt; &lt;/f2&gt;or press &lt;f3&gt;Ctrl+Alt+C&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111341Z" creationid="timot" creationdate="20250404T111341Z">
-        <seg>Para inserir um comentário, selecione o texto ou posicione o cursor no lugar deve ir o comentário e escolha &lt;f0&gt;Inserir &gt; Comentário &lt;/f0&gt;na barra de menu, clique no ícone &lt;f1&gt;Inserir comentário&lt;/f1&gt; na barra de ferramentas Padrão&lt;f2&gt; &lt;/f2&gt;ou tecle &lt;f3&gt;Ctrl+Alt+C.&lt;/f3&gt;</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114106Z" creationid="timot" creationdate="20250404T111341Z">
+        <seg>Para inserir uma anotação, selecione o texto ou posicione o cursor no lugar deve ir a anotação e escolha &lt;f0&gt;Inserir &gt; Anotação &lt;/f0&gt;na barra de menu, clique no ícone &lt;f1&gt;Inserir anotação&lt;/f1&gt; na barra de ferramentas Padrão&lt;f2&gt; &lt;/f2&gt;ou tecle &lt;f3&gt;Ctrl+Alt+C.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46698,6 +46850,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T005126Z">
         <seg>Para navegar entre planilhas numa planilha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To navigate from one comment to another, open the sidebar Navigator, expand the Comments section, and click on the comment text to move the cursor to the anchor point of the comment in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115248Z" creationid="timot" creationdate="20250407T115248Z">
+        <seg>Para navegar de uma anotação para outra, abra o Navegador da Barra lateral, expanda a seção Anotações e clique no texto do comentário para mover o cursor para a âncora de anotação no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48166,6 +48326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use &lt;f0&gt;Ctrl+Alt+Page Down&lt;/f0&gt; to move to the next comment and &lt;f1&gt;Ctrl+Alt+Page Up&lt;/f1&gt; to move to the previous comment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115416Z" creationid="timot" creationdate="20250407T115416Z">
+        <seg>Use &lt;f0&gt;Ctrl+Alt+Page Down&lt;/f0&gt; para mover para o próximo comentário e &lt;f1&gt;Ctrl+Alt+Page Up&lt;/f1&gt; para mover para o comentário anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use &lt;f0&gt;Ctrl+Backspace&lt;/f0&gt; to delete everything from the cursor position to the beginning of the word.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003931Z" creationid="olivier" creationdate="20250303T003931Z">
@@ -48982,6 +49150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using built-in language tools</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115633Z" creationid="timot" creationdate="20250407T115633Z">
+        <seg>Ferramentas de idioma integradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using conditional formatting</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172123Z" creationid="olivier-tdf" creationdate="20250209T172123Z">
@@ -49738,6 +49914,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190119Z" creationid="olivier-tdf" creationdate="20250328T190119Z">
         <seg>Quando aplicar uma assinatura digital a um documento, O LibreOffice calcula uma soma de verificação a partir do conteúdo do documento, combinado a chave pessoal que está sendo usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a document contains comments, the print dialog has an option for comments to be printed next to the text in the right margin, as they appear on the screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115455Z" creationid="timot" creationdate="20250407T115455Z">
+        <seg>Quando um documento contém anotações, a caixa de diálogo de impressão tem uma opção para que sejam impressos ao lado do texto na margem direita, conforme aparecem na tela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51272,8 +51456,16 @@
       <tuv lang="en-US">
         <seg>Writer provides a fast and convenient way to add one or more title pages to a document and optionally to restart the page number at 1 for the body of the document, using &lt;f0&gt;Format &gt; Title Page&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111201Z" creationid="timot" creationdate="20250404T111201Z">
-        <seg>O Writer fornece uma maneira rápida e conveniente de adicionar uma ou mais páginas de título a um documento e, opcionalmente, reiniciar o número de página em 1 para o corpo do documento, usando &lt;f0&gt;Formato &gt; Página de rosto&lt;/f0&gt; na Barra de menus.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114027Z" creationid="timot" creationdate="20250404T111201Z">
+        <seg>O Writer oferece uma maneira rápida e conveniente de adicionar uma ou mais páginas de título a um documento e, opcionalmente, reiniciar o número de página em 1 para o corpo do documento, usando &lt;f0&gt;Formato &gt; Página de rosto&lt;/f0&gt; na Barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer provides some tools that make work easier if you use more than one language in the same document or if you write documents in various languages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115707Z" creationid="timot" creationdate="20250407T115707Z">
+        <seg>O Writer fornece algumas ferramentas que facilitam o trabalho de usar mais de um idioma no mesmo documento ou no caso de escrever documentos em vários idiomas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51574,6 +51766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also navigate through the comments using the keyboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T115353Z" creationid="timot" creationdate="20250407T115353Z">
+        <seg>É possível, também, navegar pelas anotações usando o teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also open a Formatting (Styles) toolbar using &lt;f0&gt;View &gt; Toolbars &gt; Formatting (Styles)&lt;/f0&gt;; see Figure &lt;t1&gt;19&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T100902Z" creationid="timot" creationdate="20250217T100902Z">
@@ -51760,8 +51960,8 @@
       <tuv lang="en-US">
         <seg>You can connect a comment to multiple paragraphs or a single point.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250404T111239Z" creationid="timot" creationdate="20250404T111239Z">
-        <seg>Existe a possibilidade de conectar um comentário a vários parágrafos ou a um único ponto.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250407T114038Z" creationid="timot" creationdate="20250404T111239Z">
+        <seg>Existe a possibilidade de conectar uma anotação a vários parágrafos ou a um único ponto.</seg>
       </tuv>
     </tu>
     <tu>
