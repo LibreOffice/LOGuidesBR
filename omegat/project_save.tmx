@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Method 1&lt;/f0&gt; (Recommended)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211806Z" creationid="timot" creationdate="20250409T211806Z">
+        <seg>&lt;f0&gt;Método 1&lt;/f0&gt; (Recomendado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;More&lt;/f0&gt; functionalities &lt;f1&gt;can be added &lt;/f1&gt;to LibreOffice by means of extensions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194724Z" creationid="olivier-tdf" creationdate="20250109T194724Z">
@@ -1682,6 +1690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232428Z" creationid="olivier" creationdate="20250319T232428Z">
         <seg>A página &lt;f2&gt;de Layout de texto complexo&lt;/f2&gt; só é visível se o suporte CTL estiver ativado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f3&gt;Alternatively&lt;/f3&gt;, choose &lt;f4&gt;Edit &gt; Track Changes &gt; Manage&lt;/f4&gt; &lt;f5&gt;or&lt;/f5&gt; &lt;f6&gt;open the Manage Changes deck on the Sidebar to&lt;/f6&gt; view the list of changes and accept or reject them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T212928Z" creationid="timot" creationdate="20250409T212928Z">
+        <seg>&lt;f3&gt;Alternativamente&lt;/f3&gt;, escolha &lt;f4&gt;Editar &gt; Registrar alterações &gt; Gerenciar&lt;/f4&gt;&lt;f5&gt;ou&lt;/f5&gt;&lt;f6&gt;abra o deque Gerenciar alterações na barra lateral para&lt;/f6&gt; ver a lista de alterações e aceite ou rejeite-as.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3854,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A document with track changes activated but with the changes not shown carries an invisible history of document editing that the current user may not be aware of.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T213335Z" creationid="timot" creationdate="20250409T213335Z">
+        <seg>Um documento com o controle de alterações ativado, mas com as alterações não exibidas, carrega um histórico invisível de edição do documento do qual o usuário atual pode não estar ciente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A fast alternative to the Function Wizard is the Functions deck on the Sidebar, where you can quickly list and narrow down functions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190811Z" creationid="olivier-tdf" creationdate="20250209T190811Z">
@@ -3930,6 +3954,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223856Z" creationid="olivier-tdf" creationdate="20250122T223856Z">
         <seg>Uma linha separadora horizontal ou vertical aparece indicando onde a divisão foi colocada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A hyperlink can direct the user to a URL that is opened with the default browser or allow the document to open files from a filesystem.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215339Z" creationid="timot" creationdate="20250409T215339Z">
+        <seg>Um hiperlink pode direcionar o usuário para uma URL que é aberta com o navegador padrão ou permitir que o documento abra arquivos de um sistema de arquivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5130,6 +5162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130609Z" creationid="olivier-tdf" creationdate="20250218T130609Z">
         <seg>Todos os estilos são definidos como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All these features use data from a registered data source (a spreadsheet or database containing name and address records or other information).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211301Z" creationid="timot" creationdate="20250409T211301Z">
+        <seg>Todos esses recursos usam dados de uma fonte de dados registrada (uma planilha ou banco de dados contendo registros de nomes e endereços ou outras informações).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6950,6 +6990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bookmarks: Allows users to move quickly between different parts of a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215417Z" creationid="timot" creationdate="20250409T215417Z">
+        <seg>Marcadores: permite que os usuários naveguem rapidamente entre diferentes partes de um documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Border</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150415Z" creationid="olivier" creationdate="20250223T150415Z">
@@ -6962,6 +7010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T184923Z" creationid="timot" creationdate="20250228T184923Z">
         <seg>Ambos os métodos levam à mesma guia na caixa de diálogo Estilo de página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Both remain active when the document is exported to PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215952Z" creationid="timot" creationdate="20250409T215952Z">
+        <seg>Ambos permanecem ativos quando o documento é exportado para PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8386,6 +8442,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112301Z" creationid="timot" creationdate="20250202T112301Z">
         <seg>Escolha &lt;f0&gt;Editar &gt; Colar especial&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Edit &gt; Track Changes &gt; Compare Document&lt;/f0&gt; or &lt;f1&gt;Edit &gt; Track Changes &gt; Merge Document&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T213137Z" creationid="timot" creationdate="20250409T213137Z">
+        <seg>Escolha &lt;f0&gt;Editar &gt; Registrar alterações &gt; Comparar documento&lt;/f0&gt; ou&lt;f1&gt;Editar &gt; Registrar alterações &gt; Mesclar documento&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Edit &gt; Track Changes &gt; Show&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T212017Z" creationid="timot" creationdate="20250409T212017Z">
+        <seg>Escolha &lt;f0&gt;Editar &gt; Registrar alterações &gt; Mostrar&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10270,6 +10342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the required item in the &lt;f0&gt;Selection&lt;/f0&gt; list, which shows all the items of the selected type.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T220522Z" creationid="timot" creationdate="20250409T220522Z">
+        <seg>Clique no item desejado na lista &lt;f0&gt;Seleção&lt;/f0&gt; que mostra todos os itens do tipo selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the required template to create a new file and the LibreOffice module opens with a new document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T173756Z" creationid="olivier" creationdate="20250220T173756Z">
@@ -11022,6 +11102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comments can be recorded to explain the changes; these are handled a bit differently from the comments discussed in “&lt;bf0&gt;Adding comments to a document&lt;/bf0&gt;” on page &lt;bf1&gt;34&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211900Z" creationid="timot" creationdate="20250409T211900Z">
+        <seg>Comentários podem ser registrados para explicar as mudanças. Estes são tratados de forma um pouco diferente dos comentários discutidos em “&lt;bf0&gt;Adicionar comentários a um documento&lt;/bf0&gt;” na página &lt;bf1&gt;34&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compatibility with other spreadsheet applications</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124606Z" creationid="olivier-tdf" creationdate="20250114T124606Z">
@@ -11202,6 +11290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113813Z" creationid="olivier-tdf" creationdate="20250109T113813Z">
         <seg>Conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contents deleted or modified can be recovered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T213340Z" creationid="timot" creationdate="20250409T213340Z">
+        <seg>Conteúdos excluídos ou modificados podem ser recuperados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11662,6 +11758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating and using cross-references</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T220039Z" creationid="timot" creationdate="20250409T220039Z">
+        <seg>Criar e usar referências cruzadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creating custom categories</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115823Z" creationid="olivier" creationdate="20250405T115823Z">
@@ -11834,6 +11938,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192352Z" creationid="olivier-tdf" creationdate="20250109T192352Z">
         <seg>Multiplataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cross-references: Uses fields to manage the automatic numbering of figures, tables, headings, and other elements; and a wide range of other functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215400Z" creationid="timot" creationdate="20250409T215400Z">
+        <seg>Referências cruzadas: usa campos para gerenciar a numeração automática de figuras, tabelas, títulos e outros elementos; e uma ampla gama de outras funções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13114,6 +13226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155338Z" creationid="olivier" creationdate="20250223T155338Z">
         <seg>Tamanho do papel de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Details are in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211802Z" creationid="timot" creationdate="20250409T211802Z">
+        <seg>Os detalhes estão no&lt;f0&gt;Guia do Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15318,6 +15438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Envelopes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211219Z" creationid="timot" creationdate="20250409T211219Z">
+        <seg>Envelopes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Envelopes, labels, or business cards (Writer).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224428Z" creationid="olivier-tdf" creationdate="20250224T224428Z">
@@ -15970,6 +16098,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124005Z" creationid="olivier-tdf" creationdate="20250114T124005Z">
         <seg>Felipe Viggiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fields are extremely useful features of Writer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T214124Z" creationid="timot" creationdate="20250409T214124Z">
+        <seg>Campos são recursos extremamente úteis do Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fields are the basis of cross-referencing (see &lt;bf0&gt;below&lt;/bf0&gt;); automatic numbering of figures, tables, headings, and other elements; and a wide range of other functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215226Z" creationid="timot" creationdate="20250409T215226Z">
+        <seg>Campos são a base de referências cruzadas (ver&lt;bf0&gt;abaixo&lt;/bf0&gt;); numeração automática de figuras, tabelas, títulos e outros elementos; e uma ampla gama de outras funções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18202,6 +18346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T195636Z" creationid="olivier" creationdate="20250324T221901Z">
         <seg>Por exemplo, os livros geralmente têm capítulos definidos para começar numa página ímpar (à direita).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, changing a tab stop from align left to align right, and changes in formulas (equations) or linked graphics are not recorded.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T213222Z" creationid="timot" creationdate="20250409T213222Z">
+        <seg>Por exemplo, alterar uma parada de tabulação de alinhamento à esquerda para alinhamento à direita e alterações em fórmulas (equações) ou gráficos vinculados não são registrados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22014,6 +22166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, this method can cause problems with documents of non-trivial size or complexity, especially if you save a lot of versions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T213205Z" creationid="timot" creationdate="20250409T213205Z">
+        <seg>No entanto, esse método pode causar problemas com documentos de tamanho ou complexidade não triviais, especialmente se muitas versões são salvas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, unlike the commands described above, these values are not inserted as fields and will not be updated or &lt;t2/&gt;recalculated later.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210104Z" creationid="olivier" creationdate="20250123T210104Z">
@@ -22106,6 +22266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143200Z" creationid="olivier" creationdate="20250405T143200Z">
         <seg>Hiperlinks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hyperlinks: Refers the user or the document to specific files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215328Z" creationid="timot" creationdate="20250409T215328Z">
+        <seg>Hiperlinks: direcionam o usuário ou o documento para arquivos específicos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23174,6 +23342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the Fields dialog is not open, click &lt;f0&gt;Insert &gt; Cross-reference&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T220415Z" creationid="timot" creationdate="20250409T220415Z">
+        <seg>Se a caixa de diálogo Campos não estiver aberta, clique em&lt;f0&gt;Inserir &gt; Referência cruzada&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the Find toolbar is not visible, you can display it by choosing &lt;f1&gt;View &gt; Toolbars &gt; Find&lt;/f1&gt; on the Menu bar, selecting &lt;f2&gt;Edit &gt; Find&lt;/f2&gt; on the Menu bar, or by pressing &lt;f3&gt;Ctrl+F&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112804Z" creationid="timot" creationdate="20250202T112804Z">
@@ -23930,6 +24106,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005557Z" creationid="olivier" creationdate="20250324T205243Z">
         <seg>Se salvar um arquivo do LibreOffice num formato ODF, esse arquivo será processado corretamente se for transferido para outro usuário; reaberto numa versão posterior do LibreOffice ou aberto com outro aplicativo que possa abrir arquivos ODF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you save a Writer document to HTML, hyperlinks remain active but cross-references do not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215949Z" creationid="timot" creationdate="20250409T215949Z">
+        <seg>Se salvar um documento do Writer em HTML, os hiperlinks permanecerão ativos, mas as referências cruzadas não.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24822,6 +25006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition to the &lt;f0&gt;Edit &gt; Track Changes&lt;/f0&gt; menu, Writer provides the same commands on the Track Changes toolbar (&lt;f1&gt;View &gt; Toolbars &gt; Track Changes&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T213304Z" creationid="timot" creationdate="20250409T213304Z">
+        <seg>Além do menu &lt;f0&gt;Editar &gt; Registrar alterações&lt;/f0&gt;, o Writer fornece os mesmos comandos na barra de ferramentas Registrar alterações (&lt;f1&gt;Exibir &gt; Barras de ferramentas &gt; Registrar alterações&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to the ODF text formats (.odt, .ott, and .fodt), Writer can save files in the following formats:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205336Z" creationid="olivier" creationdate="20250324T205336Z">
@@ -25362,6 +25554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112621Z" creationid="timot" creationdate="20250202T112621Z">
         <seg>Na caixa de diálogo, é possível:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the document, place the cursor where you want the cross-reference to appear.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T220409Z" creationid="timot" creationdate="20250409T220409Z">
+        <seg>No documento, posicione o cursor onde deseja que a referência cruzada apareça.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26950,6 +27150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Later, you or another person can review and accept or reject each change.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211950Z" creationid="timot" creationdate="20250409T211950Z">
+        <seg>Posteriormente, você ou outra pessoa poderá revisar e aceitar ou rejeitar cada alteração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Layout</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150228Z" creationid="olivier" creationdate="20250223T150228Z">
@@ -27822,6 +28030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linking and cross-referencing within a document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215300Z" creationid="timot" creationdate="20250409T215249Z">
+        <seg>Vincular e referência cruzada dentro de um documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Links PDF options</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194510Z" creationid="olivier" creationdate="20250325T194510Z">
@@ -28342,6 +28558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mailing labels</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211218Z" creationid="timot" creationdate="20250409T211218Z">
+        <seg>Etiquetas de correspondência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mailing lists</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204606Z" creationid="olivier-tdf" creationdate="20250109T204606Z">
@@ -28426,6 +28650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224326Z" creationid="olivier" creationdate="20250123T224326Z">
         <seg>Certifique-se de desmarcar as planilhas adicionais quando terminar de inserir as informações que serão repetidas antes de continuar a inserir dados na planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make your changes to a copy of the document (stored in a different folder, or under a different name, or both), then use Writer to combine the two files and show the differences.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T213051Z" creationid="timot" creationdate="20250409T213051Z">
+        <seg>Faça as alterações em uma cópia do documento (armazenada em uma pasta diferente, ou com um nome diferente, ou ambos) e use o Writer para combinar os dois arquivos e mostrar as diferenças.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29662,6 +29894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multiple copies of a document to send to a list of different recipients (form letters)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211215Z" creationid="timot" creationdate="20250409T211215Z">
+        <seg>Várias cópias de um documento para enviar a uma lista de destinatários diferentes (cartas padrão)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multiple keys can be selected.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231623Z" creationid="olivier-tdf" creationdate="20250328T231623Z">
@@ -30294,6 +30534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not all changes are recorded.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T213211Z" creationid="timot" creationdate="20250409T213211Z">
+        <seg>Nem todas as alterações são registradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Not all panels in the Properties deck provide a &lt;f0&gt;More Options&lt;/f0&gt; button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214352Z" creationid="olivier-tdf" creationdate="20250116T214352Z">
@@ -30754,6 +31002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T205511Z" creationid="timot" creationdate="20250402T205511Z">
         <seg>Na aba &lt;f0&gt;Fluxo de texto&lt;/f0&gt; da caixa de diálogo Parágrafo (Figura &lt;t1&gt;23&lt;/t1&gt;&lt;s2/&gt; na página &lt;t3&gt;28&lt;/t3&gt;), selecione &lt;f4&gt;Inserir&lt;/f4&gt; na área &lt;f5&gt;Quebras&lt;/f5&gt; e, em seguida, selecione &lt;f6&gt;Com estilo de página&lt;/f6&gt; e especifique o estilo de página a ser usado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the &lt;f1&gt;Cross-references&lt;/f1&gt; tab (Figure &lt;t2&gt;31&lt;/t2&gt;), in the &lt;f3&gt;Type&lt;/f3&gt; list, select the type of item to be referenced (for example, &lt;f4&gt;Headings&lt;/f4&gt; or &lt;f5&gt;Figure&lt;/f5&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T220449Z" creationid="timot" creationdate="20250409T220449Z">
+        <seg>Na ava &lt;f1&gt;Referências cruzadas&lt;/f1&gt; (Figura&lt;t2&gt;31&lt;/t2&gt;), na lista &lt;f3&gt;Tipo&lt;/f3&gt;, selecione o tipo de item a ser referenciado (por exemplo,&lt;f4&gt;Títulos&lt;/f4&gt; ou&lt;f5&gt;Figura&lt;/f5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31746,6 +32002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195007Z" creationid="olivier" creationdate="20250325T224740Z">
         <seg>Abra o arquivo Writer a converter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the document and choose &lt;f0&gt;Edit &gt; Track Changes &gt; Record&lt;/f0&gt; before starting to edit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211943Z" creationid="timot" creationdate="20250409T211943Z">
+        <seg>Abra o documento e escolha &lt;f0&gt;Editar &gt; Registrar alterações &gt; Registrar&lt;/f0&gt; antes de começar a editar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35318,6 +35582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click on an individual change and choose &lt;f1&gt;Accept Change&lt;/f1&gt; or &lt;f2&gt;Reject Change&lt;/f2&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T212100Z" creationid="timot" creationdate="20250409T212100Z">
+        <seg>Clique com o botão direito em uma alteração individual e escolha&lt;f1&gt;Aceitar alteração&lt;/f1&gt; ou&lt;f2&gt;Rejeitar alteração&lt;/f2&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click on any row or column header and choose &lt;f0&gt;Freeze Rows and Columns&lt;/f0&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T222956Z" creationid="olivier-tdf" creationdate="20250122T222956Z">
@@ -35714,6 +35986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T123627Z" creationid="olivier-tdf" creationdate="20250117T123627Z">
         <seg>Salve a planilha no formato Calc (*.ods).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save versions that are stored as part of the original file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T213145Z" creationid="timot" creationdate="20250409T213145Z">
+        <seg>Salve versões que são armazenadas como parte do arquivo original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36166,6 +36446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Chapter 4, Working with Styles, Templates, and Hyperlinks, for details on creating hyperlinks within a document and to other documents and websites.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T220026Z" creationid="timot" creationdate="20250409T220026Z">
+        <seg>Consulte o Capítulo 4, Trabalhar com estilos, modelos e hiperlinks para obter detalhes sobre como criar hiperlinks dentro de um documento e para outros documentos e sites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Chapter 4, Working with Styles, Templates, and Hyperlinks, for more about styles based on styles other than Default Paragraph Style.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T111930Z" creationid="timot" creationdate="20250224T111930Z">
@@ -36248,8 +36536,8 @@
       <tuv lang="en-US">
         <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for details.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timot" changedate="20250111T201136Z" creationid="timot" creationdate="20250111T201136Z">
-        <seg>Veja o&lt;f0&gt;Guia do Writer&lt;/f0&gt; para mais detalhes.</seg>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215409Z" creationid="timot" creationdate="20250111T201136Z">
+        <seg>Veja o &lt;f0&gt;Guia do Writer&lt;/f0&gt; para mais detalhes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36274,6 +36562,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T105517Z" creationid="timot" creationdate="20250215T105517Z">
         <seg>Consulte o &lt;f0&gt;Guia do Writer&lt;/f0&gt; para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the &lt;f1&gt;Writer Guide&lt;/f1&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215244Z" creationid="timot" creationdate="20250409T215244Z">
+        <seg>Veja o &lt;f0&gt;Guia do Writer&lt;/f0&gt; para mais detalhes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41270,6 +41566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Cross-references&lt;/f0&gt; tab of the Fields dialog lists some items, such as headings, bookmarks, figures, tables, or numbered items such as steps in a procedure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T220317Z" creationid="timot" creationdate="20250409T220317Z">
+        <seg>A aba &lt;f0&gt;Referências cruzadas&lt;/f0&gt; da caixa de diálogo Campos lista alguns itens, como títulos, marcadores, figuras, tabelas ou itens numerados, como etapas de um procedimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Default&lt;/f0&gt; entry applies to the currency format that is assigned by the selected locale setting.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232935Z" creationid="olivier" creationdate="20250319T232935Z">
@@ -41386,6 +41690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T165052Z" creationid="timot" creationdate="20250409T165052Z">
         <seg>O &lt;f0&gt;Guia do Writer&lt;/f0&gt; descreve como fazer isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Writer Guide&lt;/f0&gt; describes the merge processes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211325Z" creationid="timot" creationdate="20250409T211325Z">
+        <seg>O &lt;f0&gt;Guia do Writer&lt;/f0&gt; descreve os processos de mala direta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47222,6 +47534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To insert a cross-reference:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T220357Z" creationid="timot" creationdate="20250409T220357Z">
+        <seg>Para inserir uma referência cruzada:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To insert a footnote or an endnote, put the cursor where you want the footnote or endnote marker to appear.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T165345Z" creationid="timot" creationdate="20250409T165332Z">
@@ -48446,6 +48766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tracking changes to a document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211628Z" creationid="timot" creationdate="20250409T211628Z">
+        <seg>Acompanhar alterações em um documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transitions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124719Z" creationid="olivier" creationdate="20250325T124719Z">
@@ -49026,6 +49354,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T161644Z" creationid="olivier" creationdate="20250312T161644Z">
         <seg>Utilizar o Skia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use Writer’s change marks (often called “redlines” or “revision marks”) to show added or deleted material or changed formatting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211825Z" creationid="timot" creationdate="20250409T211825Z">
+        <seg>Use as marcas de alteração do Writer (geralmente chamadas de “linhas vermelhas” ou “marcas de revisão”) para mostrar material adicionado ou excluído ou formatação alterada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49790,6 +50126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using fields</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T213352Z" creationid="timot" creationdate="20250409T213352Z">
+        <seg>Usar campos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using footnotes and endnotes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T165135Z" creationid="timot" creationdate="20250409T165135Z">
@@ -49802,6 +50146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190257Z" creationid="olivier-tdf" creationdate="20250209T190257Z">
         <seg>Fórmulas e funções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using hyperlinks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215958Z" creationid="timot" creationdate="20250409T215958Z">
+        <seg>Usar hiperlinks</seg>
       </tuv>
     </tu>
     <tu>
@@ -51582,6 +51934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While this is a feature, it is also a potential privacy risk.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T213346Z" creationid="timot" creationdate="20250409T213346Z">
+        <seg>Embora seja um recurso, também é um risco potencial à privacidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>While this standard has been developed with the intent that it would be applicable in any domain of activity, LibreOffice retained the aerospace and defense industry nomenclature and categories, where sensitivity marking results from national security, export control and intellectual property policies.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T201236Z" creationid="olivier-tdf" creationdate="20250328T201236Z">
@@ -52158,6 +52518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer provides three ways to manage references within a document: hyperlinks, cross-references, and bookmarks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215320Z" creationid="timot" creationdate="20250409T215320Z">
+        <seg>O Writer oferece três maneiras de gerenciar referências em um documento: hiperlinks, referências cruzadas e marcadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer provides very useful features to create and print:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T211205Z" creationid="timot" creationdate="20250409T211205Z">
@@ -52446,6 +52814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also create your own reference items; see the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T220352Z" creationid="timot" creationdate="20250409T220352Z">
+        <seg>É possível também criar seus próprios itens de referência. Veja o &lt;f1&gt;Guia do Writer&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also customize the Menu bar; see Chapter 13, Customizing LibreOffice, for more information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T130148Z" creationid="olivier-tdf" creationdate="20250114T130148Z">
@@ -52598,6 +52974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also use the icons on the Track Changes toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T213023Z" creationid="timot" creationdate="20250409T213023Z">
+        <seg>Você também pode usar os ícones na barra de ferramentas Registrar alterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can apply any cell style to selected cells using the &lt;f0&gt;Cell Styles&lt;/f0&gt; tab of the Styles deck.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163717Z" creationid="olivier" creationdate="20250204T163717Z">
@@ -52698,6 +53082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T111838Z" creationid="timot" creationdate="20250202T111838Z">
         <seg>É possível copiar ou mover texto dentro de um documento, ou entre documentos, arrastando ou usando seleções de menu, botões da barra de ferramentas ou atalhos de teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can cross-reference to bookmarks and create hyperlinks to bookmarks, as described in the Writer Guide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215934Z" creationid="timot" creationdate="20250409T215934Z">
+        <seg>É possível fazer referências cruzadas aos favoritos e criar hiperlinks para eles, conforme descrito no Guia do Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53022,10 +53414,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can type some characters in the top box under &lt;f1&gt;Selection&lt;/f1&gt; to filter the list in the selection box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T220829Z" creationid="timot" creationdate="20250409T220829Z">
+        <seg>Existe a opção de digitar alguns caracteres na caixa superior abaixo de &lt;f1&gt;Seleção&lt;/f1&gt; para filtrar a lista na caixa de seleção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can use Calc’s AutoFormat feature to format a table (range of cells) quickly and easily.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T163910Z" creationid="olivier" creationdate="20250204T163910Z">
         <seg>Você pode usar o recurso Autoformatação do Calc para formatar uma tabela (intervalo de células) de forma rápida e fácil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use several methods to keep track of changes made to a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T211754Z" creationid="timot" creationdate="20250409T211754Z">
+        <seg>Você pode usar vários métodos para controlar as alterações feitas em um documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53050,6 +53458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T100455Z" creationid="timot" creationdate="20250222T100455Z">
         <seg>Usar os estilos de parágrafo e lista predefinidos ou definir o seu próprio são opões possíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use them for data that changes (such as the current date or the total number of pages) and for inserting document properties such as name, author, and date of last update.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T215127Z" creationid="timot" creationdate="20250409T215127Z">
+        <seg>Você pode usá-los para dados que mudam (como a data atual ou o número total de páginas) e para inserir propriedades do documento, como nome, autor e data da última atualização.</seg>
       </tuv>
     </tu>
     <tu>
