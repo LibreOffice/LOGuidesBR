@@ -5590,6 +5590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, you can set the language for individual paragraphs and characters by selecting text or putting the cursor in a paragraph and changing the language on the Status bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T130337Z" creationid="timot" creationdate="20250409T130337Z">
+        <seg>Alternativamente, é possível definir o idioma para parágrafos e caracteres individuais ao selecionar texto ou colocar o cursor em um parágrafo e alterar o idioma na barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although LibreOffice has an extensive set of keyboard shortcuts, each LibreOffice module has keyboard shortcuts that are specific to that module.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T233350Z" creationid="olivier" creationdate="20250302T233350Z">
@@ -5610,6 +5618,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124835Z" creationid="olivier-tdf" creationdate="20250114T124835Z">
         <seg>Embora as linguagens de programação sejam as mesmas, os objetos e métodos são diferentes e, portanto, não são totalmente compatíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Although these methods are a type of direct formatting, they cannot be cleared by using &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; on the Menu bar, clicking the &lt;f1&gt;Clear Direct Formatting&lt;/f1&gt; icon on the Formatting toolbar, selecting &lt;f2&gt;Clear Direct Formatting&lt;/f2&gt; in the context menu, or using &lt;f3&gt;Ctrl+M&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T130542Z" creationid="timot" creationdate="20250409T130542Z">
+        <seg>Embora esses métodos sejam um tipo de formatação direta, eles não podem ser limpos ao usar &lt;f0&gt;Formatar &gt; Limpar formatação direta&lt;/f0&gt; na Barra de menus, clicar no ícone &lt;f1&gt;Limpar formatação direta&lt;/f1&gt; na barra de ferramentas Formatação, selecionar &lt;f2&gt;Limpar formatação direta&lt;/f2&gt; no menu de contexto ou usar &lt;f3&gt;Ctrl+M.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6794,6 +6810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122147Z" creationid="olivier-tdf" creationdate="20250117T122147Z">
         <seg>Antes de abrir um arquivo CSV no Calc, certifique-se de saber qual caractere é o delimitador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before you start, make sure that the headings are styled consistently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T135506Z" creationid="timot" creationdate="20250409T135506Z">
+        <seg>Antes de começar, certifique-se de que os títulos sejam estilizados de forma consistente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11530,6 +11554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T215556Z" creationid="olivier" creationdate="20250307T215556Z">
         <seg>Criar um caractere de atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating a table of contents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T135438Z" creationid="timot" creationdate="20250409T135438Z">
+        <seg>Criar um sumário</seg>
       </tuv>
     </tu>
     <tu>
@@ -18454,6 +18486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, you can use the Heading 1 style for chapter titles and the Heading 2 and Heading 3 styles for chapter subheadings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T145942Z" creationid="timot" creationdate="20250409T145942Z">
+        <seg>Por exemplo, é possível usar o estilo Título 1 para títulos de capítulos e os estilos Título 2 e Título 3 para subtítulos de capítulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, you might have a spreadsheet containing a list of donations to various charities by a group of recruiters in various months, but you are only interested in how much money each recruiter has collected in total.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T192220Z" creationid="olivier-tdf" creationdate="20250209T192220Z">
@@ -23310,6 +23350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the required language is not available in the submenu, click &lt;f4&gt;More&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T130209Z" creationid="timot" creationdate="20250409T130209Z">
+        <seg>Se o idioma necessário não estiver disponível no submenu, clique em &lt;f4&gt;Mais&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the same mistake is made again while editing the document, the mistake is marked as an error again.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011208Z" creationid="olivier" creationdate="20250321T011208Z">
@@ -24986,6 +25034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T213023Z" creationid="olivier" creationdate="20250307T213023Z">
         <seg>Na lista suspensa &lt;f3&gt;Escopo&lt;/f3&gt;, o LibreOffice Writer aparece como o módulo selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f6&gt;Default Languages for Documents&lt;/f6&gt; section, you can choose the language for all the text that is not explicitly marked as a different language.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T130045Z" creationid="timot" creationdate="20250409T130045Z">
+        <seg>Na seção &lt;f6&gt;Idiomas padrão para documentos&lt;/f6&gt;, existe a opção de escolher o idioma para todo o texto que não está explicitamente marcado como um idioma diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30222,6 +30278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Obtaining resources for additional languages</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T130837Z" creationid="timot" creationdate="20250409T130837Z">
+        <seg>Obter recursos para idiomas adicionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Occasionally, AutoCorrect changes something that should have been kept.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T031125Z" creationid="olivier" creationdate="20250321T031125Z">
@@ -33498,6 +33562,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T185744Z" creationid="olivier-tdf" creationdate="20250209T185744Z">
         <seg>Tecle &lt;f0&gt;Ctrl+Alt+C.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preventing text from being checked for spelling</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T130610Z" creationid="timot" creationdate="20250409T130610Z">
+        <seg>Impedir que a ortografia do texto seja verificado</seg>
       </tuv>
     </tu>
     <tu>
@@ -38294,6 +38366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set the language for the whole document, for individual paragraphs, or even for individual words and characters, in &lt;f0&gt;Tools &gt; Language&lt;/f0&gt; on the Menu bar, and select &lt;f1&gt;For Selection&lt;/f1&gt;, &lt;f2&gt;For Paragraph&lt;/f2&gt; or &lt;f3&gt;For All Text&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T130147Z" creationid="timot" creationdate="20250409T130147Z">
+        <seg>Defina o idioma para todo o documento, para parágrafos individuais ou até mesmo para palavras e caracteres individuais, em &lt;f0&gt;Ferramentas &gt; Idioma&lt;/f0&gt; na barra de Menu e selecione &lt;f1&gt;Para a seleção&lt;/f1&gt;, &lt;f2&gt;Para o parágrafo&lt;/f2&gt; ou &lt;f3&gt;Para todo o texto&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set the margins, spacing, and height for the header or footer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201803Z" creationid="olivier-tdf" creationdate="20250209T201803Z">
@@ -41046,6 +41126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f5&gt;Tools &gt; Options &gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Languages and Locales&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;General&lt;/f10&gt;&lt;/f9&gt; menu opens, where you can select the language as described above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T130248Z" creationid="timot" creationdate="20250409T130248Z">
+        <seg>O menu &lt;f5&gt;Ferramentas &gt; Opções &gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Idiomas e localidades&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Geral&lt;/f10&gt;&lt;/f9&gt; é aberto, onde pode selecionar o idioma conforme descrito acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;t0/&gt;grammar checker works in combination with the spelling checker.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T161307Z" creationid="timot" creationdate="20250205T161240Z">
@@ -43430,6 +43518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The spelling checker works only for those languages in the Spelling dialog list that have a dictionary installed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T130847Z" creationid="timot" creationdate="20250409T130847Z">
+        <seg>O verificador ortográfico funciona apenas para os idiomas na lista de diálogo Ortografia que têm um dicionário instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The steps to export are:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125624Z" creationid="olivier-tdf" creationdate="20250117T125624Z">
@@ -43986,6 +44082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143227Z" creationid="olivier" creationdate="20250405T143227Z">
         <seg>Existem dois tipos de hiperlinks: absolutos e relativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is also an option &lt;f0&gt;More&lt;/f0&gt;, in case the text is not directly available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T130346Z" creationid="timot" creationdate="20250409T130346Z">
+        <seg>Há também uma opção &lt;f0&gt;Mais&lt;/f0&gt;, caso o texto não esteja diretamente disponível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45186,6 +45290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191958Z" creationid="olivier" creationdate="20250316T191958Z">
         <seg>Esta opção permite a gravação de macro, com algumas limitações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option is especially useful for text such as web addresses or programming language snippets that you do not want to check for spelling.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T130827Z" creationid="timot" creationdate="20250409T130827Z">
+        <seg>Esta opção é especialmente útil para texto, como endereços da web ou trechos de linguagem de programação onde verificação ortográfica é desnecessária.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51414,6 +51526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer can generate a table of contents from the headings in your document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T135449Z" creationid="timot" creationdate="20250409T135449Z">
+        <seg>O Writer pode gerar um sumário a partir dos títulos do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer can insert line numbers in an entire document or for selected paragraphs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T205602Z" creationid="timot" creationdate="20250402T205602Z">
@@ -52206,6 +52326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can install additional dictionaries using&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Get more dictionaries online&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; at the bottom of&lt;/f3&gt; &lt;f4&gt;the &lt;/f4&gt;&lt;f5&gt;Tools &gt; Language &gt; Writing Aids&lt;/f5&gt;&lt;f6&gt; dialog.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T135424Z" creationid="timot" creationdate="20250409T132015Z">
+        <seg>Existe, também, a opção de instalar dicionários adicionais usando&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Obter mais dicionários &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; na parte inferior da caixa de&lt;/f3&gt; &lt;f4&gt; &lt;/f4&gt;diálogo&lt;f5&gt; Ferramentas &gt; Opções &gt; Idiomas e localidades&lt;/f5&gt;&lt;f6&gt; &gt;Recursos de redação.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can manually apply many direct formats to paragraphs using the buttons on the Formatting toolbar and by using the Paragraph panel of the Sidebar’s Properties deck.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T101039Z" creationid="timot" creationdate="20250217T101039Z">
@@ -52322,6 +52450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224920Z" creationid="olivier" creationdate="20250123T224852Z">
         <seg>Você pode definir a célula para recusar conteúdo inválido, aceitá-lo com um aviso ou iniciar uma macro quando ocorrer um erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can set the language for a paragraph or a group of characters as &lt;f0&gt;None (Do not check spelling)&lt;/f0&gt; using any of the methods described above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250409T130706Z" creationid="timot" creationdate="20250409T130706Z">
+        <seg>É possível definir o idioma de um parágrafo ou grupo de caracteres como &lt;f0&gt;Nenhum (não verificar ortografia)&lt;/f0&gt; usando qualquer um dos métodos descritos acima.</seg>
       </tuv>
     </tu>
     <tu>
