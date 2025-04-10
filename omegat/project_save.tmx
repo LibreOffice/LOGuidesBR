@@ -3382,6 +3382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;42&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Chapter 2, Getting Started with Writer&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132758Z" creationid="timot" creationdate="20250410T132758Z">
+        <seg>&lt;t0&gt;42&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Capítulo 2, Introdução ao Writer&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;44&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Getting Started Guide 24.8 - Chapter 10, Working with File Formats, Security, and Exporting&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T232740Z" creationid="olivier-tdf" creationdate="20250328T231715Z">
@@ -3470,10 +3478,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 2, Getting Started with Writer&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132819Z" creationid="timot" creationdate="20250410T132819Z">
+        <seg>&lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Capítulo 2, Introdução ao Writer&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;AutoCorrect functions&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;37&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T031422Z" creationid="olivier" creationdate="20250321T031422Z">
         <seg>&lt;t0&gt;Funções de Autocorreção&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;37&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;Chapter 2, Getting Started with Writer&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132806Z" creationid="timot" creationdate="20250410T132806Z">
+        <seg>&lt;t0&gt;Capítulo 2, Introdução ao Writer&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3578,6 +3602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T150934Z" creationid="olivier" creationdate="20250405T150934Z">
         <seg>&lt;t0&gt;Hiperlinks&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;25&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;Linking and cross-referencing within a document&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;41&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132748Z" creationid="timot" creationdate="20250410T132748Z">
+        <seg>Vinculação e referência cruzada dentro de um documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,6 +4034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T133159Z" creationid="olivier" creationdate="20250320T133159Z">
         <seg>Um módulo de idioma pode conter um, dois ou três submódulos: ortografia, hifenização e dicionário de sinônimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A librarian might call up information about books.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T131311Z" creationid="timot" creationdate="20250410T131311Z">
+        <seg>Um bibliotecário pode consultar informações sobre livros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7106,6 +7146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190506Z" creationid="olivier" creationdate="20250316T190506Z">
         <seg>Adicionando um JRE à variável $PATH.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By contrast, a form has sections that are not to be edited, and other sections that are designed for the reader to fill in information or make selections.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T131048Z" creationid="timot" creationdate="20250410T131048Z">
+        <seg>No entanto, um formulário tem seções que não devem ser editadas e outras seções que são projetadas para o leitor preencher informações ou fazer seleções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11318,6 +11366,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Content controls are placeholders.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132320Z" creationid="timot" creationdate="20250410T132320Z">
+        <seg>Controles de conteúdo são espaços reservados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Content controls can provide instructions on their use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132446Z" creationid="timot" creationdate="20250410T132446Z">
+        <seg>Controles de conteúdo podem fornecer instruções sobre seu uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113813Z" creationid="olivier-tdf" creationdate="20250109T113813Z">
@@ -11810,6 +11874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084917Z" creationid="olivier" creationdate="20250308T084917Z">
         <seg>Criar cores personalizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating fill-in forms</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T130916Z" creationid="timot" creationdate="20250410T130916Z">
+        <seg>Criar formulários de preenchimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -13306,6 +13378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200059Z" creationid="olivier" creationdate="20250327T195745Z">
         <seg>Determina a disposição gerada para o documento EPUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Determining document accessibility</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132523Z" creationid="timot" creationdate="20250410T132523Z">
+        <seg>Determinar a acessibilidade do documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -18246,6 +18326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For details on using master documents, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T130907Z" creationid="timot" creationdate="20250410T130907Z">
+        <seg>Para detalhes sobre o uso de documentos mestres, consulte o &lt;f0&gt;Guia do Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For details, consult the Help or the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105538Z" creationid="timot" creationdate="20250113T105538Z">
@@ -18346,6 +18434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T095942Z" creationid="timot" creationdate="20250217T095942Z">
         <seg>Por exemplo, um estilo de parágrafo define várias configurações para opções como tipo e tamanho de fonte, se os parágrafos devem ser recuados, o espaço entre as linhas, como os parágrafos devem ser alinhados na página e muitos outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, a questionnaire has an introduction and questions (which do not change) and spaces for the reader to enter answers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T131059Z" creationid="timot" creationdate="20250410T131059Z">
+        <seg>Por exemplo, um questionário tem uma introdução e perguntas (que não mudam) e espaços para o leitor inserir respostas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19858,6 +19954,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172146Z" creationid="olivier-tdf" creationdate="20250403T172146Z">
         <seg>Barra de ferramentas Formatação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Forms are used in three ways:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T131108Z" creationid="timot" creationdate="20250410T131108Z">
+        <seg>Formulários são usados de três maneiras:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22214,6 +22318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, unlike form fields, content controls do not connect to any data in a database.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132517Z" creationid="timot" creationdate="20250410T132517Z">
+        <seg>No entanto, ao contrário dos campos de formulário, os controles de conteúdo não se conectam a  um banco de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, unlike the commands described above, these values are not inserted as fields and will not be updated or &lt;t2/&gt;recalculated later.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210104Z" creationid="olivier" creationdate="20250123T210104Z">
@@ -23370,6 +23482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125742Z" creationid="olivier-tdf" creationdate="20250218T125742Z">
         <seg>Se o texto ou objeto compartilha um estilo no LibreOffice, então esse texto ou objeto compartilha os atributos escolhidos desse estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the &lt;f0&gt;Preview&lt;/f0&gt; option is selected in the Insert Image dialog, a preview of the selected image, or graphic, appears in the &lt;f1&gt;Preview&lt;/f1&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T133015Z" creationid="timot" creationdate="20250410T133015Z">
+        <seg>*** Necessita revisão *** Se a opção &lt;f0&gt;Visualizar&lt;/f0&gt; estiver selecionada na caixa de diálogo Inserir Imagem, uma visualização da imagem ou gráfico selecionado aparecerá na caixa &lt;f1&gt;Visualizar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24994,6 +25114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205320Z" creationid="olivier-tdf" creationdate="20250116T212644Z">
         <seg>Num documento de planilha, o termo “função” abrange muito mais do que apenas funções matemáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In a standard text document, such as a report, any text can be edited.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T131031Z" creationid="timot" creationdate="20250410T131031Z">
+        <seg>Em um documento de texto padrão, por exemplo, um relatório, qualquer texto pode ser editado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39814,6 +39942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some are similar to the older form controls, but can be easier to work with and format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132458Z" creationid="timot" creationdate="20250410T132458Z">
+        <seg>Alguns são semelhantes aos controles de formulário mais antigos, mas podem ser mais fáceis de trabalhar e formatar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some controls, such as superscript, become active only when the text cursor is active in the &lt;f1&gt;Input line&lt;/f1&gt; of the Formula bar or the cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213838Z" creationid="olivier-tdf" creationdate="20250116T213838Z">
@@ -40010,6 +40146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T123316Z" creationid="olivier" creationdate="20250314T123316Z">
         <seg>Alguns elementos da interface do usuário não podem ser ocultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Someone taking orders might enter the information for each order into a database using a form.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T131200Z" creationid="timot" creationdate="20250410T131200Z">
+        <seg>Alguém que recebe pedidos pode inserir as informações de cada pedido em um banco de dados usando um formulário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47070,6 +47214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To create a simple document for the recipient to complete, such as a questionnaire sent out to a group of people who fill it in and return it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T131133Z" creationid="timot" creationdate="20250410T131133Z">
+        <seg>Criar um documento simples para o destinatário preencher (por exemplo, um questionário enviado a um grupo de pessoas que o preenchem e o devolvem).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To create an HTML document, do the following:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T004829Z" creationid="olivier" creationdate="20250328T004829Z">
@@ -47426,6 +47578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T160745Z" creationid="timot" creationdate="20250205T160745Z">
         <seg>Para inserir meios traços e travessões enquanto digita, é possível usar &lt;f0&gt;Substituir traços&lt;/f0&gt; na guia &lt;f1&gt;Opções&lt;/f1&gt; na caixa de diálogo Autocorreção (&lt;f2&gt;Ferramentas &gt; Autocorreção &gt; Opções da Autocorreção).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To enter information directly into a database or data source.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T131147Z" creationid="timot" creationdate="20250410T131147Z">
+        <seg>Inserir informações diretamente em um banco de dados ou fonte de dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47906,6 +48066,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T115248Z" creationid="timot" creationdate="20250407T115248Z">
         <seg>Para navegar de uma anotação para outra, abra o Navegador da Barra lateral, expanda a seção Anotações e clique no texto do comentário para mover o cursor para a âncora de anotação no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To obtain this information, open the &lt;f0&gt;Side&lt;/f0&gt;bar and click on the Accessibility Check deck For more information about accessibility&lt;f1&gt; checking&lt;/f1&gt;, &lt;f2&gt;&lt;s3/&gt;see&lt;/f2&gt; the &lt;f4&gt;Writer Guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132722Z" creationid="timot" creationdate="20250410T132722Z">
+        <seg>Para obter essas informações, abra a Barra &lt;f0&gt;lateral&lt;/f0&gt; e clique na apresentação Verificar acessibilidade. Para mais informações sobre a &lt;f1&gt;verificação&lt;/f1&gt; de acessibilidade, &lt;f2&gt;&lt;s3/&gt;consulte&lt;/f2&gt; o &lt;f4&gt;Guia do Writer&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48758,6 +48926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To view information held in a database or data source.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T131205Z" creationid="timot" creationdate="20250410T131205Z">
+        <seg>Para visualizar informações mantidas em um banco de dados ou fonte de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To view more completions that start with the same letters, use the key combinations &lt;f0&gt;Ctrl+Tab&lt;/f0&gt; to scroll forward, or &lt;f1&gt;Ctrl+Shift+Tab&lt;/f1&gt; to scroll backward.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213553Z" creationid="olivier" creationdate="20250123T213553Z">
@@ -49018,6 +49194,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T201643Z" creationid="timot" creationdate="20250409T172048Z">
         <seg>*** Necessita revisão *** Dois itens nos modos de arrastar do Navegador: Inserir como Link e Inserir como Cópia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two toolbars are used to create forms: Form Controls and Form Design.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132254Z" creationid="timot" creationdate="20250410T131534Z">
+        <seg>Duas barras de ferramentas são usadas para criar formulários: Controles de formulário e Esboço de formulário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50278,6 +50462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using content controls</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132303Z" creationid="timot" creationdate="20250410T132303Z">
+        <seg>Usar controles de conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using direct formatting</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T120034Z" creationid="timot" creationdate="20250407T120034Z">
@@ -51394,6 +51586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225549Z" creationid="olivier" creationdate="20250319T225549Z">
         <seg>Ao importar números de uma página HTML, o separador decimal e os caracteres do separador de milhares diferem de acordo com a localidade da página HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When inserting the same image, or graphic, several times in a document, LibreOffice embeds only one copy of the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T133039Z" creationid="timot" creationdate="20250410T133039Z">
+        <seg>Ao inserir a mesma figura várias vezes em um documento, o LibreOffice incorpora apenas uma cópia do arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52518,6 +52718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Writer can analyze a document and determine whether it has accessibility problems.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132540Z" creationid="timot" creationdate="20250410T132540Z">
+        <seg>O Writer pode analisar um documento e determinar se tem problemas de acessibilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Writer can export a file to EPUB.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T203929Z" creationid="olivier" creationdate="20250325T203929Z">
@@ -52658,6 +52866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195309Z" creationid="timot" creationdate="20250111T195309Z">
         <seg>O Writer é o componente de processamento de texto do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer offers several ways to organize information fields in a form, including check boxes, option buttons, text boxes, pull-down lists, and spinners.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132044Z" creationid="timot" creationdate="20250410T131329Z">
+        <seg>O Writer oferece várias maneiras de organizar os campos de informações em um formulário, incluindo Etiqueta, Caixa de texto, Caixa de seleção, Botão de opção, Caixa de lista, e Caixa de combinação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52866,6 +53082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T114057Z" creationid="timot" creationdate="20250114T114057Z">
         <seg>É possível aceitá-las ou rejeitá-las aqui, bem como na caixa de diálogo Gerenciar alterações ou na barra de ferramentas Gerenciar alterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can add and customize content controls for use in templates, forms, and documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250410T132341Z" creationid="timot" creationdate="20250410T132341Z">
+        <seg>Servem para adicionar e personalizar controles de conteúdo para uso em modelos, formulários e documentos.</seg>
       </tuv>
     </tu>
     <tu>
