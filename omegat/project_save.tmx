@@ -542,6 +542,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Crop&lt;/f0&gt; page in the Writer Image dialog — accessed by right‑clicking on the image, or graphic, and selecting &lt;f1&gt;Properties&lt;/f1&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T131824Z" creationid="tulio" creationdate="20250411T131824Z">
+        <seg>A aba &lt;f0&gt;Recortar&lt;/f0&gt; na caixa de diálogo Figura do Writer — é acessada clicando com o botão direito do mouse na figura ou gráfico e ao selecionar &lt;f1&gt;Propriedades&lt;/f1&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Crop&lt;/f0&gt; tool — available as a tool on toolbars, or in a context menu after right‑clicking on an image, or graphic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T131449Z" creationid="tulio" creationdate="20250411T131449Z">
+        <seg>Ferramenta &lt;f0&gt;Recortar&lt;/f0&gt; — disponível como uma ferramenta em barras de ferramentas ou em um menu de contexto após clicar com o botão direito do mouse em uma figura ou gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Ctrl+D&lt;/f0&gt; is an alternative to selecting &lt;f1&gt;Sheet &gt; Fill Cells &gt; Fill Down&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T214921Z" creationid="olivier" creationdate="20250123T214921Z">
@@ -4936,8 +4952,8 @@
       <tuv lang="en-US">
         <seg>After a scanning sources has been selected, LibreOffice remembers the selected scanning source.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T122349Z" creationid="tulio" creationdate="20250411T122349Z">
-        <seg>Depois que uma fonte de escaneamento é selecionada, o LibreOffice lembra a fonte de escaneamento selecionada.</seg>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T130447Z" creationid="tulio" creationdate="20250411T122349Z">
+        <seg>Depois que uma fonte de digitalização é selecionada, o LibreOffice lembra a fonte de escaneamento selecionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5506,6 +5522,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T184314Z" creationid="olivier-tdf" creationdate="20250209T184314Z">
         <seg>Além disso, a ordenação permite adicionar novas informações à parte inferior da planilha e, em seguida, usar uma ordenação para colocar os valores na ordem correta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also, special effects can be applied, such as transparency, color adjustment, flipping and rotation, and special effect filters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T131201Z" creationid="tulio" creationdate="20250411T131201Z">
+        <seg>Além disso, efeitos especiais podem ser aplicados, como transparência, ajuste de cor, inversão e rotação e filtros de efeitos especiais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11222,6 +11246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Color toolbar, which opens as a separate floating toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T130901Z" creationid="tulio" creationdate="20250411T130901Z">
+        <seg>Barra de ferramentas Cor, que se abre como uma barra de ferramentas flutuante separada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Colors defined as theme colors change in the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T171918Z" creationid="olivier-tdf" creationdate="20250209T171918Z">
@@ -12130,6 +12162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T105359Z" creationid="timot" creationdate="20250224T105359Z">
         <seg>Criar listas não ordenadas e ordenadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cropping</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T131213Z" creationid="tulio" creationdate="20250411T131213Z">
+        <seg>Recortar</seg>
       </tuv>
     </tu>
     <tu>
@@ -19182,6 +19222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For exporting individual cropped images, or graphics, see “&lt;bf0&gt;Exporting&lt;/bf0&gt;” on page &lt;bf1&gt;12&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132206Z" creationid="tulio" creationdate="20250411T132206Z">
+        <seg>Para exportar figuras recortadas individuais ou gráficos, consulte “&lt;bf0&gt;Exportar&lt;/bf0&gt;” na página &lt;bf1&gt;12&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For graphics, JPEG, or SVG formats are saved as HTML and all other graphic formats are saved as PNG.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203005Z" creationid="olivier" creationdate="20250327T203005Z">
@@ -23670,6 +23718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If only a part of an image, or graphic, is to be used in a document, it can be cropped.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T131243Z" creationid="tulio" creationdate="20250411T131243Z">
+        <seg>Se apenas uma parte de uma figura ou gráfico for usada em um documento, ela poderá ser cortada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If only one LibreOffice document is open, click on the X on the right of the title bar to close the entire application.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011347Z" creationid="tulio" creationdate="20250116T011347Z">
@@ -23922,6 +23978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134601Z" creationid="olivier-tdf" creationdate="20250303T134601Z">
         <seg>Se o documento for um arquivo não salvo anteriormente, o atalho abrirá a caixa de diálogo Salvar como.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the document is exported as HTML, the original image, or graphic, is also exported.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132138Z" creationid="tulio" creationdate="20250411T132138Z">
+        <seg>Se o documento for exportado como HTML, a figura ou gráfico original também será exportado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24794,6 +24858,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212333Z" creationid="olivier-tdf" creationdate="20250109T212333Z">
         <seg>Ilustrações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Image Filter toolbar, which can be used as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T130803Z" creationid="tulio" creationdate="20250411T130803Z">
+        <seg>Barra de ferramentas Filtro de figura, que pode ser usada como uma barra de ferramentas flutuante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28286,6 +28358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice masks the parts of the image, or graphic, that have been cropped.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132004Z" creationid="tulio" creationdate="20250411T132004Z">
+        <seg>O LibreOffice mascara as partes da figura, ou gráfico, que foram cortadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice module being used.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T011640Z" creationid="tulio" creationdate="20250320T011640Z">
@@ -28378,6 +28458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225641Z" creationid="olivier-tdf" creationdate="20250328T225641Z">
         <seg>O LibreOffice fornece dois tipos de proteção de documentos: proteção por senha e criptografia OpenPGP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice provides two ways to crop an image, or graphic:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T131300Z" creationid="tulio" creationdate="20250411T131300Z">
+        <seg>O LibreOffice fornece duas maneiras de recortar uma figura ou gráfico:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35990,6 +36078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resizing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132217Z" creationid="tulio" creationdate="20250411T132217Z">
+        <seg>Redimensionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resolution</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135455Z" creationid="olivier" creationdate="20250223T135455Z">
@@ -42462,6 +42558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f1&gt;Crop&lt;/f1&gt; tool provides a quick and easy way to crop an image, or graphic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T131531Z" creationid="tulio" creationdate="20250411T131531Z">
+        <seg>A ferramenta &lt;f1&gt;Recortar&lt;/f1&gt; fornece uma maneira rápida e fácil de cortar uma figura ou gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f1&gt;Disable&lt;/f1&gt; button changes to &lt;f2&gt;Enable&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084823Z" creationid="olivier" creationdate="20250308T084823Z">
@@ -42482,6 +42586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T164847Z" creationid="timot" creationdate="20250409T164832Z">
         <seg>O &lt;f1&gt;Guia do Writer&lt;/f1&gt; descreve em detalhes todas as opções de personalização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f2&gt;Crop&lt;/f2&gt; page provides more control when cropping.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T131850Z" creationid="tulio" creationdate="20250411T131850Z">
+        <seg>A aba &lt;f2&gt;Recortar&lt;/f2&gt; fornece mais controle ao cortar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48294,6 +48406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To fit an image, or graphic, into a LibreOffice document, it may have to be resized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132259Z" creationid="tulio" creationdate="20250411T132259Z">
+        <seg>Para encaixar uma figura ou gráfico em um documento do LibreOffice, ela pode ter que ser redimensionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To format a header (use similar settings for a footer), you can either click on &lt;f0&gt;Format Header&lt;/f0&gt; in the menu shown in Figure &lt;t1&gt;26&lt;/t1&gt;&lt;s2/&gt;or go to &lt;f3&gt;Format &gt; Page Style&lt;/f3&gt;, &lt;f4&gt;Header&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;tab.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T185059Z" creationid="timot" creationdate="20250228T184909Z">
@@ -51406,6 +51526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using these three toolbars together, corrections and adjustments can be applied to an image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T131049Z" creationid="tulio" creationdate="20250411T131049Z">
+        <seg>Ao utilizar essas três barras de ferramentas juntas, correções e ajustes podem ser aplicados a uma figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using this display mode for editing requires familiarity and knowledge of the HTML markup language.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T004453Z" creationid="olivier" creationdate="20250328T004438Z">
@@ -52130,6 +52258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T011555Z" creationid="tulio" creationdate="20250320T011555Z">
         <seg>Quando um arquivo de imagem ou gráfico está disponível no computador que está sendo usado, o arquivo é inserido em um documento do LibreOffice usando um dos seguintes métodos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When an image, or graphic, is inserted into a LibreOffice document and is cropped, the image, or graphic, itself is not cropped.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T131942Z" creationid="tulio" creationdate="20250411T131942Z">
+        <seg>Quando uma figura ou gráfico é inserida em um documento do LibreOffice e é cortada, a figura ou gráfico em si não é cortada.</seg>
       </tuv>
     </tu>
     <tu>
