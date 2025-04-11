@@ -2174,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of resizing an image&lt;/s0&gt;&lt;s1&gt;Example of resizing an image&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T133912Z" creationid="tulio" creationdate="20250411T133912Z">
+        <seg>&lt;s0&gt;Exemplo de redimensionamento de uma figura&lt;/s0&gt;&lt;s1&gt;Exemplo de redimensionamento de uma figura&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of separate windows list&lt;/s0&gt;&lt;s1&gt;Example of separate windows list&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T181600Z" creationid="olivier" creationdate="20250222T181600Z">
@@ -4994,6 +5002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T212009Z" creationid="olivier-tdf" creationdate="20250209T194442Z">
         <seg>Após definir um intervalo de impressão, é possível adicionar mais células a ele criando outro intervalo de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After inserting an image, or graphic, into a LibreOffice document, it may have to be repositioned to achieve the correct document format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T135535Z" creationid="tulio" creationdate="20250411T135535Z">
+        <seg>Depois de inserir uma figura ou gráfico em um documento do LibreOffice, ela pode ter que ser reposicionada para obter o formato de documento correto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10350,6 +10366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on a selection handle and drag to resize the image, or graphic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132458Z" creationid="tulio" creationdate="20250411T132458Z">
+        <seg>Clique em uma alça de seleção e arraste para redimensionar a figura ou o gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on a tab in the dialog to access the available options.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T232108Z" creationid="olivier-tdf" creationdate="20250328T182245Z">
@@ -10362,6 +10386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250210T220255Z" creationid="timot" creationdate="20250210T211841Z">
         <seg>Clique numa palavra ou frase no submenu para que ela substitua a palavra ou frase destacada no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on an image, or graphic, to display the selection handles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132337Z" creationid="tulio" creationdate="20250411T132337Z">
+        <seg>Clique em uma figura ou gráfico para exibir as alças de seleção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11858,6 +11890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T204701Z" creationid="olivier" creationdate="20250324T204701Z">
         <seg>Corel Presentation Exchange (*.cmx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corner handles simultaneously resizes both width and height of an image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132406Z" creationid="tulio" creationdate="20250411T132406Z">
+        <seg>As alças de canto redimensionam simultaneamente a largura e a altura de uma figura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14581,6 +14621,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>O gerúndio nesse caso específico parece se encaixar bem e nada tem a ver com o gerundismo evitado no restante do livro</note>
+      <tuv lang="en-US">
+        <seg>During resizing, a ghost image appears helping to resize an image, or graphic, (Figure &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T133714Z" creationid="tulio" creationdate="20250411T133714Z">
+        <seg>Durante o redimensionamento, uma figura de referência aparece ajudando a redimensionar uma figura ou gráfico (Figura &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Dynamic charts, including a wide range of 2D and 3D charts.</seg>
       </tuv>
@@ -15978,6 +16027,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173805Z" creationid="tulio" creationdate="20250119T173805Z">
         <seg>Exemplo de criação de sub-barra de ferramentas flutuante a partir de uma paleta de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Example of resizing an image</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T134054Z" creationid="tulio" creationdate="20250411T134054Z">
+        <seg>Exemplo de redimensionamento de uma figura</seg>
       </tuv>
     </tu>
     <tu>
@@ -17578,6 +17635,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T221419Z" creationid="olivier" creationdate="20250307T221419Z">
         <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Caixa de diálogo Personalizar — Aba Barras de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of resizing an image</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T134040Z" creationid="tulio" creationdate="20250411T134040Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Exemplo de redimensionamento de uma figura</seg>
       </tuv>
     </tu>
     <tu>
@@ -22394,6 +22459,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T224846Z" creationid="olivier-tdf" creationdate="20250122T224846Z">
         <seg>Uma linha separadora horizontal ou vertical aparece indicando onde a divisão foi colocada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Horizontal handles resizes the height of an image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132424Z" creationid="tulio" creationdate="20250411T132424Z">
+        <seg>Alças horizontais redimensionam a altura de uma figura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34526,6 +34599,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Position the cursor over one of the selection handles and the cursor changes shape, giving a graphical representation of the resizing direction as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132352Z" creationid="tulio" creationdate="20250411T132352Z">
+        <seg>Posicione o cursor sobre uma das alças de seleção e o cursor muda de forma, fornecendo uma representação gráfica da direção de redimensionamento da seguinte forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Positioning</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250310T223306Z" creationid="olivier" creationdate="20250310T223306Z">
@@ -35714,6 +35795,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T234242Z" creationid="olivier-tdf" creationdate="20250224T234242Z">
         <seg>Lembre-se de que um perfil de usuário carregado também pode conter informações confidenciais, como extensões instaladas, dicionários pessoais e configurações específicas do usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remember to release the &lt;f1&gt;Shift&lt;/f1&gt; key before releasing the selection handle.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T133846Z" creationid="tulio" creationdate="20250411T133846Z">
+        <seg>Lembre-se de soltar a &lt;f1&gt;tecla Shift&lt;/f1&gt; antes de soltar a alça de seleção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44862,6 +44951,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The quickest way to resize an image, or graphic, is to use the selection handles as shown by the following example.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132319Z" creationid="tulio" creationdate="20250411T132319Z">
+        <seg>A maneira mais rápida de redimensionar uma figura ou gráfico é usar as alças de seleção, conforme mostrado no exemplo a seguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The recipient needs to put the image files in an Images subfolder in the same folder the document has been placed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T120647Z" creationid="tulio" creationdate="20250411T120647Z">
@@ -48742,6 +48839,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To maintain the original height and width proportions of an image while dragging using a selection handle, hold down the &lt;f0&gt;Shift&lt;/f0&gt; key before dragging a selection handle.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T133756Z" creationid="tulio" creationdate="20250411T133756Z">
+        <seg>Para manter as proporções originais de altura e largura de uma figura enquanto arrasta usando uma alça de seleção, mantenha pressionada a &lt;f0&gt;tecla Shift&lt;/f0&gt; antes de arrastar uma alça de seleção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To make LibreOffice open the default web browser and display an HTML document, use one of the following methods:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010328Z" creationid="olivier" creationdate="20250328T010328Z">
@@ -51618,6 +51723,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194413Z" creationid="olivier-tdf" creationdate="20250109T194413Z">
         <seg>As versões do LibreOffice para Windows, Linux e macOS estão disponíveis gratuitamente e podem ser baixadas em &lt;a0&gt;https://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vertical handles resizes the width of an image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132441Z" creationid="tulio" creationdate="20250411T132441Z">
+        <seg>Alças verticais redimensionam a largura de uma figura.</seg>
       </tuv>
     </tu>
     <tu>
