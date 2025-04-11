@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11678,6 +11678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copy and paste</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T102347Z" creationid="tulio" creationdate="20250411T102347Z">
+        <seg>Copiar e colar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copy content</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155633Z" creationid="olivier" creationdate="20250312T155633Z">
@@ -14906,6 +14914,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T143043Z" creationid="tulio" creationdate="20250211T143043Z">
         <seg>Objeto incorporado (OLE) "ObjectName" selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Embedding</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T105124Z" creationid="tulio" creationdate="20250411T105124Z">
+        <seg>Incorporar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Embedding linked image, or graphic, files breaks the link to the file and becomes part of the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T110102Z" creationid="tulio" creationdate="20250411T110102Z">
+        <seg>A incorporação de arquivos de imagem ou gráficos vinculados quebra o link para o arquivo e se torna parte do documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23886,6 +23910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the source document is closed before the image is pasted into the target document, the image stored on the clipboard could be lost.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T105157Z" creationid="tulio" creationdate="20250411T105157Z">
+        <seg>Se o documento de origem for fechado antes da figura ser colada no documento de destino, a figura armazenada na área de transferência pode ser perdida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the text flow from right to left is selected, embedded Western text still runs from left to right.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T022325Z" creationid="olivier" creationdate="20250321T022325Z">
@@ -25846,10 +25878,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the source document, select the image to be copied and copy the image to the clipboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T102558Z" creationid="tulio" creationdate="20250411T102558Z">
+        <seg>No documento de origem, selecione a imagem a ser copiada e copie a imagem para a área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the styles category drop‑down list at the bottom of the Sidebar, select &lt;f0&gt;Custom Styles&lt;/f0&gt; to display any custom styles that are available in the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202509Z" creationid="olivier" creationdate="20250404T202509Z">
         <seg>Na lista suspensa de categorias de estilos na parte inferior da barra lateral, selecione &lt;f0&gt;Estilos personalizados&lt;/f0&gt; para exibir todos os estilos personalizados disponíveis no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the target document, click at the position where the image is to be placed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T105037Z" creationid="tulio" creationdate="20250411T105037Z">
+        <seg>No documento de destino, clique na posição onde a figura deve ser colocada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27218,6 +27266,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135339Z" creationid="olivier-tdf" creationdate="20250120T135339Z">
         <seg>Navegação pelo teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keyboard shortcut &lt;f0&gt;Ctrl+C&lt;/f0&gt; or &lt;f1&gt;Ctrl+Ins&lt;/f1&gt; (macOS &lt;f2&gt;⌘+C&lt;/f2&gt;)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T105009Z" creationid="tulio" creationdate="20250411T105009Z">
+        <seg>Atalho de teclado &lt;f0&gt;Ctrl+C&lt;/f0&gt; ou &lt;f1&gt;Ctrl+Ins&lt;/f1&gt; (macOS &lt;f2&gt;⌘+C&lt;/f2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keyboard shortcut &lt;f0&gt;Ctrl+V&lt;/f0&gt; or &lt;f1&gt;Shift+Ins&lt;/f1&gt; (macOS &lt;f2&gt;⌘+V&lt;/f2&gt;)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T105107Z" creationid="tulio" creationdate="20250411T105107Z">
+        <seg>Atalho de teclado &lt;f0&gt;Ctrl+V&lt;/f0&gt; ou &lt;f1&gt;Shift+Ins&lt;/f1&gt; (macOS &lt;f2&gt;⌘+V&lt;/f2&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32030,6 +32094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open both the source and target documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T102403Z" creationid="tulio" creationdate="20250411T102403Z">
+        <seg>Abra os documentos de origem e de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open file read-only</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T195123Z" creationid="olivier-tdf" creationdate="20250328T195123Z">
@@ -33714,6 +33786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155737Z" creationid="olivier" creationdate="20250312T155737Z">
         <seg>Colar conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paste the image from the clipboard into the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T105053Z" creationid="tulio" creationdate="20250411T105053Z">
+        <seg>Cole a figura da área de transferência no documento.</seg>
       </tuv>
     </tu>
     <tu>
