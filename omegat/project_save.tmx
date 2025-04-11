@@ -4870,6 +4870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advantage</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T113014Z" creationid="tulio" creationdate="20250411T113014Z">
+        <seg>Vantagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advantages of LibreOffice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113947Z" creationid="olivier-tdf" creationdate="20250109T113947Z">
@@ -9576,8 +9584,8 @@
       <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Break Link&lt;/f0&gt;, then click &lt;f1&gt;Yes&lt;/f1&gt; to confirm embedding the files.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T112613Z" creationid="tulio" creationdate="20250411T112613Z">
-        <seg>Clique em &lt;f0&gt;Quebrar Link&lt;/f0&gt; e, em seguida, clique em &lt;f1&gt;Sim&lt;/f1&gt; para confirmar a incorporação dos arquivos.</seg>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T112725Z" creationid="tulio" creationdate="20250411T112613Z">
+        <seg>Clique em &lt;f0&gt;Desvincular&lt;/f0&gt; e, em seguida, clique em &lt;f1&gt;Sim&lt;/f1&gt; para confirmar a incorporação dos arquivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13610,6 +13618,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084726Z" creationid="olivier" creationdate="20250308T084726Z">
         <seg>Desativar extensões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disadvantage</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T113404Z" creationid="tulio" creationdate="20250411T113404Z">
+        <seg>Desvantagem</seg>
       </tuv>
     </tu>
     <tu>
@@ -17830,6 +17846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>File can be modified separately using a graphics program.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T113030Z" creationid="tulio" creationdate="20250411T113030Z">
+        <seg>O arquivo pode ser modificado separadamente usando um programa gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File compatibility</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192812Z" creationid="olivier-tdf" creationdate="20250109T192812Z">
@@ -18690,6 +18714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200513Z" creationid="timot" creationdate="20250111T200513Z">
         <seg>Por exemplo, a numeração de páginas foi reiniciada para 1 na terceira página, seu número de página será 1 e seu número de sequência será 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, image files placed in a subfolder named Images in the folder containing the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T120630Z" creationid="tulio" creationdate="20250411T120630Z">
+        <seg>Por exemplo, arquivos de imagem colocados em uma subpasta chamada Imagens na pasta que contém o documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22278,6 +22310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, file size is usually not a problem on modern computers, and LibreOffice can handle large files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T113359Z" creationid="tulio" creationdate="20250411T113359Z">
+        <seg>No entanto, o tamanho do arquivo geralmente não é um problema em computadores modernos, e o LibreOffice pode lidar com arquivos grandes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, files can be saved in other formats, if required.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205301Z" creationid="olivier" creationdate="20250324T205301Z">
@@ -22426,6 +22466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130149Z" creationid="olivier-tdf" creationdate="20250218T130149Z">
         <seg>No entanto, o uso de formatação direta pode produzir documentos com uma incompatibilidade de atributos de formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, when the document is saved, it contains only a reference to the linked file, not the file itself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T112942Z" creationid="tulio" creationdate="20250411T112942Z">
+        <seg>No entanto, quando o documento é salvo, ele contém apenas uma referência ao arquivo vinculado, não ao arquivo em si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27254,6 +27302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keep track of the file locations and make sure any recipient knows where to store the files so the document can find the files when it is opened.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T113501Z" creationid="tulio" creationdate="20250411T113501Z">
+        <seg>Acompanhe os locais dos arquivos e certifique-se de que qualquer destinatário saiba onde armazenar os arquivos para que o documento possa encontrá-los quando for aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keeping files on remote servers allows access to documents using different computers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184215Z" creationid="olivier-tdf" creationdate="20250328T184215Z">
@@ -28350,10 +28406,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linking</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T112649Z" creationid="tulio" creationdate="20250411T112649Z">
+        <seg>Vincular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linking and cross-referencing within a document</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T215300Z" creationid="timot" creationdate="20250409T215249Z">
         <seg>Vincular e referência cruzada dentro de um documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linking reduces the file size of the document when it is saved, because the file itself is not included in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T113344Z" creationid="tulio" creationdate="20250411T113344Z">
+        <seg>A vinculação reduz o tamanho do arquivo do documento quando ele é salvo, porque o arquivo em si não está incluído no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39310,6 +39382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sending a document with linked files to another computer, the linked files must also be sent, or moved with the document so that the receiver sees the linked images, or graphics in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T113428Z" creationid="tulio" creationdate="20250411T113428Z">
+        <seg>Enviando um documento com arquivos vinculados para outro computador, os arquivos vinculados também devem ser enviados ou movidos com o documento para que o destinatário veja as figuras vinculadas ou gráficos no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sequence Checking</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023432Z" creationid="olivier" creationdate="20250321T023432Z">
@@ -43334,6 +43414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The document and the image, or graphic, remain as two separate files reducing file size.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T113005Z" creationid="tulio" creationdate="20250411T113005Z">
+        <seg>O documento e a figura, ou gráfico, permanecem como dois arquivos separados, reduzindo o tamanho do arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The document can be edited when using &lt;f2&gt;Book view&lt;/f2&gt; on the Status bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T232443Z" creationid="olivier-tdf" creationdate="20250224T232443Z">
@@ -43966,6 +44054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The modified image, or graphic, appears the next time the document is opened.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T113046Z" creationid="tulio" creationdate="20250411T113046Z">
+        <seg>A figura modificada, ou gráfico, aparece na próxima vez que o documento for aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most common are:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T110407Z" creationid="timot" creationdate="20250215T110407Z">
@@ -44434,6 +44530,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104128Z" creationid="timot" creationdate="20250113T104128Z">
         <seg>O resultado é uma seleção múltipla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The result is that the image, or graphic, is displayed in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T112932Z" creationid="tulio" creationdate="20250411T112932Z">
+        <seg>O resultado é que a figura, ou gráfico, é exibida no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46210,6 +46314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T205527Z" creationid="timot" creationdate="20250402T205527Z">
         <seg>Isso também é útil para numerar a primeira página de um documento com um número de página maior que 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is an advantage if another person is updating the files, for example a graphic artist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T113106Z" creationid="tulio" creationdate="20250411T113106Z">
+        <seg>Isso é uma vantagem se outra pessoa estiver atualizando os arquivos, por exemplo, um artista gráfico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51818,6 +51930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172659Z" creationid="tulio" creationdate="20250119T172659Z">
         <seg>Quando é necessário reduzir o número de barras de ferramentas exibidas e fornecer mais espaço para um documento, a interface de usuário pode ser alterada para uma única barra de ferramentas como uma alternativa à interface de usuário de barra dupla padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When linking images, or graphics, LibreOffice creates a link to the file instead of saving a copy of the file in a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tulio" changedate="20250411T112909Z" creationid="tulio" creationdate="20250411T112909Z">
+        <seg>Ao vincular figuras ou gráficos, o LibreOffice cria um link para o arquivo em vez de salvar uma cópia do arquivo em um documento.</seg>
       </tuv>
     </tu>
     <tu>
