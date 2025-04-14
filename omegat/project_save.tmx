@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2962,6 +2962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T201726Z" creationid="olivier-tdf" creationdate="20250308T201726Z">
         <seg>&lt;s0&gt;Selecionar a caixa de diálogo Sua interface de usuário preferida&lt;/s0&gt;&lt;s1&gt;Selecionar a caixa de diálogo Sua interface de usuário preferida&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Select a Template dialog&lt;/s0&gt;&lt;s1&gt;Select a Template dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T002027Z" creationid="timot" creationdate="20250414T001854Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Selecione um modelo&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Selecione um modelo&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12102,6 +12110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating drawings in Impress is similar to the Draw module included in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T001644Z" creationid="timot" creationdate="20250414T001644Z">
+        <seg>Criar desenhos no Impress é semelhante ao módulo Draw do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creating fill-in forms</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250410T130916Z" creationid="timot" creationdate="20250410T130916Z">
@@ -17072,6 +17088,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Select a Template dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T001959Z" creationid="timot" creationdate="20250414T001959Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Caixa de diálogo Selecione um modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Styles deck on Sidebar — Writer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250402T233107Z" creationid="olivier-tdf" creationdate="20250402T233107Z">
@@ -19836,6 +19860,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210746Z" creationid="olivier" creationdate="20250123T210746Z">
         <seg>Para obter mais informações, consulte o Capítulo 2, Inserindo e editando dados, no Guia do Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information, refer to Chapter 4, Working with Styles, Templates, and Hyperlinks, and Chapter 7, Getting Started with Draw, in this guide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T001727Z" creationid="timot" creationdate="20250414T001727Z">
+        <seg>Para obter mais informações, neste guia, consulte o Capítulo 4, Trabalhar com estilos, modelos e hiperlinks, e o Capítulo 7, Introdução ao Draw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25184,6 +25216,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Impress also includes a spelling checker, a thesaurus, text styles, and background styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T001102Z" creationid="timot" creationdate="20250414T001102Z">
+        <seg>O Impress também inclui um verificador ortográfico, um dicionário de sinônimos, estilos de texto e estilos de plano de fundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impress can also export to Draw-compatible graphic formats.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205641Z" creationid="olivier" creationdate="20250324T205641Z">
@@ -27348,6 +27388,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T105825Z" creationid="timot" creationdate="20250221T105825Z">
         <seg>Recomenda-se usar estilos para formatar caracteres o máximo possível, em vez de formatar caracteres diretamente, conforme descrito nesta seção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is recommended to consult the &lt;f0&gt;Draw Guide&lt;/f0&gt; for more details on how to use the drawing tools.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T001753Z" creationid="timot" creationdate="20250414T001753Z">
+        <seg>Recomenda-se consultar o &lt;f0&gt;Guia do Draw&lt;/f0&gt; para mais detalhes sobre como usar as ferramentas de desenho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37472,6 +37520,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the &lt;f0&gt;Impress Guide&lt;/f0&gt; and LibreOffice Help for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T001436Z" creationid="timot" creationdate="20250414T001436Z">
+        <seg>Consulte o &lt;f0&gt;Guia do Impress&lt;/f0&gt; e a Ajuda do LibreOffice para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T215409Z" creationid="timot" creationdate="20250111T201136Z">
@@ -38028,6 +38084,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T123353Z" creationid="tulio" creationdate="20250411T123353Z">
         <seg>Selecione um tema da Galeria na lista fornecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a Template dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T002039Z" creationid="timot" creationdate="20250414T002039Z">
+        <seg>Caixa de diálogo Selecione um modelo</seg>
       </tuv>
     </tu>
     <tu>
@@ -40680,6 +40744,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Slides containing text use styles to determine the appearance of that text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T001629Z" creationid="timot" creationdate="20250414T001629Z">
+        <seg>Os eslaides que contêm estilos de texto usam estilos para determinar a aparência desse texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Slideshows can be further enhanced using Fontwork special effects text, as well as sound and video clips.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191601Z" creationid="olivier-tdf" creationdate="20250109T191601Z">
@@ -41592,10 +41664,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start Impress using any of the methods described in Chapter 1, LibreOffice Basics.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T001820Z" creationid="timot" creationdate="20250414T001820Z">
+        <seg>Inicie o Impress usando qualquer um dos métodos descritos no Capítulo 1, Noções básicas do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start-Up</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203710Z" creationid="olivier-tdf" creationdate="20250112T203710Z">
         <seg>Inicialização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Starting Impress</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T001803Z" creationid="timot" creationdate="20250414T001803Z">
+        <seg>Iniciar o Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -42388,6 +42476,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204445Z" creationid="olivier" creationdate="20250404T204445Z">
         <seg>Caixa de diálogo Modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Templates included with Impress are designed to fit the two standard sizes of presentation slides using 4:3 and 16:9 ratios.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T002104Z" creationid="timot" creationdate="20250414T002104Z">
+        <seg>Os modelos incluídos no Impress são projetados para se adequarem aos dois tamanhos padrão de slides de apresentação usando proporções de 4:3 e 16:9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44536,6 +44632,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The main Impress window opens and, by default, the Select a Template dialog (Figure &lt;t0&gt;1&lt;/t0&gt;) displaying templates installed with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T001845Z" creationid="timot" creationdate="20250414T001845Z">
+        <seg>A janela principal do Impress abre e, por padrão, a caixa de diálogo Selecionar um modelo (Figura &lt;t0&gt;1&lt;/t0&gt;) exibe os modelos instalados com o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The main Writer workspace</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200020Z" creationid="timot" creationdate="20250111T200020Z">
@@ -45476,6 +45580,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143158Z" creationid="olivier" creationdate="20250405T143158Z">
         <seg>O modelo é exportado para o local selecionado e o navegador é fechado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The templates do adapt to other available sizes, which are selected by going to &lt;f0&gt;Slide &gt; Slide Properties &gt; Paper Format&lt;/f0&gt; on the Menu bar or &lt;f1&gt;Format&lt;/f1&gt; in the &lt;f2&gt;Slide&lt;/f2&gt; panel in the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T005924Z" creationid="timot" creationdate="20250414T005924Z">
+        <seg>Os modelos se adaptam a outros tamanhos disponíveis, que são selecionados em &lt;f0&gt;Slide &gt; Propriedades do Slide &gt; Formato do Papel&lt;/f0&gt; na barra de Menu ou &lt;f1&gt;Formato&lt;/f1&gt; no painel &lt;f2&gt;Slide&lt;/f2&gt; no deck Propriedades na Barra Lateral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46588,6 +46700,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T183655Z" creationid="olivier-tdf" creationdate="20250309T183655Z">
         <seg>Este capítulo descreve algumas das opções de configuração encontradas em &lt;f0&gt;Ferramentas &gt; Opções&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências&lt;/f1&gt;) na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This chapter introduces some features of Impress and does not attempt to cover all of the features available in Impress that can be used to create presentations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T001413Z" creationid="timot" creationdate="20250414T001413Z">
+        <seg>Este capítulo apresenta alguns recursos do Impress e não cobre todos os recursos disponíveis no Impress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49844,6 +49964,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001049Z" creationid="olivier" creationdate="20250303T001049Z">
         <seg>Para &lt;f16&gt;usá-lo&lt;/f16&gt;, pressione e segure a &lt;f17&gt;tecla Ctrl&lt;/f17&gt; &lt;bs18/&gt;&lt;bs19/&gt;&lt;bs20/&gt;&lt;bs21/&gt;&lt;bs22/&gt;&lt;bs23/&gt;(macOS ⌘&lt;be24/&gt;&lt;be25/&gt;&lt;be26/&gt;&lt;be27/&gt;&lt;be28/&gt;&lt;be29/&gt;) e pressione a tecla &lt;f30&gt;O.&lt;/f30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use Impress for more than very simple presentations requires some knowledge of the elements used on the slides.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250414T001616Z" creationid="timot" creationdate="20250414T001616Z">
+        <seg>O Impress pode ser usado para muito mais do que simples apresentações, mas, isso exige maior conhecimento dos elementos usados nos slides.</seg>
       </tuv>
     </tu>
     <tu>
