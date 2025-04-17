@@ -4150,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A layer is a workplace where drawing elements and objects can be inserted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T171416Z" creationid="olivier-tdf" creationdate="20250417T171416Z">
+        <seg>Uma camada é um área de trabalho onde elementos e objetos de desenho são inseridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A librarian might call up information about books.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250410T131311Z" creationid="timot" creationdate="20250410T131311Z">
@@ -7538,6 +7546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T133556Z" creationid="olivier" creationdate="20250217T133556Z">
         <seg>Normalmente, a barra lateral está no lado direito do espaço de trabalho de um módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, the Workspace consists of three layers (&lt;f0&gt;Layout&lt;/f0&gt;, &lt;f1&gt;Controls&lt;/f1&gt; and &lt;f2&gt;Dimension Lines&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T171455Z" creationid="olivier-tdf" creationdate="20250417T171455Z">
+        <seg>Por padrão, o Espaço de trabalho consiste em três camadas (&lt;f0&gt;Leiaute&lt;/f0&gt;, &lt;f1&gt;Controles&lt;/f1&gt; e &lt;f2&gt;Linhas de cotas&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13330,6 +13346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202417Z" creationid="olivier" creationdate="20250327T202417Z">
         <seg>O padrão é a data e hora em que a caixa de diálogo de exportação foi aberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Default layers cannot be deleted or renamed, but layers can be added when required.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T171538Z" creationid="olivier-tdf" creationdate="20250417T171538Z">
+        <seg>As camadas padrão não podem ser excluídas ou renomeadas, mas você pode adicionar camadas quando necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20020,6 +20044,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T234804Z" creationid="olivier" creationdate="20250302T234804Z">
         <seg>Para obter mais informações sobre atalhos de teclado, consulte a Ajuda do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on layers, see “&lt;bf0&gt;Working with layers&lt;/bf0&gt;” on page &lt;bf1&gt;33&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T171627Z" creationid="olivier-tdf" creationdate="20250417T171627Z">
+        <seg>Para obter mais informações sobre camadas, consulte “&lt;bf0&gt;Trabalhar com camadas&lt;/bf0&gt;” na página &lt;bf1&gt;33&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28395,6 +28427,14 @@
         <seg>Layers Bar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T165408Z" creationid="olivier-tdf" creationdate="20250417T165408Z">
+        <seg>Barra de camadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layers bar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T171347Z" creationid="olivier-tdf" creationdate="20250417T171347Z">
         <seg>Barra de camadas</seg>
       </tuv>
     </tu>
@@ -43032,6 +43072,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tabs for layers appear in the Layers bar at the bottom of the Workspace.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T171600Z" creationid="olivier-tdf" creationdate="20250417T171600Z">
+        <seg>As abas para camadas aparecem na barra Camadas na parte inferior do Espaço de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tabs for the default layers appear at the bottom of the Workspace.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T171506Z" creationid="olivier-tdf" creationdate="20250417T171506Z">
+        <seg>As abas para as camadas padrão aparecem na parte inferior do espaço de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tag Image File Format (*.tif, *.tiff)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T204839Z" creationid="olivier" creationdate="20250324T204839Z">
@@ -47148,6 +47204,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="rafael" changedate="20250220T001456Z" creationid="rafael" creationdate="20250220T001456Z">
         <seg>Essas macros podem ser editadas e aprimoradas após a gravação com o ambiente de desenvolvimento integrado do LibreOffice Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These measurement units can be different to the measurement units set for the rulers displayed in the LibreOffice Draw main window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T171344Z" creationid="olivier-tdf" creationdate="20250417T171344Z">
+        <seg>Essas unidades de medida podem ser diferentes das unidades de medida definidas para as réguas exibidas na janela principal do LibreOffice Draw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51916,6 +51980,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T183411Z" creationid="timot" creationdate="20250122T183411Z">
         <seg>Use o campo Ir para página no canto superior direito do Navegador (veja acima).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Layers bar to navigate between layers, add layers as required, or delete layers that have been created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T171610Z" creationid="olivier-tdf" creationdate="20250417T171610Z">
+        <seg>Use a barra Camadas para navegar entre as camadas, adicionar camadas conforme necessário ou excluir camadas que foram criadas.</seg>
       </tuv>
     </tu>
     <tu>
