@@ -11742,6 +11742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contains panels where properties of a selected object in a drawing are changed: &lt;f0&gt;Page&lt;/f0&gt;, &lt;f1&gt;Character&lt;/f1&gt;, &lt;f2&gt;Paragraph&lt;/f2&gt;, &lt;f3&gt;Image&lt;/f3&gt;, &lt;f4&gt;Area&lt;/f4&gt;, &lt;f5&gt;Line&lt;/f5&gt;, &lt;f6&gt;Effect&lt;/f6&gt;, &lt;f7&gt;Shadow&lt;/f7&gt;, &lt;f8&gt;Position and Size&lt;/f8&gt;, and &lt;f9&gt;Columns&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T170023Z" creationid="olivier-tdf" creationdate="20250417T170023Z">
+        <seg>Contém painéis onde as propriedades de um objeto selecionado num desenho são alteradas: &lt;f0&gt;Página&lt;/f0&gt;, &lt;f1&gt;Caractere&lt;/f1&gt;, &lt;f2&gt;Parágrafo&lt;/f2&gt;, &lt;f3&gt;Imagem&lt;/f3&gt;, &lt;f4&gt;Área&lt;/f4&gt;, &lt;f5&gt;Linha&lt;/f5&gt;, &lt;f6&gt;Efeito&lt;/f6&gt;, &lt;f7&gt;Sombra&lt;/f7&gt;, &lt;f8&gt;Posição e Tamanho&lt;/f8&gt; e &lt;f9&gt;Colunas&lt;/f9&gt; entre outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Content can be copied to the clipboard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200925Z" creationid="olivier" creationdate="20250325T200925Z">
@@ -24380,6 +24388,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205817Z" creationid="olivier-tdf" creationdate="20250328T205817Z">
         <seg>Se a barra de ferramentas Censurar não for exibida, acesse &lt;f0&gt;Exibir &gt; Barras de ferramentas&lt;/f0&gt; na barra de menus no LibreOffice Draw e selecione &lt;f1&gt;Censurar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the Sidebar is not visible, select &lt;f1&gt;View &gt; Sidebar&lt;/f1&gt; on the Menu bar, or use the keyboard shortcut &lt;f2&gt;Ctrl+F5&lt;/f2&gt; (macOS ⌘&lt;f3&gt;+F5&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T165717Z" creationid="olivier-tdf" creationdate="20250417T165717Z">
+        <seg>Se a barra lateral não estiver visível, selecione &lt;f1&gt;Exibir &gt; Barra lateral&lt;/f1&gt; na barra de menu ou use o atalho de teclado &lt;f2&gt;Ctrl+F5&lt;/f2&gt; (macOS&lt;f3&gt;⌘ +F5&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43920,6 +43936,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Sidebar in LibreOffice Draw has five main decks and is similar to the Sidebar in other LibreOffice modules.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T165546Z" creationid="olivier-tdf" creationdate="20250417T165546Z">
+        <seg>A barra lateral no LibreOffice Draw tem cinco deques principais e é semelhante à barra lateral em outros módulos do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Sidebar is normally open by default on the right side of the Writer window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T110051Z" creationid="timot" creationdate="20250113T110051Z">
@@ -45252,6 +45276,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222152Z" creationid="olivier" creationdate="20250212T222152Z">
         <seg>O slide mestre associado às páginas de slides ou notas no espaço de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum size of a drawing page in LibreOffice Draw is limited by computer setup and the page size that that can be set and used in a printer connected to the computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T165509Z" creationid="olivier-tdf" creationdate="20250417T165509Z">
+        <seg>O tamanho máximo de uma página de desenho no LibreOffice Draw é limitado pela configuração do computador e pelo tamanho da página que pode ser definido e usado em uma impressora conectada ao computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49844,6 +49876,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122217Z" creationid="olivier-tdf" creationdate="20250117T122217Z">
         <seg>Para abrir um arquivo CSV no Calc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To open a deck, click on its icon on the right of the Sidebar, or click on &lt;f0&gt;Sidebar Settings&lt;/f0&gt; at the top of the Sidebar and select a deck from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T165629Z" creationid="olivier-tdf" creationdate="20250417T165629Z">
+        <seg>Para abrir um deque, clique em seu ícone à direita da barra lateral ou clique em &lt;f0&gt;Configurações da barra lateral&lt;/f0&gt; na parte superior da barra e selecione um deque na lista suspensa.</seg>
       </tuv>
     </tu>
     <tu>
