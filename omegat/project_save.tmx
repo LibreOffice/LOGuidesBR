@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;d0&gt;The LibreOffice Documentation Team&lt;/d0&gt;&lt;d1&gt;The Document Foundation&lt;/d1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155425Z" creationid="olivier-tdf" creationdate="20250417T155425Z">
+        <seg>&lt;d0&gt;A Equipe de Documentação do LibreOffice&lt;/d0&gt;&lt;d1&gt; The Document Foundation&lt;/d1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Select &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Apply Style&lt;/f2&gt; on the Formatting toolbar (Calc).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T001232Z" creationid="olivier-tdf" creationdate="20250219T001232Z">
@@ -530,6 +538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000513Z" creationid="olivier" creationdate="20250303T000513Z">
         <seg>&lt;f0&gt;Ctrl&lt;/f0&gt;+clique e/ou clique com o botão direito dependendo da configuração do computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Control&lt;/f0&gt;+click, &lt;f1&gt;Ctrl&lt;/f1&gt;+click, or right click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155546Z" creationid="olivier-tdf" creationdate="20250417T155546Z">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt;+clique, &lt;f1&gt;Ctrl&lt;/f1&gt;+ clique ou clique com o botão direito do mouse, dependendo da configuração do computador</seg>
       </tuv>
     </tu>
     <tu>
@@ -6934,6 +6950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B Antonio Fernandez, Olivier Hallot, Peter Schofield</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155512Z" creationid="olivier-tdf" creationdate="20250417T155512Z">
+        <seg>B Antonio Fernandez, Olivier Hallot, Peter Schofield</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215630Z" creationid="timot" creationdate="20250110T215630Z">
@@ -8438,6 +8462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 7, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155432Z" creationid="olivier-tdf" creationdate="20250417T155432Z">
+        <seg>Capítulo 7, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter Styles</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000138Z" creationid="olivier-tdf" creationdate="20250219T000138Z">
@@ -8914,6 +8946,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T183203Z" creationid="olivier-tdf" creationdate="20250309T183203Z">
         <seg>Escolhendo opções para se adequar à maneira de trabalhar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Claire Wood, Dave Barton, Hazel Russman, Kees Kriek.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155518Z" creationid="olivier-tdf" creationdate="20250417T155518Z">
+        <seg>Claire Wood, Dave Barton, Hazel Russman, Kees Kriek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21168,6 +21208,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8 - Chapter 7, Getting Started with Draw</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155410Z" creationid="olivier-tdf" creationdate="20250417T155410Z">
+        <seg>Guia de Introdução 24.8 - Capítulo 7, Introdução ao Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Getting Started Guide 24.8 - Preface</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T220327Z" creationid="olivier-tdf" creationdate="20250109T220327Z">
@@ -21180,6 +21228,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123819Z" creationid="olivier-tdf" creationdate="20250114T123819Z">
         <seg>Introdução ao Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting Started with Draw</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155445Z" creationid="olivier-tdf" creationdate="20250417T155445Z">
+        <seg>Introdução ao Draw</seg>
       </tuv>
     </tu>
     <tu>
@@ -27360,6 +27416,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be used to create a wide variety of graphic images, including some operations on raster graphics.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155607Z" creationid="olivier-tdf" creationdate="20250417T155607Z">
+        <seg>Ele pode ser usado para criar uma grande variedade de imagens gráficas, incluindo algumas operações em gráficos rasterizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It cannot be removed in C2 despite also appearing to be the bottom border for cell C2.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161835Z" creationid="olivier" creationdate="20250204T161835Z">
@@ -28260,6 +28324,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T202728Z" creationid="olivier-tdf" creationdate="20250112T202728Z">
         <seg>Noções básicas do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice Draw is the vector graphics drawing module included with the LibreOffice installation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155556Z" creationid="olivier-tdf" creationdate="20250417T155556Z">
+        <seg>O LibreOffice Draw é o módulo de desenho gráfico vetorial incluído na instalação do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31260,6 +31332,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T165119Z" creationid="olivier" creationdate="20250222T165119Z">
         <seg>Caixa de diálogo Navegador: acesse &lt;f0&gt;Exibir &gt; Navegador&lt;/f0&gt; na barra de menus ou use o atalho de teclado &lt;f1&gt;F5&lt;/f1&gt; para Windows e macOS ou &lt;f2&gt;Ctrl+Shift+F5&lt;/f2&gt; para Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nay Catina Dia-Schneebeli, Olivier Hallot, Peter Schofield, Ron Faile Jr., Skip Masonsmith.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155522Z" creationid="olivier-tdf" creationdate="20250417T155522Z">
+        <seg>Nay Catina Dia-Schneebeli, Olivier Hallot, Peter Schofield, Ron Faile Jr., Skip Masonsmith.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42328,6 +42408,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Example of macOS keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155534Z" creationid="olivier-tdf" creationdate="20250417T155534Z">
+        <seg>Tabela &lt;seq0&gt;1&lt;/seq0&gt;: Exemplo de atalhos de teclado do macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: File types created saving in HTML format</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203119Z" creationid="olivier" creationdate="20250327T203119Z">
@@ -52292,6 +52380,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124002Z" creationid="olivier-tdf" creationdate="20250114T124002Z">
         <seg>Vasudev Narayanan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vector Drawing in LibreOffice</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155505Z" creationid="olivier-tdf" creationdate="20250417T155505Z">
+        <seg>Desenhos vetoriais no LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vector graphics store and display an image as an assembly of simple geometric elements such as lines, circles, and polygons, rather than a collection of pixels (points on the screen).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155624Z" creationid="olivier-tdf" creationdate="20250417T155624Z">
+        <seg>Os gráficos vetoriais armazenam e exibem uma imagem como um conjunto de elementos geométricos simples, como linhas, círculos e polígonos, em vez de uma coleção de pixels (pontos na tela).</seg>
       </tuv>
     </tu>
     <tu>
