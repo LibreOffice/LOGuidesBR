@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2546,6 +2546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T214922Z" creationid="olivier-tdf" creationdate="20250417T214922Z">
         <seg>&lt;s0&gt;Painel Linha no deque de Propriedades na barra lateral&lt;/s0&gt;&lt;s1&gt;Painel Linha no deque de Propriedades na barra lateral&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Lines and Arrows subtoolbar&lt;/s0&gt;&lt;s1&gt;Lines and Arrows subtoolbar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T231418Z" creationid="olivier" creationdate="20250421T231418Z">
+        <seg>&lt;s0&gt;Barra secundária de Linhas e setas&lt;/s0&gt;&lt;s1&gt;Barra secundária de Linhas e setas&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6746,6 +6754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T090305Z" creationid="olivier" creationdate="20250308T090305Z">
         <seg>Caixa de diálogo de área — Página cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arrows are drawn like straight lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T231236Z" creationid="olivier" creationdate="20250421T231236Z">
+        <seg>As setas são desenhadas como linhas retas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17264,6 +17280,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Lines and Arrows subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T231432Z" creationid="olivier" creationdate="20250421T231432Z">
+        <seg>Figura &lt;seq0&gt;13&lt;/seq0&gt;: Barra secundária de Linhas e setas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Options LibreOffice Writer/Web dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182222Z" creationid="olivier-tdf" creationdate="20250328T182222Z">
@@ -23232,6 +23256,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hovering the cursor over each tool in the Lines and Arrows subtoolbar (Figure &lt;t0&gt;13&lt;/t0&gt;) indicates what type of line, or arrow each tool creates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T231324Z" creationid="olivier" creationdate="20250421T231324Z">
+        <seg>Passar o cursor sobre cada ferramenta na sub-barra de ferramentas Linhas e Setas (Figura &lt;t0&gt;13&lt;/t0&gt;) indica que tipo de linha ou seta cada ferramenta cria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How can LibreOffice be freely available?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215148Z" creationid="olivier-tdf" creationdate="20250109T215148Z">
@@ -23368,10 +23400,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, if the &lt;f1&gt;Snap to Grid&lt;/f1&gt; option in &lt;f2&gt;View &gt; Snap Guides&lt;/f2&gt; on the Menu bar is selected, the &lt;f3&gt;Ctrl&lt;/f3&gt; key (macOS ⌘) deactivates the snap to grid.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T230647Z" creationid="olivier" creationdate="20250421T230647Z">
+        <seg>No entanto, se a opção &lt;f1&gt;Encaixar na grade&lt;/f1&gt; em &lt;f2&gt;Exibir &gt; Guias de encaixe&lt;/f2&gt; na barra de menu estiver selecionada, a &lt;f3&gt;tecla Ctrl&lt;/f3&gt; (macOS ⌘) desativa o encaixe na grade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, if the common paragraphs are edited, you may need to update that information in every document where it occurs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T170559Z" creationid="timot" creationdate="20250409T170559Z">
         <seg>Entretanto, se os parágrafos comuns forem editados, talvez seja necessário atualizar essas informações em todos os documentos em que ocorrerem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, if the option &lt;f1&gt;When creating or moving objects&lt;/f1&gt; in the &lt;f2&gt;Constrain Objects&lt;/f2&gt; section of &lt;f3&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;Grid&lt;/f5&gt; (macOS &lt;f6&gt;LibreOffice &gt; Preferences &gt; LibreOffice Draw &gt; Grid&lt;/f6&gt;) has been selected, the &lt;f7&gt;Shift&lt;/f7&gt; key deactivates this restriction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T231046Z" creationid="olivier" creationdate="20250421T231046Z">
+        <seg>No entanto, ao selecionar a opção &lt;f1&gt;Ao criar ou mover objetos&lt;/f1&gt; na seção &lt;f2&gt;Restringir Objetos&lt;/f2&gt; de &lt;f3&gt;Ferramentas &gt; Opções &gt; LibreOffice Draw &gt; &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;Grade&lt;/f5&gt; (macOS &lt;f6&gt;LibreOffice &gt; Preferências &gt; LibreOffice Draw &gt; Grade&lt;/f6&gt;), a tecla &lt;f7&gt;Shift&lt;/f7&gt; desativa essa restrição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28920,6 +28968,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice Draw classifies both lines and arrows as lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T231225Z" creationid="olivier" creationdate="20250421T231225Z">
+        <seg>O LibreOffice Draw classifica linhas e setas como linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice Draw is fully integrated into the LibreOffice suite simplifying exchanging graphics between all LibreOffice modules.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155649Z" creationid="olivier-tdf" creationdate="20250417T155649Z">
@@ -29716,6 +29772,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T214941Z" creationid="olivier-tdf" creationdate="20250417T214941Z">
         <seg>Painel Linha no deque de Propriedades na barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lines and Arrows</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T231214Z" creationid="olivier" creationdate="20250421T231214Z">
+        <seg>Linhas e setas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lines and Arrows subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T231435Z" creationid="olivier" creationdate="20250421T231435Z">
+        <seg>Barra secundária de Linhas e setas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lines are drawn starting from the center of the line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T231206Z" creationid="olivier" creationdate="20250421T231206Z">
+        <seg>As linhas são desenhadas a partir do centro da linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45880,6 +45960,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The information field on the &lt;f1&gt;Status bar&lt;/f1&gt; shows them only as lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T231337Z" creationid="olivier" creationdate="20250421T231337Z">
+        <seg>O campo de informações na &lt;f1&gt;barra de status&lt;/f1&gt; os mostra apenas como linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The initial patterns in &lt;f0&gt;Date acceptance patterns&lt;/f0&gt; are determined by the locale setting, but these default patterns can be modified and more patterns added.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T132104Z" creationid="olivier" creationdate="20250320T132104Z">
@@ -50064,6 +50152,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To draw a line symmetrically outwards in both directions from the start point, keep the &lt;f0&gt;Alt&lt;/f0&gt; key (macOS ⌥) pressed while drawing the line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T231158Z" creationid="olivier" creationdate="20250421T231158Z">
+        <seg>Para desenhar uma linha simetricamente para fora em ambas as direções a partir do ponto inicial, mantenha a tecla &lt;f0&gt;Alt&lt;/f0&gt; (macOS ⌥) pressionada enquanto desenha a linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To edit a language module, click on &lt;f0&gt;Edit&lt;/f0&gt; to open the Edit Modules dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005828Z" creationid="olivier" creationdate="20250321T005828Z">
@@ -51056,6 +51152,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To restrict the drawing angle of a line to multiples of 45 degrees, keep the &lt;f0&gt;Shift&lt;/f0&gt; key pressed while drawing the line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T230710Z" creationid="olivier" creationdate="20250421T230710Z">
+        <seg>Para restringir o ângulo de desenho de uma linha a múltiplos de 45 graus, mantenha a tecla &lt;f0&gt;Shift&lt;/f0&gt; pressionada enquanto desenha a linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To retain a minimum number of characters in a cell when entering numbers and retain the number format, for example 1234 and 0012, use one of two methods to add leading zeroes:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250122T230244Z">
@@ -51308,6 +51412,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104809Z" creationid="timot" creationdate="20250113T104809Z">
         <seg>Para assinar o documento, ou para visualizar o certificado, clique na área ou no ícone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To snap the end of a line to the nearest grid point, keep the &lt;f0&gt;Ctrl&lt;/f0&gt; key (macOS ⌘) pressed while drawing the line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250421T230306Z" creationid="olivier" creationdate="20250421T230306Z">
+        <seg>Para encaixar o final de uma linha no ponto de grade mais próximo, mantenha a &lt;f0&gt;tecla Ctrl&lt;/f0&gt; (macOS ⌘) pressionada enquanto desenha a linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52460,6 +52572,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T160112Z" creationid="olivier" creationdate="20250312T160112Z">
         <seg>Utilizar aceleração de hardware</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use one of the following methods to draw a line or arrow:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250422T000614Z" creationid="olivier" creationdate="20250422T000614Z">
+        <seg>Utilize um dos seguintes métodos para desenhar uma linha ou seta:</seg>
       </tuv>
     </tu>
     <tu>
