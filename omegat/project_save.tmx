@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5202,6 +5202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T212009Z" creationid="olivier-tdf" creationdate="20250209T194442Z">
         <seg>Após definir um intervalo de impressão, é possível adicionar mais células a ele criando outro intervalo de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After drawing a line, or arrow, the line, or arrow style is changed by opening the Line dialog (Figure &lt;t0&gt;12&lt;/t0&gt; on page &lt;t1&gt;10&lt;/t1&gt;) and using the options available on the &lt;f2&gt;Line Styles&lt;/f2&gt; or &lt;f3&gt;Arrow Styles&lt;/f3&gt; pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T194154Z" creationid="olivier-tdf" creationdate="20250423T194154Z">
+        <seg>Após desenhar uma linha ou seta, o estilo da linha ou seta é alterado abrindo a caixa de diálogo Linha (Figura &lt;t0&gt;12&lt;/t0&gt; na página &lt;t1&gt;10&lt;/t1&gt;) e para usar as opções disponíveis nas abas &lt;f2&gt;Estilos de linha&lt;/f2&gt; ou &lt;f3&gt;Estilos de seta&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11130,6 +11138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204629Z" creationid="olivier" creationdate="20250404T204629Z">
         <seg>Clique no triângulo ▼ ao lado de &lt;f0&gt;Novo&lt;/f0&gt; na barra de ferramentas Padrão e selecione &lt;f1&gt;Modelos&lt;/f1&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the type of arrow required in the &lt;f0&gt;Lines and Arrows&lt;/f0&gt; panel of the Shapes deck on the Sidebar (Figure &lt;t1&gt;9&lt;/t1&gt; on page &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T193939Z" creationid="olivier-tdf" creationdate="20250423T193939Z">
+        <seg>Clique no tipo de seta necessária no painel &lt;f0&gt;Linhas e setas&lt;/f0&gt; do deque Formas na barra lateral (Figura &lt;t1&gt;9&lt;/t1&gt; na página &lt;t2&gt;8&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35624,6 +35640,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Place the cursor at the starting point of the line or arrow, then click and drag the cursor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T193954Z" creationid="olivier-tdf" creationdate="20250423T193954Z">
+        <seg>Coloque o cursor no ponto inicial da linha ou seta e, em seguida, clique e arraste o cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Place the cursor at the starting point on the drawing, then click and drag the cursor to draw a straight line.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T214405Z" creationid="olivier-tdf" creationdate="20250417T214405Z">
@@ -36772,6 +36796,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204829Z" creationid="olivier-tdf" creationdate="20250328T204829Z">
         <seg>Censura com retângulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rectangles or Squares</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T194200Z" creationid="olivier-tdf" creationdate="20250423T194200Z">
+        <seg>Retângulos ou quadrados</seg>
       </tuv>
     </tu>
     <tu>
@@ -45024,6 +45056,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The arrowhead is created when the cursor is released.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T194011Z" creationid="olivier-tdf" creationdate="20250423T194011Z">
+        <seg>A ponta da seta é criada quando o cursor é liberado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The assigned macro automatically runs each time the associated event occurs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T081735Z" creationid="olivier" creationdate="20250308T081735Z">
@@ -47188,6 +47228,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T193434Z" creationid="olivier-tdf" creationdate="20250309T193434Z">
         <seg>A ferramenta reúne todas as informações necessárias que podem ajudar os desenvolvedores do programa a melhorar o código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tool icon for the &lt;f0&gt;Lines and Arrows&lt;/f0&gt; tool previously used is shown on the Drawing toolbar making it easier to use the same tool again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T194110Z" creationid="olivier-tdf" creationdate="20250423T194110Z">
+        <seg>A barra de ferramentas Desenho mostra o ícone da ferramenta &lt;f0&gt;Linhas e setas&lt;/f0&gt; usado anteriormente, facilitando o uso da mesma ferramenta novamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52604,6 +52652,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T214237Z" creationid="olivier-tdf" creationdate="20250417T214237Z">
         <seg>Utilize um dos seguintes métodos para começar a desenhar uma linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use one of the following methods to start drawing a rectangle or square:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T194212Z" creationid="olivier-tdf" creationdate="20250423T194212Z">
+        <seg>Use um dos seguintes métodos para começar a desenhar um retângulo ou quadrado:</seg>
       </tuv>
     </tu>
     <tu>
