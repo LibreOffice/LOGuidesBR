@@ -2230,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of object dimension lines&lt;/s0&gt;&lt;s1&gt;Example of object dimension lines&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201035Z" creationid="olivier-tdf" creationdate="20250423T201035Z">
+        <seg>&lt;s0&gt;Exemplo de linhas de cota de objeto&lt;/s0&gt;&lt;s1&gt; Exemplo de linhas de cota de objeto&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of positioning an image&lt;/s0&gt;&lt;s1&gt;Example of positioning an image&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T141130Z" creationid="tulio" creationdate="20250411T141130Z">
@@ -4106,6 +4114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115210Z" creationid="olivier" creationdate="20250314T115210Z">
         <seg>Uma assinatura digital requer um certificado de assinatura pessoal e a maioria dos sistemas operacionais pode gerar um certificado autoassinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A dimension line does not belong to the object itself, but is positioned close to it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201002Z" creationid="olivier-tdf" creationdate="20250423T201002Z">
+        <seg>Uma linha de cota não pertence ao objeto em si, mas está posicionada perto dele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6306,6 +6322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215506Z" creationid="olivier-tdf" creationdate="20250109T215506Z">
         <seg>Uma página da web interativa que orienta os usuários a contribuir com suas melhores habilidades disponíveis em &lt;a1&gt;https://whatcanidoforlibreoffice.org&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An object can have as many dimension lines as necessary to indicate the dimensions of sides, edges, distances, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201014Z" creationid="olivier-tdf" creationdate="20250423T201014Z">
+        <seg>Um objeto pode ter quantas linhas de cota forem necessárias para indicar as dimensões dos lados, bordas, distâncias e assim por diante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10190,6 +10214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Dimension Line&lt;/f0&gt; in the &lt;f1&gt;Lines and Arrows&lt;/f1&gt; panel of the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201321Z" creationid="olivier-tdf" creationdate="20250423T201321Z">
+        <seg>Clique em &lt;f0&gt;Linha de cota&lt;/f0&gt; no painel &lt;f1&gt;Linhas e setas&lt;/f1&gt; do deque Formas na barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Disable&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084813Z" creationid="olivier" creationdate="20250308T084813Z">
@@ -11474,6 +11506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T194300Z" creationid="olivier-tdf" creationdate="20250423T194300Z">
         <seg>Clique no triângulo ▼ à direita de &lt;f0&gt;Formas simples&lt;/f0&gt; na barra de ferramentas Desenho e selecione &lt;f1&gt;Retângulo&lt;/f1&gt; ou &lt;f2&gt;Quadrado&lt;/f2&gt; na sub-barra de ferramentas Formas simples (Figura &lt;t3&gt;14&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the triangle ▼ on the right of &lt;f0&gt;Lines and Arrows&lt;/f0&gt; on the Drawing toolbar and select &lt;f1&gt;Dimension Line&lt;/f1&gt; on the Lines and Arrows sub-toolbar that opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201213Z" creationid="olivier-tdf" creationdate="20250423T201213Z">
+        <seg>Clique no triângulo ▼ à direita de &lt;f0&gt;Linhas e setas&lt;/f0&gt; na barra de ferramentas Desenho e selecione &lt;f1&gt;Linha de cota&lt;/f1&gt; na sub-barra de ferramentas Linhas e setas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16696,6 +16736,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of object dimension lines</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201100Z" creationid="olivier-tdf" creationdate="20250423T201100Z">
+        <seg>Exemplo de linhas de cota de objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example of positioning an image</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T141155Z" creationid="tulio" creationdate="20250411T141155Z">
@@ -17612,6 +17660,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250207T104806Z" creationid="timot" creationdate="20250207T104806Z">
         <seg>Figura &lt;seq0&gt;17&lt;/seq0&gt;: Menu de contexto para erros gramaticais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Example of object dimension lines</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201050Z" creationid="olivier-tdf" creationdate="20250423T201050Z">
+        <seg>Figura &lt;seq0&gt;17&lt;/seq0&gt;: Exemplo de linhas de cota de objeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -53020,6 +53076,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T230314Z" creationid="olivier" creationdate="20250123T230314Z">
         <seg>Use um dos seguintes métodos para se preparar para a edição de dados da célula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use one of the following methods to start drawing a dimension line:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201118Z" creationid="olivier-tdf" creationdate="20250423T201118Z">
+        <seg>Utilize um dos seguintes métodos para começar a desenhar uma linha de cota:</seg>
       </tuv>
     </tu>
     <tu>
