@@ -6872,8 +6872,8 @@
       <tuv lang="en-US">
         <seg>As the dimension line is drawn, the dimension is displayed and automatically calculated.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201416Z" creationid="olivier-tdf" creationdate="20250423T201416Z">
-        <seg>À medida que a linha de cota é desenhada, a cota é exibida e calculada automaticamente.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201533Z" creationid="olivier-tdf" creationdate="20250423T201416Z">
+        <seg>Ao desenhar a linha de cota, a sua cota é calculada e exibida automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40680,6 +40680,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the required options in &lt;f0&gt;Line&lt;/f0&gt; and &lt;f1&gt;Legend&lt;/f1&gt;, then click &lt;f2&gt;OK&lt;/f2&gt; to save the changes and close the Line Dimension dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201744Z" creationid="olivier-tdf" creationdate="20250423T201744Z">
+        <seg>Selecione as opções necessárias em &lt;f0&gt;Linha&lt;/f0&gt; e &lt;f1&gt;Legenda&lt;/f1&gt; e clique em &lt;f2&gt;OK&lt;/f2&gt; para salvar as alterações e fechar a caixa de diálogo Cotação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the required options to display warnings and/or set security options.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202626Z" creationid="olivier-tdf" creationdate="20250328T202626Z">
@@ -50064,6 +50072,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change the display of a dimension line and its appearance, right-click on the dimension line and select &lt;f0&gt;Dimensions&lt;/f0&gt; in the context menu to open the Dimension Line dialog (Figure &lt;t1&gt;18&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201719Z" creationid="olivier-tdf" creationdate="20250423T201719Z">
+        <seg>Para alterar a exibição de uma linha de cota e sua aparência, clique com o botão direito do mouse na linha de cota e selecione &lt;f0&gt;Cotas&lt;/f0&gt; no menu de contexto para abrir a caixa de diálogo Cotação (Figura &lt;t1&gt;18&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change the font color, do one of the following:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161108Z" creationid="olivier" creationdate="20250204T161108Z">
@@ -50100,6 +50116,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152133Z" creationid="olivier" creationdate="20250318T152133Z">
         <seg>Para alterar o local da cópia de backup, acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Caminhos&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; LibreOffice &gt; Caminhos&lt;/f1&gt;) e, em seguida, insira um novo caminho para o arquivo de backup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change the measurement unit used for dimension lines, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201555Z" creationid="olivier-tdf" creationdate="20250423T201555Z">
+        <seg>Para alterar a unidade de medida usada para linhas de cota, acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Draw &gt; Geral&lt;/f0&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
