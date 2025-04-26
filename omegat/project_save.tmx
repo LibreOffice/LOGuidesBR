@@ -1678,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f1&gt;Basic Shapes&lt;/f1&gt; are numbered from left to right on the subtoolbar as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T011002Z" creationid="olivier" creationdate="20250426T011002Z">
+        <seg>&lt;f1&gt;As Formas simples&lt;/f1&gt; são numeradas da esquerda para a direita na sub-barra de ferramentas da seguinte forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f1&gt;Ctrl+Home&lt;/f1&gt; moves the cell focus to the first cell in the sheet, A1.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T004005Z" creationid="olivier" creationdate="20250120T004005Z">
@@ -4822,6 +4830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access geometric shapes using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010529Z" creationid="olivier" creationdate="20250426T010529Z">
+        <seg>Acesse formas geométricas usando um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access setup options</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195039Z" creationid="timot" creationdate="20250111T195039Z">
@@ -7470,6 +7486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Basic shape</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010849Z" creationid="olivier" creationdate="20250426T010849Z">
+        <seg>Formas simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Be careful when changing a language in character or paragraph styles, as this will change the language for all characters or paragraphs using that style.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T120006Z" creationid="timot" creationdate="20250407T120006Z">
@@ -9382,6 +9406,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Circle</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T011032Z" creationid="olivier" creationdate="20250426T011032Z">
+        <seg>Círculo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Circle Pie</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T011118Z" creationid="olivier" creationdate="20250426T011118Z">
+        <seg>Setor de círculo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Circle Segment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T011149Z" creationid="olivier" creationdate="20250426T011149Z">
+        <seg>Segmento circular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Claire Wood, Dave Barton, Hazel Russman, Kees Kriek.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T155518Z" creationid="olivier-tdf" creationdate="20250417T155518Z">
@@ -10910,6 +10958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Shapes&lt;/f0&gt; on the Sidebar to open the Shapes deck, then choose from the geometric shapes available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010551Z" creationid="olivier" creationdate="20250426T010551Z">
+        <seg>Clique em &lt;f0&gt;Formas&lt;/f0&gt; na barra lateral para abrir o deque Formas e escolha entre as formas geométricas disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Sidebar Settings&lt;/f0&gt; at the top right of the Sidebar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135238Z" creationid="olivier" creationdate="20250217T135238Z">
@@ -11242,6 +11298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T183636Z" creationid="timot" creationdate="20250122T183636Z">
         <seg>Clique no campo Número da página no documento na barra de Status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the required gluepoint for the start of the connector, then drag the cursor to drag the connector to another object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T005907Z" creationid="olivier" creationdate="20250426T005907Z">
+        <seg>Clique no ponto de conexão desejado para o início do conector e, em seguida, arraste o cursor para desenhar o conector até o outro objeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11730,6 +11794,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250422T000813Z" creationid="olivier" creationdate="20250422T000800Z">
         <seg>Clique no triângulo ▼ à direita de &lt;f0&gt;Linhas e setas&lt;/f0&gt; na barra de ferramentas Desenho e selecione o tipo de seta necessária na sub-barra de Linhas e setas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the triangle ▼ on the right of a geometric shape on the Drawing toolbar to open a sub-toolbar giving access to more geometric shape tools.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010722Z" creationid="olivier" creationdate="20250426T010722Z">
+        <seg>Clique no triângulo ▼ à direita de uma forma geométrica na barra de ferramentas Desenho para abrir uma barra que dá acesso a mais formas geométricas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16096,6 +16168,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ellipse</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T011029Z" creationid="olivier" creationdate="20250426T011029Z">
+        <seg>Elipse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ellipses or circles</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T195610Z" creationid="olivier-tdf" creationdate="20250423T195610Z">
@@ -18348,6 +18428,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T112005Z" creationid="timot" creationdate="20250224T112005Z">
         <seg>Figura &lt;seq0&gt;23&lt;/seq0&gt;: Ativar a hifenização automática em um estilo de parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Basic Shapes subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010908Z" creationid="olivier" creationdate="20250426T010908Z">
+        <seg>Figura &lt;seq0&gt;24&lt;/seq0&gt;: Sub-barra de ferramentas Formas simples</seg>
       </tuv>
     </tu>
     <tu>
@@ -22188,6 +22276,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T205619Z" creationid="olivier" creationdate="20250404T205619Z">
         <seg>Gere um documento com o modelo com um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geometric shapes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010332Z" creationid="olivier" creationdate="20250426T010332Z">
+        <seg>Formas geométricas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geometric shapes are located on the Drawing toolbar and in the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010454Z" creationid="olivier" creationdate="20250426T010454Z">
+        <seg>As formas geométricas estão localizadas na barra de ferramentas Desenho e no deque Formas na barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geometric shapes are similar to basic shapes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010359Z" creationid="olivier" creationdate="20250426T010359Z">
+        <seg>As formas geométricas são semelhantes às formas simples.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36192,6 +36304,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parallelogram</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T011023Z" creationid="olivier" creationdate="20250426T011023Z">
+        <seg>Paralelogramo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parameters</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190828Z" creationid="olivier" creationdate="20250316T190828Z">
@@ -37656,10 +37776,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rectangle</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T011007Z" creationid="olivier" creationdate="20250426T011007Z">
+        <seg>Retângulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rectangle Redaction</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T204829Z" creationid="olivier-tdf" creationdate="20250328T204829Z">
         <seg>Censura com retângulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rectangle, Rounded</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T011011Z" creationid="olivier" creationdate="20250426T011011Z">
+        <seg>Retângulo, arredondado</seg>
       </tuv>
     </tu>
     <tu>
@@ -39780,6 +39916,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T204348Z" creationid="timot" creationdate="20250114T113458Z">
         <seg>Veja "&lt;bf1&gt;Usar o Navegador&lt;/bf1&gt;” na página&lt;bf2&gt;9&lt;/bf2&gt;&lt;s3/&gt;para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “&lt;bf2&gt;Adding and formatting text&lt;/bf2&gt;” on page &lt;bf3&gt;20&lt;/bf3&gt; and the &lt;f4&gt;LibreOffice Draw Guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010836Z" creationid="olivier" creationdate="20250426T010836Z">
+        <seg>Consulte “&lt;bf2&gt;Adicionar e formatar texto&lt;/bf2&gt;” na página &lt;bf3&gt;20&lt;/bf3&gt; e o &lt;f4&gt;Guia do LibreOffice Draw&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43808,6 +43952,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Square</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T011014Z" creationid="olivier" creationdate="20250426T011014Z">
+        <seg>Quadrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Square, Rounded</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T011018Z" creationid="olivier" creationdate="20250426T011018Z">
+        <seg>Quadrado, arredondado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Standard selection</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T103911Z" creationid="timot" creationdate="20250113T103911Z">
@@ -44840,6 +45000,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text can be added to all geometric shapes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010822Z" creationid="olivier" creationdate="20250426T010822Z">
+        <seg>Textos podem ser adicionados a todas as formas geométricas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text documents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T203231Z" creationid="olivier" creationdate="20250324T203231Z">
@@ -45212,6 +45380,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212333Z" creationid="olivier" creationdate="20250123T212333Z">
         <seg>A ferramenta Autoentrada no Calc completa automaticamente as entradas, com base em outras entradas na mesma coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Basic Shapes subtoolbar (Figure &lt;t0&gt;24&lt;/t0&gt;) also includes rectangle and ellipse tools that are identical to the ones displayed on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010931Z" creationid="olivier" creationdate="20250426T010931Z">
+        <seg>A sub-barra de ferramentas Formas simples (Figura &lt;t0&gt;24&lt;/t0&gt;) também inclui ferramentas de retângulo e elipse que são idênticas às exibidas na barra de ferramentas Desenho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46212,6 +46388,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T005735Z" creationid="olivier" creationdate="20250321T005735Z">
         <seg>A configuração permite duas pastas: uma pasta onde um usuário tem permissões de gravação e uma pasta sem permissões de gravação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The connector end point is attached to the gluepoint.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010321Z" creationid="olivier" creationdate="20250426T010321Z">
+        <seg>O ponto final do conector é ligado ao ponto de conexão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48200,6 +48384,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The tool icons on the Drawing toolbar always indicate the last geometric shape drawn.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010507Z" creationid="olivier" creationdate="20250426T010507Z">
+        <seg>Os ícones de ferramenta na barra de ferramentas Desenho sempre indicam a última forma geométrica desenhada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The toolbar can be moved to a different docked position&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T141653Z" creationid="tulio" creationdate="20250211T141653Z">
@@ -49048,6 +49240,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They are provided in LibreOffice Draw as a starting point when creating objects for a drawing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010425Z" creationid="olivier" creationdate="20250426T010425Z">
+        <seg>Elas são fornecidos no LibreOffice Draw como ponto de partida ao criar objetos do desenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They can be used in styles or applied manually.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170943Z" creationid="olivier-tdf" creationdate="20250209T170943Z">
@@ -49756,6 +49956,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135808Z" creationid="olivier" creationdate="20250223T135808Z">
         <seg>Isso facilita para impressoras com uma memória reduzida ao imprimir arquivos grandes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This makes it easier to use the same tool again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010520Z" creationid="olivier" creationdate="20250426T010520Z">
+        <seg>Isso facilita o uso da mesma ferramenta novamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53000,6 +53208,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Trapezoid</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T011026Z" creationid="olivier" creationdate="20250426T011026Z">
+        <seg>Trapézio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Treat as equal</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T015553Z" creationid="olivier" creationdate="20250321T015553Z">
@@ -54460,6 +54676,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190257Z" creationid="olivier-tdf" creationdate="20250209T190257Z">
         <seg>Fórmulas e funções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using geometric shapes is similar to drawing rectangles, squares, ellipses, or circles as explained in “&lt;bf0&gt;Drawing basic shapes&lt;/bf0&gt;” on page &lt;bf1&gt;8&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010752Z" creationid="olivier" creationdate="20250426T010752Z">
+        <seg>Usar formas geométricas é semelhante a desenhar retângulos, quadrados, elipses ou círculos, conforme explicado em “&lt;bf0&gt;Desenhar formas simples&lt;/bf0&gt;” na página &lt;bf1&gt;8&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55980,6 +56204,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="timot" creationdate="20250113T105038Z">
         <seg>Quando o cursor está numa seção, título ou item de lista, ou quando um objeto (como uma imagem ou tabela) é selecionado, informações sobre esse item aparecem neste campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the cursor is over a gluepoint of the target object, release the mouse button and the connector is drawn.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010254Z" creationid="olivier" creationdate="20250426T010254Z">
+        <seg>Quando o cursor estiver sobre um ponto de conexão do objeto de destino, solte o botão do mouse e o conector.</seg>
       </tuv>
     </tu>
     <tu>
