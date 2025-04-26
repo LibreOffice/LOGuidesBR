@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4214,6 +4214,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A filled free-form line automatically joins the last point to the first point, closing the free-form line and filling it with the selected fill.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T004005Z" creationid="olivier" creationdate="20250426T004005Z">
+        <seg>Uma linha à mão livre preenchida une automaticamente o último ponto ao primeiro ponto, fechando a linha e preenchendo-a forma com o preenchimento selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A filled polygon 45° automatically joins the last point to the first point, closing the polygon and filling it with the selected fill.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003429Z" creationid="olivier" creationdate="20250426T003429Z">
+        <seg>Um polígono 45° preenchido une automaticamente o último ponto ao primeiro ponto, fechando o polígono e preenchendo-o com o preenchimento selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A filter is a tool that hides or displays records within a sheet based on a set of filtering conditions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier-tdf" creationdate="20250209T172325Z">
@@ -4430,6 +4446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A polygon 45° is drawn using the same procedure as polygons, but the angles between lines are restricted to 45° or 90°.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003342Z" creationid="olivier" creationdate="20250426T003342Z">
+        <seg>Para desenhar um polígono de 45° usa-se o mesmo procedimento dos polígonos, mas os ângulos entre as linhas são restritos a 45° ou 90°.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A preview of the selected user interface is displayed in the dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T201926Z" creationid="olivier-tdf" creationdate="20250308T201926Z">
@@ -4522,6 +4546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191221Z" creationid="olivier-tdf" creationdate="20250328T191221Z">
         <seg>Um documento assinado exibe um ícone de &lt;f0&gt;Assinatura digital&lt;/f0&gt; na barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A single click fixes the curve to the drawing and allows drawing of straight lines from the end of the curve.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T002704Z" creationid="olivier" creationdate="20250426T002704Z">
+        <seg>Um único clique fixa a curva ao desenho e permite o desenho de linhas retas a partir do final da curva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9934,6 +9966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click and drag the cursor to create the free-form line shape required.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003838Z" creationid="olivier" creationdate="20250426T003838Z">
+        <seg>Clique e arraste o cursor para criar a linha à mão livre necessária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click and drag the cursor to draw the dimension line.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201341Z" creationid="olivier-tdf" creationdate="20250423T201341Z">
@@ -11334,6 +11374,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the type of free-form line required in the &lt;f0&gt;Curves and Polygons&lt;/f0&gt; panel of the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003759Z" creationid="olivier" creationdate="20250426T003759Z">
+        <seg>Clique no tipo de linha à mão livre necessária no painel &lt;f0&gt;Curvas e polígonos&lt;/f0&gt; do deque Formas na barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the type of polygon required in the &lt;f0&gt;Curves and Polygons&lt;/f0&gt; panel of the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T002832Z" creationid="olivier" creationdate="20250426T002832Z">
+        <seg>Clique no tipo de polígono necessária no painel &lt;f0&gt;Curvas e polígonos&lt;/f0&gt; do deque Formas na barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on this arrow to drop down a menu of choices for working with the header (Figure &lt;t0&gt;26&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T113615Z" creationid="timot" creationdate="20250224T113615Z">
@@ -11582,6 +11638,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the triangle ▼ on the right of &lt;f0&gt;Curves and Polygons&lt;/f0&gt; on the Drawing toolbar and select the type of free-form line on the Curves and Polygons subtoolbar (Figure &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003712Z" creationid="olivier" creationdate="20250426T003712Z">
+        <seg>Clique no triângulo ▼ à direita de &lt;f0&gt;Curvas e polígonos&lt;/f0&gt; na barra de ferramentas Desenho e selecione o tipo de linhas à mão livre na sub-barra de ferramentas (Figura &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the triangle ▼ on the right of &lt;f0&gt;Curves and Polygons&lt;/f0&gt; on the Drawing toolbar and select the type of polygon on the Curves and Polygons subtoolbar (Figure &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T002813Z" creationid="olivier" creationdate="20250426T002813Z">
+        <seg>Clique no triângulo ▼ à direita de &lt;f0&gt;Curvas e polígonos&lt;/f0&gt; na barra de ferramentas Desenho e selecione o tipo de polígono na sub-barra de ferramentas (Figura &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the triangle ▼ on the right of &lt;f0&gt;Lines and Arrows&lt;/f0&gt; on the Drawing toolbar and select &lt;f1&gt;Dimension Line&lt;/f1&gt; on the Lines and Arrows sub-toolbar that opens.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201213Z" creationid="olivier-tdf" creationdate="20250423T201213Z">
@@ -11626,6 +11698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T103458Z" creationid="timot" creationdate="20250113T103458Z">
         <seg>Clique para mudar para o modo de substituição. Clique novamente para retornar ao modo de inserção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to create the starting point of the polygon, then drag from the starting point to draw a line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T002859Z" creationid="olivier" creationdate="20250426T002859Z">
+        <seg>Clique para criar o ponto de partida do polígono e, em seguida, arraste do ponto de partida para desenhar uma linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15086,6 +15166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-click to end drawing a curve with straight lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T002723Z" creationid="olivier" creationdate="20250426T002723Z">
+        <seg>Clique duas vezes para finalizar o desenho de uma curva com linhas retas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-click to open the Available Master Slides dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222316Z" creationid="olivier" creationdate="20250212T222316Z">
@@ -15346,6 +15434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T192448Z" creationid="olivier-tdf" creationdate="20250328T192448Z">
         <seg>Caixa de diálogo Propriedades do objeto de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drawing a free-form line is similar to drawing with a pencil on paper.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003622Z" creationid="olivier" creationdate="20250426T003622Z">
+        <seg>Desenhar uma linha à mão livre é semelhante a desenhar com um lápis no papel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15644,6 +15740,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier" creationdate="20250120T005114Z">
         <seg>Cada planilha num documento de planilha é independente das outras planilhas, embora as referências possam ser vinculadas de uma planilha para outra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each single click allows the drawing of another straight line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T002716Z" creationid="olivier" creationdate="20250426T002716Z">
+        <seg>Cada clique permite o desenho de outra linha reta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21496,6 +21600,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Free-form lines</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003552Z" creationid="olivier" creationdate="20250426T003552Z">
+        <seg>Linhas à mão livre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Freedom to redistribute the software for free or for a fee.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T233929Z" creationid="olivier" creationdate="20250301T233929Z">
@@ -22092,6 +22204,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215612Z" creationid="timot" creationdate="20250110T215612Z">
         <seg>Introdução ao Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gluepoints</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T004155Z" creationid="olivier" creationdate="20250426T004155Z">
+        <seg>Pontos de colagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gluepoints and connectors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T004017Z" creationid="olivier" creationdate="20250426T004017Z">
+        <seg>Pontos de colagem e conectores</seg>
       </tuv>
     </tu>
     <tu>
@@ -23592,6 +23720,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Holding the &lt;f0&gt;Shift&lt;/f0&gt; key down while drawing lines restricts the angles used in the polygon to 45° or 90°.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003226Z" creationid="olivier" creationdate="20250426T003226Z">
+        <seg>Manter a tecla &lt;f0&gt;Shift&lt;/f0&gt; pressionada enquanto desenha linhas restringe os ângulos usados no polígono a 45° ou 90°.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Home</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T235057Z" creationid="olivier" creationdate="20250302T235057Z">
@@ -23748,6 +23884,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205301Z" creationid="olivier" creationdate="20250324T205301Z">
         <seg>No entanto, os arquivos podem ser salvos em outros formatos, se necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, hold down the &lt;f0&gt;Shift&lt;/f0&gt; key to draw a line at an angle other than 45 or 90 degrees.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003401Z" creationid="olivier" creationdate="20250426T003401Z">
+        <seg>No entanto, mantenha pressionada a tecla &lt;f0&gt;Shift&lt;/f0&gt; para desenhar uma linha em um ângulo diferente de 45 ou 90 graus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36248,6 +36392,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Polygons</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T002729Z" creationid="olivier" creationdate="20250426T002729Z">
+        <seg>Polígonos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Polygons 45°</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003252Z" creationid="olivier" creationdate="20250426T003252Z">
+        <seg>Polígonos a 45º</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Portable Bitmap Image (*.pbm)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T204850Z" creationid="olivier" creationdate="20250324T204850Z">
@@ -37516,6 +37676,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T141050Z" creationid="tulio" creationdate="20250411T141050Z">
         <seg>Solte o cursor quando a figura, ou gráfico, estiver na posição desejada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Release the hold and continue to drag the cursor to draw the next line for polygon, then click again to mark the end point of the line and start drawing another line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003149Z" creationid="olivier" creationdate="20250426T003149Z">
+        <seg>Solte o botão do mouse e continue a arrastar o cursor para desenhar a próxima linha do polígono, depois clique novamente para marcar o ponto final da linha e começar a desenhar outra linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Release the hold when satisfied with the free-form line and the drawing is completed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003906Z" creationid="olivier" creationdate="20250426T003906Z">
+        <seg>Solte o botão do mouse quando estiver satisfeito com a linha e o desenho estiver concluído.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49608,6 +49784,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This restriction of angles cannot be changed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003349Z" creationid="olivier" creationdate="20250426T003349Z">
+        <seg>Esta restrição de ângulos não pode ser alterada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This section covers some of the options and settings that apply to all the components of LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T183755Z" creationid="olivier-tdf" creationdate="20250309T183755Z">
@@ -53256,10 +53440,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use one of the following methods to start drawing a free-form line:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003640Z" creationid="olivier" creationdate="20250426T003640Z">
+        <seg>Utilize um dos seguintes métodos para começar a desenhar uma linha à mão livre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use one of the following methods to start drawing a line:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T214237Z" creationid="olivier-tdf" creationdate="20250417T214237Z">
         <seg>Utilize um dos seguintes métodos para começar a desenhar uma linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use one of the following methods to start drawing a polygon:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T002743Z" creationid="olivier" creationdate="20250426T002743Z">
+        <seg>Utilize um dos seguintes métodos para começar a desenhar um polígono:</seg>
       </tuv>
     </tu>
     <tu>
