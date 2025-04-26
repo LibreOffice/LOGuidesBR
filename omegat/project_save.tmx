@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3362,6 +3362,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T171943Z" creationid="olivier-tdf" creationdate="20250403T171830Z">
         <seg>&lt;s0&gt;Submenu Estilos no Writer&lt;/s0&gt;&lt;s1&gt;Submenu Estilos no Writer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Symbol Shapes subtoolbar&lt;/s0&gt;&lt;s1&gt;Symbol Shapes subtoolbar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250426T215126Z" creationid="olivier-tdf" creationdate="20250426T215126Z">
+        <seg>&lt;s0&gt;Barra de ferramentas Formas de símbolos&lt;/s0&gt;&lt;s1&gt;Barra de ferramentas Formas de símbolos&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
