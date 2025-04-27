@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -202,6 +202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250426T220426Z" creationid="olivier-tdf" creationdate="20250426T220426Z">
         <seg>Seta de 4 direções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4-way Arrow Callout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185145Z" creationid="olivier" creationdate="20250427T185145Z">
+        <seg>Texto explicativo com seta em 4 direções</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250426T220251Z" creationid="olivier-tdf" creationdate="20250426T220218Z">
         <seg>&lt;f0&gt;As setas cheias&lt;/f0&gt; (Figura &lt;t1&gt;26&lt;/t1&gt;) são numeradas da esquerda para a direita na sub-barra de ferramentas da seguinte forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Callouts&lt;/f0&gt; (Figure &lt;t1&gt;28&lt;/t1&gt;) are numbered from left to right on the subtoolbar as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T190042Z" creationid="olivier" creationdate="20250427T190042Z">
+        <seg>Os &lt;f0&gt;textos explicativos&lt;/f0&gt; (Figura &lt;t1&gt;28&lt;/t1&gt;) são numerados da esquerda para a direita na sub-barra de ferramentas da seguinte forma:</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200344Z" creationid="olivier" creationdate="20250327T200344Z">
         <seg>&lt;f0&gt;Fixo&lt;/f0&gt; — Oferece maior controle sobre a apresentação quando um EPUB refluível não é adequado para o seu conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Flowchart&lt;/f0&gt; (Figure &lt;t1&gt;27&lt;/t1&gt;) are numbered from left to right on the subtoolbar as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185331Z" creationid="olivier" creationdate="20250427T185331Z">
+        <seg>O &lt;f0&gt;fluxograma&lt;/f0&gt; (Figura &lt;t1&gt;27&lt;/t1&gt;) é numerado da esquerda para a direita na sub-barra de ferramentas da seguinte forma:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1966,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Callouts subtoolbar&lt;/s0&gt;&lt;s1&gt;Callouts subtoolbar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185900Z" creationid="olivier" creationdate="20250427T185900Z">
+        <seg>&lt;s0&gt;Barra Texto explicativo&lt;/s0&gt;&lt;s1&gt;Barra Texto explicativo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Cell Protection tab in Format Cells dialog&lt;/s0&gt;&lt;s1&gt;Cell Protection tab in Format Cells dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183321Z" creationid="olivier-tdf" creationdate="20250209T183321Z">
@@ -2434,6 +2466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104232Z" creationid="timot" creationdate="20250204T104232Z">
         <seg>&lt;s0&gt;Deque Localizar na barra lateral&lt;/s0&gt;&lt;s1&gt;Deque Localizar na barra lateral&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Flowchart subtoolbar&lt;/s0&gt;&lt;s1&gt;Flowchart subtoolbar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185250Z" creationid="olivier" creationdate="20250427T185250Z">
+        <seg>&lt;s0&gt;Barra Fluxograma&lt;/s0&gt;&lt;s1&gt;Barra Fluxograma&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6126,6 +6166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternate Process</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185343Z" creationid="olivier" creationdate="20250427T185343Z">
+        <seg>Processo alternativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively you can go to &lt;f6&gt;Insert &gt; Field &gt; Date&lt;/f6&gt;, &lt;f7&gt;Sheet Name&lt;/f7&gt;, or &lt;f8&gt;Document Title&lt;/f8&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205810Z" creationid="olivier" creationdate="20250123T205810Z">
@@ -8374,6 +8422,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Callouts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185814Z" creationid="olivier" creationdate="20250427T185814Z">
+        <seg>Textos explicativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Callouts subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185915Z" creationid="olivier" creationdate="20250427T185915Z">
+        <seg>Barra Texto explicativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can LibreOffice be distributed to anyone?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214940Z" creationid="olivier-tdf" creationdate="20250109T214940Z">
@@ -8418,6 +8482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T234939Z" creationid="olivier" creationdate="20250302T234939Z">
         <seg>Caps Lock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Card</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185543Z" creationid="olivier" creationdate="20250427T185543Z">
+        <seg>Cartão</seg>
       </tuv>
     </tu>
     <tu>
@@ -12198,6 +12270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Collate</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185632Z" creationid="olivier" creationdate="20250427T185632Z">
+        <seg>Agrupar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Collate sheets</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155021Z" creationid="olivier" creationdate="20250223T155021Z">
@@ -12442,6 +12522,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T005109Z" creationid="olivier" creationdate="20250318T005109Z">
         <seg>Conectando-se à Internet por um servidor proxy, defina o proxy em &lt;f0&gt;Ferramentas &gt; Opções &gt; Internet &gt; Proxy&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; Internet &gt; Proxy&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connector</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185510Z" creationid="olivier" creationdate="20250427T185510Z">
+        <seg>Conector</seg>
       </tuv>
     </tu>
     <tu>
@@ -14094,6 +14182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Decision</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185346Z" creationid="olivier" creationdate="20250427T185346Z">
+        <seg>Decisão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Decks are organized into panels and an icon bar on the right side of the Sidebar allows switching between the different decks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T133954Z" creationid="olivier" creationdate="20250217T133954Z">
@@ -14346,6 +14442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T141108Z" creationid="olivier-tdf" creationdate="20250303T141108Z">
         <seg>Definir atalhos de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delay</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185732Z" creationid="olivier" creationdate="20250427T185732Z">
+        <seg>Atraso</seg>
       </tuv>
     </tu>
     <tu>
@@ -14854,6 +14958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Direct Access Storage</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185800Z" creationid="olivier" creationdate="20250427T185800Z">
+        <seg>Armazenamento de acesso direto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Direct formatting (also called manual formatting) overrides styles.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T095557Z" creationid="timot" creationdate="20250221T095557Z">
@@ -14906,6 +15018,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T113404Z" creationid="tulio" creationdate="20250411T113404Z">
         <seg>Desvantagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185812Z" creationid="olivier" creationdate="20250427T185812Z">
+        <seg>Exibir</seg>
       </tuv>
     </tu>
     <tu>
@@ -15546,6 +15666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002651Z" creationid="olivier" creationdate="20250303T002651Z">
         <seg>Seta para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down Arrow Callout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185038Z" creationid="olivier" creationdate="20250427T185038Z">
+        <seg>Texto explicativo com seta para baixo</seg>
       </tuv>
     </tu>
     <tu>
@@ -17712,6 +17840,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extract</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185653Z" creationid="olivier" creationdate="20250427T185653Z">
+        <seg>Extrair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>F1</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134824Z" creationid="olivier-tdf" creationdate="20250303T134824Z">
@@ -18704,6 +18840,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Flowchart subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185305Z" creationid="olivier" creationdate="20250427T185305Z">
+        <seg>Figura &lt;seq0&gt;27&lt;/seq0&gt;: Barra Fluxograma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Page Style dialog, Header tab</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T185115Z" creationid="timot" creationdate="20250228T185115Z">
@@ -18724,6 +18868,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215322Z" creationid="olivier" creationdate="20250123T215322Z">
         <seg>Figura &lt;seq0&gt;27&lt;/seq0&gt;: Utilizar a ferramenta Preenchimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Callouts subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185913Z" creationid="olivier" creationdate="20250427T185913Z">
+        <seg>Figura &lt;seq0&gt;28&lt;/seq0&gt;: Barra Texto explicativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -19860,6 +20012,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154811Z" creationid="olivier" creationdate="20250223T154811Z">
         <seg>Inverter horizontalmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flowchart</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185216Z" creationid="olivier" creationdate="20250427T185216Z">
+        <seg>Fluxograma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flowchart subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185309Z" creationid="olivier" creationdate="20250427T185309Z">
+        <seg>Barra Fluxograma</seg>
       </tuv>
     </tu>
     <tu>
@@ -28992,6 +29160,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Internal Process</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185400Z" creationid="olivier" creationdate="20250427T185400Z">
+        <seg>Processo Interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Internal use only</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T201923Z" creationid="olivier-tdf" creationdate="20250328T201923Z">
@@ -30000,6 +30176,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Left Arrow Callout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185025Z" creationid="olivier" creationdate="20250427T185025Z">
+        <seg>Texto explicativo com seta para a esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Left Brace</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250426T215954Z" creationid="olivier-tdf" creationdate="20250426T215954Z">
@@ -30020,6 +30204,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250426T220253Z" creationid="olivier-tdf" creationdate="20250426T220253Z">
         <seg>Seta para a esquerda e para a direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Left and Right Arrow Callout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185110Z" creationid="olivier" creationdate="20250427T185110Z">
+        <seg>Texto explicativo com seta para a esquerda e para a direita</seg>
       </tuv>
     </tu>
     <tu>
@@ -31512,6 +31704,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Magnetic Disc</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185750Z" creationid="olivier" creationdate="20250427T185750Z">
+        <seg>Disco magnético</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Magnetic grid-point system</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T160248Z" creationid="olivier-tdf" creationdate="20250417T160248Z">
@@ -31692,6 +31892,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T102913Z" creationid="timot" creationdate="20250206T102913Z">
         <seg>Gerenciar dicionários personalizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manual Input</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185458Z" creationid="olivier" creationdate="20250427T185458Z">
+        <seg>Entrada manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manual Operation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185506Z" creationid="olivier" creationdate="20250427T185506Z">
+        <seg>Operação manual</seg>
       </tuv>
     </tu>
     <tu>
@@ -31996,6 +32212,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135032Z" creationid="olivier" creationdate="20250305T135032Z">
         <seg>Menus, barras de ferramentas, atalhos de teclado e a interface com guias no LibreOffice podem ser personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185707Z" creationid="olivier" creationdate="20250427T185707Z">
+        <seg>Mesclar</seg>
       </tuv>
     </tu>
     <tu>
@@ -32948,6 +33172,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T134454Z" creationid="tulio" creationdate="20250211T134454Z">
         <seg>Barras de ferramentas móveis, de encaixe e flutuantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multidocument</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185404Z" creationid="olivier" creationdate="20250427T185404Z">
+        <seg>Multidocumento</seg>
       </tuv>
     </tu>
     <tu>
@@ -33908,6 +34140,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250426T215519Z" creationid="olivier-tdf" creationdate="20250426T215519Z">
         <seg>Octógono biselado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Off-page Connector</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185540Z" creationid="olivier" creationdate="20250427T185540Z">
+        <seg>Conector fora da página</seg>
       </tuv>
     </tu>
     <tu>
@@ -36016,6 +36256,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Or</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185629Z" creationid="olivier" creationdate="20250427T185629Z">
+        <seg>Ou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Or, (c) will be changed to ©.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T213333Z" creationid="timot" creationdate="20250210T213333Z">
@@ -37120,6 +37368,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Predefined Process</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185350Z" creationid="olivier" creationdate="20250427T185350Z">
+        <seg>Processo pré-definido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T213158Z" creationid="tdf" creationdate="20241226T213158Z">
@@ -37132,6 +37388,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194245Z" creationid="olivier-tdf" creationdate="20250328T194245Z">
         <seg>Resolução preferencial para imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preparation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185450Z" creationid="olivier" creationdate="20250427T185450Z">
+        <seg>Preparação</seg>
       </tuv>
     </tu>
     <tu>
@@ -37728,6 +37992,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Process</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185336Z" creationid="olivier" creationdate="20250427T185336Z">
+        <seg>Processo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Profits from sales of the printed edition will be used to benefit the community.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214858Z" creationid="olivier-tdf" creationdate="20250109T214858Z">
@@ -37884,6 +38156,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T013552Z" creationid="olivier-tdf" creationdate="20250309T183231Z">
         <seg>Publicado em &lt;ud0&gt;Agosto&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;20248&lt;/ud2&gt;&lt;s3/&gt; com base no LibreOffice Community.&lt;ud4&gt;24.8&lt;/ud4&gt;&lt;s5/&gt;&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Punched Tape</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185550Z" creationid="olivier" creationdate="20250427T185550Z">
+        <seg>Fita perfurada</seg>
       </tuv>
     </tu>
     <tu>
@@ -38108,6 +38388,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T194200Z" creationid="olivier-tdf" creationdate="20250423T194200Z">
         <seg>Retângulos ou quadrados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rectangular Callout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T190553Z" creationid="olivier" creationdate="20250427T190553Z">
+        <seg>Balão retangular</seg>
       </tuv>
     </tu>
     <tu>
@@ -38916,6 +39204,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002346Z" creationid="olivier" creationdate="20250303T002346Z">
         <seg>Seta para a direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right Arrow Callout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185008Z" creationid="olivier" creationdate="20250427T185008Z">
+        <seg>Texto explicativo com seta para a direita</seg>
       </tuv>
     </tu>
     <tu>
@@ -42608,6 +42904,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sequential Access</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185741Z" creationid="olivier" creationdate="20250427T185741Z">
+        <seg>Acesso sequencial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set Line Spacing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T101920Z" creationid="timot" creationdate="20250217T101920Z">
@@ -43728,6 +44032,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sort</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185634Z" creationid="olivier" creationdate="20250427T185634Z">
+        <seg>Ordenar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sort Lists dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T221238Z" creationid="olivier" creationdate="20250123T221238Z">
@@ -44472,6 +44784,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stored Data</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185714Z" creationid="olivier" creationdate="20250427T185714Z">
+        <seg>Dados armazenados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Storing files on a remote server also backs up documents from computer loss or hard disk failure.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184327Z" creationid="olivier-tdf" creationdate="20250328T184327Z">
@@ -44692,6 +45012,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173522Z" creationid="tulio" creationdate="20250119T173522Z">
         <seg>Submenus e paletas de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summing Junction</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185623Z" creationid="olivier" creationdate="20250427T185623Z">
+        <seg>Junção de soma</seg>
       </tuv>
     </tu>
     <tu>
@@ -45324,6 +45652,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T121036Z" creationid="olivier" creationdate="20250405T121036Z">
         <seg>Os modelos fornecidos com o LibreOffice ou instalados com o Gerenciador de extensões não podem ser excluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Terminator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185446Z" creationid="olivier" creationdate="20250427T185446Z">
+        <seg>Terminador</seg>
       </tuv>
     </tu>
     <tu>
@@ -54048,6 +54384,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Up Arrow Callout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185051Z" creationid="olivier" creationdate="20250427T185051Z">
+        <seg>Texto explicativo com seta para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Up and Down Arrow</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250426T220257Z" creationid="olivier-tdf" creationdate="20250426T220257Z">
@@ -54056,10 +54400,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Up and Down Arrow Callout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185141Z" creationid="olivier" creationdate="20250427T185141Z">
+        <seg>Texto explicativo com seta para cima e para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Up and Right Arrow</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250426T220654Z" creationid="olivier-tdf" creationdate="20250426T220654Z">
         <seg>Seta para cima e para a direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Up and Right Arrow Callout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185211Z" creationid="olivier" creationdate="20250427T185211Z">
+        <seg>Texto explicativo com seta para cima e para baixo</seg>
       </tuv>
     </tu>
     <tu>
