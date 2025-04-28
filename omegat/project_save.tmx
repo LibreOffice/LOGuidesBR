@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>12-Pointed Star</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T211754Z" creationid="olivier-tdf" creationdate="20250428T211754Z">
+        <seg>Estrela de 12 pontas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>13</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114119Z" creationid="olivier-tdf" creationdate="20250109T114119Z">
@@ -198,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>4-Pointed Star</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T211655Z" creationid="olivier-tdf" creationdate="20250428T211655Z">
+        <seg>Estrela de 4 pontas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4-way Arrow</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250426T220426Z" creationid="olivier-tdf" creationdate="20250426T220426Z">
@@ -222,10 +238,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5-Pointed Star</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T211702Z" creationid="olivier-tdf" creationdate="20250428T211702Z">
+        <seg>Estrela de 5 pontas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>6</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113859Z" creationid="olivier-tdf" creationdate="20250109T113859Z">
         <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6-Pointed Star</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T211705Z" creationid="olivier-tdf" creationdate="20250428T211705Z">
+        <seg>Estrela de 6 pontas</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114006Z" creationid="olivier-tdf" creationdate="20250109T114006Z">
         <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>8-Pointed Star</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T211708Z" creationid="olivier-tdf" creationdate="20250428T211708Z">
+        <seg>Estrela de 8 pontas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1426,6 +1466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T172532Z" creationid="olivier-tdf" creationdate="20250209T172532Z">
         <seg>&lt;f0&gt;Filtro padrão&lt;/f0&gt; – mais complexo que os filtros automáticos, permitindo até oito condições de filtragem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Stars and Banners&lt;/f0&gt; (Figure &lt;t1&gt;29&lt;/t1&gt;) are numbered from left to right on the subtoolbar as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T211642Z" creationid="olivier-tdf" creationdate="20250428T211642Z">
+        <seg>&lt;f0&gt;As estrelas e faixas&lt;/f0&gt; (Figura &lt;t1&gt;29&lt;/t1&gt;) são numeradas da esquerda para a direita na sub-barra de ferramentas da seguinte forma:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,6 +3442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T212741Z" creationid="olivier-tdf" creationdate="20250417T212741Z">
         <seg>&lt;s0&gt;Barra de ferramentas padrão&lt;/s0&gt;&lt;s1&gt;Barra de ferramentas padrão&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Stars and Banners subtoolbar&lt;/s0&gt;&lt;s1&gt;Stars and Banners subtoolbar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T211541Z" creationid="olivier-tdf" creationdate="20250428T211541Z">
+        <seg>&lt;s0&gt;Barra de ferramentas Estrelas e faixas&lt;/s0&gt;&lt;s1&gt;Barra de ferramentas Estrelas e faixas&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18904,6 +18960,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Stars and Banners subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T211556Z" creationid="olivier-tdf" creationdate="20250428T211556Z">
+        <seg>Figura &lt;seq0&gt;29&lt;/seq0&gt;: Barra de ferramentas Estrelas e faixas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: The Watermark dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250404T110038Z" creationid="timot" creationdate="20250404T110038Z">
@@ -31100,6 +31164,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250428T000322Z" creationid="olivier" creationdate="20250428T000322Z">
         <seg>Balão com linha 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Line Callout 2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T211444Z" creationid="olivier-tdf" creationdate="20250428T211444Z">
+        <seg>Balão com linha 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Line Callout 3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T211450Z" creationid="olivier-tdf" creationdate="20250428T211450Z">
+        <seg>Balão com linha 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -44740,6 +44820,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T203734Z" creationid="olivier" creationdate="20250324T203734Z">
         <seg>Formatos StarWriter (.sdw, .sgl, .vor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stars and Banners subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T211558Z" creationid="olivier-tdf" creationdate="20250428T211558Z">
+        <seg>Barra de ferramentas Estrelas e faixas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stars and banners</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T211509Z" creationid="olivier-tdf" creationdate="20250428T211509Z">
+        <seg>Estrelas e faixas</seg>
       </tuv>
     </tu>
     <tu>
