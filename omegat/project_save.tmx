@@ -6366,6 +6366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and select the Text toolbar from the drop-down list, then select &lt;f1&gt;Insert Vertical Text&lt;/f1&gt; from the tools available on the Text toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T215325Z" creationid="olivier-tdf" creationdate="20250428T215325Z">
+        <seg>Como alternativa, acesse &lt;f0&gt;Exibir &gt; Barras de ferramentas&lt;/f0&gt; na barra de menus e selecione a barra de ferramentas Texto na lista suspensa e, em seguida, selecione &lt;f1&gt;Inserir texto vertical&lt;/f1&gt; nas ferramentas disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; View&lt;/f1&gt; on the Menu bar, &lt;f2&gt;check&lt;/f2&gt; the &lt;f3&gt;Formulas&lt;/f3&gt; option in the &lt;f4&gt;Display&lt;/f4&gt; area, and click &lt;f5&gt;OK&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier-tdf" creationdate="20250117T215653Z">
@@ -23832,6 +23840,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; Language Settings &gt; Languages&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T215148Z" creationid="olivier-tdf" creationdate="20250428T215148Z">
+        <seg>Acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; Configurações de idioma &gt; Idiomas&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; Configurações de idioma &gt; Idiomas&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Print&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; Print&lt;/f1&gt;) to open the Options LibreOffice Print dialog (Figure &lt;t2&gt;12&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T133731Z" creationid="olivier" creationdate="20250223T133731Z">
@@ -39712,6 +39728,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click in a blank area on the Drawing toolbar and select &lt;f0&gt;Visible Buttons&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T215230Z" creationid="olivier-tdf" creationdate="20250428T215230Z">
+        <seg>Clique com o botão direito do mouse numa área em branco na barra de ferramentas Desenho e selecione &lt;f0&gt;Botões visíveis&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click in a blank area on the Standard toolbar to open a context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250225T000511Z" creationid="olivier" creationdate="20250222T183611Z">
@@ -41148,6 +41172,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122252Z" creationid="olivier" creationdate="20250121T122252Z">
         <seg>Selecione &lt;f0&gt;Inserir colunas antes&lt;/f0&gt;, &lt;f1&gt;Inserir colunas após&lt;/f1&gt;, &lt;f2&gt;Inserir linhas acima&lt;/f2&gt; ou &lt;f3&gt;Inserir linhas abaixo&lt;/f3&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Insert Vertical Text&lt;/f0&gt; from the list of available tools to enable vertical text on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T215259Z" creationid="olivier-tdf" creationdate="20250428T215259Z">
+        <seg>Selecione &lt;f0&gt;Inserir texto vertical&lt;/f0&gt; na lista de ferramentas disponíveis para ativar o texto vertical na barra de ferramentas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46248,6 +46280,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text can be added to most LibreOffice Draw objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T215433Z" creationid="olivier-tdf" creationdate="20250428T215433Z">
+        <seg>A maioria dos objetos LibreOffice Draw pode conter texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text documents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T203231Z" creationid="olivier" creationdate="20250324T203231Z">
@@ -46268,6 +46308,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T221704Z" creationid="timot" creationdate="20250409T221704Z">
         <seg>O texto delimitado por um marcador pode ser editado na caixa de diálogo Marcador, bem como no próprio documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text in LibreOffice Draw objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T215347Z" creationid="olivier-tdf" creationdate="20250428T215347Z">
+        <seg>Texto em objetos LibreOffice Draw</seg>
       </tuv>
     </tu>
     <tu>
@@ -54780,6 +54828,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T142752Z" creationid="olivier-tdf" creationdate="20250120T142752Z">
         <seg>Desmarque para fazer com que a tecla &lt;f2&gt;Enter&lt;/f2&gt; selecione a célula adjacente na direção do movimento definida pela opção &lt;f3&gt;Pressione Enter para mover a seleção&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Under &lt;f0&gt;Default Languages for Documents&lt;/f0&gt;, select &lt;f1&gt;Asian&lt;/f1&gt; and accept the default language displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T215209Z" creationid="olivier-tdf" creationdate="20250428T215209Z">
+        <seg>Em &lt;f0&gt;Idiomas padrão para documentos&lt;/f0&gt;, selecione &lt;f1&gt;Asiático&lt;/f1&gt; e aceite o idioma padrão exibido.</seg>
       </tuv>
     </tu>
     <tu>
