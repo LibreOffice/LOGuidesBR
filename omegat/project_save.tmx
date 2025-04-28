@@ -1726,6 +1726,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Windows or macOS only&lt;/f0&gt; — select the object in front of a hidden object, then press the &lt;f1&gt;Alt&lt;/f1&gt; key (macOS ⌥) and click to select the hidden object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223333Z" creationid="olivier-tdf" creationdate="20250428T223333Z">
+        <seg>&lt;f0&gt;Somente Windows ou macOS&lt;/f0&gt; — selecione o objeto na frente de um objeto oculto, pressione a tecla &lt;f1&gt;Alt&lt;/f1&gt; (macOS ⌥) e clique para selecionar o objeto oculto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Windows, macOS or Linux&lt;/f0&gt; — press the &lt;f1&gt;Tab&lt;/f1&gt; key to select and cycle through the objects in a drawing, stopping at the hidden object to select it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223240Z" creationid="olivier-tdf" creationdate="20250428T223240Z">
+        <seg>&lt;f0&gt;Windows, macOS ou Linux&lt;/f0&gt; — pressione a tecla &lt;f1&gt;Tab&lt;/f1&gt; para selecionar e percorrer os objetos em um desenho, parando no objeto oculto para selecioná-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Wrap&lt;/f0&gt;: Modify wrap and spacing where these are available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T104241Z" creationid="timot" creationdate="20250114T104241Z">
@@ -26496,6 +26512,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If objects are located behind others and not visible, they can still be selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223213Z" creationid="olivier-tdf" creationdate="20250428T223213Z">
+        <seg>Objetos que estão cobertos por outros e não estão visíveis, também podem ser selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If only a part of an image, or graphic, is to be used in a document, it can be cropped.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T131243Z" creationid="tulio" creationdate="20250411T131243Z">
@@ -27068,6 +27092,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T010406Z" creationid="timot" creationdate="20250206T010406Z">
         <seg>Se a palavra estiver correta, mas não estiver no dicionário, é possível escolher&lt;f1&gt;Adicionar ao dicionário&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If there are several hidden objects, keep holding down the &lt;f2&gt;Alt&lt;/f2&gt; key &lt;bs3/&gt;&lt;bs4/&gt;(macOS ⌥)&lt;be5/&gt; &lt;be6/&gt;and clicking until the object required is reached.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223410Z" creationid="olivier-tdf" creationdate="20250428T223410Z">
+        <seg>Se houver vários objetos ocultos, mantenha pressionada a tecla &lt;f2&gt;Alt&lt;/f2&gt; &lt;bs3/&gt;&lt;bs4/&gt;(macOS ⌥)&lt;be5/&gt; &lt;be6/&gt;e clique até que o objeto desejado seja alcançado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43368,6 +43400,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selecting hidden objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223107Z" creationid="olivier-tdf" creationdate="20250428T223107Z">
+        <seg>Selecionando objetos ocultos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selecting items in a spreadsheet</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250120T144215Z">
@@ -52856,6 +52896,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To cycle through the objects in reverse order, press &lt;f2&gt;Shift+Tab&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223248Z" creationid="olivier-tdf" creationdate="20250428T223248Z">
+        <seg>Para percorrer os objetos na ordem inversa, pressione &lt;f2&gt;Shift+Tab&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To define a new print range or modify an existing print range:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194147Z" creationid="olivier-tdf" creationdate="20250209T194147Z">
@@ -57948,6 +57996,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T132725Z" creationid="olivier" creationdate="20250320T132725Z">
         <seg>Quando selecionado, especifica que as configurações para idiomas padrão são válidas apenas para o documento atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When selecting a hidden object, its selection handles appear through the objects covering it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223223Z" creationid="olivier-tdf" creationdate="20250428T223223Z">
+        <seg>Ao selecionar um objeto oculto, suas alças de seleção aparecem através dos objetos que o cobrem.</seg>
       </tuv>
     </tu>
     <tu>
