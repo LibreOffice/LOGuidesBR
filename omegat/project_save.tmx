@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Bring to Front&lt;/f0&gt; (&lt;f1&gt;Ctrl+Shift++&lt;/f1&gt;) &lt;bs2/&gt;(macOS ⌘+&lt;f3&gt;Shift&lt;/f3&gt;++)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223731Z" creationid="olivier-tdf" creationdate="20250428T223731Z">
+        <seg>&lt;f0&gt;Trazer para a frente&lt;/f0&gt; (&lt;f1&gt;Ctrl+Shift + +&lt;/f1&gt;) &lt;bs2/&gt;(macOS &lt;f3&gt;⌘ +Shift + +&lt;/f3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Callouts&lt;/f0&gt; (Figure &lt;t1&gt;28&lt;/t1&gt;) are numbered from left to right on the subtoolbar as follows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250427T190042Z" creationid="olivier" creationdate="20250427T190042Z">
@@ -7234,6 +7242,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T090305Z" creationid="olivier" creationdate="20250308T090305Z">
         <seg>Caixa de diálogo de área — Página cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arranging objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223507Z" creationid="olivier-tdf" creationdate="20250428T223507Z">
+        <seg>Dispor objetos</seg>
       </tuv>
     </tu>
     <tu>
@@ -28384,6 +28400,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In a complex drawing, several objects may be stacked on top of one another.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223516Z" creationid="olivier-tdf" creationdate="20250428T223516Z">
+        <seg>Em um desenho complexo, vários objetos podem ser empilhados um em cima do outro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In a default LibreOffice installation, the top toolbar under the Menu bar is called the Standard toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205303Z" creationid="olivier-tdf" creationdate="20250116T211438Z">
@@ -41936,6 +41960,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select an object, go to &lt;f0&gt;Shape &gt; Arrange&lt;/f0&gt; on the Menu bar, or right-click on the object and select &lt;f1&gt;Arrange&lt;/f1&gt; in the drop-down menu, then choose one of the following options:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223633Z" creationid="olivier-tdf" creationdate="20250428T223633Z">
+        <seg>Selecione um objeto, acesse &lt;f0&gt;Formas &gt; Dispor&lt;/f0&gt; na barra de menus ou clique com o botão direito do mouse no objeto e selecione &lt;f1&gt;Dispor&lt;/f1&gt; no menu suspenso e escolha uma das seguintes opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select and delete text using keyboard shortcuts as follows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003705Z" creationid="olivier" creationdate="20250303T003705Z">
@@ -51992,6 +52024,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This stacking order can be rearranged by moving an object forward, or backward, using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223524Z" creationid="olivier-tdf" creationdate="20250428T223524Z">
+        <seg>Esta ordem de empilhamento pode ser reorganizada movendo um objeto para frente ou para trás, usando um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This technique automatically overwrites, without any warning, any information that is already in the cells on the selected sheets.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224310Z" creationid="olivier" creationdate="20250123T224310Z">
@@ -52892,6 +52932,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T232433Z" creationid="olivier-tdf" creationdate="20250328T202215Z">
         <seg>Para personalizar o número e o nome dos níveis, copie um arquivo, por exemplo example.xml, &lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt; localizado em &lt;f2&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Caminhos &gt; Classificação&lt;/f2&gt; (macOS &lt;f3&gt;LibreOffice &gt; Preferências &gt; LibreOffice &gt; Caminhos &gt; Classificação&lt;/f3&gt;) numa pasta local e edite o conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To cycle through the objects in reverse order, hold down the &lt;f7&gt;Alt+Shift&lt;/f7&gt; keys &lt;bs8/&gt;(macOS ⌥+&lt;f9&gt;Shift&lt;/f9&gt;)&lt;be10/&gt; and click.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223454Z" creationid="olivier-tdf" creationdate="20250428T223454Z">
+        <seg>Para percorrer os objetos na ordem inversa, mantenha pressionadas as teclas &lt;f7&gt;Alt+Shift&lt;/f7&gt; &lt;bs8/&gt;(macOS &lt;f9&gt;⌥+Shift&lt;/f9&gt;)&lt;be10/&gt; e clique.</seg>
       </tuv>
     </tu>
     <tu>
