@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Ctrl+Shift+click&lt;/f0&gt; (macOS &lt;bs1/&gt;&lt;bs2/&gt;⌘&lt;be3/&gt;&lt;be4/&gt;+&lt;f5&gt;Shift&lt;/f5&gt;+&lt;f6&gt;click&lt;/f6&gt;) — toggle between a layer being printed or not printed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T210310Z" creationid="olivier-tdf" creationdate="20250430T210310Z">
+        <seg>&lt;f0&gt;Ctrl+Shift+clique&lt;/f0&gt; (macOS &lt;bs1/&gt;&lt;bs2/&gt;⌘&lt;be3/&gt;&lt;be4/&gt;+&lt;f5&gt;Shift&lt;/f5&gt;+&lt;f6&gt;clique&lt;/f6&gt;) — alterna entre imprimível e não imprimível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; &lt;bs1/&gt;(macOS &lt;bs2/&gt;&lt;bs3/&gt;⌘&lt;be4/&gt;&lt;be5/&gt;+&lt;f6&gt;click&lt;/f6&gt;)&lt;be7/&gt; — toggle between a layer being locked or unlocked.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T210136Z" creationid="olivier-tdf" creationdate="20250430T210136Z">
@@ -5658,6 +5666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T003950Z" creationid="tulio" creationdate="20250320T003950Z">
         <seg>A adição de arquivos de imagem e gráficos aos documentos do LibreOffice consiste nos seguintes tipos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding layers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T210320Z" creationid="olivier-tdf" creationdate="20250430T210320Z">
+        <seg>Adicionar camadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -17760,6 +17776,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter a meaningful &lt;f0&gt;Name&lt;/f0&gt;, &lt;f1&gt;Title&lt;/f1&gt;, and &lt;f2&gt;Description&lt;/f2&gt; for the new layer in the text boxes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T210431Z" creationid="olivier-tdf" creationdate="20250430T210431Z">
+        <seg>Digite um &lt;f0&gt;Nome&lt;/f0&gt;, &lt;f1&gt;Título&lt;/f1&gt; e &lt;f2&gt;Descrição&lt;/f2&gt; significativos para a nova camada nas caixas de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter a name for the new menu in the &lt;f0&gt;Menu name&lt;/f0&gt; text box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T214802Z" creationid="olivier" creationdate="20250307T214802Z">
@@ -24836,6 +24860,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012045Z" creationid="tulio" creationdate="20250320T012045Z">
         <seg>Vá para &lt;f0&gt;Inserir &gt; Imagem&lt;/f0&gt; na barra de menus para abrir a caixa de diálogo Inserir imagem (Figura &lt;t1&gt;1&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Insert &gt; Layer&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T210345Z" creationid="olivier-tdf" creationdate="20250430T210345Z">
+        <seg>Acesse &lt;f0&gt;Inserir &gt; Camada&lt;/f0&gt; na barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41384,6 +41416,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click on the layer tabs at the bottom of the Workspace and select &lt;f0&gt;Insert Layer&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T210403Z" creationid="olivier-tdf" creationdate="20250430T210403Z">
+        <seg>Clique com o botão direito do mouse nas guias de camada na parte inferior do espaço de trabalho e selecione &lt;f0&gt;Inserir Camada&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click on the object and select &lt;f0&gt;Flip &gt; Vertically&lt;/f0&gt;, or &lt;f1&gt;Horizontally&lt;/f1&gt;, in the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T192800Z" creationid="olivier-tdf" creationdate="20250430T192800Z">
@@ -43004,6 +43044,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183806Z" creationid="olivier" creationdate="20250222T183806Z">
         <seg>Selecione &lt;f0&gt;Botões Visíveis&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Visible&lt;/f0&gt; if the layer is to be visible in a drawing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T210445Z" creationid="olivier-tdf" creationdate="20250430T210445Z">
+        <seg>Selecione &lt;f0&gt;Visível&lt;/f0&gt; se a camada deve ser visível no desenho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57496,6 +57544,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use one of the following methods to open the Insert Layer dialog (Figure &lt;t0&gt;45&lt;/t0&gt;):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T210334Z" creationid="olivier-tdf" creationdate="20250430T210334Z">
+        <seg>Use um dos seguintes métodos para abrir a caixa de diálogo Inserir camada (Figura &lt;t0&gt;45&lt;/t0&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use one of the following methods to prepare for editing cell data:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T230314Z" creationid="olivier" creationdate="20250123T230314Z">
@@ -59116,6 +59172,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T021131Z" creationid="olivier" creationdate="20250321T021131Z">
         <seg>Ao selecionar &lt;f0&gt;Padrão&lt;/f0&gt;, as duas caixas de texto a seguir são preenchidas com os caracteres padrão para o idioma selecionado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When &lt;f1&gt;Visible&lt;/f1&gt; is not selected, the layer is hidden and its name in the layer tab changes color to blue.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T210533Z" creationid="olivier-tdf" creationdate="20250430T210533Z">
+        <seg>Quando &lt;f1&gt;Visível&lt;/f1&gt; estiver desmarcado, a camada fica oculta e seu nome na aba da camada muda para a cor azul.</seg>
       </tuv>
     </tu>
     <tu>
