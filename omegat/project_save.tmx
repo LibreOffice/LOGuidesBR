@@ -1800,8 +1800,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Windows, macOS or Linux&lt;/f0&gt; — press the &lt;f1&gt;Tab&lt;/f1&gt; key to select and cycle through the objects in a drawing, stopping at the hidden object to select it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223240Z" creationid="olivier-tdf" creationdate="20250428T223240Z">
-        <seg>&lt;f0&gt;Windows, macOS ou Linux&lt;/f0&gt; — pressione a tecla &lt;f1&gt;Tab&lt;/f1&gt; para selecionar e percorrer os objetos em um desenho, parando no objeto oculto para selecioná-lo.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201728Z" creationid="olivier-tdf" creationdate="20250428T223240Z">
+        <seg>&lt;f0&gt;Windows, macOS ou Linux&lt;/f0&gt; — pressione a tecla &lt;f1&gt;Tab&lt;/f1&gt; para selecionar e percorrer os objetos num desenho, parando no objeto oculto para selecioná-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5906,6 +5906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T212056Z" creationid="olivier-tdf" creationdate="20250209T200702Z">
         <seg>Após selecionar &lt;f0&gt;Exibir &gt; Quebra de página&lt;/f0&gt;, você pode clicar com o botão direito do mouse numa célula para acessar um menu de contexto contendo as opções &lt;f1&gt;Quebra de linha&lt;/f1&gt; e &lt;f2&gt;Quebra de coluna&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After selecting the group, use one of the following methods to enter the group:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201618Z" creationid="olivier-tdf" creationdate="20250430T201618Z">
+        <seg>Após selecionar o grupo, use um dos seguintes métodos para entrar no grupo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11824,8 +11832,8 @@
       <tuv lang="en-US">
         <seg>Click on a selection handle at the top, bottom, left side, or right side of an object.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T192408Z" creationid="olivier-tdf" creationdate="20250430T192408Z">
-        <seg>Clique em uma alça de seleção na parte superior, inferior, esquerda ou direita de um objeto.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201716Z" creationid="olivier-tdf" creationdate="20250430T192408Z">
+        <seg>Clique numa alça de seleção na parte superior, inferior, esquerda ou direita de um objeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13672,8 +13680,8 @@
       <tuv lang="en-US">
         <seg>Create an object in a drawing and make sure the object is selected with the selection handles displayed.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T220216Z" creationid="olivier-tdf" creationdate="20250428T220216Z">
-        <seg>Crie um objeto em um desenho e verifique se o objeto está selecionado com as alças de seleção exibidas.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201738Z" creationid="olivier-tdf" creationdate="20250428T220216Z">
+        <seg>Crie um objeto num desenho e verifique se o objeto está selecionado com as alças de seleção exibidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24632,6 +24640,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Shape &gt; Group &gt; Enter Group&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201701Z" creationid="olivier-tdf" creationdate="20250430T201701Z">
+        <seg>Acesse &lt;f0&gt;Forma &gt; Agrupar &gt; Entrar no grupo&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Shape &gt; Group &gt; Group&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201051Z" creationid="olivier-tdf" creationdate="20250430T201051Z">
@@ -25874,8 +25890,8 @@
       <tuv lang="en-US">
         <seg>However, hold down the &lt;f0&gt;Shift&lt;/f0&gt; key to draw a line at an angle other than 45 or 90 degrees.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250426T003401Z" creationid="olivier" creationdate="20250426T003401Z">
-        <seg>No entanto, mantenha pressionada a tecla &lt;f0&gt;Shift&lt;/f0&gt; para desenhar uma linha em um ângulo diferente de 45 ou 90 graus.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201809Z" creationid="olivier" creationdate="20250426T003401Z">
+        <seg>No entanto, mantenha pressionada a tecla &lt;f0&gt;Shift&lt;/f0&gt; para desenhar uma linha num ângulo diferente de 45 ou 90 graus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53034,8 +53050,8 @@
       <tuv lang="en-US">
         <seg>This section gives some guidelines on how to add text and change its appearance.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T212318Z" creationid="olivier-tdf" creationdate="20250428T212318Z">
-        <seg>Esta seção fornece algumas diretrizes sobre como adicionar texto e alterar sua aparência.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201758Z" creationid="olivier-tdf" creationdate="20250428T212318Z">
+        <seg>Esta seção fornece algumas diretrizes sobre como adicionar texto e alterar a sua aparência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53626,8 +53642,8 @@
       <tuv lang="en-US">
         <seg>To change the display of a dimension line and its appearance, right-click on the dimension line and select &lt;f0&gt;Dimensions&lt;/f0&gt; in the context menu to open the Dimension Line dialog (Figure &lt;t1&gt;18&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T201719Z" creationid="olivier-tdf" creationdate="20250423T201719Z">
-        <seg>Para alterar a exibição de uma linha de cota e sua aparência, clique com o botão direito do mouse na linha de cota e selecione &lt;f0&gt;Cotas&lt;/f0&gt; no menu de contexto para abrir a caixa de diálogo Cotação (Figura &lt;t1&gt;18&lt;/t1&gt;).</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201848Z" creationid="olivier-tdf" creationdate="20250423T201719Z">
+        <seg>Para alterar a exibição de uma linha de cota e a sua aparência, clique com o botão direito do mouse na linha de cota e selecione &lt;f0&gt;Cotas&lt;/f0&gt; no menu de contexto para abrir a caixa de diálogo Cotação (Figura &lt;t1&gt;18&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55170,8 +55186,8 @@
       <tuv lang="en-US">
         <seg>To quickly insert an object, press and hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; (macOS ⌘) key, then click on an object tool on the Drawing toolbar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250423T200727Z" creationid="olivier-tdf" creationdate="20250423T200727Z">
-        <seg>Para inserir rapidamente um objeto, pressione e segure a tecla &lt;f0&gt;Ctrl&lt;/f0&gt; (macOS ⌘ ) e clique em uma ferramenta de objeto na barra de ferramentas Desenho.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201821Z" creationid="olivier-tdf" creationdate="20250423T200727Z">
+        <seg>Para inserir rapidamente um objeto, pressione e segure a tecla &lt;f0&gt;Ctrl&lt;/f0&gt; (macOS ⌘ ) e clique numa ferramenta de objeto na barra de ferramentas Desenho.</seg>
       </tuv>
     </tu>
     <tu>
