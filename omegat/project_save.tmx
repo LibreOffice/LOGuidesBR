@@ -2462,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of adjusting object size&lt;/s0&gt;&lt;s1&gt;Example of adjusting object size&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T191545Z" creationid="olivier-tdf" creationdate="20250430T191545Z">
+        <seg>&lt;s0&gt;Exemplo de ajuste do tamanho do objeto&lt;/s0&gt;&lt;s1&gt; Exemplo de ajuste do tamanho do objeto&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of comments&lt;/s0&gt;&lt;s1&gt;Example of comments&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T114330Z" creationid="timot" creationdate="20250407T114330Z">
@@ -7354,6 +7362,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T214804Z" creationid="olivier-tdf" creationdate="20250428T214804Z">
         <seg>À medida que atingir o limite horizontal da caixa de texto, texto reflui automaticamente dentro da caixa e a caixa se expande verticalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As the object size changes, a ghosted outline of the object appears (Figure &lt;t0&gt;35&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T191522Z" creationid="olivier-tdf" creationdate="20250430T191522Z">
+        <seg>À medida que o tamanho do objeto muda, um contorno esmaecido do objeto aparece (Figura &lt;t0&gt;35&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17832,6 +17848,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of adjusting object size</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T191558Z" creationid="olivier-tdf" creationdate="20250430T191558Z">
+        <seg>Exemplo de ajuste do tamanho do objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example of comments</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T114344Z" creationid="timot" creationdate="20250407T114344Z">
@@ -19588,6 +19612,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T203215Z" creationid="olivier-tdf" creationdate="20250128T203215Z">
         <seg>Figura &lt;seq0&gt;34&lt;/seq0&gt;: Disposição automática de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: Example of adjusting object size</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T191551Z" creationid="olivier-tdf" creationdate="20250430T191551Z">
+        <seg>Figura &lt;seq0&gt;35&lt;/seq0&gt;: Exemplo de ajuste do tamanho do objeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -38464,6 +38496,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press and hold the &lt;f0&gt;Shift&lt;/f0&gt; key while resizing an object, the change in size is carried out symmetrically with respect to the object width and height maintaining the aspect ratio of the object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T191757Z" creationid="olivier-tdf" creationdate="20250430T191757Z">
+        <seg>Se pressionar e segurar a tecla &lt;f0&gt;Shift&lt;/f0&gt; enquanto redimensiona um objeto, a mudança de tamanho é realizada simetricamente em relação à largura e altura do objeto, mantendo a proporção do objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press the &lt;f0&gt;Backspace&lt;/f0&gt; key, or right-click in the cell selection and choose &lt;f1&gt;Clear Contents&lt;/f1&gt; in the context menu, or select &lt;f2&gt;Sheet &gt; Clear Cells &lt;/f2&gt;on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011653Z" creationid="olivier" creationdate="20250124T011653Z">
@@ -48344,6 +48384,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The cursor changes shape to indicate the direction of movement for that selection handle.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T191454Z" creationid="olivier-tdf" creationdate="20250430T191454Z">
+        <seg>O cursor muda de forma para indicar a direção do movimento para essa alça de seleção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cursor is placed at the end of the content in the cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225756Z" creationid="olivier" creationdate="20250123T225756Z">
@@ -49844,6 +49892,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T221200Z" creationid="olivier" creationdate="20250120T004034Z">
         <seg>O resultado de teclar &lt;f0&gt;End&lt;/f0&gt; ou &lt;f1&gt;Ctrl+End&lt;/f1&gt; depende dos dados contidos na planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The results depend on which selection handle is being used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T191621Z" creationid="olivier-tdf" creationdate="20250430T191621Z">
+        <seg>Os resultados dependem da alça de seleção usada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54424,6 +54480,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To resize along both axes, use a corner handle.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T191643Z" creationid="olivier-tdf" creationdate="20250430T191643Z">
+        <seg>Para redimensionar ao longo de ambos os eixos, use uma alça de canto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To resize an object along one axis, use a side, top, or bottom handle.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T191634Z" creationid="olivier-tdf" creationdate="20250430T191634Z">
+        <seg>Para redimensionar um objeto ao longo de um eixo, use uma alça lateral, superior ou inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To restart page numbering:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="elianedomingos" changedate="20250301T012354Z" creationid="elianedomingos" creationdate="20250301T012354Z">
@@ -58372,6 +58444,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250426T010254Z" creationid="olivier" creationdate="20250426T010254Z">
         <seg>Quando o cursor estiver sobre um ponto de conexão do objeto de destino, solte o botão do mouse e o conector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the desired size of the object is reached, release the object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T191534Z" creationid="olivier-tdf" creationdate="20250430T191534Z">
+        <seg>Quando o tamanho desejado do objeto for atingido, libere o objeto.</seg>
       </tuv>
     </tu>
     <tu>
