@@ -2622,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of inserting comments&lt;/s0&gt;&lt;s1&gt;Example of inserting comments&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T225729Z" creationid="olivier-tdf" creationdate="20250430T225729Z">
+        <seg>&lt;s0&gt;Exemplo de inserção de comentários&lt;/s0&gt;&lt;s1&gt;Exemplo de inserção de comentários&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of line starting point&lt;/s0&gt;&lt;s1&gt;Example of line starting point&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T214532Z" creationid="olivier-tdf" creationdate="20250417T214532Z">
@@ -5674,6 +5682,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T114004Z" creationid="timot" creationdate="20250404T111207Z">
         <seg>Adicionar anotações a um documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding comments to a drawing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T225634Z" creationid="olivier-tdf" creationdate="20250430T225634Z">
+        <seg>Adicionar comentários ao desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding comments to a drawing uses a similar process to the one used in Writer and Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T225703Z" creationid="olivier-tdf" creationdate="20250430T225703Z">
+        <seg>Adicionar comentários a um desenho utiliza um processo semelhante ao do Writer e no Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18608,6 +18632,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of inserting comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T225737Z" creationid="olivier-tdf" creationdate="20250430T225737Z">
+        <seg>Exemplo de inserção de comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example of line starting point</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T214548Z" creationid="olivier-tdf" creationdate="20250417T214548Z">
@@ -20656,6 +20688,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;48&lt;/seq0&gt;: Example of inserting comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T225733Z" creationid="olivier-tdf" creationdate="20250430T225733Z">
+        <seg>Figura &lt;seq0&gt;48&lt;/seq0&gt;: Exemplo de inserção de comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Customize dialog — Toolbars page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T221419Z" creationid="olivier" creationdate="20250307T221419Z">
@@ -22628,6 +22668,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125110Z" creationid="olivier-tdf" creationdate="20250114T125110Z">
         <seg>Para muitas funções, o Calc segue o padrão &lt;f0&gt;OpenFormula&lt;/f0&gt; definido na parte &lt;f1&gt;Formato de Fórmula Recalculada (OpenFormula)&lt;/f1&gt; do padrão &lt;f2&gt;Open Document Format for Office Applications &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;(OpenDocument)&lt;/f4&gt;, que pode ser acessado no site da OASIS (&lt;a5&gt;https://www.oasis-open.org/&lt;/a5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more about adding, navigating, and replying to comments, see Chapter 4, Getting Started with Writer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T225712Z" creationid="olivier-tdf" creationdate="20250430T225712Z">
+        <seg>Para saber mais sobre como adicionar, navegar e responder a comentários, consulte o Capítulo 4, Introdução ao Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49216,6 +49264,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Line and Filling, and Drawing toolbars have similar tools that can be used to change the color of an area (fill) or line — &lt;f0&gt;Fill Color&lt;/f0&gt; and &lt;f1&gt;Line Color&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T225545Z" creationid="olivier-tdf" creationdate="20250430T225545Z">
+        <seg>As barras de ferramentas Linha e Preenchimento e Desenho possuem ferramentas semelhantes que podem ser usadas para alterar a cor de uma área (preenchimento) ou linha — &lt;f0&gt;Cor de Preenchimento&lt;/f0&gt; e &lt;f1&gt; Cor da Linha&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Menu bar can be customized; see Chapter 13, Customizing LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250414T105202Z" creationid="timot" creationdate="20250414T105202Z">
@@ -52916,6 +52972,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191242Z" creationid="olivier-tdf" creationdate="20250209T191242Z">
         <seg>Essas ferramentas são divididas entre os menus Ferramentas e Dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These tools are used in a similar way as changing colors using the &lt;f2&gt;Area&lt;/f2&gt; and &lt;f3&gt;Line&lt;/f3&gt; panels on the Properties deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T225613Z" creationid="olivier-tdf" creationdate="20250430T225613Z">
+        <seg>Essas ferramentas são usadas de maneira semelhante à mudança de cores usando os painéis &lt;f2&gt;Área&lt;/f2&gt; e &lt;f3&gt;Linha&lt;/f3&gt; no deque Propriedades da barra lateral.</seg>
       </tuv>
     </tu>
     <tu>
