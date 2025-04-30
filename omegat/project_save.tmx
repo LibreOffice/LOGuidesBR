@@ -7126,6 +7126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any editing operations carried out on the group are applied to all objects within the group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201421Z" creationid="olivier-tdf" creationdate="20250430T201421Z">
+        <seg>Todas as operações de edição realizadas no grupo são aplicadas a todos os objetos dentro do grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Any editing, or changes made to a style are effective only in the current document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195831Z" creationid="olivier-tdf" creationdate="20250403T195831Z">
@@ -17104,6 +17112,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Editing an individual within a group can be carried out without ungrouping or breaking the group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201604Z" creationid="olivier-tdf" creationdate="20250430T201604Z">
+        <seg>A edição de um objeto individual dentro de um grupo pode ser realizada sem desagrupar ou romper o grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Editing data</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224953Z" creationid="olivier" creationdate="20250123T224953Z">
@@ -17164,6 +17180,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115344Z" creationid="olivier" creationdate="20250405T115344Z">
         <seg>Editar modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Editing within groups</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201515Z" creationid="olivier-tdf" creationdate="20250430T201515Z">
+        <seg>Editar dentro de grupos</seg>
       </tuv>
     </tu>
     <tu>
@@ -27220,6 +27244,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223213Z" creationid="olivier-tdf" creationdate="20250428T223213Z">
         <seg>Objetos que estão cobertos por outros e não estão visíveis, também podem ser selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If one object in the group is clicked, the whole group is selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201459Z" creationid="olivier-tdf" creationdate="20250430T201459Z">
+        <seg>Ao clicar num dos objetos do grupo, todo o grupo é selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57202,8 +57234,8 @@
       <tuv lang="en-US">
         <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+G&lt;/f0&gt; (macOS &lt;bs1/&gt;⌘&lt;be2/&gt;+&lt;f3&gt;Shift+G&lt;/f3&gt;)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201302Z" creationid="olivier-tdf" creationdate="20250430T201302Z">
-        <seg>Use o atalho de teclado &lt;f0&gt;Ctrl+Shift+G&lt;/f0&gt; (macOS&lt;f3&gt;⌘+Shift+G&lt;/f1&gt;)&lt;bs1/&gt;&lt;be2/&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201355Z" creationid="olivier-tdf" creationdate="20250430T201302Z">
+        <seg>Use o atalho de teclado &lt;f0&gt;Ctrl+Shift+G&lt;/f0&gt;&lt;bs1/&gt;&lt;be2/&gt; (macOS&lt;f3&gt;⌘+Shift+G&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58908,6 +58940,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165047Z" creationid="olivier" creationdate="20250312T165047Z">
         <seg>Quando desmarcada, a lista de fontes mostra apenas os nomes das fontes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When deselected, the objects remain grouped together.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201403Z" creationid="olivier-tdf" creationdate="20250430T201403Z">
+        <seg>Quando desmarcados, os objetos permanecem agrupados.</seg>
       </tuv>
     </tu>
     <tu>
