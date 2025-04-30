@@ -4702,6 +4702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A group can always be undone (ungroup).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T200728Z" creationid="olivier-tdf" creationdate="20250430T200728Z">
+        <seg>Um grupo sempre pode ser desfeito (desagrupar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A header is an area that appears at the top of a page above the margin.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T113356Z" creationid="timot" creationdate="20250224T113356Z">
@@ -5098,6 +5106,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203800Z" creationid="olivier" creationdate="20250404T203800Z">
         <seg>Um modelo é um documento que contém estilos de formatação especificados pelo usuário, gráficos, tabelas, objetos e outras informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A temporary grouping is when several objects are selected using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T200756Z" creationid="olivier-tdf" creationdate="20250430T200756Z">
+        <seg>Um agrupamento temporário é quando vários objetos são selecionados usando um dos seguintes métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7026,6 +7042,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183749Z" creationid="olivier-tdf" creationdate="20250209T183749Z">
         <seg>Quaisquer células que tenham sido marcadas como protegidas deixarão de ser editáveis por qualquer pessoa que não tenha a senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any changes to object parameters carried out are applied to all of the objects within the temporary group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T200927Z" creationid="olivier-tdf" creationdate="20250430T200927Z">
+        <seg>Alterações realizadas nos parâmetros do objeto são aplicadas a todos os objetos dentro do grupo temporário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10682,6 +10706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215033Z" creationid="olivier" creationdate="20250123T215033Z">
         <seg>Clique e arraste na direção em que deseja que as células sejam preenchidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click and drag the cursor to create a rectangle (also known as a marquee) around the objects required for the temporary group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T200900Z" creationid="olivier-tdf" creationdate="20250430T200900Z">
+        <seg>Clique e arraste o cursor para criar um retângulo (também conhecido como seletor) em torno dos objetos necessários do grupo temporário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21668,6 +21700,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T104927Z" creationid="timot" creationdate="20250215T104927Z">
         <seg>Por exemplo, em vez de digitar "Gerência sênior" toda vez que usar essa frase, você pode configurar uma entrada de Autotexto para inserir essas palavras ao digitar "sm" e teclar &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, rotating a temporary group of objects in its entirety.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T200936Z" creationid="olivier-tdf" creationdate="20250430T200936Z">
+        <seg>Por exemplo, girar um grupo temporário de objetos em sua totalidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35480,6 +35520,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Objects that make up a group can always be manipulated separately and retain their own individual properties.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T200739Z" creationid="olivier-tdf" creationdate="20250430T200739Z">
+        <seg>Os objetos que compõem um grupo sempre podem ser manipulados separadamente e reter suas próprias propriedades individuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Obtaining resources for additional languages</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T130837Z" creationid="timot" creationdate="20250409T130837Z">
@@ -47352,6 +47400,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Temporary grouping</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T200748Z" creationid="olivier-tdf" creationdate="20250430T200748Z">
+        <seg>Agrupamento temporário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Terminator</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250427T185446Z" creationid="olivier" creationdate="20250427T185446Z">
@@ -50228,6 +50284,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203048Z" creationid="olivier" creationdate="20250327T203048Z">
         <seg>O número de arquivos gerados pela conversão de formato depende do número de imagens e objetos no documento de texto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The objects can be moved as a group and global changes applied to the objects within the group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T200721Z" creationid="olivier-tdf" creationdate="20250430T200721Z">
+        <seg>Os objetos podem ser movidos como um grupo e as alterações globais são aplicadas aos objetos do grupo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59620,6 +59684,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200421Z" creationid="olivier-tdf" creationdate="20250209T200421Z">
         <seg>Embora a definição de um intervalo de impressão possa ser uma ferramenta poderosa, às vezes pode ser necessário ajustar manualmente a impressão usando uma quebra de página manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While holding down the &lt;f0&gt;Shift&lt;/f0&gt; key, click on each object with the cursor to select it for the temporary group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T200806Z" creationid="olivier-tdf" creationdate="20250430T200806Z">
+        <seg>Enquanto mantém pressionada a tecla &lt;f0&gt;Shift&lt;/f0&gt;, clique em cada objeto com o cursor para selecioná-lo para o grupo temporário.</seg>
       </tuv>
     </tu>
     <tu>
