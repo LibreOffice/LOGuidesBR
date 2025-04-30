@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Duplicate dialog&lt;/s0&gt;&lt;s1&gt;Duplicate dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T195303Z" creationid="olivier-tdf" creationdate="20250430T195303Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Duplicar&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Duplicar&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;EPUB Export dialog&lt;/s0&gt;&lt;s1&gt;EPUB Export dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195324Z" creationid="olivier" creationdate="20250327T195324Z">
@@ -2514,6 +2522,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173747Z" creationid="tulio" creationdate="20250119T173747Z">
         <seg>&lt;s0&gt;Exemplo de criação de sub-barra de ferramentas flutuante a partir de uma paleta de ferramentas&lt;/s0&gt;&lt;s1&gt; Exemplo de criação de sub-barra de ferramentas flutuante a partir de uma paleta de ferramentas&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of duplicating objects&lt;/s0&gt;&lt;s1&gt;Example of duplicating objects&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T195201Z" creationid="olivier-tdf" creationdate="20250430T195201Z">
+        <seg>&lt;s0&gt;Exemplo de duplicação de objetos&lt;/s0&gt;&lt;s1&gt;Exemplo de duplicação de objetos&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11750,6 +11766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on an object or group of objects and open the Duplicate dialog (Figure &lt;t0&gt;41&lt;/t0&gt;) using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T195230Z" creationid="olivier-tdf" creationdate="20250430T195230Z">
+        <seg>Clique num objeto ou grupo de objetos e abra a caixa de diálogo Duplicar (Figura &lt;t0&gt;41&lt;/t0&gt;) usando um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on and hold a corner selection handle, then drag the cursor to rotate the object around the rotation point.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T192135Z" creationid="olivier-tdf" creationdate="20250430T192135Z">
@@ -16542,6 +16566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Duplicate dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T195325Z" creationid="olivier-tdf" creationdate="20250430T195325Z">
+        <seg>Caixa de diálogo Duplicar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Duplication</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T194610Z" creationid="olivier-tdf" creationdate="20250430T194610Z">
@@ -18044,6 +18076,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173805Z" creationid="tulio" creationdate="20250119T173805Z">
         <seg>Exemplo de criação de sub-barra de ferramentas flutuante a partir de uma paleta de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Example of duplicating objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T195213Z" creationid="olivier-tdf" creationdate="20250430T195213Z">
+        <seg>Exemplo de duplicação de objetos</seg>
       </tuv>
     </tu>
     <tu>
@@ -19972,6 +20012,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183341Z" creationid="olivier-tdf" creationdate="20250209T183341Z">
         <seg>Figura &lt;seq0&gt;40&lt;/seq0&gt;: Aba Proteção de células na caixa de diálogo Formatar células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;40&lt;/seq0&gt;: Example of duplicating objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T195207Z" creationid="olivier-tdf" creationdate="20250430T195207Z">
+        <seg>Figura &lt;seq0&gt;40&lt;/seq0&gt;: Exemplo de duplicação de objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;41&lt;/seq0&gt;: Duplicate dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T195318Z" creationid="olivier-tdf" creationdate="20250430T195318Z">
+        <seg>Figura &lt;seq0&gt;41&lt;/seq0&gt;: Caixa de diálogo Duplicar</seg>
       </tuv>
     </tu>
     <tu>
@@ -22232,6 +22288,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on duplication, see the &lt;f1&gt;LibreOffice Draw Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T195155Z" creationid="olivier-tdf" creationdate="20250430T195155Z">
+        <seg>Para obter mais informações sobre duplicação, consulte o &lt;f1&gt;Guia do LibreOffice Draw&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on editing print ranges, see Chapter 7, Printing, Exporting, Emailing, and Signing, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200016Z" creationid="olivier-tdf" creationdate="20250209T200016Z">
@@ -23872,6 +23936,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Edit &gt; Duplicate&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T195337Z" creationid="olivier-tdf" creationdate="20250430T195337Z">
+        <seg>Acesse &lt;f0&gt;Editar &gt; Duplicar&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Edit &gt; Hyperlink&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T150749Z" creationid="olivier" creationdate="20250405T150749Z">
@@ -24348,6 +24420,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213514Z" creationid="tulio" creationdate="20250116T011428Z">
         <seg>Acesse &lt;f0&gt;LibreOffice &gt; Sair do LibreOffice&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Shape &gt; Duplicate&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T195411Z" creationid="olivier-tdf" creationdate="20250430T195411Z">
+        <seg>Acesse &lt;f0&gt;Forma &gt; Duplicar&lt;/f0&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56876,6 +56956,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T001651Z" creationid="olivier-tdf" creationdate="20250219T001651Z">
         <seg>Use o atalho de teclado &lt;f0&gt;F11&lt;/f0&gt; (macOS &lt;f1&gt;⌘+T&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Shift+F3&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T195420Z" creationid="olivier-tdf" creationdate="20250430T195420Z">
+        <seg>Use o atalho de teclado &lt;f0&gt;Shift+F3&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
