@@ -5918,6 +5918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After selecting several objects, the &lt;f0&gt;Merge&lt;/f0&gt;, &lt;f1&gt;Subtract&lt;/f1&gt;, and &lt;f2&gt;Intersect&lt;/f2&gt; functions become available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T203842Z" creationid="olivier-tdf" creationdate="20250430T203842Z">
+        <seg>Após selecionar vários objetos, as funções &lt;f0&gt;Mesclar&lt;/f0&gt;, &lt;f1&gt;Subtrair&lt;/f1&gt; e &lt;f2&gt;Interseção&lt;/f2&gt; ficam disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After selecting the group, use one of the following methods to enter the group:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201618Z" creationid="olivier-tdf" creationdate="20250430T201618Z">
@@ -7518,10 +7526,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Arrange the position of an object by moving it either forward or backward in relation to the order of objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T204017Z" creationid="olivier-tdf" creationdate="20250430T204017Z">
+        <seg>Disponha a posição de um objeto movendo-o para frente ou para trás em relação à ordem dos objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arranging objects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250428T223507Z" creationid="olivier-tdf" creationdate="20250428T223507Z">
         <seg>Dispor objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arranging, aligning, and distributing objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T203933Z" creationid="olivier-tdf" creationdate="20250430T203933Z">
+        <seg>Dispor, alinhar e distribuir objetos</seg>
       </tuv>
     </tu>
     <tu>
@@ -29112,6 +29136,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In LibreOffice Draw, selected objects can be arranged, aligned, and distributed in relation to each other.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T203950Z" creationid="olivier-tdf" creationdate="20250430T203950Z">
+        <seg>No LibreOffice Draw, os objetos selecionados podem ser dispostos, alinhados e distribuídos em relação uns aos outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In LibreOffice, hyperlinks allow you to create references to web pages and other elements in remote locations.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143212Z" creationid="olivier" creationdate="20250405T143212Z">
@@ -33788,6 +33820,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210313Z" creationid="olivier-tdf" creationdate="20250128T210313Z">
         <seg>Mesclar células pode levar a erros de cálculo nas fórmulas usadas na planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merging, subtracting, and intersection</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T203822Z" creationid="olivier-tdf" creationdate="20250430T203822Z">
+        <seg>Mesclar, subtrair e interseção</seg>
       </tuv>
     </tu>
     <tu>
@@ -42152,6 +42192,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the &lt;f0&gt;LibreOffice Draw Guide&lt;/f0&gt; for more information on arranging and aligning objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T203956Z" creationid="olivier-tdf" creationdate="20250430T203956Z">
+        <seg>Consulte o &lt;f0&gt;Guia do LibreOffice Draw&lt;/f0&gt; para obter mais informações sobre como organizar e alinhar objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T215409Z" creationid="timot" creationdate="20250111T201136Z">
@@ -42228,6 +42276,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T213853Z" creationid="olivier-tdf" creationdate="20250417T213853Z">
         <seg>Consulte o &lt;f3&gt;Guia do LibreOffice Draw&lt;/f3&gt; para obter uma descrição completa das formas simples disponíveis e como acessar as sub-barras de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the &lt;f3&gt;LibreOffice Draw Guide&lt;/f3&gt; for more information on how to use these functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T203911Z" creationid="olivier-tdf" creationdate="20250430T203911Z">
+        <seg>Consulte o &lt;f3&gt;Guia do LibreOffice Draw&lt;/f3&gt; para obter mais informações sobre como usar essas funções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51008,6 +51064,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The shape of the object depends on which function used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T203905Z" creationid="olivier-tdf" creationdate="20250430T203905Z">
+        <seg>A forma do objeto depende da função usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The sheet shown in Figure &lt;t0&gt;21&lt;/t0&gt;, has frozen rows and columns, which are outlined by heavy lines.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T164652Z" creationid="olivier" creationdate="20250121T164530Z">
@@ -51916,6 +51980,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T210141Z" creationid="olivier-tdf" creationdate="20250109T193857Z">
         <seg>Esses arquivos podem ser facilmente descompactados e lidos por qualquer editor de texto, e a sua estrutura é aberta e publicada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These functions are similar to combining objects, but allow the creation of a differently shaped object from the selected objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T203849Z" creationid="olivier-tdf" creationdate="20250430T203849Z">
+        <seg>Essas funções são semelhantes à combinação de objetos, mas permitem a criação de um objeto de formato diferente dos objetos selecionados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57428,6 +57500,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201355Z" creationid="olivier-tdf" creationdate="20250430T201302Z">
         <seg>Use o atalho de teclado &lt;f0&gt;Ctrl+Shift+G&lt;/f0&gt;&lt;bs1/&gt;&lt;be2/&gt; (macOS&lt;f3&gt;⌘+Shift+G&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+K&lt;/f0&gt; (macOS &lt;bs1/&gt;⌘&lt;be2/&gt;+&lt;f3&gt;Shift+K&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T203758Z" creationid="olivier-tdf" creationdate="20250430T203758Z">
+        <seg>Use o atalho de teclado &lt;f0&gt;Ctrl+Shift+K&lt;/f0&gt; (macOS &lt;bs1/&gt;⌘&lt;be2/&gt;+&lt;f3&gt;Shift+K&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
