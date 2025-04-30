@@ -16302,6 +16302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-click on the selected group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T202258Z" creationid="olivier-tdf" creationdate="20250430T202258Z">
+        <seg>Clique duas vezes no grupo selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-click on the sheet’s tab to open the Rename Sheet dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160442Z" creationid="olivier" creationdate="20250121T160442Z">
@@ -24644,6 +24652,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T201701Z" creationid="olivier-tdf" creationdate="20250430T201701Z">
         <seg>Acesse &lt;f0&gt;Forma &gt; Agrupar &gt; Entrar no grupo&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Shape &gt; Group &gt; Exit Group&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T202400Z" creationid="olivier-tdf" creationdate="20250430T202400Z">
+        <seg>Acione &lt;f0&gt;Forma &gt; Agrupar &gt; Sair do grupo&lt;/f0&gt; na barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40824,6 +40840,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click and select &lt;f0&gt;Exit Group&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T202410Z" creationid="olivier-tdf" creationdate="20250430T202410Z">
+        <seg>Clique com o botão direito do mouse e selecione &lt;f0&gt;Sair do grupo&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click and select &lt;f0&gt;Insert Field &gt; Date&lt;/f0&gt;, &lt;f1&gt;Sheet Name&lt;/f1&gt;, or &lt;f2&gt;Document Title&lt;/f2&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T205652Z" creationid="olivier" creationdate="20250123T205652Z">
@@ -40980,6 +41004,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230344Z" creationid="olivier-tdf" creationdate="20250122T230344Z">
         <seg>Clique com o botão direito do mouse na célula selecionada e escolha &lt;f0&gt;Formatar células&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click on the selected group and select &lt;f0&gt;Enter Group&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T202216Z" creationid="olivier-tdf" creationdate="20250430T202216Z">
+        <seg>Clique com o botão direito do mouse nos objetos selecionados e selecione &lt;f0&gt;Entrar no grupo&lt;/f0&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57312,6 +57344,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;F3.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T202251Z" creationid="olivier-tdf" creationdate="20250430T202251Z">
+        <seg>Utilize o atalho de teclado&lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Shift+F3&lt;/f0&gt; (macOS &lt;bs1/&gt;⌘&lt;be2/&gt;&lt;f3&gt;+F3)&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T202503Z" creationid="olivier-tdf" creationdate="20250430T202503Z">
+        <seg>Use o atalho de teclado &lt;f0&gt;Shift+F3&lt;/f0&gt; (macOS &lt;bs1/&gt;&lt;be2/&gt;&lt;f3&gt;⌘ + F3&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the keyboard shortcut &lt;f0&gt;Shift+F3&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T195420Z" creationid="olivier-tdf" creationdate="20250430T195420Z">
@@ -58980,6 +59028,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250417T214203Z" creationid="olivier-tdf" creationdate="20250417T214203Z">
         <seg>Ao desenhar formas simples ou selecionar uma forma para edição, a área de informações na &lt;f0&gt;barra de Status&lt;/f0&gt; muda para refletir a ação em curso, por exemplo, &lt;f1&gt;Linha criada&lt;/f1&gt;, &lt;f2&gt;Quadro de texto xxyy&lt;/f2&gt; selecionado e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When editing is finished on an individual object within a group, use one of the following methods to exit the group:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250430T202334Z" creationid="olivier-tdf" creationdate="20250430T202334Z">
+        <seg>Ao terminar de editar um objeto individual dentro de um grupo, use um dos seguintes métodos para sair do grupo:</seg>
       </tuv>
     </tu>
     <tu>
