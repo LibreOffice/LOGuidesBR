@@ -23632,6 +23632,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If an object is selected, the position numbers show X and Y coordinates of the object upper‑left corner and the object size number pair displays the size of the object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T134619Z" creationid="timotheonb" creationdate="20250502T134619Z">
+        <seg>Se um objeto for selecionado, os números de posição mostram as coordenadas X e Y do canto superior esquerdo do objeto e o par de números de tamanho do objeto exibe o tamanho do objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If any bookmarks have been defined in the document, a right-click on this field pops up a list of bookmarks; click on one to go to that location.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="timot" creationdate="20250111T200519Z">
@@ -24674,8 +24682,8 @@
       <tuv lang="en-US">
         <seg>If the presentation has not been saved before, the Save As dialog opens giving the opportunity to save the presentation.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250217T132916Z" creationid="olivier" creationdate="20250217T132916Z">
-        <seg>Se a apresentação não tiver sido salva antes, a caixa de diálogo Salvar como será aberta, dando a oportunidade de salvar a apresentação.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T134742Z" creationid="olivier" creationdate="20250217T132916Z">
+        <seg>Se a apresentação foi salva antes, a caixa de diálogo Salvar como será aberta, dando a oportunidade de salvar a apresentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26912,6 +26920,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Indicates if the presentation has a digital signature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T134801Z" creationid="timotheonb" creationdate="20250502T134801Z">
+        <seg>Indica se a apresentação possui assinatura digital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Indicates if there are any unsaved changes in the Impress presentation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T132856Z" creationid="olivier" creationdate="20250217T132856Z">
@@ -26920,10 +26936,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Indicates if there are any unsaved changes in the presentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T134702Z" creationid="timotheonb" creationdate="20250502T134702Z">
+        <seg>Indica se há alguma alteração não salva na apresentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Indicates the language used for any text in an Impress presentation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T133001Z" creationid="olivier" creationdate="20250217T133001Z">
         <seg>Indica o idioma usado para qualquer texto numa apresentação do Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Indicates the language used for any text on a presentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T134811Z" creationid="timotheonb" creationdate="20250502T134811Z">
+        <seg>Indica o idioma usado para qualquer texto em uma apresentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47076,6 +47108,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="rafael" changedate="20250220T001456Z" creationid="rafael" creationdate="20250220T001456Z">
         <seg>Essas macros podem ser editadas e aprimoradas após a gravação com o ambiente de desenvolvimento integrado do LibreOffice Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These numbers do not relate to the object itself, but to the selection outline, which is the smallest possible rectangle that can contain the visible part or parts of an object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T134652Z" creationid="timotheonb" creationdate="20250502T134652Z">
+        <seg>Esses números não estão relacionados o objeto em si, mas com o contorno de seleção, que é o menor retângulo possível que pode conter a parte ou partes visíveis de um objeto.</seg>
       </tuv>
     </tu>
     <tu>
