@@ -2910,6 +2910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Rulers showing object size&lt;/s0&gt;&lt;s1&gt;Rulers showing object size&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131119Z" creationid="timotheonb" creationdate="20250502T131119Z">
+        <seg>&lt;s0&gt;Réguas mostrando o tamanho do objeto&lt;/s0&gt;&lt;s1&gt; Réguas mostrando o tamanho do objeto&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Safe Mode dialog&lt;/s0&gt;&lt;s1&gt;Safe Mode dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233945Z" creationid="olivier-tdf" creationdate="20250224T233945Z">
@@ -17784,6 +17792,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Rulers showing object size</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131123Z" creationid="timotheonb" creationdate="20250502T131123Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Réguas mostrando o tamanho do objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Select Function drop-down</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212226Z" creationid="olivier-tdf" creationdate="20250116T212226Z">
@@ -24612,6 +24628,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T130209Z" creationid="timot" creationdate="20250409T130209Z">
         <seg>Se o idioma necessário não estiver disponível no submenu, clique em &lt;f4&gt;Mais&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the rulers are not visible, go to &lt;f0&gt;View &gt; Rulers&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131021Z" creationid="timotheonb" creationdate="20250502T131021Z">
+        <seg>Se as réguas não estiverem visíveis, na barra de menus, abra &lt;f0&gt;Exibir&gt; Réguas&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37160,10 +37184,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rulers are also used to manage object handles and guide lines when positioning objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131110Z" creationid="timotheonb" creationdate="20250502T131110Z">
+        <seg>As réguas também são usadas para gerenciar alças de objetos e linhas de guia ao posicionar objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rulers are positioned on the upper and left-hand sides of the Workspace.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T130954Z" creationid="timotheonb" creationdate="20250502T130954Z">
         <seg>As réguas são posicionadas nos lados superior e esquerdo da Área de Trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rulers showing object size</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131127Z" creationid="timotheonb" creationdate="20250502T131127Z">
+        <seg>Réguas mostrando o tamanho do objeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -45808,6 +45848,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rulers show the size of a selected object on the slide using double lines (highlighted in Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131034Z" creationid="timotheonb" creationdate="20250502T131034Z">
+        <seg>As réguas mostram o tamanho de um objeto selecionado no slide usando linhas duplas (destacadas na Figura &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The scanning software must be an application that LibreOffice recognizes and is compatible to scan and insert media into a document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T121620Z" creationid="tulio" creationdate="20250411T121620Z">
@@ -48580,6 +48628,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152133Z" creationid="olivier" creationdate="20250318T152133Z">
         <seg>Para alterar o local da cópia de backup, acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Caminhos&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; LibreOffice &gt; Caminhos&lt;/f1&gt;) e, em seguida, insira um novo caminho para o arquivo de backup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change the measurement units of the rulers, right-click on a ruler and select the measurement unit from the drop-down list, as shown in Figure &lt;t0&gt;4&lt;/t0&gt; for the horizontal ruler.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131236Z" creationid="timotheonb" creationdate="20250502T131236Z">
+        <seg>Para alterar as unidades de medida das réguas, clique com o botão direito do mouse em cima de uma régua e selecione a unidade de medida na lista suspensa, conforme mostrado na Figura &lt;t0&gt;4&lt;/t0&gt; para a régua horizontal.</seg>
       </tuv>
     </tu>
     <tu>
