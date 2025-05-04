@@ -4678,6 +4678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134127Z" creationid="timotheonb" creationdate="20250504T134127Z">
+        <seg>Ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Activate the context menu by right-clicking on the template to be exported then select &lt;f0&gt;Export&lt;/f0&gt; from the menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143059Z" creationid="olivier" creationdate="20250405T143059Z">
@@ -5026,6 +5034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194804Z" creationid="olivier" creationdate="20250325T194804Z">
         <seg>Além disso, os marcadores para objetos nomeados são definidos por seus nomes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adds a new slide after the selected slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134311Z" creationid="timotheonb" creationdate="20250504T134311Z">
+        <seg>Adiciona um novo slide após o slide selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5542,10 +5558,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allows changes to the layout of the selected slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134502Z" creationid="timotheonb" creationdate="20250504T134502Z">
+        <seg>Permite alterações no layout do slide selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allows custom information fields to be added to a document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194831Z" creationid="olivier-tdf" creationdate="20250328T194831Z">
         <seg>Permite que campos de informações personalizados sejam adicionados ao documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allows moving or repositioning of the slide in the presentation order.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134512Z" creationid="timotheonb" creationdate="20250504T134512Z">
+        <seg>Permite mover ou reposicionar o slide na ordem de apresentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6474,6 +6506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T214119Z" creationid="timot" creationdate="20250113T103956Z">
         <seg>Qualquer seleção anterior fica desmarcada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any slides that are hidden are not shown in the presentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134446Z" creationid="timotheonb" creationdate="20250504T134436Z">
+        <seg>Todos os slides que estão ocultos não são visíveis na apresentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7538,6 +7578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125827Z" creationid="olivier-tdf" creationdate="20250114T125827Z">
         <seg>Normalmente, os comandos do Calc são agrupados em menus e barras de ferramentas, conforme descrito neste capítulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, Impress opens with the Select a Template dialog (Figure &lt;t0&gt;1&lt;/t0&gt; on page &lt;t1&gt;3&lt;/t1&gt;) displayed allowing the selection of a template for a new presentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134616Z" creationid="timotheonb" creationdate="20250504T134616Z">
+        <seg>Por padrão, o Impress é aberto com a caixa de diálogo Selecione um modelo (Figura &lt;t0&gt;1&lt;/t0&gt; na página &lt;t1&gt;3&lt;/t1&gt;), permitindo a seleção de um modelo para uma nova apresentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11670,6 +11718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134121Z" creationid="timotheonb" creationdate="20250504T134121Z">
+        <seg>Comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Commands for checking and customizing the spreadsheet, including options for spell checking; defining AutoCorrect preferences; applying Goal Seek; using the Solver to solve mathematical equations by goal-seeking methods; using the Detective to investigate dependencies between cells; creating scenarios; sharing and protecting; and using macros.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211215Z" creationid="olivier-tdf" creationdate="20250116T211215Z">
@@ -12214,6 +12270,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copies the selected slide to the clipboard without removing it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134220Z" creationid="timotheonb" creationdate="20250504T134220Z">
+        <seg>Copia o slide selecionado para a área de transferência sem removê-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134208Z" creationid="timotheonb" creationdate="20250504T134208Z">
+        <seg>Copiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copy and paste</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T102347Z" creationid="tulio" creationdate="20250411T102347Z">
@@ -12338,6 +12410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193127Z" creationid="olivier-tdf" creationdate="20250328T193127Z">
         <seg>Criado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creates a duplicate of the selected slide and places the new slide immediately after the selected slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134411Z" creationid="timotheonb" creationdate="20250504T134411Z">
+        <seg>Cria uma duplicata (cópia) do slide selecionado e coloca o novo slide imediatamente após o slide selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12562,6 +12642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224625Z" creationid="olivier" creationdate="20250307T224625Z">
         <seg>Criar barras de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating presentations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134524Z" creationid="timotheonb" creationdate="20250504T134524Z">
+        <seg>Criar apresentações</seg>
       </tuv>
     </tu>
     <tu>
@@ -13262,6 +13350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134201Z" creationid="timotheonb" creationdate="20250504T134201Z">
+        <seg>Cortar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cuts selected text or objects from a document and places them in the clipboard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135419Z" creationid="olivier-tdf" creationdate="20250303T135419Z">
@@ -13702,6 +13798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete Slide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134451Z" creationid="timotheonb" creationdate="20250504T134451Z">
+        <seg>Excluir slide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete a slide from a presentation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250415T173445Z" creationid="timot" creationdate="20250415T173445Z">
@@ -13730,6 +13834,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T123011Z" creationid="olivier" creationdate="20250314T123011Z">
         <seg>Exclui o esquema de cores exibido na caixa Esquema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deletes the selected slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134454Z" creationid="timotheonb" creationdate="20250504T134454Z">
+        <seg>Exclui o slide selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15026,6 +15138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214713Z" creationid="olivier-tdf" creationdate="20250109T214713Z">
         <seg>Lista suspensa na qual selecionar um item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Duplicate Slide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134341Z" creationid="timotheonb" creationdate="20250504T134341Z">
+        <seg>Duplicar slide</seg>
       </tuv>
     </tu>
     <tu>
@@ -22912,6 +23032,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hide Slide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134427Z" creationid="timotheonb" creationdate="20250504T134427Z">
+        <seg>Ocultar Slide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide a slide so that it will not show in a presentation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250415T173438Z" creationid="timot" creationdate="20250415T173438Z">
@@ -27656,6 +27784,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inserts a slide from the clipboard after the selected slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134258Z" creationid="timotheonb" creationdate="20250504T134258Z">
+        <seg>Insere um slide da área de transferência após o slide selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inserts an equals (=) sign into the selected cell and the &lt;f0&gt;Input line&lt;/f0&gt;, allowing a formula to be entered.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212300Z" creationid="olivier-tdf" creationdate="20250116T212300Z">
@@ -31192,6 +31328,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Move</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134505Z" creationid="timotheonb" creationdate="20250504T134505Z">
+        <seg>Mover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Move a paragraph in a slide up or down by using the movement arrows on the Outline toolbar (Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T202319Z" creationid="timotheonb" creationdate="20250502T202319Z">
@@ -31980,6 +32124,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T215533Z" creationid="olivier" creationdate="20250307T215533Z">
         <seg>Caixa de diálogo Novo menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Slide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134305Z" creationid="timotheonb" creationdate="20250504T134305Z">
+        <seg>Novo slide</seg>
       </tuv>
     </tu>
     <tu>
@@ -35200,6 +35352,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134227Z" creationid="timotheonb" creationdate="20250504T134227Z">
+        <seg>Colar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paste Special dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011002Z" creationid="olivier" creationdate="20250124T011002Z">
@@ -36824,6 +36984,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Removes the selected slide and saves it to the clipboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134206Z" creationid="timotheonb" creationdate="20250504T134206Z">
+        <seg>Remove o slide selecionado e o salva na área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removing a print range</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194645Z" creationid="olivier-tdf" creationdate="20250209T194645Z">
@@ -36888,10 +37056,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rename Slide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134418Z" creationid="timotheonb" creationdate="20250504T134418Z">
+        <seg>Renomear slide...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rename a slide.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250415T173501Z" creationid="timot" creationdate="20250415T173501Z">
         <seg>Renomear um slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Renames the selected slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134423Z" creationid="timotheonb" creationdate="20250504T134423Z">
+        <seg>Renomeia o slide selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43228,6 +43412,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T145232Z" creationid="tulio" creationdate="20250119T145232Z">
         <seg>Tabela &lt;seq0&gt;2&lt;/seq0&gt;: &lt;f1&gt;Entradas&lt;/f1&gt; da barra de menus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;: Slide Sorter commands</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134114Z" creationid="timotheonb" creationdate="20250504T134114Z">
+        <seg>Tabela &lt;seq0&gt;2&lt;/seq0&gt;: Comandos do Organizador de slides</seg>
       </tuv>
     </tu>
     <tu>
@@ -49664,6 +49856,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To create a new presentation without a template, click on &lt;f2&gt;Cancel&lt;/f2&gt; in the Select a Template dialog and a blank slide opens in the Workspace and Slides pane.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T144715Z" creationid="timotheonb" creationdate="20250504T144715Z">
+        <seg>Para criar uma nova apresentação sem um modelo, clique em &lt;f2&gt;Fechar&lt;/f2&gt; na caixa de diálogo Selecione um modelo e um slide em branco será aberto no painel Espaço de trabalho e Slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To create a pivot table, choose &lt;f0&gt;Data &gt; Pivot Table &gt; Insert or Edit&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Insert or Edit Pivot Table&lt;/f1&gt; icon on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T192326Z" creationid="olivier-tdf" creationdate="20250209T192326Z">
@@ -50548,6 +50748,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215158Z" creationid="olivier-tdf" creationdate="20250109T215158Z">
         <seg>Para fazer uma doação, acesse a seguinte página: &lt;a0&gt;https://www.libreoffice.org/donate/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To make changes, right-click on a slide in &lt;f1&gt;Slide Sorter&lt;/f1&gt; view and choose one of the following commands in Table &lt;t2&gt;2&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134103Z" creationid="timotheonb" creationdate="20250504T134103Z">
+        <seg>Para fazer alterações, clique com o botão direito do mouse em um slide na visualização do &lt;f1&gt;Organizador de slides&lt;/f1&gt; e escolha um dos seguintes comandos na Tabela &lt;t2&gt;2&lt;/t2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
