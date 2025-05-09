@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;bs0/&gt;This is normally a clenched hand, but depends on the computer setup.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T145722Z" creationid="timot" creationdate="20250509T145722Z">
+        <seg>&lt;bs0/&gt;Normalmente, a mão é fechada, mas depende da configuração do computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;bs1/&gt;Open Source, Open Standards, OpenDocument</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T232215Z" creationid="olivier" creationdate="20250301T232215Z">
@@ -5026,6 +5034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104430Z" creationid="timot" creationdate="20250113T104036Z">
         <seg>Seleção por adição (&lt;f0&gt;Shift+F8)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T150011Z" creationid="timot" creationdate="20250509T150011Z">
+        <seg>Adicionar texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -9894,10 +9910,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click and drag the contents box to its new position on the slide and release.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T145730Z" creationid="timot" creationdate="20250509T145730Z">
+        <seg>Clique e arraste a caixa de conteúdo para sua nova posição no slide e solte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click and drag the selected image, or graphic, to the desired position.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T140834Z" creationid="tulio" creationdate="20250411T140834Z">
         <seg>Clique e arraste a figura ou gráfico selecionado para a posição desejada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click and drag the selection handle on the frame to resize the contents box and release.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T145746Z" creationid="timot" creationdate="20250509T145746Z">
+        <seg>Clique e arraste a alça de seleção no quadro para redimensionar a caixa de conteúdo e solte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10170,6 +10202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250509T103221Z" creationid="timot" creationdate="20250509T103221Z">
         <seg>Clique em &lt;f0&gt;Clique para adicionar o texto&lt;/f0&gt; e digite o conteúdo na caixa de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Click to add Text&lt;/f0&gt; in the contents box and type the text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T150148Z" creationid="timot" creationdate="20250509T150148Z">
+        <seg>Clique em &lt;f0&gt;Clique para adicionar texto&lt;/f0&gt; na caixa de conteúdo e digite o texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11130,6 +11170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224417Z" creationid="olivier" creationdate="20250307T224417Z">
         <seg>Clique na seta para a esquerda para mover a ferramenta selecionada para a lista de &lt;f0&gt;Comandos disponíveis&lt;/f0&gt; e remova a ferramenta da barra de ferramentas selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the outer frame of the contents box so that the selection handles are displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T145706Z" creationid="timot" creationdate="20250509T145706Z">
+        <seg>Clique no quadro externo da caixa de conteúdo para que as alças de seleção sejam exibidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12150,6 +12198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contents box</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T150044Z" creationid="timot" creationdate="20250509T150044Z">
+        <seg>Caixa de conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contents deleted or modified can be recovered.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T213340Z" creationid="timot" creationdate="20250409T213340Z">
@@ -12498,6 +12554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132406Z" creationid="tulio" creationdate="20250411T132406Z">
         <seg>As alças de canto redimensionam simultaneamente a largura e a altura de uma figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corner selection handles change width and height of a contents box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T145823Z" creationid="timot" creationdate="20250509T145823Z">
+        <seg>As alças de seleção de canto mudam a largura e a altura de uma caixa de conteúdo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20952,6 +21016,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see “&lt;bf0&gt;Adding and formatting text&lt;/bf0&gt;” on page &lt;bf1&gt;19&lt;/bf1&gt; and the &lt;f2&gt;Impress Guide.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T150041Z" creationid="timot" creationdate="20250509T150041Z">
+        <seg>Para mais informações, consulte “&lt;bf0&gt;Adicionar e formatar texto&lt;/bf0&gt;” na página&lt;bf1&gt;19&lt;/bf1&gt; e o&lt;f2&gt;Guia do Impress.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, see “&lt;bf0&gt;Adding extensions&lt;/bf0&gt;” on page &lt;bf1&gt;13&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135200Z" creationid="olivier" creationdate="20250305T135200Z">
@@ -25052,6 +25124,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T234059Z" creationid="olivier-tdf" creationdate="20250224T234059Z">
         <seg>Se os problemas não forem resolvidos usando o Modo de segurança, selecionar &lt;f0&gt;Avançado&lt;/f0&gt; fornece instruções sobre como receber ajuda adicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If required, change the outline level of each paragraph as well as its position within the contents box by using the arrow buttons on the Outline toolbar and Workspace &lt;f1&gt;Outline&lt;/f1&gt; view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T154554Z" creationid="timot" creationdate="20250509T154554Z">
+        <seg>Se necessário, altere o nível de estrutura de tópico de cada parágrafo, bem como a sua posição na caixa de conteúdo, usando os botões de seta na barra de ferramentas Tópicos e exibição &lt;f1&gt;Tópicos&lt;/f1&gt; no Espaço de trabalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29340,6 +29420,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002213Z" creationid="olivier" creationdate="20250303T002213Z">
         <seg>Seta para a esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Left and right selection handles change the width of a contents box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T145812Z" creationid="timot" creationdate="20250509T145812Z">
+        <seg>As alças de seleção esquerda e direita mudam a largura de uma caixa de conteúdo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35368,6 +35456,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Outline styles are automatically applied to the text as it is inserted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T151007Z" creationid="timot" creationdate="20250509T151007Z">
+        <seg>Os estilos de tópicos são aplicados automaticamente ao texto conforme é inserido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Outline toolbar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T202415Z" creationid="timotheonb" creationdate="20250502T202415Z">
@@ -36072,6 +36168,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Place the cursor on the frame so that it changes shape.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T145716Z" creationid="timot" creationdate="20250509T145716Z">
+        <seg>Coloque o cursor sobre o quadro para que mude de forma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Place the cursor where you want the table of contents to appear.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T150206Z" creationid="timot" creationdate="20250409T150138Z">
@@ -36485,6 +36589,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011653Z" creationid="olivier" creationdate="20250124T011653Z">
         <seg>Pressione a tecla &lt;f0&gt;Backspace&lt;/f0&gt; ou clique com o botão direito do mouse na seleção de célula e escolha &lt;f1&gt;Limpar conteúdo&lt;/f1&gt; no menu de contexto ou selecione &lt;f2&gt;Planilha &gt; Limpar células &lt;/f2&gt;na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the &lt;f0&gt;Delete&lt;/f0&gt; or &lt;f1&gt;Backspace&lt;/f1&gt; key to remove the contents box or element.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T150006Z" creationid="timot" creationdate="20250509T150006Z">
+        <seg>Tecle &lt;f0&gt;delete&lt;/f0&gt; ou&lt;f1&gt;backspace&lt;/f1&gt; para remover a caixa de conteúdo ou elemento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37521,6 +37633,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Removing elements</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T145831Z" creationid="timot" creationdate="20250509T145831Z">
+        <seg>Remover elementos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removing extensions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084554Z" creationid="olivier" creationdate="20250308T084554Z">
@@ -37845,6 +37965,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T132217Z" creationid="tulio" creationdate="20250411T132217Z">
         <seg>Redimensionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resizing contents box</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T145739Z" creationid="timot" creationdate="20250509T145739Z">
+        <seg>Redimensionar a caixa de conteúdo</seg>
       </tuv>
     </tu>
     <tu>
@@ -39789,6 +39917,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T200725Z" creationid="olivier-tdf" creationdate="20250308T200725Z">
         <seg>Selecione um intervalo de cores na barra colorida e, em seguida, usando o cursor, mova o alvo na caixa colorida até que o cursor esteja na cor desejada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a contents box, or an element to highlight it and the selection handles are displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T145840Z" creationid="timot" creationdate="20250509T145840Z">
+        <seg>Selecione uma caixa de conteúdo ou um elemento para destacá-lo e as alças de seleção serão exibidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44417,6 +44553,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text box</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T154556Z" creationid="timot" creationdate="20250509T154556Z">
+        <seg>Caixa de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text documents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T203231Z" creationid="olivier" creationdate="20250324T203231Z">
@@ -48229,6 +48373,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143227Z" creationid="olivier" creationdate="20250405T143227Z">
         <seg>Existem dois tipos de hiperlinks: absolutos e relativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are two ways of adding text to a slide — contents box or text box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T150022Z" creationid="timot" creationdate="20250509T150022Z">
+        <seg>Há duas maneiras de adicionar texto a um slide — caixa de conteúdo ou caixa de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52621,6 +52773,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T204803Z" creationid="olivier" creationdate="20250307T230816Z">
         <seg>As ferramentas numa barra de ferramentas são indicadas por ícones e podem ser alteradas da seguinte forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Top and bottom selection handles change the height of a contents box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timot" changedate="20250509T145800Z" creationid="timot" creationdate="20250509T145800Z">
+        <seg>As alças de seleção superior e inferior mudam a altura de uma caixa de conteúdo.</seg>
       </tuv>
     </tu>
     <tu>
