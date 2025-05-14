@@ -7198,6 +7198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AutoLayout text boxes automatically adjust font size of any text inserted into the box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T171056Z" creationid="timotheonb" creationdate="20250514T171056Z">
+        <seg>As caixas de texto Autoleiaute ajustam automaticamente o tamanho da fonte de qualquer texto inserido na caixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AutoRecovery saves information required to restore all open documents if LibreOffice crashes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T151512Z" creationid="olivier" creationdate="20250318T151512Z">
@@ -13064,8 +13072,8 @@
       <tuv lang="en-US">
         <seg>Creating vertical text boxes is similar to creating horizontal text boxes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T133811Z" creationid="timotheonb" creationdate="20250514T133811Z">
-        <seg>Criar caixas de texto verticais é semelhante à criação de caixas de texto horizontais.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T170800Z" creationid="timotheonb" creationdate="20250514T133811Z">
+        <seg>***Criar caixas de texto verticais é semelhante à criação de caixas de texto horizontais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37553,6 +37561,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quick font resizing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T170822Z" creationid="timotheonb" creationdate="20250514T170822Z">
+        <seg>Redimensionamento rápido de fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quick printing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183516Z" creationid="olivier" creationdate="20250222T183516Z">
@@ -39837,6 +39853,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T122822Z" creationid="tulio" creationdate="20250411T122822Z">
         <seg>Consulte a "&lt;bf1&gt;Galeria do LibreOffice&lt;/bf1&gt;" &lt;bf2&gt;abaixo&lt;/bf2&gt;&lt;s3/&gt; para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “&lt;bf1&gt;Text boxes&lt;/bf1&gt;” on page &lt;bf2&gt;21&lt;/bf2&gt; on how to create a text box for single or multiple lines of text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T170816Z" creationid="timotheonb" creationdate="20250514T170816Z">
+        <seg>Consulte "&lt;bf1&gt;Caixas de texto&lt;/bf1&gt;" na página &lt;bf2&gt;21&lt;/bf2&gt; sobre como criar uma caixa de texto para uma ou várias linhas de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46249,6 +46273,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The amount by which the font size changes depends on the standard sizes available for the font in use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T171017Z" creationid="timotheonb" creationdate="20250514T171017Z">
+        <seg>A quantidade pela qual o tamanho da fonte muda depende dos tamanhos padrão disponíveis para a fonte em uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The anchor point of the comment is connected by a dotted line to a box on the right-hand side of the page where you can type the text of the comment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T114137Z" creationid="timot" creationdate="20250404T111447Z">
@@ -52525,6 +52557,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T105726Z" creationid="timot" creationdate="20250215T105726Z">
         <seg>Para alterar rapidamente a caixa do texto, selecione-o, escolha &lt;f0&gt;Formatar &gt; Texto&lt;/f0&gt; na Barra de menu e, em seguida, escolha um dos itens no submenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To quickly increase or decrease the font size of selected text by using the tools &lt;f0&gt;Increase Font Size&lt;/f0&gt; (&lt;f1&gt;Ctrl+]&lt;/f1&gt;) &lt;bs2/&gt;&lt;bs3/&gt;(macOS&lt;be4/&gt; &lt;bs5/&gt;⌘+&lt;f6&gt;]&lt;/f6&gt;&lt;be7/&gt;&lt;f8&gt;)&lt;/f8&gt;&lt;be9/&gt; and &lt;f10&gt;Decrease Font Size&lt;/f10&gt; (&lt;f11&gt;Ctrl+[&lt;/f11&gt;) (macOS ⌘+&lt;f12&gt;[)&lt;/f12&gt; on the Text &lt;t13/&gt;Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T171008Z" creationid="timotheonb" creationdate="20250514T171008Z">
+        <seg>Para aumentar ou diminuir rapidamente o tamanho da fonte do texto selecionado, use as ferramentas &lt;f0&gt;Aumentar tamanho da fonte&lt;/f0&gt; (&lt;f1&gt;Ctrl+]&lt;/f1&gt;) &lt;bs2/&gt;&lt;bs3/&gt;(macOS&lt;be4/&gt; &lt;bs5/&gt;⌘+&lt;f6&gt;]&lt;/f6&gt;&lt;be7/&gt;&lt;f8&gt;)&lt;/f8&gt;&lt;be9/&gt; e &lt;f10&gt;Diminuir tamanho da fonte&lt;/f10&gt; (&lt;f11&gt;Ctrl+[&lt;/f11&gt;) (macOS ⌘+&lt;f12&gt;[)&lt;/f12&gt; na barra de ferramentas &lt;t13/&gt;Formatação de texto.</seg>
       </tuv>
     </tu>
     <tu>
