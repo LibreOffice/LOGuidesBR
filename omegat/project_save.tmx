@@ -2592,8 +2592,16 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;More Bullets dialog&lt;/s0&gt;&lt;s1&gt;More Bullets dialog&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250524T112909Z" creationid="timotheonb" creationdate="20250524T112909Z">
-        <seg>Diálogo &lt;s0&gt;Mais Marcadores Diálogo&lt;/s0&gt;&lt;s1&gt;Mais Marcadores&lt;/s1&gt;</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T131952Z" creationid="timotheonb" creationdate="20250524T112909Z">
+        <seg>&lt;s0&gt;Diálogo Personalizar &lt;/s0&gt;&lt;s1&gt;Diálogo Personalizar&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;More Numbering dialog&lt;/s0&gt;&lt;s1&gt;More Numbering dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132031Z" creationid="timotheonb" creationdate="20250525T132031Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Personalizar&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Personalizar&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6120,8 +6128,8 @@
       <tuv lang="en-US">
         <seg>Alternatively, click on the border of the text box so that the resizing handles are displayed to select the entire list.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250524T111116Z" creationid="timotheonb" creationdate="20250524T111116Z">
-        <seg>Como alternativa, clique na borda da caixa de texto para que as alças de redimensionamento sejam exibidas para selecionar a lista inteira.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132154Z" creationid="timotheonb" creationdate="20250524T111116Z">
+        <seg>Alternativamente, clique na borda da caixa de texto para que as alças de redimensionamento sejam exibidas para selecionar a lista inteira.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6746,6 +6754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T103919Z" creationid="timot" creationdate="20250222T103919Z">
         <seg>Qualquer tabulação definido pelo usuário substituirá as tabulações padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any text inside a text box, or graphic object, automatically flows into column format when the changes are saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132601Z" creationid="timotheonb" creationdate="20250525T132601Z">
+        <seg>Qualquer texto dentro de uma caixa de texto ou objeto gráfico flui automaticamente para o formato de coluna quando as alterações são salvas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8742,6 +8758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changes made to an Outline style apply to all the slides that use that style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132426Z" creationid="timotheonb" creationdate="20250525T132426Z">
+        <seg>As alterações feitas em um estilo de estrutura de tópicos se aplicam a todos os slides que usam esse estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changes the printer settings of the computer operating system for the current document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184203Z" creationid="olivier" creationdate="20250222T184203Z">
@@ -8786,6 +8810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191257Z" creationid="olivier-tdf" creationdate="20250328T191257Z">
         <seg>Alterar uma descrição existente invalida uma assinatura digital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changing bullet or number format</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132111Z" creationid="timotheonb" creationdate="20250525T132111Z">
+        <seg>Alterar o formato de marcador ou número</seg>
       </tuv>
     </tu>
     <tu>
@@ -11662,6 +11694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the triangle ▼ to the right of the &lt;f0&gt;Toggle Unordered List&lt;/f0&gt;, or &lt;bs1/&gt;&lt;f2&gt;Toggle Ordered List&lt;/f2&gt;&lt;be3/&gt;, &lt;bs4/&gt;on the Text Formatting toolbar, or the &lt;f5&gt;Lists&lt;/f5&gt; panel on the Properties deck in the Sidebar&lt;be6/&gt; to open a drop-down dialog displaying the format options available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132310Z" creationid="timotheonb" creationdate="20250525T132310Z">
+        <seg>Clique no triângulo ▼ à direita da &lt;f0&gt;Alternar lista não ordenada&lt;/f0&gt;, ou &lt;bs1/&gt;&lt;f2&gt;Alternar lista ordenada&lt;/f2&gt;&lt;be3/&gt;, &lt;bs4/&gt;na barra de ferramentas Formatação de texto, ou no painel &lt;f5&gt;Listas&lt;/f5&gt; no deque Propriedades na Barra lateral&lt;be6/&gt; para abrir uma caixa de diálogo suspensa exibindo as opções de formato disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the triangle ▼ to the right of the &lt;f0&gt;Toggle Unordered List&lt;/f0&gt;, or &lt;bs1/&gt;&lt;f2&gt;Toggle Ordered List&lt;/f2&gt;&lt;be3/&gt;, &lt;bs4/&gt;on the Text Formatting toolbar, or the &lt;f5&gt;Lists&lt;/f5&gt; panel on the Properties deck in the Sidebar&lt;be6/&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250524T111344Z" creationid="timotheonb" creationdate="20250524T111344Z">
@@ -12274,6 +12314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013201Z" creationid="olivier" creationdate="20250121T164551Z">
         <seg>As colunas A até F e as linhas 1 a 3 estão fixadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Columns in text boxes and graphic objects are created as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T133352Z" creationid="timotheonb" creationdate="20250525T133352Z">
+        <seg>As colunas em caixas de texto e objetos gráficos são criadas da seguinte forma:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18456,6 +18504,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: More Bullets dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T131959Z" creationid="timotheonb" creationdate="20250525T131959Z">
+        <seg>Figura &lt;seq0&gt;20&lt;/seq0&gt;: Caixa de diálogo Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Move/Copy Sheet dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155654Z" creationid="olivier" creationdate="20250121T155654Z">
@@ -18476,6 +18532,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T175832Z" creationid="timot" creationdate="20250122T175832Z">
         <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: Linhas e colunas congeladas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: More Numbering dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132054Z" creationid="timotheonb" creationdate="20250525T132054Z">
+        <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: Caixa de diálogo Personalizar</seg>
       </tuv>
     </tu>
     <tu>
@@ -20792,6 +20856,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For graphic objects — double-click on a graphic object to select it so that the selection handles are displayed and the cursor flashes in the center of the object indicating that the object is in text edit mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T133435Z" creationid="timotheonb" creationdate="20250525T133435Z">
+        <seg>Para objetos gráficos — clique duas vezes em um objeto gráfico para selecioná-lo para que as alças de seleção sejam exibidas e o cursor pisque no centro do objeto, indicando que o objeto está no modo de edição de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For graphics, JPEG, or SVG formats are saved as HTML and all other graphic formats are saved as PNG.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203005Z" creationid="olivier" creationdate="20250327T203005Z">
@@ -21660,6 +21732,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T233413Z" creationid="olivier" creationdate="20250302T233413Z">
         <seg>Para atalhos específicos para Writer, Calc, Impress, Draw, Math ou Base, consulte o guia do usuário relevante para cada módulo ou pesquise na Ajuda do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For text boxes — click the border of a text box to select it so that the selection handles are displayed indicating that the text box is in edit mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T133402Z" creationid="timotheonb" creationdate="20250525T133402Z">
+        <seg>Para caixas de texto — clique na borda de uma caixa de texto para selecioná-la para que as alças de seleção sejam exibidas, indicando que a caixa de texto está no modo de edição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24448,6 +24528,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, columns cannot be used on separate parts of text inside a text box or object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132444Z" creationid="timotheonb" creationdate="20250525T132444Z">
+        <seg>No entanto, as colunas não podem ser usadas em partes separadas do texto dentro de uma caixa de texto ou objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, file size is usually not a problem on modern computers, and LibreOffice can handle large files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T113359Z" creationid="tulio" creationdate="20250411T113359Z">
@@ -24972,6 +25060,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T213511Z" creationid="olivier" creationdate="20250324T213511Z">
         <seg>Para exportar rapidamente para o formato PDF, o LibreOffice não poderá selecionar várias opções de arquivo, como formato de arquivo, intervalo de páginas e compactação de imagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a list was created in an AutoLayout text box, then the Outline styles can be modified to change the list type and/or format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132403Z" creationid="timotheonb" creationdate="20250525T132403Z">
+        <seg>Se uma lista foi criada em uma caixa de texto Autoleiaute, os estilos de estrutura de tópicos podem ser modificados para alterar o tipo e/ou formato da lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32552,6 +32648,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More Bullets dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132005Z" creationid="timotheonb" creationdate="20250525T132005Z">
+        <seg>Caixa de diálogo Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More Numbering dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132100Z" creationid="timotheonb" creationdate="20250525T132100Z">
+        <seg>Caixa de diálogo Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More extensions can be downloaded free of charge from the official extension repository located at &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T082502Z" creationid="olivier" creationdate="20250308T082502Z">
@@ -35340,6 +35452,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195054Z" creationid="olivier-tdf" creationdate="20250403T195054Z">
         <seg>Abra a lista de estilos na categoria adequada clicando no ícone da categoria na parte superior do deque de estilos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the options for text columns using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T133440Z" creationid="timotheonb" creationdate="20250525T133440Z">
+        <seg>Abra as opções para colunas de texto usando um dos seguintes métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39153,6 +39273,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click in the text box or graphic object and select &lt;f0&gt;Text Attributes&lt;/f0&gt; in the context menu to open the Text dialog, then click on the &lt;f1&gt;Text Columns&lt;/f1&gt; tab to open the &lt;f2&gt;Text Columns&lt;/f2&gt; page (Figure &lt;t3&gt;22&lt;/t3&gt;),</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T133632Z" creationid="timotheonb" creationdate="20250525T133632Z">
+        <seg>Clique com o botão direito do mouse na caixa de texto ou objeto gráfico e selecione &lt;f0&gt;Atributos de texto&lt;/f0&gt; no menu de contexto para abrir a caixa de diálogo Texto e clique na guia &lt;f1&gt;Colunas de texto&lt;/f1&gt; para abrir a página &lt;f2&gt;Colunas de texto &lt;/f2&gt;(Figura &lt;t3&gt;22&lt;/t3&gt;),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click on a column or row heading and deselect &lt;f0&gt;Split Window&lt;/f0&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier-tdf" creationdate="20250122T225608Z">
@@ -41019,8 +41147,8 @@
       <tuv lang="en-US">
         <seg>Select a point in a list, or select the entire list in the text box.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250524T111059Z" creationid="timotheonb" creationdate="20250524T111059Z">
-        <seg>Selecione um ponto em uma lista ou selecione a lista inteira na caixa de texto.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132134Z" creationid="timotheonb" creationdate="20250524T111059Z">
+        <seg>Selecione um ponto numa lista ou selecione a lista inteira na caixa de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45713,6 +45841,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text columns</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132457Z" creationid="timotheonb" creationdate="20250525T132457Z">
+        <seg>Colunas de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text documents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T203231Z" creationid="olivier" creationdate="20250324T203231Z">
@@ -45733,6 +45869,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T221704Z" creationid="timot" creationdate="20250409T221704Z">
         <seg>O texto delimitado por um marcador pode ser editado na caixa de diálogo Marcador, bem como no próprio documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text in a presentation can be formatted into columns inside text boxes and objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132434Z" creationid="timotheonb" creationdate="20250525T132434Z">
+        <seg>O texto em uma apresentação pode ser formatado em colunas dentro de caixas de texto e objetos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46157,6 +46301,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212333Z" creationid="olivier" creationdate="20250123T212333Z">
         <seg>A ferramenta Autoentrada no Calc completa automaticamente as entradas, com base em outras entradas na mesma coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Bullets and Numbering dialog can also be opened by going to &lt;f0&gt;Format &gt; Bullets and Numbering&lt;/f0&gt; on the Menu bar, or by right-clicking on a list point and selecting &lt;f1&gt;Bullets and Numbering&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132344Z" creationid="timotheonb" creationdate="20250525T132344Z">
+        <seg>A caixa de diálogo Marcadores e numeração também pode ser aberta acessando &lt;f0&gt;Formatar &gt; Marcadores e numeração&lt;/f0&gt; na Barra de menus ou clicando com o botão direito do mouse em um ponto da lista e selecionando &lt;f1&gt;Marcadores e numeração&lt;/f1&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47053,6 +47205,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194751Z" creationid="olivier" creationdate="20250325T194751Z">
         <seg>Os marcadores (alvos de referências) em arquivos PDF são definidos como áreas retangulares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bullet, or number format used in a list can be changed for the entire list, or for a single point only as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132125Z" creationid="timotheonb" creationdate="20250525T132125Z">
+        <seg>O formato de marcador ou número usado em uma lista pode ser alterado para toda a lista ou apenas para um único ponto da seguinte forma:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49329,6 +49489,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of columns used in Impress are continuous flow columns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132525Z" creationid="timotheonb" creationdate="20250525T132525Z">
+        <seg>Os tipos de colunas usadas no Impress são colunas de fluxo contínuo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of document created depends on which LibreOffice module is open and active.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T174135Z" creationid="olivier" creationdate="20250220T174135Z">
@@ -49397,6 +49565,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200157Z" creationid="olivier" creationdate="20250325T200157Z">
         <seg>O navegador internet deve ser capaz de manipular o tipo de arquivo do hiperlink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The whole of the text box or object has to be used for columns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132450Z" creationid="timotheonb" creationdate="20250525T132450Z">
+        <seg>Toda a caixa de texto ou objeto deve ser usada para colunas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50969,6 +51145,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This means that when text reaches the bottom of a column, it automatically flows into the next column as text is added.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132536Z" creationid="timotheonb" creationdate="20250525T132536Z">
+        <seg>Isso significa que, quando o texto atinge a parte inferior de uma coluna, ele flui automaticamente para a próxima coluna à medida que o texto é adicionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This means that, in contrast to paragraph styles, these settings cannot be used to directly format individual pages.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T113048Z" creationid="timot" creationdate="20250224T113048Z">
@@ -51261,6 +51445,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T201315Z" creationid="olivier-tdf" creationdate="20250328T201315Z">
         <seg>Esta barra de ferramentas contém caixas de listagem que ajudam na seleção da segurança de um documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This type of columns is also known as newspaper columns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132549Z" creationid="timotheonb" creationdate="20250525T132549Z">
+        <seg>Esse tipo de coluna também é conhecido como coluna de jornal.</seg>
       </tuv>
     </tu>
     <tu>
