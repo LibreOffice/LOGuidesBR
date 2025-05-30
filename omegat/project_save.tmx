@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Default Master Slide&lt;/s0&gt;&lt;s1&gt;Default Master Slide&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105330Z" creationid="timotheonb" creationdate="20250530T105330Z">
+        <seg>&lt;s0&gt;Slide mestre Padrão&lt;/s0&gt;&lt;s1&gt; Slide mestre Padrão&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Delete Cells dialog&lt;/s0&gt;&lt;s1&gt;Delete Cells dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154215Z" creationid="olivier" creationdate="20250121T154215Z">
@@ -2634,6 +2642,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250414T103740Z" creationid="timot" creationdate="20250414T103740Z">
         <seg>&lt;s0&gt;A janela principal do Impress A janela principal&lt;/s0&gt; do&lt;s1&gt; Impress&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Master Slides deck on Sidebar&lt;/s0&gt;&lt;s1&gt;Master Slides deck on Sidebar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105009Z" creationid="timotheonb" creationdate="20250530T104955Z">
+        <seg>&lt;s0&gt;Deque Slides mestre na Barra lateral&lt;/s0&gt;&lt;s1&gt;Deque Slides mestre na Barra lateral&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Master View toolbar&lt;/s0&gt;&lt;s1&gt;Master View toolbar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105649Z" creationid="timotheonb" creationdate="20250530T105649Z">
+        <seg>Barra de ferramentas &lt;s0&gt;Exibição mestre&lt;/s0&gt;&lt;s1&gt;Barra ferramentas Exibição mestre&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,10 +4486,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A master slide has a defined set of characteristics, including the background color, graphics, or gradients.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104545Z" creationid="timotheonb" creationdate="20250530T104545Z">
+        <seg>Um slide mestre tem um conjunto definido de características, incluindo a cor de fundo, gráficos ou gradientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A master slide has a specified set of characteristics that acts as a template and is used as the starting point for creating other slides.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250512T120223Z" creationid="timot" creationdate="20250512T120223Z">
         <seg>Um slide mestre tem um conjunto especificado de características que atua como um modelo e é usado como ponto de partida para criar outros slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A master slide is a slide that is used as the starting point for other slides.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104519Z" creationid="timotheonb" creationdate="20250530T104519Z">
+        <seg>Um slide mestre é do tipo usado como ponto de partida para outros slides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4530,6 +4570,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231036Z" creationid="olivier-tdf" creationdate="20250328T231036Z">
         <seg>Um par de chaves de criptografia deve ser definido usando o software OpenPGP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A presentation can have more than one master slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104537Z" creationid="timotheonb" creationdate="20250530T104537Z">
+        <seg>Uma apresentação pode ter mais de um slide mestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5710,6 +5758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All of the characteristics of master slides are controlled by styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104601Z" creationid="timotheonb" creationdate="20250530T104601Z">
+        <seg>Todas as características dos slides mestres são controladas por estilos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All other fields on the Digital Signatures page are only accessible after a certificate has been selected.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201641Z" creationid="olivier" creationdate="20250325T201641Z">
@@ -6518,6 +6574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An example of the default master slide is shown in Figure &lt;t0&gt;33&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105317Z" creationid="timotheonb" creationdate="20250530T105317Z">
+        <seg>Um exemplo do slide mestre padrão é mostrado na Figura &lt;t0&gt;33&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An example of these outline styles is shown in Figure &lt;t0&gt;19&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250516T120415Z" creationid="timotheonb" creationdate="20250516T120415Z">
@@ -7058,6 +7122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190314Z" creationid="olivier-tdf" creationdate="20250328T190314Z">
         <seg>Aplicar assinaturas digitais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Applying master slides</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110712Z" creationid="timotheonb" creationdate="20250530T110712Z">
+        <seg>Aplicar slides mestres</seg>
       </tuv>
     </tu>
     <tu>
@@ -8910,6 +8982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing a style in a master slide results in changes to all the slides based on that master slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104630Z" creationid="timotheonb" creationdate="20250530T104630Z">
+        <seg>Alterar um estilo em um slide mestre resulta em alterações em todos os slides com base nesse slide mestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing an existing description invalidates a digital signature.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191257Z" creationid="olivier-tdf" creationdate="20250328T191257Z">
@@ -9722,6 +9802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115525Z" creationid="olivier" creationdate="20250314T115525Z">
         <seg>Clique em &lt;f0&gt;Certificado&lt;/f0&gt; e selecione qual repositório de certificados utilizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Close Master View&lt;/f0&gt; on the Master View toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110644Z" creationid="timotheonb" creationdate="20250530T110644Z">
+        <seg>Clique em &lt;f0&gt;Fechar exibição mestre&lt;/f0&gt; na barra de ferramentas Exibição mestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10982,6 +11070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Master Slides&lt;/f0&gt; on the right of the Sidebar to open the Master Slides deck (Figure &lt;t1&gt;32&lt;/t1&gt; on page &lt;t2&gt;33&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110814Z" creationid="timotheonb" creationdate="20250530T110814Z">
+        <seg>Clique em &lt;f0&gt;Slides mestres&lt;/f0&gt; à direita da Barra lateral para abrir o deque Slides mestres (Figura&lt;t1&gt;32&lt;/t1&gt; na página&lt;t2&gt;33&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Menus&lt;/f0&gt; to open the &lt;f1&gt;Menus&lt;/f1&gt; page (Figure &lt;t2&gt;1&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T213005Z" creationid="olivier" creationdate="20250307T213005Z">
@@ -11026,6 +11122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250524T110414Z" creationid="timotheonb" creationdate="20250524T110414Z">
         <seg>Clique em &lt;f0&gt;Mover para cima&lt;/f0&gt; para mover os parágrafos selecionados um parágrafo para cima na barra de ferramentas Tópicos ou no painel &lt;f1&gt;Listas&lt;/f1&gt; no deque Propriedades na Barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;New Master&lt;/f0&gt; in the Master View toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105831Z" creationid="timotheonb" creationdate="20250530T105831Z">
+        <seg>Clique em &lt;f0&gt;Novo mestre&lt;/f0&gt; na Barra de ferramentas Exibição mestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11210,6 +11314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084621Z" creationid="olivier" creationdate="20250308T084621Z">
         <seg>Clique em &lt;f0&gt;Remover&lt;/f0&gt; e confirme a remoção da extensão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Rename Master&lt;/f0&gt; on the Master View toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110117Z" creationid="timotheonb" creationdate="20250530T110117Z">
+        <seg>Clique em &lt;f0&gt;Renomear mestre&lt;/f0&gt; na barra de ferramentas Exibição mestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12146,6 +12258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T103811Z" creationid="timot" creationdate="20250222T103811Z">
         <seg>Clique na seta para baixo ao lado do botão relevante e, em seguida, clique em&lt;f2&gt;Personalizar&lt;/f2&gt; para acessar a caixa de diálogo Marcadores e numeração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the expand marker on the title bar of a panel to expand it and show thumbnails of the master slides, or click the collapse marker to collapse the panel to hide the thumbnails.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105224Z" creationid="timotheonb" creationdate="20250530T105224Z">
+        <seg>Clique no marcador de expansão na barra de título de um painel para expandi-lo e mostrar miniaturas dos slides mestres, ou clique no marcador de recolhimento para recolher o painel para ocultar as miniaturas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13214,6 +13334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a new master slide using one of the following methods and the new master slide appears in the Slides pane:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105725Z" creationid="timotheonb" creationdate="20250530T105725Z">
+        <seg>Crie um novo slide mestre usando um dos seguintes métodos e o novo slide mestre aparecerá no painel Slides:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create a slide using an AutoLayout text box with an unordered list as follows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250516T120501Z" creationid="timotheonb" creationdate="20250516T120501Z">
@@ -13466,6 +13594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T112004Z" creationid="timot" creationdate="20250221T112004Z">
         <seg>Criar listas com estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating master slides</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105351Z" creationid="timotheonb" creationdate="20250530T105351Z">
+        <seg>Criar slides mestres</seg>
       </tuv>
     </tu>
     <tu>
@@ -14450,6 +14586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115354Z" creationid="olivier" creationdate="20250405T115354Z">
         <seg>Os modelos padrão do LibreOffice não podem ser editados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Default Master Slide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105342Z" creationid="timotheonb" creationdate="20250530T105342Z">
+        <seg>Slide mestre Padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -16272,6 +16416,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each of the master slides shown in the &lt;f0&gt;Available for Use&lt;/f0&gt; panel are from templates that are available in LibreOffice Impress:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105235Z" creationid="timotheonb" creationdate="20250530T105235Z">
+        <seg>Cada um dos slides mestres mostrados no painel &lt;f0&gt;Disponível para Uso&lt;/f0&gt; são de modelos que estão disponíveis no LibreOffice Impress:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each of the workspace views is designed to ease the completion of certain tasks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T150435Z" creationid="timotheonb" creationdate="20250502T150435Z">
@@ -16884,6 +17036,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T124408Z" creationid="olivier" creationdate="20250313T124408Z">
         <seg>Digite uma senha mestra para permitir o acesso fácil a sites que exigem um nome de usuário e senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter a memorable name for the new master slide in the &lt;f0&gt;Name&lt;/f0&gt; text box, then click &lt;f1&gt;OK&lt;/f1&gt; to save the changes and close the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110352Z" creationid="timotheonb" creationdate="20250530T110352Z">
+        <seg>Insira um nome memorável para o novo slide mestre na caixa de texto &lt;f0&gt;Nome&lt;/f0&gt; e clique em&lt;f1&gt;OK&lt;/f1&gt; para salvar as alterações e fechar a caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19200,10 +19360,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Master Slides deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105116Z" creationid="timotheonb" creationdate="20250530T105116Z">
+        <seg>Figura &lt;seq0&gt;32&lt;/seq0&gt;: Deque Slides mestre na Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Default Master Slide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105336Z" creationid="timotheonb" creationdate="20250530T105336Z">
+        <seg>Figura &lt;seq0&gt;33&lt;/seq0&gt;: Slide mestre Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Format Cells dialog – Alignment tab</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T012257Z" creationid="olivier" creationdate="20250124T012257Z">
         <seg>Figura &lt;seq0&gt;33&lt;/seq0&gt;: Caixa de diálogo Formatar células – aba Alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Master View toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105704Z" creationid="timotheonb" creationdate="20250530T105704Z">
+        <seg>Figura &lt;seq0&gt;34&lt;/seq0&gt;: Barra de ferramentas Exibição mesgtre</seg>
       </tuv>
     </tu>
     <tu>
@@ -21456,6 +21640,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on adding, editing, formatting and managing the different types of objects on a master slide, see the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110452Z" creationid="timotheonb" creationdate="20250530T110452Z">
+        <seg>Para mais informações sobre como adicionar, editar, formatar e gerenciar os diferentes tipos de objetos em um slide mestre, consulte o &lt;f0&gt;Guia do Impress&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on animation effects, see “&lt;bf2&gt;Animation effects&lt;/bf2&gt;” on page &lt;bf3&gt;48&lt;/bf3&gt; and the &lt;f4&gt;Impress Guide&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T125522Z" creationid="timotheonb" creationdate="20250502T125507Z">
@@ -21556,6 +21748,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124810Z" creationid="olivier-tdf" creationdate="20250114T124810Z">
         <seg>Para obter mais informações sobre a sintaxe da fórmula, consulte o Capítulo 8, Usando Fórmulas e Funções, no &lt;f0&gt;Guia do Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on inserting and formatting OLE objects, see the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104449Z" creationid="timotheonb" creationdate="20250530T104449Z">
+        <seg>Para mais informações sobre como inserir e formatar objetos OLE, consulte o &lt;f0&gt;Guia do Impress&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on inserting graphics, see Chapter 7, Getting Started with Draw in this guide, the &lt;f0&gt;Impress Guide,&lt;/f0&gt; or the &lt;f1&gt;Draw Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104046Z" creationid="timotheonb" creationdate="20250530T104017Z">
+        <seg>Para mais informações sobre como inserir figuras, consulte o Capítulo 7, Introdução ao Draw, neste guia.&lt;f0&gt;Guia do Impress,&lt;/f0&gt; ou o&lt;f1&gt;Guia do Draw&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21676,6 +21884,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T184506Z" creationid="olivier-tdf" creationdate="20250209T184506Z">
         <seg>Para obter mais informações sobre ordenar registros e as opções de ordenação disponíveis, consulte o Capítulo 2, Inserir e Editar dados, no &lt;f0&gt;Guia do Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on spreadsheets, see the &lt;f0&gt;Impress Guide&lt;/f0&gt; and the &lt;f1&gt;Calc Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104137Z" creationid="timotheonb" creationdate="20250530T104137Z">
+        <seg>Para mais informações sobre planilhas, consulte o &lt;f0&gt;Guia do Impress&lt;/f0&gt; e o &lt;f1&gt;Guia do Calc&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23712,6 +23928,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Slide &gt; New Master&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105933Z" creationid="timotheonb" creationdate="20250530T105933Z">
+        <seg>Vá para &lt;f0&gt;Slide &gt; Novo mestre&lt;/f0&gt; na Barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Slide &gt; New Slide&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T144917Z" creationid="timotheonb" creationdate="20250504T144917Z">
@@ -23912,10 +24136,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; on the Menu bar to open Master view in the Workspace.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105412Z" creationid="timotheonb" creationdate="20250530T105412Z">
+        <seg>Vá para &lt;f0&gt;Exibir &gt; Slide mestre&lt;/f0&gt; na barra de Menu para abrir a visualização Mestre no Espaço de Trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;View &gt; Normal&lt;/f0&gt; on the Menu bar to open Normal view.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250516T120506Z" creationid="timotheonb" creationdate="20250516T120506Z">
         <seg>Vá para &lt;f0&gt;Visualizar &gt; Normal&lt;/f0&gt; na barra de menus para abrir a visualização Normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;View &gt; Normal&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110659Z" creationid="timotheonb" creationdate="20250530T110659Z">
+        <seg>Vá para &lt;f0&gt;Exibir &gt; Normal&lt;/f0&gt; na Barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24984,6 +25224,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, new drawing styles can be created and these drawing styles can be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104804Z" creationid="timotheonb" creationdate="20250530T104804Z">
+        <seg>No entanto, novos estilos de desenho podem ser criados e esses podem ser excluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, previous file formats cannot store all new features of the newer version of LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T153240Z" creationid="olivier" creationdate="20250318T153240Z">
@@ -25020,6 +25268,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250509T093505Z" creationid="timot" creationdate="20250509T093505Z">
         <seg>No entanto, os diferentes elementos num leiaute de slide podem ser redimensionados e movidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, there are occasions where manual changes are needed for a particular slide, for example editing an individual slide to enlarge the chart area when the text and chart layout is used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104832Z" creationid="timotheonb" creationdate="20250530T104832Z">
+        <seg>No entanto, há ocasiões em que alterações manuais são necessárias para um slide específico, por exemplo, editar um slide individual para ampliar a área do gráfico quando o texto e o leiaute do gráfico são usados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25460,6 +25716,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190653Z" creationid="olivier-tdf" creationdate="20250328T190653Z">
         <seg>Se abrir uma caixa de mensagem avisando para salvar o documento, clique em &lt;f0&gt;Sim&lt;/f0&gt; para salvar o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a new presentation is created without using one of the templates available, then a default master slide is available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105302Z" creationid="timotheonb" creationdate="20250530T105302Z">
+        <seg>Se uma nova apresentação for criada sem usar um dos modelos disponíveis, um slide mestre padrão estará disponível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26464,6 +26728,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the Master View toolbar does not open, go to &lt;f2&gt;View &gt; Toolbars&lt;/f2&gt; on the Menu bar and select &lt;f3&gt;Master View&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105602Z" creationid="timotheonb" creationdate="20250530T105602Z">
+        <seg>Se a barra de ferramentas do Exibição de mestre não abrir, vá para &lt;f2&gt;Exibir &gt; Barras de ferramentas&lt;/f2&gt; na Barra de menus e selecione &lt;f3&gt;Exibição mestre&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the Options Load/Save dialog is not already open, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; Load/Save&lt;/f1&gt;) on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010347Z" creationid="olivier" creationdate="20250318T010347Z">
@@ -26540,6 +26812,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011116Z" creationid="olivier" creationdate="20250321T011116Z">
         <seg>Se o cursor for colocado sobre uma palavra destacada, um menu de contexto abre com uma lista de correções sugeridas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the data has to be analyzed or formulas applied, then these operations are best performed in a Calc spreadsheet and the results displayed in an embedded Calc spreadsheet or in an Impress table.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104127Z" creationid="timotheonb" creationdate="20250530T104127Z">
+        <seg>Se os dados tiverem que ser analisados ou as fórmulas aplicadas, essas operações serão melhor executadas em uma planilha do Calc e os resultados exibidos em uma planilha do Calc incorporada ou em uma tabela do Impress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27728,6 +28008,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Impress comes with a collection of master slides, which are are shown on the Master Slides deck of the Sidebar (Figure &lt;t0&gt;32&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104852Z" creationid="timotheonb" creationdate="20250530T104852Z">
+        <seg>O Impress vem com uma coleção de slides mestres, que são mostrados na apresentação de slides mestres da barra lateral (Figura &lt;t0&gt;32&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impress does not have the functionality to create custom layouts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250509T093413Z" creationid="timot" creationdate="20250509T093413Z">
@@ -28540,6 +28828,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023418Z" creationid="olivier" creationdate="20250321T023418Z">
         <seg>Em páginas, seções ou quadros multicolunas formatados com fluxo de texto da direita para a esquerda, a primeira coluna é a coluna da direita e a última coluna é a coluna da esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other words, the styles of the master slide are available and applied to all slides created from that master slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104623Z" creationid="timotheonb" creationdate="20250530T104623Z">
+        <seg>Em outras palavras, os estilos do slide mestre estão disponíveis e aplicados a todos os slides criados a partir desse slide mestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29832,6 +30128,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It also can include objects (for example, logos, decorative lines) in the background; headers and footers; placement and size of text frames; and text formatting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104555Z" creationid="timotheonb" creationdate="20250530T104555Z">
+        <seg>Também pode incluir objetos (por exemplo, logotipos, linhas decorativas) em segundo plano; cabeçalhos e rodapés; posicionamento e tamanho de quadros de texto; e formatação de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It also compresses better (JPEG 2000) than PDF/A-1b, usually producing smaller files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220150Z" creationid="olivier" creationdate="20250324T220150Z">
@@ -30016,6 +30320,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is highly recommended to use the master slides whenever possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104817Z" creationid="timotheonb" creationdate="20250530T104817Z">
+        <seg>É altamente recomendável usar slides mestras sempre que possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is important to preview HTML documents in a web browser to make sure it displays correctly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T232050Z" creationid="olivier" creationdate="20250328T010238Z">
@@ -30104,6 +30416,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is possible to modify each individual slide without affecting the master slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104700Z" creationid="timotheonb" creationdate="20250530T104645Z">
+        <seg>É possível modificar cada slide individual sem afetar o slide mestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is publicly available, royalty-free, and without legal or other restrictions; therefore ODF files are not tied to a specific office suite and &lt;f0&gt;anyone&lt;/f0&gt; can build a program that interprets these files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234900Z" creationid="olivier" creationdate="20250301T234900Z">
@@ -30164,6 +30484,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T142542Z" creationid="tulio" creationdate="20250211T142542Z">
         <seg>É semelhante no Writer, Calc, Impress e Draw, mas cada módulo do LibreOffice inclui alguns itens específicos do módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is similar to a page style in LibreOffice Writer as it controls the basic formatting of all slides based on it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104532Z" creationid="timotheonb" creationdate="20250530T104532Z">
+        <seg>É semelhante a um estilo de página no LibreOffice Writer, pois controla a formatação básica de todos os slides com base nele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32296,6 +32624,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make sure the new master slide is selected in the Slides pane and add all the text, graphics and master elements that are required.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110434Z" creationid="timotheonb" creationdate="20250530T110434Z">
+        <seg>Certifique-se de que o novo slide mestre esteja selecionado no painel Slides mestres e adicione todo o texto, gráficos e elementos mestres necessários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make sure to install a JRE that is compatible with the LibreOffice architecture being used.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185242Z" creationid="olivier" creationdate="20250316T185242Z">
@@ -32472,10 +32808,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Master Slides deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105131Z" creationid="timotheonb" creationdate="20250530T105131Z">
+        <seg>Deque Slides mestre na Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Master Slides, Animation, Shapes, and Slide Transition for ImpressShapes for Draw</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134637Z" creationid="olivier" creationdate="20250217T134637Z">
         <seg>Para o Impress, Slides mestres, Animação, Transição de formas e slides e para o Draw, Formas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Master View toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105714Z" creationid="timotheonb" creationdate="20250530T105714Z">
+        <seg>Barra de ferramentas Exibição mestre</seg>
       </tuv>
     </tu>
     <tu>
@@ -32508,6 +32860,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T125531Z" creationid="timotheonb" creationdate="20250502T125531Z">
         <seg>Slides mestres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Master slides have two types of styles — presentation styles and drawing styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104709Z" creationid="timotheonb" creationdate="20250530T104709Z">
+        <seg>Os slides mestres têm dois tipos de estilos — estilos de apresentação e estilos de desenho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34604,6 +34964,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250410T182557Z" creationid="timot" creationdate="20250410T182557Z">
         <seg>As apresentações do ODP podem ser abertas por outros softwares de apresentação ou exportadas em diferentes formatos de apresentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OLE objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104147Z" creationid="timotheonb" creationdate="20250530T104147Z">
+        <seg>Objetos OLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Object Linking and Embedding (OLE) is a software technology that allows linking and embedding of spreadsheets, charts, drawings, formulas, and text files into an Impress presentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104201Z" creationid="timotheonb" creationdate="20250530T104201Z">
+        <seg>O Object Linking and Embedding (Ole) é uma tecnologia de software que permite vincular e incorporar planilhas, gráficos, desenhos, fórmulas e arquivos de texto em uma apresentação do Impress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37928,6 +38304,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Presentation templates included when LibreOffice is installed on a computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105243Z" creationid="timotheonb" creationdate="20250530T105243Z">
+        <seg>Modelos de apresentação incluídos quando o LibreOffice está instalado em um computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Presentation toolbar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250505T104258Z" creationid="timotheonb" creationdate="20250505T104258Z">
@@ -39265,6 +39649,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rename the new master slide using one of the following methods to open the Rename Master Slide dialog:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110003Z" creationid="timotheonb" creationdate="20250530T110003Z">
+        <seg>Renomeie o novo slide mestre usando um dos seguintes métodos para abrir a caixa de diálogo Renomear slide mestre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Renames the selected slide.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134423Z" creationid="timotheonb" creationdate="20250504T134423Z">
@@ -39857,6 +40249,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click on a master slide in the &lt;f0&gt;Slides&lt;/f0&gt; pane and select &lt;f1&gt;New Master&lt;/f1&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105913Z" creationid="timotheonb" creationdate="20250530T105913Z">
+        <seg>Clique com o botão direito do mouse em um slide mestre no painel &lt;f0&gt;Slides mestres&lt;/f0&gt; e selecione &lt;f1&gt;Novo mestre&lt;/f1&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click on a slide in the Slides pane and select &lt;f0&gt;Duplicate Slide&lt;/f0&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250505T105704Z" creationid="timotheonb" creationdate="20250505T105704Z">
@@ -39893,6 +40293,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier" creationdate="20250122T183750Z">
         <seg>Clique com o botão direito do mouse no cabeçalho e selecione &lt;f0&gt;Fixar linhas e colunas&lt;/f0&gt; no menu de contexto, ou acesse &lt;f1&gt;Exibir &gt; Fixar linhas e colunas&lt;/f1&gt; na barra de menu, ou clique no ícone &lt;f2&gt;Fixar linhas e colunas&lt;/f2&gt; na barra de ferramentas padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click on the new master slide in the Slides Pane and select &lt;f0&gt;Rename Master&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110207Z" creationid="timotheonb" creationdate="20250530T110207Z">
+        <seg>Clique com o botão direito do mouse no novo slide mestre no Painel Slides e selecione &lt;f0&gt;Renomear mestre&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click on the required master slide in the &lt;f0&gt;Used in This Presentation&lt;/f0&gt; panel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110908Z" creationid="timotheonb" creationdate="20250530T110908Z">
+        <seg>Clique com o botão direito do mouse no slide mestre desejado no painel &lt;f0&gt;Usado nesta apresentação&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40333,6 +40749,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202228Z" creationid="olivier-tdf" creationdate="20250328T202228Z">
         <seg>Salve o arquivo e faça as alterações necessárias no caminho de classificação para acessar o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save the presentation file before continuing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110704Z" creationid="timotheonb" creationdate="20250530T110704Z">
+        <seg>Salve o arquivo de apresentação antes de continuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45393,6 +45817,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spreadsheets embedded in Impress include most of the functionality of Calc spreadsheets and are capable of performing complex calculations and data analysis.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104106Z" creationid="timotheonb" creationdate="20250530T104106Z">
+        <seg>As planilhas incorporadas no Impress incluem a maioria das funcionalidades das planilhas do Calc e são capazes de realizar cálculos complexos e análises de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spreadsheets, sheets, and cells</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125410Z" creationid="olivier-tdf" creationdate="20250114T125410Z">
@@ -46301,6 +46733,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204445Z" creationid="olivier" creationdate="20250404T204445Z">
         <seg>Caixa de diálogo Modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Templates have been created, or added from other sources.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105253Z" creationid="timotheonb" creationdate="20250530T105253Z">
+        <seg>Modelos foram criados ou adicionados a partir de outras fontes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47237,6 +47677,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T130647Z" creationid="timotheonb" creationdate="20250502T125607Z">
         <seg>O deque Slides mestres (&lt;f0&gt;Alt+8&lt;/f0&gt;, macOS ⌘+⌥&lt;f1&gt;+7&lt;/f1&gt;) fornece estilos de slides para apresentações e vários estilos de slides mestre estão disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Master View toolbar also opens (Figure &lt;t1&gt;34&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105458Z" creationid="timotheonb" creationdate="20250530T105458Z">
+        <seg>A barra de ferramentas Exibição mestre também é aberta (Figura &lt;t1&gt;34&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48433,6 +48881,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The drawing styles included with Impress can be modified, but cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104735Z" creationid="timotheonb" creationdate="20250530T104735Z">
+        <seg>Os estilos de desenho incluídos no Impress podem ser modificados, mas não podem ser excluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The easiest way to create HTML documents in LibreOffice is to start with an existing text document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202457Z" creationid="olivier" creationdate="20250327T202457Z">
@@ -48993,6 +49449,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The major benefit of using OLE objects is that it provides a quick and easy method of editing the object using tools from the software used to create the object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104322Z" creationid="timotheonb" creationdate="20250530T104322Z">
+        <seg>Objetos OLE têm um benefício principal que é fornecer um método rápido e fácil de editar o objeto usando ferramentas do software usado para criar o objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The margin area is indicated by either a grayed out area on the rulers or borders around the unused area of the ruler.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131841Z" creationid="timotheonb" creationdate="20250502T131841Z">
@@ -49473,6 +49937,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The presentation styles included with Impress can be modified, but new presentation styles cannot be created or deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104729Z" creationid="timotheonb" creationdate="20250530T104729Z">
+        <seg>Os estilos de apresentação incluídos no Impress podem ser modificados, mas novos estilos de apresentação não podem ser criados ou excluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The presets available depend on the type of printer connected to the computer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T145148Z" creationid="olivier" creationdate="20250223T145148Z">
@@ -49901,6 +50373,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250402T232908Z" creationid="olivier-tdf" creationdate="20250402T232908Z">
         <seg>Os tipos de estilo disponíveis dependem de qual módulo do LibreOffice está aberto e do tipo de documento que está sendo editado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The styles of any new slide created are inherited from the master slide from which it was created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104615Z" creationid="timotheonb" creationdate="20250530T104615Z">
+        <seg>Os estilos de qualquer novo slide criado são herdados do slide mestre a partir do qual foi criado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50761,6 +51241,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These file types can all be created using LibreOffice and OLE objects can be created from new or from an existing file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104347Z" creationid="timotheonb" creationdate="20250530T104347Z">
+        <seg>Esses tipos de arquivo podem ser criados usando o LibreOffice e objetos OLE podem ser criados a partir de um arquivo novo ou existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These files can easily be unzipped and read by any text editor, and their framework is open and published.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T210141Z" creationid="olivier-tdf" creationdate="20250109T193857Z">
@@ -50875,8 +51363,8 @@
       <tuv lang="en-US">
         <seg>These objects are handled much the same way as graphics in Draw.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250528T222502Z" creationid="timotheonb" creationdate="20250528T222502Z">
-        <seg>Esses objetos são manipulados da mesma forma que os gráficos no Draw.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104022Z" creationid="timotheonb" creationdate="20250528T222502Z">
+        <seg>Esses objetos são manipulados da mesma forma que as figuras no Draw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51341,6 +51829,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214533Z" creationid="olivier-tdf" creationdate="20250116T214533Z">
         <seg>Este deque contém uma lista pesquisável de funções organizadas por categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This deck has three panels: &lt;f0&gt;Used in This Presentation&lt;/f0&gt;, &lt;f1&gt;Recently Used&lt;/f1&gt;, and &lt;bs2/&gt;&lt;f3&gt;Available for Use&lt;/f3&gt;&lt;be4/&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110951Z" creationid="timotheonb" creationdate="20250530T105154Z">
+        <seg>Este deque tem três painéis: &lt;f0&gt;Utilizado nesta apresentação&lt;/f0&gt;, &lt;f1&gt;Recém utilizadas&lt;/f1&gt; e &lt;bs2/&gt;&lt;f3&gt;Disponível para utilização&lt;/f3&gt;&lt;be4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This default master slide is a good starting point for creating master slides.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105307Z" creationid="timotheonb" creationdate="20250530T105307Z">
+        <seg>Este slide mestre padrão é um bom ponto de partida para criar slides mestres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52477,6 +52981,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T123117Z" creationid="olivier" creationdate="20250314T123117Z">
         <seg>Para aplicar uma cor a um elemento da interface do usuário, certifique-se de que o elemento esteja selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To apply a master slide to all slides or selected slides in a presentation:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110717Z" creationid="timotheonb" creationdate="20250530T110717Z">
+        <seg>Para aplicar um slide mestre a todos os slides ou a slides selecionados em uma apresentação:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58089,6 +58601,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When inserting a new OLE object into a presentation, it is only available in that presentation and can only be edited using Impress.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104433Z" creationid="timotheonb" creationdate="20250530T104433Z">
+        <seg>Ao inserir um novo objeto OLE em uma apresentação, fica disponível apenas nessa apresentação e só pode ser editado no Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When inserting the same image, or graphic, several times in a document, LibreOffice embeds only one copy of the file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250410T133039Z" creationid="timot" creationdate="20250410T133039Z">
@@ -58453,6 +58973,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T120906Z" creationid="olivier-tdf" creationdate="20250117T120906Z">
         <seg>Quando o ponteiro do mouse está sobre a grade de células, o ponteiro padrão do sistema é normalmente mostrado (normalmente um ponteiro de seta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the new master slide has been created, use one of the following methods to return to &lt;f0&gt;Normal&lt;/f0&gt; view:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110542Z" creationid="timotheonb" creationdate="20250530T110542Z">
+        <seg>Quando o novo slide mestre for criado, use um dos seguintes métodos para retornar à exibição &lt;f0&gt;Normal&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59181,6 +59709,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T201759Z" creationid="timot" creationdate="20250409T201759Z">
         <seg>Trabalhar com imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Working with master slides</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104457Z" creationid="timotheonb" creationdate="20250530T104457Z">
+        <seg>Trabalhar com slides mestres</seg>
       </tuv>
     </tu>
     <tu>
