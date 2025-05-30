@@ -4374,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A flashing text cursor will appear in the footer section and the Text Formatting toolbar automatically opens replacing the Line and Filling toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120733Z" creationid="timotheonb" creationdate="20250530T120733Z">
+        <seg>Um cursor de texto piscante aparecerá na seção de rodapé e a barra de ferramentas Formatação de texto será aberta automaticamente, substituindo a barra de ferramentas Linha e preenchimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A font is temporarily applied on selected cells by hovering or navigating in this menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T211641Z" creationid="olivier-tdf" creationdate="20250128T211641Z">
@@ -5242,6 +5250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T212901Z" creationid="olivier" creationdate="20250307T212901Z">
         <seg>Adicionar comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T121226Z" creationid="timotheonb" creationdate="20250530T121226Z">
+        <seg>Adicionar comentários</seg>
       </tuv>
     </tu>
     <tu>
@@ -7418,6 +7434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202202Z" creationid="olivier" creationdate="20250327T202202Z">
         <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Author — first and last names listed in the LibreOffice user data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T121119Z" creationid="timotheonb" creationdate="20250530T121119Z">
+        <seg>Autor — nome e sobrenome listados nos dados do usuário do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9918,6 +9942,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Close Master View&lt;/f0&gt; on the Master View toolbar or go to &lt;f1&gt;View &gt; Normal&lt;/f1&gt; on the Menu bar when setting up a custom footer section is completed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120936Z" creationid="timotheonb" creationdate="20250530T120936Z">
+        <seg>Clique em &lt;f0&gt;Fechar exibição mestre&lt;/f0&gt; na barra de ferramentas Exibição mestre ou vá para&lt;f1&gt;Exibir &gt; Normal&lt;/f1&gt; na Barra de menus quando a configuração de uma seção de rodapé personalizada estiver concluída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Close Master View&lt;/f0&gt; on the Master View toolbar, or go to &lt;f1&gt;View &gt; Normal&lt;/f1&gt; on the Menu bar when setting up the default footer fields is completed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120343Z" creationid="timotheonb" creationdate="20250530T120343Z">
+        <seg>Clique em &lt;f0&gt;Fechar exibição mestre&lt;/f0&gt; na barra de ferramentas Exibição mestre ou vá para &lt;f1&gt;Exibir &gt; Normal&lt;/f1&gt; na barra de menu quando a configuração dos campos de rodapé padrão estiver concluída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;Close Master View&lt;/f0&gt; on the Master View toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110644Z" creationid="timotheonb" creationdate="20250530T110644Z">
@@ -12198,6 +12238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click outside the footer section to close the Text Formatting toolbar and reopen the Line and Filling toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120855Z" creationid="timotheonb" creationdate="20250530T120855Z">
+        <seg>Clique fora da seção de rodapé para fechar a barra de ferramentas Formatação de texto e reabrir a barra de ferramentas Linha e preenchimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click outside the text box to deselect it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T112422Z" creationid="timotheonb" creationdate="20250514T112422Z">
@@ -14406,6 +14454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Custom footers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120419Z" creationid="timotheonb" creationdate="20250530T120419Z">
+        <seg>Rodapés personalizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Custom media directory</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200718Z" creationid="olivier" creationdate="20250327T200718Z">
@@ -14642,6 +14698,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202228Z" creationid="olivier" creationdate="20250327T202228Z">
         <seg>Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Date (fixed)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T121012Z" creationid="timotheonb" creationdate="20250530T121012Z">
+        <seg>Data (fixa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Date (variable) — updates automatically each time the presentation is opened.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T121017Z" creationid="timotheonb" creationdate="20250530T121017Z">
+        <seg>Data (variável) — é atualizada automaticamente sempre que a apresentação é aberta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20280,6 +20352,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T121217Z" creationid="timotheonb" creationdate="20250530T121217Z">
+        <seg>Nome do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File Services dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185552Z" creationid="olivier-tdf" creationdate="20250328T185552Z">
@@ -21688,6 +21768,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more about adding, navigating, and replying to comments, see Chapter 2, Getting Started with Writer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T121241Z" creationid="timotheonb" creationdate="20250530T121241Z">
+        <seg>Para saber mais sobre como adicionar, navegar e responder a comentários, consulte o Capítulo 2, Introdução ao Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more about backgrounds, see the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T211649Z" creationid="timot" creationdate="20250402T211649Z">
@@ -22408,6 +22496,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see “&lt;bf0&gt;Manual fields&lt;/bf0&gt;” on page &lt;bf1&gt;39&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120824Z" creationid="timotheonb" creationdate="20250530T120824Z">
+        <seg>Para mais informações, consulte “&lt;bf0&gt;Campos manuais&lt;/bf0&gt;” na página &lt;bf1&gt;39&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, see “&lt;bf2&gt;Navigator&lt;/bf2&gt;” on page &lt;bf3&gt;9&lt;/bf3&gt; and the &lt;f4&gt;Impress Guide&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250429T221405Z" creationid="timotheonb" creationdate="20250429T221405Z">
@@ -22660,6 +22756,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164318Z" creationid="olivier" creationdate="20250204T164318Z">
         <seg>Formate o tipo de dados, a fonte, o tamanho da fonte, as bordas da célula, o plano de fundo da célula e assim por diante para um intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Format the text or manual field placed in the footer section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120829Z" creationid="timotheonb" creationdate="20250530T120829Z">
+        <seg>Formate o texto ou campo manual colocado na seção de rodapé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24432,6 +24536,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; on the Menu bar to open the master slide view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120454Z" creationid="timotheonb" creationdate="20250530T120448Z">
+        <seg>Vá para &lt;f0&gt;Exibir &gt; Slide mestre&lt;/f0&gt; na Barra de menus para abrir a exibição do slide mestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;View &gt; Normal&lt;/f0&gt; on the Menu bar or click &lt;f1&gt;Close Master View&lt;/f1&gt; on the Master View toolbar when finished.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T115105Z" creationid="timotheonb" creationdate="20250530T115105Z">
@@ -25220,6 +25332,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T174017Z" creationid="timotheonb" creationdate="20250514T174017Z">
         <seg>Destaque e copie o texto de outro documento ou slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight the default field in the footer section and press the &lt;f0&gt;Delete&lt;/f0&gt; or &lt;f1&gt;Backspace&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120539Z" creationid="timotheonb" creationdate="20250530T120539Z">
+        <seg>Destaque o campo padrão na seção de rodapé e tecle &lt;f0&gt;Delete&lt;/f0&gt; ou&lt;f1&gt;Backspace&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28404,6 +28524,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T191522Z" creationid="olivier-tdf" creationdate="20250109T191522Z">
         <seg>O Impress fornece todas as ferramentas comuns de apresentação multimídia, como efeitos especiais, animação e ferramentas de desenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Impress supports comments similar to those in Writer and Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T121231Z" creationid="timotheonb" creationdate="20250530T121231Z">
+        <seg>O Impress suporta comentários semelhantes aos do Writer e do Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33076,6 +33204,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T102913Z" creationid="timot" creationdate="20250206T102913Z">
         <seg>Gerenciar dicionários personalizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manual fields</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120938Z" creationid="timotheonb" creationdate="20250530T120938Z">
+        <seg>Campos manuais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manual fields can be added as text objects on a master slide or replace one of the default footer fields and are as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120949Z" creationid="timotheonb" creationdate="20250530T120949Z">
+        <seg>Campos manuais podem ser adicionados como objetos de texto em um slide mestre ou substituir um dos campos de rodapé padrão e são os seguintes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41873,6 +42017,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See “&lt;bf0&gt;Adding and formatting text&lt;/bf0&gt;” on page &lt;bf1&gt;19&lt;/bf1&gt; and the &lt;f2&gt;Impress Guide&lt;/f2&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120845Z" creationid="timotheonb" creationdate="20250530T120845Z">
+        <seg>Ver "&lt;bf0&gt;Adicionar e formatar texto&lt;/bf0&gt;” na página &lt;bf1&gt;19&lt;/bf1&gt; e o&lt;f2&gt;Guia do Impress&lt;/f2&gt; para maiores informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “&lt;bf0&gt;Adding and formatting text&lt;/bf0&gt;” on page &lt;bf1&gt;19&lt;/bf1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120417Z" creationid="timotheonb" creationdate="20250530T120417Z">
+        <seg>Veja "&lt;bf0&gt;Adicionar e formatar texto&lt;/bf0&gt;” na página &lt;bf1&gt;19&lt;/bf1&gt; para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See “&lt;bf0&gt;Adding commands&lt;/bf0&gt;” on page &lt;bf1&gt;3&lt;/bf1&gt; on how to add menu commands.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T215352Z" creationid="olivier" creationdate="20250307T215352Z">
@@ -45313,6 +45473,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Slide Count — the number of slides in the presentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T121206Z" creationid="timotheonb" creationdate="20250530T121206Z">
+        <seg>Total de slides — o número de slides na apresentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Slide Number</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131952Z" creationid="timotheonb" creationdate="20250502T131952Z">
@@ -45333,6 +45501,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250512T120835Z" creationid="timot" creationdate="20250512T120835Z">
         <seg>Caixa de diálogo Propriedades do slide — Página de fundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slide Title — defaults to Slide 1, Slide 2, and so on if the slides have not been renamed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T121154Z" creationid="timotheonb" creationdate="20250530T121154Z">
+        <seg>Título do slide — o padrão é Slide 1, Slide 2 e assim por diante, se os slides não foram renomeados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45381,6 +45557,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T142653Z" creationid="tulio" creationdate="20250211T142653Z">
         <seg>Número do Slide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slide number — the sequence number of the slide, without the word “Slide”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T121131Z" creationid="timotheonb" creationdate="20250530T121131Z">
+        <seg>Número do slide — o número de sequência do slide, sem a palavra “Slide”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49193,6 +49377,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default fields in a footer section can be replaced with text, or manual fields as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120429Z" creationid="timotheonb" creationdate="20250530T120429Z">
+        <seg>Os campos padrão em uma seção de rodapé podem ser substituídos por texto ou campos manuais da seguinte maneira:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default footer fields are set up as follows using the Header and Footer dialog (Figure &lt;t0&gt;38&lt;/t0&gt;):</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T115336Z" creationid="timotheonb" creationdate="20250530T115336Z">
@@ -49213,6 +49405,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195842Z" creationid="timot" creationdate="20250111T195842Z">
         <seg>Os menus e barras de ferramentas padrão são descritos no Capítulo 1, Introdução ao LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default sections in a footer can be formatted, resized, and repositioned.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120353Z" creationid="timotheonb" creationdate="20250530T120353Z">
+        <seg>As seções padrão em um rodapé podem ser formatadas, redimensionadas e reposicionadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53321,6 +53521,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Time (fixed)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T121035Z" creationid="timotheonb" creationdate="20250530T121035Z">
+        <seg>Hora (fixa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time (variable) — updates automatically each time the presentation is opened and each time a slide is opened more than once during a presentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T121058Z" creationid="timotheonb" creationdate="20250530T121058Z">
+        <seg>Hora (variável) — é atualizado automaticamente sempre que a apresentação é aberta e sempre que um slide é aberto mais de uma vez durante uma apresentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Time Stamp Authority</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201957Z" creationid="olivier" creationdate="20250325T201957Z">
@@ -56493,6 +56709,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213906Z" creationid="timot" creationdate="20250205T161054Z">
         <seg>Digite pelo menos um caractere, dois hifens e pelo menos mais um caractere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type in the required text or insert a manual field into the footer section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120745Z" creationid="timotheonb" creationdate="20250530T120745Z">
+        <seg>Digite o texto necessário ou insira um campo manual na seção de rodapé.</seg>
       </tuv>
     </tu>
     <tu>
