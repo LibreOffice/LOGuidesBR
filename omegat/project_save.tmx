@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224755Z" creationid="timotheonb" creationdate="20250530T224755Z">
+        <seg>(Figura &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Windows only)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001209Z" creationid="olivier" creationdate="20250303T001209Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T235823Z" creationid="olivier" creationdate="20250301T235823Z">
         <seg>*.otm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225438Z" creationid="timotheonb" creationdate="20250530T225438Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T220354Z" creationid="olivier-tdf" creationdate="20250109T220354Z">
         <seg>&lt;d0&gt;The Document Foundation&lt;/d0&gt;&lt;d1&gt;A Equipe de Documentação do LibreOffice&lt;/d1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;or&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223156Z" creationid="timotheonb" creationdate="20250530T223156Z">
+        <seg>&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;fórmula&lt;/s3&gt;&lt;/df0&gt; ou &lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;fórmula&lt;/s7&gt;&lt;/df4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1718,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Vitor Ferreira, &lt;/f0&gt;Olivier Hallot, B Antonio Fernandez,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223021Z" creationid="timotheonb" creationdate="20250530T223004Z">
+        <seg>&lt;f0&gt;Vitor Ferreira,&lt;/f0&gt;Olivier Hallot, B Antonio Fernández,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;W&lt;/f0&gt;ord &lt;s1/&gt;processing (text documents)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T235439Z" creationid="olivier" creationdate="20250301T235439Z">
@@ -1810,6 +1842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124345Z" creationid="olivier-tdf" creationdate="20250114T124345Z">
         <seg>&lt;f0&gt;⌥&lt;/f0&gt; (Opcional) ou Alt, dependendo do teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;⌥&lt;/f0&gt; (Option)&lt;f1&gt; or &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Alt&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223102Z" creationid="timotheonb" creationdate="20250530T223102Z">
+        <seg>&lt;f0&gt;⌥&lt;/f0&gt; (Opção)&lt;f1&gt; ou&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Alt&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2326,6 +2366,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Empty formula in a Writer document&lt;/s0&gt;&lt;s1&gt;Empty formula in a Writer document&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225559Z" creationid="timotheonb" creationdate="20250530T225559Z">
+        <seg>&lt;s0&gt;Fórmula vazia em um documento do Writer&lt;/s0&gt;&lt;s1&gt;Fórmula vazia em um documento do Writer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Enabling the Elements panel&lt;/s0&gt;&lt;s1&gt;Enabling the Elements panel&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224831Z" creationid="timotheonb" creationdate="20250530T224831Z">
+        <seg>&lt;s0&gt;Habilitar o painel Elementos&lt;/s0&gt;&lt;s1&gt;Habilitar o painel Elementos&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example Notes view in Workspace&lt;/s0&gt;&lt;s1&gt;Example Notes view in Workspace&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T202918Z" creationid="timotheonb" creationdate="20250502T202918Z">
@@ -2810,6 +2866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tdf" changedate="20241226T213131Z" creationid="tdf" creationdate="20241226T213131Z">
         <seg>&lt;s0&gt;LibreOffice Logo&lt;/s0&gt;&lt;s1&gt;LibreOffice Logo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;LibreOffice Math window parts&lt;/s0&gt;&lt;s1&gt;LibreOffice Math window parts&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223451Z" creationid="timotheonb" creationdate="20250530T223451Z">
+        <seg>&lt;s0&gt;Partes da janela do LibreOffice Math&lt;/s0&gt;&lt;s1&gt;Partes da janela do LibreOffice Math&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3910,6 +3974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Chapter 9, Getting Started with Math&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222912Z" creationid="timotheonb" creationdate="20250530T222912Z">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Guia de Introdução 24.8 - Capítulo 9, Introdução ao Math&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Preface&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T225946Z" creationid="olivier-tdf" creationdate="20250109T225946Z">
@@ -3962,6 +4034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250225T000827Z" creationid="olivier-tdf" creationdate="20250224T234256Z">
         <seg>&lt;t0&gt;30&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Guia de Introdução 24.8 - Capítulo 1, Noções Básicas do LibreOffice&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;36&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Getting Started Guide 24.8 - Chapter 9, Getting Started with Math&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222826Z" creationid="timotheonb" creationdate="20250530T222826Z">
+        <seg>&lt;t0&gt;36&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Guia de Introdução 24.8 - Capítulo 9, Introdução ao Math&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4038,6 +4118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Getting Started Guide 24.8 - Chapter 9, Getting Started with Math&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222900Z" creationid="timotheonb" creationdate="20250530T222900Z">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;|&lt;/f2&gt;&lt;t3&gt;Guia de Introdução 24.8 - Capítulo 9, Introdução ao Math&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Getting Started Guide 24.8 - Preface&lt;/t3&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T225932Z" creationid="olivier-tdf" creationdate="20250109T225932Z">
@@ -4098,6 +4186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T115112Z" creationid="olivier-tdf" creationdate="20250109T115112Z">
         <seg>&lt;t0&gt;Índice&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;17&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;Exporting and Importing&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;35&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222815Z" creationid="timotheonb" creationdate="20250530T222815Z">
+        <seg>&lt;t0&gt;Exportar e Importar&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;35&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4178,6 +4274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T151033Z" creationid="olivier" creationdate="20250405T151033Z">
         <seg>&lt;t0&gt;Guia de Introdução 24.8 - Capítulo 4, Trabalhar com estilos, modelos e hiperlinks&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;Getting Started Guide 24.8 - Chapter 9, Getting Started with Math&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222849Z" creationid="timotheonb" creationdate="20250530T222849Z">
+        <seg>&lt;t0&gt;Guia de Introdução 24.8 - Capítulo 9, Introdução ao Math&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;5&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5762,6 +5866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T212009Z" creationid="olivier-tdf" creationdate="20250209T194442Z">
         <seg>Após definir um intervalo de impressão, é possível adicionar mais células a ele criando outro intervalo de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After entering the markup language for the formula, close the Formula Editor by pressing the &lt;f0&gt;Esc&lt;/f0&gt; key or by clicking an area outside the formula in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225416Z" creationid="timotheonb" creationdate="20250530T225416Z">
+        <seg>Após inserir a linguagem de marcação da fórmula, feche o Editor de Fórmulas teclando &lt;f0&gt;Esc&lt;/f0&gt; ou clicando em uma área fora da fórmula no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9618,6 +9730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250410T182423Z" creationid="timot" creationdate="20250410T182423Z">
         <seg>Capítulo 6, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chapter 9, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222920Z" creationid="timotheonb" creationdate="20250530T222920Z">
+        <seg>Capítulo 9, &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17448,6 +17568,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Empty formula in a Writer document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225612Z" creationid="timotheonb" creationdate="20250530T225612Z">
+        <seg>Fórmula vazia em um documento do Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enable copying of content</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200910Z" creationid="olivier" creationdate="20250325T200910Z">
@@ -17516,6 +17644,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T123023Z" creationid="olivier" creationdate="20250313T123023Z">
         <seg>Habilita as configurações de substituição de fonte que foram definidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enabling the Elements panel</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224848Z" creationid="timotheonb" creationdate="20250530T224848Z">
+        <seg>Habilitar o painel Elementos</seg>
       </tuv>
     </tu>
     <tu>
@@ -18212,6 +18348,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T003631Z" creationid="tulio" creationdate="20250320T003631Z">
         <seg>Tudo o que é enviado para uma lista de discussão, incluindo endereços de e-mail e quaisquer outras informações pessoais escritas na mensagem, é arquivado publicamente e não pode ser excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Everything you send to a LibreOffice mailing list or forum, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223051Z" creationid="timotheonb" creationdate="20250530T223051Z">
+        <seg>Tudo o que é enviado para uma lista de e-mail ou fórum do LibreOffice, incluindo seu endereço de e-mail e qualquer outra informação pessoal escrita na mensagem, é arquivado publicamente e não pode ser excluído.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19480,6 +19624,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice Math window parts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223503Z" creationid="timotheonb" creationdate="20250530T223503Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Partes da janela do LibreOffice Math</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice Start Center</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T001133Z" creationid="tulio" creationdate="20250116T001133Z">
@@ -19912,6 +20064,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Enabling the Elements panel</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224845Z" creationid="timotheonb" creationdate="20250530T224845Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Habilitar o painel Elementos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Example of creating floating sub-toolbar from a tool palette</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T173755Z" creationid="tulio" creationdate="20250119T173755Z">
@@ -20156,6 +20316,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214420Z" creationid="olivier-tdf" creationdate="20250109T214420Z">
         <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Caixa de diálogo mostrando um exemplo de controles comuns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Empty formula in a Writer document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225608Z" creationid="timotheonb" creationdate="20250530T225608Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Fórmula vazia em um documento do Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -20772,6 +20940,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T114310Z" creationid="timot" creationdate="20250407T114310Z">
         <seg>A Figura &lt;t0&gt;30&lt;/t0&gt;&lt;s1/&gt; mostra um exemplo de texto com anotações de dois autores diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt;shows an example Writer document with the formula box selected ready for a formula to be entered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225353Z" creationid="timotheonb" creationdate="20250530T225353Z">
+        <seg>A Figura &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt; mostra um exemplo de documento do Writer com a caixa de fórmula selecionada, pronta para que uma fórmula seja inserida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21556,6 +21732,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T021820Z" creationid="olivier" creationdate="20250321T021820Z">
         <seg>Por exemplo, um símbolo de moeda que aparece na frente de um valor nunca aparece no final de uma linha se estiver listado na lista &lt;f0&gt;Não no final da linha&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, a divided by using markup language produces the fraction&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;when used in a formula.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223443Z" creationid="timotheonb" creationdate="20250530T223443Z">
+        <seg>Por exemplo, uma "dividido por" ao usar linguagem de marcação produz a fração&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;fórmula&lt;/s3&gt;&lt;/df0&gt;quando usado em uma fórmula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22432,6 +22616,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information on OLE objects, see “&lt;bf0&gt;Formulas in Writer&lt;/bf0&gt;” , “&lt;bf1&gt;Formulas in Calc, Draw, and Impress&lt;/bf1&gt;” &lt;bf2&gt;below&lt;/bf2&gt;, and the user guides for Writer, Calc, Draw, and Impress.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225555Z" creationid="timotheonb" creationdate="20250530T225555Z">
+        <seg>Para mais informações sobre objetos OLE, consulte “&lt;bf0&gt;Fórmulas no Writer&lt;/bf0&gt;", "&lt;bf1&gt;Fórmulas no Calc, Draw e Impress&lt;/bf1&gt;" &lt;bf2&gt;abaixo&lt;/bf2&gt;, e os Guias do usuário do Writer, Calc, Draw e Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information on OpenCL, visit &lt;a0&gt;https://www.khronos.org/opencl/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010052Z" creationid="olivier" creationdate="20250318T010052Z">
@@ -22476,6 +22668,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T082013Z" creationid="olivier" creationdate="20250308T082013Z">
         <seg>Para obter mais informações sobre como atribuir eventos a macros, consulte o Capítulo 11, Introdução às Macros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on creating formulas, see “&lt;bf0&gt;Creating formulas&lt;/bf0&gt;” &lt;bf1&gt;below&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224813Z" creationid="timotheonb" creationdate="20250530T224813Z">
+        <seg>Para mais informações sobre a criação de fórmulas, consulte “&lt;bf0&gt;Criar fórmulas&lt;/bf0&gt;"&lt;bf1&gt;abaixo&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23496,10 +23696,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formulas are inserted as OLE objects into documents and can be placed in different ways.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225458Z" creationid="timotheonb" creationdate="20250530T225458Z">
+        <seg>Fórmulas são inseridas como objetos OLE em documentos e podem ser inseridas de diferentes maneiras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formulas as separate documents or files</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223539Z" creationid="timotheonb" creationdate="20250530T223539Z">
+        <seg>Fórmulas como documentos ou arquivos separados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formulas can be saved in the standard Mathematical Markup Language (MathML) format for inclusion in web pages and other documents not created with LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192151Z" creationid="olivier-tdf" creationdate="20250109T192151Z">
         <seg>As fórmulas podem ser salvas no formato padrão Mathematical Markup Language (MathML) para inclusão em páginas da web e outros documentos não criados com o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formulas in LibreOffice documents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224851Z" creationid="timotheonb" creationdate="20250530T224851Z">
+        <seg>Fórmulas em documentos do LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -23628,6 +23852,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T174217Z" creationid="timot" creationdate="20250122T174217Z">
         <seg>A partir deste ponto, todas as alterações feitas no documento ocorrerão apenas no novo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From within LibreOffice Math, use the keyboard shortcut &lt;f0&gt;Ctrl+N&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223710Z" creationid="timotheonb" creationdate="20250530T223710Z">
+        <seg>No LibreOffice Math, use o atalho de teclado &lt;f0&gt;Ctrl+N&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24136,10 +24368,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting Started with Math</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222925Z" creationid="timotheonb" creationdate="20250530T222925Z">
+        <seg>Introdução ao Math</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Getting Started with Writer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215612Z" creationid="timot" creationdate="20250110T215612Z">
         <seg>Introdução ao Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting started</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223515Z" creationid="timotheonb" creationdate="20250530T223515Z">
+        <seg>Guia de Introdução</seg>
       </tuv>
     </tu>
     <tu>
@@ -27816,6 +28064,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the Elements panel has been selected in &lt;f0&gt;View&lt;/f0&gt; on the Menu bar, it may appear on the sidebar to the right of the Preview window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224749Z" creationid="timotheonb" creationdate="20250530T224749Z">
+        <seg>Se o painel Elementos foi selecionado em &lt;f0&gt;Exibir&lt;/f0&gt; na Barra de menus, ele pode aparecer na barra lateral à direita da janela de visualização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the Fields dialog is not open, click &lt;f0&gt;Insert &gt; Cross-reference&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T220415Z" creationid="timot" creationdate="20250409T220415Z">
@@ -28600,6 +28856,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you need to edit the formula, double-click on the formula object in the document to open the Formula Editor again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225436Z" creationid="timotheonb" creationdate="20250530T225436Z">
+        <seg>Se editar a fórmula é necessário, clique duas vezes no objeto da fórmula no documento para abrir o Editor de fórmulas novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you need to export a range selection or a selected group of shapes (images) into a graphics format, do the following</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T220616Z" creationid="olivier-tdf" creationdate="20250117T220616Z">
@@ -28620,6 +28884,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier" creationdate="20250121T154340Z">
         <seg>Se precisar inserir uma nova planilha após a última planilha num documento de planilha sem abrir a caixa de diálogo Inserir Planilha, clique no ícone &lt;f0&gt;Adicionar planilha&lt;/f0&gt; (+) ao lado das abas da planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you need to insert formulas frequently, you should add the Formula button to the Standard toolbar or create a keyboard shortcut.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225635Z" creationid="timotheonb" creationdate="20250530T225635Z">
+        <seg>Se for necessário inserir fórmulas com frequência, adicione o botão Fórmula à barra de ferramentas Padrão ou crie um atalho de teclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29536,6 +29808,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Calc, click in the spreadsheet cell where the formula should be inserted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224908Z" creationid="timotheonb" creationdate="20250530T224908Z">
+        <seg>No Calc, clique na célula da planilha onde a fórmula deve ser inserida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Calc, page styles also define the sequence for printing sheets.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130640Z" creationid="olivier-tdf" creationdate="20250218T130640Z">
@@ -29564,6 +29844,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234715Z" creationid="olivier" creationdate="20250301T234715Z">
         <seg>Em dezembro de 2019, o ODF 1.3 foi aprovado como especificação do comitê.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In Draw and Impress, the formula is inserted into the center of the drawing or slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224914Z" creationid="timotheonb" creationdate="20250530T224914Z">
+        <seg>No Draw e no Impress, a fórmula é inserida no centro do desenho ou slide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29692,6 +29980,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224501Z" creationid="olivier-tdf" creationdate="20250224T224501Z">
         <seg>No Writer, Impress e Draw, os documentos podem ser impressos na ordem correta para formar um livreto ou brochura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In Writer, click in the paragraph where the formula should be inserted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224905Z" creationid="timotheonb" creationdate="20250530T224905Z">
+        <seg>No Writer, clique no parágrafo onde a fórmula deve ser inserida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30404,6 +30700,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120603Z" creationid="olivier" creationdate="20250405T120603Z">
         <seg>Na caixa de diálogo Selecionar categoria (Figura &lt;t0&gt;11&lt;/t0&gt;), selecione uma categoria na lista exibida ou insira um nome na caixa &lt;f1&gt;Criar uma nova categoria&lt;/f1&gt; para criar uma categoria para o modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the Start Center, click &lt;f0&gt;Math Formula&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223654Z" creationid="timotheonb" creationdate="20250530T223654Z">
+        <seg>No Start Center, clique em&lt;f0&gt;Fórmula Math&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32528,6 +32832,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice Math window parts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223507Z" creationid="timotheonb" creationdate="20250530T223507Z">
+        <seg>Partes da janela do LibreOffice Math</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice Quickstarter</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T193722Z" creationid="olivier-tdf" creationdate="20250309T193722Z">
@@ -33196,6 +33508,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224122Z" creationid="olivier" creationdate="20250327T224122Z">
         <seg>Os arquivos XHTML gerados pelo LibreOffice têm melhor renderização de leiaute, mas não conseguem renderizar objetos que não sejam imagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice’s Formula (Equation) Editor</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222940Z" creationid="timotheonb" creationdate="20250530T222940Z">
+        <seg>Editor de Fórmulas (Equações) do LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -34260,6 +34580,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205001Z" creationid="olivier" creationdate="20250324T205001Z">
         <seg>O Math pode usar arquivos Open Document Formula (.odf), bem como os formatos usados pelos arquivos OpenOffice.org 1.x (.sxm), StarMath (.smf) e MathML (.mml).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Math is a formula editor included with LibreOffice used to create or edit formulas (equations) in a symbolic form, within LibreOffice documents or as stand-alone objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223136Z" creationid="timotheonb" creationdate="20250530T223136Z">
+        <seg>O Math é um editor de fórmulas incluído no LibreOffice usado para criar ou editar fórmulas (equações) de forma simbólica, dentro de documentos do LibreOffice ou como objetos independentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36800,6 +37128,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the Menu bar, go to &lt;f0&gt;File &gt; New &gt; Formula&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223601Z" creationid="timotheonb" creationdate="20250530T223601Z">
+        <seg>Na Barra de menus, vá para&lt;f0&gt;Arquivo &gt; Novo &gt; Fórmula&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the Menu bar, select &lt;f0&gt;File &gt; Export as PDF&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T221250Z" creationid="olivier-tdf" creationdate="20250117T221250Z">
@@ -36932,6 +37268,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T202309Z" creationid="timot" creationdate="20250409T202309Z">
         <seg>Na barra de ferramentas Padrão, clique no ícone &lt;f0&gt;Inserir tabela&lt;/f0&gt; e selecione&lt;f1&gt;Mais opções&lt;/f1&gt; na parte inferior do gráfico suspenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the Standard toolbar, click the triangle to the right of the &lt;f0&gt;New&lt;/f0&gt; icon and select &lt;f1&gt;Formula&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223635Z" creationid="timotheonb" creationdate="20250530T223635Z">
+        <seg>Na barra de ferramentas Padrão, clique no triângulo à direita do ícone &lt;f0&gt;Novo&lt;/f0&gt; e selecione&lt;f1&gt;Fórmula&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37628,6 +37972,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T230131Z" creationid="olivier" creationdate="20250327T230131Z">
         <seg>Para abrir a caixa de diálogo Salvar como, selecione &lt;f0&gt;Arquivo &gt; Salvar como&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Sidebar Styles deck</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223123Z" creationid="timotheonb" creationdate="20250530T223123Z">
+        <seg>Abra o deque de estilos da Barra lateral</seg>
       </tuv>
     </tu>
     <tu>
@@ -38580,6 +38932,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T111404Z" creationid="timot" creationdate="20250224T111404Z">
         <seg>Ou, existe a opção de não hifenizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Or, you may go to &lt;f1&gt;Insert &gt; Object &gt; OLE Object&lt;/f1&gt; on the Menu bar to open the Insert OLE Object dialog, then select &lt;f2&gt;Create new&lt;/f2&gt;, choose the &lt;f3&gt;Object Type&lt;/f3&gt; “LibreOffice &lt;ud4&gt;24.8&lt;/ud4&gt;&lt;s5/&gt;Formula” and then click &lt;f6&gt;OK&lt;/f6&gt; to open the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225224Z" creationid="timotheonb" creationdate="20250530T225224Z">
+        <seg>Também é possível abrir &lt;f1&gt;Inserir &gt; Objeto OLE &gt; Objeto OLE&lt;/f1&gt; na Barra de menus para abrir a caixa de diálogo Inserir objeto OLE e selecione&lt;f2&gt;Criar&lt;/f2&gt;, escolha o&lt;f3&gt;Tipo de objeto&lt;/f3&gt; “Fórmula do LibreOffice &lt;ud4&gt;24,8&lt;/ud4&gt;&lt;s5/&gt;” e depois clique em &lt;f6&gt;OK&lt;/f6&gt; para abrir o Editor de fórmulas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42129,6 +42489,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sample formulas are shown below:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223141Z" creationid="timotheonb" creationdate="20250530T223141Z">
+        <seg>Fórmulas de exemplo são mostradas abaixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Saturation and brightness values do not change the color itself (hue), but how it looks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T200854Z" creationid="olivier-tdf" creationdate="20250308T200854Z">
@@ -42957,6 +43325,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T215352Z" creationid="olivier" creationdate="20250307T215352Z">
         <seg>Consulte “&lt;bf0&gt;Adicionar comandos&lt;/bf0&gt;” na página &lt;bf1&gt;3&lt;/bf1&gt; sobre como adicionar comandos de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “&lt;bf0&gt;Customization&lt;/bf0&gt;” &lt;bf1&gt;below&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225727Z" creationid="timotheonb" creationdate="20250530T225727Z">
+        <seg>Veja "&lt;bf0&gt;Personalização&lt;/bf0&gt;"&lt;bf1&gt;abaixo&lt;/bf1&gt;&lt;s2/&gt;para maiores informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46497,6 +46873,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Skip Masonsmith, Peter Schofield, Kees Kriek, Mitchell Camfield, Rafael Lima, Winston Min Tjong, Hazel &lt;s0/&gt;Russman, Jean Hollis Weber, John A Smith, Martin Saffron, Regina Henschel, Christian Kühl, Florian Reisinger, Gisbert Friege (Dmaths), Jochen Schiffers, Frédéric Parrenin, Bernard Siaud, Steve Fanning, Olivier Hallot, Roman Kuznetsov, Dave Barton, Laurent Balland-Poirier.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223032Z" creationid="timotheonb" creationdate="20250530T223032Z">
+        <seg>Skip Masonsmith, Peter Schofield, Kees Kriek, Mitchell Camfield, Rafael Lima, Winston Min Tjong, Hazel &lt;s0/&gt;Russman, Jean Hollis Weber, John A Smith, Martin Saffron, Regina Henschel, Christian Kühl, Florian Reisinger, Gisbert Friege (Dmaths), Jochen Schiffers, Frédéric Parrenin, Bernard Siaud, Steve Fanning, Olivier Hallot, Roman Kuznetsov, Dave Barton, Laurent Balland-Poirier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Skip Masonsmith, flywire, Nay Catina Dia-Schneebeli, Mitchell Camfield, Rafael Lima, Felipe Viggiano, Steve Fanning, Jean Hollis Weber, Andrew Jensen, Amanda Labby, Cathy Crumbley, Dan Lewis, Dave Barton, Pulkit Krishna, Jorge Rodriguez, Olivier Hallot, Paul Figueiredo, Peter Schofield, Kees Kriek, Martin Saffron, Steve Schwettman, Dave Barton, Hazel Russman, Ron Faile Jr., Kevin O’Brien, Magnus Adielsson, Iain Roberts, JiHui Choi, Regina Henschel, Laurent Balland-Poirier, Christian Kühl, Florian Reisinger, Gisbert Friege (Dmaths), Jochen Schiffers, Frédéric Parrenin, Bernard Siaud, Miklos Vajna, Valerii Goncharuk, Andrew Pitonyak, Claire Wood, John A Smith, Roman Kuznetsov, Vasudev Narayanan, Vlada Slavitskaya.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250109T002712Z" creationid="olivier" creationdate="20250109T002712Z">
@@ -49201,6 +49585,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Elements panel will be on the right of the Preview window if Elements has been selected in &lt;f0&gt;View&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225330Z" creationid="timotheonb" creationdate="20250530T225330Z">
+        <seg>O painel Elementos estará à direita da Janela de visualização se Elementos estiver selecionado em &lt;f0&gt;Exibir&lt;/f0&gt; na Barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Expert Configuration dialog lets a user access, edit, and save configuration preferences that can make the user profile of LibreOffice unstable, inconsistent, or even unusable.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T004735Z" creationid="olivier" creationdate="20250318T004735Z">
@@ -49221,6 +49613,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T173836Z" creationid="olivier" creationdate="20250312T173748Z">
         <seg>A página Fontes na caixa de diálogo Opções do LibreOffice (Figura &lt;t0&gt;6&lt;/t0&gt;) permite a definição de substituições para fontes que possam aparecer nos documentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Formula Editor creates a formula as a separate file that can become a formula library or can be inserted directly into a document using LibreOffice Writer, Calc, Impress, or Draw.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223532Z" creationid="timotheonb" creationdate="20250530T223532Z">
+        <seg>O Editor de fórmulas cria uma fórmula como um arquivo separado que pode se tornar uma biblioteca de fórmulas ou pode ser inserido diretamente em um documento usando o LibreOffice Writer, Calc, Impress ou Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Formula Editor in Math uses a markup language to represent formulas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223339Z" creationid="timotheonb" creationdate="20250530T223339Z">
+        <seg>O Editor de fórmulas no Math usa uma linguagem de marcação para representar fórmulas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52801,6 +53209,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then, go to the Menu bar and select &lt;f0&gt;Insert &gt; Object &gt; Formula Object&lt;/f0&gt; to open the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225005Z" creationid="timotheonb" creationdate="20250530T225005Z">
+        <seg>Em seguida, vá até a barra de menu e selecione&lt;f0&gt;Inserir &gt; Objeto OLE &gt; Objeto de fórmula&lt;/f0&gt; para abrir o Editor de fórmulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then, when you press the &lt;f1&gt;Enter &lt;/f1&gt;key in a selected cell, the cell switches to edit mode, eliminating the need to press &lt;f2&gt;F2&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T221238Z" creationid="olivier" creationdate="20250123T230250Z">
@@ -54185,6 +54601,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This markup language is designed to be easily read by users.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223355Z" creationid="timotheonb" creationdate="20250530T223355Z">
+        <seg>Esta linguagem de marcação foi projetada para ser lida facilmente pelos usuários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This may be useful if you are creating a PDF and want to control how it will look on other computer systems.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200145Z" creationid="olivier-tdf" creationdate="20250328T200145Z">
@@ -55473,6 +55897,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To create a formula as a separate document or file, use one of the following methods to open an empty formula document in LibreOffice Math:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223549Z" creationid="timotheonb" creationdate="20250530T223549Z">
+        <seg>Para criar uma fórmula como um documento ou arquivo separado, use um dos seguintes métodos para abrir um documento de fórmula vazio no LibreOffice Math:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To create a new page style in Writer, do the following:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T202835Z" creationid="olivier" creationdate="20250404T202835Z">
@@ -56245,6 +56677,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T165345Z" creationid="timot" creationdate="20250409T165332Z">
         <seg>Para inserir uma nota de rodapé ou uma nota final, posicione o cursor onde gostaria que o marcador de nota de rodapé ou nota final apareça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To insert a formula into a LibreOffice document, open the target document in Writer, Calc, Draw, or Impress.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224900Z" creationid="timotheonb" creationdate="20250530T224900Z">
+        <seg>Para inserir uma fórmula em um documento do LibreOffice, abra o documento de destino no Writer, Calc, Draw ou Impress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61041,6 +61481,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the markup language in the Formula Editor is entered, the formula will appear in the Preview window as the markup language is entered in the Formula editor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224714Z" creationid="timotheonb" creationdate="20250530T224714Z">
+        <seg>Quando a linguagem de marcação for inserida no Editor de fórmulas, a fórmula aparecerá na janela de Visualização conforme a linguagem de marcação for inserida no Editor de fórmulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the mouse pointer lies over the grid of cells, the system default pointer is normally shown (typically an arrow pointer).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T120906Z" creationid="olivier-tdf" creationdate="20250117T120906Z">
@@ -63172,6 +63620,14 @@
         <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a2&gt;http://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123941Z" creationid="olivier-tdf" creationdate="20250114T123941Z">
+        <seg>É permitida a distribuição e/ou modificação sob os termos tanto da GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versão 3 ou posterior, ou pela licença Creative Commons Attribution (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), versão 4.0 ou posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;https//creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222951Z" creationid="timotheonb" creationdate="20250530T222951Z">
         <seg>É permitida a distribuição e/ou modificação sob os termos tanto da GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versão 3 ou posterior, ou pela licença Creative Commons Attribution (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), versão 4.0 ou posterior.</seg>
       </tuv>
     </tu>
