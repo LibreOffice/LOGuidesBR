@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Default view&lt;/f0&gt; — displays the current slide, including any effects and the next slide in the presentation (Figure &lt;t1&gt;49&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T111857Z" creationid="timotheonb" creationdate="20250531T111857Z">
+        <seg>&lt;f0&gt;Em janela&lt;/f0&gt; — exibe o slide atual, incluindo quaisquer efeitos e o próximo slide na apresentação (Figura &lt;t1&gt;49&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;at &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;https://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T115212Z" creationid="olivier-tdf" creationdate="20250109T115212Z">
@@ -2042,6 +2050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T214545Z" creationid="olivier" creationdate="20250307T214545Z">
         <seg>&lt;s0&gt;Adicionar novo menu&lt;/s0&gt;&lt;s1&gt;Adicionar novo menu&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Animation deck in Sidebar&lt;/s0&gt;&lt;s1&gt;Animation deck in Sidebar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T103033Z" creationid="timotheonb" creationdate="20250531T103033Z">
+        <seg>&lt;s0&gt;Deque Animação na Barra lateral&lt;/s0&gt;&lt;s1&gt;Deque Animação na Barra lateral&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7094,6 +7110,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Animation deck in Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T103046Z" creationid="timotheonb" creationdate="20250531T103046Z">
+        <seg>Deque Animação na Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Animation effects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102359Z" creationid="timotheonb" creationdate="20250531T102359Z">
+        <seg>Efeitos de animação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Animations are best applied using &lt;f0&gt;Normal&lt;/f0&gt; view in the Workspace so that individual objects on a single slide can easily be selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102451Z" creationid="timotheonb" creationdate="20250531T102451Z">
+        <seg>As animações são melhor aplicadas ao usar a visualização &lt;f0&gt;Normal&lt;/f0&gt; no Espaço de trabalho para que objetos individuais em um único slide possam ser facilmente selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Animations can make a presentation more lively and memorable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102420Z" creationid="timotheonb" creationdate="20250531T102420Z">
+        <seg>As animações podem tornar uma apresentação mais animada e memorável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Another file type for the current document can be selected in the Save as dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T160436Z" creationid="olivier" creationdate="20250318T160436Z">
@@ -10822,6 +10870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Play&lt;/f0&gt; to check how the animation effect when applied to a slide element.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T103005Z" creationid="timotheonb" creationdate="20250531T103005Z">
+        <seg>Clique em &lt;f0&gt;Reproduzir&lt;/f0&gt; para verificar como o efeito de animação quando aplicado a um elemento de slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;Preview in Web Browser&lt;/f0&gt; on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010501Z" creationid="olivier" creationdate="20250328T010501Z">
@@ -12102,6 +12158,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Slide Transition&lt;/f0&gt; on the Sidebar to open the Slide Transition deck.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T101859Z" creationid="timotheonb" creationdate="20250531T101859Z">
+        <seg>Clique em &lt;f0&gt;Transição de Slides&lt;/f0&gt; na Barra lateral para abrir o deque Transição de slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Start from First Slide&lt;/f0&gt; on the Slide Sorter toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T103748Z" creationid="timotheonb" creationdate="20250531T103748Z">
+        <seg>Clique em &lt;f0&gt;Iniciar no primeiro slide&lt;/f0&gt; na barra de ferramentas do Organizador de slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Styles actions&lt;/f0&gt; at the top of the Styles deck and select &lt;f1&gt;New Style from Selection&lt;/f1&gt; from the context menu to open the New Style from Selection dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203439Z" creationid="olivier" creationdate="20250404T203439Z">
@@ -12930,6 +13002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204133Z" creationid="olivier" creationdate="20250123T204133Z">
         <seg>Clique no ícone novamente para retornar a &lt;f3&gt;linha de entrada&lt;/f3&gt; à sua altura de linha única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the left mouse button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T104007Z" creationid="timotheonb" creationdate="20250531T104007Z">
+        <seg>Clique com o botão esquerdo do mouse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16438,6 +16518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do not select the &lt;f0&gt;Apply Transition to All Slides&lt;/f0&gt; option, otherwise the selected music file restarts at every slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102245Z" creationid="timotheonb" creationdate="20250531T102245Z">
+        <seg>Não selecione a opção &lt;f0&gt;Aplicar transição a todos os slides&lt;/f0&gt;, caso contrário, o arquivo de música selecionado será reiniciado em cada slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DocBook (.xml)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T203613Z" creationid="olivier" creationdate="20250324T203613Z">
@@ -16980,6 +17068,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T133714Z" creationid="tulio" creationdate="20250411T133714Z">
         <seg>Durante o redimensionamento, uma figura de referência aparece ajudando a redimensionar uma figura ou gráfico (Figura &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During the presentation, any animations on a slide are run in the specified order as the slide is displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T105232Z" creationid="timotheonb" creationdate="20250531T105232Z">
+        <seg>Durante a apresentação, todas as animações em um slide são executadas na ordem especificada em que o slide é exibido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20544,6 +20640,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;48&lt;/seq0&gt;: Animation deck in Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T103043Z" creationid="timotheonb" creationdate="20250531T103043Z">
+        <seg>Figura &lt;seq0&gt;48&lt;/seq0&gt;: Deque Animação na Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Changing ruler units</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131331Z" creationid="timotheonb" creationdate="20250502T131331Z">
@@ -22668,6 +22772,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110452Z" creationid="timotheonb" creationdate="20250530T110452Z">
         <seg>Para mais informações sobre como adicionar, editar, formatar e gerenciar os diferentes tipos de objetos em um slide mestre, consulte o &lt;f0&gt;Guia do Impress&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on animation effects, see the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102605Z" creationid="timotheonb" creationdate="20250531T102605Z">
+        <seg>Para obter mais informações sobre efeitos de animação, consulte o &lt;f0&gt;Guia do Impress&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25136,6 +25248,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Start from First Slide&lt;/f0&gt;, or &lt;f1&gt;Start from Current Slide&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T103239Z" creationid="timotheonb" creationdate="20250531T103239Z">
+        <seg>Vá para &lt;f0&gt;Apresentação de slides &gt; Iniciar no primeiro slide&lt;/f0&gt; ou &lt;f1&gt;Iniciar do slide atual&lt;/f1&gt; na Barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Styles &gt; New Style from Selection&lt;/f0&gt; on the Menu bar, enter a name for the new style, and click the &lt;f1&gt;OK&lt;/f1&gt; button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211721Z" creationid="olivier" creationdate="20250204T163500Z">
@@ -25264,6 +25384,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice Impress &gt; General&lt;/f1&gt;) and select &lt;f2&gt;Enable Presenter Console&lt;/f2&gt; in &lt;f3&gt;Presentation&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T111553Z" creationid="timotheonb" creationdate="20250531T111553Z">
+        <seg>*** Vá para &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Impress &gt; Geral&lt;/f0&gt; (macOS&lt;f1&gt;LibreOffice &gt; Preferências &gt; LibreOffice Impress &gt; Geral&lt;/f1&gt;) e selecione&lt;f2&gt;Habilitar o console do apresentador&lt;/f2&gt; em&lt;f3&gt;Apresentação&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer/Web&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice Writer/Web&lt;/f1&gt;) on the Menu bar to open the Options LibreOffice Writer/Web dialog (Figure &lt;t2&gt;13&lt;/t2&gt;), and then you can define the basic settings for LibreOffice documents in HTML format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182152Z" creationid="olivier-tdf" creationdate="20250328T182152Z">
@@ -25372,6 +25500,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T115105Z" creationid="timotheonb" creationdate="20250530T115105Z">
         <seg>Vá para &lt;f0&gt;Exibir &gt; Normal&lt;/f0&gt; na Barra de menus ou clique em &lt;f1&gt;Fechar Exibição mestre&lt;/f1&gt; na barra de ferramentas Exibição mestre quando terminar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;View &gt; Normal&lt;/f0&gt; on the Menu bar to open &lt;f1&gt;Normal&lt;/f1&gt; view in the Workspace.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102628Z" creationid="timotheonb" creationdate="20250531T102628Z">
+        <seg>Vá para &lt;f0&gt;Exibir &gt; Normal&lt;/f0&gt; na Barra de menus para abrir a visualização &lt;f1&gt;Normal&lt;/f1&gt; no Espaço de trabalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26472,6 +26608,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, as with transitions, heavy use of animations can be distracting and even annoying for an audience expecting a professional presentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102428Z" creationid="timotheonb" creationdate="20250531T102428Z">
+        <seg>No entanto, como nas transições, o uso intenso de animações pode distrair e até irritar o público que espera uma apresentação profissional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, changing slide layout that already has contents can have a dramatic effect.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250509T104828Z" creationid="timot" creationdate="20250509T104807Z">
@@ -27100,6 +27244,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172217Z" creationid="olivier-tdf" creationdate="20250403T172217Z">
         <seg>Se um estilo de parágrafo tiver sido criado e aplicado ao texto, o nome do estilo aparecerá na lista suspensa &lt;f0&gt;Definir estilo de parágrafo&lt;/f0&gt; na extremidade esquerda da barra de ferramentas Formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a portion of the text in a text box is selected, any selection handles may not be visible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102557Z" creationid="timotheonb" creationdate="20250531T102557Z">
+        <seg>Se uma parte do texto em uma caixa de texto estiver selecionada, as alças de seleção podem não estar visíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27976,6 +28128,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If required, select &lt;f0&gt;Automatic Preview&lt;/f0&gt; to check the effect of the animation to a slide element.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102951Z" creationid="timotheonb" creationdate="20250531T102951Z">
+        <seg>Se necessário, selecione &lt;f0&gt;Visualização automática&lt;/f0&gt; para verificar o efeito da animação em um elemento de slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If required, set up the photo album to run as a presentation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T192106Z" creationid="timotheonb" creationdate="20250530T192106Z">
@@ -28432,6 +28592,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the music is suitable, click &lt;f0&gt;Open&lt;/f0&gt; to add the music to the selected slide and close the file browser window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102134Z" creationid="timotheonb" creationdate="20250531T102134Z">
+        <seg>Se a música for adequada, clique em &lt;f0&gt;Abrir&lt;/f0&gt; para adicionar a música ao slide selecionado e feche a janela do navegador de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the name of the target is known, type it into the &lt;f1&gt;Target&lt;/f1&gt; text box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T145113Z" creationid="olivier" creationdate="20250405T145113Z">
@@ -28504,6 +28672,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the presentation is going to be displayed on a different computer, remember to make sure that the music file is available on the computer where the presentation will be played.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102324Z" creationid="timotheonb" creationdate="20250531T102324Z">
+        <seg>Se a apresentação for exibida em um computador diferente, lembre-se de garantir que o arquivo de música esteja disponível no computador onde a apresentação será reproduzida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the printer selected is capable of color printing, this selection can be switched off to print the presentation in monochrome.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T145513Z" creationid="olivier" creationdate="20250223T145513Z">
@@ -28532,6 +28708,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011208Z" creationid="olivier" creationdate="20250321T011208Z">
         <seg>Se o mesmo erro for cometido novamente ao editar o documento, o erro será marcado como outro erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the slide transition is set to &lt;f0&gt;On mouse click&lt;/f0&gt; on the &lt;f1&gt;Advance Slide&lt;/f1&gt; panel, use one of the following options to for the transition to work and advance to the next slide:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T104001Z" creationid="timotheonb" creationdate="20250531T104001Z">
+        <seg>Se a transição do slide estiver definida como &lt;f0&gt;Ao clicar no mouse&lt;/f0&gt; no painel &lt;f1&gt;Avançar slide&lt;/f1&gt;, use uma das seguintes opções para para a transição funcionar e avance para o próximo slide:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the slide transition is set to start after a time delay set in &lt;f0&gt;After&lt;/f0&gt; on the &lt;f1&gt;Advance Slide&lt;/f1&gt; panel, the transition runs after the time delay has elapsed and advances to the next slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T103935Z" creationid="timotheonb" creationdate="20250531T103935Z">
+        <seg>Se a transição do slide estiver definida para iniciar após um atraso de tempo definido em &lt;f0&gt;Depois&lt;/f0&gt; no painel &lt;f1&gt;Avançar slide&lt;/f1&gt;, a transição será executada após o atraso de tempo ter decorrido e avançará para o próximo slide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29592,6 +29784,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Category&lt;/f0&gt;, select an animation category from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102854Z" creationid="timotheonb" creationdate="20250531T102854Z">
+        <seg>Em &lt;f0&gt;Categoria&lt;/f0&gt;, selecione uma categoria de animação na lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In &lt;f0&gt;Color&lt;/f0&gt;, select how the handouts are printed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T191142Z" creationid="timotheonb" creationdate="20250530T191142Z">
@@ -29624,10 +29824,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Delay&lt;/f0&gt;, enter a time in seconds for to create a delay before the animation starts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102934Z" creationid="timotheonb" creationdate="20250531T102934Z">
+        <seg>Em &lt;f0&gt;Atraso&lt;/f0&gt;, insira um tempo em segundos para criar um atraso antes do início da animação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Direction&lt;/f0&gt;, select the direction of the animation from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102920Z" creationid="timotheonb" creationdate="20250531T102920Z">
+        <seg>Em &lt;f0&gt;Direção&lt;/f0&gt;, selecione a direção da animação na lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In &lt;f0&gt;Document&lt;/f0&gt;, select the required options in the drop-down lists as follows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T191012Z" creationid="timotheonb" creationdate="20250530T191012Z">
         <seg>Em &lt;f0&gt;Documento&lt;/f0&gt;, selecione as opções necessárias nas listas suspensas da seguinte maneira:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Duration&lt;/f0&gt;, enter a time in seconds for the animation duration.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102925Z" creationid="timotheonb" creationdate="20250531T102925Z">
+        <seg>Em &lt;f0&gt;Duração&lt;/f0&gt;, insira um tempo em segundos para a duração da animação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Effect&lt;/f0&gt;, select an animation effect from the available options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102902Z" creationid="timotheonb" creationdate="20250531T102902Z">
+        <seg>Em &lt;f0&gt;Efeito&lt;/f0&gt;, selecione um efeito de animação nas opções disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29772,6 +30004,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T191203Z" creationid="timotheonb" creationdate="20250530T191203Z">
         <seg>Em &lt;f0&gt;Tamanho&lt;/f0&gt;, selecione o tamanho de impressão dos folhetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Start&lt;/f0&gt;, select how the animation starts from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102909Z" creationid="timotheonb" creationdate="20250531T102909Z">
+        <seg>Em &lt;f0&gt;Iniciar&lt;/f0&gt;, selecione como a animação começa na lista suspensa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30440,6 +30680,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Effects&lt;/f0&gt; panel, click on +&lt;f1&gt;Add&lt;/f1&gt; to open the animation options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102756Z" creationid="timotheonb" creationdate="20250531T102756Z">
+        <seg>No painel &lt;f0&gt;Efeitos&lt;/f0&gt;, clique em +&lt;f1&gt;Adicionar&lt;/f1&gt; para abrir as opções de animação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the &lt;f0&gt;Existing slides&lt;/f0&gt; list, select the slides to include in the show.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T193357Z" creationid="timotheonb" creationdate="20250530T193357Z">
@@ -30468,6 +30716,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155347Z" creationid="olivier" creationdate="20250121T155347Z">
         <seg>Na lista &lt;f0&gt;Inserir antes&lt;/f0&gt;, escolha a posição no documento de planilha de destino onde deseja colocar a planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Modify Transition&lt;/f0&gt; panel, select a sound in the &lt;f1&gt;Sound&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102029Z" creationid="timotheonb" creationdate="20250531T102029Z">
+        <seg>No painel &lt;f0&gt;Modificar transição&lt;/f0&gt;, selecione um som na lista suspensa &lt;f1&gt;Som&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30556,6 +30812,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T205105Z" creationid="timotheonb" creationdate="20250530T205105Z">
         <seg>No painel &lt;f0&gt;Slides&lt;/f0&gt; ou na visualização &lt;f1&gt;Organizador de slides&lt;/f1&gt; no Espaço de trabalho, selecione os slides onde as transições de slides serão aplicadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Slides&lt;/f0&gt; pane, or &lt;f1&gt;Slide Sorter&lt;/f1&gt; view in the Workspace, select the slide to add sound or music.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102007Z" creationid="timotheonb" creationdate="20250531T102007Z">
+        <seg>No painel &lt;f0&gt;Slides&lt;/f0&gt; ou na visualização &lt;f1&gt;Organizador de slides&lt;/f1&gt; no Espaço de trabalho selecione o slide para adicionar som ou música.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30812,6 +31076,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T201342Z" creationid="olivier" creationdate="20250327T201342Z">
         <seg>No exemplo acima, os metadados personalizados devem existir no diretório &lt;f1&gt;MeuTexto&lt;/f1&gt; como &lt;f2&gt;MeuTexto.xmp&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the file browser window that opens, navigate to where the music file is located.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102110Z" creationid="timotheonb" creationdate="20250531T102110Z">
+        <seg>Na janela do navegador de arquivos que se abre, navegue até onde o arquivo de música está localizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36928,6 +37200,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On a slide, an element, such as a graphic or an entire text box, has selection handles around it when selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102549Z" creationid="timotheonb" creationdate="20250531T102549Z">
+        <seg>Em um slide, um elemento, como uma figura ou uma caixa de texto inteira, tem alças de seleção ao seu redor quando selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On a vertical toolbar, press the up or down arrows to move tool selection upward or downward.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T210041Z" creationid="olivier" creationdate="20250303T001940Z">
@@ -37292,6 +37572,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T211138Z" creationid="timot" creationdate="20250402T210910Z">
         <seg>Na Barra lateral, abra o deque Páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the Sidebar, select &lt;f0&gt;Animation&lt;/f0&gt; to open the Animation deck (Figure &lt;t1&gt;48&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102715Z" creationid="timotheonb" creationdate="20250531T102715Z">
+        <seg>Na Barra lateral, selecione &lt;f0&gt;Animação&lt;/f0&gt; para abrir o deque Animação (Figura &lt;t1&gt;48&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38124,6 +38412,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T133440Z" creationid="timotheonb" creationdate="20250525T133440Z">
         <seg>Abra as opções para colunas de texto usando um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the presentation and start the slide show using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T103103Z" creationid="timotheonb" creationdate="20250531T103103Z">
+        <seg>Abra a apresentação e inicie a apresentação de slides usando um dos seguintes métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40161,6 +40457,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Presenter Console</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T111050Z" creationid="timotheonb" creationdate="20250531T111050Z">
+        <seg>Console do apresentador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Presets</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T145126Z" creationid="olivier" creationdate="20250223T145126Z">
@@ -40385,10 +40689,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press the &lt;f1&gt;Esc&lt;/f1&gt; key, or click the left mouse button to exit the slide show.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T105202Z" creationid="timotheonb" creationdate="20250531T105202Z">
+        <seg>Tecle &lt;f1&gt;Esc&lt;/f1&gt; ou clique com o botão esquerdo do mouse para sair da apresentação de slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the down arrow key</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T104024Z" creationid="timotheonb" creationdate="20250531T104024Z">
+        <seg>Tecle a seta para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press the down, or up arrow, to move the selection down, or up&lt;be0/&gt;, the list of menu commands.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001805Z" creationid="olivier" creationdate="20250303T001805Z">
         <seg>Pressione a seta para baixo ou para cima para mover a seleção para baixo ou para cima&lt;be0/&gt; na lista de comandos do menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the left arrow key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T104140Z" creationid="timotheonb" creationdate="20250531T104140Z">
+        <seg>Tecle a seta para a esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the page down key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T104051Z" creationid="timotheonb" creationdate="20250531T104051Z">
+        <seg>Tecle Page Down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the page up key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T105055Z" creationid="timotheonb" creationdate="20250531T105055Z">
+        <seg>Tecle Page Up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the right arrow key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T104036Z" creationid="timotheonb" creationdate="20250531T104036Z">
+        <seg>Tecle a seta para a direita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40409,10 +40761,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press the space bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T104109Z" creationid="timotheonb" creationdate="20250531T104109Z">
+        <seg>Tecle a barra de espaço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press the underlined character directly to carry out the action or option.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001256Z" creationid="olivier" creationdate="20250303T001256Z">
         <seg>Pressione o caractere sublinhado diretamente para realizar a ação ou opção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the up arrow key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T104130Z" creationid="timotheonb" creationdate="20250531T104130Z">
+        <seg>Tecle a seta para cima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42481,6 +42849,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Running presentations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T103056Z" creationid="timotheonb" creationdate="20250531T103056Z">
+        <seg>Executar apresentações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Runs a macro field.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T140710Z" creationid="olivier-tdf" creationdate="20250303T140710Z">
@@ -43729,6 +44105,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Other sound&lt;/f0&gt; in the &lt;f1&gt;Sound&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102052Z" creationid="timotheonb" creationdate="20250531T102052Z">
+        <seg>Selecione &lt;f0&gt;Outro som&lt;/f0&gt; na lista suspensa &lt;f1&gt;Som&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Page Number&lt;/f0&gt; if the handout pages are to be numbered.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T190630Z" creationid="timotheonb" creationdate="20250530T190630Z">
@@ -44245,6 +44629,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T210305Z" creationid="olivier" creationdate="20250303T003842Z">
         <seg>Selecione todo o texto ou objetos num documento, use &lt;f0&gt;Ctrl+A&lt;/f0&gt; (macOS&lt;f1&gt;⌘ +A&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select an element in the Animation panel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102742Z" creationid="timotheonb" creationdate="20250531T102742Z">
+        <seg>Selecione um elemento no painel Animação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select an element on a slide for animation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102632Z" creationid="timotheonb" creationdate="20250531T102632Z">
+        <seg>Selecione um elemento em um slide para animação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44917,6 +45317,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T220711Z" creationid="olivier" creationdate="20250307T220711Z">
         <seg>Selecione o menu na lista suspensa &lt;f0&gt;Destino&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the music file required and click &lt;f0&gt;Play&lt;/f0&gt; to check if the music is suitable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102123Z" creationid="timotheonb" creationdate="20250531T102123Z">
+        <seg>Selecione o arquivo de música necessário e clique em &lt;f0&gt;Reproduzir&lt;/f0&gt; para verificar se a música é adequada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47009,6 +47417,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Slide animations are similar to transitions, but they are applied to individual elements in a single slide, such as title, chart, shape, or individual bullet point.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102414Z" creationid="timotheonb" creationdate="20250531T102414Z">
+        <seg>As animações de slides são semelhantes às transições, mas são aplicadas a elementos individuais em um único slide, como título, figura, forma ou marcador individual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Slide contents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250509T095924Z" creationid="timot" creationdate="20250509T095924Z">
@@ -47421,6 +47837,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211909Z" creationid="olivier-tdf" creationdate="20250209T184211Z">
         <seg>Ordenações são úteis quando procurar um item específico e se tornam ainda mais úteis após filtrar os dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sound or music can be played during a presentation as a transition effect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T101706Z" creationid="timotheonb" creationdate="20250531T101706Z">
+        <seg>Som ou música podem ser tocados durante uma apresentação como um efeito de transição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50081,6 +50505,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Presenter Console has to be enabled in Impress before use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T111228Z" creationid="timotheonb" creationdate="20250531T111228Z">
+        <seg>O Console do apresentador precisa ser habilitado no Impress antes do uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Presenter Console only works with computers and operating systems that support two displays.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T111208Z" creationid="timotheonb" creationdate="20250531T111208Z">
+        <seg>O Console do apresentador só funciona com computadores e sistemas operacionais que suportam dois monitores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Presenter Console provides extra control over slide shows when using dual displays, such as a laptop and a large display, or projector, for an audience.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T111136Z" creationid="timotheonb" creationdate="20250531T111136Z">
+        <seg>O Console do apresentador fornece controle extra sobre apresentações de slides ao usar monitores duplos, como um laptop e um monitor grande ou projetor, para uma audiência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Print Preview toolbar (Figure &lt;t1&gt;15&lt;/t1&gt;) opens and the Formatting toolbar closes:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T231838Z" creationid="olivier-tdf" creationdate="20250224T231838Z">
@@ -51625,6 +52073,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The link to the sound or music file must be established before starting the presentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102355Z" creationid="timotheonb" creationdate="20250531T102355Z">
+        <seg>O vínculo para o arquivo de som ou música deve ser estabelecido antes de iniciar a apresentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The list in the left-hand box of the Options LibreOffice dialog varies depending on which LibreOffice module is open.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T184051Z" creationid="olivier-tdf" creationdate="20250309T184051Z">
@@ -52633,6 +53089,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The sound or music file is linked to a presentation rather than embedded.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102331Z" creationid="timotheonb" creationdate="20250531T102307Z">
+        <seg>O arquivo de som ou música é vinculado à apresentação e não incorporado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The sound or music file restarts once it is finished until the next sound or music file that is inserted in the slide show.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102231Z" creationid="timotheonb" creationdate="20250531T102231Z">
+        <seg>O arquivo de som ou música é reiniciado assim que terminar até o próximo arquivo de som ou música inserido na apresentação de slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The spell check for the selected language only functions when the corresponding language module is installed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T132242Z" creationid="olivier" creationdate="20250320T132242Z">
@@ -53005,6 +53477,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202409Z" creationid="olivier" creationdate="20250327T202409Z">
         <seg>O valor desta propriedade deve ser uma data conforme o esquema XML Date Time no formato: CCYY-MM-DDThh:mm:ssZ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The view seen on a laptop display includes the current slide that can be seen by the audience, the next slide in the presentation, any slide notes, and a presentation timer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T111152Z" creationid="timotheonb" creationdate="20250531T111152Z">
+        <seg>A visualização na tela de um laptop inclui o slide atual que pode ser visto pelo público, o próximo slide na apresentação, quaisquer notas do slide e um cronômetro de apresentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55257,6 +55737,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To access more navigation options during a slide-show, right-click on a slide and use the options available in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T105105Z" creationid="timotheonb" creationdate="20250531T105105Z">
+        <seg>Para acessar mais opções de navegação durante uma apresentação de slides, clique com o botão direito do mouse em um slide e use as opções disponíveis no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To access the Move/Copy Sheet dialog, right-click on the sheet tab you wish to move or copy and then select &lt;f0&gt;Move or Copy Sheet&lt;/f0&gt; in the context menu, or go to &lt;f1&gt;Sheet &gt; Move or Copy Sheet&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier" creationdate="20250121T155137Z">
@@ -56441,6 +56929,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To exit the slide show and return to the Impress workspace at any time, press the &lt;f0&gt;Esc&lt;/f0&gt; key during the slide show.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T105224Z" creationid="timotheonb" creationdate="20250531T105224Z">
+        <seg>Para sair da apresentação de slides e retornar ao Espaço de trabalho do Impress a qualquer momento, tecle &lt;f0&gt;Esc&lt;/f0&gt; durante a apresentação de slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To explain these key presses, it is helpful to define R&lt;f2&gt;max&lt;/f2&gt; as the highest numbered row in the sheet that contains any data and C&lt;f3&gt;max&lt;/f3&gt; as the rightmost column in the sheet that contains any data.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T004117Z" creationid="olivier" creationdate="20250120T004117Z">
@@ -57009,6 +57505,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To navigate backwards through a slide show one slide at a time, use one of the following options:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T104119Z" creationid="timotheonb" creationdate="20250531T104119Z">
+        <seg>Para navegar para trás através de uma apresentação de slides, um slide de cada vez, use uma das seguintes opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To navigate between sheets in a spreadsheet:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T005126Z">
@@ -57173,6 +57677,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120114Z" creationid="timotheonb" creationdate="20250530T120114Z">
         <seg>Para inserir o número do slide na seção direita do rodapé, selecione &lt;f0&gt;Número do slide&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To play a sound or music file continuously in the slide show, select the option &lt;f0&gt;Loop until next sound&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102209Z" creationid="timotheonb" creationdate="20250531T102209Z">
+        <seg>Para reproduzir um arquivo de som ou música continuamente na apresentação de slides, selecione a opção &lt;f0&gt;Repetir até ao próximo som&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To play music, use the following steps to select a music file:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102036Z" creationid="timotheonb" creationdate="20250531T102036Z">
+        <seg>Para reproduzir música, use as seguintes etapas para selecionar um arquivo de música:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59393,6 +59913,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;F5&lt;/f0&gt; to start from the first slide, or &lt;f1&gt;Shift+F5&lt;/f1&gt; to start from the current slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T103115Z" creationid="timotheonb" creationdate="20250531T103115Z">
+        <seg>Use o atalho de teclado &lt;f0&gt;F5&lt;/f0&gt; para iniciar a partir do primeiro slide, ou &lt;f1&gt;Shift+F5&lt;/f1&gt; para iniciar a partir do slide atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the keyboard shortcut &lt;f0&gt;Shift+Tab&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250523T111642Z" creationid="timotheonb" creationdate="20250523T111642Z">
@@ -61537,6 +62065,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the last slide has displayed, the message &lt;f0&gt;Click to exit presentation&lt;/f0&gt; is displayed on screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T105126Z" creationid="timotheonb" creationdate="20250531T105126Z">
+        <seg>Quando o último slide for exibido, a mensagem &lt;f0&gt;Clique para sair da apresentação&lt;/f0&gt; será exibida na tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the markup language in the Formula Editor is entered, the formula will appear in the Preview window as the markup language is entered in the Formula editor.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T224714Z" creationid="timotheonb" creationdate="20250530T224714Z">
@@ -61657,6 +62193,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When two displays are being used, one display can be a laptop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T111213Z" creationid="timotheonb" creationdate="20250531T111213Z">
+        <seg>Quando dois monitores estão sendo usados, um deles pode ser um laptop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When typing formulas using characters that match function names, a help tip will appear listing the available functions that start with matching characters.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213651Z" creationid="olivier" creationdate="20250123T213651Z">
@@ -61685,6 +62229,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T234533Z" creationid="olivier" creationdate="20250325T201334Z">
         <seg>Ao utilizar um cartão inteligente, este já deve estar configurado para utilização pelo chaveiro. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When using music in a presentation, make sure any copyright or license for the music is not being infringed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T101716Z" creationid="timotheonb" creationdate="20250531T101716Z">
+        <seg>Ao usar música em uma apresentação, certifique-se de que nenhum direito autoral ou licença para a música esteja sendo violado.</seg>
       </tuv>
     </tu>
     <tu>
