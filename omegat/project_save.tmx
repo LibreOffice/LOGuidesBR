@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;d0&gt;The LibreOffice Documentation Team&lt;/d0&gt;&lt;d1&gt;The Document Foundation&lt;/d1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113421Z" creationid="timotheonb" creationdate="20250531T113421Z">
+        <seg>&lt;d0&gt;A equipe de documentação do LibreOffice&lt;/d0&gt;&lt;d1&gt;The Document Foundation&lt;/d1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;or&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223156Z" creationid="timotheonb" creationdate="20250530T223156Z">
@@ -614,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Control&lt;/f0&gt;+click, &lt;f1&gt;Ctrl&lt;/f1&gt;+click, or right click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113536Z" creationid="timotheonb" creationdate="20250531T113536Z">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt;+clique, &lt;f1&gt;Ctrl&lt;/f1&gt;+ clique ou clique com o botão direito do mouse, dependendo da configuração do computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Control&lt;/f0&gt;+click, &lt;f1&gt;Ctrl&lt;/f1&gt;+click, or right-click depending on computer setup</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T234915Z" creationid="olivier-tdf" creationdate="20250112T203155Z">
@@ -794,6 +810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134101Z" creationid="olivier-tdf" creationdate="20250303T134101Z">
         <seg>&lt;f0&gt;Esc&lt;/f0&gt; também é equivalente a clicar em &lt;f1&gt;Cancelar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Exchange&lt;/f0&gt; — click on this icon to switch the Presenter Console between displays.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113048Z" creationid="timotheonb" creationdate="20250531T113004Z">
+        <seg>&lt;f0&gt;Trocar&lt;/f0&gt; — clique neste ícone para alternar o Console do apresentador entre as exibições.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Notes view&lt;/f0&gt; — click on &lt;f1&gt;Notes&lt;/f1&gt; to switch to display any notes that accompany each slide in the presentation (Figure &lt;t2&gt;50&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T112821Z" creationid="timotheonb" creationdate="20250531T112821Z">
+        <seg>&lt;f0&gt;Visualização de notas&lt;/f0&gt; — clique em &lt;f1&gt;Notas&lt;/f1&gt; para alternar a exibição de quaisquer notas que acompanham cada slide na apresentação (Figura &lt;t2&gt;50&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Number Format:&lt;/f0&gt; Options for formatting numbers, including decimals, percentages, currency, and dates.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213942Z" creationid="olivier-tdf" creationdate="20250116T213942Z">
@@ -1506,6 +1538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T191055Z" creationid="timotheonb" creationdate="20250530T191055Z">
         <seg>&lt;f0&gt;Slides por página:&lt;/f0&gt; – selecione quantos slides serão impressos em uma folha de papel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Slides view&lt;/f0&gt; — click on &lt;f1&gt;Slides&lt;/f1&gt; to switch to display the slide thumbnails that are being used for the presentation (Figure &lt;t2&gt;51&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T112854Z" creationid="timotheonb" creationdate="20250531T112854Z">
+        <seg>&lt;f0&gt;Visualização de slides&lt;/f0&gt; — clique em &lt;f1&gt;Slides&lt;/f1&gt; para alternar à exibição das miniaturas de slides que estão sendo usadas para a apresentação (Figura&lt;t2&gt;51&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3366,6 +3406,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Presenter Console — Default view&lt;/s0&gt;&lt;s1&gt;Presenter Console — Default view&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113135Z" creationid="timotheonb" creationdate="20250531T113135Z">
+        <seg>&lt;s0&gt;Console do apresentador — Visualização padrão &lt;/s0&gt;&lt;s1&gt;Console do apresentador — Visualização padrão&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Presenter Console — Notes view&lt;/s0&gt;&lt;s1&gt;Presenter Console — Notes view&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113219Z" creationid="timotheonb" creationdate="20250531T113219Z">
+        <seg>&lt;s0&gt;Console do apresentador — Visualização notas&lt;/s0&gt;&lt;s1&gt;Console do apresentador — Visualização notas&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Presenter Console — Slides view&lt;/s0&gt;&lt;s1&gt;Presenter Console — Slides view&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113254Z" creationid="timotheonb" creationdate="20250531T113254Z">
+        <seg>&lt;s0&gt;Console do apresentador — Visualização slides&lt;/s0&gt;&lt;s1&gt;Console do apresentador — Visualização slides&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Print Preview toolbar&lt;/s0&gt;&lt;s1&gt;Print Preview toolbar&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T231453Z" creationid="olivier-tdf" creationdate="20250224T231453Z">
@@ -4134,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Getting Started Guide 24.8 - Chapter 6, Getting Started with Impress&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113349Z" creationid="timotheonb" creationdate="20250531T113349Z">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;|&lt;/f2&gt;&lt;t3&gt;Guia de Introdução 24.8 - Capítulo 6, Introdução ao Impress&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Getting Started Guide 24.8 - Chapter 9, Getting Started with Math&lt;/t3&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222900Z" creationid="timotheonb" creationdate="20250530T222900Z">
@@ -4154,6 +4226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T115204Z" creationid="olivier-tdf" creationdate="20250109T115204Z">
         <seg>&lt;t0&gt;50&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Guia de Introdução 24.8&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;50&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Getting Started Guide 24.8 - Chapter 6, Getting Started with Impress&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113323Z" creationid="timotheonb" creationdate="20250531T113323Z">
+        <seg>[parcial]Guia de Introdução 24.8 - Capítulo 6, Introdução ao Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -4294,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;Getting Started Guide 24.8 - Chapter 6, Getting Started with Impress&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113342Z" creationid="timotheonb" creationdate="20250531T113342Z">
+        <seg>&lt;t0&gt;Guia de Introdução 24.8 - Capítulo 6, Introdução ao Impress&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;5&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;Getting Started Guide 24.8 - Chapter 9, Getting Started with Math&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222849Z" creationid="timotheonb" creationdate="20250530T222849Z">
@@ -4330,6 +4418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231747Z" creationid="olivier-tdf" creationdate="20250328T231641Z">
         <seg>&lt;t0&gt;Proteção por senha e criptografia OpenPGP&lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;43&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;Presentations (slide shows)&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;51&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113331Z" creationid="timotheonb" creationdate="20250531T113319Z">
+        <seg>&lt;t0&gt;Apresentações (apresentações de slides)&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;51&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8086,6 +8182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B Antonio Fernandez, Olivier Hallot, Peter Schofield</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113442Z" creationid="timotheonb" creationdate="20250531T113442Z">
+        <seg>B Antonio Fernández, Olivier Hallot, Peter Schofield, Timothy Brennan Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215630Z" creationid="timot" creationdate="20250110T215630Z">
@@ -9782,6 +9886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter 7, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113425Z" creationid="timotheonb" creationdate="20250531T113425Z">
+        <seg>Capítulo 7,&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter 9, &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222920Z" creationid="timotheonb" creationdate="20250530T222920Z">
@@ -10290,6 +10402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T183203Z" creationid="olivier-tdf" creationdate="20250309T183203Z">
         <seg>Escolhendo opções para se adequar à maneira de trabalhar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Claire Wood, Dave Barton, Hazel Russman, Kees Kriek.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113458Z" creationid="timotheonb" creationdate="20250531T113458Z">
+        <seg>Claire Wood, Dave Barton, Hazel Russman, Kees Kriek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12254,10 +12374,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f3&gt;Notes&lt;/f3&gt; again to return to the default view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T112830Z" creationid="timotheonb" creationdate="20250531T112830Z">
+        <seg>Clique em &lt;f3&gt;Notas&lt;/f3&gt; novamente para retornar à visualização padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f3&gt;Single page view&lt;/f3&gt; to return the document to normal view.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T232456Z" creationid="olivier-tdf" creationdate="20250224T232456Z">
         <seg>Clique em &lt;f3&gt;Visualização de página única&lt;/f3&gt; para retornar o documento à visualização normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f3&gt;Slides&lt;/f3&gt; again to return to the default view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T112955Z" creationid="timotheonb" creationdate="20250531T112955Z">
+        <seg>Clique em&lt;f3&gt;Slides&lt;/f3&gt; novamente para retornar à visualização padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12418,6 +12554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T115804Z" creationid="timotheonb" creationdate="20250530T115804Z">
         <seg>Clique na guia &lt;f0&gt;Slides&lt;/f0&gt; para abrir as opções disponíveis para inserir rodapés em um slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the &lt;f2&gt;Previous&lt;/f2&gt; and &lt;f3&gt;Next&lt;/f3&gt; arrows to navigate through the presentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T111929Z" creationid="timotheonb" creationdate="20250531T111929Z">
+        <seg>Clique nas setas &lt;f2&gt;Anterior&lt;/f2&gt; e &lt;f3&gt;Próximo&lt;/f3&gt; para navegar pela apresentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20648,6 +20792,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;49&lt;/seq0&gt;: Presenter Console — Default view</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113145Z" creationid="timotheonb" creationdate="20250531T113145Z">
+        <seg>Figura &lt;seq0&gt;49&lt;/seq0&gt;: Console do apresentador — Visualização padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Changing ruler units</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131331Z" creationid="timotheonb" creationdate="20250502T131331Z">
@@ -20716,6 +20868,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T105934Z" creationid="timot" creationdate="20250113T105934Z">
         <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Exibir leiaute: página única, várias páginas, livro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;50&lt;/seq0&gt;: Presenter Console — Notes view</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113231Z" creationid="timotheonb" creationdate="20250531T113231Z">
+        <seg>Figura &lt;seq0&gt;50&lt;/seq0&gt;: Console do apresentador — Visualização notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;51&lt;/seq0&gt;: Presenter Console — Slides view</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113303Z" creationid="timotheonb" creationdate="20250531T113303Z">
+        <seg>Figura &lt;seq0&gt;51&lt;/seq0&gt;: Console do apresentador — Visualização slides</seg>
       </tuv>
     </tu>
     <tu>
@@ -24472,6 +24640,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8 - Chapter 7, Getting Started with Draw</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113359Z" creationid="timotheonb" creationdate="20250531T113359Z">
+        <seg>Guia de Introdução 24.8 - Capítulo 7, Introdução ao Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting Started Guide 24.8 - Chapter 9, Getting Started with Math</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113704Z" creationid="timotheonb" creationdate="20250531T113704Z">
+        <seg>Guia de Introdução 24.8 - Capítulo 9, Introdução ao Math</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Getting Started Guide 24.8 - Preface</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T220327Z" creationid="olivier-tdf" creationdate="20250109T220327Z">
@@ -24484,6 +24668,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T123819Z" creationid="olivier-tdf" creationdate="20250114T123819Z">
         <seg>Introdução ao Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting Started with Draw</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113428Z" creationid="timotheonb" creationdate="20250531T113428Z">
+        <seg>Introdução ao Draw</seg>
       </tuv>
     </tu>
     <tu>
@@ -32112,6 +32304,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be used to create a wide variety of graphic images, including some operations on raster graphics.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113607Z" creationid="timotheonb" creationdate="20250531T113607Z">
+        <seg>Pode ser usado para criar uma grande variedade de imagens gráficas, incluindo algumas operações em imagens raster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It cannot be removed in C2 despite also appearing to be the bottom border for cell C2.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161835Z" creationid="olivier" creationdate="20250204T161835Z">
@@ -33108,6 +33308,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T202728Z" creationid="olivier-tdf" creationdate="20250112T202728Z">
         <seg>Noções básicas do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice Draw is the vector graphics drawing module included with the LibreOffice installation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113546Z" creationid="timotheonb" creationdate="20250531T113546Z">
+        <seg>O LibreOffice Draw é o módulo de desenho de gráficos vetoriais incluído na instalação do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36436,6 +36644,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T165119Z" creationid="olivier" creationdate="20250222T165119Z">
         <seg>Caixa de diálogo Navegador: acesse &lt;f0&gt;Exibir &gt; Navegador&lt;/f0&gt; na barra de menus ou use o atalho de teclado &lt;f1&gt;F5&lt;/f1&gt; para Windows e macOS ou &lt;f2&gt;Ctrl+Shift+F5&lt;/f2&gt; para Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nay Catina Dia-Schneebeli, Olivier Hallot, Peter Schofield, Ron Faile Jr., Skip Masonsmith.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113504Z" creationid="timotheonb" creationdate="20250531T113504Z">
+        <seg>Não Catina Dia-Schneebeli, Olivier Hallot, Peter Schofield, Ron Faile Jr., Skip Masonsmith.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40461,6 +40677,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T111050Z" creationid="timotheonb" creationdate="20250531T111050Z">
         <seg>Console do apresentador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presenter Console — Default view</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113148Z" creationid="timotheonb" creationdate="20250531T113148Z">
+        <seg>Console do apresentador — Visualização padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presenter Console — Notes view</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113239Z" creationid="timotheonb" creationdate="20250531T113239Z">
+        <seg>Console do apresentador — Visualização notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presenter Console — Slides view</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113309Z" creationid="timotheonb" creationdate="20250531T113309Z">
+        <seg>Console do apresentador — Visualização slides</seg>
       </tuv>
     </tu>
     <tu>
@@ -48921,6 +49161,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Example of macOS keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113519Z" creationid="timotheonb" creationdate="20250531T113519Z">
+        <seg>Tabela &lt;seq0&gt;1&lt;/seq0&gt;: Exemplo de atalhos de teclado do macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Examples of information on Status Bar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T132129Z" creationid="timotheonb" creationdate="20250502T132129Z">
@@ -50045,6 +50293,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T203914Z" creationid="olivier" creationdate="20250325T203914Z">
         <seg>O formato EPUB é implementado como um arquivo de arquivamento que consiste em arquivos HTML carregando o conteúdo, juntamente com imagens e outros arquivos de suporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Elements panel (Figure &lt;t0&gt;2&lt;/t0&gt;) is a visual tool to help create and edit formulas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113723Z" creationid="timotheonb" creationdate="20250531T113723Z">
+        <seg>O painel Elementos (Figura &lt;t0&gt;2&lt;/t0&gt;) é uma ferramenta visual para ajudar a criar e editar fórmulas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60789,6 +61045,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124002Z" creationid="olivier-tdf" creationdate="20250114T124002Z">
         <seg>Vasudev Narayanan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vector Drawing in LibreOffice</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T113430Z" creationid="timotheonb" creationdate="20250531T113430Z">
+        <seg>Desenho vetorial no LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
