@@ -8558,6 +8558,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bring Forward</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T215920Z" creationid="olivier" creationdate="20250602T215920Z">
+        <seg>Avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bring to Front</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T215705Z" creationid="olivier" creationdate="20250602T215705Z">
+        <seg>Trazer para frente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Brochure printing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224442Z" creationid="olivier-tdf" creationdate="20250224T224442Z">
@@ -12746,6 +12762,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T183636Z" creationid="timot" creationdate="20250122T183636Z">
         <seg>Clique no campo Número da página no documento na barra de Status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the required arrange tool on the Line and Filling toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T214931Z" creationid="olivier" creationdate="20250602T214931Z">
+        <seg>Clique na ferramenta de organização necessária na barra de ferramentas Linha e preenchimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25136,6 +25160,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Arrange&lt;/f0&gt; on the Menu bar and select an option from the submenu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T215310Z" creationid="olivier" creationdate="20250602T215310Z">
+        <seg>Acesse &lt;f0&gt;Formatar &gt; Dispor&lt;/f0&gt; na barra de menus e selecione uma opção no submenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Format &gt; AutoFormat Styles&lt;/f0&gt; on the Menu bar to open the AutoFormat dialog (Figure &lt;t1&gt;36&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164106Z" creationid="olivier" creationdate="20250204T164106Z">
@@ -30432,6 +30464,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Front of Object</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T220325Z" creationid="olivier" creationdate="20250602T220325Z">
+        <seg>Na frente do objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Full Screen view, no toolbars or sidebar are displayed; the document takes up the full area available, using the zoom and layout settings previously selected.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T115643Z" creationid="timot" creationdate="20250114T115643Z">
@@ -33080,6 +33120,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keyboard shortcut &lt;f0&gt;Ctrl++&lt;/f0&gt; (macOS ⌘&lt;f1&gt;++&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T220015Z" creationid="olivier" creationdate="20250602T220015Z">
+        <seg>Atalho de teclado: &lt;f0&gt;Ctrl++&lt;/f0&gt; (macOS&lt;f1&gt;⌘ ++&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keyboard shortcut &lt;f0&gt;Ctrl+C&lt;/f0&gt; or &lt;f1&gt;Ctrl+Ins&lt;/f1&gt; (macOS &lt;f2&gt;⌘+C&lt;/f2&gt;)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T105009Z" creationid="tulio" creationdate="20250411T105009Z">
@@ -33088,10 +33136,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keyboard shortcut &lt;f0&gt;Ctrl+Shift++&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Shift++&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T215809Z" creationid="olivier" creationdate="20250602T215809Z">
+        <seg>Atalho de teclado: &lt;f0&gt;Ctrl+Shift + +&lt;/f0&gt; (macOS&lt;f1&gt;⌘ +Shift++&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keyboard shortcut &lt;f0&gt;Ctrl+Shift+–&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+Shift+–&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T220222Z" creationid="olivier" creationdate="20250602T220222Z">
+        <seg>Atalho de teclado: &lt;f0&gt;Ctrl+Shift + -&lt;/f0&gt; (macOS&lt;f1&gt;⌘ +Shift+-&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keyboard shortcut &lt;f0&gt;Ctrl+V&lt;/f0&gt; or &lt;f1&gt;Shift+Ins&lt;/f1&gt; (macOS &lt;f2&gt;⌘+V&lt;/f2&gt;)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T105107Z" creationid="tulio" creationdate="20250411T105107Z">
         <seg>Atalho de teclado &lt;f0&gt;Ctrl+V&lt;/f0&gt; ou &lt;f1&gt;Shift+Ins&lt;/f1&gt; (macOS &lt;f2&gt;⌘+V&lt;/f2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keyboard shortcut &lt;f0&gt;Ctrl+–&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+–&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T220103Z" creationid="olivier" creationdate="20250602T220103Z">
+        <seg>Atalho de teclado: &lt;f0&gt;Ctrl+-&lt;/f0&gt; (macOS&lt;f1&gt;⌘ +-&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42881,6 +42953,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click on selected objects and select &lt;f0&gt;Arrange&lt;/f0&gt; from the context menu, then select the required arrange option from the sub-context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T215045Z" creationid="olivier" creationdate="20250602T215045Z">
+        <seg>Clique com o botão direito do mouse nos objetos selecionados e selecione &lt;f0&gt;Dispor&lt;/f0&gt; no menu de contexto e, em seguida, selecione a opção de organização necessária no submenu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click on text to bring up the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172035Z" creationid="olivier-tdf" creationdate="20250403T172035Z">
@@ -45201,6 +45281,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select images, or graphics, and use one of the following methods to change the stack level:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T214756Z" creationid="olivier" creationdate="20250602T214756Z">
+        <seg>Selecione imagens ou gráficos e use um dos seguintes métodos para alterar o nível da pilha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select one of the JREs listed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T185655Z" creationid="olivier" creationdate="20250316T185655Z">
@@ -46529,6 +46617,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selected object is moved behind all other objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T220153Z" creationid="olivier" creationdate="20250602T220153Z">
+        <seg>Move o objeto selecionado atrás de todos os outros objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selected object is moved in front of all other objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T215742Z" creationid="olivier" creationdate="20250602T215742Z">
+        <seg>Move o objeto selecionado na frente de todos os outros objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selected object is moved one level down in the stack.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T220049Z" creationid="olivier" creationdate="20250602T220049Z">
+        <seg>Move o objeto selecionado um nível abaixo na pilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selected object is moved one level up in the stack.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T215948Z" creationid="olivier" creationdate="20250602T215948Z">
+        <seg>Move o objeto selecionado um nível acima na pilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selecting &lt;f0&gt;Insert &gt; Comment&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T185727Z" creationid="olivier-tdf" creationdate="20250209T185727Z">
@@ -46841,6 +46961,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Send Backward</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T220018Z" creationid="olivier" creationdate="20250602T220018Z">
+        <seg>Recuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Send Feedback</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195918Z" creationid="olivier-tdf" creationdate="20250109T195918Z">
@@ -46853,6 +46981,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192318Z" creationid="olivier-tdf" creationdate="20250309T192318Z">
         <seg>Enviar relatório de erros para a The Document Foundation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Send to Back</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T220130Z" creationid="olivier" creationdate="20250602T220130Z">
+        <seg>Enviar para trás</seg>
       </tuv>
     </tu>
     <tu>
@@ -52385,6 +52521,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The image, or graphic, on the top level of a stack covers the images and graphics on the lower levels, if any overlapping occurs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T214743Z" creationid="olivier" creationdate="20250602T214743Z">
+        <seg>A imagem, ou gráfico, no nível superior de uma pilha cobre as imagens e gráficos nos níveis inferiores, se ocorrer alguma sobreposição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The individual modules of LibreOffice are well integrated with the other LibreOffice modules.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192620Z" creationid="olivier-tdf" creationdate="20250109T192620Z">
@@ -52949,6 +53093,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T194222Z" creationid="olivier-tdf" creationdate="20250309T194222Z">
         <seg>O antigo menu na bandeja do sistema não é mais usado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The options available for arranging the stack level of images, or graphics are as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T215640Z" creationid="olivier" creationdate="20250602T215640Z">
+        <seg>As opções disponíveis para organizar a posição na pilha de imagens ou gráficos são as seguintes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53541,6 +53693,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T130847Z" creationid="timot" creationdate="20250409T130847Z">
         <seg>O verificador ortográfico funciona apenas para os idiomas na lista de diálogo Ortografia que têm um dicionário instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The stack level of each image, or graphic, can be changed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T215610Z" creationid="olivier" creationdate="20250602T215610Z">
+        <seg>A posição de cada imagem ou gráfico na pilha, pode ser alterado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60365,6 +60525,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250523T111642Z" creationid="timotheonb" creationdate="20250523T111642Z">
         <seg>Use o atalho &lt;f0&gt;Shift+Tab&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the keyboard shortcut available for each arrangement option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250602T215326Z" creationid="olivier" creationdate="20250602T215326Z">
+        <seg>Utilize o atalho de teclado disponível para cada opção de arranjo.</seg>
       </tuv>
     </tu>
     <tu>
