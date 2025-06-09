@@ -392,8 +392,8 @@
       <tuv lang="en-US">
         <seg>&lt;d0&gt;The Document Foundation&lt;/d0&gt;&lt;d1&gt;The LibreOffice Documentation Team&lt;/d1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T220354Z" creationid="olivier-tdf" creationdate="20250109T220354Z">
-        <seg>&lt;d0&gt;The Document Foundation&lt;/d0&gt;&lt;d1&gt;A Equipe de Documentação do LibreOffice&lt;/d1&gt;</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132748Z" creationid="olivier-tdf" creationdate="20250109T220354Z">
+        <seg>&lt;d0&gt;The Document Foundation &lt;/d0&gt;&lt;d1&gt;A Equipe de Documentação do LibreOffice&lt;/d1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3486,6 +3486,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Properties of New Theme dialog — Files page&lt;/s0&gt;&lt;s1&gt;Properties of New Theme dialog — Files page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132609Z" creationid="timotheonb" creationdate="20250609T132609Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Propriedades de Novo tema — página Arquivos&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Propriedades de Novo tema — página Arquivos&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Properties of New Theme dialog — General page&lt;/s0&gt;&lt;s1&gt;Properties of New Theme dialog — General page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132213Z" creationid="timotheonb" creationdate="20250609T132144Z">
+        <seg>&lt;s0&gt;Diálogo Propriedades do Novo Tema — Página geral&lt;/s0&gt;&lt;s1&gt; Diálogo Propriedades de Novo Tema — página Geral&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Protect Sheet dialog with password strength meter&lt;/s0&gt;&lt;s1&gt;Protect Sheet dialog with password strength meter&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183650Z" creationid="olivier-tdf" creationdate="20250209T183650Z">
@@ -4082,6 +4098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T151114Z" creationid="olivier" creationdate="20250405T151114Z">
         <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Guia de Introdução 24.8 - Capítulo 4, Trabalhar com estilos, modelos e hiperlinks&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Chapter 5, Working with Images and Graphics&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131233Z" creationid="timotheonb" creationdate="20250609T131233Z">
+        <seg>[parcial]Guia de Introdução 24.8 - Capítulo 5, Trabalhar com Imagens e Gráficos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5762,6 +5786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T003950Z" creationid="tulio" creationdate="20250320T003950Z">
         <seg>A adição de arquivos de imagem e gráficos aos documentos do LibreOffice consiste nos seguintes tipos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding images and graphics</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132337Z" creationid="timotheonb" creationdate="20250609T132337Z">
+        <seg>Adicionar figuras e gráficos</seg>
       </tuv>
     </tu>
     <tu>
@@ -10710,6 +10742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;New&lt;/f0&gt; at the bottom of the Gallery deck and the Properties of New Theme dialog opens (Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132152Z" creationid="timotheonb" creationdate="20250609T132102Z">
+        <seg>Clique em &lt;f0&gt;Novo&lt;/f0&gt; na parte inferior do deque Galeria e a caixa de diálogo Propriedades de Novo tema será aberta (Figura &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; again to close the Properties dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T230828Z" creationid="olivier-tdf" creationdate="20250328T230828Z">
@@ -10834,6 +10874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202649Z" creationid="olivier-tdf" creationdate="20250328T202649Z">
         <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para fechar a caixa de diálogo Opções de Segurança e Avisos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the Select Path dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T133201Z" creationid="timotheonb" creationdate="20250609T133201Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para fechar a caixa de diálogo Selecionar pasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11050,6 +11098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T220322Z" creationid="olivier" creationdate="20250123T220322Z">
         <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar a nova lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the new theme and close the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132116Z" creationid="timotheonb" creationdate="20250609T132116Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar o novo tema e fechar a caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11354,6 +11410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T133533Z" creationid="timotheonb" creationdate="20250504T133533Z">
         <seg>Clique e arraste — posicione o cursor ligeiramente fora do primeiro slide, clique e segure o botão esquerdo do mouse e arraste o cursor até que todos os slides desejados sejam selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click and hold on the image or graphic and drag it onto the slide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131259Z" creationid="timotheonb" creationdate="20250609T131259Z">
+        <seg>Clique e segure na figura ou gráfico e arraste-o para o slide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11790,6 +11854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Files&lt;/f0&gt; to open the Files page (Figure &lt;t1&gt;11&lt;/t1&gt;), then click on &lt;f2&gt;Find Files&lt;/f2&gt; to open a Select Path dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132527Z" creationid="timotheonb" creationdate="20250609T132527Z">
+        <seg>Clique em &lt;f0&gt;Arquivos&lt;/f0&gt; para abrir a página Arquivos (Figura &lt;t1&gt;11&lt;/t1&gt;) e, em seguida, clique em &lt;f2&gt;Localizar arquivos&lt;/f2&gt; para abrir uma caixa de diálogo Selecionar pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Fill Format Mode&lt;/f0&gt; at the top of the Styles deck and the cursor changes shape to indicate &lt;f1&gt;Fill Format Mode&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T182943Z" creationid="olivier-tdf" creationdate="20250403T182943Z">
@@ -11822,10 +11894,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;Gallery&lt;/f0&gt; in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T130929Z" creationid="timotheonb" creationdate="20250609T130929Z">
+        <seg>Clique em &lt;f0&gt;Galeria&lt;/f0&gt; na Barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0&gt;Gallery&lt;/f0&gt; on the right side of the Sidebar, or use the keyboard shortcut &lt;f1&gt;Ctrl+Alt+3&lt;/f1&gt; (macOS ⌘+⌥&lt;f2&gt;+3&lt;/f2&gt;) to open the Gallery deck.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T123329Z" creationid="tulio" creationdate="20250411T123329Z">
         <seg>⌘Clique em &lt;f0&gt;Galeria&lt;/f0&gt; no lado direito da barra lateral ou use o atalho de teclado &lt;f1&gt;Ctrl+Alt+3&lt;/f1&gt; (macOS ⌘+⌥&lt;f2&gt; +3&lt;/f2&gt;) para abrir o deque da Galeria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0&gt;General&lt;/f0&gt; and type a name for the new theme in the text box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132110Z" creationid="timotheonb" creationdate="20250609T132110Z">
+        <seg>Clique em &lt;f0&gt;Geral&lt;/f0&gt; e digite um nome para o novo tema na caixa de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12642,6 +12730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T232108Z" creationid="olivier-tdf" creationdate="20250328T182245Z">
         <seg>Clique numa aba na caixa de diálogo para acessar as opções disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on a theme name to see its images and graphics displayed in the Gallery deck.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131449Z" creationid="timotheonb" creationdate="20250609T131449Z">
+        <seg>Clique no nome de um tema para ver suas figuras e gráficos exibidos no deck da Galeria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14822,6 +14918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating themes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131924Z" creationid="timotheonb" creationdate="20250609T131924Z">
+        <seg>Criar de temas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creating unordered (bulleted) and ordered (numbered) lists</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T112018Z" creationid="timot" creationdate="20250221T112018Z">
@@ -15430,6 +15534,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Custom themes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131614Z" creationid="timotheonb" creationdate="20250609T131614Z">
+        <seg>Temas personalizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Custom themes are easily identified by right-clicking on a theme name and the options available in the context menu are &lt;f0&gt;Delete&lt;/f0&gt;, &lt;f1&gt;Rename&lt;/f1&gt;, and &lt;f2&gt;Properties&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131738Z" creationid="timotheonb" creationdate="20250609T131738Z">
+        <seg>Os temas personalizados são facilmente identificados ao clicar com o botão direito do mouse no nome de um tema onde as opções disponíveis no menu de contexto são &lt;f0&gt;Excluir&lt;/f0&gt;, &lt;f1&gt;Renomear&lt;/f1&gt; e &lt;f2&gt;Propriedades&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Custom themes are listed alphabetically, along with the default themes, in the box at the top of the Gallery deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131707Z" creationid="timotheonb" creationdate="20250609T131707Z">
+        <seg>Os temas personalizados são listados em ordem alfabética, juntamente com os temas padrão, na caixa na parte superior do deque da Galeria na Barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Custom themes can also be added to the Gallery to hold any images or graphics that are used frequently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131758Z" creationid="timotheonb" creationdate="20250609T131758Z">
+        <seg>Os temas personalizados também podem ser adicionados à Galeria para armazenar quaisquer figuras ou gráficos que sejam usados com frequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Custom themes, when added to the Gallery, are the only themes where images and graphics can be added.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131643Z" creationid="timotheonb" creationdate="20250609T131643Z">
+        <seg>Temas personalizados, quando adicionados à Galeria, são os únicos temas onde figuras e gráficos podem ser adicionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customizations can also be carried out by adding extensions that can be installed from the LibreOffice website or from other providers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250305T135110Z" creationid="olivier" creationdate="20250305T135110Z">
@@ -15826,6 +15970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T182601Z" creationid="olivier" creationdate="20250222T182601Z">
         <seg>Impressora padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Default themes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131402Z" creationid="timotheonb" creationdate="20250609T131402Z">
+        <seg>Temas padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -19632,6 +19784,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Properties of New Theme dialog — General page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132243Z" creationid="timotheonb" creationdate="20250609T132243Z">
+        <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Caixa de diálogo Propriedades de Novo tema — página Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Example of Printer Options dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T133410Z" creationid="olivier" creationdate="20250223T133410Z">
@@ -19676,6 +19836,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T212805Z" creationid="olivier" creationdate="20250308T090740Z">
         <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Caixa de diálogo Selecionar cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Properties of New Theme dialog — Files page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132622Z" creationid="timotheonb" creationdate="20250609T132622Z">
+        <seg>Caixa de diálogo Propriedades de Novo tema — página Arquivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -22304,6 +22472,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, a company logo, or images and graphics that are used for specific projects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131812Z" creationid="timotheonb" creationdate="20250609T131812Z">
+        <seg>Por exemplo, um logotipo da empresa ou figuras e gráficos que são usados para projetos específicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, a completely different layout for the first slide of the presentation maybe required, or a slide from a different presentation maybe added to the current presentation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T112241Z" creationid="timotheonb" creationdate="20250530T112241Z">
@@ -24056,6 +24232,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Format the image or graphic to the document requirements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131358Z" creationid="timotheonb" creationdate="20250609T131358Z">
+        <seg>Formate a figura ou gráfico de acordo com os requisitos do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Format the text or manual field placed in the footer section.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120829Z" creationid="timotheonb" creationdate="20250530T120829Z">
@@ -24612,6 +24796,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250602T223948Z" creationid="olivier" creationdate="20250602T223948Z">
         <seg>Deque da Galeria na barra lateral — Visualização detalhada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gallery themes are available from the LibreOffice extensions website at &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131837Z" creationid="timotheonb" creationdate="20250609T131837Z">
+        <seg>Os temas da galeria estão disponíveis no site de extensões do LibreOffice em &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28440,6 +28632,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If necessary, select &lt;f0&gt;Preview&lt;/f0&gt; and any image or graphic selected appears in the preview box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T133758Z" creationid="timotheonb" creationdate="20250609T133758Z">
+        <seg>Se necessário, selecione &lt;f0&gt;Visualizar&lt;/f0&gt; e qualquer imagem ou gráfico selecionado aparecerá na caixa de visualização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If necessary, select &lt;f0&gt;Set as default template&lt;/f0&gt; to change the default template for the required document type.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T113222Z" creationid="olivier" creationdate="20250405T113222Z">
@@ -30068,6 +30268,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250602T224051Z" creationid="olivier" creationdate="20250602T224051Z">
         <seg>Imagens e gráficos também podem ser adicionados à Galeria, tornando-a uma ferramenta essencial para inserir imagens e gráficos num documento rapidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Images and graphics in the Gallery are grouped by themes, such as Arrows, Bullets, Diagrams and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131412Z" creationid="timotheonb" creationdate="20250609T131412Z">
+        <seg>Figuras e gráficos na Galeria são agrupados por temas, como Setas, Marcadores, Diagramas e assim por diante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36936,6 +37144,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigate to the folder that contains the images and graphics required and select the folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T133048Z" creationid="timotheonb" creationdate="20250609T133048Z">
+        <seg>Navegue até a pasta que contém as figuras e gráficos necessários e selecione a pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigate to the folder to be used for keyboard configuration files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T000858Z" creationid="olivier" creationdate="20250308T000858Z">
@@ -37372,6 +37588,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155858Z" creationid="olivier" creationdate="20250312T155858Z">
         <seg>Sem efeito no conteúdo da área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No images or graphics can be added to or deleted from these themes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131523Z" creationid="timotheonb" creationdate="20250609T131513Z">
+        <seg>Isso significa que nenhuma figura ou gráfico pode ser adicionado ou excluído desses temas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41937,6 +42161,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Properties of New Theme dialog — Files page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132954Z" creationid="timotheonb" creationdate="20250609T132954Z">
+        <seg>Caixa de diálogo Propriedades de Novo tema — página Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Properties of New Theme dialog — General page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132254Z" creationid="timotheonb" creationdate="20250609T132254Z">
+        <seg>Caixa de diálogo Propriedades de Novo tema — página Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Protect Sheet dialog with password strength meter</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183719Z" creationid="olivier-tdf" creationdate="20250209T183719Z">
@@ -42469,6 +42709,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T141050Z" creationid="tulio" creationdate="20250411T141050Z">
         <seg>Solte o cursor quando a figura, ou gráfico, estiver na posição desejada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Release the hold and the image or graphic is inserted centrally onto the page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131347Z" creationid="timotheonb" creationdate="20250609T131321Z">
+        <seg>Solte a retenção e a imagem ou gráfico é inserido no centro na página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43273,6 +43521,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click on a custom theme name in the theme list on the Gallery deck and select &lt;f0&gt;Properties&lt;/f0&gt; from the context menu to open the Properties of New Theme dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132403Z" creationid="timotheonb" creationdate="20250609T132403Z">
+        <seg>Clique com o botão direito do mouse em um nome de tema personalizado na lista de temas no deque Galeria e selecione &lt;f0&gt;Propriedades&lt;/f0&gt; no menu de contexto para abrir a caixa de diálogo Propriedades de Novo tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click on a master slide in the &lt;f0&gt;Slides&lt;/f0&gt; pane and select &lt;f1&gt;New Master&lt;/f1&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105913Z" creationid="timotheonb" creationdate="20250530T105913Z">
@@ -44057,6 +44313,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scroll through the available images and graphics and select the required image or graphic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131249Z" creationid="timotheonb" creationdate="20250609T131219Z">
+        <seg>Percorra as figuras e gráficos disponíveis e selecione a figura ou gráfico desejado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scrolls down one page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T003612Z" creationid="olivier" creationdate="20250303T003612Z">
@@ -44277,6 +44541,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T211741Z" creationid="timot" creationdate="20250210T211741Z">
         <seg>Veja o Capítulo 12, Configurando o LibreOffice, para obter detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Chapter 13, Customizing LibreOffice for information on managing extensions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131916Z" creationid="timotheonb" creationdate="20250609T131916Z">
+        <seg>Consulte o Capítulo 13, Personalizar o LibreOffice para obter informações sobre como gerenciar extensões.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45457,6 +45729,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a theme from the available themes and the images and graphics for that theme are displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131211Z" creationid="timotheonb" creationdate="20250609T131211Z">
+        <seg>Selecione um tema a partir dos temas disponíveis e as figuras e gráficos para esse tema são exibidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a tool in the &lt;f0&gt;Available Commands&lt;/f0&gt; list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222414Z" creationid="olivier" creationdate="20250307T222414Z">
@@ -46061,6 +46341,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250509T103851Z" creationid="timot" creationdate="20250509T103851Z">
         <seg>Selecione o arquivo e clique em &lt;f1&gt;Abrir&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the files required for the custom theme and click on &lt;f0&gt;Add&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T134034Z" creationid="timotheonb" creationdate="20250609T134034Z">
+        <seg>Selecione os arquivos necessários para o tema personalizado e clique em &lt;f0&gt;Adicionar&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51073,6 +51361,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Gallery default themes are read-only.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131502Z" creationid="timotheonb" creationdate="20250609T131502Z">
+        <seg>Os temas padrão da Galeria são somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Gallery has two sections.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T112119Z" creationid="timot" creationdate="20250114T112119Z">
@@ -52353,6 +52649,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default themes are easily identified by right-clicking on a theme name and the only available option in the context menu is &lt;f0&gt;Properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131547Z" creationid="timotheonb" creationdate="20250609T131547Z">
+        <seg>Os temas padrão são facilmente identificados clicando com o botão direito do mouse em um nome de tema e a única opção disponível no menu de contexto é &lt;f0&gt;Propriedades&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The delimiter is often a comma but may be a semicolon, a vertical bar, or any other character.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122134Z" creationid="olivier-tdf" creationdate="20250117T122134Z">
@@ -52613,6 +52917,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T001356Z" creationid="olivier" creationdate="20250308T001356Z">
         <seg>A extensão de nome de arquivo usada para um arquivo de configuração de teclado é &lt;f1&gt;CFG&lt;/f1&gt;, como mostrado pelo exemplo na caixa de texto &lt;f2&gt;Tipo de arquivo&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The files contained in the folder appear in the Properties of New Theme dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T133504Z" creationid="timotheonb" creationdate="20250609T133504Z">
+        <seg>Os arquivos contidos na pasta aparecem na caixa de diálogo Propriedades de Novo tema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53345,6 +53657,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The name of the Properties of New Theme dialog changes to show the name of the newly created custom theme in the Gallery deck.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132330Z" creationid="timotheonb" creationdate="20250609T132313Z">
+        <seg>O nome da caixa de diálogo Propriedades de Novo tema muda para mostrar o nome do tema personalizado recém-criado no deque Galeria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The name of the color scheme is added to the drop-down list in the &lt;f0&gt;Scheme&lt;/f0&gt; box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T123001Z" creationid="olivier" creationdate="20250314T123001Z">
@@ -53453,6 +53773,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T113628Z" creationid="olivier" creationdate="20250405T113628Z">
         <seg>O novo modelo aparece na lista de modelos disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The new theme is displayed in the list of themes in the Gallery.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132123Z" creationid="timotheonb" creationdate="20250609T132123Z">
+        <seg>O novo tema é exibido na lista de temas na Galeria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55033,6 +55361,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These default themes are listed alphabetically in the box at the top of the Gallery deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131441Z" creationid="timotheonb" creationdate="20250609T131441Z">
+        <seg>Esses temas padrão são listados em ordem alfabética na caixa na parte superior do deque Galeria na Barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These dialogs lock the spreadsheet for editing until they are closed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213644Z" creationid="olivier-tdf" creationdate="20250116T213644Z">
@@ -56573,6 +56909,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T153248Z" creationid="olivier" creationdate="20250318T153248Z">
         <seg>Esta versão do LibreOffice pode abrir e salvar documentos em versões anteriores dos formatos ODF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This website also includes themes from previous versions of LibreOffice that are no longer installed when newer versions of LibreOffice are installed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131905Z" creationid="timotheonb" creationdate="20250609T131905Z">
+        <seg>Este site também inclui temas de versões anteriores do LibreOffice que não são mais instalados quando versões mais recentes do LibreOffice são instaladas.</seg>
       </tuv>
     </tu>
     <tu>
