@@ -5518,6 +5518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Active</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215602Z" creationid="olivier" creationdate="20250612T215602Z">
+        <seg>Ativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Actual brochure printing procedure depends on the computer operating system and type of printer being used.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224652Z" creationid="olivier-tdf" creationdate="20250224T224652Z">
@@ -5922,6 +5930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T194804Z" creationid="olivier" creationdate="20250325T194804Z">
         <seg>Além disso, os marcadores para objetos nomeados são definidos por seus nomes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Address</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215642Z" creationid="olivier" creationdate="20250612T215642Z">
+        <seg>Endereço</seg>
       </tuv>
     </tu>
     <tu>
@@ -8070,6 +8086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Associates a macro with the hotspot instead of a hyperlink.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215624Z" creationid="olivier" creationdate="20250612T215624Z">
+        <seg>Associa uma macro ao ponto de acesso em vez de um hiperlink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At any time, you can directly edit the print range, for example to remove or resize part of the print range.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194859Z" creationid="olivier-tdf" creationdate="20250209T194859Z">
@@ -9450,6 +9474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T234939Z" creationid="olivier" creationdate="20250302T234939Z">
         <seg>Caps Lock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Carries out any action that has been previously undone.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215546Z" creationid="olivier" creationdate="20250612T215546Z">
+        <seg>Realiza qualquer ação que tenha sido desfeita anteriormente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16102,6 +16134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Default selection and opens in the current window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T220107Z" creationid="olivier" creationdate="20250612T220107Z">
+        <seg>Seleção padrão e abre na janela atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Default themes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T131402Z" creationid="timotheonb" creationdate="20250609T131402Z">
@@ -18824,6 +18864,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter the URL address that points to a hyperlink, or to an anchor in a document (for example a specific slide number).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215715Z" creationid="olivier" creationdate="20250612T215715Z">
+        <seg>Digite o endereço de URL que aponta para um hiperlink ou para uma âncora em um documento (por exemplo, um número de slide específico).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter the URL of the HTML document or the name of the spreadsheet, then press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="olivier" creationdate="20250120T001929Z">
@@ -18964,6 +19012,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104101Z" creationid="timot" creationdate="20250204T104101Z">
         <seg>Digite o texto na caixa Localizar na parte superior&lt;f0&gt;.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter the text that is displayed when the cursor is moved over the hotspot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215915Z" creationid="olivier" creationdate="20250612T215915Z">
+        <seg>Digite o texto a exibir quando o cursor for movido sobre o ponto de acesso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21964,6 +22020,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205142Z" creationid="olivier" creationdate="20250324T205142Z">
         <seg>Formatos de arquivo para salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File opens in the parent frame of the current frame.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T220256Z" creationid="olivier" creationdate="20250612T220256Z">
+        <seg>O arquivo é aberto no quadro pai do quadro atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File opens in the topmost frame in the hierarchy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T220214Z" creationid="olivier" creationdate="20250612T220214Z">
+        <seg>O arquivo é aberto no quadro superior da hierarquia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29768,6 +29840,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If there is no parent frame, the current frame is used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T220308Z" creationid="olivier" creationdate="20250612T220308Z">
+        <seg>Se não houver quadro pai, o quadro atual será usado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is the case:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T134301Z" creationid="olivier-tdf" creationdate="20250120T134301Z">
@@ -33384,6 +33464,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is not recommended to use the other selections unless absolutely necessary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T220519Z" creationid="olivier" creationdate="20250612T220519Z">
+        <seg>Não é recomendado usar as outras escolhas, a menos que seja absolutamente necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is open source software and therefore free to download, use, and distribute.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T232526Z" creationid="olivier" creationdate="20250301T232526Z">
@@ -34552,6 +34640,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice drawing tools</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T220547Z" creationid="olivier" creationdate="20250612T220547Z">
+        <seg>Ferramentas de desenho do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice functions can be used by using keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000829Z" creationid="olivier" creationdate="20250303T000829Z">
@@ -35540,6 +35636,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T204921Z" creationid="olivier" creationdate="20250324T204921Z">
         <seg>Macintosh Picture Image (*.pct)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Macro</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215616Z" creationid="olivier" creationdate="20250612T215616Z">
+        <seg>Macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -40056,6 +40160,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens in a new browser window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T220040Z" creationid="olivier" creationdate="20250612T220040Z">
+        <seg>Abre numa nova janela do navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens the Class Path dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191014Z" creationid="olivier" creationdate="20250316T191014Z">
@@ -42857,6 +42969,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215527Z" creationid="olivier" creationdate="20250612T215527Z">
+        <seg>Refazer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Redoes last action.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135614Z" creationid="olivier-tdf" creationdate="20250303T135614Z">
@@ -43653,6 +43773,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154748Z" creationid="olivier" creationdate="20250223T154748Z">
         <seg>Orientação inversa da página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reverses any previous action taken.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215524Z" creationid="olivier" creationdate="20250612T215524Z">
+        <seg>Reverte qualquer ação anterior tomada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45405,6 +45533,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T135318Z" creationid="olivier" creationdate="20250217T135318Z">
         <seg>Selecione &lt;f0&gt;Encaixar&lt;/f0&gt; das opções disponíveis, ou utilize o atalho de teclado  &lt;f1&gt;Ctrl+Shift+F10&lt;/f1&gt; (macOS ⌘+&lt;f2&gt;Shift+F10&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Edit Points&lt;/f0&gt; first to activate the other points tools.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215516Z" creationid="olivier" creationdate="20250612T215516Z">
+        <seg>Selecione &lt;f0&gt;Editar pontos&lt;/f0&gt; primeiro para ativar as outras ferramentas de pontos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48189,6 +48325,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T204329Z" creationid="timotheonb" creationdate="20250530T204329Z">
         <seg>Define a tela inteira ou em janela ou um loop adequado para &lt;f0&gt;apresentação de slides autônoma&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sets the hyperlink properties and adds the Name attribute to the hyperlink.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215636Z" creationid="olivier" creationdate="20250612T215636Z">
+        <seg>Define as propriedades do hiperlink e adiciona o atributo Nome ao hiperlink.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55217,6 +55361,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The value &lt;f0&gt;_self&lt;/f0&gt; for the target frame works in the vast majority of occasions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T220501Z" creationid="olivier" creationdate="20250612T220501Z">
+        <seg>O valor&lt;f0&gt;_self&lt;/f0&gt; para o quadro de destino funciona na grande maioria das ocasiões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The value of this property must be an XML Schema date Time conformant date in the form: CCYY-MM-DDThh:mm:ssZ.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202409Z" creationid="olivier" creationdate="20250327T202409Z">
@@ -60425,6 +60577,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggles the status of the hotspot activating a selected hotspot or deactivating it if active.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215615Z" creationid="olivier" creationdate="20250612T215615Z">
+        <seg>Alterna o status do ponto de acesso, ativando um ponto de acesso selecionado ou desativando-o, se ativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggles the view between full-screen mode and normal mode in Writer or Calc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134808Z" creationid="olivier-tdf" creationdate="20250303T134808Z">
@@ -60941,6 +61101,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125721Z" creationid="olivier-tdf" creationdate="20250218T125721Z">
         <seg>Entender como formatar documentos destrava o poder do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215517Z" creationid="olivier" creationdate="20250612T215517Z">
+        <seg>Desfazer</seg>
       </tuv>
     </tu>
     <tu>
@@ -62213,6 +62381,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T120009Z" creationid="timotheonb" creationdate="20250530T115951Z">
         <seg>Usar uma data e hora variáveis significa que cada vez que a apresentação é aberta, a data e a hora são atualizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using an anchor in a document, write the address in this format: &lt;f0&gt;file:///&lt;path&gt;/document_name#anchor_name&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215846Z" creationid="olivier" creationdate="20250612T215846Z">
+        <seg>Com uma âncora num documento, escreva o endereço neste formato: &lt;f0&gt;file:///&lt;caminho&gt;/mode_do_documento#nome_da_ancora&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64393,6 +64569,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Where the target of the hyperlink opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215924Z" creationid="olivier" creationdate="20250612T215924Z">
+        <seg>Onde o destino do hiperlink é aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Where to get more help</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114057Z" creationid="olivier-tdf" creationdate="20250109T114057Z">
@@ -66341,6 +66525,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T180152Z" creationid="olivier" creationdate="20250318T180152Z">
         <seg>Colunas [C] e [S]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_blank</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215931Z" creationid="olivier" creationdate="20250612T215931Z">
+        <seg>_blank</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_parent</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T220218Z" creationid="olivier" creationdate="20250612T220218Z">
+        <seg>_parent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_self</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T220045Z" creationid="olivier" creationdate="20250612T220045Z">
+        <seg>_self</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_top</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20250612T220115Z" creationid="olivier" creationdate="20250612T220115Z">
+        <seg>_top</seg>
       </tuv>
     </tu>
     <tu>
