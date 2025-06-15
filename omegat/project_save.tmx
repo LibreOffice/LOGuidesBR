@@ -6830,6 +6830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, modify some of the Fontwork shapes by moving the dot that is displayed along with the selection handles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141349Z" creationid="olivier-tdf" creationdate="20250615T141349Z">
+        <seg>Além disso, modifique algumas das formas do Fontwork movendo o ponto que é exibido junto com as alças de seleção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, new styles can be created and these styles can be deleted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125842Z" creationid="olivier-tdf" creationdate="20250218T125842Z">
@@ -8238,6 +8246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Assign line properties only to Fontwork that does not have a 3D effect, otherwise the changes are not visible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141338Z" creationid="olivier-tdf" creationdate="20250615T141338Z">
+        <seg>Atribua propriedades de linha apenas ao Fontwork que não tenha um efeito 3D, caso contrário, as alterações não serão visíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Assigning a list style to a paragraph style</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T101335Z" creationid="timot" creationdate="20250222T101326Z">
@@ -8658,6 +8674,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T114012Z" creationid="timotheonb" creationdate="20250530T114012Z">
         <seg>Objetos de fundo (por exemplo, adicionar um logotipo ou figuras decorativos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Barcodes and QR codes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141405Z" creationid="olivier-tdf" creationdate="20250615T141405Z">
+        <seg>Códigos de barras e códigos QR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Barcodes are used for many purposes to easily identify items using a code scanner.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141518Z" creationid="olivier-tdf" creationdate="20250615T141518Z">
+        <seg>Os códigos de barras são usados para muitos fins para identificar facilmente itens usando um scanner de código.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14854,6 +14886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Converts the Fontwork object into a 3D shape using extrusion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141301Z" creationid="olivier-tdf" creationdate="20250615T141301Z">
+        <seg>Converte o objeto Fontwork em uma forma 3D usando extrusão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Converts the semi-transparent redaction shape to opaque black and exports as pixels in the PDF file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205248Z" creationid="olivier-tdf" creationdate="20250328T205248Z">
@@ -18596,6 +18636,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T010240Z" creationid="tulio" creationdate="20250320T010240Z">
         <seg>Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Editing Fontwork</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141315Z" creationid="olivier-tdf" creationdate="20250615T141315Z">
+        <seg>Editar o Fontwork</seg>
       </tuv>
     </tu>
     <tu>
@@ -23052,6 +23100,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T165146Z" creationid="timot" creationdate="20250409T165146Z">
         <seg>As notas de rodapé aparecem na parte inferior da página em que são referenciadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For &lt;f6&gt;Custom Spacing&lt;/f6&gt;, input a percentage value: 100% is normal character spacing, less than 100% character spacing is tighter, and more than 100% character spacing is looser.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141251Z" creationid="olivier-tdf" creationdate="20250615T141251Z">
+        <seg>Para espaçamento &lt;f6&gt;Personalizado&lt;/f6&gt;, insira um valor percentual: 100% é o espaçamento normal de caracteres, menos de 100% de espaçamento de caracteres é mais apertado e mais de 100% de espaçamento de caracteres é mais folgado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34312,6 +34368,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is possible to treat Fontwork text as an object and apply all the formatting that has been described in this chapter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141328Z" creationid="olivier-tdf" creationdate="20250615T141328Z">
+        <seg>É possível tratar o texto do Fontwork como um objeto e aplicar toda a formatação que foi descrita neste capítulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is publicly available, royalty-free, and without legal or other restrictions; therefore ODF files are not tied to a specific office suite and &lt;f0&gt;anyone&lt;/f0&gt; can build a program that interprets these files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234900Z" creationid="olivier" creationdate="20250301T234900Z">
@@ -41520,6 +41584,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options available are &lt;f0&gt;Very Tight&lt;/f0&gt;, &lt;f1&gt;Tight&lt;/f1&gt;, &lt;f2&gt;Normal&lt;/f2&gt;, &lt;f3&gt;Loose&lt;/f3&gt;, &lt;f4&gt;Very Loose&lt;/f4&gt;, and &lt;f5&gt;Custom Spacing&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141216Z" creationid="olivier-tdf" creationdate="20250615T141216Z">
+        <seg>As opções disponíveis são &lt;f0&gt;Muito apertado&lt;/f0&gt;, &lt;f1&gt;Apertado&lt;/f1&gt;, &lt;f2&gt;Normal&lt;/f2&gt;, &lt;f3&gt;Folgado&lt;/f3&gt;, &lt;f4&gt;Muito folgado&lt;/f4&gt; e &lt;f5&gt;Personalizado&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options for High Contrast Appearance</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T183554Z" creationid="olivier" creationdate="20250316T183554Z">
@@ -46181,6 +46253,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T122940Z" creationid="olivier" creationdate="20250313T122940Z">
         <seg>Consulte a Tabela &lt;t2&gt;2&lt;/t2&gt; &lt;t3&gt;abaixo&lt;/t3&gt;&lt;s4/&gt;para obter mais informações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the &lt;f0&gt;Draw Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141306Z" creationid="olivier-tdf" creationdate="20250615T141306Z">
+        <seg>Consulte o &lt;f0&gt;Guia do Draw&lt;/f0&gt; para obter mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58169,6 +58249,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is similar to modification of the angles of trapezoid and parallelogram basic shapes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141359Z" creationid="olivier-tdf" creationdate="20250615T141359Z">
+        <seg>Isso é semelhante à modificação dos ângulos das formas básicas do trapézio e do paralelogramo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is similar to the Save Keyboard Configuration file browser.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T001801Z" creationid="olivier" creationdate="20250308T001801Z">
@@ -66717,6 +66805,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T105143Z" creationid="timot" creationdate="20250215T105143Z">
         <seg>O Writer sugerirá um atalho de uma letra, que pode ser alterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writer, Calc, Impress, and Draw can generate barcodes and QR (Quick Response) codes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141416Z" creationid="olivier-tdf" creationdate="20250615T141416Z">
+        <seg>Writer, Calc, Impress e Draw podem gerar códigos de barras e códigos QR (Quick Response).</seg>
       </tuv>
     </tu>
     <tu>
