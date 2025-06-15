@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6646,6 +6646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also several graphics can be grouped to maintain their relative position and proportion with each other.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T125902Z" creationid="olivier-tdf" creationdate="20250615T125902Z">
+        <seg>Além disso, várias figuras podem ser agrupadas para manter sua posição relativa e proporção entre si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also specify the position and spacing for each level on the &lt;f3&gt;Position&lt;/f3&gt; tab.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T101627Z" creationid="timot" creationdate="20250222T101627Z">
@@ -7226,6 +7234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203657Z" creationid="olivier-tdf" creationdate="20250112T203657Z">
         <seg>Uma entrada para o LibreOffice é adicionada aos Aplicativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An example Drawing toolbar is shown in Figure &lt;t0&gt;13&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T130056Z" creationid="olivier-tdf" creationdate="20250615T130056Z">
+        <seg>A Figura &lt;t0&gt;13&lt;/t0&gt; mostra um exemplo de barra de ferramentas de desenho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17726,10 +17742,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drawing toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T130016Z" creationid="olivier-tdf" creationdate="20250615T130016Z">
+        <seg>Barra de ferramentas Desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drawing tools for hotspot shapes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215154Z" creationid="olivier" creationdate="20250612T215154Z">
         <seg>Ferramentas de desenho para formas de ponto de acesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drawing tools in LibreOffice are used to create graphics consisting of rectangles, circles, lines, text, and other predefined shapes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T125841Z" creationid="olivier-tdf" creationdate="20250615T125841Z">
+        <seg>As ferramentas de desenho no LibreOffice são usadas para criar figuras que consistem em retângulos, círculos, linhas, texto e outras formas predefinidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26740,6 +26772,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T123954Z" creationid="olivier-tdf" creationdate="20250109T123954Z">
         <seg>Figuras e objetos de outros módulos do LibreOffice podem ser inseridos em documentos do Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Graphics are placed directly on a page in a document, or inserted into a frame.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T125946Z" creationid="olivier-tdf" creationdate="20250615T125946Z">
+        <seg>As figuras são colocadas diretamente numa página num documento ou inseridas num quadro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63717,6 +63757,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224440Z" creationid="olivier" creationdate="20250123T224440Z">
         <seg>Ao criar um documento de planilha, você pode restringir os usuários a inserir dados válidos e apropriados para a célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When creating complex drawings, it is recommended to use LibreOffice Draw to make use of more advanced drawing features, for example drawing layers and styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T130006Z" creationid="olivier-tdf" creationdate="20250615T130006Z">
+        <seg>Ao criar desenhos complexos, recomenda-se usar o LibreOffice Draw para fazer uso de recursos de desenho mais avançados, por exemplo, desenhar camadas e estilos.</seg>
       </tuv>
     </tu>
     <tu>
