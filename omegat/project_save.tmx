@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -418,6 +418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T001232Z" creationid="olivier-tdf" creationdate="20250219T001232Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Selecione &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Aplicar estilo&lt;/f2&gt; na barra de ferramentas Formatação (Calc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;HelloMacro&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250627T192740Z" creationid="timotheonb" creationdate="20250627T192740Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;HelloMacro&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10426,6 +10434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T203103Z" creationid="olivier" creationdate="20250324T203103Z">
         <seg>Capítulo 10,&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chapter 11, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250627T191505Z" creationid="timotheonb" creationdate="20250627T191440Z">
+        <seg>Capítulo 11, &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26256,6 +26272,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting Started with Macros</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250627T191542Z" creationid="timotheonb" creationdate="20250627T191542Z">
+        <seg>Introdução às macros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Getting Started with Math</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222925Z" creationid="timotheonb" creationdate="20250530T222925Z">
@@ -34828,6 +34852,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250109T002616Z" creationid="olivier" creationdate="20250109T002616Z">
         <seg>Jean Hollis Weber, Claire Wood, Luciana Motta, B. Antonio Fernández, Olivier Hallot, Timothy Brennan Jr., Vítor Ferreira, Rafael Lima, Rob Thornton, Edward Olson, Peter Schofield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jean Hollis Weber, Felipe Viggiano,Kees Kriek, Olivier Hallot, Rafael Lima, Peter Schofield, Andrew Pitonyak, Hazel Russman, Steve Fanning, Martin Fox, Andrew Jensen, Ron Faile Jr., Valerii Goncharuk, Skip Masonsmith, Flywire.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250627T192049Z" creationid="timotheonb" creationdate="20250627T192049Z">
+        <seg>Jean Hollis Weber, Felipe Viggiano,Kees Kriek, Olivier Hallot, Rafael Lima, Peter Schofield, Andrew Pitonyak, Hazel Russman, Steve Fanning, Martin Fox, Andrew Jensen, Ron Faile Jr., Valerii Goncharuk, Skip Masonsmith, Flywire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43973,6 +44005,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215711Z" creationid="timot" creationdate="20250110T215711Z">
         <seg>Rafael Lima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rafael Lima, B. Antonio Fernandez, Olivier Hallot,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250627T192039Z" creationid="timotheonb" creationdate="20250627T192039Z">
+        <seg>Rafael Lima, B. Antonio Fernandez, Olivier Hallot,</seg>
       </tuv>
     </tu>
     <tu>
@@ -64289,6 +64329,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using the Macro Recorder … and Beyond</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250627T192028Z" creationid="timotheonb" creationdate="20250627T192028Z">
+        <seg>Usar o gravador de macro... e além</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the Menu bar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250528T132536Z" creationid="timotheonb" creationdate="20250528T132536Z">
@@ -68373,6 +68421,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194052Z" creationid="olivier-tdf" creationdate="20250109T194052Z">
         <seg>macOS x86_64 (10.14 (Mojave ou superior)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>macros</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20250627T192114Z" creationid="timotheonb" creationdate="20250627T192114Z">
+        <seg>macros</seg>
       </tuv>
     </tu>
     <tu>
