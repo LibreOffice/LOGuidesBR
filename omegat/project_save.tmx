@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Optional) To check if the macro is written as expected by the LibreOffice Basic programming language, click the &lt;f0&gt;Compile&lt;/f0&gt; icon on the Macro toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T082744Z" creationid="olivier-tdf" creationdate="20250701T082744Z">
+        <seg>(Opcional) Para verificar se a macro foi gravada conforme esperado pela linguagem de programação LibreOffice BASIC, clique no ícone &lt;f0&gt;Compilar&lt;/f0&gt; na barra de ferramentas Macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Windows only)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001209Z" creationid="olivier" creationdate="20250303T001209Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250627T192740Z" creationid="timotheonb" creationdate="20250627T192740Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;HelloMacro&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Main&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T082528Z" creationid="olivier-tdf" creationdate="20250701T082528Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Main&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18150,6 +18166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-click the &lt;f0&gt;HelloMacro&lt;/f0&gt; subroutine in the &lt;f1&gt;Object Catalog&lt;/f1&gt; window under &lt;f2&gt;TestLibrary &gt; Module 1&lt;/f2&gt; and click the &lt;f3&gt;Run&lt;/f3&gt; icon on the Macro toolbar, or press the &lt;f4&gt;F5&lt;/f4&gt; key, to run the &lt;f5&gt;HelloMacro&lt;/f5&gt; subroutine in the module.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T082926Z" creationid="olivier-tdf" creationdate="20250701T082926Z">
+        <seg>Clique duas vezes na sub-rotina &lt;f0&gt;HelloMacro&lt;/f0&gt; na janela &lt;f1&gt;Catálogo de objetos&lt;/f1&gt; em &lt;f2&gt;TestLibrary &gt; Módulo 1&lt;/f2&gt; e clique no ícone &lt;f3&gt;Executar&lt;/f3&gt; na barra de ferramentas Macro ou pressione a tecla &lt;f4&gt;F5&lt;/f4&gt; para executar a sub-rotina&lt;f5&gt;HelloMacro&lt;/f5&gt; no módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-click the &lt;f0&gt;Paste&lt;/f0&gt; button without releasing the left mouse button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112341Z" creationid="timot" creationdate="20250202T112341Z">
@@ -31640,6 +31664,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you prefer, you can remove the &lt;f0&gt;Sub Main&lt;/f0&gt; … &lt;f1&gt;End Sub&lt;/f1&gt; code from the Module and leave only the &lt;f2&gt;HelloMacro&lt;/f2&gt; subroutine.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T082724Z" creationid="olivier-tdf" creationdate="20250701T082724Z">
+        <seg>Se preferir, você pode remover o código &lt;f0&gt;Sub Main&lt;/f0&gt;… &lt;f1&gt;End Sub&lt;/f1&gt; do Módulo e deixar apenas a &lt;f2&gt;sub-rotina&lt;/f2&gt; HelloMacro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you reload a document in LibreOffice, all the changes made in an editing session after the last save are discarded.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250225T000302Z" creationid="olivier" creationdate="20250220T232919Z">
@@ -36964,6 +36996,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="rafael" changedate="20250220T003254Z" creationid="rafael" creationdate="20250220T003254Z">
         <seg>Listagem &lt;seq0&gt;1&lt;/seq0&gt;: Macro simples que diz olá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Listing &lt;seq0&gt;2&lt;/seq0&gt;: Module1 after adding the new macro</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T082517Z" creationid="olivier-tdf" creationdate="20250701T082517Z">
+        <seg>Listagem &lt;seq0&gt;2&lt;/seq0&gt;: Módulo 1 após adicionar a nova macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -44701,6 +44741,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183516Z" creationid="olivier" creationdate="20250222T183516Z">
         <seg>Impressão rápida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REM &lt;s0/&gt;***** &lt;s1/&gt;BASIC &lt;s2/&gt;*****</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T082524Z" creationid="olivier-tdf" creationdate="20250701T082524Z">
+        <seg>REM &lt;s0/&gt;***** &lt;s1/&gt;BASIC &lt;s2/&gt;*****</seg>
       </tuv>
     </tu>
     <tu>
