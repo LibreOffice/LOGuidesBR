@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;document&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;object&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T091008Z" creationid="olivier-tdf" creationdate="20250701T091008Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;document&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;object&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;document&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;s8/&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;f10&gt;as&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;object&lt;/f14&gt;&lt;/f13&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085229Z" creationid="olivier-tdf" creationdate="20250701T085229Z">
@@ -17142,6 +17150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defines &lt;f0&gt;document&lt;/f0&gt; as an object variable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T091017Z" creationid="olivier-tdf" creationdate="20250701T091017Z">
+        <seg>Define o &lt;f0&gt;document&lt;/f0&gt; como uma variável de objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defines the LibreOffice text and HTML documents’ display for certain characters and for the direct cursor.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182538Z" creationid="olivier-tdf" creationdate="20250328T182538Z">
@@ -17226,6 +17242,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T185955Z" creationid="olivier" creationdate="20250318T185955Z">
         <seg>Define as configurações para importar documentos HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defines the start of the &lt;f0&gt;EnterMyName&lt;/f0&gt; macro.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090953Z" creationid="olivier-tdf" creationdate="20250701T090953Z">
+        <seg>Define o início da macro &lt;f0&gt;EnterMyName&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20756,6 +20780,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104727Z" creationid="timot" creationdate="20250204T104727Z">
         <seg>Caixa de diálogo Localizar e substituir expandida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Explaining macro code</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090900Z" creationid="olivier-tdf" creationdate="20250701T090900Z">
+        <seg>Explicando o código de macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -34240,6 +34272,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this example, there is only one value, and it is numbered zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090855Z" creationid="olivier-tdf" creationdate="20250701T090855Z">
+        <seg>Neste exemplo, há apenas um valor e ele é numerado como zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this module, select cells, right-click to bring up the context menu, then select Styles to apply a style to those cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172141Z" creationid="olivier-tdf" creationdate="20250403T172141Z">
@@ -40548,6 +40588,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250212T222041Z" creationid="olivier" creationdate="20250212T222041Z">
         <seg>Tamanho do objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Objects are a specific variable type with multiple fields (s&lt;bk1/&gt;ometimes they are called properties) and actions (also they are called methods).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T091121Z" creationid="olivier-tdf" creationdate="20250701T091121Z">
+        <seg>Objetos são um tipo específico de variável com vários campos (&lt;bk1/&gt;às vezes chamados de propriedades) e ações (também chamados de métodos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56505,6 +56553,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following is an explanation of the code used in the &lt;f0&gt;EnterMyName&lt;/f0&gt; macro.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090925Z" creationid="olivier-tdf" creationdate="20250701T090925Z">
+        <seg>A seguir está uma explicação do código usado na macro &lt;f0&gt;EnterMyName&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following is only an example of how to print handouts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T185804Z" creationid="timotheonb" creationdate="20250530T185804Z">
@@ -57389,6 +57445,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T133922Z" creationid="olivier" creationdate="20250217T133922Z">
         <seg>O número e o tipo de deque usados na barra lateral dependem do tipo de documento e do módulo aberto do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number in the parentheses indicates the highest usable number to access a storage location.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090823Z" creationid="olivier-tdf" creationdate="20250701T090823Z">
+        <seg>O número entre parênteses indica o maior número utilizável para acessar um local de armazenamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66237,6 +66301,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224347Z" creationid="olivier" creationdate="20250123T224347Z">
         <seg>Validar o conteúdo da célula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Values in an array usually begin at zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090813Z" creationid="olivier-tdf" creationdate="20250701T090813Z">
+        <seg>Os valores em uma matriz geralmente começam em zero.</seg>
       </tuv>
     </tu>
     <tu>
