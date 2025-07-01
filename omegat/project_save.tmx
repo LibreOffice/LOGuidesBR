@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;document&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ThisComponent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;CurrentController&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Frame&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T091725Z" creationid="olivier-tdf" creationdate="20250701T091725Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;document&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ThisComponent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;CurrentController&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Frame&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;document&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;s4/&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;ThisComponent&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;.&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;CurrentController&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;.&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;Frame&lt;/f18&gt;&lt;/f17&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085302Z" creationid="olivier-tdf" creationdate="20250701T085302Z">
@@ -854,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;CurrentController&lt;/f0&gt; is a property referring to a service that controls the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T091750Z" creationid="olivier-tdf" creationdate="20250701T091750Z">
+        <seg>&lt;f0&gt;CurrentController&lt;/f0&gt; é uma propriedade referente a um serviço que controla o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Default view&lt;/f0&gt; — displays the current slide, including any effects and the next slide in the presentation (Figure &lt;t1&gt;49&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T111857Z" creationid="timotheonb" creationdate="20250531T111857Z">
@@ -1066,6 +1082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T113604Z" creationid="timot" creationdate="20250114T113604Z">
         <seg>&lt;f0&gt;Formatar&lt;/f0&gt; modifica o tamanho, largura, altura, orientação e margens da página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Frame&lt;/f0&gt; is a controller property that returns the main frame for a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T091852Z" creationid="olivier-tdf" creationdate="20250701T091852Z">
+        <seg>&lt;f0&gt;Frame&lt;/f0&gt; é uma propriedade do controlador que retorna o quadro principal de um documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1838,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;ThisComponent&lt;/f0&gt; is a runtime object created by LibreOffice that refers to the current document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T091738Z" creationid="olivier-tdf" creationdate="20250701T091738Z">
+        <seg>&lt;f0&gt;ThisComponent&lt;/f0&gt; é um objeto de tempo de execução criado pelo LibreOffice que se refere ao documento atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Title&lt;/f0&gt;, &lt;f1&gt;Subject&lt;/f1&gt; and &lt;f2&gt;Keywords&lt;/f2&gt; are exported to PDF files as PDF Document Properties.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T194743Z" creationid="olivier-tdf" creationdate="20250328T194743Z">
@@ -2058,6 +2090,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T004005Z" creationid="olivier" creationdate="20250120T004005Z">
         <seg>&lt;f1&gt;Ctrl+Home:&lt;/f1&gt; move o foco da célula para a primeira célula da planilha, A1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f1&gt;CurrentController&lt;/f1&gt; then dispatches the changes to the document frame.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T091841Z" creationid="olivier-tdf" creationdate="20250701T091841Z">
+        <seg>O &lt;f1&gt;CurrentController&lt;/f1&gt; então despacha as alterações no quadro do documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24820,6 +24860,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T132643Z" creationid="olivier" creationdate="20250320T132643Z">
         <seg>Por exemplo, selecionar &lt;f0&gt;Asiático&lt;/f0&gt; ativa o suporte ao escrever caracteres para os idiomas chinês, japonês ou coreano na interface do usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, when you type, it is the current controller that takes note of what you type.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T091829Z" creationid="olivier-tdf" creationdate="20250701T091829Z">
+        <seg>Por exemplo, ao digitar, controlador atual toma nota do que você tecla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58997,6 +59045,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250109T212355Z">
         <seg>Portanto, algumas ilustrações não se parecerão exatamente com o que é visto numa tela de computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, the variable named &lt;f1&gt;document&lt;/f1&gt; refers to a document’s frame, which receives dispatched commands.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T091908Z" creationid="olivier-tdf" creationdate="20250701T091908Z">
+        <seg>Portanto, a variável denominada &lt;f1&gt;documento&lt;/f1&gt; refere-se ao quadro de um documento, que recebe comandos despachados.</seg>
       </tuv>
     </tu>
     <tu>
