@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_66c3b60" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_fdf3133" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13114,6 +13114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250528T132000Z" creationid="timotheonb" creationdate="20250528T132000Z">
         <seg>Clique em &lt;f0>Inserir imagem&lt;/f0> na barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0>Insert Line&lt;/f0> on the Drawing toolbar (Figure &lt;t1>6&lt;/t1> on page &lt;t2>7&lt;/t2>).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuario" changedate="20250701T203320Z" creationid="Usuario" creationdate="20250701T203320Z">
+        <seg>Clique em &lt;f0>Inserir Linha&lt;/f0> na barra de ferramentas Desenho (Figura &lt;t1>6&lt;/t1> na página &lt;t2>7&lt;/t2>).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65421,6 +65429,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T230314Z" creationid="olivier" creationdate="20250123T230314Z">
         <seg>Use um dos seguintes métodos para se preparar para a edição de dados da célula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use one of the following methods to start drawing a line:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuario" changedate="20250701T203304Z" creationid="Usuario" creationdate="20250701T203304Z">
+        <seg>Use um dos seguintes métodos para começar a desenhar uma linha:</seg>
       </tuv>
     </tu>
     <tu>
