@@ -17262,6 +17262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defining subroutines with &lt;is0/&gt;SUB</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090017Z" creationid="olivier-tdf" creationdate="20250701T090017Z">
+        <seg>Definindo sub-rotinas com &lt;is0/&gt;SUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T123635Z" creationid="olivier" creationdate="20250313T123635Z">
@@ -32080,6 +32088,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you use symbolic constants defined by the Application Programming Interface (API), it is safer to assume that the names are case-sensitive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085934Z" creationid="olivier-tdf" creationdate="20250701T085934Z">
+        <seg>Se você usar constantes simbólicas definidas pela Interface de Programação de Aplicativos (API), é mais seguro assumir que os nomes diferenciam maiúsculas de minúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you use the Export command, LibreOffice will create a copy of the file as a new file using the selected format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T213322Z" creationid="olivier" creationdate="20250324T213322Z">
@@ -34360,6 +34376,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Individual macros are stored in subroutines and these subroutines begin with the keyword &lt;f0&gt;SUB&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090027Z" creationid="olivier-tdf" creationdate="20250701T090027Z">
+        <seg>Macros individuais são armazenadas em sub-rotinas e essas sub-rotinas começam com a palavra-chave &lt;f0&gt;SUB&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Individual pages, slides, or drawings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224057Z" creationid="olivier-tdf" creationdate="20250224T224057Z">
@@ -35524,6 +35548,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234349Z" creationid="olivier" creationdate="20250301T234349Z">
         <seg>Está bem documentado com a especificação completa disponível publicamente, gratuitamente ou por uma taxa nominal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is worth noting that symbolic constants are an advanced topic that is not covered by this user guide and they are not required when using the macro recorder in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085950Z" creationid="olivier-tdf" creationdate="20250701T085950Z">
+        <seg>Vale ressaltar que as constantes simbólicas são um tópico avançado que não é abordado por este guia do usuário e não são necessárias ao usar o gravador de macros no LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40308,6 +40340,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T004821Z" creationid="olivier" creationdate="20250120T004821Z">
         <seg>Observe que, em ambos os casos, a célula recém-focalizada pode não conter nenhum dado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that the code in Listing &lt;t3&gt;3&lt;/t3&gt;&lt;s4/&gt;for the &lt;f5&gt;EnterMyName&lt;/f5&gt; macro starts with the keyword &lt;f6&gt;SUB&lt;/f6&gt; and ends with &lt;f7&gt;END SUB&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090121Z" creationid="olivier-tdf" creationdate="20250701T090121Z">
+        <seg>Observe que o código na Listagem &lt;t3&gt;3&lt;/t3&gt;&lt;s4/&gt;para a macro &lt;f5&gt;EnterMyName&lt;/f5&gt; começa com a palavra-chave &lt;f6&gt;SUB&lt;/f6&gt; e termina com &lt;f7&gt;END SUB&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55657,6 +55697,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The code starts by defining the subroutine named &lt;f2&gt;Main&lt;/f2&gt;, which is empty and does nothing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090049Z" creationid="olivier-tdf" creationdate="20250701T090049Z">
+        <seg>O código começa definindo a sub-rotina chamada &lt;f2&gt;Main&lt;/f2&gt;, que está vazia e não faz nada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The color appears as a fill in the selected object.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T200958Z" creationid="olivier-tdf" creationdate="20250308T200958Z">
@@ -56205,6 +56253,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141045Z" creationid="olivier-tdf" creationdate="20250615T141045Z">
         <seg>Os efeitos do alinhamento do texto só podem ser vistos se o texto se estender por duas ou mais linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The end of a subroutine is indicated by the words &lt;f1&gt;END SUB&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090038Z" creationid="olivier-tdf" creationdate="20250701T090038Z">
+        <seg>O final de uma sub-rotina é indicado pelas palavras &lt;f1&gt;END SUB&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58577,6 +58633,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are advanced topics that are beyond the scope of this user guide, but knowing about them might be of interest:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090135Z" creationid="olivier-tdf" creationdate="20250701T090135Z">
+        <seg>Existem tópicos avançados que estão além do escopo deste guia do usuário, mas conhecê-los pode ser de interesse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are controls to adjust transition speed, automatic or manual transition, and how long a selected slide is shown (automatic transition only).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T111729Z" creationid="timotheonb" creationdate="20250502T111729Z">
@@ -59165,6 +59229,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T185309Z" creationid="olivier-tdf" creationdate="20250309T185309Z">
         <seg>Essas informações do usuário são usadas para várias coisas no LibreOffice, como quem criou ou editou pela última vez um documento , autor de comentários ou alterações, endereço do remetente em listas de discussão e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These values are called arguments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090152Z" creationid="olivier-tdf" creationdate="20250701T090152Z">
+        <seg>Esses valores são chamados de argumentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69673,6 +69745,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can write subroutines that accept input values to be used inside the macro.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090146Z" creationid="olivier-tdf" creationdate="20250701T090146Z">
+        <seg>Você pode escrever sub-rotinas que aceitam valores de entrada a serem usados dentro da macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You cannot add new themes to Calc, but you can modify a theme’s styles after the theme is applied to the spreadsheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164713Z" creationid="olivier" creationdate="20250204T164713Z">
@@ -70149,6 +70229,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T084532Z" creationid="olivier-tdf" creationdate="20250701T084532Z">
         <seg>executar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>subroutines</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090002Z" creationid="olivier-tdf" creationdate="20250701T090002Z">
+        <seg>sub-rotinas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>subroutines in macros</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085955Z" creationid="olivier-tdf" creationdate="20250701T085955Z">
+        <seg>sub-rotinas em macros</seg>
       </tuv>
     </tu>
     <tu>
