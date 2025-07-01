@@ -5478,6 +5478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A more &lt;i0/&gt;complex example of a macro</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T111013Z" creationid="olivier-tdf" creationdate="20250701T111013Z">
+        <seg>Um exemplo mais &lt;i0/&gt;complexo de uma macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A new document can be created in the Templates dialog by doing these steps:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204526Z" creationid="olivier" creationdate="20250404T204526Z">
@@ -10266,6 +10274,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215205Z" creationid="olivier-tdf" creationdate="20250109T215205Z">
         <seg>O código de programação do LibreOffice pode ser usado ao desenvolver um aplicativo de software?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can the steps be arranged so that the macro’s final command leaves the cursor ready for the next command?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110950Z" creationid="olivier-tdf" creationdate="20250701T110950Z">
+        <seg>As etapas podem ser organizadas de forma que o comando final da macro deixe o cursor pronto para o próximo comando?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can the task be written as a simple set of commands?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110939Z" creationid="olivier-tdf" creationdate="20250701T110939Z">
+        <seg>A tarefa pode ser escrita como um simples conjunto de comandos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15622,6 +15646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copy the data from the website to the clipboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T111047Z" creationid="olivier-tdf" creationdate="20250701T111047Z">
+        <seg>Copie os dados do site para a área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copying and pasting from a source on a computer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T152811Z" creationid="tulio" creationdate="20250320T011444Z">
@@ -15842,6 +15874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202433Z" creationid="olivier" creationdate="20250327T202433Z">
         <seg>Criar arquivos HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating a macro</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110925Z" creationid="olivier-tdf" creationdate="20250701T110925Z">
+        <seg>Criar uma macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -33800,6 +33840,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In other words, this line of code executes the UNO command &lt;f0&gt;.uno:InsertText&lt;/f0&gt; passing the value “Your Name” as the “Text” parameter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110903Z" creationid="olivier-tdf" creationdate="20250701T110903Z">
+        <seg>Em outras palavras, esta linha de código executa o comando uno &lt;f0&gt;.uno:InsertText&lt;/f0&gt; passando o valor “Your Name” como o parâmetro “Text”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In that case, the text on each page is scaled down to make space for the comments.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T115510Z" creationid="timot" creationdate="20250407T115510Z">
@@ -41552,6 +41600,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One common macro task is to copy rows and columns of data from a website and format them as a table in a text document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T111026Z" creationid="olivier-tdf" creationdate="20250701T111026Z">
+        <seg>Uma tarefa de macro comum é copiar linhas e colunas de dados de um site e formatá-las como uma tabela em um documento de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One of the most useful tools for analyzing data is the pivot table, which allows you to organize, manipulate, and summarize large amounts of data to make it much easier to read and understand.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191448Z" creationid="olivier-tdf" creationdate="20250209T191448Z">
@@ -43180,6 +43236,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T211101Z" creationid="olivier" creationdate="20250123T211101Z">
         <seg>Aba Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Or does it allow the user to return to entering text or data into the target document?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110958Z" creationid="olivier-tdf" creationdate="20250701T110958Z">
+        <seg>Ou permite que o usuário volte a inserir texto ou dados no documento de destino?</seg>
       </tuv>
     </tu>
     <tu>
@@ -57121,6 +57185,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The last argument is the array of property values to be used while executing the command &lt;f2&gt;InsertText&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110846Z" creationid="olivier-tdf" creationdate="20250701T110846Z">
+        <seg>O último argumento é a matriz de valores de propriedade a ser usada durante a execução do comando &lt;f2&gt;InsertText&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The last line of the code ends the subroutine.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110910Z" creationid="olivier-tdf" creationdate="20250701T110910Z">
+        <seg>A última linha do código encerra a sub-rotina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The last marked selection is the content of the Selection clipboard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155917Z" creationid="olivier" creationdate="20250312T155917Z">
@@ -57621,6 +57701,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115333Z" creationid="olivier" creationdate="20250405T115333Z">
         <seg>Na próxima vez que criar um novo documento e um modelo específico não for selecionado, o documento será criado usando o modelo padrão original do LibreOffice para esse tipo de documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The next two arguments, frame name and search flags, are beyond the scope of this book.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110834Z" creationid="olivier-tdf" creationdate="20250701T110834Z">
+        <seg>Os próximos dois argumentos, nome do quadro e sinalizadores de pesquisa, estão além do escopo deste livro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64673,6 +64761,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Typically this macro works as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T111040Z" creationid="olivier-tdf" creationdate="20250701T111040Z">
+        <seg>Normalmente, essa macro funciona da seguinte maneira:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Typing errors are highlighted in the document with a red wavy underline.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011042Z" creationid="olivier" creationdate="20250321T011042Z">
@@ -67461,6 +67557,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203128Z" creationid="olivier-tdf" creationdate="20250328T203128Z">
         <seg>Ao criar arquivos PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When creating a macro, it is important to ask two questions before recording:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110933Z" creationid="olivier-tdf" creationdate="20250701T110933Z">
+        <seg>Ao criar uma macro, é importante fazer duas perguntas antes de gravar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70417,6 +70521,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>creating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110917Z" creationid="olivier-tdf" creationdate="20250701T110917Z">
+        <seg>criar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>dBASE (.dbf)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T204403Z" creationid="olivier" creationdate="20250324T204403Z">
@@ -70461,6 +70573,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T084900Z" creationid="olivier-tdf" creationdate="20250701T084900Z">
         <seg>editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>example</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T111004Z" creationid="olivier-tdf" creationdate="20250701T111004Z">
+        <seg>exemplo</seg>
       </tuv>
     </tu>
     <tu>
