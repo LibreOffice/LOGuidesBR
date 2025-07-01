@@ -2870,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0>Example of line starting point&lt;/s0>&lt;s1>Example of line starting point&lt;/s1></seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T204203Z" creationid="lucianacmota0808" creationdate="20250701T204203Z">
+        <seg>&lt;s0>Exemplo de ponto de partida de linha&lt;/s0>&lt;s1> Exemplo de ponto de partida de linha&lt;/s1></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0>Example of outline levels in AutoLayout text box&lt;/s0>&lt;s1>Example of outline levels in AutoLayout text box&lt;/s1></seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250523T110033Z" creationid="timotheonb" creationdate="20250523T110033Z">
@@ -3338,6 +3346,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250701T153316Z" creationid="firelinux" creationdate="20250701T153316Z">
         <seg>&lt;s0>Linha e barra de ferramentas de preenchimento&lt;/s0>&lt;s1> Linha e barra de ferramentas de preenchimento&lt;/s1></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0>Line dialog — Line page&lt;/s0>&lt;s1>Line dialog — Line page&lt;/s1></seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T211341Z" creationid="lucianacmota0808" creationdate="20250701T211034Z">
+        <seg>&lt;s0>Caixa de diálogo Linha — Página Linha&lt;/s0>&lt;s1> Caixa de diálogo Linha — Página Linha&lt;/s1></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0>Line panel in Properties deck on Sidebar&lt;/s0>&lt;s1>Line panel in Properties deck on Sidebar&lt;/s1></seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T210820Z" creationid="lucianacmota0808" creationdate="20250701T210820Z">
+        <seg>&lt;s0>Painel de linha no deque de Propriedades no&lt;/s0> painel&lt;s1> Linha da Barra Lateral no deque de Propriedades na Barra Lateral&lt;/s1></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0>Lines and Arrows subtoolbar&lt;/s0>&lt;s1>Lines and Arrows subtoolbar&lt;/s1></seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212759Z" creationid="lucianacmota0808" creationdate="20250701T212759Z">
+        <seg>&lt;s0>Sub-barra de ferramentas Linhas e setas&lt;/s0>&lt;s1>Sub-barra de ferramentas Linhas e setas&lt;/s1></seg>
       </tuv>
     </tu>
     <tu>
@@ -5414,6 +5446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A line is drawn using default attributes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T204224Z" creationid="lucianacmota0808" creationdate="20250701T204224Z">
+        <seg>Uma linha é desenhada usando atributos padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A link remains dependent on the original object.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250429T221004Z" creationid="timotheonb" creationdate="20250429T220653Z">
@@ -5626,6 +5666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T121556Z" creationid="tulio" creationdate="20250411T121556Z">
         <seg>Uma cópia digitalizada da mídia é inserida no documento do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A selection handle appears at each end of the line, showing that this object is selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T204117Z" creationid="lucianacmota0808" creationdate="20250701T204117Z">
+        <seg>Uma alça de seleção aparece em cada extremidade da linha, mostrando que este objeto está selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6634,6 +6682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T212009Z" creationid="olivier-tdf" creationdate="20250209T194442Z">
         <seg>Após definir um intervalo de impressão, é possível adicionar mais células a ele criando outro intervalo de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After drawing a line, or arrow, the line, or arrow style is changed by opening the Line dialog (Figure &lt;t0>12&lt;/t0> on page &lt;t1>10&lt;/t1>) and using the options available on the &lt;f2>Line Styles&lt;/f2> or &lt;f3>Arrow Styles&lt;/f3> pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T213026Z" creationid="lucianacmota0808" creationdate="20250701T213026Z">
+        <seg>Depois de desenhar uma linha ou seta, o estilo da linha ou seta é alterado abrindo a caixa de diálogo Linha (Figura &lt;t0>12&lt;/t0> na página &lt;t1>10&lt;/t1>) e usando as opções disponíveis nas páginas &lt;f2>Estilos de linha&lt;/f2> ou &lt;f3>Estilos de seta&lt;/f3>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8674,6 +8730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250602T214719Z" creationid="olivier" creationdate="20250602T214719Z">
         <seg>Disposição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arrows are drawn like straight lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212530Z" creationid="lucianacmota0808" creationdate="20250701T212530Z">
+        <seg>As setas são desenhadas como linhas retas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13118,6 +13182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0>Insert Line&lt;/f0> in the &lt;f1>Lines and Arrows&lt;/f1> panel in the Shapes deck on the Sidebar (Figure &lt;t2>9&lt;/t2>).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T204017Z" creationid="lucianacmota0808" creationdate="20250701T204017Z">
+        <seg>Clique em &lt;f0>Inserir Linha&lt;/f0> no painel de &lt;f1>Linhas e Setas&lt;/f1> no deck Formas na Barra Lateral (Figura &lt;t2>9&lt;/t2>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0>Insert Line&lt;/f0> on the Drawing toolbar (Figure &lt;t1>6&lt;/t1> on page &lt;t2>7&lt;/t2>).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuario" changedate="20250701T203320Z" creationid="Usuario" creationdate="20250701T203320Z">
@@ -13474,6 +13546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T143743Z" creationid="olivier" creationdate="20250223T143743Z">
         <seg>Clique em &lt;f0>Propriedades&lt;/f0> para abrir a caixa de diálogo de propriedades da impressora que está sendo usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;f0>Rectangle&lt;/f0> on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T213044Z" creationid="lucianacmota0808" creationdate="20250701T213044Z">
+        <seg>Clique em &lt;f0>Retângulo&lt;/f0> na barra de ferramentas Desenho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14350,6 +14430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the type of arrow required in the &lt;f0>Lines and Arrows&lt;/f0> panel of the Shapes deck on the Sidebar (Figure &lt;t1>9&lt;/t1> on page &lt;t2>8&lt;/t2>).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212906Z" creationid="lucianacmota0808" creationdate="20250701T212906Z">
+        <seg>Clique no tipo de seta necessária no painel &lt;f0>Linhas e Setas&lt;/f0> do deque Formas na Barra Lateral (Figura &lt;t1>9&lt;/t1> na página &lt;t2>8&lt;/t2>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the words &lt;f2>Click to add Notes&lt;/f2> and begin typing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T202836Z" creationid="timotheonb" creationdate="20250502T202836Z">
@@ -14658,6 +14746,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T203614Z" creationid="lucianacmota0808" creationdate="20250701T203614Z">
         <seg>Clique ▼ no triângulo à direita de &lt;f0>Linhas e Setas&lt;/f0> na barra de ferramentas Desenho e selecione &lt;f1>Inserir Linha&lt;/f1> no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the triangle ▼ on the right of &lt;f0>Lines and Arrows&lt;/f0> on the Drawing toolbar and select the type of arrow required from the Lines and Arrows sub-toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212840Z" creationid="lucianacmota0808" creationdate="20250701T212840Z">
+        <seg>Clique ▼ no triângulo à direita de &lt;f0>Linhas e Setas&lt;/f0> na barra de ferramentas Desenho e selecione o tipo de seta necessária na sub-barra de Linhas e Setas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20792,6 +20888,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of line starting point</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T204214Z" creationid="lucianacmota0808" creationdate="20250701T204214Z">
+        <seg>Exemplo de ponto de partida de linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example of outline levels in AutoLayout text box</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250523T110054Z" creationid="timotheonb" creationdate="20250523T110054Z">
@@ -21416,6 +21520,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0>10&lt;/seq0>: Example of line starting point</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T204210Z" creationid="lucianacmota0808" creationdate="20250701T204210Z">
+        <seg>Figura &lt;seq0>10&lt;/seq0>: Exemplo de ponto de partida da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0>10&lt;/seq0>: New Category dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T120111Z" creationid="olivier" creationdate="20250405T120111Z">
@@ -21468,6 +21580,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T214019Z" creationid="timot" creationdate="20250204T104308Z">
         <seg>Figura &lt;seq0>11&lt;/seq0>: &lt;f1>Deque&lt;/f1> Localizar na Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0>11&lt;/seq0>: Line panel in Properties deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T210833Z" creationid="lucianacmota0808" creationdate="20250701T210833Z">
+        <seg>Figura &lt;seq0>11&lt;/seq0>: Painel de linha no deque de Propriedades na Barra Lateral</seg>
       </tuv>
     </tu>
     <tu>
@@ -21540,6 +21660,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250612T214818Z" creationid="olivier" creationdate="20250612T214818Z">
         <seg>Figura &lt;seq0>12&lt;/seq0>: Caixa de diálogo Editor de mapa de imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0>12&lt;/seq0>: Line dialog — Line page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T211052Z" creationid="lucianacmota0808" creationdate="20250701T211052Z">
+        <seg>Figura &lt;seq0>12&lt;/seq0>: Caixa de diálogo Linha — Página Linha</seg>
       </tuv>
     </tu>
     <tu>
@@ -21620,6 +21748,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T214051Z" creationid="timot" creationdate="20250205T154856Z">
         <seg>Figura &lt;seq0>13&lt;/seq0>: Ícone Inserir caracteres especiais na barra de ferramentas padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0>13&lt;/seq0>: Lines and Arrows subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212818Z" creationid="lucianacmota0808" creationdate="20250701T212818Z">
+        <seg>Figura &lt;seq0>13&lt;/seq0>: Sub-barra de ferramentas Linhas e setas</seg>
       </tuv>
     </tu>
     <tu>
@@ -27752,6 +27888,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0>Format > Line&lt;/f0> on the Menu bar to open the Line dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T210405Z" creationid="lucianacmota0808" creationdate="20250701T210405Z">
+        <seg>Vá para &lt;f0>Formatar > Linha...&lt;/f0> na barra de Menu para abrir a caixa de diálogo Linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0>Format > Lists&lt;/f0> on the Menu bar and select &lt;f1>Demote&lt;/f1> in the submenu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250523T111500Z" creationid="timotheonb" creationdate="20250523T111500Z">
@@ -28620,6 +28764,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225836Z" creationid="timotheonb" creationdate="20250530T225836Z">
         <seg>Vá para o painel Elementos, selecione uma categoria na lista suspensa e, em seguida, selecione um símbolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the Properties deck on the Sidebar and open the &lt;f0>Line&lt;/f0> panel (Figure &lt;t1>11&lt;/t1>).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T204248Z" creationid="lucianacmota0808" creationdate="20250701T204248Z">
+        <seg>Vá para o deck Propriedades na Barra Lateral e abra o painel &lt;f0>Linha&lt;/f0> (Figura &lt;t1>11&lt;/t1>).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29504,6 +29656,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hovering the cursor over each tool in the Lines and Arrows subtoolbar (Figure &lt;t0>13&lt;/t0>) indicates what type of line, or arrow each tool creates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212643Z" creationid="lucianacmota0808" creationdate="20250701T212643Z">
+        <seg>Passar o cursor sobre cada ferramenta na sub-barra de ferramentas Linhas e Setas (Figura &lt;t0>13&lt;/t0>) indica que tipo de linha ou seta cada ferramenta cria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How can LibreOffice be freely available?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215148Z" creationid="olivier-tdf" creationdate="20250109T215148Z">
@@ -29664,10 +29824,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, if the &lt;f1>Snap to Grid&lt;/f1> option in &lt;f2>View > Snap Guides&lt;/f2> on the Menu bar is selected, the &lt;f3>Ctrl&lt;/f3> key (macOS ⌘) deactivates the snap to grid.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212256Z" creationid="lucianacmota0808" creationdate="20250701T212256Z">
+        <seg>No entanto, se a opção &lt;f1>Encaixar na Grade&lt;/f1> em &lt;f2>Exibir > Guias de Encaixe&lt;/f2> na barra de Menu estiver selecionada, a &lt;f3>tecla Ctrl&lt;/f3> (macOS) desativa o ajuste à planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, if the common paragraphs are edited, you may need to update that information in every document where it occurs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T170559Z" creationid="timot" creationdate="20250409T170559Z">
         <seg>Entretanto, se os parágrafos comuns forem editados, talvez seja necessário atualizar essas informações em todos os documentos em que ocorrerem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, if the option &lt;f1>When creating or moving objects&lt;/f1> in the &lt;f2>Constrain Objects&lt;/f2> section of &lt;f3>Tools > Options > LibreOffice Draw > &lt;/f3>&lt;t4/>&lt;f5>Grid&lt;/f5> (macOS &lt;f6>LibreOffice > Preferences > LibreOffice Draw > Grid&lt;/f6>) has been selected, the &lt;f7>Shift&lt;/f7> key deactivates this restriction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212445Z" creationid="lucianacmota0808" creationdate="20250701T212445Z">
+        <seg>No entanto, se a opção &lt;f1>Ao criar ou mover objetos&lt;/f1> na seção &lt;f2>Restringir Objetos&lt;/f2> em &lt;f3>Ferramentas > Opções > LibreOffice Draw > &lt;/f3>&lt;t4/>&lt;f5>Grade&lt;/f5> (macOS &lt;f6>LibreOffice > Preferências > LibreOffice Draw > Grade&lt;/f6>) tiver sido selecionada, a tecla &lt;f7>Shift&lt;/f7> desativa essa restrição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36688,6 +36864,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice Draw classifies both lines and arrows as lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212521Z" creationid="lucianacmota0808" creationdate="20250701T212521Z">
+        <seg>O LibreOffice Draw classifica ambas linhas e setas como linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice Draw is fully integrated into the LibreOffice suite simplifying exchanging graphics between all LibreOffice modules.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250629T183548Z" creationid="firelinux" creationdate="20250629T183548Z">
@@ -37520,6 +37704,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Line dialog — Line page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T211347Z" creationid="lucianacmota0808" creationdate="20250701T211347Z">
+        <seg>Caixa de diálogo Linha — Página Linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Line numbering</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T205539Z" creationid="timot" creationdate="20250402T205539Z">
@@ -37544,10 +37736,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Line panel in Properties deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T210920Z" creationid="lucianacmota0808" creationdate="20250701T210920Z">
+        <seg>Painel de linha no deque de Propriedades na Barra Lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lines and Arrows</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T130451Z" creationid="olivier-tdf" creationdate="20250615T130451Z">
         <seg>Linhas e setas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lines and Arrows subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212823Z" creationid="lucianacmota0808" creationdate="20250701T212823Z">
+        <seg>Sub-barra de ferramentas Linhas e setas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lines are drawn starting from the center of the line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212508Z" creationid="lucianacmota0808" creationdate="20250701T212508Z">
+        <seg>As linhas são desenhadas a partir do centro da linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44288,6 +44504,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Place the cursor at the starting point of the line or arrow, then click and drag the cursor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212919Z" creationid="lucianacmota0808" creationdate="20250701T212919Z">
+        <seg>Coloque o cursor no ponto inicial da linha ou seta e, em seguida, clique e arraste o cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Place the cursor at the starting point on the drawing, then click and drag the cursor to draw a straight line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T204036Z" creationid="lucianacmota0808" creationdate="20250701T204036Z">
+        <seg>Coloque o cursor no ponto inicial do desenho, clique e arraste o cursor para desenhar uma linha reta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Place the cursor in the first paragraph of the new page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250326T122621Z" creationid="timot" creationdate="20250326T122621Z">
@@ -45761,6 +45993,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rectangles or Squares</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T213030Z" creationid="lucianacmota0808" creationdate="20250701T213030Z">
+        <seg>Retângulos ou quadrados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Redacted Export (&lt;f0>B&lt;/f0>lack)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205227Z" creationid="olivier-tdf" creationdate="20250328T205227Z">
@@ -46005,6 +46245,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T131225Z" creationid="olivier-tdf" creationdate="20250615T131225Z">
         <seg>Solte o cursor e a ferramenta de desenho selecionada permanece ativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Release the cursor when the end point is reached and a straight line is created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T204055Z" creationid="lucianacmota0808" creationdate="20250701T204055Z">
+        <seg>Solte o cursor quando o ponto final for atingido e uma linha reta for criada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46861,6 +47109,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T151855Z" creationid="timotheonb" creationdate="20250609T132403Z">
         <seg>Clique com o botão direito do mouse num nome de tema personalizado na lista de temas no deque Galeria e selecione &lt;f0>Propriedades&lt;/f0> no menu de contexto para abrir a caixa de diálogo Propriedades de Novo tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click on a line and select &lt;f0>Line&lt;/f0> in the context menu to open the Line dialog (Figure &lt;t1>12&lt;/t1>).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T204305Z" creationid="lucianacmota0808" creationdate="20250701T204305Z">
+        <seg>Clique com o botão direito do mouse em uma linha e selecione &lt;f0>Linha&lt;/f0> no menu de contexto para abrir a caixa de diálogo Linha (Figura &lt;t1>12&lt;/t1>).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56057,6 +56313,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The arrowhead is created when the cursor is released.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212926Z" creationid="lucianacmota0808" creationdate="20250701T212926Z">
+        <seg>A ponta da seta é criada quando o cursor é liberado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The assigned macro automatically runs each time the associated event occurs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T081735Z" creationid="olivier" creationdate="20250308T081735Z">
@@ -57265,6 +57529,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The information field on the &lt;f1>Status bar&lt;/f1> shows them only as lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212709Z" creationid="lucianacmota0808" creationdate="20250701T212709Z">
+        <seg>O campo de informações na &lt;f1>barra de status&lt;/f1> mostra-os apenas como linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The information needed for the hotspot includes the address pointed to by the hyperlink and the text to be displayed when the cursor is moved over the hotspot.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250612T214421Z" creationid="olivier" creationdate="20250612T214421Z">
@@ -58441,6 +58713,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The selection handle at the starting point of the line is larger than the end point (highlighted in Figure &lt;t0>10&lt;/t0>).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T204157Z" creationid="lucianacmota0808" creationdate="20250701T204157Z">
+        <seg>A alça de seleção no ponto inicial da linha é maior do que no ponto final (destacado na Figura &lt;t0>10&lt;/t0>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The sequence can be changed later.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T192054Z" creationid="timotheonb" creationdate="20250530T192054Z">
@@ -58797,6 +59077,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T193434Z" creationid="olivier-tdf" creationdate="20250309T193434Z">
         <seg>A ferramenta reúne todas as informações necessárias que podem ajudar os desenvolvedores do programa a melhorar o código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tool icon for the &lt;f0>Lines and Arrows&lt;/f0> tool previously used is shown on the Drawing toolbar making it easier to use the same tool again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212946Z" creationid="lucianacmota0808" creationdate="20250701T212946Z">
+        <seg>O ícone da ferramenta de &lt;f0>Linhas e Setas&lt;/f0> usado anteriormente é mostrado na barra de ferramentas Desenho, facilitando o uso da mesma ferramenta novamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61729,6 +62017,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change line attributes and format a line to the drawing requirements, select the line by clicking on it and use one of the following methods to access formatting options for the line:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T204242Z" creationid="lucianacmota0808" creationdate="20250701T204242Z">
+        <seg>Para alterar os atributos de linha e formatar uma linha para os requisitos de desenho, selecione a linha clicando nela e use um dos seguintes métodos para acessar as opções de formatação da linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change margins using the Page Style dialog:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T210529Z" creationid="timot" creationdate="20250402T210529Z">
@@ -62517,6 +62813,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T141634Z" creationid="tulio" creationdate="20250211T141634Z">
         <seg>Para encaixar a barra de ferramentas flutuante selecionada em sua posição padrão, selecione &lt;f0>Encaixar barra de ferramentas&lt;/f0>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To draw a line symmetrically outwards in both directions from the start point, keep the &lt;f0>Alt&lt;/f0> key (macOS ⌥) pressed while drawing the line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212456Z" creationid="lucianacmota0808" creationdate="20250701T212456Z">
+        <seg>Para desenhar uma linha simetricamente para fora em ambas as direções a partir do ponto inicial, mantenha a tecla &lt;f0>Alt&lt;/f0> (macOS) pressionada enquanto desenha a linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63713,6 +64017,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To restrict the drawing angle of a line to multiples of 45 degrees, keep the &lt;f0>Shift&lt;/f0> key pressed while drawing the line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212306Z" creationid="lucianacmota0808" creationdate="20250701T212306Z">
+        <seg>Para restringir o ângulo de desenho de uma linha a múltiplos de 45 graus, mantenha a tecla &lt;f0>Shift&lt;/f0> pressionada enquanto desenha a linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To restrict the rotation angles to multiples of 15 degrees, press and hold the &lt;f0>Shift&lt;/f0> key while rotating the image.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250602T213735Z" creationid="olivier" creationdate="20250602T213735Z">
@@ -64013,6 +64325,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104809Z" creationid="timot" creationdate="20250113T104809Z">
         <seg>Para assinar o documento, ou para visualizar o certificado, clique na área ou no ícone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To snap the end of a line to the nearest grid point, keep the &lt;f0>Ctrl&lt;/f0> key (macOS ⌘) pressed while drawing the line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212118Z" creationid="lucianacmota0808" creationdate="20250701T212118Z">
+        <seg>Para encaixar o final de uma linha no ponto de grade mais próximo, mantenha a &lt;f0>tecla Ctrl&lt;/f0> (macOS) pressionada enquanto desenha a linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65433,6 +65753,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use one of the following methods to draw a line or arrow:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212830Z" creationid="lucianacmota0808" creationdate="20250701T212830Z">
+        <seg>Use um dos seguintes métodos para desenhar uma linha ou seta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use one of the following methods to prepare for editing cell data:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T230314Z" creationid="olivier" creationdate="20250123T230314Z">
@@ -65445,6 +65773,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuario" changedate="20250701T203304Z" creationid="Usuario" creationdate="20250701T203304Z">
         <seg>Use um dos seguintes métodos para começar a desenhar uma linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use one of the following methods to start drawing a rectangle or square:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T213036Z" creationid="lucianacmota0808" creationdate="20250701T213036Z">
+        <seg>Use um dos seguintes métodos para começar a desenhar um retângulo ou quadrado:</seg>
       </tuv>
     </tu>
     <tu>
@@ -65925,6 +66261,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011439Z" creationid="tulio" creationdate="20250116T011439Z">
         <seg>Use o atalho de teclado ⌘+&lt;f0>Q&lt;/f0></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the tools &lt;f0>Line Style&lt;/f0>, &lt;f1>Line Width&lt;/f1>, and &lt;f2>Line Color&lt;/f2> on the Line and Filling toolbar (Figure &lt;t3>7&lt;/t3> on page &lt;t4>7&lt;/t4>).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T210751Z" creationid="lucianacmota0808" creationdate="20250701T210751Z">
+        <seg>Use as ferramentas &lt;f0>Estilo de linha&lt;/f0>, &lt;f1>Espessura da linha&lt;/f1> e &lt;f2>Cor do preenchimento&lt;/f2> na barra de ferramentas Linha e Preenchimento (Figura &lt;t3>7&lt;/t3> na página &lt;t4>7&lt;/t4>).</seg>
       </tuv>
     </tu>
     <tu>
