@@ -5510,6 +5510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A small dialog with a &lt;f1&gt;Stop Recording&lt;/f1&gt; button is displayed indicating that LibreOffice is recording a macro.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T083846Z" creationid="olivier-tdf" creationdate="20250701T083846Z">
+        <seg>Aparece uma pequena caixa de diálogo com um botão &lt;f1&gt;Parar gravação&lt;/f1&gt; indicando que o LibreOffice está gravando uma macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A special character is one not found on a standard user’s keyboard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T153924Z" creationid="timot" creationdate="20250205T153924Z">
@@ -8430,6 +8438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As an example, type your name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T083935Z" creationid="olivier-tdf" creationdate="20250701T083935Z">
+        <seg>Por exemplo, digite seu nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As many as you like.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215020Z" creationid="olivier-tdf" creationdate="20250109T215020Z">
@@ -9602,6 +9618,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200821Z" creationid="olivier" creationdate="20250327T200821Z">
         <seg>Normalmente, o exportador procura dentro de uma pasta no diretório do documento atual com o mesmo nome do nome do arquivo do documento para mídia personalizada e metadados personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, this feature is turned off in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T083803Z" creationid="olivier-tdf" creationdate="20250701T083803Z">
+        <seg>Normalmente esse recurso está desativado no LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11994,6 +12018,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T204052Z" creationid="timotheonb" creationdate="20250530T204052Z">
         <seg>Clique em &lt;f0&gt;Iniciar&lt;/f0&gt; para testar a apresentação de slides personalizada ou clique em &lt;f1&gt;OK&lt;/f1&gt; para fechar a caixa de diálogo Apresentações de slides personalizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Stop Recording&lt;/f0&gt; on the small dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T083946Z" creationid="olivier-tdf" creationdate="20250701T083946Z">
+        <seg>Clique em &lt;f0&gt;Parar gravação&lt;/f0&gt; na pequena caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27728,6 +27760,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Record Macro&lt;/f0&gt; to start recording a macro.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T083819Z" creationid="olivier-tdf" creationdate="20250701T083819Z">
+        <seg>Acesse &lt;f0&gt;Ferramentas &gt; Macros &gt; Gravar macro&lt;/f0&gt; para começar a gravar uma macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Language &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;and Locale&lt;/f2&gt;&lt;/f1&gt; (macOS &lt;f3&gt;LibreOffice &gt; Preferences &gt; Language &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;and Locale&lt;/f5&gt;&lt;/f4&gt;) on the Menu bar to open dialogs where the properties for languages, writing aids and language tools can be defined.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232207Z" creationid="olivier" creationdate="20250319T232207Z">
@@ -41268,6 +41308,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183116Z" creationid="olivier" creationdate="20250222T183116Z">
         <seg>Abra as &lt;f0&gt;Configurações do Sistema&lt;/f0&gt; e, em seguida, abra &lt;f1&gt;Impressoras e Scanners&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open &lt;i0/&gt;the library container &lt;f1&gt;My Macros&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T084020Z" creationid="olivier-tdf" creationdate="20250701T084020Z">
+        <seg>Abra &lt;i0/&gt;o contêiner da biblioteca &lt;f1&gt;Minhas macros&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60193,6 +60241,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will cause Basic Macros dialog to open (similar to Figure &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;3&lt;/t3&gt;, but with different action buttons).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T084002Z" creationid="olivier-tdf" creationdate="20250701T084002Z">
+        <seg>Isso fará com que a caixa de diálogo Macros Básicas seja aberta (semelhante à Figura &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;na página &lt;t3&gt;3&lt;/t3&gt;, mas com diferentes botões de ação).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will help you to identify the categories and symbols that need to be used in the formula.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T230017Z" creationid="timotheonb" creationdate="20250530T230017Z">
@@ -63805,6 +63861,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195902Z" creationid="olivier-tdf" creationdate="20250209T195902Z">
         <seg>Digite os identificadores de linha na caixa &lt;f0&gt;Colunas a repetir&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type the desired text you want to be entered when this macro is run.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T083930Z" creationid="olivier-tdf" creationdate="20250701T083930Z">
+        <seg>Digite o texto a inserir ao executar esta macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69661,6 +69725,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T175908Z" creationid="olivier" creationdate="20250602T220852Z">
         <seg>É o posicionamento vertical ou horizontal de uma imagem, ou figura, em relação ao ponto de ancoragem selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>library container</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T084010Z" creationid="olivier-tdf" creationdate="20250701T084010Z">
+        <seg>contêiner da biblioteca</seg>
       </tuv>
     </tu>
     <tu>
