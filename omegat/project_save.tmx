@@ -7990,6 +7990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Another kind of subroutine is called a function, which is a subroutine that can return a value as a result of its work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090308Z" creationid="olivier-tdf" creationdate="20250701T090308Z">
+        <seg>Outro tipo de sub-rotina é chamada de função, que é uma sub-rotina que pode retornar um valor como resultado de seu processamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Answers to frequently asked questions&lt;f0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204546Z" creationid="olivier-tdf" creationdate="20250109T204546Z">
@@ -17218,6 +17226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T141825Z" creationid="olivier" creationdate="20250223T141825Z">
         <seg>Define quais avisos aparecem antes do início da impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defining &lt;i0/&gt;variables using &lt;is1/&gt;&lt;is2/&gt;DIM</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090422Z" creationid="olivier-tdf" creationdate="20250701T090422Z">
+        <seg>Definindo &lt;i0/&gt;variáveis usando &lt;is1/&gt;&lt;is2/&gt;DIM</seg>
       </tuv>
     </tu>
     <tu>
@@ -26492,6 +26508,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190508Z" creationid="olivier-tdf" creationdate="20250209T190508Z">
         <seg>Funções e fórmulas podem ser inseridas diretamente na barra de Fórmulas ou usando o Assistente de funções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Functions are defined by the keyword &lt;f0&gt;FUNCTION&lt;/f0&gt; at the beginning.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090349Z" creationid="olivier-tdf" creationdate="20250701T090349Z">
+        <seg>As funções são definidas pela palavra-chave &lt;f0&gt;FUNCTION&lt;/f0&gt; no início.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45289,6 +45313,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Recorded macros in LibreOffice create subroutines only.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090402Z" creationid="olivier-tdf" creationdate="20250701T090402Z">
+        <seg>As macros gravadas no LibreOffice criam apenas sub-rotinas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recorded macros in LibreOffice do not accept arguments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090232Z" creationid="olivier-tdf" creationdate="20250701T090232Z">
+        <seg>Macros gravadas no LibreOffice não aceitam argumentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Recording a &lt;i0/&gt;macro</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T083416Z" creationid="olivier-tdf" creationdate="20250701T083416Z">
@@ -59505,6 +59545,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can only be done when you create subroutines from scratch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090221Z" creationid="olivier-tdf" creationdate="20250701T090221Z">
+        <seg>Isso só pode ser feito quando criar sub-rotinas do zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This changes depending on the object selected on the slide.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T132053Z" creationid="timotheonb" creationdate="20250502T132053Z">
@@ -67737,6 +67785,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you are defining a variable (which contains data), you should use the &lt;f0&gt;DIM&lt;/f0&gt; keyword, which was originally stood for &lt;f1&gt;Dimension&lt;/f1&gt; and was used to define the dimensions of an array.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090455Z" creationid="olivier-tdf" creationdate="20250701T090455Z">
+        <seg>Ao definir uma variável (que contém dados), você deve usar a palavra-chave &lt;f0&gt;DIM&lt;/f0&gt;, que originalmente significava &lt;f1&gt;Dimension&lt;/f1&gt; e era usada para definir as dimensões de uma matriz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you are moving a toolbar into a docked location, LibreOffice will indicate that the toolbar is in a docked position when you see a hashed border around the toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T235710Z" creationid="tulio" creationdate="20250211T140435Z">
@@ -70245,6 +70301,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085955Z" creationid="olivier-tdf" creationdate="20250701T085955Z">
         <seg>sub-rotinas em macros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>variables</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090408Z" creationid="olivier-tdf" creationdate="20250701T090408Z">
+        <seg>variáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>variables in macros</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090413Z" creationid="olivier-tdf" creationdate="20250701T090413Z">
+        <seg>variáveis em macros</seg>
       </tuv>
     </tu>
     <tu>
