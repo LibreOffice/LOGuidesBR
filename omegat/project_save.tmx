@@ -10014,6 +10014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, this feature is turned off when LibreOffice is installed on your computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T124116Z" creationid="olivier-tdf" creationdate="20250702T124116Z">
+        <seg>Normalmente esse recurso está desativado no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By providing the configuration file for the computer operating system in the folder &lt;f2&gt;&lt;instdir&gt;/presets/config&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190616Z" creationid="olivier" creationdate="20250316T190616Z">
@@ -28504,6 +28512,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Record Macro&lt;/f0&gt; to start recording.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T124126Z" creationid="olivier-tdf" creationdate="20250702T124126Z">
+        <seg>Acesse &lt;f0&gt;Ferramentas &gt; Macros &gt; Gravar Macro&lt;/f0&gt; para iniciar a gravação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt; to open the Macro Selector dialog (Figure &lt;t1&gt;7&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T084630Z" creationid="olivier-tdf" creationdate="20250701T084630Z">
@@ -38632,6 +38648,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make sure macro recording is enabled by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt; and selecting the option &lt;f1&gt;Enable macro recording&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T124047Z" creationid="olivier-tdf" creationdate="20250702T124047Z">
+        <seg>Certifique-se de que a gravação de macro está ativada, indo para &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Avançado&lt;/f0&gt; e selecionando a opção &lt;f1&gt;Ativar gravação de macro&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make sure that the layout orientation (Landscape or Portrait) matches the page format set in &lt;f0&gt;Format &gt; Page&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184234Z" creationid="olivier" creationdate="20250222T184234Z">
@@ -45065,6 +45089,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press &lt;f0&gt;Backspace&lt;/f0&gt; twice to remove the tab and the space.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T124220Z" creationid="olivier-tdf" creationdate="20250702T124220Z">
+        <seg>Pressione &lt;f0&gt;Backspace&lt;/f0&gt; duas vezes para remover a tabulação e o espaço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press &lt;f0&gt;Ctrl+1&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230445Z" creationid="olivier-tdf" creationdate="20250122T230445Z">
@@ -45113,10 +45145,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press &lt;f0&gt;Ctrl+Right Arrow&lt;/f0&gt; to move the cursor to the start of the word “specifies”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T124202Z" creationid="olivier-tdf" creationdate="20250702T124202Z">
+        <seg>Pressione &lt;f0&gt;Ctrl+Seta para a direita&lt;/f0&gt; para mover o cursor para o início da palavra "especifica".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press &lt;f0&gt;Ctrl+Right Arrow&lt;/f0&gt; twice to move the cursor to the start of the number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T124318Z" creationid="olivier-tdf" creationdate="20250702T124318Z">
+        <seg>Pressione &lt;f0&gt;Ctrl+Seta para a direita&lt;/f0&gt; duas vezes para mover o cursor para o início do número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press &lt;f0&gt;Ctrl+Shift+Right Arrow&lt;/f0&gt; to select and move the cursor before the % sign.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T124345Z" creationid="olivier-tdf" creationdate="20250702T124345Z">
+        <seg>Pressione &lt;f0&gt;Ctrl+Shift+Seta para a direita&lt;/f0&gt; para selecionar e mover o cursor antes do sinal de %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press &lt;f0&gt;Ctrl+Shift+V&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112345Z" creationid="timot" creationdate="20250202T112345Z">
         <seg>Pressione &lt;f0&gt;Ctrl+Shift+V.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press &lt;f0&gt;Delete&lt;/f0&gt; to delete the lower case “s” and then press &lt;f1&gt;Shift+S&lt;/f1&gt; to add an upper case “S”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T124254Z" creationid="olivier-tdf" creationdate="20250702T124254Z">
+        <seg>Pressione &lt;f0&gt;Delete&lt;/f0&gt; para excluir as letras minúsculas "s" e, em seguida, pressione &lt;f1&gt;Shift+S&lt;/f1&gt; para adicionar uma letra maiúscula "S".</seg>
       </tuv>
     </tu>
     <tu>
@@ -45197,6 +45261,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T185119Z" creationid="timot" creationdate="20250122T185119Z">
         <seg>Tecle &lt;f0&gt;Shift+F8&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press &lt;f0&gt;Tab&lt;/f0&gt; to add the tab without the space after the constant name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T124236Z" creationid="olivier-tdf" creationdate="20250702T124236Z">
+        <seg>Pressione &lt;f0&gt;Tab&lt;/f0&gt; para adicionar a tabulação sem o espaço após o nome da constante.</seg>
       </tuv>
     </tu>
     <tu>
