@@ -4168,8 +4168,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Result of using the macro in a line with a different structure&lt;/s0&gt;&lt;s1&gt;Result of using the macro in a line with a different structure&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125546Z" creationid="olivier-tdf" creationdate="20250702T125546Z">
-        <seg>&lt;s0&gt;Resultado do uso da macro em uma linha com uma estrutura diferente&lt;/s0&gt;&lt;s1&gt; Resultado do uso da macro em uma linha com uma estrutura diferente&lt;/s1&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T130057Z" creationid="olivier-tdf" creationdate="20250702T125546Z">
+        <seg>&lt;s0&gt;Resultado do uso da macro numa linha com uma estrutura diferente&lt;/s0&gt;&lt;s1&gt; Resultado do uso da macro numa linha com uma estrutura diferente&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12162,6 +12162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T231338Z" creationid="olivier" creationdate="20250307T231338Z">
         <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para alterar o ícone da ferramenta selecionada e feche a caixa de diálogo Alterar ícone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the &lt;f1&gt;Customize&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125915Z" creationid="olivier-tdf" creationdate="20250702T125915Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para fechar a caixa de diálogo Personalizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24068,6 +24076,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125614Z" creationid="olivier-tdf" creationdate="20250117T125614Z">
         <seg>A Figura &lt;t0&gt;9&lt;/t0&gt;&lt;s1/&gt;contém um exemplo de dados para exportação e a Figura &lt;t2&gt;10&lt;/t2&gt;&lt;s3/&gt;mostra o arquivo CSV resultante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;t2&gt;11&lt;/t2&gt;&lt;s3/&gt;illustrates the steps involved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T130036Z" creationid="olivier-tdf" creationdate="20250702T130036Z">
+        <seg>A Figura &lt;t2&gt;11&lt;/t2&gt;&lt;s3/&gt;ilustra as etapas envolvidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41512,10 +41528,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click the &lt;f0&gt;&lt;f1&gt;Assign&lt;/f1&gt;&lt;/f0&gt; button to assign the &lt;f2&gt;Ctrl+K&lt;/f2&gt; shortcut to the CopyNumToCol1 macro.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125904Z" creationid="olivier-tdf" creationdate="20250702T125904Z">
+        <seg>Agora clique no botão &lt;f0&gt;&lt;f1&gt;Atribuir&lt;/f1&gt;&lt;/f0&gt; para atribuir o atalho &lt;f2&gt;Ctrl+K&lt;/f2&gt; à macro CopyNumToCol1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now highlight the selection, using mouse or keyboard, as shown below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T111615Z" creationid="timot" creationdate="20250202T111615Z">
         <seg>Agora destaque a seleção, usando o mouse ou o teclado, conforme mostrado abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you can run the &lt;f0&gt;CopyNumToCol1&lt;/f0&gt; macro using the &lt;f1&gt;Ctrl+K&lt;/f1&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125942Z" creationid="olivier-tdf" creationdate="20250702T125942Z">
+        <seg>Agora você pode executar a macro &lt;f0&gt;CopyNumToCol1&lt;/f0&gt; usando o atalho &lt;f1&gt;Ctrl+K.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61749,6 +61781,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T234533Z" creationid="olivier" creationdate="20250325T201341Z">
         <seg>Normalmente isto é feito durante a instalação do software do cartão inteligente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is very fast and easy to configure after you get used to the macro workflow.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125952Z" creationid="olivier-tdf" creationdate="20250702T125952Z">
+        <seg>Isso é muito rápido e fácil de configurar depois de se acostumar com o fluxo de trabalho de macro.</seg>
       </tuv>
     </tu>
     <tu>
