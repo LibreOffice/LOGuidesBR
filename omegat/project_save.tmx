@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_fdf3133" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_66c3b60" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0>Basic Shapes subtoolbar&lt;/s0>&lt;s1>Basic Shapes subtoolbar&lt;/s1></seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T004228Z" creationid="firelinux" creationdate="20250702T004114Z">
+        <seg>&lt;s0>Subbarra de ferramentas de Formas básicas &lt;/s0>&lt;s1>Subbarra de ferramentas de Formas básicas&lt;/s1></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0>CSV file containing raw and calculated values&lt;/s0>&lt;s1>CSV file containing raw and calculated values&lt;/s1></seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T220239Z" creationid="olivier-tdf" creationdate="20250117T220239Z">
@@ -3274,6 +3282,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250528T132053Z" creationid="timotheonb" creationdate="20250528T132053Z">
         <seg>&lt;s0>Barra de ferramentas Inserir&lt;/s0>&lt;s1>Barra de ferramentas Inserir&lt;/s1></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0>Legacy Rectangles toolbar&lt;/s0>&lt;s1>Legacy Rectangles toolbar&lt;/s1></seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T004941Z" creationid="firelinux" creationdate="20250702T004941Z">
+        <seg>&lt;s0>Barra de ferramentas Retângulos Legados&lt;/s0>&lt;s1>Barra de ferramentas Retângulos Legados&lt;/s1></seg>
       </tuv>
     </tu>
     <tu>
@@ -9414,6 +9430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Basic Shapes subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T004509Z" creationid="firelinux" creationdate="20250702T004509Z">
+        <seg>Subbarra de ferramentas de Formas Básicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Be careful when changing a language in character or paragraph styles, as this will change the language for all characters or paragraphs using that style.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T120006Z" creationid="timot" creationdate="20250407T120006Z">
@@ -13558,6 +13582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on &lt;f0>Rectangle&lt;/f0> or &lt;f1>Square&lt;/f1> in the &lt;f2>Basic Shapes&lt;/f2> panel of the Shapes deck on the Sidebar (Figure &lt;t3>9&lt;/t3> on page &lt;t4>8&lt;/t4>).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T004744Z" creationid="firelinux" creationdate="20250702T004744Z">
+        <seg>Clique em &lt;f0>Retângulo&lt;/f0> ou &lt;f1>Quadrado&lt;/f1> no &lt;f2>Formas Básicas&lt;/f2> painel do deque de Formas na Barra Lateral (Figura &lt;t3>9&lt;/t3> na página &lt;t4>8&lt;/t4>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on &lt;f0>Redacted Export (White)&lt;/f0>, or &lt;f1>Redacted Export (Black)&lt;/f1> in the Redaction toolbar to export the presentation file as a redacted PDF file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T221130Z" creationid="olivier-tdf" creationdate="20250328T221130Z">
@@ -14738,6 +14770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T181848Z" creationid="olivier" creationdate="20250222T181848Z">
         <seg>Clique no pequeno triângulo ▼ à direita de &lt;f0>Desfazer&lt;/f0> na barra de ferramentas Padrão para abrir uma lista de alterações que podem ser desfeitas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the triangle ▼ on the right of &lt;f0>Basic Shapes&lt;/f0> on the Drawing toolbar and select &lt;f1>Rectangle&lt;/f1> or &lt;f2>Square&lt;/f2> on the Basic Shapes subtoolbar (Figure &lt;t3>14&lt;/t3>).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T003929Z" creationid="firelinux" creationdate="20250702T003929Z">
+        <seg>Clique ▼ no triângulo à direita de &lt;f0>Formas Básicas&lt;/f0> na barra de ferramentas Desenho e selecione &lt;f1>Retângulo&lt;/f1> ou &lt;f2>Quadrado&lt;/f2> na sub-barra de ferramentas Formas Básicas (Figura &lt;t3>14&lt;/t3>).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21784,6 +21824,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0>14&lt;/seq0>: Basic Shapes subtoolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T004243Z" creationid="firelinux" creationdate="20250702T004140Z">
+        <seg>Figura &lt;seq0>14&lt;/seq0>: Subbarra de ferramentas de Formas Básicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0>14&lt;/seq0>: Drawing Object Properties toolbar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T131443Z" creationid="olivier-tdf" creationdate="20250615T131443Z">
@@ -21868,6 +21916,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T145323Z" creationid="olivier" creationdate="20250405T145323Z">
         <seg>Figura &lt;seq0>15&lt;/seq0>: Caixa de diálogo de hiperlink — página Novo documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0>15&lt;/seq0>: Legacy Rectangles toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T005009Z" creationid="firelinux" creationdate="20250702T005009Z">
+        <seg>Figura &lt;seq0>15&lt;/seq0>: Barra de ferramentas de retângulos legados</seg>
       </tuv>
     </tu>
     <tu>
@@ -30440,6 +30496,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a rectangle option is selected, hold down the &lt;f0>Shift&lt;/f0> key while dragging the cursor to draw a square.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T005828Z" creationid="firelinux" creationdate="20250702T005828Z">
+        <seg>Se uma opção de retângulo for selecionada, mantenha pressionada a tecla &lt;f0>Shift&lt;/f0> enquanto arrasta o cursor para desenhar um quadrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a scanner is connected to a computer, LibreOffice can use the scanning software to scan an image, graphic, or document, then place the scanned media into the open document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T175620Z" creationid="tulio" creationdate="20250411T120742Z">
@@ -31172,6 +31236,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250612T213151Z" creationid="olivier" creationdate="20250612T213151Z">
         <seg>Se necessário, este local pode ser alterado e os arquivos de galeria (*.&lt;f2>sdv&lt;/f2>) podem ser copiados para outros computadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If necessary, use one of the following options to draw a rectangle or square:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T005807Z" creationid="firelinux" creationdate="20250702T005807Z">
+        <seg>Se necessário, use uma das seguintes opções para desenhar um retângulo ou quadrado:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36732,6 +36804,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T115132Z" creationid="timotheonb" creationdate="20250530T115132Z">
         <seg>Seção esquerda — data e hora, rotuladas &lt;f0>Área de data&lt;/f0>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Legacy Rectangles toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T005016Z" creationid="firelinux" creationdate="20250702T005016Z">
+        <seg>Barra de ferramentas Retângulos Legados</seg>
       </tuv>
     </tu>
     <tu>
@@ -44504,6 +44584,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Place the cursor at the starting point for the rectangle or square, then click and drag the cursor until the required size is drawn.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T005044Z" creationid="firelinux" creationdate="20250702T005044Z">
+        <seg>Coloque o cursor no ponto inicial do retângulo ou quadrado e, em seguida, clique e arraste o cursor até que o tamanho desejado seja desenhado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Place the cursor at the starting point of the line or arrow, then click and drag the cursor.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212919Z" creationid="lucianacmota0808" creationdate="20250701T212919Z">
@@ -50765,6 +50853,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164117Z" creationid="olivier" creationdate="20250204T164117Z">
         <seg>Selecione o tipo de formato e a cor do formato na lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the type of rectangle or square on the Legacy Rectangles toolbar (Figure &lt;t0>15&lt;/t0>).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T004810Z" creationid="firelinux" creationdate="20250702T004810Z">
+        <seg>Selecione o tipo de retângulo ou quadrado na barra de ferramentas Retângulos Legados (Figura &lt;t0>15&lt;/t0>).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58497,6 +58593,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rectangle or square is drawn from the starting point using the bottom right corner as the anchor point for the cursor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T005101Z" creationid="firelinux" creationdate="20250702T005101Z">
+        <seg>O retângulo ou quadrado é desenhado a partir do ponto de partida usando o canto inferior direito como ponto de ancoragem para o cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The redaction shape is gray allowing the sensitive areas in the document to be visible before they are redacted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T210025Z" creationid="olivier-tdf" creationdate="20250328T210025Z">
@@ -62749,6 +62853,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T200850Z" creationid="timot" creationdate="20250111T200850Z">
         <seg>Para exibir a contagem de caracteres excluindo espaços, clique na contagem de palavras na barra de status ou escolha&lt;f0>Ferramentas > Contagem de palavras&lt;/f0>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To display the toolbar, go to &lt;f1>View > Toolbars&lt;/f1> on the Menu bar and select it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T004827Z" creationid="firelinux" creationdate="20250702T004827Z">
+        <seg>Para exibir a barra de ferramentas, vá para &lt;f1>Exibir > Barras de ferramentas&lt;/f1> na barra de menus e selecione-a.</seg>
       </tuv>
     </tu>
     <tu>
