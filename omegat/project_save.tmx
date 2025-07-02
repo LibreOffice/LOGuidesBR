@@ -4158,6 +4158,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Result of applying the recorded macro&lt;/s0&gt;&lt;s1&gt;Result of applying the recorded macro&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125415Z" creationid="olivier-tdf" creationdate="20250702T125415Z">
+        <seg>&lt;s0&gt;Resultado da aplicação da macro gravada&lt;/s0&gt;&lt;s1&gt; Resultado da aplicação da macro gravada&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Result of using the macro in a line with a different structure&lt;/s0&gt;&lt;s1&gt;Result of using the macro in a line with a different structure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125546Z" creationid="olivier-tdf" creationdate="20250702T125546Z">
+        <seg>&lt;s0&gt;Resultado do uso da macro em uma linha com uma estrutura diferente&lt;/s0&gt;&lt;s1&gt; Resultado do uso da macro em uma linha com uma estrutura diferente&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Right-click any active arrow button&lt;/s0&gt;&lt;s1&gt;Right-click any active arrow button&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135144Z" creationid="olivier-tdf" creationdate="20250120T134642Z">
@@ -23984,6 +24000,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Result of applying the recorded macro</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125430Z" creationid="olivier-tdf" creationdate="20250702T125430Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Resultado da aplicação da macro gravada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Selecting a vertical block of text</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T111714Z" creationid="timot" creationdate="20250202T111714Z">
@@ -23996,6 +24020,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250701T154042Z" creationid="firelinux" creationdate="20250701T154042Z">
         <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Deque de formas na barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;t0&gt;10&lt;/t0&gt;&lt;s1/&gt;shows the original line starting with “DONTKNOW”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125522Z" creationid="olivier-tdf" creationdate="20250702T125522Z">
+        <seg>A Figura &lt;t0&gt;10&lt;/t0&gt;&lt;s1/&gt;mostra a linha original começando com "DONTKNOW".</seg>
       </tuv>
     </tu>
     <tu>
@@ -24028,6 +24060,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125614Z" creationid="olivier-tdf" creationdate="20250117T125614Z">
         <seg>A Figura &lt;t0&gt;9&lt;/t0&gt;&lt;s1/&gt;contém um exemplo de dados para exportação e a Figura &lt;t2&gt;10&lt;/t2&gt;&lt;s3/&gt;mostra o arquivo CSV resultante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;t3&gt;9&lt;/t3&gt;&lt;s4/&gt;shows the original line and the resulting line after applying the macro.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125352Z" creationid="olivier-tdf" creationdate="20250702T125352Z">
+        <seg>A Figura &lt;t3&gt;9&lt;/t3&gt;&lt;s4/&gt;mostra a linha original e a linha resultante após a aplicação da macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32872,6 +32912,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you run this macro on the “DONTKNOW” and “NORMAL” lines the results will not be as expected because these two lines have different formats.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125515Z" creationid="olivier-tdf" creationdate="20250702T125515Z">
+        <seg>Ao executar essa macro nas linhas "DONTKNOW" e "NORMAL", os resultados não serão os esperados porque essas duas linhas têm formatos diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you save a LibreOffice file in an ODF format, that file will be correctly rendered if it is transferred to another user;reopened in a later version of LibreOffice; or opened with another application that can open ODF files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T005557Z" creationid="olivier" creationdate="20250324T205243Z">
@@ -36740,6 +36788,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233810Z" creationid="olivier-tdf" creationdate="20250224T233810Z">
         <seg>Lembre-se de que quaisquer alterações feitas no perfil de usuário temporário são perdidas após uma reinicialização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep in mind that the steps described above will only work properly if the first line follows the format we assumed while creating the macro.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125451Z" creationid="olivier-tdf" creationdate="20250702T125451Z">
+        <seg>Lembre-se de que as etapas descritas acima só funcionarão corretamente se a primeira linha seguir o formato que assumimos ao criar a macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47381,6 +47437,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134010Z" creationid="olivier-tdf" creationdate="20250303T134010Z">
         <seg>Resultado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Result of applying the recorded macro</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125439Z" creationid="olivier-tdf" creationdate="20250702T125439Z">
+        <seg>Resultado da aplicação da macro gravada</seg>
       </tuv>
     </tu>
     <tu>
@@ -60035,8 +60099,8 @@
       <tuv lang="en-US">
         <seg>Then go to &lt;f0&gt;Tools &gt; Macros &gt; Run Macro,&lt;/f0&gt; select the &lt;f1&gt;CopyNumToCol1&lt;/f1&gt; macro and click &lt;f2&gt;Run&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125242Z" creationid="olivier-tdf" creationdate="20250702T125242Z">
-        <seg>Em seguida, vá para &lt;f0&gt;Ferramentas &gt; Macros &gt; Executar Macro,&lt;/f0&gt; selecione a &lt;f1&gt;macro&lt;/f1&gt; CopyNumToCol1 e clique em &lt;f2&gt;Executar&lt;/f2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125342Z" creationid="olivier-tdf" creationdate="20250702T125242Z">
+        <seg>Em seguida, vá para &lt;f0&gt;Ferramentas &gt; Macros &gt; Executar Macro,&lt;/f0&gt; selecione a macro &lt;f1&gt;CopyNumToCol&lt;/f1&gt; e clique em &lt;f2&gt;Executar&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
