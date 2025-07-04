@@ -30928,6 +30928,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a macro is contained in a document, then a recorded macro will attempt to work on that document, because it primarily uses &lt;f0&gt;ThisComponent&lt;/f0&gt; for its actions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143318Z" creationid="olivier-tdf" creationdate="20250704T143318Z">
+        <seg>Se uma macro estiver contida num documento, uma macro gravada tentará trabalhar nesse documento, porque ela usa principalmente &lt;f0&gt;ThisComponent&lt;/f0&gt; para suas ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a message box opens advising to save the document, click on &lt;f0&gt;Yes&lt;/f0&gt; to save the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190653Z" creationid="olivier-tdf" creationdate="20250328T190653Z">
@@ -55937,6 +55945,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;LibreOffice Macros&lt;/f0&gt; are stored with the application runtime code, which may not be editable to you unless you have administrator rights in LO.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143152Z" creationid="olivier-tdf" creationdate="20250704T143152Z">
+        <seg>As &lt;f0&gt;Macros da aplicação&lt;/f0&gt; são armazenadas com o código de tempo de execução do aplicativo, que pode não ser editável por você, a menos que você tenha direitos de administrador no sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Localized Options&lt;/f0&gt; tab controls the formatting of quotation marks and apostrophes (which look like a closing single quote).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T111743Z" creationid="timot" creationdate="20250221T111743Z">
@@ -56101,6 +56117,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250528T220810Z" creationid="timotheonb" creationdate="20250528T220810Z">
         <seg>A barra de ferramentas &lt;f1&gt;Reprodução de mídia&lt;/f1&gt; a barra de ferramentas é aberta enquanto o arquivo de áudio ou vídeo é selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f1&gt;My Macros&lt;/f1&gt; container is stored in your user area or home directory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143243Z" creationid="olivier-tdf" creationdate="20250704T143243Z">
+        <seg>O contêiner &lt;f1&gt;Minhas macros&lt;/f1&gt; é armazenado em sua área de usuário ou diretório inicial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57293,6 +57317,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T173845Z" creationid="olivier" creationdate="20250220T173845Z">
         <seg>O módulo LibreOffice aplicável também é aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The application itself acts as two library containers, one container for macros distributed with LibreOffice called &lt;f5&gt;LibreOffice Macros&lt;/f5&gt;, and one container for personal macros called &lt;f6&gt;My Macros&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143109Z" creationid="olivier-tdf" creationdate="20250704T143109Z">
+        <seg>O aplicativo em si atua como dois contêineres de biblioteca, um contêiner para macros distribuídas com o LibreOffice chamado &lt;f5&gt;Macros da aplicação&lt;/f5&gt; e um contêiner para macros pessoais chamado &lt;f6&gt;Minhas macros&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61789,6 +61821,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T134658Z" creationid="tulio" creationdate="20250211T134658Z">
         <seg>Esta alça é usada para controlar a localização da barra de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This helps protect these macros because they &lt;t1/&gt;should not be changed and you should not store your own macros in the &lt;f2&gt;LibreOffice Macros&lt;/f2&gt; container.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143218Z" creationid="olivier-tdf" creationdate="20250704T143218Z">
+        <seg>Isso ajuda a proteger essas macros porque elas não &lt;t1/&gt;devem ser alteradas e você não deve armazenar suas próprias macros no contêiner &lt;f2&gt;Macros da aplicação&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66597,6 +66637,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220219Z" creationid="olivier" creationdate="20250324T220219Z">
         <seg>Acessibilidade universal (PDF/UA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unless your macros are only applicable to a single document, your macros will probably be stored in the &lt;f0&gt;My Macros&lt;/f0&gt; container.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143230Z" creationid="olivier-tdf" creationdate="20250704T143230Z">
+        <seg>A menos que suas macros sejam aplicáveis apenas a um único documento, elas provavelmente serão armazenadas no contêiner &lt;f0&gt;Minhas macros&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
