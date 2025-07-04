@@ -9110,6 +9110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you create your macros, you must decide where to store them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143549Z" creationid="olivier-tdf" creationdate="20250704T143549Z">
+        <seg>Ao criar suas macros, decida onde armazená-las.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As you select and deselect options in the upper part of the Text Import dialog, use the preview area in the lower part of the dialog to verify that the layout of the imported data is as expected.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122725Z" creationid="olivier-tdf" creationdate="20250117T122725Z">
@@ -10162,6 +10170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T000825Z" creationid="olivier" creationdate="20250120T000825Z">
         <seg>Normalmente, o LibreOffice cria e salva arquivos no formato OpenDocument (ODF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, LibreOffice uses names such as &lt;f0&gt;Module1&lt;/f0&gt;, &lt;f1&gt;Module2&lt;/f1&gt;, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143530Z" creationid="olivier-tdf" creationdate="20250704T143530Z">
+        <seg>Por padrão, o LibreOffice usa nomes como &lt;f0&gt;Module1&lt;/f0&gt;, &lt;f1&gt;Module2&lt;/f1&gt; e assim por diante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21004,6 +21020,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T205920Z" creationid="olivier" creationdate="20250303T001425Z">
         <seg>Cada janela livre da esquerda para a direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every library container contains a library named &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143326Z" creationid="olivier-tdf" creationdate="20250704T143326Z">
+        <seg>Cada contêiner de biblioteca contém uma biblioteca chamada &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37032,6 +37056,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Just as it makes good sense to give your libraries meaningful names, you should use meaningful names for your modules.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143519Z" creationid="olivier-tdf" creationdate="20250704T143519Z">
+        <seg>Assim como faz sentido dar nomes significativos às suas bibliotecas, use nomes significativos para seus módulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keep in mind that any changes made to the temporary user profile are lost after a restart.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233810Z" creationid="olivier-tdf" creationdate="20250224T233810Z">
@@ -37444,6 +37476,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T113722Z" creationid="olivier" creationdate="20250405T113722Z">
         <seg>Caixa de diálogo Assistente de cartas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Libraries with meaningful names are easier to manage and unlike Standard, your own libraries can be imported into other library containers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143411Z" creationid="olivier-tdf" creationdate="20250704T143411Z">
+        <seg>Bibliotecas com nomes significativos são mais fáceis de gerenciar e, ao contrário da Standard, suas próprias bibliotecas podem ser importadas para outros contêineres de bibliotecas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39076,6 +39116,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T081719Z" creationid="olivier" creationdate="20250308T081719Z">
         <seg>Macros podem ser atribuídas a eventos no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Macros stored in the application library container named &lt;f0&gt;My Macros&lt;/f0&gt; are globally available to all documents and storing a macro in a document is useful if the document will be shared and you want the macro to be included with the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T144205Z" creationid="olivier-tdf" creationdate="20250704T144205Z">
+        <seg>As macros armazenadas no contêiner da biblioteca de aplicativos chamado &lt;f0&gt;Minhas Macros&lt;/f0&gt; estão disponíveis globalmente para todos os documentos e o armazenamento de uma macro num documento é útil se o documento for compartilhado e você quiser que a macro seja incluída no documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60785,6 +60833,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Therefore, if you store your macros in the &lt;f1&gt;Standard&lt;/f1&gt; library, you cannot import them into another library container.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143458Z" creationid="olivier-tdf" creationdate="20250704T143458Z">
+        <seg>Portanto, se você armazenar suas macros na biblioteca &lt;f1&gt;Standard&lt;/f1&gt;, não poderá importá-las para outro contêiner da biblioteca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Therefore, some illustrations will not look exactly like what is seen on a computer display.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250109T212355Z">
@@ -68609,6 +68665,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We strongly recommend that you &lt;s1/&gt;create your own libraries with meaningful names instead of using the &lt;f2&gt;Standard&lt;/f2&gt; library.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143351Z" creationid="olivier-tdf" creationdate="20250704T143351Z">
+        <seg>Recomendamos fortemente que &lt;s1/&gt;crie suas próprias bibliotecas com nomes significativos em vez de usar a biblioteca &lt;f2&gt;Standard&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We will protect past investments by building on the solid achievements of our first decade, encourage wide participation in the Community, and co-ordinate activity across the Community.”</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T233249Z" creationid="olivier" creationdate="20250301T233249Z">
@@ -70245,6 +70309,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001310Z" creationid="olivier" creationdate="20250303T001310Z">
         <seg>Quando dois itens de menu tiverem o mesmo caractere sublinhado, pressione a tecla de caractere novamente para passar para o próximo item de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While LibreOffice allows you to import libraries into a library container, it will not allow you to overwrite the library named &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143440Z" creationid="olivier-tdf" creationdate="20250704T143440Z">
+        <seg>Embora o LibreOffice permita que importe bibliotecas para um contêiner de biblioteca, ele não permitirá que sobrescreva a biblioteca chamada &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
