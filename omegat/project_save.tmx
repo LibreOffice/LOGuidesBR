@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5494,6 +5494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A dispatch command is text, for example &lt;f0&gt;.uno:InsertObject&lt;/f0&gt; or &lt;f1&gt;.uno:GoToStartOfLine&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T141933Z" creationid="olivier-tdf" creationdate="20250704T141933Z">
+        <seg>Um comando de despacho é textual, por exemplo &lt;f0&gt;.uno:InsertObject&lt;/f0&gt; ou &lt;f1&gt;.uno:GoToStartOfLine&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A docked toolbar is attached to the document’s main window, while floating toolbars are independent of the main window and can be moved anywhere on your screen.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172317Z" creationid="tulio" creationdate="20250119T172317Z">
@@ -7714,6 +7722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195528Z" creationid="olivier-tdf" creationdate="20250109T195528Z">
         <seg>Além disso, os Guias do Usuário estão disponíveis em formato PDF como um download gratuito ou para comprar como cópias impressas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also, the dispatch framework can send “commands” back to the user interface (UI).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T141829Z" creationid="olivier-tdf" creationdate="20250704T141829Z">
+        <seg>Além disso, a estrutura de despacho pode enviar "comandos" de volta para a interface do usuário (UI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25120,6 +25136,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, after saving a new document, the framework makes sure that the list of recent files is updated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T141853Z" creationid="olivier-tdf" creationdate="20250704T141853Z">
+        <seg>Por exemplo, após salvar um novo documento, a estrutura garante que a lista de arquivos recentes seja atualizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, an event could be when a document is opened, a key is pressed, or the cursor is moved.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T081834Z" creationid="olivier" creationdate="20250308T081834Z">
@@ -36684,6 +36708,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T124527Z" creationid="olivier-tdf" creationdate="20250702T124527Z">
         <seg>Leva muito mais tempo para ler e escrever essas etapas do que para realmente gravar a macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It translates &lt;f2&gt;File &gt; Save&lt;/f2&gt;, the shortcut keys &lt;f3&gt;Ctrl+S&lt;/f3&gt;, or clicking the &lt;f4&gt;Save&lt;/f4&gt; icon on the Standard toolbar into the same “dispatch command.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T141815Z" creationid="olivier-tdf" creationdate="20250704T141815Z">
+        <seg>Ele traduz &lt;f2&gt;Arquivo &gt; Salvar&lt;/f2&gt;, as teclas de atalho &lt;f3&gt;Ctrl+S&lt;/f3&gt;, ou clica no ícone &lt;f4&gt;Salvar&lt;/f4&gt; na barra de ferramentas Padrão no mesmo "comando de despacho".</seg>
       </tuv>
     </tu>
     <tu>
@@ -57317,6 +57349,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T120726Z" creationid="olivier-tdf" creationdate="20250117T120726Z">
         <seg>Os cabeçalhos das colunas usam caracteres alfabéticos que começam com A e aumentam para a direita (até a coluna XFD).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The command is sent to the document frame and the frame the command around the API until an object is found that can handle the command.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142049Z" creationid="olivier-tdf" creationdate="20250704T142049Z">
+        <seg>O comando é enviado para o quadro do documento e para o quadro do comando em torno da API até que seja encontrado um objeto que possa manipular o comando.</seg>
       </tuv>
     </tu>
     <tu>
