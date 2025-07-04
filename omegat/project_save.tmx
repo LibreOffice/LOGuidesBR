@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;dispatcher&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;executeDispatch&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;document&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;".uno:InsertObject"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;,&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;""&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;,&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;0&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;,&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;Array&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;())&lt;/f35&gt;&lt;/f34&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142136Z" creationid="olivier-tdf" creationdate="20250704T142136Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;dispatcher&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;executeDispatch&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;document&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;".uno:InsertObject"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;,&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;""&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;,&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;0&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;,&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;Array&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;())&lt;/f35&gt;&lt;/f34&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;dispatcher&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;executeDispatch&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;document&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;".uno:InsertText"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;,&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;""&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;,&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;0&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;,&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;args17&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;())&lt;/f35&gt;&lt;/f34&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125129Z" creationid="olivier-tdf" creationdate="20250702T125129Z">
@@ -25336,6 +25344,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, inserting an object generates the following code:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142132Z" creationid="olivier-tdf" creationdate="20250704T142132Z">
+        <seg>Por exemplo, inserir um objeto gera o seguinte código:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, open a Draw file from Writer and this will open Draw automatically.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192738Z" creationid="olivier-tdf" creationdate="20250109T192738Z">
@@ -30160,6 +30176,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How the macro recorder uses the dispatch framework</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142103Z" creationid="olivier-tdf" creationdate="20250704T142103Z">
+        <seg>Como o gravador de macros usa a estrutura de despacho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How to get LibreOffice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114022Z" creationid="olivier-tdf" creationdate="20250109T114022Z">
@@ -31052,6 +31076,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T132759Z" creationid="olivier" creationdate="20250217T132759Z">
         <seg>Se um objeto estiver selecionado no Impress, os números de posição mostram as coordenadas X e Y do canto superior esquerdo e o par de números de tamanho do objeto exibe o tamanho do objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If an object is inserted from a file, you cannot specify which file to insert.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142158Z" creationid="olivier-tdf" creationdate="20250704T142158Z">
+        <seg>Se um objeto for inserido a partir de um arquivo, você não poderá especificar qual arquivo inserir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32660,6 +32692,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T185435Z" creationid="olivier-tdf" creationdate="20250309T185435Z">
         <seg>Se os dados do usuário não forem usados para as propriedades do documento, desmarque a opção &lt;f0&gt;Aplicar dados do usuário&lt;/f0&gt; na caixa de diálogo Propriedades do arquivo LibreOffice que está aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If while recording a macro you use &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; to open and modify configuration items, the generated macro does not record any configuration changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142213Z" creationid="olivier-tdf" creationdate="20250704T142213Z">
+        <seg>Se, ao gravar uma macro, você usar &lt;f0&gt;Ferramentas &gt; Opções&lt;/f0&gt; para abrir e modificar itens de configuração, a macro gerada não registrará nenhuma alteração de configuração.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34492,6 +34532,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T180851Z" creationid="olivier" creationdate="20250222T180851Z">
         <seg>Em cada janela aberta, o nome do arquivo do documento será exibido na barra de título.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In fact, the generated code is commented so it will not even be run.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142225Z" creationid="olivier-tdf" creationdate="20250704T142225Z">
+        <seg>Na verdade, o código gerado é comentado para que nem seja executado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36396,6 +36444,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T155915Z" creationid="olivier" creationdate="20250121T155915Z">
         <seg>Não é possível ocultar a última planilha visível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is not possible to specify what kind of object to create or insert.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142146Z" creationid="olivier-tdf" creationdate="20250704T142146Z">
+        <seg>Não é possível especificar que tipo de objeto criar ou inserir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44260,6 +44316,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T203759Z" creationid="olivier-tdf" creationdate="20250309T203759Z">
         <seg>Outros conjuntos de ícones podem ser adicionados usando extensões (para obter mais informações, consulte o Capítulo 13, Personalizar o LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other possible problems using the macro recorder can occure when you insert a formula, set user data, create filters in Calc, do actions in database forms, and export a document to an encrypted PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142352Z" creationid="olivier-tdf" creationdate="20250704T142352Z">
+        <seg>Outros possíveis problemas ao usar o gravador de macro podem ocorrer quando inserir uma fórmula, definir dados do usuário, criar filtros no Calc, realizar ações em formulários de banco de dados e exportar um documento para um arquivo PDF criptografado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58569,6 +58633,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The macro recorder can only register commands generated by the dispatch framework, but not all dispatched commands are complete.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142118Z" creationid="olivier-tdf" creationdate="20250704T142118Z">
+        <seg>O gravador de macros só pode registrar comandos gerados pela estrutura de despacho, mas nem todos os comandos despachados estão completos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The main Impress window (Figure &lt;t0&gt;2&lt;/t0&gt;) has three main sections: Slides pane, Workspace, and Sidebar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T142044Z" creationid="timot" creationdate="20250414T103529Z">
@@ -61993,6 +62065,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This occurs in places like macro organization dialogs, when you are inserting special characters, and similar types of dialogs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142316Z" creationid="olivier-tdf" creationdate="20250704T142316Z">
+        <seg>Isso ocorre em locais como caixas de diálogo de organização de macro, quando inserir caracteres especiais e tipos semelhantes de caixas de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This opens the Select Path dialog, or Edit Paths dialog, allowing folders to added, edited, or deleted as required.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172834Z" creationid="olivier" creationdate="20250312T172834Z">
@@ -62413,6 +62493,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T112050Z" creationid="timot" creationdate="20250221T112050Z">
         <seg>Essas configurações vêm de estilos de lista, que são um tipo diferente de estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Though a command is generated when you open a dialog, any work done inside the dialog is not usually recorded.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142253Z" creationid="olivier-tdf" creationdate="20250704T142253Z">
+        <seg>Embora um comando seja gerado quando abrir uma caixa de diálogo, qualquer trabalho feito dentro da caixa de diálogo geralmente não é gravado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72365,6 +72453,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085213Z" creationid="olivier-tdf" creationdate="20250701T085213Z">
         <seg>rem definir variáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rem dispatcher.executeDispatch(document, ".uno:OptionsTreeDialog", "", 0, Array())</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142236Z" creationid="olivier-tdf" creationdate="20250704T142236Z">
+        <seg>rem dispatcher.executeDispatch(document, ".uno:OptionsTreeDialog", "", 0, Array())</seg>
       </tuv>
     </tu>
     <tu>
