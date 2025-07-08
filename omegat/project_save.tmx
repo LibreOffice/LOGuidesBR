@@ -14,6 +14,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>' Displays a message indicating that there were errors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190659Z" creationid="olivier-tdf" creationdate="20250708T190659Z">
+        <seg>' Exibe uma mensagem indicando que houve erros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>' Iterate over all cells in the range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190529Z" creationid="olivier-tdf" creationdate="20250708T190529Z">
+        <seg>' Iterar sobre todas as células no intervalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>' Number of columns and rows in selection</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190434Z" creationid="olivier-tdf" creationdate="20250708T190434Z">
+        <seg>' Número de colunas e linhas na seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>' Sets background to light gray</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190632Z" creationid="olivier-tdf" creationdate="20250708T190632Z">
+        <seg>' Define o fundo para cinza claro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>' Sets background to light green</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190558Z" creationid="olivier-tdf" creationdate="20250708T190558Z">
+        <seg>' Define o fundo para verde claro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>' Sets background to light red</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190612Z" creationid="olivier-tdf" creationdate="20250708T190612Z">
+        <seg>' Define o fundo para vermelho claro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'Checks if the selected range is a single range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190412Z" creationid="olivier-tdf" creationdate="20250708T190412Z">
+        <seg>'Verifica se o intervalo selecionado é um intervalo único</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'Gets the current selection</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190355Z" creationid="olivier-tdf" creationdate="20250708T190355Z">
@@ -438,6 +494,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;cellValue&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Long&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190520Z" creationid="olivier-tdf" creationdate="20250708T190520Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;cellValue&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Long&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;col&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Long&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;row&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;as&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;Long&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190516Z" creationid="olivier-tdf" creationdate="20250708T190516Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;col&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Long&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;row&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;as&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;Long&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;isError&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Boolean&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;:&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;isError&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;=&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;False&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190523Z" creationid="olivier-tdf" creationdate="20250708T190523Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;isError&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Boolean&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;:&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;isError&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;=&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;False&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;nCols&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Long&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;:&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;nCols&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;=&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;oRange&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;.&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;Columns&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;.&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;getCount&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;()&lt;/f39&gt;&lt;/f38&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190508Z" creationid="olivier-tdf" creationdate="20250708T190508Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;nCols&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Long&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;:&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;nCols&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;=&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;oRange&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;.&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;Columns&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;.&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;getCount&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;()&lt;/f39&gt;&lt;/f38&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;nRows&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Long&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;:&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;nRows&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;=&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;oRange&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;.&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;Rows&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;.&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;getCount&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;()&lt;/f39&gt;&lt;/f38&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190512Z" creationid="olivier-tdf" creationdate="20250708T190512Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;nRows&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Long&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;:&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;nRows&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;=&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;oRange&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;.&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;Rows&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;.&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;&lt;f37&gt;getCount&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;&lt;f39&gt;()&lt;/f39&gt;&lt;/f38&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCurs&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T185945Z" creationid="olivier-tdf" creationdate="20250708T185945Z">
@@ -470,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;ElseIf&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;cellValue&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;and&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;cellValue&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;&lt;&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;50&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;Then&lt;/f33&gt;&lt;/f32&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190606Z" creationid="olivier-tdf" creationdate="20250708T190606Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ElseIf&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;cellValue&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;and&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;cellValue&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;&lt;&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;50&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;Then&lt;/f33&gt;&lt;/f32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;If&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190058Z" creationid="olivier-tdf" creationdate="20250708T190058Z">
@@ -494,6 +598,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;For&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;col&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;To&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;nCols&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;-&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;1&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190535Z" creationid="olivier-tdf" creationdate="20250708T190535Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;For&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;col&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;To&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;nCols&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;-&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;1&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;For&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;row&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;to&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;nRows&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;-&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;1&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190540Z" creationid="olivier-tdf" creationdate="20250708T190540Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;For&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;row&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;to&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;nRows&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;-&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;1&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NOT&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oDoc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;supportsService&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;sTextService&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;Then&lt;/f23&gt;&lt;/f22&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190029Z" creationid="olivier-tdf" creationdate="20250708T190029Z">
@@ -502,10 +622,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Not&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oRange&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;supportsService&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"com.sun.star.sheet.SheetCellRange"&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;Then&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190417Z" creationid="olivier-tdf" creationdate="20250708T190417Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Not&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oRange&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;supportsService&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"com.sun.star.sheet.SheetCellRange"&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;)&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;Then&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;cellValue&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;50&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;and&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;cellValue&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;&lt;=&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;100&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;Then&lt;/f33&gt;&lt;/f32&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190553Z" creationid="olivier-tdf" creationdate="20250708T190553Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;cellValue&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;50&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;and&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;cellValue&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;&lt;=&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;100&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;Then&lt;/f33&gt;&lt;/f32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;isError&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Then&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190709Z" creationid="olivier-tdf" creationdate="20250708T190709Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;isError&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Then&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;MsgBox&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"This macro applies only to single ranges."&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190428Z" creationid="olivier-tdf" creationdate="20250708T190428Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;MsgBox&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"Esta macro se aplica apenas a intervalos únicos."&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;MsgBox&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"This macro only works with a text document"&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190043Z" creationid="olivier-tdf" creationdate="20250708T190043Z">
         <seg>&lt;f0&gt;&lt;f1&gt;MsgBox&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"Esta macro só funciona com um documento de texto"&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Next&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;col&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190651Z" creationid="olivier-tdf" creationdate="20250708T190651Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Next&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;col&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Next&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;row&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190647Z" creationid="olivier-tdf" creationdate="20250708T190647Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Next&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;row&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T001232Z" creationid="olivier-tdf" creationdate="20250219T001232Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Selecione &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Aplicar estilo&lt;/f2&gt; na barra de ferramentas Formatação (Calc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Set&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCell&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oRange&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;getCellByPosition&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;(&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;col&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;,&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;row&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;)&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190544Z" creationid="olivier-tdf" creationdate="20250708T190544Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Set&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCell&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oRange&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;getCellByPosition&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;(&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;col&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;,&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;row&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;)&lt;/f29&gt;&lt;/f28&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +834,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T124853Z" creationid="olivier-tdf" creationdate="20250702T124853Z">
         <seg>&lt;f0&gt;&lt;f1&gt;args6&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;0&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;).&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Value&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;=&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;"S"&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;cellValue&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oCell&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getValue&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190549Z" creationid="olivier-tdf" creationdate="20250708T190549Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;cellValue&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oCell&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getValue&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,6 +1058,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085623Z" creationid="olivier-tdf" creationdate="20250701T085623Z">
         <seg>&lt;f0&gt;&lt;f1&gt;end&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sub&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;isError&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;True&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190640Z" creationid="olivier-tdf" creationdate="20250708T190640Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;isError&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;True&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CellBackcolor&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;RGB&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;144&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;238&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;,&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;144&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;)&lt;/f31&gt;&lt;/f30&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190601Z" creationid="olivier-tdf" creationdate="20250708T190601Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CellBackcolor&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;RGB&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;144&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;238&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;,&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;144&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;)&lt;/f31&gt;&lt;/f30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CellBackcolor&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;RGB&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;220&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;220&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;,&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;220&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;)&lt;/f31&gt;&lt;/f30&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190636Z" creationid="olivier-tdf" creationdate="20250708T190636Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CellBackcolor&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;RGB&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;220&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;220&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;,&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;220&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;)&lt;/f31&gt;&lt;/f30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CellBackcolor&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;RGB&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;255&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;127&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;,&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;127&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;)&lt;/f31&gt;&lt;/f30&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190616Z" creationid="olivier-tdf" creationdate="20250708T190616Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CellBackcolor&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;RGB&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;255&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;127&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;,&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;127&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;)&lt;/f31&gt;&lt;/f30&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20532,6 +20748,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250706T011341Z" creationid="firelinux" creationdate="20250706T011341Z">
         <seg>Elipses ou círculos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Else</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190628Z" creationid="olivier-tdf" creationdate="20250708T190628Z">
+        <seg>Else</seg>
       </tuv>
     </tu>
     <tu>
