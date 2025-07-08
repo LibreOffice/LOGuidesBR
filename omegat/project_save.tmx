@@ -3350,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Basic IDE after applying the Solarized Light color scheme&lt;/s0&gt;&lt;s1&gt;Basic IDE after applying the Solarized Light color scheme&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195627Z" creationid="olivier-tdf" creationdate="20250708T195627Z">
+        <seg>&lt;s0&gt;IDE BASIC após a aplicação do esquema de cores Luz Solarizada&lt;/s0&gt;&lt;s1&gt;IDE BASIC após a aplicação do esquema de cores Luz Solarizada&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Basic Macro Organizer dialog, Modules tab&lt;/s0&gt;&lt;s1&gt;Basic Macro Organizer dialog, Modules tab&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T081856Z" creationid="olivier-tdf" creationdate="20250701T081856Z">
@@ -11110,6 +11118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default the option &lt;f0&gt;Use Application Colors&lt;/f0&gt; is selected, which makes the Basic IDE use the colors defined in the &lt;f1&gt;Application Colors&lt;/f1&gt; dialog (accessible via &lt;f2&gt;Tools &gt; Options &gt; Application Colors&lt;/f2&gt;)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195445Z" creationid="olivier-tdf" creationdate="20250708T195445Z">
+        <seg>A opção &lt;f0&gt;Usar Cores do Aplicativo&lt;/f0&gt; selecionada é o padrão, o que faz com que o IDE BASIC use as cores definidas na caixa de diálogo &lt;f1&gt;Cores do Aplicativo&lt;/f1&gt; (acessível via &lt;f2&gt;Ferramentas &gt; Opções &gt; Cores do Aplicativo&lt;/f2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, &lt;f0&gt;Custom Styles&lt;/f0&gt; is the selected category.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T184725Z" creationid="olivier-tdf" creationdate="20250403T184725Z">
@@ -13290,6 +13306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T184900Z" creationid="olivier-tdf" creationdate="20250209T184900Z">
         <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; e a ordenação é realizada na planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to apply the selected color scheme</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195527Z" creationid="olivier-tdf" creationdate="20250708T195511Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para aplicar o esquema de cores selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25544,6 +25568,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;t0&gt;26&lt;/t0&gt;&lt;s1/&gt;shows the code editor after selecting the &lt;f2&gt;Solarized Light&lt;/f2&gt; color scheme.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195545Z" creationid="olivier-tdf" creationdate="20250708T195545Z">
+        <seg>A Figura &lt;t0&gt;26&lt;/t0&gt;&lt;s1/&gt; mostra o editor de código após selecionar o esquema de cores &lt;f2&gt;Luz Solarizada&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;t0&gt;30&lt;/t0&gt;&lt;s1/&gt;shows an example of text with comments from two different authors.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T114310Z" creationid="timot" creationdate="20250407T114310Z">
@@ -28884,6 +28916,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223710Z" creationid="timotheonb" creationdate="20250530T223710Z">
         <seg>No LibreOffice Math, use o atalho de teclado &lt;f0&gt;Ctrl+N&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From within the &lt;f0&gt;Basic IDE&lt;/f0&gt; go to &lt;f1&gt;View &gt; Color scheme&lt;/f1&gt; to open the &lt;f2&gt;Color Scheme&lt;/f2&gt; dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195401Z" creationid="olivier-tdf" creationdate="20250708T195401Z">
+        <seg>A partir do &lt;f0&gt;IDE BASIC&lt;/f0&gt;, acesse &lt;f1&gt;Exibir &gt; Esquema de cores&lt;/f1&gt; para abrir a caixa de diálogo &lt;f2&gt;Esquema de cores&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43796,6 +43836,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T202649Z" creationid="timotheonb" creationdate="20250502T202649Z">
         <seg>Exibição Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notice that the color scheme only changes the colors used by the code editor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195554Z" creationid="olivier-tdf" creationdate="20250708T195554Z">
+        <seg>Observe que o esquema de cores altera apenas as cores usadas pelo editor de código.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68405,6 +68453,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250414T001616Z" creationid="timot" creationdate="20250414T001616Z">
         <seg>O Impress pode ser usado para muito mais do que simples apresentações, mas, isso exige maior conhecimento dos elementos usados nos slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use a different color scheme, click &lt;f0&gt;Choose Color Scheme&lt;/f0&gt; and select one of the available entries in the list box</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195517Z" creationid="olivier-tdf" creationdate="20250708T195505Z">
+        <seg>Para usar um esquema de cores diferente, clique em &lt;f0&gt;Escolher esquema de cores&lt;/f0&gt; e selecione uma das entradas disponíveis na lista suspensa.</seg>
       </tuv>
     </tu>
     <tu>
