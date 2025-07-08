@@ -966,10 +966,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;cell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;doc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Sheets&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;[&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;0&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;][&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;'A1'&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;]&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194507Z" creationid="olivier-tdf" creationdate="20250708T194507Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;cell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;doc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Sheets&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;[&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;0&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;][&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;'A1'&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;]&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;cell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;setString&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;'Hello World from Python'&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194515Z" creationid="olivier-tdf" creationdate="20250708T194515Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;cell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;setString&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;'Hello World from Python'&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;cellValue&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oCell&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getValue&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190549Z" creationid="olivier-tdf" creationdate="20250708T190549Z">
         <seg>&lt;f0&gt;&lt;f1&gt;cellValue&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oCell&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getValue&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;def&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;HelloWorld&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;():&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194500Z" creationid="olivier-tdf" creationdate="20250708T194500Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;def&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;HelloWorld&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;():&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;doc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;XSCRIPTCONTEXT&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getDocument&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194504Z" creationid="olivier-tdf" creationdate="20250708T194504Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;doc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;XSCRIPTCONTEXT&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getDocument&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;document&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ThisComponent&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;CurrentController&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Frame&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T091725Z" creationid="olivier-tdf" creationdate="20250701T091725Z">
@@ -1186,6 +1218,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085623Z" creationid="olivier-tdf" creationdate="20250701T085623Z">
         <seg>&lt;f0&gt;&lt;f1&gt;end&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sub&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;import&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;uno&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194457Z" creationid="olivier-tdf" creationdate="20250708T194457Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;import&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;uno&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4768,8 +4808,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Python Macros dialog&lt;/s0&gt;&lt;s1&gt;Python Macros dialog&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194340Z" creationid="olivier-tdf" creationdate="20250708T194340Z">
-        <seg>&lt;s0&gt;Diálogo de macros Python&lt;/s0&gt;&lt;s1&gt; Diálogo de macros Python&lt;/s1&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194422Z" creationid="olivier-tdf" creationdate="20250708T194340Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Macros Python&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Macros Python&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10466,6 +10506,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184624Z" creationid="olivier-tdf" creationdate="20250708T184624Z">
         <seg>Tenha cuidado ao configurar um manipulador de eventos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BeanShell is a Java-like scripting language that was first released in 1999.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194647Z" creationid="olivier-tdf" creationdate="20250708T194647Z">
+        <seg>O BeanShell é uma linguagem de script semelhante ao Java que foi lançada pela primeira vez em 1999.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BeanShell macros</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194642Z" creationid="olivier-tdf" creationdate="20250708T194642Z">
+        <seg>Macros do BeanShell</seg>
       </tuv>
     </tu>
     <tu>
@@ -40184,10 +40240,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Listing &lt;seq0&gt;9&lt;/seq0&gt;: Sample Python macro</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194452Z" creationid="olivier-tdf" creationdate="20250708T194452Z">
+        <seg>Listagem &lt;seq0&gt;9&lt;/seq0&gt;: Exemplo de macro do Python</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Listing &lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;shows the code for this macro.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T193558Z" creationid="olivier-tdf" creationdate="20250708T193558Z">
         <seg>A Listagem &lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt; mostra o código para esta macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Listing &lt;t0&gt;9&lt;/t0&gt;&lt;s1/&gt;presents an example of a Python macro that writes the text “Hello World from Python” into cell A1 of the first sheet in a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194446Z" creationid="olivier-tdf" creationdate="20250708T194446Z">
+        <seg>A Listagem &lt;t0&gt;9&lt;/t0&gt;&lt;s1/&gt; apresenta um exemplo de uma macro Python que escreve o texto “Hello World from Python” na célula A1 da primeira planilha em uma planilha do Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48349,6 +48421,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T210209Z" creationid="timot" creationdate="20250402T210209Z">
         <seg>Posicione o ponteiro do mouse sobre a linha entre as seções cinza e branca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Python Macros dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194425Z" creationid="olivier-tdf" creationdate="20250708T194425Z">
+        <seg>Caixa de diálogo Macros Python</seg>
       </tuv>
     </tu>
     <tu>
@@ -58177,6 +58257,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Alternative Python Script Organizer (APSO) extension makes it easier to edit and organize Python scripts, especially when they are embedded in a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194539Z" creationid="olivier-tdf" creationdate="20250708T194539Z">
+        <seg>A extensão Alternative Python Script Organizer (APSO) facilita a edição e organização de scripts Python, especialmente quando são incorporados em um documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Animation deck (&lt;f0&gt;Ctrl+Alt+7&lt;/f0&gt;, macOS ⌘+⌥&lt;f1&gt;+7&lt;/f1&gt;) is used to add, change, or remove animations for different elements or objects on a slide and adjust how objects appear during a slide show.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T125500Z" creationid="timotheonb" creationdate="20250502T125500Z">
@@ -66761,10 +66849,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To learn more about Python scripting in LibreOffice, you can refer to the Wiki “Macros/Python Basics”, where you will find in-depth explanations and examples on how to get started with Python scripting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194627Z" creationid="olivier-tdf" creationdate="20250708T194627Z">
+        <seg>Para saber mais sobre scripts Python no LibreOffice, você pode consultar o Wiki “Macros/Python Basics”, onde encontrará explicações detalhadas e exemplos de como começar a usar scripts Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To learn more about the &lt;f0&gt;ScriptForge&lt;/f0&gt; library, visit LibreOffice’s online Help at &lt;a1&gt;https://help.libreoffice.org/7.4/en-US/text/sbasic/shared/03/lib_ScriptForge.html?DbPAR=BASIC&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191507Z" creationid="olivier-tdf" creationdate="20250708T191507Z">
         <seg>Para saber mais sobre a biblioteca &lt;f0&gt;ScriptForge&lt;/f0&gt;, visite a Ajuda online do LibreOffice em &lt;a1&gt;https://help.libreoffice.org/24.8/pt-BR/text/sbasic/shared/03/lib_ScriptForge.html?DbPAR=BASIC&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To learn more, visit &lt;a0&gt;https://wiki.documentfoundation.org/Macros/Python_Basics&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194636Z" creationid="olivier-tdf" creationdate="20250708T194636Z">
+        <seg>Para saber mais, visite &lt;a0&gt;https://wiki.documentfoundation.org/Macros/Python_Basics&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70057,6 +70161,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using APSO you can configure your preferred source code editor, start the integrated Python shell and debug Python scripts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194549Z" creationid="olivier-tdf" creationdate="20250708T194549Z">
+        <seg>Usando o APSO, você pode configurar seu editor de código-fonte preferido, iniciar o shell Python integrado e depurar scripts Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using Area dialog for objects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T085845Z" creationid="olivier" creationdate="20250308T085845Z">
@@ -70837,6 +70949,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124822Z" creationid="olivier" creationdate="20250325T124822Z">
         <seg>Níveis visíveis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visit &lt;a0&gt;https://gitlab.com/jmzambon/apso&lt;/a0&gt; to download APSO and learn more about how to use it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194608Z" creationid="olivier-tdf" creationdate="20250708T194608Z">
+        <seg>Visite &lt;a0&gt;https://gitlab.com/jmzambon/apso&lt;/a0&gt; para baixar o APSO e saber mais sobre como usá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72517,6 +72637,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190630Z" creationid="olivier-tdf" creationdate="20250209T190630Z">
         <seg>Quando pesquisar um termo no Assistente de função, as descrições de função são fornecidas, bem como seus nomes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you select &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; BeanShell&lt;/f0&gt;, LibreOffice displays the BeanShell Macros dialog (Figure &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194721Z" creationid="olivier-tdf" creationdate="20250708T194721Z">
+        <seg>Ao selecionar &lt;f0&gt;Ferramentas &gt; Macros &gt; Organizar Macros &gt; BeanShell&lt;/f0&gt;, o LibreOffice exibe a caixa de diálogo Macros do BeanShell (Figura &lt;t1&gt;23&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -75277,6 +75405,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085247Z" creationid="olivier-tdf" creationdate="20250701T085247Z">
         <seg>rem obter acesso ao documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>return</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194519Z" creationid="olivier-tdf" creationdate="20250708T194519Z">
+        <seg>return</seg>
       </tuv>
     </tu>
     <tu>
