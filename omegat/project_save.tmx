@@ -9814,6 +9814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be careful when you configure an event handler.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184624Z" creationid="olivier-tdf" creationdate="20250708T184624Z">
+        <seg>Tenha cuidado ao configurar um manipulador de eventos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because styles apply whole groups of formats at the same time, you can easily format a document consistently and change the formatting of an entire document with minimal effort.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T100035Z" creationid="timot" creationdate="20250217T100035Z">
@@ -25632,6 +25640,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if you write an event handler that is called every time that a document is modified but make a mistake so the event is not properly handled, problems can occur.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184652Z" creationid="olivier-tdf" creationdate="20250708T184652Z">
+        <seg>Por exemplo, se escrever um manipulador de eventos que é chamado toda vez que um documento é modificado, mas comete um erro para que o evento não seja tratado adequadamente, podem ocorrer problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, image files placed in a subfolder named Images in the folder containing the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T142722Z" creationid="tulio" creationdate="20250411T120630Z">
@@ -27680,6 +27696,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Full coverage of event handlers is well beyond the scope of this chapter, but a little knowledge can accomplish much.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184619Z" creationid="olivier-tdf" creationdate="20250708T184619Z">
+        <seg>A cobertura completa dos manipuladores de eventos está muito além do escopo deste capítulo, mas um pouco de conhecimento pode realizar muito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Function</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155519Z" creationid="olivier" creationdate="20250312T155519Z">
@@ -29140,6 +29164,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T141203Z" creationid="olivier-tdf" creationdate="20250303T141203Z">
         <seg>Acesse &lt;f0&gt;Ferramentas &gt; Personalizar&lt;/f0&gt; na barra de menu para abrir a caixa de diálogo Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; to open the &lt;f1&gt;Customize&lt;/f1&gt; dialog and select the &lt;f2&gt;Events&lt;/f2&gt; tab (Figure &lt;t3&gt;16&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184807Z" creationid="olivier-tdf" creationdate="20250708T184807Z">
+        <seg>Acesse &lt;f0&gt;Ferramentas &gt; Personalizar&lt;/f0&gt; para abrir a caixa de diálogo &lt;f1&gt;Personalizar&lt;/f1&gt; e selecione a aba &lt;f2&gt;Eventos&lt;/f2&gt; (Figura &lt;t3&gt;16&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35272,6 +35304,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Save In&lt;/f0&gt; drop-down, select &lt;f1&gt;LibreOffice&lt;/f1&gt;, or a specific document from the menu to save your event.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184857Z" creationid="olivier-tdf" creationdate="20250708T184857Z">
+        <seg>No menu suspenso &lt;f0&gt;Salvar em&lt;/f0&gt;, selecione &lt;f1&gt;LibreOffice&lt;/f1&gt; ou um documento específico no menu para salvar seu evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the &lt;f0&gt;Save as type&lt;/f0&gt; drop-down list, select &lt;f1&gt;Text CSV (*.csv)&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T215739Z" creationid="olivier-tdf" creationdate="20250117T215739Z">
@@ -38092,6 +38132,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T002122Z" creationid="olivier" creationdate="20250328T002122Z">
         <seg>O LibreOffice Writer tem uma configuração chamada Writer/Web que pode criar, editar e salvar arquivos em formato HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice allows events to trigger the execution of a macro; the macro is then called an event handler.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184605Z" creationid="olivier-tdf" creationdate="20250708T184605Z">
+        <seg>O LibreOffice permite que eventos acionem a execução de uma macro; a macro é então chamada de manipulador de eventos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43244,6 +43292,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T175921Z" creationid="olivier" creationdate="20250602T221222Z">
         <seg>Um ou ambos os lados da imagem, ou figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One possible result is that your event handler will force you to kill LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184724Z" creationid="olivier-tdf" creationdate="20250708T184724Z">
+        <seg>Um resultado possível é que seu manipulador de eventos o forçará a fechar o LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58765,6 +58821,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090038Z" creationid="olivier-tdf" creationdate="20250701T090038Z">
         <seg>O final de uma sub-rotina é indicado pelas palavras &lt;f1&gt;END SUB&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The events in the Customize dialog are related to the entire application and specific documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184821Z" creationid="olivier-tdf" creationdate="20250708T184821Z">
+        <seg>Os eventos na caixa de diálogo Personalizar estão relacionados a todo o aplicativo e a documentos específicos.</seg>
       </tuv>
     </tu>
     <tu>
