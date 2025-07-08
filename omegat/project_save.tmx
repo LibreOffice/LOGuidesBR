@@ -20544,6 +20544,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each of the 26 supported services have been extensively documented and examples are provided for both Basic and Python programming languages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191709Z" creationid="olivier-tdf" creationdate="20250708T191709Z">
+        <seg>Cada um dos 26 serviços suportados foi amplamente documentado e exemplos são fornecidos para as linguagens de programação BASIC e Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each of the master slides shown in the &lt;f0&gt;Available for Use&lt;/f0&gt; panel are from templates that are available in LibreOffice Impress:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105235Z" creationid="timotheonb" creationdate="20250530T105235Z">
@@ -31552,6 +31560,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, programmers often have problems discovering object types as well as their supported services, methods, and properties.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191730Z" creationid="olivier-tdf" creationdate="20250708T191730Z">
+        <seg>No entanto, os programadores geralmente têm problemas para descobrir tipos de objetos, bem como seus serviços, métodos e propriedades suportados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, reducing print data can result in slightly lower print quality.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135839Z" creationid="olivier" creationdate="20250223T135839Z">
@@ -39200,6 +39216,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice has an extensive API that can be used by macro programmers to automate almost any aspect of its applications.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191723Z" creationid="olivier-tdf" creationdate="20250708T191723Z">
+        <seg>O LibreOffice possui uma extensa API que pode ser usada por programadores de macro para automatizar quase qualquer aspecto de seus aplicativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice has an extensive list of special characters accessible with AutoCorrect.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T212732Z" creationid="timot" creationdate="20250210T212732Z">
@@ -39332,6 +39356,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104133Z" creationid="timot" creationdate="20250204T104133Z">
         <seg>O LibreOffice localiza todas as ocorrências de texto na caixa Localizar e apresenta os resultados na área logo abaixo com uma indicação do número da página e da parte do texto da ocorrência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice macros in any scripting language use a UNO runtime application programming interface (API).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191751Z" creationid="olivier-tdf" creationdate="20250708T191751Z">
+        <seg>As macros do LibreOffice em qualquer linguagem de script usam uma interface de programação de aplicativo (API) de tempo de execução UNO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57657,6 +57689,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;UNO Object Inspector&lt;/f0&gt; can help macro developers inspect objects, learn how to access them, and use them in macros.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191859Z" creationid="olivier-tdf" creationdate="20250708T191859Z">
+        <seg>O &lt;f0&gt;Uno Object Inspector&lt;/f0&gt; pode ajudar os desenvolvedores de macros a inspecionar objetos, aprender como acessá-los e usá-los em macros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;User Interface&lt;/f0&gt; page in the PDF Options dialog (Figure &lt;t1&gt;4&lt;/t1&gt;), allows users to specify how the interface for an external PDF viewer will appear.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124153Z" creationid="olivier" creationdate="20250325T124153Z">
@@ -58433,6 +58473,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Object Inspector will be opened at the bottom of the user interface, as shown in Figure &lt;t2&gt;19&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191927Z" creationid="olivier-tdf" creationdate="20250708T191927Z">
+        <seg>O Inspetor de Objetos será aberto na parte inferior da interface do usuário, conforme mostrado na Figura &lt;t2&gt;19&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The OpenOffice.org project began when Sun Microsystems released the source code (“blueprints”) for its StarOffice® software to the open source community on 13 October 2000.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T232634Z" creationid="olivier" creationdate="20250301T232634Z">
@@ -58897,6 +58945,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The XSCRIPTCONTEXT interface is provided to macro scripts in all four available languages (LibreOffice Basic, Python, JavaScript, and BeanShell) which provides some means of access to the various interfaces which they might need to perform an action on a document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191844Z" creationid="olivier-tdf" creationdate="20250708T191835Z">
+        <seg>A interface XSCRIPTCONTEXT é fornecida para scripts de macro em todas as quatro linguagens disponíveis (LibreOffice Basic, Python, JavaScript e BeanShell), e fornece alguns meios de acesso às várias interfaces que podem ser necessárias para executar uma ação num documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The above procedure is for sending text documents as an attachment to an email.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184144Z" creationid="olivier-tdf" creationdate="20250328T184144Z">
@@ -59253,6 +59309,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T184900Z" creationid="olivier" creationdate="20250318T184900Z">
         <seg>O filtro de compatibilidade na caixa de diálogo Cor de destaque de caractere fornece as cores de destaque do Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The component model used in LibreOffice is known as Universal Network Objects or UNO.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191739Z" creationid="olivier-tdf" creationdate="20250708T191739Z">
+        <seg>O modelo de componente usado no LibreOffice é conhecido como Universal Network Objects ou UNO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63465,6 +63529,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This feature is available in Writer, Calc, Impress, and Draw.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191904Z" creationid="olivier-tdf" creationdate="20250708T191904Z">
+        <seg>Este recurso está disponível no Writer, Calc, Impress e Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This feature is disabled when in Record Changes mode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T103727Z" creationid="timot" creationdate="20250113T103727Z">
@@ -65813,6 +65885,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T201307Z" creationid="olivier-tdf" creationdate="20250328T201307Z">
         <seg>Para ativar a classificação do documento, acesse &lt;f0&gt;Exibir &gt; Barras de ferramentas &gt; Classificação TSCP&lt;/f0&gt; na barra de menus para abrir a barra de ferramentas TSCP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To enable it, go to &lt;f1&gt;Tools &gt; Development Tools&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191915Z" creationid="olivier-tdf" creationdate="20250708T191915Z">
+        <seg>Para habilitá-lo, vá para &lt;f1&gt;Ferramentas &gt; Ferramentas de Desenvolvimento&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68293,6 +68373,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T123810Z" creationid="olivier-tdf" creationdate="20250702T123810Z">
         <seg>ULTRALIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UNO Object Inspector</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191712Z" creationid="olivier-tdf" creationdate="20250708T191712Z">
+        <seg>Inspetor de objetos UNO</seg>
       </tuv>
     </tu>
     <tu>
