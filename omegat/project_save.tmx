@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;cell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;sheet&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getCellByPosition&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;0&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;0&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;);&lt;/f25&gt;&lt;/f24&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194932Z" creationid="olivier-tdf" creationdate="20250708T194932Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;cell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;sheet&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getCellByPosition&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;0&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;0&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;);&lt;/f25&gt;&lt;/f24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;cell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;setString&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;'Hello World from Python'&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194515Z" creationid="olivier-tdf" creationdate="20250708T194515Z">
@@ -982,10 +990,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;cellText&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;UnoRuntime&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;queryInterface&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;XText&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;class&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;,&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;cell&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;);&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194935Z" creationid="olivier-tdf" creationdate="20250708T194935Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;cellText&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;UnoRuntime&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;queryInterface&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;XText&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;class&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;,&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;cell&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;);&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;cellText&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;insertString&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;textCursor&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"Hello World from BeanShell"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;,&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;true&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;);&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194941Z" creationid="olivier-tdf" creationdate="20250708T194941Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;cellText&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;insertString&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;textCursor&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"Hello World from BeanShell"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;,&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;true&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;);&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;cellValue&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oCell&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getValue&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190549Z" creationid="olivier-tdf" creationdate="20250708T190549Z">
         <seg>&lt;f0&gt;&lt;f1&gt;cellValue&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oCell&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getValue&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;controller&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;model&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getCurrentController&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;();&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194922Z" creationid="olivier-tdf" creationdate="20250708T194922Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;controller&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;model&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getCurrentController&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;();&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,6 +1254,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;import&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;com&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;star&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;sheet&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;XspreadsheetView&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;;&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194912Z" creationid="olivier-tdf" creationdate="20250708T194912Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;import&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;com&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;star&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;sheet&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;XspreadsheetView&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;;&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;import&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;com&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;star&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;text&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;XText&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;;&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194916Z" creationid="olivier-tdf" creationdate="20250708T194916Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;import&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;com&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;star&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;text&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;XText&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;;&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;import&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;com&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;star&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;uno&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;UnoRuntime&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;;&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194909Z" creationid="olivier-tdf" creationdate="20250708T194909Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;import&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;com&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;star&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;uno&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;UnoRuntime&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;;&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;import&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;uno&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194457Z" creationid="olivier-tdf" creationdate="20250708T194457Z">
@@ -1234,6 +1290,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190640Z" creationid="olivier-tdf" creationdate="20250708T190640Z">
         <seg>&lt;f0&gt;&lt;f1&gt;isError&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;True&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;model&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;XSCRIPTCONTEXT&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getDocument&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;();&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194919Z" creationid="olivier-tdf" creationdate="20250708T194919Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;model&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;XSCRIPTCONTEXT&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getDocument&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;();&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1334,10 +1398,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;return&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;0&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194946Z" creationid="olivier-tdf" creationdate="20250708T194946Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;return&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;0&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;sTextService&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"com.sun.star.text.TextDocument"&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190024Z" creationid="olivier-tdf" creationdate="20250708T190024Z">
         <seg>&lt;f0&gt;&lt;f1&gt;sTextService&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"com.sun.star.text.TextDocument"&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;sheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;view&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getActiveSheet&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;();&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194929Z" creationid="olivier-tdf" creationdate="20250708T194929Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;sheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;view&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getActiveSheet&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;();&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1358,10 +1438,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;textCursor&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;cellText&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;createTextCursor&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;();&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194938Z" creationid="olivier-tdf" creationdate="20250708T194938Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;textCursor&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;cellText&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;createTextCursor&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;();&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;ui&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;CreateScriptService&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"UI"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191221Z" creationid="olivier-tdf" creationdate="20250708T191221Z">
         <seg>&lt;f0&gt;&lt;f1&gt;ui&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;CreateScriptService&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"UI"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;view&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;UnoRuntime&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;queryInterface&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;XSpreadsheetView&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;class&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;,&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;controller&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;);&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194926Z" creationid="olivier-tdf" creationdate="20250708T194926Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;view&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;UnoRuntime&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;queryInterface&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;XSpreadsheetView&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;class&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;,&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;controller&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;);&lt;/f29&gt;&lt;/f28&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3266,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T004228Z" creationid="firelinux" creationdate="20250702T004114Z">
         <seg>&lt;s0&gt;Subbarra de ferramentas de Formas básicas &lt;/s0&gt;&lt;s1&gt;Subbarra de ferramentas de Formas básicas&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;BeanShell Debug Window&lt;/s0&gt;&lt;s1&gt;BeanShell Debug Window&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194829Z" creationid="olivier-tdf" creationdate="20250708T194829Z">
+        <seg>&lt;s0&gt;Janela de depuração do BeanShell&lt;/s0&gt;&lt;s1&gt; Janela de depuração do BeanShell&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;BeanShell Macros dialog&lt;/s0&gt;&lt;s1&gt;BeanShell Macros dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194803Z" creationid="olivier-tdf" creationdate="20250708T194803Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Macros BeanShell&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Macros BeanShell&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10510,6 +10622,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BeanShell Debug Window</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194837Z" creationid="olivier-tdf" creationdate="20250708T194837Z">
+        <seg>Janela de depuração do BeanShell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BeanShell Macros dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194813Z" creationid="olivier-tdf" creationdate="20250708T194813Z">
+        <seg>Caixa de diálogo Macros do BeanShell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BeanShell is a Java-like scripting language that was first released in 1999.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194647Z" creationid="olivier-tdf" creationdate="20250708T194647Z">
@@ -15770,6 +15898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T162104Z" creationid="olivier" creationdate="20250204T162104Z">
         <seg>Clique no botão &lt;f0&gt;Cor&lt;/f0&gt; na aba &lt;f1&gt;Plano de fundo&lt;/f1&gt; da caixa de diálogo Formatar células e selecione a cor desejada na paleta abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Edit&lt;/f0&gt; button on the BeanShell Macros dialog to access the BeanShell Debug Window (Figure &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194823Z" creationid="olivier-tdf" creationdate="20250708T194823Z">
+        <seg>Clique no botão &lt;f0&gt;Editar&lt;/f0&gt; na caixa de diálogo Macros do BeanShell para acessar a Janela de Depuração do BeanShell (Figura &lt;t1&gt;24&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23912,6 +24048,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: BeanShell Macros dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194808Z" creationid="olivier-tdf" creationdate="20250708T194808Z">
+        <seg>Figura &lt;seq0&gt;23&lt;/seq0&gt;: Caixa de diálogo Macros do BeanShell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Columns panel in Properties deck on Sidebar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250528T130057Z" creationid="timotheonb" creationdate="20250528T130057Z">
@@ -23948,6 +24092,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T112005Z" creationid="timot" creationdate="20250224T112005Z">
         <seg>Figura &lt;seq0&gt;23&lt;/seq0&gt;: Ativar a hifenização automática em um estilo de parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: BeanShell Debug Window</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194833Z" creationid="olivier-tdf" creationdate="20250708T194833Z">
+        <seg>Figura &lt;seq0&gt;24&lt;/seq0&gt;: Janela de depuração do BeanShell</seg>
       </tuv>
     </tu>
     <tu>
@@ -38416,6 +38568,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JavaScript is a high-level scripting language that was first released in 1995.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195001Z" creationid="olivier-tdf" creationdate="20250708T195001Z">
+        <seg>JavaScript é uma linguagem de script de alto nível que foi lançada pela primeira vez em 1995.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JavaScript macros</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194953Z" creationid="olivier-tdf" creationdate="20250708T194953Z">
+        <seg>Macros JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jean Hollis Weber</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250110T215627Z" creationid="timot" creationdate="20250110T215627Z">
@@ -40176,6 +40344,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Listing &lt;seq0&gt;10&lt;/seq0&gt;: Sample BeanShell macro</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194904Z" creationid="olivier-tdf" creationdate="20250708T194904Z">
+        <seg>Listagem &lt;seq0&gt;10&lt;/seq0&gt;: Exemplo de macro do BeanShell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Listing &lt;seq0&gt;1&lt;/seq0&gt;: Simple macro that says hello</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="rafael" changedate="20250220T003254Z" creationid="rafael" creationdate="20250220T003254Z">
@@ -40244,6 +40420,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194452Z" creationid="olivier-tdf" creationdate="20250708T194452Z">
         <seg>Listagem &lt;seq0&gt;9&lt;/seq0&gt;: Exemplo de macro do Python</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Listing &lt;t0&gt;10&lt;/t0&gt;&lt;s1/&gt;is an example of a BeanShell macro that inserts the text “Hello World from BeanShell” in cell A1 of the active Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194851Z" creationid="olivier-tdf" creationdate="20250708T194851Z">
+        <seg>A listagem &lt;t0&gt;10&lt;/t0&gt;&lt;s1/&gt; é um exemplo de uma macro do BeanShell que insere o texto "Hello World do BeanShell" na célula A1 da planilha Calc ativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72645,6 +72829,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194721Z" creationid="olivier-tdf" creationdate="20250708T194721Z">
         <seg>Ao selecionar &lt;f0&gt;Ferramentas &gt; Macros &gt; Organizar Macros &gt; BeanShell&lt;/f0&gt;, o LibreOffice exibe a caixa de diálogo Macros do BeanShell (Figura &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you select &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; JavaScript&lt;/f0&gt;, LibreOffice displays the JavaScript Macros dialog (Figure &lt;t1&gt;25&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195049Z" creationid="olivier-tdf" creationdate="20250708T195049Z">
+        <seg>Ao selecionar &lt;f0&gt;Ferramentas &gt; Macros &gt; Organizar Macros &gt; JavaScript&lt;/f0&gt;, o LibreOffice exibe a caixa de diálogo Macros JavaScript (Figura &lt;t1&gt;25&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
