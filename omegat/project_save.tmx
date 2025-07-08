@@ -22,6 +22,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>' Inserts a new sheet named "NewSheet"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191301Z" creationid="olivier-tdf" creationdate="20250708T191301Z">
+        <seg>' Insere uma nova planilha chamada "NewSheet"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>' Inserts the string "Hello" into cell "A1" of the new sheet</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191313Z" creationid="olivier-tdf" creationdate="20250708T191313Z">
+        <seg>' Insere a string "Hello" na célula "A1" da nova planilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>' Instantiates the UI service</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191211Z" creationid="olivier-tdf" creationdate="20250708T191211Z">
+        <seg>' Instancia o serviço de interface de usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>' Iterate over all cells in the range</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190529Z" creationid="olivier-tdf" creationdate="20250708T190529Z">
@@ -30,10 +54,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>' Loads the ScriptForge library</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191147Z" creationid="olivier-tdf" creationdate="20250708T191147Z">
+        <seg>' Carrega a biblioteca do ScriptForge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>' Number of columns and rows in selection</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190434Z" creationid="olivier-tdf" creationdate="20250708T190434Z">
         <seg>' Número de colunas e linhas na seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>' Opens the file "myfile.ods"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191227Z" creationid="olivier-tdf" creationdate="20250708T191227Z">
+        <seg>' Abre o arquivo "myfile.ods"</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +98,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190612Z" creationid="olivier-tdf" creationdate="20250708T190612Z">
         <seg>' Define o fundo para vermelho claro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>' Shows the sheet "NewSheet"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191334Z" creationid="olivier-tdf" creationdate="20250708T191334Z">
+        <seg>' Mostra a planilha "NewSheet"</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ui&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Object&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;myDoc&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;as&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;Object&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191217Z" creationid="olivier-tdf" creationdate="20250708T191217Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;ui&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Object&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;myDoc&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;as&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;Object&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;ElseIf&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;cellValue&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;and&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;cellValue&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;&lt;&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;50&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;Then&lt;/f33&gt;&lt;/f32&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190606Z" creationid="olivier-tdf" creationdate="20250708T190606Z">
@@ -610,6 +666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190540Z" creationid="olivier-tdf" creationdate="20250708T190540Z">
         <seg>&lt;f0&gt;&lt;f1&gt;For&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;row&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;0&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;to&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;nRows&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;-&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;1&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;GlobalScope&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;BasicLibraries&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;LoadLibrary&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"ScriptForge"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191154Z" creationid="olivier-tdf" creationdate="20250708T191154Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;GlobalScope&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;BasicLibraries&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;LoadLibrary&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"ScriptForge"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Set&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;myDoc&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;ui&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;OpenDocument&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;(&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;"/home/user/Documents/myfile.ods"&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;)&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191241Z" creationid="olivier-tdf" creationdate="20250708T191241Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Set&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;myDoc&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;ui&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;OpenDocument&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;(&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;"/home/user/Documents/myfile.ods"&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;)&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Set&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oCell&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oRange&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;getCellByPosition&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;(&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;col&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;,&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;row&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;)&lt;/f29&gt;&lt;/f28&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190544Z" creationid="olivier-tdf" creationdate="20250708T190544Z">
@@ -722,6 +794,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T185931Z" creationid="olivier-tdf" creationdate="20250708T185931Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;AppendHello&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CreateSheetExample&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191141Z" creationid="olivier-tdf" creationdate="20250708T191141Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CreateSheetExample&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,6 +1158,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;myDoc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;InsertSheet&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"NewSheet"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191305Z" creationid="olivier-tdf" creationdate="20250708T191305Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;myDoc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;InsertSheet&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"NewSheet"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;myDoc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;SetValue&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"NewSheet.A1"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"Hello"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191316Z" creationid="olivier-tdf" creationdate="20250708T191316Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;myDoc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;SetValue&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"NewSheet.A1"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"Hello"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;oCell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CellBackcolor&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;RGB&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;144&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;238&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;,&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt; &lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;144&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;)&lt;/f31&gt;&lt;/f30&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190601Z" creationid="olivier-tdf" creationdate="20250708T190601Z">
@@ -1146,6 +1242,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085157Z" creationid="olivier-tdf" creationdate="20250701T085157Z">
         <seg>&lt;f0&gt;&lt;f1&gt;sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;EnterMyName&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;ui&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;CreateScriptService&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"UI"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191221Z" creationid="olivier-tdf" creationdate="20250708T191221Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;ui&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;CreateScriptService&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"UI"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2210,6 +2314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231102Z" creationid="olivier" creationdate="20250220T231102Z">
         <seg>&lt;f0&gt;Salvar&lt;/f0&gt; — pode salvar todas as alterações feitas, mantendo o nome do arquivo atual e a localização do arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;ScriptForge&lt;/f0&gt; is organized into a set of services, each of which provides methods and properties related to a specific topic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191036Z" creationid="olivier-tdf" creationdate="20250708T191036Z">
+        <seg>O &lt;f0&gt;ScriptForge&lt;/f0&gt; é organizado em um conjunto de serviços, cada um dos quais fornece métodos e propriedades relacionados a um tópico específico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26320,6 +26432,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, the &lt;f1&gt;Dialog&lt;/f1&gt; service provides access to dialogs available in script modules and the &lt;f2&gt;Database&lt;/f2&gt; service allows to execute SQL commands in Base documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191100Z" creationid="olivier-tdf" creationdate="20250708T191100Z">
+        <seg>Por exemplo, o serviço &lt;f1&gt;Dialog&lt;/f1&gt; fornece acesso a caixas de diálogo disponíveis em módulos de script e o serviço &lt;f2&gt;Database&lt;/f2&gt; permite executar comandos SQL em documentos do Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, the People Gallery is available from &lt;a1&gt;https://extensions.libreoffice.org/en/extensions/show/people-gallery&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T213810Z" creationid="olivier-tdf" creationdate="20250109T213810Z">
@@ -39804,6 +39924,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190342Z" creationid="olivier-tdf" creationdate="20250708T190342Z">
         <seg>Listagem &lt;seq0&gt;6&lt;/seq0&gt;: macro do Calc para formatar intervalos com base em valores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Listing &lt;seq0&gt;7&lt;/seq0&gt;: Macro using the ScriptForge library</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191137Z" creationid="olivier-tdf" creationdate="20250708T191137Z">
+        <seg>Listagem &lt;seq0&gt;7&lt;/seq0&gt;: Macro usando a biblioteca ScriptForge</seg>
       </tuv>
     </tu>
     <tu>
@@ -59601,6 +59729,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The example in Listing &lt;t3&gt;7&lt;/t3&gt;&lt;s4/&gt;shows a macro written in Basic using the &lt;f5&gt;ScriptForge&lt;/f5&gt; library that opens a Calc document, creates a new sheet named &lt;f6&gt;NewSheet&lt;/f6&gt;, and inserts the string “Hello” into cell &lt;f7&gt;A1&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191124Z" creationid="olivier-tdf" creationdate="20250708T191124Z">
+        <seg>O exemplo na Listagem &lt;t3&gt;7&lt;/t3&gt;&lt;s4/&gt;mostra uma macro escrita em BASIC usando a biblioteca &lt;f5&gt;ScriptForge&lt;/f5&gt; que abre um documento Calc, cria uma nova folha chamada NewSheet &lt;f6&gt;e&lt;/f6&gt; insere a cadeia de caracteres "Hello" na célula &lt;f7&gt;A1&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The examples covered so far in this chapter were created using the macro recorder and the dispatcher, but you can also write macros in code which directly access the objects that comprise LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T185557Z" creationid="olivier-tdf" creationdate="20250708T185557Z">
@@ -60277,6 +60413,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250612T213121Z" creationid="olivier" creationdate="20250612T213121Z">
         <seg>A localização da Galeria é especificada em &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Caminhos&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; LibreOffice &gt; Caminhos&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The macro also saves and closes the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191131Z" creationid="olivier-tdf" creationdate="20250708T191131Z">
+        <seg>A macro também salva e fecha o documento.</seg>
       </tuv>
     </tu>
     <tu>
