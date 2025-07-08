@@ -3270,6 +3270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Folder containing the exported library&lt;/s0&gt;&lt;s1&gt;Folder containing the exported library&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T175104Z" creationid="olivier-tdf" creationdate="20250708T175104Z">
+        <seg>&lt;s0&gt;Pasta contendo a biblioteca exportada&lt;/s0&gt;&lt;s1&gt; Pasta contendo a biblioteca exportada&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Fontwork Gallery dialog&lt;/s0&gt;&lt;s1&gt;Fontwork Gallery dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T134726Z" creationid="olivier-tdf" creationdate="20250615T134726Z">
@@ -12030,6 +12038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose where you want to save the library and click &lt;f0&gt;Save&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T174929Z" creationid="olivier-tdf" creationdate="20250708T174929Z">
+        <seg>Escolha onde deseja salvar a biblioteca e clique em &lt;f0&gt;Salvar&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose whether to check uppercase words or words that contain numbers, by clicking the &lt;f0&gt;Options&lt;/f0&gt; button on the Spelling dialog to open a dialog similar to the one in &lt;f1&gt;Tools &gt; Options &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Languages and Locales&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Writing Aids&lt;/f4&gt;, described in Chapter 12, Configuring LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T102900Z" creationid="timot" creationdate="20250206T102547Z">
@@ -12170,6 +12186,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231635Z" creationid="olivier-tdf" creationdate="20250328T231635Z">
         <seg>Clique em &lt;f0&gt;Criptografar&lt;/f0&gt; para fechar a caixa de diálogo e salvar o arquivo criptografado com as chaves públicas selecionadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Export&lt;/f0&gt; and then select &lt;f1&gt;Export as BASIC Library&lt;/f1&gt; (note that you cannot export the Standard library).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T174921Z" creationid="olivier-tdf" creationdate="20250708T174921Z">
+        <seg>Clique em &lt;f0&gt;Exportar&lt;/f0&gt; e selecione &lt;f1&gt;Exportar como biblioteca BASIC&lt;/f1&gt; (observe que você não pode exportar a biblioteca Standard).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15010,6 +15034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223053Z" creationid="olivier-tdf" creationdate="20250122T223053Z">
         <seg>Clique no ícone &lt;f0&gt;Fixar linhas e colunas&lt;/f0&gt; na barra de ferramentas padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Libraries&lt;/f0&gt; tab and choose which library you want to export.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T174849Z" creationid="olivier-tdf" creationdate="20250708T174849Z">
+        <seg>Clique na aba &lt;f0&gt;Bibliotecas&lt;/f0&gt; e escolha qual biblioteca deseja exportar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24216,6 +24248,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;t0&gt;13&lt;/t0&gt;&lt;s1/&gt;shows an example of how a library named &lt;f2&gt;TestLibrary&lt;/f2&gt; with a single module called &lt;f3&gt;Module1&lt;/f3&gt; would be exported.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T175055Z" creationid="olivier-tdf" creationdate="20250708T175055Z">
+        <seg>A Figura &lt;t0&gt;13&lt;/t0&gt;&lt;s1/&gt;mostra um exemplo de como uma biblioteca chamada &lt;f2&gt;TestLibrary&lt;/f2&gt; com um único módulo chamado &lt;f3&gt;Module1&lt;/f3&gt; seria exportada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;provides an example of a sheet split horizontally into two sections, with the split indicated by the gray separator line located between rows 2 and 7.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223340Z" creationid="olivier-tdf" creationdate="20250122T223340Z">
@@ -28980,6 +29020,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012750Z" creationid="olivier" creationdate="20250321T012750Z">
         <seg>Vá para &lt;f0&gt;Ferramentas &gt; Idioma &gt; Mais dicionários online&lt;/f0&gt; na barra de menu para abrir a caixa de diálogo Extensões: Dicionários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f0&gt; and the click the &lt;f1&gt;Organizer&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T174832Z" creationid="olivier-tdf" creationdate="20250708T174832Z">
+        <seg>Acesse &lt;f0&gt;Ferramentas &gt; Macros &gt; Organizar Macros &gt; BASIC&lt;/f0&gt; e clique no botão &lt;f1&gt;Organizador&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64377,6 +64425,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To export a macro library:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T174811Z" creationid="olivier-tdf" creationdate="20250708T174811Z">
+        <seg>Para exportar uma biblioteca de macros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To export a range of pages, use the format 3-6.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T214758Z" creationid="olivier" creationdate="20250324T214758Z">
@@ -69269,6 +69325,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003042Z" creationid="olivier" creationdate="20250120T003042Z">
         <seg>Quando um grupo de células é selecionado, o plano de fundo da célula é colorido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a library is exported, LibreOffice creates a folder containing all files related to the library.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T175003Z" creationid="olivier-tdf" creationdate="20250708T175003Z">
+        <seg>Ao exportar o uma biblioteca, o LibreOffice cria uma pasta contendo todos os arquivos relacionados à biblioteca.</seg>
       </tuv>
     </tu>
     <tu>
