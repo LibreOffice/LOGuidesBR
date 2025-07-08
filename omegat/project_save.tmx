@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;MsgBox&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"Some cells outside the range 0 to 100 were marked in light grey"&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190723Z" creationid="olivier-tdf" creationdate="20250708T190723Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;MsgBox&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"Algumas células fora do intervalo de 0 a 100 foram marcadas em cinza claro"&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;MsgBox&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;"This macro applies only to single ranges."&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190428Z" creationid="olivier-tdf" creationdate="20250708T190428Z">
@@ -2974,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Cell values after being formatted by the macro&lt;/s0&gt;&lt;s1&gt;Cell values after being formatted by the macro&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190856Z" creationid="olivier-tdf" creationdate="20250708T190856Z">
+        <seg>&lt;s0&gt;Valores de célula após serem formatados pela macro&lt;/s0&gt;&lt;s1&gt; Valores de célula após serem formatados pela macro&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Change Icon dialog&lt;/s0&gt;&lt;s1&gt;Change Icon dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T204844Z" creationid="olivier" creationdate="20250307T231516Z">
@@ -4050,6 +4066,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210344Z" creationid="olivier-tdf" creationdate="20250128T210344Z">
         <seg>&lt;s0&gt;Opções de mesclagem para células não vazias&lt;/s0&gt;&lt;s1&gt;Opções de mesclagem para células não vazias&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Message box presented if some values are not between 0 and 100&lt;/s0&gt;&lt;s1&gt;Message box presented if some values are not between 0 and 100&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190917Z" creationid="olivier-tdf" creationdate="20250708T190917Z">
+        <seg>&lt;s0&gt;Caixa de mensagem apresentada se alguns valores não estiverem entre 0 e 100&lt;/s0&gt;&lt;s1&gt; Caixa de mensagem apresentada se alguns valores não estiverem entre 0 e 100&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10222,6 +10246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because some of the cells have values that are not between 0 and 100, the message box in Figure &lt;t2&gt;18&lt;/t2&gt;&lt;s3/&gt;will also be displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190840Z" creationid="olivier-tdf" creationdate="20250708T190840Z">
+        <seg>Como algumas das células têm valores que não estão entre 0 e 100, a caixa de mensagem na Figura &lt;t2&gt;18&lt;/t2&gt; também&lt;s3/&gt; será exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because styles apply whole groups of formats at the same time, you can easily format a document consistently and change the formatting of an entire document with minimal effort.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250217T100035Z" creationid="timot" creationdate="20250217T100035Z">
@@ -11354,6 +11386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130801Z" creationid="olivier-tdf" creationdate="20250218T130801Z">
         <seg>Estilos de célula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cell values after being formatted by the macro</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190907Z" creationid="olivier-tdf" creationdate="20250708T190907Z">
+        <seg>Valores de célula após serem formatados pela macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -23112,6 +23152,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Cell values after being formatted by the macro</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190902Z" creationid="olivier-tdf" creationdate="20250708T190902Z">
+        <seg>Figura &lt;seq0&gt;17&lt;/seq0&gt;: Valores das células após serem formatadas pela macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Context menu for grammar errors</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250207T104806Z" creationid="timot" creationdate="20250207T104806Z">
@@ -23188,6 +23236,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T134939Z" creationid="olivier-tdf" creationdate="20250615T134939Z">
         <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;: Exemplo de criação do Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Message box presented if some values are not between 0 and 100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190925Z" creationid="olivier-tdf" creationdate="20250708T190925Z">
+        <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;: Caixa de mensagem apresentada se alguns valores não estiverem entre 0 e 100</seg>
       </tuv>
     </tu>
     <tu>
@@ -24844,6 +24900,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T175055Z" creationid="olivier-tdf" creationdate="20250708T175055Z">
         <seg>A Figura &lt;t0&gt;13&lt;/t0&gt;&lt;s1/&gt;mostra um exemplo de como uma biblioteca chamada &lt;f2&gt;TestLibrary&lt;/f2&gt; com um único módulo chamado &lt;f3&gt;Module1&lt;/f3&gt; seria exportada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;t0&gt;17&lt;/t0&gt;&lt;s1/&gt;shows an example of the macro being run on a set of cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190831Z" creationid="olivier-tdf" creationdate="20250708T190831Z">
+        <seg>A Figura &lt;t0&gt;17&lt;/t0&gt;&lt;s1/&gt;mostra um exemplo da macro sendo executada em um conjunto de células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40848,6 +40912,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Message box presented if some values are not between 0 and 100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190930Z" creationid="olivier-tdf" creationdate="20250708T190930Z">
+        <seg>Caixa de mensagem apresentada se alguns valores não estiverem entre 0 e 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Metadata</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202102Z" creationid="olivier" creationdate="20250327T202102Z">
@@ -54601,6 +54673,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since macro programmers frequently need to perform tasks such as creating and opening files, accessing form controls, reading data from databases embedded in Base documents, and so forth, LibreOffice has provided them with the &lt;f0&gt;ScriptForge&lt;/f0&gt; library.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191010Z" creationid="olivier-tdf" creationdate="20250708T191010Z">
+        <seg>Como os programadores de macros frequentemente precisam executar tarefas como criar e abrir arquivos, acessar controles de formulário, ler dados de bancos de dados incorporados em documentos Base e assim por diante, o LibreOffice fornece a eles a biblioteca &lt;f0&gt;ScriptForge&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since not all browsers render HTML files the same way, you should preview an HTML document in several browsers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010311Z" creationid="olivier" creationdate="20250328T010311Z">
@@ -58337,6 +58417,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ScriptForge library</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190936Z" creationid="olivier-tdf" creationdate="20250708T190936Z">
+        <seg>A biblioteca ScriptForge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Section dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T170616Z" creationid="timot" creationdate="20250409T170616Z">
@@ -62033,6 +62121,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then, select the cells and use one of the methods described in “&lt;bf2&gt;How to run a macro&lt;/bf2&gt;” on page &lt;bf3&gt;20&lt;/bf3&gt;&lt;s4/&gt;to execute it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190821Z" creationid="olivier-tdf" creationdate="20250708T190821Z">
+        <seg>Em seguida, selecione as células e use um dos métodos descritos em “&lt;bf2&gt;Como executar uma macro&lt;/bf2&gt;” na página &lt;bf3&gt;20&lt;/bf3&gt;&lt;s4/&gt;para executá-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then, when you press the &lt;f1&gt;Enter &lt;/f1&gt;key in a selected cell, the cell switches to edit mode, eliminating the need to press &lt;f2&gt;F2&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T221238Z" creationid="olivier" creationdate="20250123T230250Z">
@@ -63553,6 +63649,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This library makes it easier to execute such commands without having to learn the required LibreOffice APIs (Application Programming Interfaces) and commands, which may be difficult for casual programmers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191026Z" creationid="olivier-tdf" creationdate="20250708T191026Z">
+        <seg>Esta biblioteca facilita a execução de tais comandos sem ter que aprender as APIs (Interfaces de Programação de Aplicativos) e comandos necessários do LibreOffice, o que pode ser difícil para programadores casuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This makes it easier for printers with a smaller memory when printing large files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135808Z" creationid="olivier" creationdate="20250223T135808Z">
@@ -64429,6 +64533,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T185718Z" creationid="olivier-tdf" creationdate="20250708T185718Z">
         <seg>Para adicionar esta macro a uma biblioteca, siga as etapas abaixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To add this macro to a library, follow the steps described in “&lt;bf0&gt;An example of a macro in code for Writer&lt;/bf0&gt;” on page &lt;bf1&gt;22&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190746Z" creationid="olivier-tdf" creationdate="20250708T190746Z">
+        <seg>Para adicionar esta macro a uma biblioteca, siga as etapas descritas em "&lt;bf0&gt;Um exemplo de uma macro no código para o Writer&lt;/bf0&gt;" na página &lt;bf1&gt;22&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66701,6 +66813,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250122T230244Z">
         <seg>Para reter um número mínimo de caracteres numa célula ao inserir números e manter o formato de número, por exemplo, 1234 e 0012, use um dos dois métodos para adicionar zeros à esquerda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To run this macro, first create a new Calc sheet and add some numeric values in a range of cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190812Z" creationid="olivier-tdf" creationdate="20250708T190812Z">
+        <seg>Para executar esta macro, primeiro crie uma nova planilha e adicione alguns valores numéricos num intervalo de células.</seg>
       </tuv>
     </tu>
     <tu>
