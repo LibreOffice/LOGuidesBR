@@ -3758,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Navigating to a macro library&lt;/s0&gt;&lt;s1&gt;Navigating to a macro library&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T180033Z" creationid="olivier-tdf" creationdate="20250708T180033Z">
+        <seg>&lt;s0&gt;Navegar até uma biblioteca de macros&lt;/s0&gt;&lt;s1&gt; Navegar até uma biblioteca de macros&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Navigator dialog&lt;/s0&gt;&lt;s1&gt;Navigator dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T145125Z" creationid="timotheonb" creationdate="20250502T145029Z">
@@ -36600,6 +36608,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It does not matter which of these two files you select; both will allow your macro to be imported.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T175930Z" creationid="olivier-tdf" creationdate="20250708T175930Z">
+        <seg>Não importa qual desses dois arquivos selecionar; ambos permitirão que sua macro seja importada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It has four panels:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T113535Z" creationid="timot" creationdate="20250114T113535Z">
@@ -39336,6 +39352,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Macros can be stored in libraries inside LibreOffice documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T175938Z" creationid="olivier-tdf" creationdate="20250708T175938Z">
+        <seg>As macros podem ser armazenadas em bibliotecas dentro de documentos do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Macros stored in the application library container named &lt;f0&gt;My Macros&lt;/f0&gt; are globally available to all documents and storing a macro in a document is useful if the document will be shared and you want the macro to be included with the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T144205Z" creationid="olivier-tdf" creationdate="20250704T144205Z">
@@ -41264,6 +41288,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigate to the directory containing the library to import (Figure &lt;t0&gt;14&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T175743Z" creationid="olivier-tdf" creationdate="20250708T175743Z">
+        <seg>Navegue até o diretório que contém a biblioteca a importar (Figura &lt;t0&gt;14&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigate to the folder in the file browser window that opens where the redact PDF file is going to be saved and enter a name for the file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T221203Z" creationid="olivier-tdf" creationdate="20250328T221203Z">
@@ -41856,6 +41888,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Normally you can choose between &lt;f1&gt;dialog.xlb&lt;/f1&gt; and &lt;f2&gt;script.xlb&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T175916Z" creationid="olivier-tdf" creationdate="20250708T175916Z">
+        <seg>Normalmente, você pode escolher entre &lt;f1&gt;dialog.xlb&lt;/f1&gt; e &lt;f2&gt;script.xlb&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Normally, long edge binding is used for portrait printing and short edge binding is used for landscape printing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T231233Z" creationid="olivier-tdf" creationdate="20250224T231233Z">
@@ -42436,6 +42476,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T221513Z" creationid="olivier-tdf" creationdate="20250117T221513Z">
         <seg>Na guia &lt;f0&gt;Geral&lt;/f0&gt; da caixa de diálogo Opções de PDF (Figura &lt;t1&gt;11&lt;/t1&gt;), selecione a opção &lt;f2&gt;Exportação de planilha inteira&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;Libraries&lt;/f0&gt; tab, select the library container to use and then click &lt;f1&gt;Import&lt;/f1&gt; to import macro libraries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T175723Z" creationid="olivier-tdf" creationdate="20250708T175723Z">
+        <seg>Na aba &lt;f0&gt;Bibliotecas&lt;/f0&gt;, selecione o contêiner de biblioteca a ser usado e clique em &lt;f1&gt;Importar&lt;/f1&gt; para importar bibliotecas de macros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64685,6 +64733,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T121437Z" creationid="olivier" creationdate="20250405T121437Z">
         <seg>Para importar um modelo para o computador, acesse https://extensions.libreoffice.org/ &lt;a0&gt;ou&lt;/a0&gt; outro local da Internet e baixe o modelo necessário para o seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To import libraries contained in a document, select a document rather than a directory on disk.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T180003Z" creationid="olivier-tdf" creationdate="20250708T180003Z">
+        <seg>Para importar bibliotecas contidas num documento, selecione um documento em vez de um diretório no disco.</seg>
       </tuv>
     </tu>
     <tu>
