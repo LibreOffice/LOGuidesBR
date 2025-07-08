@@ -5694,6 +5694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Chapter 11, Getting Started with Macros&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200406Z" creationid="olivier-tdf" creationdate="20250708T200406Z">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Guia de Introdução 24.8 - Capítulo 11, Introdução às Macros&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Getting Started Guide 24.8 - Chapter 12, Configuring LibreOffice&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T031533Z" creationid="olivier" creationdate="20250321T031533Z">
@@ -5806,6 +5814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Getting Started Guide 24.8 - Chapter 11, Getting Started with Macros&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200315Z" creationid="olivier-tdf" creationdate="20250708T200315Z">
+        <seg>Guia de Introdução 24.8 - Capítulo 11, Introdução às Macros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;36&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Getting Started Guide 24.8 - Chapter 9, Getting Started with Math&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T222826Z" creationid="timotheonb" creationdate="20250530T222826Z">
@@ -5850,6 +5866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231821Z" creationid="olivier-tdf" creationdate="20250328T231821Z">
         <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Guia de Introdução 24.8 - Capítulo 10, Trabalhar com formatos de arquivo, segurança e exportação&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Getting Started Guide 24.8 - Chapter 11, Getting Started with Macros&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200358Z" creationid="olivier-tdf" creationdate="20250708T200358Z">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Guia de Introdução 24.8 - Capítulo 11, Introdução às Macros&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5974,6 +5998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;Changing the color scheme of the Basic IDE&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;31&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200304Z" creationid="olivier-tdf" creationdate="20250708T200304Z">
+        <seg>Alterar o esquema de cores do IDE BASIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;Chapter 2, Getting Started with Writer&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250410T132806Z" creationid="timot" creationdate="20250410T132806Z">
@@ -6042,6 +6074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T232820Z" creationid="olivier-tdf" creationdate="20250328T231717Z">
         <seg>&lt;t0&gt;Guia de Introdução 24.8 - Capítulo 10, Trabalhando com Formatos de Arquivo, Segurança e Exportação&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;Getting Started Guide 24.8 - Chapter 11, Getting Started with Macros&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200350Z" creationid="olivier-tdf" creationdate="20250708T200350Z">
+        <seg>&lt;t0&gt;Guia de Introdução 24.8 - Capítulo 11, Introdução às Macros&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40714,8 +40754,8 @@
       <tuv lang="en-US">
         <seg>Listing &lt;t0&gt;11&lt;/t0&gt;&lt;s1/&gt;is an example of a JavaScript macro that inserts the text “Hello World from JavaScript” in cell A1 of the first sheet in a Calc spreadsheet.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195149Z" creationid="olivier-tdf" creationdate="20250708T195149Z">
-        <seg>A listagem &lt;t0&gt;11&lt;/t0&gt;&lt;s1/&gt; é um exemplo de uma macro JavaScript que insere o texto "Hello World from JavaScript" na célula A1 da primeira folha em uma planilha do Calc.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200451Z" creationid="olivier-tdf" creationdate="20250708T195149Z">
+        <seg>A listagem &lt;t0&gt;11&lt;/t0&gt;&lt;s1/&gt; é um exemplo de uma macro JavaScript que insere o texto "Hello World from JavaScript" na célula A1 da primeira folha numa planilha do Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40730,8 +40770,8 @@
       <tuv lang="en-US">
         <seg>Listing &lt;t0&gt;9&lt;/t0&gt;&lt;s1/&gt;presents an example of a Python macro that writes the text “Hello World from Python” into cell A1 of the first sheet in a Calc spreadsheet.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194446Z" creationid="olivier-tdf" creationdate="20250708T194446Z">
-        <seg>A Listagem &lt;t0&gt;9&lt;/t0&gt;&lt;s1/&gt; apresenta um exemplo de uma macro Python que escreve o texto “Hello World from Python” na célula A1 da primeira planilha em uma planilha do Calc.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200530Z" creationid="olivier-tdf" creationdate="20250708T194446Z">
+        <seg>A Listagem &lt;t0&gt;9&lt;/t0&gt;&lt;s1/&gt; apresenta um exemplo de uma macro Python que escreve o texto “Hello World from Python” na célula A1 da primeira planilha numa planilha do Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58787,8 +58827,8 @@
       <tuv lang="en-US">
         <seg>The Alternative Python Script Organizer (APSO) extension makes it easier to edit and organize Python scripts, especially when they are embedded in a document.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194539Z" creationid="olivier-tdf" creationdate="20250708T194539Z">
-        <seg>A extensão Alternative Python Script Organizer (APSO) facilita a edição e organização de scripts Python, especialmente quando são incorporados em um documento.</seg>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200521Z" creationid="olivier-tdf" creationdate="20250708T194539Z">
+        <seg>A extensão Alternative Python Script Organizer (APSO) facilita a edição e organização de scripts Python, especialmente quando são incorporados num documento.</seg>
       </tuv>
     </tu>
     <tu>
