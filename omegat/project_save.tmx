@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'Gets the current selection</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190355Z" creationid="olivier-tdf" creationdate="20250708T190355Z">
+        <seg>'Obtém a seleção atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(.doc and .dot)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T203518Z" creationid="olivier" creationdate="20250324T203518Z">
@@ -446,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oRange&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Object&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;oCell&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;as&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;Object&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190400Z" creationid="olivier-tdf" creationdate="20250708T190400Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oRange&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;as&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Object&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;oCell&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;as&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;Object&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sTextService$&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T185938Z" creationid="olivier-tdf" creationdate="20250708T185938Z">
@@ -510,10 +526,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Set&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oRange&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Thiscomponent&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;getCurrentSelection&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;()&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190405Z" creationid="olivier-tdf" creationdate="20250708T190405Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Set&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;oRange&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;=&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Thiscomponent&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;getCurrentSelection&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;()&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;AppendHello&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T185931Z" creationid="olivier-tdf" creationdate="20250708T185931Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;AppendHello&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;FormatRangeBasedOnValue&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190347Z" creationid="olivier-tdf" creationdate="20250708T190347Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;FormatRangeBasedOnValue&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +874,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085623Z" creationid="olivier-tdf" creationdate="20250701T085623Z">
         <seg>&lt;f0&gt;&lt;f1&gt;end&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sub&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCurs&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oDoc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;currentController&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;getViewCursor&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;()&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190132Z" creationid="olivier-tdf" creationdate="20250708T190132Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCurs&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oDoc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;currentController&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;getViewCursor&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;()&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCurs&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Text&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;insertString&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oCurs&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"Hello"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;,&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;False&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;)&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190152Z" creationid="olivier-tdf" creationdate="20250708T190152Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCurs&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Text&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;insertString&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;oCurs&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"Hello"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;,&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;False&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;)&lt;/f27&gt;&lt;/f26&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8418,6 +8466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T192211Z" creationid="olivier-tdf" creationdate="20250328T192211Z">
         <seg>Um exemplo está na Figura &lt;t1&gt;19&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An example of a macro in code for Calc</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190215Z" creationid="olivier-tdf" creationdate="20250708T190215Z">
+        <seg>Um exemplo de uma macro no código para Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -25544,6 +25600,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, Listing &lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;below shows the Basic code for a macro that analyzes a range of cells to determine if all values are between 0 and 100.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190300Z" creationid="olivier-tdf" creationdate="20250708T190300Z">
+        <seg>Por exemplo, a Listagem &lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;abaixo mostra o código BASIC para uma macro que analisa um intervalo de células para determinar se todos os valores estão entre 0 e 100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, Writer can open a Microsoft Word file that contains SmartArt and edit the SmartArt images.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T010229Z" creationid="tulio" creationdate="20250320T010229Z">
@@ -31804,6 +31868,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T161313Z" creationid="olivier" creationdate="20250121T161313Z">
         <seg>Se alguma das planilhas selecionadas não estiver vazia, o Calc exibirá uma caixa de diálogo de confirmação informando o número de planilhas a serem excluídas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If any values outside the allowed range of 0 to 100 are found, a warning message should be displayed and cells should be marked in light gray.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190321Z" creationid="olivier-tdf" creationdate="20250708T190321Z">
+        <seg>Se algum valor fora do intervalo permitido de 0 a 100 for encontrado, uma mensagem de aviso deve ser exibida e as células devem ser marcadas em cinza claro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39440,6 +39512,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Listing &lt;seq0&gt;6&lt;/seq0&gt;: Calc macro to format ranges based on values</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190342Z" creationid="olivier-tdf" creationdate="20250708T190342Z">
+        <seg>Listagem &lt;seq0&gt;6&lt;/seq0&gt;: macro do Calc para formatar intervalos com base em valores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Listing &lt;t2&gt;2&lt;/t2&gt;&lt;s3/&gt;shows the new macro added before &lt;f4&gt;Sub Main&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T082350Z" creationid="olivier-tdf" creationdate="20250701T082350Z">
@@ -43592,6 +43672,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One powerful way to extend the functionalities of LibreOffice Calc is to write macros that automate repetitive tasks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190225Z" creationid="olivier-tdf" creationdate="20250708T190225Z">
+        <seg>Uma maneira poderosa de estender as funcionalidades do LibreOffice Calc é escrever macros que automatizem tarefas repetitivas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Online Update</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T004750Z" creationid="olivier" creationdate="20250318T004750Z">
@@ -47605,6 +47693,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190128Z" creationid="olivier-tdf" creationdate="20250708T190128Z">
         <seg>REM Obtenha o cursor visual do controlador atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REM Move the cursor to the end of the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190140Z" creationid="olivier-tdf" creationdate="20250708T190140Z">
+        <seg>REM Mova o cursor para o final do documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69601,6 +69697,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Values ranging from 50 to 100 should be marked in light green whereas cells with values that are greater than or equal to 0 and less then 50 should be marked in light red.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190311Z" creationid="olivier-tdf" creationdate="20250708T190311Z">
+        <seg>Os valores que variam de 50 a 100 devem ser marcados em verde claro, enquanto as células com valores maiores ou iguais a 0 e menores que 50 devem ser marcadas em vermelho claro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Variables are placed in cells to hold data required by equations.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190409Z" creationid="olivier-tdf" creationdate="20250209T190409Z">
@@ -73325,6 +73429,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T211754Z" creationid="timot" creationdate="20250409T211754Z">
         <seg>Você pode usar vários métodos para controlar as alterações feitas em um documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use the Basic language to write macros that can do tasks ranging from simple cell handling and formatting to advanced data manipulation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190240Z" creationid="olivier-tdf" creationdate="20250708T190240Z">
+        <seg>Você pode usar a linguagem BASIC para escrever macros que podem realizar tarefas que vão desde o simples manuseio e formatação de células até a manipulação avançada de dados.</seg>
       </tuv>
     </tu>
     <tu>
