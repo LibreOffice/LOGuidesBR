@@ -454,10 +454,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;a0&gt;http://forum.openoffice.org/en/forum/&lt;/a0&gt; (Apache OpenOffice community forum; volunteers answer questions about LibreOffice as well)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200117Z" creationid="olivier-tdf" creationdate="20250708T200117Z">
+        <seg>&lt;a0&gt;http://forum.openoffice.org/en/forum/&lt;/a0&gt; (fórum da comunidade Apache OpenOffice; voluntários também respondem a perguntas sobre o LibreOffice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;a0&gt;https://ask.libreoffice.org/&lt;/a0&gt; (a Q&amp;A site where volunteers answer questions related to LibreOffice)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200037Z" creationid="olivier-tdf" creationdate="20250708T200037Z">
+        <seg>&lt;a0&gt;https://ask.libreoffice.org/&lt;/a0&gt; (um site de perguntas e respostas onde voluntários respondem a perguntas relacionadas ao LibreOffice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204901Z" creationid="olivier-tdf" creationdate="20250109T204901Z">
         <seg>&lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;a0&gt;https://wiki.documentfoundation.org/Documentation/Other_Documentation_and_Resources&lt;/a0&gt; (look in Programmers section for BASIC Programmers’ Guide and Developers’ Guide; the latter contains a detailed explanation)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200107Z" creationid="olivier-tdf" creationdate="20250708T200107Z">
+        <seg>&lt;a0&gt;https://wiki.documentfoundation.org/Documentation/Other_Documentation_and_Resources&lt;/a0&gt; (consulte a seção Programadores para obter o Guia do Programador BASIC e o Guia do Desenvolvedor; o último contém uma explicação detalhada)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9386,6 +9410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T232236Z" creationid="olivier" creationdate="20250301T232236Z">
         <seg>Andrew Jensen, Dave Barton, Jean Hollis Weber, Kees Kriek, Olivier Hallot, Peter Schofield, Rafael Lima, Skip Masonsmith, Steve Fanning, Valerii Goncharuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Andrew Pitonyak published a free online book &lt;f0&gt;OpenOffice.org Macros Explained&lt;/f0&gt;, which is a great reference for learning the Basic language used in both LibreOffice and OpenOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200142Z" creationid="olivier-tdf" creationdate="20250708T200142Z">
+        <seg>Andrew Pitonyak publicou um livro online gratuito &lt;f0&gt;OpenOffice.org Macros Explained&lt;/f0&gt;, que é uma ótima referência para aprender a linguagem BASIC usada no LibreOffice e no OpenOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20422,6 +20454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dr. Mark Alexander Bain published the book &lt;f0&gt;Learn OpenOffice.org Spreadsheet Macro Programming&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200157Z" creationid="olivier-tdf" creationdate="20250708T200157Z">
+        <seg>O Dr. Mark Alexander Bain publicou o livro &lt;f0&gt;Learn OpenOffice.org Spreadsheet Macro Programming&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drag and drop</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T011650Z" creationid="tulio" creationdate="20250320T011650Z">
@@ -22748,6 +22788,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135207Z" creationid="olivier-tdf" creationdate="20250303T135207Z">
         <seg>Sai do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expand the &lt;f1&gt;Tools&lt;/f1&gt; library in the &lt;f2&gt;LibreOffice&lt;/f2&gt; library container.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200004Z" creationid="olivier-tdf" creationdate="20250708T200004Z">
+        <seg>Expanda a biblioteca &lt;f1&gt;Ferramentas&lt;/f1&gt; no contêiner da biblioteca &lt;f2&gt;LibreOffice&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37856,6 +37904,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inspect the &lt;f3&gt;Debug&lt;/f3&gt; module; some good examples include &lt;f4&gt;WritedbgInfo&lt;/f4&gt; (document) and &lt;f5&gt;printdbgInfo&lt;/f5&gt; (sheet).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200017Z" creationid="olivier-tdf" creationdate="20250708T200017Z">
+        <seg>Inspecione o módulo &lt;f3&gt;Debug&lt;/f3&gt;; alguns bons exemplos incluem &lt;f4&gt;WritedbgInfo&lt;/f4&gt; (documento) e &lt;f5&gt;printdbgInfo&lt;/f5&gt; (folha).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Installation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250112T203344Z" creationid="olivier-tdf" creationdate="20250112T203344Z">
@@ -41464,6 +41520,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Many excellent macros are included with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195936Z" creationid="olivier-tdf" creationdate="20250708T195936Z">
+        <seg>Muitas macros excelentes estão incluídas no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Many features that are available as extra cost add-ins in other office suites (like PDF export) are free with LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T192249Z" creationid="olivier-tdf" creationdate="20250109T192249Z">
@@ -44916,6 +44980,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T004932Z" creationid="olivier" creationdate="20250318T004932Z">
         <seg>Opções da Atualização online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Online resources</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200022Z" creationid="olivier-tdf" creationdate="20250708T200022Z">
+        <seg>Recursos online</seg>
       </tuv>
     </tu>
     <tu>
@@ -48537,6 +48609,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Printed and ebook materials</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200122Z" creationid="olivier-tdf" creationdate="20250708T200122Z">
+        <seg>Materiais impressos e e-books</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183941Z" creationid="olivier" creationdate="20250222T183941Z">
@@ -50705,6 +50785,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Roberto Benitez's &lt;f0&gt;Database Programming with OpenOffice.org Base &amp; Basic&lt;/f0&gt; is also a great source to learn more about macro programming.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200257Z" creationid="olivier-tdf" creationdate="20250708T200257Z">
+        <seg>A &lt;f0&gt;Programação de Banco de Dados  com OpenOffice.org Base &amp; Basic&lt;/f0&gt; de Roberto Benitez também é uma ótima fonte para aprender mais sobre programação macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ron Faile Jr., Skip Masonsmith, Steve Fanning.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250305T134142Z" creationid="olivier" creationdate="20250305T134142Z">
@@ -51349,6 +51437,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195451Z" creationid="olivier" creationdate="20250327T195451Z">
         <seg>Consulte &lt;a1&gt;https://calibre-ebook.com/&lt;/a1&gt; para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See &lt;a1&gt;https://www.packtpub.com/openoffice-ooobasic-calc-automation/book&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200203Z" creationid="olivier-tdf" creationdate="20250708T200203Z">
+        <seg>Consulte &lt;a1&gt;https://www.packtpub.com/openoffice-ooobasic-calc-automation/book&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60817,6 +60913,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following links and references contain information regarding macro programming:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200027Z" creationid="olivier-tdf" creationdate="20250708T200027Z">
+        <seg>Os seguintes links e referências contêm informações sobre programação de macro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following procedure is an example only.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184841Z" creationid="olivier-tdf" creationdate="20250328T184841Z">
@@ -69665,6 +69769,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f0&gt; to open the LibreOffice Basic Macros dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195955Z" creationid="olivier-tdf" creationdate="20250708T195955Z">
+        <seg>Use &lt;f0&gt;Ferramentas &gt; Macros &gt; Organizar Macros &gt; BASIC&lt;/f0&gt; para abrir a caixa de diálogo Macros do LibreOffice BASIC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use &lt;f1&gt;View &gt; Toolbars &gt; Bullets and Numbering&lt;/f1&gt; to see the toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T103002Z" creationid="timot" creationdate="20250222T103002Z">
@@ -74741,6 +74853,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T140004Z" creationid="tulio" creationdate="20250211T140004Z">
         <seg>É possível encaixar uma barra de ferramentas na parte superior, no lado esquerdo e na parte inferior da janela principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can download the PDF version at &lt;a1&gt;https://www.pitonyak.org/OOME_3_0.pdf&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200148Z" creationid="olivier-tdf" creationdate="20250708T200148Z">
+        <seg>Você pode baixar a versão em PDF em &lt;a1&gt;https://www.pitonyak.org/OOME_3_0.pdf&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
