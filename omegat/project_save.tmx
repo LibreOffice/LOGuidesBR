@@ -5214,6 +5214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;UNO Object Inspector opened in a Writer document&lt;/s0&gt;&lt;s1&gt;UNO Object Inspector opened in a Writer document&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T192151Z" creationid="olivier-tdf" creationdate="20250708T192112Z">
+        <seg>&lt;s0&gt;Inspetor de Objetos UNO aberto em um documento do Writer&lt;/s0&gt;&lt;s1&gt; Inspetor de Objetos UNO aberto em um documento do Writer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Use the Macro Selector dialog to select and run an existing macro&lt;/s0&gt;&lt;s1&gt;Use the Macro Selector dialog to select and run an existing macro&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T084824Z" creationid="olivier-tdf" creationdate="20250701T084824Z">
@@ -23480,6 +23488,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: UNO Object Inspector opened in a Writer document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T192130Z" creationid="olivier-tdf" creationdate="20250708T192130Z">
+        <seg>Figura &lt;seq0&gt;19&lt;/seq0&gt;: Inspetor de Objetos UNO aberto em um documento do Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Basic Macros dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T081210Z" creationid="olivier-tdf" creationdate="20250701T081009Z">
@@ -26460,6 +26476,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224048Z" creationid="olivier-tdf" creationdate="20250224T224048Z">
         <seg>Por exemplo, a impressão específica pode ser para:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, suppose you want to change the background color of the text selected in a Writer document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T192246Z" creationid="olivier-tdf" creationdate="20250708T192246Z">
+        <seg>Por exemplo, suponha que queira alterar a cor de fundo do texto selecionado num documento do Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37340,6 +37364,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224111Z" creationid="olivier" creationdate="20250123T224111Z">
         <seg>Em vez de inserir a lista em cada planilha individualmente, você pode inserir as informações em várias planilhas ao mesmo tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instead of inspecting objects using the &lt;f0&gt;DOM navigator&lt;/f0&gt;, it is possible to directly inspect the currently selected object in the document by toggling the &lt;f1&gt;Current Selection&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T192228Z" creationid="olivier-tdf" creationdate="20250708T192228Z">
+        <seg>Em vez de inspecionar objetos usando o &lt;f0&gt;navegador DOM&lt;/f0&gt;, é possível inspecionar diretamente o objeto atualmente selecionado no documento alternando o botão &lt;f1&gt;Seleção atual&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60449,6 +60481,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The left portion of the &lt;f0&gt;Object Inspector&lt;/f0&gt; consists of the &lt;f1&gt;Document Object Model (DOM)&lt;/f1&gt; navigator, which allows the user to navigate through all the objects in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191957Z" creationid="olivier-tdf" creationdate="20250708T191957Z">
+        <seg>A parte esquerda do &lt;f0&gt;Inspetor de Objetos&lt;/f0&gt; consiste no navegador &lt;f1&gt;Document Object Model (DOM)&lt;/f1&gt;, permitindo ao usuário navegar por todos os objetos do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The letter indicates the column and the number indicates the row of the selected cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211851Z" creationid="olivier-tdf" creationdate="20250116T211851Z">
@@ -60857,10 +60897,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The names and types of all properties available in the object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T192050Z" creationid="olivier-tdf" creationdate="20250708T192050Z">
+        <seg>Os nomes e tipos de todas as propriedades disponíveis no objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The names of all implemented interfaces.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T192037Z" creationid="olivier-tdf" creationdate="20250708T192037Z">
+        <seg>Os nomes de todas as interfaces implementadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The names of all services supported by the object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T192042Z" creationid="olivier-tdf" creationdate="20250708T192042Z">
+        <seg>Os nomes de todos os serviços suportados pelo objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The names of authors in comments and changes are replaced by generic values as "Author1", "Author2" and so forth.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203222Z" creationid="olivier-tdf" creationdate="20250328T203222Z">
         <seg>Os nomes dos autores nos comentários e alterações são substituídos por valores genéricos como "Autor1", "Autor2" e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The names, arguments and return types of all methods that can be called by the object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T192058Z" creationid="olivier-tdf" creationdate="20250708T192058Z">
+        <seg>Os nomes, argumentos e tipos de retorno de todos os métodos que podem ser chamados pelo objeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68385,6 +68457,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>UNO Object Inspector opened in a Writer document</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T192203Z" creationid="olivier-tdf" creationdate="20250708T192203Z">
+        <seg>Inspetor de Objetos UNO aberto em um documento do Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unable to acquire the trademarked OpenOffice.org name from Oracle Corporation, The Document Foundation named its product &lt;f0&gt;as&lt;/f0&gt; LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T232902Z" creationid="olivier" creationdate="20250301T232902Z">
@@ -71237,6 +71317,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T132840Z" creationid="olivier" creationdate="20250217T132840Z">
         <seg>Quando um objeto é selecionado, clicar nessas áreas abre a caixa de diálogo Posição e Tamanho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When an object is selected, information about the object are shown in the right portion of the Object Inspector window:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T192026Z" creationid="olivier-tdf" creationdate="20250708T192026Z">
+        <seg>Ao selecionar um objeto, as informações sobre o objeto são mostradas na parte direita da janela do Inspetor de Objetos:</seg>
       </tuv>
     </tu>
     <tu>
