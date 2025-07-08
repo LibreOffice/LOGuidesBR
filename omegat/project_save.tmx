@@ -4222,6 +4222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Macro Selector dialog&lt;/s0&gt;&lt;s1&gt;Macro Selector dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194120Z" creationid="olivier-tdf" creationdate="20250708T194120Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Seletor de macro&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Seletor de macro&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Main Impress window&lt;/s0&gt;&lt;s1&gt;Main Impress window&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250414T103740Z" creationid="timot" creationdate="20250414T103740Z">
@@ -20524,6 +20532,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213520Z" creationid="olivier-tdf" creationdate="20250116T213520Z">
         <seg>Cada deque possui um ícone correspondente no pinel de abas à direita da barra lateral, permitindo alternância entre eles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each document can also contain your macros that are not available to any other document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T193818Z" creationid="olivier-tdf" creationdate="20250708T193818Z">
+        <seg>Cada documento também pode conter suas macros que não estão disponíveis para nenhum outro documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57745,6 +57761,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;LibreOffice Macros&lt;/f0&gt; container holds all the macros that are supplied in the LibreOffice installation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T193802Z" creationid="olivier-tdf" creationdate="20250708T193802Z">
+        <seg>O contêiner de &lt;f0&gt;Macros do LibreOffice&lt;/f0&gt; contém todas as macros que são fornecidas na instalação do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Localized Options&lt;/f0&gt; tab controls the formatting of quotation marks and apostrophes (which look like a closing single quote).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T111743Z" creationid="timot" creationdate="20250221T111743Z">
@@ -57933,6 +57957,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T143243Z" creationid="olivier-tdf" creationdate="20250704T143243Z">
         <seg>O contêiner &lt;f1&gt;Minhas macros&lt;/f1&gt; é armazenado em sua área de usuário ou diretório inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f1&gt;My Macros&lt;/f1&gt; library container holds those macros that you made available to any of your LibreOffice documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T193810Z" creationid="olivier-tdf" creationdate="20250708T193810Z">
+        <seg>O contêiner da biblioteca &lt;f1&gt;Minhas Macros&lt;/f1&gt; contém as macros que você disponibilizou para qualquer um dos seus documentos do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63617,6 +63649,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This dialog enables selection and editing of any available LibreOffice Basic macro, but not macros in other languages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194043Z" creationid="olivier-tdf" creationdate="20250708T194043Z">
+        <seg>Esta caixa de diálogo permite a seleção e edição de qualquer macro disponível do LibreOffice BASIC, mas não de macros em outras linguagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This dialog enables selection and running of any available macro, coded in any of the available languages (Figure &lt;t2&gt;21&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T193956Z" creationid="olivier-tdf" creationdate="20250708T193956Z">
+        <seg>Esta caixa de diálogo permite a seleção e execução de qualquer macro disponível, codificada em qualquer uma das linguagens disponíveis (Figura &lt;t2&gt;21&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This dialog is similar to a file browser window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012055Z" creationid="tulio" creationdate="20250320T012055Z">
@@ -67869,6 +67917,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T184525Z" creationid="olivier-tdf" creationdate="20250209T184525Z">
         <seg>Para usar a caixa de diálogo Ordenar em células numa planilha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use the other available scripting languages, you must write the code yourself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T193904Z" creationid="olivier-tdf" creationdate="20250708T193904Z">
+        <seg>Para usar as outras linguagens de script disponíveis, você mesmo deve escrever o código.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72257,6 +72313,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you edit a macro using &lt;f0&gt;Tools &gt; Macros &gt; Edit Macros&lt;/f0&gt;, LibreOffice displays the LibreOffice Basic IDE.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194019Z" creationid="olivier-tdf" creationdate="20250708T194019Z">
+        <seg>Ao editar uma macro usando &lt;f0&gt;Ferramentas &gt; Macros &gt; Editar Macros&lt;/f0&gt;, o LibreOffice exibe o IDE do LibreOffice BASIC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you edit text in the dialog, it is also edited in the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T221720Z" creationid="timot" creationdate="20250409T221720Z">
@@ -72393,6 +72457,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you select to run a macro using &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt;, LibreOffice displays the &lt;f1&gt;Macro Selector&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T193934Z" creationid="olivier-tdf" creationdate="20250708T193934Z">
+        <seg>Quando escolher executar uma macro usando &lt;f0&gt;Ferramentas &gt; Macros &gt; Executar Macro&lt;/f0&gt;, o LibreOffice exibe a caixa de diálogo &lt;f1&gt;Seletor de Macros&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you the split the screen, you can position the cell containing the number in one section of the view and the cells with formulas in other sections.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250122T223519Z">
@@ -72405,6 +72477,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213840Z" creationid="olivier" creationdate="20250123T213840Z">
         <seg>Quando usar a ferramenta Preenchimento, todos os dados contidos nas células de destino selecionadas são substituídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you use the recording facility, the macros are created in LibreOffice Basic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T193840Z" creationid="olivier-tdf" creationdate="20250708T193840Z">
+        <seg>Quando usar o recurso de gravação, as macros são criadas no LibreOffice BASIC.</seg>
       </tuv>
     </tu>
     <tu>
