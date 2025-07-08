@@ -4766,6 +4766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Python Macros dialog&lt;/s0&gt;&lt;s1&gt;Python Macros dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194340Z" creationid="olivier-tdf" creationdate="20250708T194340Z">
+        <seg>&lt;s0&gt;Diálogo de macros Python&lt;/s0&gt;&lt;s1&gt; Diálogo de macros Python&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Redaction toolbar&lt;/s0&gt;&lt;s1&gt;Redaction toolbar&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205505Z" creationid="olivier-tdf" creationdate="20250328T205505Z">
@@ -22744,6 +22752,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Facilities to edit and debug Python scripts are not currently integrated into the standard LibreOffice user interface.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194304Z" creationid="olivier-tdf" creationdate="20250708T194304Z">
+        <seg>No momento, os recursos para editar e depurar scripts Python não estão integrados à interface de usuário padrão do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Feature</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T142730Z" creationid="olivier" creationdate="20250223T142730Z">
@@ -23744,6 +23760,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Macro Selector dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194132Z" creationid="olivier-tdf" creationdate="20250708T194132Z">
+        <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: Caixa de diálogo Seletor de macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: More Numbering dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T132054Z" creationid="timotheonb" creationdate="20250525T132054Z">
@@ -23804,6 +23828,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T030112Z" creationid="olivier" creationdate="20250321T030112Z">
         <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: Caixa de diálogo Opções Idiomas e Localidades — Página de Verificação de Frases em Inglês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Python Macros dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194409Z" creationid="olivier-tdf" creationdate="20250708T194409Z">
+        <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: Caixa de diálogo Macros Python</seg>
       </tuv>
     </tu>
     <tu>
@@ -27660,6 +27692,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T195123Z" creationid="olivier" creationdate="20250327T195123Z">
         <seg>Para obter mais informações, consulte "&lt;bf0&gt;Opções de exportação EPUB&lt;/bf0&gt;" &lt;bf1&gt;abaixo&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information, refer to “&lt;bf2&gt;Where are macros stored?&lt;/bf2&gt;” on page &lt;bf3&gt;17&lt;/bf3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194320Z" creationid="olivier-tdf" creationdate="20250708T194320Z">
+        <seg>Para obter mais informações, consulte “&lt;bf2&gt;Onde as macros são armazenadas?&lt;/bf2&gt;” na página &lt;bf3&gt;17&lt;/bf3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31800,6 +31840,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, you can use any Python editor to create scripts and then copy these files into the Scripts folder in your home directory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194312Z" creationid="olivier-tdf" creationdate="20250708T194312Z">
+        <seg>No entanto, você pode usar qualquer editor Python para criar scripts e, em seguida, copiar esses arquivos para a pasta Scripts em seu diretório inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, you can use it in other spreadsheets.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164609Z" creationid="olivier" creationdate="20250204T164609Z">
@@ -34532,6 +34580,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161454Z" creationid="olivier" creationdate="20250204T161454Z">
         <seg>Se desejar incluir bordas ao redor de uma célula ou grupo de células, use um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to learn more about the LibreOffice API as well as UNO objects, refer to the official API documentation at &lt;a0&gt;https://api.libreoffice.org/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194151Z" creationid="olivier-tdf" creationdate="20250708T194151Z">
+        <seg>Se quiser saber mais sobre a API do LibreOffice e os objetos UNO, consulte a documentação oficial da API em &lt;a0&gt;https://api.libreoffice.org/&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40516,6 +40572,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T124718Z" creationid="olivier" creationdate="20250313T124718Z">
         <seg>Segurança de macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Macro Selector dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194138Z" creationid="olivier-tdf" creationdate="20250708T194138Z">
+        <seg>Caixa de diálogo Seletor de macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -48285,6 +48349,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T210209Z" creationid="timot" creationdate="20250402T210209Z">
         <seg>Posicione o ponteiro do mouse sobre a linha entre as seções cinza e branca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Python is a high-level, general-purpose programming language that was first released in 1991.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194208Z" creationid="olivier-tdf" creationdate="20250708T194208Z">
+        <seg>Python é uma linguagem de programação de alto nível e de uso geral que foi lançada pela primeira vez em 1991.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Python macros</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194156Z" creationid="olivier-tdf" creationdate="20250708T194156Z">
+        <seg>Macros Python</seg>
       </tuv>
     </tu>
     <tu>
@@ -72437,6 +72517,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190630Z" creationid="olivier-tdf" creationdate="20250209T190630Z">
         <seg>Quando pesquisar um termo no Assistente de função, as descrições de função são fornecidas, bem como seus nomes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you select &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Python&lt;/f0&gt;, LibreOffice displays the Python Macros dialog (Figure &lt;t1&gt;22&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194253Z" creationid="olivier-tdf" creationdate="20250708T194253Z">
+        <seg>Ao selecionar &lt;f0&gt;Ferramentas &gt; Macros &gt; Organizar Macros &gt; Python&lt;/f0&gt;, o LibreOffice exibe a caixa de diálogo Macros Python (Figura &lt;t1&gt;22&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
