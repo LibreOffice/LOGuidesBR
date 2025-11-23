@@ -10,7 +10,7 @@
 <tuv xml:lang="en">
 <seg>The rows before the first and after the last row don&#x27;t have a bookmark.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>As linhas antes da primeira e depois da última não possuem um marca-página.</seg>
 </tuv>
 </tu>
@@ -19,7 +19,7 @@
 <tuv xml:lang="en">
 <seg>The current row is deleted, and thus doesn&#x27;t have a bookmark.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>A linha atual foi excluída, e portanto não tem um marca-página.</seg>
 </tuv>
 </tu>
@@ -28,7 +28,7 @@
 <tuv xml:lang="en">
 <seg>The copy source&#x27;s result set must support bookmarks.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>A cópia do conjunto resultante da fonte deve ter suporte a marca-páginas.</seg>
 </tuv>
 </tu>
@@ -37,7 +37,7 @@
 <tuv xml:lang="en">
 <seg>Name of the MySQL/MariaDB database</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Nome do banco de dados MySQL/MariaDB</seg>
 </tuv>
 </tu>
@@ -46,7 +46,7 @@
 <tuv xml:lang="en">
 <seg>Set up MySQL/MariaDB connection</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Configurar a conexão com o MySQL/MariaDB</seg>
 </tuv>
 </tu>
@@ -55,7 +55,7 @@
 <tuv xml:lang="en">
 <seg>Set up MySQL/MariaDB server data</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Configurar o servidor de dados MySQL/MariaDB</seg>
 </tuv>
 </tu>
@@ -64,7 +64,7 @@
 <tuv xml:lang="en">
 <seg>Set up connection to a MySQL/MariaDB database using JDBC</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Configurar a conexão com um banco de dados MySQLMariaDB usando JDBC</seg>
 </tuv>
 </tu>
@@ -73,7 +73,7 @@
 <tuv xml:lang="en">
 <seg>Set up connection to a MySQL/MariaDB database using JDBC</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Configurar a conexão com um banco de dados MySQL/MariaDB usando JDBC</seg>
 </tuv>
 </tu>
@@ -83,7 +83,7 @@
 <seg>Please enter the required information to connect to a MySQL/MariaDB database using JDBC. Note that a JDBC driver class must be installed on your system and registered with %PRODUCTNAME.
 Please contact your system administrator if you are unsure about the following settings.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Forneça as informações necessárias à conexão com um banco de dados MySQL/MariaDB utilizando JDBC. Observe que uma classe de driver JDBC deve estar instalada no seu sistema e registrada com o %PRODUCTNAME.
 Entre em contato com o administrador do sistema se estiver em dúvida em relação às configurações a seguir.</seg>
 </tuv>
@@ -93,7 +93,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>MySQL/MariaDB JDBC d~river class:</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Classe do d~river JDBC MySQL/MariaDB:</seg>
 </tuv>
 </tu>
@@ -102,7 +102,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Set Up a Connection to a MySQL/MariaDB Database</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Configurar uma conexão com um banco de dados MySQL/MariaDB</seg>
 </tuv>
 </tu>
@@ -111,7 +111,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Please enter the required information to connect to a MySQL/MariaDB database.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Insira a informação necessária para conectar a um banco de dados MySQL/MariaDB.</seg>
 </tuv>
 </tu>
@@ -120,7 +120,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Please enter the required information to connect to a MySQL/MariaDB database using JDBC. Note that a JDBC driver class must be installed on your system and registered with %PRODUCTNAME. Please contact your system administrator if you are unsure about the following settings. </seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Forneça as informações necessárias à conexão com um banco de dados MySQL/MariaDB utilizando JDBC. Observe que uma classe de driver JDBC deve estar instalada no seu sistema e registrada com o %PRODUCTNAME. Entre em contato com o administrador do sistema se estiver em dúvida em relação às configurações a seguir. </seg>
 </tuv>
 </tu>
@@ -129,7 +129,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>MySQL/MariaDB JDBC d_river class:</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Classe do d~river JDBC MySQL/MariaDB:</seg>
 </tuv>
 </tu>
@@ -138,7 +138,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Connect directly (using MariaDB C connector)</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Conectar diretamente (com conector MariaDB)</seg>
 </tuv>
 </tu>
@@ -147,7 +147,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Enter the SQL administration command that you want to run.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Insira o comando administrativo SQL que deseja executar.</seg>
 </tuv>
 </tu>
@@ -156,7 +156,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Execute the SQL command directly without escape processing.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Execute o comando SQL diretamente sem tratar os escapes.</seg>
 </tuv>
 </tu>
@@ -165,7 +165,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Show the result of the SQL SELECT command in the Output box.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Mostre o resultados do comando SQL SELECT na caixa Saída.</seg>
 </tuv>
 </tu>
@@ -174,7 +174,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Lists the previously executed SQL commands. To run a command again, click the command, and then click Execute.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Lista os comandos SQL executados anteriormente. Para executar novamente um dos comandos, clique no comando e clique em Executar.</seg>
 </tuv>
 </tu>
@@ -183,7 +183,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Displays the results, including errors, of the SQL command that you ran.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Exibe os resultados, incluindo mensagens de erro, do comando SQL executado.</seg>
 </tuv>
 </tu>
@@ -192,7 +192,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Displays the results of the SQL command that you ran.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Exibe os resultados do comando SQL executado.</seg>
 </tuv>
 </tu>
@@ -201,7 +201,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Add User</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Adicionar usuário</seg>
 </tuv>
 </tu>
@@ -210,7 +210,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Delete User</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Excluir usuário</seg>
 </tuv>
 </tu>
@@ -219,7 +219,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Change Password</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Alterar senha</seg>
 </tuv>
 </tu>
@@ -228,7 +228,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>_Manage</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>_Gerenciar</seg>
 </tuv>
 </tu>
@@ -237,7 +237,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Field Properties Help</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Ajuda das propriedades do campo</seg>
 </tuv>
 </tu>
@@ -246,7 +246,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Description</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Descrição</seg>
 </tuv>
 </tu>
@@ -255,7 +255,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Title</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Título</seg>
 </tuv>
 </tu>
@@ -264,7 +264,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>By</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Por</seg>
 </tuv>
 </tu>
@@ -273,7 +273,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Date</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Data</seg>
 </tuv>
 </tu>
@@ -282,7 +282,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Keywords</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Palavras-chave</seg>
 </tuv>
 </tu>
@@ -291,7 +291,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Type</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Tipo</seg>
 </tuv>
 </tu>
@@ -300,7 +300,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Modified on</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Modificado em</seg>
 </tuv>
 </tu>
@@ -309,7 +309,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Modified by</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Modificado por</seg>
 </tuv>
 </tu>
@@ -318,7 +318,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Printed on</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Impresso em</seg>
 </tuv>
 </tu>
@@ -327,7 +327,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Printed by</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Impresso por</seg>
 </tuv>
 </tu>
@@ -336,7 +336,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Subject</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Assunto</seg>
 </tuv>
 </tu>
@@ -345,7 +345,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Size</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Tamanho</seg>
 </tuv>
 </tu>
@@ -354,7 +354,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <tuv xml:lang="en">
 <seg>Data Conversion</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Conversão de dados</seg>
 </tuv>
 </tu>
@@ -364,7 +364,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 <seg>It is not possible to create a new database, because neither HSQLDB, nor Firebird is
 available in this setup.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Não é possível criar um banco de dados, por que nem o HSQLDB nem o Firebird
  estão disponíveis nesta instalação.</seg>
 </tuv>
@@ -374,7 +374,7 @@ available in this setup.</seg>
 <tuv xml:lang="en">
 <seg>Name of the ODBC data source</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Nome da fonte de dados ODBC</seg>
 </tuv>
 </tu>
@@ -383,7 +383,7 @@ available in this setup.</seg>
 <tuv xml:lang="en">
 <seg>Set up a connection to an ODBC data source</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Configurar uma conexão com uma fonte de dados ODBC</seg>
 </tuv>
 </tu>
@@ -394,7 +394,7 @@ available in this setup.</seg>
 Click &#x27;Browse...&#x27; to select an ODBC data source that is already registered in %PRODUCTNAME.
 Please contact your system administrator if you are unsure about the following settings.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Digite o nome da fonte de dados ODBC que deseja usar.
 Clique em &#x27;Procurar...&#x27; para selecionar uma fonte de dados ODBC que já está registrada no %PRODUCTNAME.
 Entre em contato com o administrador do sistema se não tiver certeza sobre as configurações a seguir.</seg>
@@ -405,7 +405,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>_Add</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>_Adicionar</seg>
 </tuv>
 </tu>
@@ -414,7 +414,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>_Format Field</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>_Formatar campo</seg>
 </tuv>
 </tu>
@@ -423,7 +423,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Click &#x27;Finish&#x27; to save the database.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Para salvar o banco de dados, clique em &#x27;Finalizar&#x27;.</seg>
 </tuv>
 </tu>
@@ -432,7 +432,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Use the Database Wizard to create a new database, open an existing database file, or connect to a database stored on a server.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Utilize o Assistente de banco de dados para criar um banco de dados, para abrir um arquivo de banco de dados existente ou para conectar-se a um banco de dados armazenado em um servidor.</seg>
 </tuv>
 </tu>
@@ -441,7 +441,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Create a n_ew database</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Criar um banco d_e dados</seg>
 </tuv>
 </tu>
@@ -450,7 +450,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>This relation already exists. Do you want to edit it or create a new one?</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Essa relação já existe. Deseja editá-la ou criar uma?</seg>
 </tuv>
 </tu>
@@ -459,7 +459,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Enter the DBMS/driver-specific connection string here</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Entre com o texto de conexão do driver do SGBD</seg>
 </tuv>
 </tu>
@@ -468,7 +468,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Enter the DBMS/driver-specific connection string here</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Digite aqui o texto de conexão do driver do SGBD</seg>
 </tuv>
 </tu>
@@ -477,7 +477,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Run SQL command _directly</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Executar o comando SQL _diretamente</seg>
 </tuv>
 </tu>
@@ -486,7 +486,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Use Outer Join syntax &#x27;{oj }&#x27;</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Utilizar sintaxe de junção externa &#x27;{oj }&#x27;</seg>
 </tuv>
 </tu>
@@ -495,7 +495,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Select to open a database file from a list of recently used files or from a file selection dialog.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Selecione para abrir um arquivo de banco de dados numa lista de arquivos usados recentemente ou numa caixa de diálogo de seleção de arquivo.</seg>
 </tuv>
 </tu>
@@ -504,7 +504,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Select to create a new database.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Selecione para criar um banco de dados.</seg>
 </tuv>
 </tu>
@@ -513,7 +513,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Select a database file to open from the list of recently used files. Click Finish to open the file immediately and to exit the wizard.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Selecione um arquivo de banco de dados a ser aberto a partir da lista de arquivos usados recentemente. Clique em Concluir para abrir o arquivo imediatamente e sair do assistente.</seg>
 </tuv>
 </tu>
@@ -522,7 +522,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Opens a file selection dialog where you can select a database file. Click Open or OK in the file selection dialog to open the file immediately and to exit the wizard.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Abre uma caixa de diálogo de seleção de arquivo, para selecionar um arquivo de banco de dados. Clique em Abrir ou em OK na caixa de diálogo de seleção de arquivo para abrir o arquivo imediatamente e sair do assistente.</seg>
 </tuv>
 </tu>
@@ -531,7 +531,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Select to create a database document for an existing database connection.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Selecione para criar um documento de banco de dados para uma conexão com um banco de dados existente.</seg>
 </tuv>
 </tu>
@@ -540,7 +540,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Select the database type for the existing database connection.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Selecione o tipo de banco de dados para a conexão com o banco de dados existente.</seg>
 </tuv>
 </tu>
@@ -549,7 +549,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>The Database Wizard creates a database file that contains information about a database.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>O Assistente de banco de dados cria um arquivo contendo informações sobre um banco de dados.</seg>
 </tuv>
 </tu>
@@ -558,7 +558,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Only allows characters that conform to the SQL92 naming convention in a name in a data source. All other characters are rejected. Each name must begin with a lowercase letter, an uppercase letter, or an underscore ( _ ). The remaining characters can be ASCII letters, numbers, and underscores.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Permite apenas caracteres que estejam em conformidade com a convenção de nomenclatura do SQL92 em um nome em uma fonte de dados. Todos os outros caracteres serão rejeitados. Cada nome deve começar com uma letra minúscula, uma letra maiúscula ou um caractere de sublinhado(_). Os demais caracteres podem ser letras ASCII, números e sublinhados.</seg>
 </tuv>
 </tu>
@@ -567,7 +567,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Appends the alias to the table name in SELECT statements.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Acrescenta o alias ao nome da tabela em instruções SELECT.</seg>
 </tuv>
 </tu>
@@ -576,7 +576,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Some databases use the keyword &quot;AS&quot; between a name and its alias, while other databases use a whitespace. Enable this option to insert AS before the alias.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Alguns bancos de dados utilizam a instrução &quot;AS&quot; entre o nome da tabela e seu alias, enquanto outros bancos utilizam espaços em branco. Ative esta opção para inserir AS antes do alias.</seg>
 </tuv>
 </tu>
@@ -585,7 +585,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Use escape sequences for outer joins. The syntax for this escape sequence is {oj outer-join}</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Utiliza sequências de escape para junções externas. A sintaxe dessa sequência de escape é {oj outer-join}</seg>
 </tuv>
 </tu>
@@ -594,7 +594,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Ignores access privileges that are provided by the database driver.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Ignora privilégios de acesso fornecidos pelo driver de banco de dados.</seg>
 </tuv>
 </tu>
@@ -603,7 +603,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Replaces named parameters in a data source with a question mark (?).</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Substitui por um ponto de interrogação (?) os parâmetros nomeados em uma fonte de dados.</seg>
 </tuv>
 </tu>
@@ -612,7 +612,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Displays the internal version number of the record in the database table.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Exibe o número da versão interna do registro na tabela do banco de dados.</seg>
 </tuv>
 </tu>
@@ -621,7 +621,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Uses the current data source of the catalog. This option is useful when the ODBC data source is a database server. Do not select this option if the ODBC data source is a dBASE driver.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Utiliza a fonte de dados atual do catálogo. Esta opção é útil quando a fonte de dados ODBC é um servidor de banco de dados. Não selecione esta opção se a fonte de dados ODBC for um driver do dBASE.</seg>
 </tuv>
 </tu>
@@ -630,7 +630,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Allows you to use the schema name in SELECT statements.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Permite utilizar o nome do esquema em instruções SELECT.</seg>
 </tuv>
 </tu>
@@ -639,7 +639,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Creates an index with ASC or DESC statements.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Criar índice com as instruções ASC ou DESC</seg>
 </tuv>
 </tu>
@@ -648,7 +648,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Select to use the CR + LF code pair to end every text line (preferred for DOS and Windows operating systems).</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Selecione para usar o par de códigos CR + LF para encerrar cada linha de texto (preferível para DOS e sistemas operacionais do Windows).</seg>
 </tuv>
 </tu>
@@ -657,7 +657,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Only for Oracle JDBC connections. When enabled it specifies that no column is treated as a currency field. The field type returned from the database driver is discarded.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Somente em conexões JDBC para Oracle. Quando habilitado, especifica que nenhuma coluna será tratada como um campo monetário. O tipo de campo retornado pelo driver do banco de dados é descartado.</seg>
 </tuv>
 </tu>
@@ -666,7 +666,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>When you enter a new record or update an existing record in a form, and you leave a field empty which is bound to a database column which requires input, then you will see a message complaining about the empty field.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Ao inserir um novo registro ou atualizar um registro já existente em um formulário, e deixar um campo em branco que está contido em uma coluna que requer uma entrada obrigatória, você verá uma mensagem avisando que o campo está vazio.</seg>
 </tuv>
 </tu>
@@ -675,7 +675,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Use date/time literals that conform to ODBC standard.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Use literais de data e hora que estejam em conformidade com o padrão ODBC.</seg>
 </tuv>
 </tu>
@@ -684,7 +684,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Enable to overrule Base&#x27;s heuristics used to detect whether the database supports primary keys.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Ative para anular a heurística do banco utilizada para detectar se o banco de dados suporta chaves primárias.</seg>
 </tuv>
 </tu>
@@ -693,7 +693,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Use the database driver different scroll capabilities of a result set.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Use os diferentes recursos de rolagem do driver de banco de dados de um conjunto de resultados.</seg>
 </tuv>
 </tu>
@@ -702,7 +702,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Select the type of Boolean comparison that you want to use.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Selecione o tipo de comparação lógica a utilizar.</seg>
 </tuv>
 </tu>
@@ -711,7 +711,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Select the number of rows to let the driver detect the data type.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Selecione o número de linhas para permitir que o driver detecte o tipo de dados.</seg>
 </tuv>
 </tu>
@@ -720,7 +720,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Use _secure connection (TLS/SSL)</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Utilizar conexão _segura (TLS/SSL)</seg>
 </tuv>
 </tu>
@@ -729,7 +729,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Use secure connection (TLS/SSL)</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Utilizar conexão segura (TLS/SSL)</seg>
 </tuv>
 </tu>
@@ -738,7 +738,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Set up a connection to a PostgreSQL database</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Configurar uma conexão com um banco de dados PostgreSQL</seg>
 </tuv>
 </tu>
@@ -747,7 +747,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Please enter the required information to connect to a PostgreSQL database, either by entering the host name, port number and server, or by entering the connection string.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Digite as informações necessárias para conectar a um banco de dados PostgreSQL, seja por inserir o nome do hospedeiro, numero da porta, seja inserindo o texto de conexão.</seg>
 </tuv>
 </tu>
@@ -756,7 +756,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Please contact your system administrator if you are unsure</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Entre em contato com o administrador de sistemas se não tiver os dados</seg>
 </tuv>
 </tu>
@@ -765,7 +765,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Enter the name of the database.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Digite o nome do banco de dados.</seg>
 </tuv>
 </tu>
@@ -774,7 +774,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Enter the server url of the database. </seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Digite o URL do servidor de banco de dados. </seg>
 </tuv>
 </tu>
@@ -783,7 +783,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Enter the port number of the DBMS service. Default for PostgreSQL is 5432.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Digite o número da porta do servidor de banco de dados. O padrão para PostgreSQL é 5432.</seg>
 </tuv>
 </tu>
@@ -792,7 +792,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Alternatively, enter the driver-specific connection string here</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Alternativamente, digite aqui o texto de conexão específico do driver</seg>
 </tuv>
 </tu>
@@ -801,7 +801,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Enter the complete connector URL to access the PostGreSQL DBMS service. The connector URL is in the form &quot;postgresql://myHost:port/MyDatabase&quot;.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Digite o URL completo de conexão para acessar o serviço PostgreSQL. O formato do URL do conector é &quot;postgresql://meuServidor:porta/MeuBancodeDados&quot;.</seg>
 </tuv>
 </tu>
@@ -810,7 +810,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Set up PostgreSQL connection</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Configurar a conexão com o PostgreSQL</seg>
 </tuv>
 </tu>
@@ -819,7 +819,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Set up connection to a POSTGRESQL database using GUI</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Configurar a conexão a um banco de dados PostgreSQL usando a interface gráfica</seg>
 </tuv>
 </tu>
@@ -829,7 +829,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <seg>Please enter the required information to connect to a PostgreSQL database either through by filling the hostname,port number and server OR by filling the connection string.
 Please contact your system administrator if you are unsure about the following settings.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Insira as informações necessárias para se conectar a um banco de dados PostgreSQL preenchendo o nome do host, número da porta e servidor OU preenchendo a string de conexão.
 Entre em contato com o administrador do sistema se não tiver certeza sobre as configurações a seguir.</seg>
 </tuv>
@@ -839,7 +839,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Default: 5432</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Padrão: 5432</seg>
 </tuv>
 </tu>
@@ -848,7 +848,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Set up connection to a PostgreSQL database</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Configurar a conexão com um banco de dados PostgreSQL</seg>
 </tuv>
 </tu>
@@ -857,7 +857,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Please enter the required information to connect to a PostgreSQL database. Please contact your system administrator if you are unsure about the following settings. </seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Forneça as informações necessárias à conexão com um banco de dados PostgreSQL. Entre em contato com o administrador do sistema se estiver em dúvida em relação às configurações a seguir. </seg>
 </tuv>
 </tu>
@@ -866,7 +866,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>_Database name:</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Nome _do banco de dados:</seg>
 </tuv>
 </tu>
@@ -875,7 +875,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>_Server:</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>_Servidor:</seg>
 </tuv>
 </tu>
@@ -884,7 +884,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>_Port number:</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Número da _porta:</seg>
 </tuv>
 </tu>
@@ -893,7 +893,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>And/OR Enter the DBMS/driver-specific connection string here</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Ou entre aqui com o texto de conexão específico do driver do SGBD</seg>
 </tuv>
 </tu>
@@ -902,7 +902,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <tuv xml:lang="en">
 <seg>Set up a connection to a PostgreSQL database</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Configurar conexão a um banco de dados PostgreSQL</seg>
 </tuv>
 </tu>
@@ -912,7 +912,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 <seg>Please enter the required information to connect to a PostgreSQL database, either by entering the host name, port number and server, or by entering the connection string.
 Please contact your system administrator if you are unsure about the following settings.</seg>
 </tuv>
-<tuv xml:lang="pt_BR">
+<tuv xml:lang="pt-BR">
 <seg>Insira as informações necessárias para se conectar a um banco de dados PostgreSQL, inserindo o nome do host, número da porta e servidor, ou inserindo a string de conexão.
 Entre em contato com o administrador do sistema se não tiver certeza sobre as configurações a seguir.</seg>
 </tuv>
