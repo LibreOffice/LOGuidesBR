@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tmx version="1.4">
-
-  <header adminlang="en" srclang="en">
-
-</header>
-<body>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_a0364b0" segtype="sentence" srclang="en-US"/>
+  <body>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Default Cell Style</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -16,7 +13,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Default Page Style</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -25,7 +22,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is duplicate</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -34,7 +31,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is not duplicate</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -43,7 +40,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is in top N elements</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -52,7 +49,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is in bottom N elements</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -61,7 +58,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is in top N percent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -70,7 +67,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is in bottom N percent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -79,7 +76,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is above average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -88,7 +85,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is below average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -97,7 +94,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is above or equal average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -106,7 +103,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is below or equal average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -115,7 +112,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is error</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -124,7 +121,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is not error</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -133,7 +130,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>begins with</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -142,7 +139,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>ends with</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -151,7 +148,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>contains</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -160,7 +157,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>does not contain</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -169,7 +166,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Cell value</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -178,7 +175,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is in bottom percent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -187,7 +184,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is an error code</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -196,7 +193,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is not an error code</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -205,7 +202,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is equal to</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -214,7 +211,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is less than</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -223,7 +220,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is greater than</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -232,7 +229,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is less than or equal to</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -241,7 +238,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is greater than or equal to</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -250,7 +247,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is not equal to</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -259,7 +256,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is between</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -268,7 +265,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is not between</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -277,7 +274,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is unique</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -286,7 +283,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is in top elements</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -295,7 +292,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is in bottom elements</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -304,7 +301,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is in top percent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -313,7 +310,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>~Home</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -322,7 +319,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Layout</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -331,7 +328,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Statistics</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -340,7 +337,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Ima_ge</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -349,7 +346,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Object</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -358,7 +355,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>E_xtension</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -367,7 +364,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>E~xtension</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -376,7 +373,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>~Tools</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -385,7 +382,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Returns a random number between 0 and 1, non-volatile.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -394,7 +391,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Returns a random integer between the numbers you specify, non-volatile.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -403,7 +400,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Bottom</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -412,7 +409,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The smallest integer returned.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -421,7 +418,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Top</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -430,7 +427,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The largest integer returned.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -439,7 +436,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Fraction</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -448,7 +445,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Category</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -457,7 +454,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select a category of contents.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -466,7 +463,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>General</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -475,7 +472,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Number</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -484,7 +481,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Percent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -493,7 +490,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Currency</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -502,7 +499,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Date </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -511,7 +508,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Time</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -520,7 +517,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Scientific</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -529,7 +526,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Boolean Value</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -538,7 +535,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Text</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -547,7 +544,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Display</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -556,7 +553,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Drag Mode</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -565,7 +562,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Insert as Hyperlink</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -574,7 +571,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Insert as Link</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -583,7 +580,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Insert as Copy</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -592,7 +589,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Bookmark</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -601,7 +598,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Values Only</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -610,7 +607,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Values &amp; Formats</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -619,7 +616,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Run immediately</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -628,7 +625,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>All</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -637,7 +634,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Numbers</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -646,7 +643,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Date &amp; time</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -655,7 +652,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Formats</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -664,7 +661,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Objects</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -673,7 +670,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Formulas</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -682,7 +679,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Comments</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -691,7 +688,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Don&#x27;t shift</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -700,7 +697,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Down</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -709,7 +706,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Transpose</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -718,7 +715,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Right</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -727,7 +724,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>As Link</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -736,7 +733,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Skip empty cells</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -745,7 +742,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>None</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -754,7 +751,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Subtract</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -763,7 +760,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Multiply</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -772,7 +769,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Divide</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -781,7 +778,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Highlighting</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -790,7 +787,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Input range:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -799,7 +796,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Output range:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -808,7 +805,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Data</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -817,7 +814,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Series:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -826,7 +823,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Insert Sparkline Group</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -835,7 +832,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Delete Sparkline</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -844,7 +841,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sparkline Dialog</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -853,7 +850,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Negative Points:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -862,7 +859,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Low Points:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -871,7 +868,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>High Points:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -880,7 +877,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Marker:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -889,7 +886,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>First Points:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -898,7 +895,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Last Points:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -907,7 +904,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Type:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -916,7 +913,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Line</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -925,7 +922,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Column</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -934,7 +931,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Stacked</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -943,7 +940,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Properties</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -952,7 +949,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Enable very large spreadsheets (16m rows, 16384 cols)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -961,7 +958,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Text orientation angle</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -970,7 +967,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Shrink to fit cell: On</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -979,7 +976,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Shrink to fit cell: Off</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -988,7 +985,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Vertically stacked: On</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -997,7 +994,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Vertically stacked: Off</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1006,7 +1003,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Wrap text automatically: On</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1015,7 +1012,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Wrap text automatically: Off</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1024,7 +1021,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Hyphenate: On</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1033,7 +1030,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Hyphenate: Off</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1042,7 +1039,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Indent: </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1051,7 +1048,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Formulas wildcards</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1060,7 +1057,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>If the value is TRUE or not given, the search row of the array represents a series of ranges, and must be sorted in ascending order.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1069,7 +1066,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sorted range lookup</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1078,7 +1075,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>If the value is TRUE or not given, the search column of the array represents a series of ranges, and must be sorted in ascending order.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1087,7 +1084,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Fi_lter</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1096,7 +1093,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Security Warning: Automatic update of external links has been disabled.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1105,7 +1102,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Delete Sparkline Group</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1114,7 +1111,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Edit Sparkline Group</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1123,7 +1120,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Group Sparklines</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1132,7 +1129,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Ungroup Sparklines</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1141,7 +1138,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Edit Sparkline</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1150,7 +1147,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Only allow updating if you trust this document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1159,7 +1156,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sparkline Data Range Dialog</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1168,7 +1165,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Data range:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1177,7 +1174,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Display X Axis</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1186,7 +1183,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Display Hidden</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1195,7 +1192,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Right To Left</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1204,7 +1201,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Display Empty Cells As:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1213,7 +1210,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Gap</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1222,7 +1219,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Zero</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1231,7 +1228,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Span</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1240,7 +1237,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Minimum Value:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1249,7 +1246,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Maximum Value:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1258,7 +1255,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Individual</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1267,7 +1264,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Custom</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1276,7 +1273,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Vertical Axis</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1285,7 +1282,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Line Width:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1294,7 +1291,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sparkline Data Range</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1303,7 +1300,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sparkline Properties</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1312,7 +1309,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Series:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1321,7 +1318,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Series:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1330,7 +1327,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Negative points:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1339,7 +1336,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Negative points:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1348,7 +1345,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>High points:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1357,7 +1354,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Low points:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1366,7 +1363,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>First point:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1375,7 +1372,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Last point:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1384,7 +1381,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Colors</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1393,7 +1390,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Line width:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1402,7 +1399,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>1,00</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1411,7 +1408,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Display empty cells as:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1420,7 +1417,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Span</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1429,7 +1426,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Display hidden</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1438,7 +1435,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Right-to-left</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1447,7 +1444,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Vertical maximum</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1456,7 +1453,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Vertical minimum:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1465,7 +1462,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Display X axis</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1474,7 +1471,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Axes</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1483,7 +1480,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Top to bottom (sort rows)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1492,7 +1489,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Left to right (sort columns)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1501,7 +1498,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Direction:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1510,7 +1507,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Range contains...</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1519,7 +1516,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Headers:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1528,7 +1525,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sort Options</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1537,7 +1534,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Go to Sheet</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1546,7 +1543,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>~Type a Sheet Name</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1555,7 +1552,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>~Sheets</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1564,7 +1561,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Type some letters of sheet name to find it.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1573,7 +1570,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Type a sheet name</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1582,7 +1579,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Type a sheet name</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1591,7 +1588,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Sheets</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1600,7 +1597,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Displays a list of all visible sheets in your spreadsheet document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1609,7 +1606,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the custom sort order that you want to apply. To define a custom sort order, choose Tools - Options - %PRODUCTNAME Calc - Sort Lists.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1618,7 +1615,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Locale:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1627,7 +1624,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the Locale to Use for Import</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1636,7 +1633,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Because the current formula separator settings conflict with the locale, the formula separators have been reset to their default values.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1645,7 +1642,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Thousands separator. If 0 or omitted the locale group separator is used else the separator is suppressed.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1654,7 +1651,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Converts text to a number, in a locale-independent way.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1663,7 +1660,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Convert also locale dependent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1672,7 +1669,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sorts the selection from the lowest value to the highest value. The sorting rules are given by the locale. You can define the sort rules on Data - Sort - Options.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1681,7 +1678,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Locale:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1690,7 +1687,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Import dBASE files</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1699,7 +1696,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>dBASE export</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1708,7 +1705,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>%1 R  × %2 C</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1717,7 +1714,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Array formula  %1 R × %2 C</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1726,7 +1723,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>To apply an AutoFormat,
 a table range of at least
 3 × 3 cells must be selected.</seg>
@@ -1739,7 +1736,7 @@ um intervalo da tabela de ao menos
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Range</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1748,7 +1745,7 @@ um intervalo da tabela de ao menos
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The value to return if all values in the included array are empty (filter returns nothing).</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1757,7 +1754,7 @@ um intervalo da tabela de ao menos
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The content of some cells may not be entirely visible. Recalculating row heights will make them visible, but may take some time.
 
 Do you want to recalculate all row heights now?</seg>
@@ -1770,7 +1767,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Defines a relative position in an array or range of cells after comparing values.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1779,7 +1776,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The value to be used for comparison.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1788,7 +1785,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Match Mode</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1797,7 +1794,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Document contains DRM content that is encrypted with an unknown encryption method. Only the un-encrypted content will be shown.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1806,7 +1803,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Optimal row height:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1815,7 +1812,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Define either we want to calculate the optimal row heights or we do not want at load time.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1824,7 +1821,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Filters an array based on a Boolean (True/False) array.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1833,7 +1830,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Range </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1842,7 +1839,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The array, or range to filter.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1851,7 +1848,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Include</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1860,7 +1857,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Include</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1869,7 +1866,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>A Boolean array whose height or width is the same as the array.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1878,7 +1875,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Result if empty</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1887,7 +1884,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The value to return if all values in the included array are empty (filter returns nothing)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1896,7 +1893,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>RANDARRAY function generates an array of random numbers between two values.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1905,7 +1902,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Min</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1914,7 +1911,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The minimum number you would like returned.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1923,7 +1920,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Max</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1932,7 +1929,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The maximum number you would like returned.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1941,7 +1938,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Whole number</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1950,7 +1947,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sorts the contents of a range or array.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1959,7 +1956,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The range, or array to sort.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1968,7 +1965,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sort index</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1977,7 +1974,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>A number indicating the row or column to sort by.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1986,7 +1983,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sort order</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1995,7 +1992,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>A number indicating the desired sort order; 1 for ascending order (default), -1 for descending order.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2004,7 +2001,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>By col</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2013,7 +2010,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>A logical value indicating the desired sort direction; FALSE to sort by row (default), TRUE to sort by column.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2022,7 +2019,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sorts the contents of a range or array based on the values in a corresponding range or array.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2031,7 +2028,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sort range</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2040,7 +2037,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sort range</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2049,7 +2046,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The array or range to sort.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2058,7 +2055,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sort by range </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2067,7 +2064,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Range 1, range 2,... are the arrays or ranges to sort on.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2076,7 +2073,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sort order </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2085,7 +2082,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Order 1, order 2,... are the orders to use for sorting. 1 for ascending, -1 for descending. Default is ascending.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2094,7 +2091,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>not between</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2103,7 +2100,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>duplicate</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2112,7 +2109,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>not duplicate</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2121,7 +2118,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>in top N elements</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2130,7 +2127,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>in bottom N elements</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2139,7 +2136,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>in top N percent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2148,7 +2145,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>in bottom N percent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2157,7 +2154,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>above average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2166,7 +2163,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>below average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2175,7 +2172,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>above or equal average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2184,7 +2181,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>below or equal average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2193,7 +2190,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>By col</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2202,7 +2199,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Data Provider</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2211,7 +2208,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sort by range </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2220,7 +2217,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Range 1, range 2,... are the arrays or ranges to sort on.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2229,7 +2226,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sort order </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2238,7 +2235,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sort order</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2247,7 +2244,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>A number indicating the desired sort order; 1 for ascending order (default), -1 for descending order.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2256,7 +2253,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Order 1, order 2,... are the orders to use for sorting. 1 for ascending, -1 for descending. Default is ascending.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2265,7 +2262,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Allows you to generate a list of sequential numbers in an array, such as 1, 2, 3, 4.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2274,7 +2271,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Rows</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2283,7 +2280,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The number of rows to return.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2292,7 +2289,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The number of columns to return.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2301,7 +2298,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Start</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2310,7 +2307,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The first number in the sequence.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2319,7 +2316,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Step</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2328,7 +2325,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The amount to increment each subsequent value in the array.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2337,7 +2334,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Number of rows</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2346,7 +2343,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Specify the number of rows to insert.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2355,7 +2352,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Number of columns</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2364,7 +2361,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Specify the number of columns to insert.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2373,7 +2370,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Edit cell background highlighting</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2382,7 +2379,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Edit cell background highlighting</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2391,7 +2388,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Edit cell background highlighting</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2400,7 +2397,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Mark the Edit cell background highlighting checkbox to show cell frame background color as the edit cell background.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2409,7 +2406,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>0 - Exact match. Will return #N/A if no match. (default).
 -1 - Exact match or the next smaller item.
 1 - Exact match or the next larger item.
@@ -2426,7 +2423,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Return a whole number or a decimal value.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2435,7 +2432,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Enter the cell range of the data fopr the sparklines.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2444,7 +2441,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the cell range to receive the sparkline.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2453,7 +2450,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the main color for the sparklines.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2462,7 +2459,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Check and select the color for negative points.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2471,7 +2468,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the color for the negative points.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2480,7 +2477,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>check and select the color for high points.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2489,7 +2486,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the color for the high point.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2498,7 +2495,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Check and select the color for low points.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2507,7 +2504,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the color for the low point.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2516,7 +2513,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Check and select the color for data points (line type only).</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2525,7 +2522,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the color for the data points markers.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2534,7 +2531,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Check and select the color for first point.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2543,7 +2540,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the color for the first point.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2552,7 +2549,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Check and select the color for last point.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2561,7 +2558,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the color for the last point.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2570,7 +2567,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Enter the line thickness number manually or use the spin button.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2579,7 +2576,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Display empty cells as:  Gap - the missing data is not displayed. The line type discontinues in the gap and the column is not displayed.   Zero -  the missing data is displayed as value zero. Span - for line type only, draws a continuous line connecting the previous value to the next value.
 </seg>
 </tuv>
@@ -2590,7 +2587,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Check to show all columns or stacks in the range even when the data is in hidden cells. If unchecked, the hidden data is ignored.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2599,7 +2596,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Check to have the sparklines show the data in reverse order.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2608,7 +2605,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the sparkline type in the drop-down list. Choices are:    Line - draws a line between data values.    Column - draws a bar for each data value.    Stacked -  also known as win/loss. Displays equally sized bars indicating positive and negative values.
 </seg>
 </tuv>
@@ -2619,7 +2616,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg> Individual: sets automatically the minimum value for each sparkline based on the sparkline data range values.    Group: sets the minimum value based on the lower and higher values found in the group of sparklines.  Custom: enter the minimum value for the sparkline group.
 </seg>
 </tuv>
@@ -2630,7 +2627,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Spin or enter number to set the minimum value for the Y axis.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2639,7 +2636,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg> Individual: sets automatically the maximum value for each sparkline based on the sparkline data range values.    Group: sets the maximum value based on the lower and higher values found in the group of sparklines.  Custom: enter the maximum value for the sparkline group.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2648,7 +2645,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Spin or enter number to set the maximum value for the Y axis.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2657,7 +2654,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Check to show the X axis for sparklines.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2666,7 +2663,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Edit cell highlighting</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2675,7 +2672,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Mark this box to show highlighted background when the cell is in edit mode.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2684,7 +2681,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Comment authorship</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2693,7 +2690,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Case _sensitive</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2702,7 +2699,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Value 1; value 2; ... are arguments representing a sample taken from the population.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2711,7 +2708,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Generates a list of sequential numbers in an array, such as 1, 2, 3, 4.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2720,7 +2717,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Generates an array of random numbers between two limit values.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2729,7 +2726,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Generates an array of random numbers between two limit values.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2738,7 +2735,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The lower limit of the generated numbers.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2747,7 +2744,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The upper limit of the generated numbers.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2756,7 +2753,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Integers</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2765,7 +2762,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Return whole numbers (TRUE) or decimal values (FALSE).</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2774,7 +2771,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Returns a list of unique values from a range or array.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2783,7 +2780,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Array</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2792,7 +2789,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The range or array from which to return unique values.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2801,7 +2798,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Logical value indicating how to compare data: TRUE - compares data across columns. FALSE or omitted (default) - compares data across rows.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2810,7 +2807,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Uniqueness</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2819,7 +2816,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Logical value that defines what values are considered unique: TRUE - returns values that occur only once. FALSE or omitted (default) - returns all distinct (different) values in the range or array.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2828,7 +2825,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Shrink</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2837,7 +2834,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Enter the cell range containing the data for the sparklines.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2846,7 +2843,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Check and select the color for high points.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2855,7 +2852,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Display empty cells as: Gap - the missing data is not displayed. The line type discontinues in the gap and the column is not displayed. Zero - the missing data is displayed as value zero. Span - for line type only, draws a continuous line connecting the previous value to the next value.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2864,7 +2861,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the sparkline type in the drop-down list. Choices are: Line - draws a line between data values.  Column - draws a bar for each data value. Stacked - also known as win/loss: displays equally sized bars indicating positive and negative values.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2873,7 +2870,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Individual: sets automatically the minimum value for each sparkline based on the sparkline data range values. Group: sets the minimum value based on the lower and higher values found in the group of sparklines. Custom: enter the minimum value for the sparkline group.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2882,7 +2879,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Individual: sets automatically the maximum value for each sparkline based on the sparkline data range values. Group: sets the maximum value based on the lower and higher values found in the group of sparklines. Custom: enter the maximum value for the sparkline group.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2891,7 +2888,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Specifies that a small triangle in the top right corner of the cell indicates that a comment exists.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2900,7 +2897,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Draws a blue triangle in the bottom-left corner of a cell that contains a formula. When pointing over the blue triangle, the formula is shown in a tool tip even if a different cell is selected.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2909,7 +2906,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Specifies whether the author of the comment is displayed above the comment.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2918,7 +2915,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Specifies when grid lines will be displayed. </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2927,7 +2924,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Shows the pointer as defined by the icon theme, typically as a fat cross.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2936,7 +2933,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Shows the pointer as the system default, typically as an arrow.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2945,7 +2942,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Defines if objects and graphics are shown or hidden.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2954,7 +2951,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Defines if charts in your document are shown or hidden.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2963,7 +2960,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Defines if drawing objects in your document are shown or hidden.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2972,7 +2969,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>If this box is checked, a Search Results window appears when you choose Find All in the Find Box, which summarizes the search results.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2981,7 +2978,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Return integer (TRUE) or decimal (FALSE) values.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2990,7 +2987,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The LET function assigns names to calculation results. This allows storing intermediate calculations, values, or defining names inside a formula. These names only apply within the scope of the LET function.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2999,7 +2996,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Name 1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3008,7 +3005,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The first name to assign. Must start with a letter. Cannot be the output of a formula or conflict with range syntax.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3017,7 +3014,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Name value </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3026,7 +3023,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Name value 1, Name value 2,... The value or calculation to assign to Name.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3035,7 +3032,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Calculation or Name </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3044,7 +3041,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>A calculation that uses all names within the LET function. This must be the last argument in the LET function. Or a second Name to assign to a second Name value. If a second Name is specified, Name value 2 and Calculation or Name 3 become required.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3053,7 +3050,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Integer</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3062,7 +3059,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>0 - Exact match. Will return #N/A if no match. (default).
 -1 - Exact match or the next smaller item.
 1 - Exact match or the next larger item.
@@ -3077,7 +3074,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>1 - Search from the first value (default).
 -1 - Search from the last value (reverse).
 2 - Binary search values sorted in ascending order.
@@ -3092,7 +3089,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Extended vertical search and reference to indicated cells.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3101,7 +3098,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>If given, return given text, otherwise return #N/A.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3110,7 +3107,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Match Mode</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3119,7 +3116,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>1 - Search from the first value (default).
 -1 - Search from the last value (reverse).
 2 - Binary search values sorted in ascending order.
@@ -3134,7 +3131,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The value to be found in the first column.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3143,7 +3140,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>%1 of %2 records found</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3152,7 +3149,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Grand</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3161,7 +3158,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Next month</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3170,7 +3167,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Opens the solver’s Options dialog.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3179,7 +3176,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>An internal error occurred while running the solver engine.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3188,7 +3185,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Invalid constraint.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3197,7 +3194,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Unable to load solver engine.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3206,7 +3203,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Invalid objective cell.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3215,7 +3212,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Invalid variable cells.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3224,7 +3221,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Invalid target value.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3233,7 +3230,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Warning!</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3242,7 +3239,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>No data found to operate on.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3251,7 +3248,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Data contains row headers</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3260,7 +3257,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Data contains column headers</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3269,7 +3266,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Handle Duplicate Records</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3278,7 +3275,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Okay</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3287,7 +3284,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Ca_ncel</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3296,7 +3293,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Orientation:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3305,7 +3302,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Strings without quotes are interpreted as defined names or references or column/row labels.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3314,7 +3311,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Returns TRUE if the value truncated to integer is even.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3323,7 +3320,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Returns TRUE if the value truncated to integer is odd.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3332,7 +3329,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Font color</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3341,7 +3338,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>More than %1 results found (stopped counting)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3350,7 +3347,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Font Color</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3359,7 +3356,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Inserts the contents of the clipboard into the current document in a format that you can specify.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3368,7 +3365,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Vertical maximum:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3377,7 +3374,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the comparison operator that you want to use.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3386,7 +3383,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Shrink print range(s) on number of pages</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3395,7 +3392,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Shrink print range(s) to width/height</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3404,7 +3401,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Decimal places. The number of fixed decimal places that are to be displayed. Default 2.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3413,7 +3410,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Returns a random integer between the specified Bottom and Top values (both inclusive), non-volatile.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3422,7 +3419,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The smallest integer that can be returned.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3431,7 +3428,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The largest integer that can be returned.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3440,7 +3437,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Round the number to a given number of Decimal Places.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3449,7 +3446,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Show error _message when invalid values are entered</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3458,7 +3455,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Action:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3467,7 +3464,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Title:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3476,7 +3473,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Error message:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3485,7 +3482,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Browse...</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3494,7 +3491,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Stop</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3503,7 +3500,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Warning</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3512,7 +3509,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Information</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3521,7 +3518,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Search items...</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3530,7 +3527,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>All</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3539,7 +3536,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Show only the current item.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3548,7 +3545,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Hide only the current item.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3557,7 +3554,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Show input help when cell is selected</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3566,7 +3563,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Input help:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3575,7 +3572,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Spinner</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3584,7 +3581,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Inserts the cell range as a link, so that changes made to the cells in the source file are updated in the target file. To ensure that changes made to empty cells in the source file are updated in the target file, ensure that the &quot;Paste All&quot; option is also selected.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3593,7 +3590,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Determines the value by which the series of the selected type increases by each step.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3602,7 +3599,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Produces the Fourier analysis of a data set by computing the Discrete Fourier Transform (DFT) of an input array of complex numbers using a couple of Fast Fourier Transform (FFT) algorithms.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3611,7 +3608,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Copies the entire sheet into an additional scenario sheet.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3620,7 +3617,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>With the option set, expanding a selection (with Ctrl + Shift + Down/Up) jumps to the end of the range in the column that was added as last to the initial selection. When the option is not set, expanding a selection (with Ctrl + Shift + Down/Up) jumps to the end of the range in the column where selecting the cell range was started. The same of course applies when extending a selection on rows, with Ctrl + Shift + Left/Right.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3629,7 +3626,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sorts first by uppercase letters and then by lowercase letters. For Asian languages, special handling applies.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3638,7 +3635,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Omits the first row or the first column in the selection from the sort.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3647,7 +3644,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Preserves the current cell formatting.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3656,7 +3653,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Copies the sorted list to the cell range that you specify.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3665,7 +3662,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select a named cell range where you want to display the sorted list, or enter a cell range in the input box.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3674,7 +3671,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Enter the cell range where you want to display the sorted list, or select a named range from the list.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3683,7 +3680,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Click here and then select the custom sort order that you want.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3692,7 +3689,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the custom sort order that you want to apply. To define a custom sort order, choose Tools - Options - %PRODUCTNAME Calc - Sort Lists .</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3701,7 +3698,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select a sorting option for the language.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3710,7 +3707,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the language for the sorting rules.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3719,7 +3716,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sorts rows by the values in the active columns of the selected range.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3728,7 +3725,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sorts columns by the values in the active rows of the selected range.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3737,7 +3734,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sets additional sorting options.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3746,7 +3743,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Invalid name. Start with a letter, use only letters, numbers and underscore.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3755,7 +3752,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Remove</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3764,7 +3761,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Heading</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3773,7 +3770,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Heading 1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3782,7 +3779,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Heading 2</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3791,7 +3788,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Note</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3800,7 +3797,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Footnote</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3809,7 +3806,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Hyperlink</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3818,7 +3815,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Status</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3827,7 +3824,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Good</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3836,7 +3833,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Neutral</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3845,7 +3842,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Bad</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3854,7 +3851,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Warning</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3863,7 +3860,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Error</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3872,7 +3869,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Accent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3881,7 +3878,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Accent 1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3890,7 +3887,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Accent 2</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3899,7 +3896,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Accent 3</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3908,7 +3905,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Displayed Value</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3917,7 +3914,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>CPU Threading Settings</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3926,7 +3923,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Formulas Wildcards</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3935,7 +3932,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Document Protection</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3944,7 +3941,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sheet Protection</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3953,7 +3950,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select all columns</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3962,7 +3959,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Pattern</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3971,7 +3968,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Accent 1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3980,7 +3977,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Accent 2</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3989,7 +3986,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Accent 3</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3998,7 +3995,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Show error _message when invalid values are entered</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4007,7 +4004,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Show only the current item.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4016,7 +4013,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Hide only the current item.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4025,7 +4022,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Default</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4034,7 +4031,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Compares expression against list of value/result pairs, and returns result for first value that matches the expression.  If expression does not match any value, a default result is returned, if it is placed as final item in parameter list without a value.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4043,7 +4040,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Value to be compared against value1…valueN (N ≤ 127)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4052,7 +4049,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Value to compare against expression. If no result is given, then value is returned as default result.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4061,7 +4058,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Press Enter to paste and clear clipboard</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4070,7 +4067,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Reset All</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4079,7 +4076,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sort Descending</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4088,7 +4085,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Group</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4097,7 +4094,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Computes the Discrete Fourier Transform (DFT) of an array</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4106,7 +4103,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Percent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4115,7 +4112,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Add</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4124,7 +4121,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Apply</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4133,7 +4130,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Cancel</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4142,7 +4139,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Close</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4151,7 +4148,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Delete</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4160,7 +4157,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Edit</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4169,7 +4166,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Help</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4178,7 +4175,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_New</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4187,7 +4184,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_No</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4196,7 +4193,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_OK</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4205,7 +4202,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Remove</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4214,7 +4211,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Reset</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4223,7 +4220,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Yes</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4232,7 +4229,7 @@ Deseja recalcular todas as alturas de linha agora?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Invalid sheet name.
 
 The sheet name must not:
@@ -4253,7 +4250,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Up</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4262,7 +4259,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Do_wn</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4271,7 +4268,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the way the minimum is set</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4280,7 +4277,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Selct the way the maximum is set</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4289,7 +4286,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Enter the value for the minimum</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4298,7 +4295,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Enter the value for the maximum</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4307,7 +4304,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the color for the positive values</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4316,7 +4313,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the color for the negative values</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4325,7 +4322,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select if the fill in color is solid or gradient.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4334,7 +4331,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the positions of vertical axis in the cell to start fill.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4343,7 +4340,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the positions of vertical axis in the cell to start fill.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4352,7 +4349,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Set the color of the vertical axis</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4361,7 +4358,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Set the minimum bar length in percentage with respect to the cell</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4370,7 +4367,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Set the maximum bar length in percentage with respect to the cell</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4379,7 +4376,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Set the minimum bar length in percentage with respect to the cell</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4388,7 +4385,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select to have only the bar visible and have value invisible</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4397,7 +4394,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Paste</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4406,7 +4403,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_All</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4415,7 +4412,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_All</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4424,7 +4421,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Ob_jects</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4433,7 +4430,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>F_ormulas</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4442,7 +4439,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Paste</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4451,7 +4448,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Multiply</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4460,7 +4457,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Divide</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4469,7 +4466,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Down</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4478,7 +4475,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Values Only</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4487,7 +4484,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Values &amp; _Formats</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4496,7 +4493,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Formats Onl_y</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4505,7 +4502,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Formats Only</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4514,7 +4511,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Transpose All</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4523,7 +4520,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Transpose All</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4532,7 +4529,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Run immediately</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4541,7 +4538,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Presets</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4550,7 +4547,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>As _Link</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4559,7 +4556,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Trans_pose</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4568,7 +4565,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Skip empty cells</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4577,7 +4574,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Options</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4586,7 +4583,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Clear</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4595,7 +4592,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Last Used</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4604,7 +4601,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Value h_ighlighting</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4613,7 +4610,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Returns the alpha percentile of a sample.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4622,7 +4619,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The percentile value between 0 and 1, inclusive.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4631,7 +4628,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Keep asking during this session</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4640,7 +4637,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the way the maximum is set</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4649,7 +4646,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>List Box</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4658,7 +4655,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the layout mode for the field in the list box.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4667,7 +4664,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>If you selected a file by using the Browse button, the sheets contained in it are displayed in the list box. The file path is displayed below this box. Select the sheet to be inserted from the list box.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4676,7 +4673,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select a scaling mode from the list box. Appropriate controls will be shown below the list box.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4685,7 +4682,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Text color</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4694,7 +4691,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Background color</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4703,7 +4700,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Live data stream for spreadsheets</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4712,7 +4709,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>If checked empty pages that have no cell contents or draw objects are not printed.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4721,7 +4718,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Theme Change</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4730,7 +4727,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Theme Color Change</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4739,7 +4736,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Enable the dialog again at Tools - Options - %PRODUCTNAME Calc - View</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4748,7 +4745,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Lock</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4757,7 +4754,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Hea_der:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4766,7 +4763,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Apply</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4775,7 +4772,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Preview</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4784,7 +4781,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Transformations</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4793,7 +4790,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Apply Changes</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4802,7 +4799,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>No fill</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4811,7 +4808,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Automatic</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4820,7 +4817,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Columns</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4829,7 +4826,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Delete</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4838,7 +4835,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Okay</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4847,7 +4844,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Cancel</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4856,7 +4853,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Database Range:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4865,7 +4862,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Data Provider:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4874,7 +4871,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>URL:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4883,7 +4880,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Browse</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4892,7 +4889,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Id / Xpath:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4901,7 +4898,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Source</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4910,7 +4907,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Add</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4919,7 +4916,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Add Transformations</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4928,7 +4925,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Selected cell ranges contain labels.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4937,7 +4934,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Delete Columns</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4946,7 +4943,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Cols(; Separated)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4955,7 +4952,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Enter Value</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4964,7 +4961,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Column</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4973,7 +4970,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Find</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4982,7 +4979,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Replace With</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -4991,7 +4988,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Footer (first)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5000,7 +4997,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Header (first)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5009,7 +5006,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Separator</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5018,7 +5015,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Enter a single range that contains multiple independent variable observations (along columns or rows)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5027,7 +5024,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The range that contains the dependent variable.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5036,7 +5033,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The reference of the top left cell of the range where the results will be displayed.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5045,7 +5042,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Find a straight line in the form of y = a.x + b, where a is the slope and b is the intercept that best fits the data.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5054,7 +5051,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Find a logarithmic curve in the form of  y = a.ln(x) + b, where a is the slope,  b is the intercept and ln(x)  is the natural logarithm of x, that best fits the data.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5063,7 +5060,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Find a power curve in the form of y = a.x^b, where a is the coefficient, b is the power that best fits the data.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5072,7 +5069,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The residuals give information on how far the actual data points deviate from the predicted data points, based on the regression model.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5081,7 +5078,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>A value indicating a confidence level for the calculated prediction interval.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5090,7 +5087,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Forces the regression curve to cross the origin.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5099,7 +5096,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Replace with</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5108,7 +5105,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Footers</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5117,7 +5114,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Footer (right)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5126,7 +5123,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Footer (left)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5135,7 +5132,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Headers</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5144,7 +5141,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Header (right)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5153,7 +5150,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Header (left)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5162,7 +5159,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Footer (rest)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5171,7 +5168,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Header (rest)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5180,7 +5177,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Descending Order</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5189,7 +5186,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Ascending Order</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5198,7 +5195,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Split Column</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5207,7 +5204,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Swap Rows Action</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5216,7 +5213,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>First Row</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5225,7 +5222,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Second Row</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5234,7 +5231,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>E_valuate formulas</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5243,7 +5240,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>If enabled, blank cells in source will not override the target.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5252,7 +5249,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>When this option is enabled, cell content starting with an &#x27;=&#x27; equal sign is evaluated as formula expression. Otherwise, content is imported as text.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5261,7 +5258,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Shift cells left</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5270,7 +5267,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Find text</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5279,7 +5276,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Specifies that only literal strings are used when searching and also for character string comparisons.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5288,7 +5285,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>If enabled, cells starting with &#x27;=&#x27; will be evaluated as formulas.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5297,7 +5294,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Presets</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5306,7 +5303,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Pointe_r:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5315,7 +5312,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Pastes numbers, text, dates and the results of formulas.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5324,7 +5321,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Pastes cell values, formula results and formats applied to cells.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5333,7 +5330,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Pastes only the formats from the source range without changing the values in the destination range.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5342,7 +5339,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Pastes cell contents transposed, hence columns are converted to rows.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5351,7 +5348,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Check this option to run the preset immediately. Uncheck it to manipulate the options before clicking OK.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5360,7 +5357,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Largest %</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5369,7 +5366,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Smallest %</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5378,7 +5375,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Hairline (%s pt)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5387,7 +5384,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Very thin (%s pt)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5396,7 +5393,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Thin (%s pt)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5405,7 +5402,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Medium (%s pt)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5414,7 +5411,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Thick (%s pt)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5423,7 +5420,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Extra thick (%s pt)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5432,7 +5429,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Double Hairline (%s pt)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5441,7 +5438,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Thin/Medium (%s pt)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5450,7 +5447,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Medium/Hairline (%s pt)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5459,7 +5456,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Medium/Medium (%s pt)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5468,7 +5465,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Largest</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5477,7 +5474,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Smallest</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5486,7 +5483,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Text Color</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5495,7 +5492,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Background Color</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5504,7 +5501,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>No Fill</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5513,7 +5510,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Keep this enabled for interoperability with Microsoft Excel or for better performance</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5522,7 +5519,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Contains</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5531,7 +5528,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Does not contain</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5540,7 +5537,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Begins with</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5549,7 +5546,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Does not begin with</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5558,7 +5555,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Ends with</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5567,7 +5564,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Does not end with</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5576,7 +5573,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Insert _hyperlink for the cell, not for the text in the cell.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5585,7 +5582,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Hyperlinks</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5594,7 +5591,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Detect numbers with _scientific notation</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5603,7 +5600,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>%PRODUCTNAME can insert multiple hyperlinks in a cell as text fields, but multiple hyperlinks in a cell cannot be saved to Excel file formats. This option prevents inserting multiple hyperlinks in a cell when Excel files are edited, in order to be interoperable with Excel.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5612,7 +5609,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>By default, Excel allows only one hyperlink per cell. (Works only if Excel file format is used.)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5621,7 +5618,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Search all functions</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5630,7 +5627,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Line thickness:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5639,7 +5636,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Get some web-content from a URI.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5648,7 +5645,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Calc can insert multiple hyperlinks in a cell as text fields, but multiple hyperlinks in a cell cannot be saved to Excel file formats. This option prevents inserting multiple hyperlinks in a cell when Excel files are edited, in order to be interoperable with Excel.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5657,7 +5654,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Selected: %1, %2</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5667,7 +5664,7 @@ O nome não pode:
 
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>%1 of %2 records found</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5676,7 +5673,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Random (%1)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5685,7 +5682,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>equal to</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5694,7 +5691,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>less than</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5703,7 +5700,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>greater than</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5712,7 +5709,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>equal or less than</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5721,7 +5718,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>equal or less than</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5730,7 +5727,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>equal or greater than</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5739,7 +5736,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>not equal to</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5748,7 +5745,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>between</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5757,7 +5754,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>with error </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5766,7 +5763,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>without error </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5775,7 +5772,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>containing text</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5784,7 +5781,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>not containing text</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5793,7 +5790,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Saves all changes and closes dialog.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5802,7 +5799,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Closes dialog and discards all changes.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5811,7 +5808,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Click the Shrink icon to reduce the dialog to the size of the input field. It is then easier to mark the required reference in the sheet. The icons then automatically convert to the Maximize icon. Click it to restore the dialog to its original size.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5820,7 +5817,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The number of characters for the start text.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5829,7 +5826,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Column/Row highlighting</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5838,7 +5835,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Mark the Column/row highlighting box to show row/column highlighting for the row and column of the active cell.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5847,7 +5844,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Failed to insert cells</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5856,7 +5853,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Active content is disabled in the security settings. It is not possible to allow updating.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5865,7 +5862,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Anchor</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5874,7 +5871,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Anchor</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5883,7 +5880,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Specifies whether the anchor icon is displayed when an inserted object, such as a graphic, is selected.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5892,7 +5889,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Apply conditional formatting...</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5901,7 +5898,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>with</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5910,7 +5907,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Apply conditional formatting to cells: %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5919,7 +5916,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Range:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5928,7 +5925,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The database range has a row for totals.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5937,7 +5934,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Similar</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5946,7 +5943,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values above or equal average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5955,7 +5952,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values below or equal average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5964,7 +5961,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values below or equal average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5973,7 +5970,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values have error</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5982,7 +5979,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values don&#x27;t have error</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -5991,7 +5988,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values begin with</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6000,7 +5997,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values end with</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6009,7 +6006,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is in last year</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6018,7 +6015,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is in last year</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6027,7 +6024,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is in next year</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6036,7 +6033,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Condition</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6045,7 +6042,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Formula is</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6054,7 +6051,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Date is</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6063,7 +6060,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is less than</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6072,7 +6069,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is not equal to</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6081,7 +6078,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is in top N elements</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6090,7 +6087,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is in bottom N elements</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6099,7 +6096,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is in top N percent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6108,7 +6105,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is in bottom N percent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6117,7 +6114,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is above average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6126,7 +6123,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is below average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6135,7 +6132,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is above or equal average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6144,7 +6141,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is above or equal average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6153,7 +6150,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>is below or equal average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6162,7 +6159,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Here you can add formula for conditional formatting.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6171,7 +6168,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Today</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6180,7 +6177,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Yesterday</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6189,7 +6186,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Tomorrow</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6198,7 +6195,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Last 7 days</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6207,7 +6204,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>This week</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6216,7 +6213,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Last week</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6225,7 +6222,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Next week</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6234,7 +6231,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>This month</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6243,7 +6240,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Last month</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6252,7 +6249,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Next month</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6261,7 +6258,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>This year</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6270,7 +6267,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Last year</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6279,7 +6276,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Next year</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6288,7 +6285,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Enter the first value of the range or text for comparison and formatting.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6297,7 +6294,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Enter the second value of the range for comparison and formatting.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6306,7 +6303,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Apply cell style</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6315,7 +6312,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>New Style...</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6324,7 +6321,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Cell style to apply when conditions are met.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6333,7 +6330,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Highlight cells if %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6342,7 +6339,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Range of cells for conditional formatting.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6351,7 +6348,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Example</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6360,7 +6357,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Available database ranges</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6369,7 +6366,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Search and Sort functions by similarity</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6378,7 +6375,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Search and Sort functions by similarity</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6387,7 +6384,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Go to Function&#x27;s Help Page</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6396,7 +6393,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Show this message again</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6405,7 +6402,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Only the active sheet was saved.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6414,7 +6411,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Warning image</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6423,7 +6420,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Warn when saving only the active sheet</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6432,7 +6429,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Specifies whether a warning box informs when saving was applied to only the active sheet.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6441,7 +6438,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Borders</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6450,7 +6447,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Accent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6459,7 +6456,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Error: No value</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6468,7 +6465,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Bottom 10</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6477,7 +6474,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Filter by Color</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6486,7 +6483,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Filter by Condition</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6495,7 +6492,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Product</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6504,7 +6501,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Stdev</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6513,7 +6510,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Var</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6522,7 +6519,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Add row</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6531,7 +6528,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Remove row</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6540,7 +6537,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Specifies that the search criteria you set for the Calc database functions must match the whole cell exactly. When both, the Search criteria = and &lt;&gt; must apply to whole cells box and the Enable wildcards in formulas box are marked, Calc behaves exactly as Microsoft Excel when searching cells in the database functions.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6549,7 +6546,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Defines compatibility options for Calc.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6558,7 +6555,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Defines formula syntax options and loading options for Calc.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6567,7 +6564,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>If checked, empty pages that have no cell contents or drawing objects are not printed.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6576,7 +6573,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Data source registered in Calc</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6585,7 +6582,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Uses a table or query in a database that is registered in Calc as the data source for the pivot table.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6594,7 +6591,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the custom sort order that you want to apply. To define a custom sort order, choose Tools - Options - Calc - Sort Lists .</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6603,7 +6600,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Uses a custom sorting order that you defined in the Options dialog box at Calc - Sort Lists.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6612,7 +6609,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Specifies that a small rectangle in the top right corner of the cell indicates that a comment exists. The comment will be shown only when you enable tips under General in the Options dialog box.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6621,7 +6618,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Show the pointer as defined in the icon theme, typically as fat cross.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6630,7 +6627,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Show the pointer as system default, typically an arrow pointer.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6639,7 +6636,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Defines which elements of the Calc main window are displayed. You can also show or hide highlighting of values in tables.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6648,7 +6645,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>%PRODUCTNAME Calc found an error in the formula entered.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6657,7 +6654,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Do you want to accept the correction proposed below?</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6666,7 +6663,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>CountA</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6675,7 +6672,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>StdevP</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6684,7 +6681,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>VarP</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6693,7 +6690,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Column %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6702,7 +6699,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Row</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6711,7 +6708,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Rows:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6720,7 +6717,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Columns:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6729,7 +6726,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Compare by:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6738,7 +6735,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Measure of password strength</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6747,7 +6744,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Delete columns with unprotected cells</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6756,7 +6753,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Delete rows with unprotected cells</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6765,7 +6762,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Use AutoFilter</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6774,7 +6771,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Use Pivot Table and Pivot Chart</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6783,7 +6780,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Open Documents</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6792,7 +6789,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Lists currently open spreadsheets.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6801,7 +6798,7 @@ O nome não pode:
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>AutoCalculate: Off
 Click to enable.</seg>
 </tuv>
@@ -6812,7 +6809,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Highlight cells with values %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6821,7 +6818,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Click here to select all cells</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6830,7 +6827,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>1899-12-30 (defa_ult)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6839,7 +6836,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Value 0 corresponds to 1899-12-30</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6848,7 +6845,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sets 1899-12-30 as day zero.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6857,7 +6854,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>1900-01-01 (Star_Calc 1.0)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6866,7 +6863,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Value 0 corresponds to 1900-01-01</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6875,7 +6872,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sets 1900-01-01 as day zero. Use this setting for StarCalc 1.0 spreadsheets containing date entries.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6884,7 +6881,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_1904-01-01</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6893,7 +6890,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>0 corresponds to 1904-01-01</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6902,7 +6899,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sets 1904-01-01 as day zero. Use this setting for spreadsheets that are imported in a foreign format.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6911,7 +6908,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Highlight cell in edit mode</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6920,7 +6917,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Detect scientific num_bers</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6929,7 +6926,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>When this option is enabled, Calc will automatically detect numbers in scientific notation in addition to basic decimal numbers.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6938,7 +6935,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Format _quoted field as text</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6947,7 +6944,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Detect scientific n_otation</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6956,7 +6953,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Grand Average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6965,7 +6962,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Grand Count</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6974,7 +6971,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Grand Max</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6983,7 +6980,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Grand Min</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -6992,7 +6989,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Grand Product</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7001,7 +6998,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Grand StdDev</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7010,7 +7007,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Grand Sum</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7019,7 +7016,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Grand Var</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7028,7 +7025,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Formula indicator and hint</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7037,7 +7034,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Bottom 10</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7046,7 +7043,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Edit Drawing Style</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7055,7 +7052,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Drawing Styles</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7064,7 +7061,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Calculates the t-test.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7073,7 +7070,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The type of the t-test.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7082,7 +7079,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>All Styles</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7091,7 +7088,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Hidden Styles</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7100,7 +7097,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Applied Styles</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7109,7 +7106,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Custom Styles</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7118,7 +7115,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Unknown Author</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7127,7 +7124,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>0.05</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7136,7 +7133,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Drawing Style</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7145,7 +7142,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Standard</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7154,7 +7151,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Organizer</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7163,7 +7160,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Area</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7172,7 +7169,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Shadowing</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7181,7 +7178,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Transparency</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7190,7 +7187,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Font</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7199,7 +7196,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Font Effects</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7208,7 +7205,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Indents &amp; Spacing</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7217,7 +7214,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Text Animation</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7226,7 +7223,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Dimensioning</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7235,7 +7232,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Alignment</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7244,7 +7241,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Asian Typography</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7253,7 +7250,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Tabs</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7262,7 +7259,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Shows a list of all valid strings or values to select from.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7271,7 +7268,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Enter the message that you want to display when the cell or cell range is selected.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7280,7 +7277,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Trim input range to actual data content</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7289,7 +7286,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select Field</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7298,7 +7295,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Include boundary row(s) containing only images</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7307,7 +7304,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Row Labels</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7316,7 +7313,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Column Labels</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7325,7 +7322,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Error: No code or intersection</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7334,7 +7331,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Include boundary column(s) containing only comments</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7343,7 +7340,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Include boundary row(s) containing only comments</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7352,7 +7349,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Include boundary column(s) containing only images</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7361,7 +7358,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Show expand/collapse buttons</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7370,7 +7367,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select this check box to show expand/collapse buttons for field members</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7379,7 +7376,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Compact layout</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7388,7 +7385,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sort by Color</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7397,7 +7394,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Poisson</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7406,7 +7403,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Are you sure you want to delete the selected scenario?</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7415,7 +7412,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Prints vertically from the left column to the bottom of the sheet.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7424,7 +7421,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Are you sure you trust this document?</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7433,7 +7430,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Links to remote locations can be constructed that transmit local data to the remote server.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7442,7 +7439,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Spinner</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7451,7 +7448,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Show All Comments</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7460,7 +7457,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Hide All Comments</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7469,7 +7466,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Comment</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7478,7 +7475,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Too many columns in the data form.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7487,7 +7484,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Extended vertical search and reference to indicated cells.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7496,7 +7493,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Search criterion</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7505,7 +7502,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The value to be found in the first column.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7514,7 +7511,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Search Array</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7523,7 +7520,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The array or range to search.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7532,7 +7529,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Result Array</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7541,7 +7538,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>The array or range to return.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7550,7 +7547,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Result if not found</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7559,7 +7556,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>If given, return given text, otherwise return #N/A.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7568,7 +7565,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Match Mode</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7577,7 +7574,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>0, -1, 1 or 2 </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7586,7 +7583,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Search Mode</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7595,7 +7592,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>1, -1, 2 or -2 </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7604,7 +7601,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Edit Comment</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7613,7 +7610,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Delete Comment</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7622,7 +7619,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sorts first by uppercase letters and then by lowercase letters. For Asian locales, special handling applies.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7631,7 +7628,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Locale</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7640,7 +7637,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select the locale for the sorting rules.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7649,7 +7646,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select a sorting option for the locale.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7658,7 +7655,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Scale</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7667,7 +7664,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Invalid sheet reference. Ensure the inserted expression is a valid print range.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7676,7 +7673,7 @@ Clique para ativar.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Applying AutoFormat to the selected range (more than one million cells) may take a long time.
 Do you want to proceed?</seg>
 </tuv>
@@ -7687,7 +7684,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values equal to</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7696,7 +7693,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values less than</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7705,7 +7702,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values greater than</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7714,7 +7711,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values equal or less than</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7723,7 +7720,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values equal or greater than</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7732,7 +7729,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values not equal to</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7741,7 +7738,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values between</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7750,7 +7747,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values not between</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7759,7 +7756,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values duplicate</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7768,7 +7765,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values not duplicate</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7777,7 +7774,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values in top N elements</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7786,7 +7783,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values in bottom N elements</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7795,7 +7792,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values in top N percent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7804,7 +7801,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values in bottom N percent</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7813,7 +7810,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values above average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7822,7 +7819,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values below average</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7831,7 +7828,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values contain text</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7840,7 +7837,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>values don&#x27;t contain text</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7849,7 +7846,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>formula is</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7858,7 +7855,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is today</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7867,7 +7864,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is yesterday</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7876,7 +7873,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is tomorrow</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7885,7 +7882,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is in last 7 days</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7894,7 +7891,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is in this week</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7903,7 +7900,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is in last week</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7912,7 +7909,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is in next week</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7921,7 +7918,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is in this month</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7930,7 +7927,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is in last month</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7939,7 +7936,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is in next month</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7948,7 +7945,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>date is in this year</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7957,7 +7954,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Action:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7966,7 +7963,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Rows</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7975,7 +7972,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Compare:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7984,7 +7981,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Solver Engine:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -7993,7 +7990,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sensitivity</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8002,7 +7999,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Sensitivity Report</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8011,7 +8008,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Objective Cell</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8020,7 +8017,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Variable Cells</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8029,7 +8026,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Objective Cell</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8038,7 +8035,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Constraints</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8047,7 +8044,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Cell</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8056,7 +8053,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Final Value</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8065,7 +8062,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select to exclude the row/column headers from duplicate comparison.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8074,7 +8071,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Records:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8083,7 +8080,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_All</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8092,7 +8089,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select/unselect all records.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8101,7 +8098,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Detected</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8110,7 +8107,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Use detected separator.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8119,7 +8116,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Reduced Cost</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8128,7 +8125,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Objective Coefficient</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8137,7 +8134,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Row/Column</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8146,7 +8143,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Detected (%1)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8155,7 +8152,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Allowable Decrease</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8164,7 +8161,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Allowable Decrease</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8173,7 +8170,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Allowable Increase</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8182,7 +8179,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Compare rows.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8191,7 +8188,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Columns</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8200,7 +8197,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Compare columns.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8209,7 +8206,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Select</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8218,7 +8215,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Select duplicate records.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8227,7 +8224,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>R_emove</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8236,7 +8233,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Remove duplicate records.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8245,7 +8242,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Data contains row/col headers</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8254,7 +8251,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Shadow Price</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8263,7 +8260,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Constraint R.H. Side</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8272,7 +8269,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Strings without double quotes are interpreted as defined names or references or column/row labels.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8281,7 +8278,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Allowable Decrease</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8290,7 +8287,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Allowable Increase</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8299,7 +8296,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>_Summary below data</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -8308,7 +8305,7 @@ Deseja continuar?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US"
 <seg>Decide if the subtotals below or above the data. Reposition subtotals when you change the summary below data options.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
