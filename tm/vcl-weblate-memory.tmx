@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_a0364b0" segtype="sentence" srclang="en-US"/>
 
-  <header adminlang="en" srclang="en">
-
-</header>
 <body>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>None</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -16,7 +14,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Dia Slide</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -25,7 +23,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Print</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -34,7 +32,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Pre_view</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -43,7 +41,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Order:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -52,7 +50,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_more</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -61,7 +59,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>m_ore</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -70,7 +68,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>′</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -79,7 +77,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Skia/Vulkan</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -88,7 +86,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Skia/Raster</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -97,7 +95,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>″</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -106,7 +104,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Print on one side (simplex)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -115,7 +113,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Print on both sides (duplex long edge)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -124,7 +122,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Print on one side (simplex)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -133,7 +131,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Print on both sides (duplex long edge)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -142,7 +140,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Print on both sides (duplex short edge)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -151,7 +149,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>UI render: </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -160,7 +158,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Fraction style</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -169,7 +167,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Document in Use</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -178,7 +176,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Question mark image</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -187,7 +185,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Question mark icon for dialog box.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -196,7 +194,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>This file has been locked by another user.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -205,7 +203,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>You can open it read only  and
 receive a notification if ready.</seg>
 </tuv>
@@ -216,7 +214,7 @@ receber uma notificação quando pronto.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>You can open a copy on your
 local system.</seg>
 </tuv>
@@ -227,7 +225,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_More Details</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -236,7 +234,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Displays information about locked files and further steps to take when opening a locked file.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -245,7 +243,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Separator</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -254,7 +252,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Include:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -263,7 +261,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Even and Odd Pages</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -272,7 +270,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Even Pages</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -281,7 +279,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Odd Pages</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -290,7 +288,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Odd and Even Pages</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -299,7 +297,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>M_ore</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -308,7 +306,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Create separate print jobs for collated output</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -317,7 +315,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Check to not rely on the printer to create collated copies but create a print job for each copy instead.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -326,7 +324,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_More</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -335,7 +333,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Apply</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -344,7 +342,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Add</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -353,7 +351,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Cancel</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -362,7 +360,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Close</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -371,7 +369,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Delete</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -380,7 +378,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Edit</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -389,7 +387,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Help</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -398,7 +396,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_New</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -407,7 +405,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_No</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -416,7 +414,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Remove</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -425,7 +423,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Reset</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -434,7 +432,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Yes</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -443,7 +441,7 @@ computador local.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Warning: Not all of the imported EPS graphics could be saved at level1
 as some are at a higher level!</seg>
 </tuv>
@@ -454,7 +452,7 @@ pois algumas estão em níveis mais altos!</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>The list box shows the installed printers. Click the printer to use for the current print job. Click the Properties button to change some of the printer properties.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -463,7 +461,7 @@ pois algumas estão em níveis mais altos!</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Default file formats not registered</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -472,7 +470,7 @@ pois algumas estão em níveis mais altos!</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>The following file formats are not registered to be opened by default in %PRODUCTNAME:
 $1
 Select OK if you want to change default file format registrations.</seg>
@@ -485,7 +483,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>sec</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -494,7 +492,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>[No selection possible]</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -503,7 +501,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Shows preview of the last page.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -512,7 +510,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Shows preview of the first page.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -521,7 +519,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Prints only the selected area(s) or object(s) in the current document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -530,7 +528,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select the subset of pages to print.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -539,7 +537,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select to print the document in brochure format.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -548,7 +546,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Collation and Paper Sides</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -557,7 +555,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Pages per Sheet</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -566,7 +564,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Widescreen</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -575,7 +573,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>On-screen Show (4:3)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -584,7 +582,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>On-screen Show (16:9)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -593,7 +591,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>On-screen Show (16:10)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -602,7 +600,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Skia/Metal</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -611,7 +609,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Brochure</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -620,7 +618,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select to print the document in brochure format.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -629,7 +627,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Open</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -638,7 +636,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Open Co_py</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -647,7 +645,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Open _R/O</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -656,7 +654,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Notify</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -665,7 +663,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Graphics Backend used: %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -674,7 +672,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Passed Tests: %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -683,7 +681,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Quirky Tests: %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -692,7 +690,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Failed Tests: %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -701,7 +699,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Skipped Tests: %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -710,7 +708,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>em</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -719,7 +717,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>ic</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -728,7 +726,7 @@ Clique em OK se desejar alterar os registros de formatos de arquivo padrão.</se
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>There are unsaved documents</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
