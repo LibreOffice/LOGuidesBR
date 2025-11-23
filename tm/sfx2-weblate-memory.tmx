@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_a0364b0" segtype="sentence" srclang="en-US"/>
 
-  <header adminlang="en" srclang="en">
-
-</header>
 <body>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Print</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -16,7 +14,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Add to Bookmarks</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -25,7 +23,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>This document is open in read-only mode. If you wish to modify the contents, first save it as another document, in a folder you have write access to.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -34,7 +32,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Previous Page</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -43,7 +41,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Next Page</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -52,7 +50,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>First Page</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -61,7 +59,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Find on this Page</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -70,7 +68,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>BPMN</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -79,7 +77,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Simple</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -88,7 +86,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Fill Format Mode</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -97,7 +95,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>New Style from Selection</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -106,7 +104,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Styles actions</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -115,7 +113,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Update Style</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -124,7 +122,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Style List</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -133,7 +131,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Show previews</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -142,7 +140,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Regular expression</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -151,7 +149,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Add to Bookmarks...</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -160,7 +158,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Rename Bookmark</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -169,7 +167,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Bookmark:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -178,7 +176,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Bookmarks</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -187,7 +185,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Bookmarks</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -196,7 +194,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set as Default</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -205,7 +203,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>%PRODUCTNAME is made available subject to the terms of the Mozilla Public License, v. 2.0. A copy of the MPL can be obtained at http://mozilla.org/MPL/2.0/.
 
 Third Party Code Additional copyright notices and license terms applicable to portions of the Software are set forth in the LICENSE.html file; choose Show License to see exact details in English.
@@ -230,7 +228,7 @@ Este produto foi criado pela %OOOVENDOR e teve como base de desenvolvimento o Op
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Settings for</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -239,7 +237,7 @@ Este produto foi criado pela %OOOVENDOR e teve como base de desenvolvimento o Op
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Warnings</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -248,7 +246,7 @@ Este produto foi criado pela %OOOVENDOR e teve como base de desenvolvimento o Op
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Reduce Gradient</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -257,7 +255,7 @@ Este produto foi criado pela %OOOVENDOR e teve como base de desenvolvimento o Op
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Reduce Bitmaps</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -266,7 +264,7 @@ Este produto foi criado pela %OOOVENDOR e teve como base de desenvolvimento o Op
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Reduce Transparency</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -275,7 +273,7 @@ Este produto foi criado pela %OOOVENDOR e teve como base de desenvolvimento o Op
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Defaults</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -284,7 +282,7 @@ Este produto foi criado pela %OOOVENDOR e teve como base de desenvolvimento o Op
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>One or more of the selected styles is in use in this document.
 If you will delete it, text or objects using these styles will revert to the parent style.
 Do you still wish to delete these styles?
@@ -299,7 +297,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>(used by: %STYLELIST)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -308,7 +306,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Draw module is needed for redaction. Please make sure you have LibreOffice Draw installed and working correctly.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -317,7 +315,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>The Personal edition is supported by volunteers and intended for individual use.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -326,7 +324,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Only Basic Latin characters can be entered</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -335,7 +333,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>kB</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -344,7 +342,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>All Documents</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -353,7 +351,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>The document contains the following potentially sensitive elements:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -362,7 +360,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Only embed fonts that are used in documents</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -371,7 +369,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Macros are signed, but at least one signature has problems.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -380,7 +378,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter the names of the people, organizations, or other entities that have made contributions to the document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -389,7 +387,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter the time, place, or jurisdiction that the document is relevant to.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -398,7 +396,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter a unique and unambiguous identifier for the document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -407,7 +405,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter the name of the entity that is making the document available.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -416,7 +414,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter information about other resources from which the document is derived.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -425,7 +423,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter information about the category or format of the document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -434,7 +432,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Contributor</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -443,7 +441,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Coverage</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -452,7 +450,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Identifier</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -461,7 +459,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Publisher</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -470,7 +468,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Relation</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -479,7 +477,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Rights</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -488,7 +486,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Source</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -497,7 +495,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>The document contains macros.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -506,7 +504,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Macros</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -515,7 +513,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Events</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -524,7 +522,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Compare to Original Document</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -533,7 +531,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Drawings</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -542,7 +540,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Preferred resolution for images:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -551,7 +549,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>ppi</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -560,7 +558,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>ppi</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -569,7 +567,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Clear Unavailable Files</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -578,7 +576,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Filter:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -587,7 +585,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>All Applications</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -596,7 +594,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Text Documents</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -605,7 +603,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Spreadsheets</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -614,7 +612,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Presentations</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -623,7 +621,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Actions</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -632,7 +630,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Simplified Chinese Normal</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -641,7 +639,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>UNO Object Inspector</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -650,7 +648,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Localization</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -659,7 +657,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>&quot;$(ARG1)&quot; cannot be passed to an external application to open it (e.g., it might not be an absolute URL, or might denote no existing file).</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -668,7 +666,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>&quot;$(ARG1)&quot; cannot be passed to an external application to open it (e.g., it might not be an absolute URL, or might denote no existing file).</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -677,7 +675,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Finish Signing</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -686,7 +684,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Match case</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -695,7 +693,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Whole words only</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -704,7 +702,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Whole words</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -713,7 +711,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>This is not a text document</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -722,7 +720,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Close Infobar</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -731,7 +729,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Font Embedding</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -740,7 +738,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Search Term</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -749,7 +747,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Search term</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -758,7 +756,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Extensions</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -767,7 +765,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Add more templates via extension</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -776,7 +774,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Dock</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -785,7 +783,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Undock</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -794,7 +792,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Close Sidebar</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -803,7 +801,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Customization</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -812,7 +810,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Restore Default</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -821,7 +819,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Sidebar Settings</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -830,7 +828,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>High print quality corresponds to a resolution of 300dpi. Normal print quality corresponds to a resolution of 200dpi. </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -839,7 +837,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Recent Documents</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -848,7 +846,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter new template name:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -857,7 +855,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Do you want to delete the selected category?</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -866,7 +864,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>The template &#x27;$(ARG1)&#x27; on which this document is based, has been modified. Do you want to update the styles of the current document, using the modified template?</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -875,7 +873,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>~Refresh</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -884,7 +882,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>~New Category</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -893,7 +891,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>~Delete Category</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -902,7 +900,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter new category name:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -911,7 +909,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>A template named $1 already exists in $2. Do you want to overwrite it?</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -920,7 +918,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Document</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -929,7 +927,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Spreadsheet</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -938,7 +936,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Presentation</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -947,7 +945,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Drawing</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -956,7 +954,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Recently used</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -965,7 +963,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>No recent characters</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -974,7 +972,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Find</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -983,7 +981,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Paragraph and Character</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -992,7 +990,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Pa_ge</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1001,7 +999,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_List</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1010,7 +1008,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_List</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1019,7 +1017,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Loads the list styles from the selected document into the current document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1028,7 +1026,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Overwrite styles with same name</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1037,7 +1035,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Load Styles from Template</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1046,7 +1044,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Custom styles for selected category</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1055,7 +1053,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Style name</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1064,7 +1062,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Custom styles for current document</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1073,7 +1071,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter new style name:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1082,7 +1080,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Save</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1091,7 +1089,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter Template _Name:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1100,7 +1098,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter a name for the template.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1109,7 +1107,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select Template _Category:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1118,7 +1116,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Save template in selected category.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1127,7 +1125,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Thumbnail View</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1136,7 +1134,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>List View</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1145,7 +1143,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Text Documents</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1154,7 +1152,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Name</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1163,7 +1161,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Category</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1172,7 +1170,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Application</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1181,7 +1179,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Modified</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1190,7 +1188,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Modified</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1199,7 +1197,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Size</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1208,7 +1206,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Tools</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1217,7 +1215,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Provides commands to create, rename and delete categories, reset default templates, and refresh the template manager.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1226,7 +1224,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Open</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1235,7 +1233,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Add</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1244,7 +1242,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Apply</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1253,7 +1251,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Cancel</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1262,7 +1260,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Close</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1271,7 +1269,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Delete</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1280,7 +1278,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Edit</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1289,7 +1287,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Help</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1298,7 +1296,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_New</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1307,7 +1305,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_No</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1316,7 +1314,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_OK</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1325,7 +1323,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Remove</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1334,7 +1332,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Reset</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1343,7 +1341,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Yes</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1352,7 +1350,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Restore Default</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1361,7 +1359,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Reset Default Template</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1370,7 +1368,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Copy styles from selected external document to current document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1379,7 +1377,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Templates in the selected category</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1388,7 +1386,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Copy paragraph and character styles to current document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1397,7 +1395,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Copy frame styles to current document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1406,7 +1404,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Copy styles from selected external document to current document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1415,7 +1413,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Copy paragraph and character styles to current document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1424,7 +1422,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Copy page styles to current document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1433,7 +1431,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Copy list styles to current document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1442,7 +1440,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>List View</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1451,7 +1449,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>More Options</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1460,7 +1458,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Current Selection</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1469,7 +1467,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Class name:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1478,7 +1476,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Object</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1487,7 +1485,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Value</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1496,7 +1494,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Type</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1505,7 +1503,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Close Sidebar Deck</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1514,7 +1512,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Interfaces</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1523,7 +1521,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Services</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1532,7 +1530,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Properties</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1541,7 +1539,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Method</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1550,7 +1548,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Return Type</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1559,7 +1557,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Parameters</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1568,7 +1566,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Implementation Class</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1577,7 +1575,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Methods</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1586,7 +1584,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Grey Elegant</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1595,7 +1593,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Candy</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1604,7 +1602,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Yellow Idea</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1613,7 +1611,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Back</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1622,7 +1620,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Inspect</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1631,7 +1629,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Mark this check box if a certain paper size is needed for printing the current document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1640,7 +1638,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Growing Liberty</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1649,7 +1647,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Freshes</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1658,7 +1656,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Frames</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1667,7 +1665,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Paragraphs</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1676,7 +1674,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Tables</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1685,7 +1683,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Image</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1694,7 +1692,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Text Portion %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1703,7 +1701,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Paragraph %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1712,7 +1710,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Shape %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1721,7 +1719,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Page %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1730,7 +1728,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Slide %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1739,7 +1737,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Master Slide %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1748,7 +1746,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Sheets %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1757,7 +1755,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Shapes</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1766,7 +1764,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Charts</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1775,7 +1773,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Pivot Tables</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1784,7 +1782,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Sheets</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1793,7 +1791,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Styles</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1802,7 +1800,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Slides</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1811,7 +1809,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Master Slides</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1820,7 +1818,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Pages</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1829,7 +1827,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Graphic Objects</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1838,7 +1836,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Embedded Objects</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1847,7 +1845,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>True</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1856,7 +1854,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>False</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1865,7 +1863,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Null</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1874,7 +1872,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Unknown</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1883,7 +1881,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>object</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1892,7 +1890,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>struct</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1901,7 +1899,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>enum</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1910,7 +1908,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>removeable</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1919,7 +1917,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>transient</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1928,7 +1926,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>may be ambiguous</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1937,7 +1935,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Close Sidebar Deck</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1946,7 +1944,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Refresh</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1955,7 +1953,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Info</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1964,7 +1962,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>sequence</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1973,7 +1971,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>enumeration</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1982,7 +1980,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>attribute</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -1991,7 +1989,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>may be void</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2000,7 +1998,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>read-only</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2009,7 +2007,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>write-only</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2018,7 +2016,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>may be default</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2027,7 +2025,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>&lt;Sequence [%1]&gt;</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2036,7 +2034,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Sheet %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2045,7 +2043,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Current Selection In Document</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2054,7 +2052,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Refresh Document Model Tree View</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2063,7 +2061,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>&lt;Object@%1&gt;</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2072,7 +2070,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>name container</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2081,7 +2079,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>index container</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2090,7 +2088,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>bound</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2099,7 +2097,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>constrained</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2108,7 +2106,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Show Toolbar</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2117,7 +2115,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Hide Toolbar</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2126,7 +2124,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>There is another template with the name $1 in $2.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2135,7 +2133,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Text Portion %1</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2144,7 +2142,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>or Create a New Category</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2153,7 +2151,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Search command</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2162,7 +2160,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter information about persons or organizations contributing to the document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2171,7 +2169,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter information about geographic coverage of the document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2180,7 +2178,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter information to unambiguously identify the document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2189,7 +2187,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter information about the publisher of the document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2198,7 +2196,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter information about a resource related to the document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2207,7 +2205,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter information about intellectual property rights associated with the document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2216,7 +2214,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter information about a related resource from which the document is derived from.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2225,7 +2223,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter information about the nature or genre of the document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2234,7 +2232,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Learn more about installing the built-in help</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2243,7 +2241,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>More Characters…</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2252,7 +2250,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>~Open</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2261,7 +2259,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>~Edit</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2270,7 +2268,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set as De~fault</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2279,7 +2277,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Reset De~fault</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2288,7 +2286,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>~Delete</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2297,7 +2295,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>~Rename</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2306,7 +2304,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>~Move</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2315,7 +2313,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>E~xport</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2324,7 +2322,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Ren~ame Category</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2333,7 +2331,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Draw module is needed for redaction. Please make sure you have %PRODUCTNAME Draw installed and working correctly.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2342,7 +2340,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Learn more</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2351,7 +2349,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Reset All De~fault Templates</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2360,7 +2358,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Reset De~fault Text Document</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2369,7 +2367,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Reset De~fault Spreadsheet</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2378,7 +2376,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Reset De~fault Presentation</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2387,7 +2385,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Reset De~fault Drawing</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2396,7 +2394,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>~Import</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2405,7 +2403,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>E~xtensions</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2414,7 +2412,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Rename</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2423,7 +2421,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Rename Category</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2432,7 +2430,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>New Category</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2441,7 +2439,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Manage</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2450,7 +2448,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Find</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2459,7 +2457,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Find</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2468,7 +2466,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Drop a document here or open an app to create one.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2477,7 +2475,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Custom styles for selected category</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2486,7 +2484,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter a comment here when you are saving a new version. If you clicked Show to open this dialog, you cannot edit the comment.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2495,7 +2493,7 @@ Tem a certeza de que deseja excluir estes estilos?
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>It might be dangerous to open &quot;$(ARG1)&quot;.
 Do you really want to open it?</seg>
 </tuv>
@@ -2506,7 +2504,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Do you want to remember that signature for each save?</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2515,7 +2513,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Japanese Normal</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2524,7 +2522,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Help about this sidebar deck</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2533,7 +2531,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Sidebar Deck Help</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2542,7 +2540,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Co_ntributor:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2551,7 +2549,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Co_ntributor:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2560,7 +2558,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Co_verage:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2569,7 +2567,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Identifier:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2578,7 +2576,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Publisher:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2587,7 +2585,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>R_elation:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2596,7 +2594,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Ri_ghts:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2605,7 +2603,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>So_urce:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2614,7 +2612,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>T_ype:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2623,7 +2621,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>contributor accessible description</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2632,7 +2630,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Automatic update from document</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2641,7 +2639,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Any paragraph formatting changes in the document to a paragraph with this style are applied automatically to modify the paragraph style.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2650,7 +2648,7 @@ Deseja realmente abrir?</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Opening &quot;$(ARG1)&quot; failed with error code $(ARG2) and message: &quot;$(ARG3)&quot;
 Maybe no web browser could be found on your system. In that case, please check your Desktop Preferences or install a web browser (for example, Firefox) in the default location requested during the browser installation.</seg>
 </tuv>
@@ -2661,7 +2659,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Show Security Options</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2670,7 +2668,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Saves the user&#x27;s full name with the file. You can edit the name by choosing Tools - Options - User Data.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2679,7 +2677,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Image preferred DPI</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2688,7 +2686,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Lists the application that last saved the source file. The office suite applications have the server name soffice.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2697,7 +2695,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>If you have made changes to your document then a new version is automatically saved when you close the document.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2706,7 +2704,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select an existing style that you want to follow the current style in your document. For paragraph styles, the next style is applied to an empty paragraph that is created when you press Enter at the end of an existing paragraph. For page styles, the next style is applied when a new page is created.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2715,7 +2713,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Edit the properties of the next style.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2724,7 +2722,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select an existing style (or - None -) to provide its definitions to the current style. Use the other tabs to modify the inherited style.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2733,7 +2731,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Edit the properties of the parent style.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2742,7 +2740,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Displays the category for the current style. If you are creating or modifying a new style, select &#x27;Custom Style&#x27; from the list.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2751,7 +2749,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Updates the style when you apply direct formatting to a paragraph using this style in your document. The formatting of all paragraphs using this style is automatically updated.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2760,7 +2758,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter a name for the style.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2769,7 +2767,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Support the development of %PRODUCTNAME.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2778,7 +2776,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Macros disabled</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2787,7 +2785,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Macros in this document are disabled due to the Macro Security settings.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2796,7 +2794,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Macros are disabled due to the Macro Security settings.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2805,7 +2803,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Macros are signed, but the document (containing document events) is not signed.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2814,7 +2812,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Show Macros</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2823,7 +2821,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Show Events</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2832,7 +2830,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Edit Style...</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2841,7 +2839,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>This document must be classified before the clipboard can be pasted.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2850,7 +2848,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Spotlight</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2859,7 +2857,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Are you sure you want to edit the document?</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2868,7 +2866,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Are you sure you want to restart %PRODUCTNAME and enter safe mode?</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2877,7 +2875,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Are you sure you would like to delete $(TARGETSCOUNT) targets at once?</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2886,7 +2884,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Template Manager...</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2895,7 +2893,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select to enable recording changes. This is the same as Edit - Track Changes - Record.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2904,7 +2902,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Version comment:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2913,7 +2911,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Insert Version Comment</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2922,7 +2920,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>View Version Comment</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2931,7 +2929,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter a comment here when you are saving a new version. If you clicked Show to open this dialog, you cannot edit the comment.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2940,7 +2938,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Displays the entire comment for the selected version.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2949,7 +2947,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Saves the current state of the document as a new version. If you want, you can also enter comments in the Insert Version Comment dialog before you save the new version.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2958,7 +2956,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Lists the existing versions of the current document, the date and the time they were created, the author and the associated comments.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2967,7 +2965,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Donate</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2976,7 +2974,7 @@ Pode ser que não haja um navegador internet no seu sistema. Neste caso, verifiq
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Couldn&#x27;t find a matching signing key. The document won&#x27;t be signed.
 Please update the signing key in Options.</seg>
 </tuv>
@@ -2987,7 +2985,7 @@ Atualize a chave de assinatura nas Opções.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Applies the selected style to the object or text that you select in the document. </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -2996,7 +2994,7 @@ Atualize a chave de assinatura nas Opções.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Display the style names as examples of their formatting. </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3005,7 +3003,7 @@ Atualize a chave de assinatura nas Opções.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Displays a color and a unique number code for each applied paragraph or character style in the document. </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -3014,7 +3012,7 @@ Atualize a chave de assinatura nas Opções.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select a filter for the list of styles.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
