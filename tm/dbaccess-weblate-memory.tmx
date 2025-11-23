@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_a0364b0" segtype="sentence" srclang="en-US"/>
 
-  <header adminlang="en" srclang="en">
-
-</header>
 <body>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>The rows before the first and after the last row don&#x27;t have a bookmark.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -16,7 +14,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>The current row is deleted, and thus doesn&#x27;t have a bookmark.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -25,7 +23,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>The copy source&#x27;s result set must support bookmarks.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -34,7 +32,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Name of the MySQL/MariaDB database</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -43,7 +41,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set up MySQL/MariaDB connection</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -52,7 +50,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set up MySQL/MariaDB server data</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -61,7 +59,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set up connection to a MySQL/MariaDB database using JDBC</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -70,7 +68,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set up connection to a MySQL/MariaDB database using JDBC</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -79,7 +77,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Please enter the required information to connect to a MySQL/MariaDB database using JDBC. Note that a JDBC driver class must be installed on your system and registered with %PRODUCTNAME.
 Please contact your system administrator if you are unsure about the following settings.</seg>
 </tuv>
@@ -90,7 +88,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>MySQL/MariaDB JDBC d~river class:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -99,7 +97,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set Up a Connection to a MySQL/MariaDB Database</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -108,7 +106,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Please enter the required information to connect to a MySQL/MariaDB database.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -117,7 +115,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Please enter the required information to connect to a MySQL/MariaDB database using JDBC. Note that a JDBC driver class must be installed on your system and registered with %PRODUCTNAME. Please contact your system administrator if you are unsure about the following settings. </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -126,7 +124,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>MySQL/MariaDB JDBC d_river class:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -135,7 +133,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Connect directly (using MariaDB C connector)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -144,7 +142,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter the SQL administration command that you want to run.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -153,7 +151,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Execute the SQL command directly without escape processing.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -162,7 +160,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Show the result of the SQL SELECT command in the Output box.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -171,7 +169,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Lists the previously executed SQL commands. To run a command again, click the command, and then click Execute.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -180,7 +178,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Displays the results, including errors, of the SQL command that you ran.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -189,7 +187,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Displays the results of the SQL command that you ran.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -198,7 +196,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Add User</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -207,7 +205,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Delete User</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -216,7 +214,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Change Password</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -225,7 +223,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Manage</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -234,7 +232,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Field Properties Help</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -243,7 +241,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Description</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -252,7 +250,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Title</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -261,7 +259,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>By</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -270,7 +268,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Date</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -279,7 +277,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Keywords</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -288,7 +286,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Type</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -297,7 +295,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Modified on</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -306,7 +304,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Modified by</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -315,7 +313,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Printed on</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -324,7 +322,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Printed by</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -333,7 +331,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Subject</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -342,7 +340,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Size</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -351,7 +349,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Data Conversion</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -360,7 +358,7 @@ Entre em contato com o administrador do sistema se estiver em dúvida em relaç�
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>It is not possible to create a new database, because neither HSQLDB, nor Firebird is
 available in this setup.</seg>
 </tuv>
@@ -371,7 +369,7 @@ available in this setup.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Name of the ODBC data source</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -380,7 +378,7 @@ available in this setup.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set up a connection to an ODBC data source</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -389,7 +387,7 @@ available in this setup.</seg>
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter the name of the ODBC data source you want to use.
 Click &#x27;Browse...&#x27; to select an ODBC data source that is already registered in %PRODUCTNAME.
 Please contact your system administrator if you are unsure about the following settings.</seg>
@@ -402,7 +400,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Add</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -411,7 +409,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Format Field</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -420,7 +418,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Click &#x27;Finish&#x27; to save the database.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -429,7 +427,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Use the Database Wizard to create a new database, open an existing database file, or connect to a database stored on a server.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -438,7 +436,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Create a n_ew database</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -447,7 +445,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>This relation already exists. Do you want to edit it or create a new one?</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -456,7 +454,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter the DBMS/driver-specific connection string here</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -465,7 +463,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter the DBMS/driver-specific connection string here</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -474,7 +472,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Run SQL command _directly</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -483,7 +481,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Use Outer Join syntax &#x27;{oj }&#x27;</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -492,7 +490,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select to open a database file from a list of recently used files or from a file selection dialog.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -501,7 +499,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select to create a new database.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -510,7 +508,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select a database file to open from the list of recently used files. Click Finish to open the file immediately and to exit the wizard.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -519,7 +517,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Opens a file selection dialog where you can select a database file. Click Open or OK in the file selection dialog to open the file immediately and to exit the wizard.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -528,7 +526,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select to create a database document for an existing database connection.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -537,7 +535,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select the database type for the existing database connection.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -546,7 +544,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>The Database Wizard creates a database file that contains information about a database.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -555,7 +553,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Only allows characters that conform to the SQL92 naming convention in a name in a data source. All other characters are rejected. Each name must begin with a lowercase letter, an uppercase letter, or an underscore ( _ ). The remaining characters can be ASCII letters, numbers, and underscores.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -564,7 +562,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Appends the alias to the table name in SELECT statements.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -573,7 +571,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Some databases use the keyword &quot;AS&quot; between a name and its alias, while other databases use a whitespace. Enable this option to insert AS before the alias.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -582,7 +580,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Use escape sequences for outer joins. The syntax for this escape sequence is {oj outer-join}</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -591,7 +589,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Ignores access privileges that are provided by the database driver.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -600,7 +598,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Replaces named parameters in a data source with a question mark (?).</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -609,7 +607,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Displays the internal version number of the record in the database table.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -618,7 +616,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Uses the current data source of the catalog. This option is useful when the ODBC data source is a database server. Do not select this option if the ODBC data source is a dBASE driver.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -627,7 +625,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Allows you to use the schema name in SELECT statements.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -636,7 +634,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Creates an index with ASC or DESC statements.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -645,7 +643,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select to use the CR + LF code pair to end every text line (preferred for DOS and Windows operating systems).</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -654,7 +652,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Only for Oracle JDBC connections. When enabled it specifies that no column is treated as a currency field. The field type returned from the database driver is discarded.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -663,7 +661,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>When you enter a new record or update an existing record in a form, and you leave a field empty which is bound to a database column which requires input, then you will see a message complaining about the empty field.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -672,7 +670,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Use date/time literals that conform to ODBC standard.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -681,7 +679,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enable to overrule Base&#x27;s heuristics used to detect whether the database supports primary keys.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -690,7 +688,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Use the database driver different scroll capabilities of a result set.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -699,7 +697,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select the type of Boolean comparison that you want to use.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -708,7 +706,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select the number of rows to let the driver detect the data type.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -717,7 +715,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Use _secure connection (TLS/SSL)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -726,7 +724,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Use secure connection (TLS/SSL)</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -735,7 +733,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set up a connection to a PostgreSQL database</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -744,7 +742,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Please enter the required information to connect to a PostgreSQL database, either by entering the host name, port number and server, or by entering the connection string.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -753,7 +751,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Please contact your system administrator if you are unsure</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -762,7 +760,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter the name of the database.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -771,7 +769,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter the server url of the database. </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -780,7 +778,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter the port number of the DBMS service. Default for PostgreSQL is 5432.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -789,7 +787,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Alternatively, enter the driver-specific connection string here</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -798,7 +796,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Enter the complete connector URL to access the PostGreSQL DBMS service. The connector URL is in the form &quot;postgresql://myHost:port/MyDatabase&quot;.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -807,7 +805,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set up PostgreSQL connection</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -816,7 +814,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set up connection to a POSTGRESQL database using GUI</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -825,7 +823,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Please enter the required information to connect to a PostgreSQL database either through by filling the hostname,port number and server OR by filling the connection string.
 Please contact your system administrator if you are unsure about the following settings.</seg>
 </tuv>
@@ -836,7 +834,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Default: 5432</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -845,7 +843,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set up connection to a PostgreSQL database</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -854,7 +852,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Please enter the required information to connect to a PostgreSQL database. Please contact your system administrator if you are unsure about the following settings. </seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -863,7 +861,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Database name:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -872,7 +870,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Server:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -881,7 +879,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>_Port number:</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -890,7 +888,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>And/OR Enter the DBMS/driver-specific connection string here</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -899,7 +897,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set up a connection to a PostgreSQL database</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -908,7 +906,7 @@ Entre em contato com o administrador do sistema se não tiver certeza sobre as c
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Please enter the required information to connect to a PostgreSQL database, either by entering the host name, port number and server, or by entering the connection string.
 Please contact your system administrator if you are unsure about the following settings.</seg>
 </tuv>
