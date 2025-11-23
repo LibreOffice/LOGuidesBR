@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_a0364b0" segtype="sentence" srclang="en-US"/>
 
-  <header adminlang="en" srclang="en">
-
-</header>
 <body>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Table</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -16,7 +14,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Search Key</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -25,7 +23,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Help</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -34,7 +32,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Activate link</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -43,7 +41,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Multiline Editing</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -52,7 +50,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Spin Button</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -61,7 +59,7 @@
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>To incorporate the address data in your templates, %PRODUCTNAME has to know which fields contain which data.
 
 For instance, you could have stored the email addresses in a field named &quot;email&quot;, or &quot;E-mail&quot; or &quot;EM&quot; - or something completely different.
@@ -78,7 +76,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Table Element</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -87,7 +85,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Scan Area</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -96,7 +94,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>List Box</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -105,7 +103,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>List Box Wizard</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -114,7 +112,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>The contents of the selected field will be shown in the list box if the linked fields are identical.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -123,7 +121,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>File Selection</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -132,7 +130,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Image Button</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -141,7 +139,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Image Control</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -150,7 +148,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Specifies a location for the address book file and a name under which the data source will be listed in the data source explorer.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -159,7 +157,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Registers the newly created database file in %PRODUCTNAME. The database will then be listed in the Data sources pane (Ctrl+Shift+F4). If this check box is cleared, the database will be available only by opening the database file.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -168,7 +166,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select this option if you already use an address book in KDE Address book (KAddressBook).</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -177,7 +175,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Local copy</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -186,7 +184,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Browse...</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -195,7 +193,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Page</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -204,7 +202,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Brochures</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -213,7 +211,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Displays a popup window with information obtained from the scanner driver.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -222,7 +220,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Scans and displays the document in the preview area.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -231,7 +229,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Scans an image, and then inserts the result into the document and closes the dialog.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -240,7 +238,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set the top margin of the scan area.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -249,7 +247,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set the right margin of the scan area.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -258,7 +256,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set the bottom margin of the scan area.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -267,7 +265,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Set the left margin of the scan area.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -276,7 +274,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Displays a preview of the scanned image. The preview area contains eight handles. Drag the handles to adjust the scan area or enter a value in the corresponding margin spin box.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -285,7 +283,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Displays a list of available scanners detected in your system.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -294,7 +292,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select the resolution in dots per inch for the scan job.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -303,7 +301,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Mark this checkbox to display more configuration options for the scanner device.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -312,7 +310,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Displays the list of available scanner driver advanced options. Double click an option to display its contents just below.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -321,7 +319,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>macOS address book</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -330,7 +328,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Open document/web page</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -339,7 +337,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Registers the newly created database file in the office suite. The database will then be listed in the Data sources pane (Ctrl+Shift+F4). If this check box is cleared, the database will be available only by opening the database file.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -348,7 +346,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Specifies the table that is to serve as the address book for the office suite templates.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -357,7 +355,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Specifies a table from the Seamonkey / Netscape address book source that is used as the address book in the office suite.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -366,7 +364,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select this option if you want to register another data source as address book in the office suite.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -375,7 +373,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Select this option if you want to register another data source as address book in the office suite.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -384,7 +382,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>This wizard registers an existing address book as a data source in the office suite.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -393,7 +391,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Active selection text color</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -402,7 +400,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Check the “No assignment” box to remove the link between a control and the assigned label field.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -411,7 +409,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Specifies the source for the label of the control.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -420,7 +418,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Registers the newly created database file in the office suite. The database will then be listed in the Data sources pane (Ctrl+Shift+F4). If this check box is cleared, the database will be available only by opening the database file.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -429,7 +427,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Spin Button</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -438,7 +436,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Displays a preview of the scanned image. The preview area contains eight handles. Drag the handles to adjust the scan area or enter a value in the corresponding margin spin box.</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
@@ -447,7 +445,7 @@ Clique no botão abaixo para abrir outra caixa de diálogo. Nela, você pode ins
 </tu>
 
 <tu>
-<tuv xml:lang="en">
+<tuv xml:lang="en-US">
 <seg>Table Control</seg>
 </tuv>
 <tuv xml:lang="pt-BR">
