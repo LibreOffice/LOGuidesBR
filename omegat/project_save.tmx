@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_8bd0ce6" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17364,6 +17364,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T113947Z" creationid="olivier-tdf" creationdate="20250109T113947Z">
         <seg>Vantagens do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Advantages of Linking:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260730T122142Z" creationid="timotheonb" creationdate="20260730T122142Z">
+        <seg>As vantagens de vincular:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70292,6 +70300,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linking an image file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260730T103712Z" creationid="timotheonb" creationdate="20260730T103712Z">
+        <seg>Vincular um arquivo de imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linking and cross-referencing within a document</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T215300Z" creationid="timot" creationdate="20250409T215249Z">
@@ -103158,6 +103174,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The image appears in the document, but only a reference to the file is saved—meaning the image and the document remain separate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260730T105009Z" creationid="timotheonb" creationdate="20260730T105009Z">
+        <seg>A imagem aparece no documento, mas apenas uma referência ao arquivo é salva — o que significa que a imagem e o documento permanecem separados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The image is inserted into the spreadsheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T132120Z" creationid="timotheonb" creationdate="20260616T132120Z">
@@ -107834,6 +107858,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260226T123832Z" creationid="timotheonb" creationdate="20260226T123832Z">
         <seg>São melhores para um número relativamente pequeno de pontos de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are combined only when the document is opened again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260730T105016Z" creationid="timotheonb" creationdate="20260730T105016Z">
+        <seg>Eles são combinados somente quando o documento é aberto novamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115448,8 +115480,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>To use gallery images from earlier versions of LibreOffice, go to &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt; and search for items with a tag filter of “Gallery&lt;f1&gt;” &lt;/f1&gt;or click on the &lt;f2&gt;Add more galleries via extension&lt;/f2&gt; button, on the bottom right of the Gallery to open the Extensions: Gallery dialog.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260708T004947Z" creationid="timotheonb" creationdate="20260708T004947Z">
-        <seg>Para usar imagens da galeria de versões anteriores do LibreOffice, acesse&lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt; e pesquise itens com o filtro de etiqueta “Galeria”&lt;f1&gt;”&lt;/f1&gt;ou clique no&lt;f2&gt;Adicione mais galerias por meio de uma extensão.&lt;/f2&gt; Clique no botão no canto inferior direito da Galeria para abrir a caixa de diálogo Extensões: Galeria.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260730T103641Z" creationid="timotheonb" creationdate="20260708T004947Z">
+        <seg>Para usar imagens da galeria de versões anteriores do LibreOffice, acesse &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt; e pesquise itens com o filtro de etiqueta “Galeria” &lt;f1&gt;&lt;/f1&gt; ou clique no botão &lt;f2&gt;Adicionar mais galerias via extensões&lt;/f2&gt; no canto inferior direito da Galeria para abrir a caixa de diálogo Extensões: Galeria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121822,6 +121854,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the Link option is selected in the Insert Image dialog, or when the &lt;f0&gt;Ctrl+Shift&lt;/f0&gt; keys are held during a drag-and-drop action, Calc creates a link to the image file rather than embedding it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260730T105000Z" creationid="timotheonb" creationdate="20260730T105000Z">
+        <seg>Quando a opção Vincular é selecionada na caixa de diálogo Inserir figura, ou quando o atalho de teclado &lt;f0&gt;Ctrl+Shift&lt;/f0&gt; estiver pressionado durante uma ação de arrastar e soltar, o Calc cria um vínculo para o arquivo de imagem em vez de incorporá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the cell displaying the &lt;f0&gt;#REF!&lt;/f0&gt; error code in Figure &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;is selected, the Status bar displays the error message as shown in Figure &lt;t3&gt;2&lt;/t3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260307T220506Z" creationid="olivier" creationdate="20260307T220506Z">
@@ -127114,6 +127154,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T142725Z" creationid="olivier" creationdate="20251019T142725Z">
         <seg>editar anotações sobre alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>embedding and linking</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260730T103648Z" creationid="timotheonb" creationdate="20260730T103648Z">
+        <seg>incorporação e vinculação</seg>
       </tuv>
     </tu>
     <tu>
