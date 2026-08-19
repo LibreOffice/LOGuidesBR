@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -79396,6 +79396,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Outline Show/Hide Group</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260819T230640Z" creationid="olivier-tdf" creationdate="20260819T230640Z">
+        <seg>Mostrar/ocultar grupo de esquema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Outline and page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222954Z" creationid="olivier" creationdate="20250324T222954Z">
@@ -93441,6 +93449,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T002424Z" creationid="olivier" creationdate="20250303T002424Z">
         <seg>Shift+ Seta para a direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shift+Space</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260819T230456Z" creationid="olivier-tdf" creationdate="20260819T230456Z">
+        <seg>Shift + espaço,</seg>
       </tuv>
     </tu>
     <tu>
