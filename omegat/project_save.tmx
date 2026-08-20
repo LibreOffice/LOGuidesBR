@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4172,6 +4172,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260428T233354Z" creationid="olivier" creationdate="20260428T233354Z">
         <seg>&lt;f0&gt;Capítulo 17&lt;/f0&gt;, &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Chapter 17&lt;/f0&gt;&lt;br1/&gt;User Interface Variants</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260820T000721Z" creationid="olivier" creationdate="20260820T000721Z">
+        <seg>&lt;f0&gt;Capítulo 17&lt;/f0&gt;&lt;br1/&gt;Variantes da interface de usuário</seg>
       </tuv>
     </tu>
     <tu>
@@ -23525,6 +23533,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T114556Z" creationid="vitor" creationdate="20260505T235627Z">
         <seg>Guia do Calc 26.2 - Capítulo 15, Calc como banco de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc Guide 26.2 - Chapter 17, User Interface Variants</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260820T000518Z" creationid="olivier" creationdate="20260820T000518Z">
+        <seg>Guia do Calc 26.2 - Capítulo 17, Variantes da interface de usuário</seg>
       </tuv>
     </tu>
     <tu>
