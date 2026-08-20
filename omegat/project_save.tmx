@@ -11704,6 +11704,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Image toolbar&lt;/s0&gt;&lt;s1&gt;Image toolbar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T112359Z" creationid="timotheonb" creationdate="20260820T112359Z">
+        <seg>&lt;s0&gt;Barra de ferramentas de Figura&lt;/s0&gt;&lt;s1&gt;Barra de ferramentas de Fibura&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Impress Print dialog — Impress General page — Windows or Linux&lt;/s0&gt;&lt;s1&gt;Impress Print dialog — Impress General page — Windows or Linux&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T144804Z" creationid="olivier" creationdate="20250223T144804Z">
@@ -24145,6 +24153,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc provides several tools for working with images.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T110906Z" creationid="timotheonb" creationdate="20260820T110906Z">
+        <seg>O Calc oferece várias ferramentas para trabalhar com figuras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc provides several ways to define and present data for charts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260331T235033Z" creationid="vitor" creationdate="20260331T235033Z">
@@ -25197,6 +25213,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260421T235611Z" creationid="olivier" creationdate="20260421T235611Z">
         <seg>Alterações nos atributos de formatação tais como fontes, cores, e formatos numéricos não serão salvos e algumas funcionalidades como edição de gráficos e objetos de desenho não estão disponíveis no modo compartilhado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changes to image properties affect only the display and printing of the image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T112937Z" creationid="timotheonb" creationdate="20260820T112416Z">
+        <seg>As alterações nas propriedades da figura afetam apenas a exibição e a impressão da figura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46843,6 +46867,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Image toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T112428Z" creationid="timotheonb" creationdate="20260820T112410Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: barra de ferramentas Figura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: LibreOffice Basic IDE (Integrated Development Environment) window</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T082451Z" creationid="olivier-tdf" creationdate="20250701T082451Z">
@@ -57712,6 +57744,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205301Z" creationid="olivier" creationdate="20250324T205301Z">
         <seg>No entanto, os arquivos podem ser salvos em outros formatos, se necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, for professional results it is generally better to use Draw or other software designed to modify image files, and then insert the result into Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T111619Z" creationid="timotheonb" creationdate="20260820T111619Z">
+        <seg>Para resultados profissionais, geralmente é melhor usar o Draw ou outro software para modificar arquivos de imagem e, depois, inserir o resultado no Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -99662,6 +99702,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Image toolbar can also be shown using &lt;f1&gt;View &gt; Toolbars &gt; Image&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T111717Z" creationid="timotheonb" creationdate="20260820T111717Z">
+        <seg>A barra de ferramentas de imagem também pode ser exibida usando &lt;f1&gt;Exibir &gt; Barras de ferramentas &gt; Imagem&lt;/f1&gt; na Barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Impress Menu bar, at the top of the main window, provides several menus common to all LibreOffice modules.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250414T104515Z" creationid="timot" creationdate="20250414T104515Z">
@@ -104870,6 +104918,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The original image file remains unchanged.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T142222Z" creationid="timotheonb" creationdate="20260820T112432Z">
+        <seg>O arquivo de figura original permanece inalterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The other &lt;f0&gt;Insert Field &gt; Date&lt;/f0&gt; option and its associated &lt;f1&gt;Time&lt;/f1&gt; option in the context menu insert the current date and time respectively.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211251Z" creationid="olivier" creationdate="20250123T210036Z">
@@ -106346,6 +106402,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T141925Z" creationid="tulio" creationdate="20250211T141925Z">
         <seg>As ferramentas são adicionadas à barra de ferramentas na mesma ordem em que aparecem no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tools available on the Image toolbar are described below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T112339Z" creationid="timotheonb" creationdate="20260820T112339Z">
+        <seg>Veja as ferramentas disponíveis na barra de ferramentas Figura descritas a seguir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107938,6 +108002,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191242Z" creationid="olivier-tdf" creationdate="20250209T191242Z">
         <seg>Essas ferramentas são divididas entre os menus Ferramentas e Dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These tools are sufficient for most requirements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T111508Z" creationid="timotheonb" creationdate="20260820T111508Z">
+        <seg>Essas ferramentas são suficientes para a maioria dos requisitos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119566,6 +119638,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using the Image toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T111633Z" creationid="timotheonb" creationdate="20260820T111633Z">
+        <seg>Usar a barra de ferramentas Imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the Input line may be easier when editing data.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260319T183242Z" creationid="timotheonb" creationdate="20260319T183242Z">
@@ -121554,6 +121634,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104433Z" creationid="timotheonb" creationdate="20250530T104433Z">
         <seg>Ao inserir um novo objeto OLE em uma apresentação, fica disponível apenas nessa apresentação e só pode ser editado no Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When inserting or selecting an image in the spreadsheet, the Image toolbar (Figure &lt;t0&gt;4&lt;/t0&gt;) replaces the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T111657Z" creationid="timotheonb" creationdate="20260820T111657Z">
+        <seg>Ao inserir ou selecionar uma figura na planilha, a barra de ferramentas Imagem (Figura &lt;t0&gt;4&lt;/t0&gt;) substitui a barra de ferramentas Formatação.</seg>
       </tuv>
     </tu>
     <tu>
