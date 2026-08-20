@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20109,6 +20109,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183749Z" creationid="olivier-tdf" creationdate="20250209T183749Z">
         <seg>Quaisquer células que tenham sido marcadas como protegidas deixarão de ser editáveis por qualquer pessoa que não tenha a senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any changes made in Calc do not affect the original image regardless of how it was inserted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260819T135232Z" creationid="timotheonb" creationdate="20260819T135232Z">
+        <seg>Qualquer alteração feita no Calc não afeta a figura original, independentemente de como ela foi inserida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66252,6 +66260,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inserted images may require modification to suit the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260819T134832Z" creationid="timotheonb" creationdate="20260819T134832Z">
+        <seg>As figura inseridas podem precisar de ajustes para se adequarem ao documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inserting</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T152828Z" creationid="tulio" creationdate="20250320T011458Z">
@@ -72920,6 +72936,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260409T125632Z" creationid="vitor" creationdate="20260409T125632Z">
         <seg>Modificar as Barras de erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Modifying images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260819T124008Z" creationid="timotheonb" creationdate="20260819T124008Z">
+        <seg>Modificar figuras</seg>
       </tuv>
     </tu>
     <tu>
@@ -128290,6 +128314,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T111304Z" creationid="timotheonb" creationdate="20260602T111304Z">
         <seg>modificar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>modifying images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260819T123959Z" creationid="timotheonb" creationdate="20260819T123959Z">
+        <seg>modificar imagens</seg>
       </tuv>
     </tu>
     <tu>
