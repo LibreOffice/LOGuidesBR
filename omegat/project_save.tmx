@@ -3808,6 +3808,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Area Style / Filling&lt;/f0&gt; – sets the color or other characteristics of the non-transparent background area that contains the image, not the image itself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T175422Z" creationid="timotheonb" creationdate="20260821T175000Z">
+        <seg>&lt;f0&gt;Estilo de área / preenchimento&lt;/f0&gt; – define a cor ou outras características da área de fundo não transparente que contém a imagem -- não a imagem em si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Area&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260429T110257Z" creationid="timotheonb" creationdate="20260429T110257Z">
@@ -4352,6 +4360,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Color&lt;/f0&gt; – opens the Color toolbar (Figure &lt;t1&gt;5&lt;/t1&gt;) to adjust the values of the red, green, blue colors, brightness, contrast and gamma.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180614Z" creationid="timotheonb" creationdate="20260821T180614Z">
+        <seg>&lt;f0&gt;Cor&lt;/f0&gt; – abre a barra de ferramentas Cor (Figura &lt;t1&gt;5&lt;/t1&gt;) para ajustar os valores das cores vermelho, verde, azul, brilho, contraste e gama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Color&lt;/f0&gt;: use the positive (negative) color for the entire data bar, no fade out gradient (Figure &lt;t1&gt;17&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T193551Z" creationid="firelinux" creationdate="20260403T193551Z">
@@ -4524,6 +4540,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251023T213347Z" creationid="timotheonb" creationdate="20251023T213212Z">
         <seg>&lt;f0&gt;Criado em&lt;/f0&gt; – exibe a data, a hora e o autor em que o arquivo foi aberto pela primeira vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Crop Image&lt;/f0&gt; – places cropping handles around the image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180430Z" creationid="timotheonb" creationdate="20260821T180430Z">
+        <seg>&lt;f0&gt;Recortar figura&lt;/f0&gt; – posiciona alças de corte ao redor da figura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,6 +5432,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Filter&lt;/f0&gt; – opens the Image Filter toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180003Z" creationid="timotheonb" creationdate="20260821T175826Z">
+        <seg>&lt;f0&gt;Filtro&lt;/f0&gt; – abre a barra de ferramentas Filtro de figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Find deck&lt;/f0&gt;: Type a search term or phrase in the box at the top, then press &lt;f1&gt;Enter&lt;/f1&gt; to display a list of the results and their context.&lt;f2&gt; For more information, see page &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220251Z" creationid="timot" creationdate="20250114T114507Z">
@@ -5436,6 +5468,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200344Z" creationid="olivier" creationdate="20250327T200344Z">
         <seg>&lt;f0&gt;Fixo&lt;/f0&gt; — Oferece maior controle sobre a apresentação quando um EPUB refluível não é adequado para o seu conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Flip Horizontally&lt;/f0&gt; and &lt;f1&gt;Flip Vertically&lt;/f1&gt; – changes the orientation of the image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180459Z" creationid="timotheonb" creationdate="20260821T180459Z">
+        <seg>&lt;f0&gt;Inverter horizontalmente&lt;/f0&gt; e &lt;f1&gt;Inverter verticalmente&lt;/f1&gt; – altera a orientação da figura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6040,6 +6080,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Image Mode&lt;/f0&gt; – changes the display of the image from color (&lt;f1&gt;Default&lt;/f1&gt;) to grayscale, black and white, or a watermark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180109Z" creationid="timotheonb" creationdate="20260821T180042Z">
+        <seg>&lt;f0&gt;Modo de figura&lt;/f0&gt; – altera a exibição da figura de colorida (&lt;f1&gt;Padrão&lt;/f1&gt;) para escala de cinza, preto e branco ou marca d'água.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Image&lt;/f0&gt;: Modify the image brightness, contrast, color mode, and transparency.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T110525Z" creationid="timot" creationdate="20250114T110525Z">
@@ -6396,6 +6444,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T085719Z" creationid="olivier" creationdate="20250308T085719Z">
         <seg>&lt;f0&gt;Cor da linha&lt;/f0&gt; no painel &lt;f1&gt;Linha&lt;/f1&gt; no deque Propriedades na barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Line Style&lt;/f0&gt;, &lt;f1&gt;Line Width&lt;/f1&gt;, &lt;f2&gt;Line Color&lt;/f2&gt; – set the attributes of the border around the image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T174922Z" creationid="timotheonb" creationdate="20260821T174922Z">
+        <seg>&lt;f0&gt;Estilo de linha&lt;/f0&gt;, &lt;f1&gt;Largura da linha&lt;/f1&gt;, &lt;f2&gt;Cor da linha&lt;/f2&gt; – define os atributos da borda ao redor da figura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7568,6 +7624,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Rotate&lt;/f0&gt; – places rotation handles around the image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180518Z" creationid="timotheonb" creationdate="20260821T180518Z">
+        <seg>&lt;f0&gt;Girar&lt;/f0&gt; – posiciona alças de rotação ao redor da figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Row&lt;/f0&gt; – type a row number and press the &lt;f1&gt;Enter&lt;/f1&gt; key to reposition the cell cursor to the specified row in the same column.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251022T190029Z" creationid="timotheonb" creationdate="20251022T190029Z">
@@ -7772,6 +7836,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T001838Z" creationid="firelinux" creationdate="20260415T001838Z">
         <seg>&lt;f0&gt;Sombra&lt;/f0&gt; – adiciona uma sombra que se projeta abaixo e à direita dos personagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Shadow&lt;/f0&gt; – sets the default shadow effect around the image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T175025Z" creationid="timotheonb" creationdate="20260821T175025Z">
+        <seg>&lt;f0&gt;Sombra&lt;/f0&gt; – define o efeito de sombra padrão em torno da figura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8700,6 +8772,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251023T213513Z" creationid="timotheonb" creationdate="20251023T213513Z">
         <seg>&lt;f0&gt;Tempo total de edição&lt;/f0&gt; – exibe a quantidade de tempo que o arquivo esteve aberto para edição desde que foi criado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Transparency&lt;/f0&gt; – adjusts the degree of transparency of the image between 0% (opaque) and 100% (fully transparent).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180543Z" creationid="timotheonb" creationdate="20260821T180543Z">
+        <seg>&lt;f0&gt;Transparência&lt;/f0&gt; – ajusta o grau de transparência da figura entre 0% (opaco) e 100% (total transparência).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10292,6 +10372,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T193507Z" creationid="firelinux" creationdate="20260403T193507Z">
         <seg>&lt;s0&gt;Escala de cores com 2 e 3 cores&lt;/s0&gt;&lt;s1&gt;Escala de cores com 2 e 3 cores&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Color toolbar&lt;/s0&gt;&lt;s1&gt;Color toolbar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180635Z" creationid="timotheonb" creationdate="20260821T180635Z">
+        <seg>&lt;s0&gt;Barra de ferramentas Cor&lt;/s0&gt;&lt;s1&gt;Barra de ferramentas Cor&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13308,6 +13396,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T204425Z" creationid="olivier" creationdate="20250404T204425Z">
         <seg>&lt;s0&gt;Caixa de diálogo Modelos&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Modelos&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Text Formatting toolbar for images&lt;/s0&gt;&lt;s1&gt;Text Formatting toolbar for images&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T181307Z" creationid="timotheonb" creationdate="20260821T181241Z">
+        <seg>&lt;s0&gt;Barra de ferramentas de Formatação de texto para figuras&lt;/s0&gt;&lt;s1&gt;Barra de ferramentas de Formatação de texto para figuras&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32449,6 +32545,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Color toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180701Z" creationid="timotheonb" creationdate="20260821T180701Z">
+        <seg>Barra de ferramentas Cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Color toolbar, which opens as a separate floating toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T130901Z" creationid="tulio" creationdate="20250411T130901Z">
@@ -39081,6 +39185,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-click on the image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T181015Z" creationid="timotheonb" creationdate="20260821T181015Z">
+        <seg>Clique duas vezes na figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-click on the required drawing style.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260409T134033Z" creationid="timotheonb" creationdate="20260409T134033Z">
@@ -39309,6 +39421,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T200157Z" creationid="olivier-tdf" creationdate="20250708T200157Z">
         <seg>O Dr. Mark Alexander Bain publicou o livro &lt;f0&gt;Learn OpenOffice.org Spreadsheet Macro Programming&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drag a handle to crop (hide) the edges of the image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180446Z" creationid="timotheonb" creationdate="20260821T180446Z">
+        <seg>Arraste uma alça para cortar (ocultar) as bordas da figura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41655,6 +41775,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202122Z" creationid="olivier" creationdate="20250327T202122Z">
         <seg>Insira os metadados personalizados que substituem os metadados padrão do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter the desired text and use the tools on the Text Formatting toolbar to format it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T183723Z" creationid="timotheonb" creationdate="20260821T183723Z">
+        <seg>Digite o texto desejado e use as ferramentas da barra de ferramentas Formatação de texto para formatá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47075,6 +47203,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Color toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180651Z" creationid="timotheonb" creationdate="20260821T180651Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: barra de ferramentas Cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Dialog with results of the Print instruction.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T083132Z" creationid="olivier-tdf" creationdate="20250701T083132Z">
@@ -47391,6 +47527,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T193518Z" creationid="olivier" creationdate="20250404T193518Z">
         <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Caixa de diálogo Estilo de parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Text Formatting toolbar for images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T181258Z" creationid="timotheonb" creationdate="20260821T181258Z">
+        <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: barra de ferramentas Formatação de texto para figuras</seg>
       </tuv>
     </tu>
     <tu>
@@ -51488,6 +51632,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250512T123359Z" creationid="timotheonb" creationdate="20250512T123359Z">
         <seg>Para mais informações sobre como adicionar e formatar texto, consulte o &lt;f0&gt;Guia do Impress&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on adding text to images, see the &lt;f0&gt;Draw Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T181007Z" creationid="timotheonb" creationdate="20260821T181007Z">
+        <seg>Para mais informações sobre como adicionar texto a figuras, consulte o &lt;f0&gt;Guia do Draw&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73412,6 +73564,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most of these tools are the same as those for formatting text in cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T213649Z" creationid="timotheonb" creationdate="20260821T213649Z">
+        <seg>A maioria das ferramentas são iguais às de formatação de texto em células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most tasks in LibreOffice are accomplished by dispatching a command.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110243Z" creationid="olivier-tdf" creationdate="20250701T110243Z">
@@ -76936,6 +77096,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T114909Z" creationid="timot" creationdate="20250407T114909Z">
         <seg>Neste menu, também, é possível responder a um comentário, abrir uma caixa de diálogo para aplicar alguma formatação básica ao texto e marcar os comentários como Resolvidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once added, the text will move along with the image when repositioned.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180950Z" creationid="timotheonb" creationdate="20260821T180950Z">
+        <seg>Uma vez adicionado, o texto se moverá junto com a imagem quando esta for reposicionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82277,6 +82445,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Properties deck, using with drawing objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180720Z" creationid="timotheonb" creationdate="20260821T180720Z">
+        <seg>Deque de propriedades, usando com objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Properties dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T192852Z" creationid="olivier-tdf" creationdate="20250328T192852Z">
@@ -87069,6 +87245,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the &lt;f1&gt;Draw Guide&lt;/f1&gt; for details on image filters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180018Z" creationid="timotheonb" creationdate="20260821T180018Z">
+        <seg>Consulte o &lt;f1&gt;Guia do Draw&lt;/f1&gt; para detalhes sobre filtros de figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the &lt;f1&gt;Draw Guide&lt;/f1&gt; for more information on how to modify areas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T175013Z" creationid="timotheonb" creationdate="20260821T175013Z">
+        <seg>Veja o &lt;f1&gt;Guia do Draw&lt;/f1&gt; para mais informações sobre como modificar áreas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the &lt;f1&gt;Draw Guide&lt;/f1&gt; for more information on the use of shading.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T233938Z" creationid="vitor" creationdate="20260407T233938Z">
@@ -87457,6 +87649,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T132101Z" creationid="timotheonb" creationdate="20260616T132101Z">
         <seg>Veja "&lt;bf4&gt;Ancorar figuras&lt;/bf4&gt;” &lt;bf5&gt;abaixo&lt;/bf5&gt; &lt;s6/&gt;para mais informações sobre essas opções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “&lt;bf6&gt;Arranging images&lt;/bf6&gt;” &lt;bf7&gt;below&lt;/bf7&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T174817Z" creationid="timotheonb" creationdate="20260821T174817Z">
+        <seg>Veja "&lt;bf6&gt;Ordenar figuras&lt;/bf6&gt;” &lt;bf7&gt;abaixo&lt;/bf7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -94893,6 +95093,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some of the settings in the Image toolbar are also available in the Properties deck on the Sidebar when an image is selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180815Z" creationid="timotheonb" creationdate="20260821T180815Z">
+        <seg>Algumas das configurações da barra de ferramentas Figura também estão disponíveis no deque Propriedades da Barra lateral quando uma figura é selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some of the shortcut keys may be assigned to the computer operating system and are not available for LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000715Z" creationid="olivier" creationdate="20250303T000715Z">
@@ -97966,6 +98174,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Formatting toolbar for images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T183711Z" creationid="timotheonb" creationdate="20260821T183711Z">
+        <seg>Barra de ferramentas de formatação de texto para imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Import dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122656Z" creationid="olivier-tdf" creationdate="20250117T122656Z">
@@ -98050,6 +98266,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T111523Z" creationid="timotheonb" creationdate="20250514T111523Z">
         <seg>Caixas de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text can be added directly to an image or drawing object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180942Z" creationid="timotheonb" creationdate="20260821T180942Z">
+        <seg>É possível adicionar texto diretamente a uma figura ou objeto de desenho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100674,6 +100898,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250701T153510Z" creationid="firelinux" creationdate="20250701T153510Z">
         <seg>A barra de ferramentas Formatação de Texto (Figura &lt;t0&gt;8&lt;/t0&gt;) é semelhante à barra de ferramentas Formatação no LibreOffice Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Text Formatting toolbar automatically opens at the top of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T181055Z" creationid="timotheonb" creationdate="20260821T181055Z">
+        <seg>A barra de ferramentas Formatação de texto abre automaticamente na parte superior do documento de planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -104910,6 +105142,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The options in the Properties deck include the &lt;f0&gt;Image&lt;/f0&gt;, &lt;f1&gt;Line&lt;/f1&gt;, &lt;f2&gt;Position and Size, &lt;/f2&gt;and&lt;f3&gt; Columns&lt;/f3&gt; settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180901Z" creationid="timotheonb" creationdate="20260821T180901Z">
+        <seg>As opções no deque Propriedades incluem: configurações de &lt;f0&gt;Figura&lt;/f0&gt;, &lt;f1&gt;Linha&lt;/f1&gt;, &lt;f2&gt;Posição e tamanho,&lt;/f2&gt; e &lt;f3&gt;Colunas&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The options in the dialog depend on which axis was selected, type of chart, and whether the chart is 2D or 3D.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T113341Z" creationid="vitor" creationdate="20260405T113341Z">
@@ -106258,6 +106498,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T203158Z" creationid="olivier" creationdate="20250327T203158Z">
         <seg>O conteúdo do texto, layout da página, atributos de texto, meta tags e estilos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The text cursor flashes in the center of the image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T181022Z" creationid="timotheonb" creationdate="20260821T181022Z">
+        <seg>O cursor de texto pisca no centro da figura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110302,6 +110550,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This setting affects only the display and printing of the image; the original image file remains unchanged.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180129Z" creationid="timotheonb" creationdate="20260821T180046Z">
+        <seg>Esta configuração afeta apenas a exibição e impressão da figura; o arquivo de figura original permanece inalterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This setting can create large files when used with photographs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215237Z" creationid="olivier" creationdate="20250324T215237Z">
@@ -111114,6 +111370,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190746Z" creationid="olivier-tdf" creationdate="20250708T190746Z">
         <seg>Para adicionar esta macro a uma biblioteca, siga as etapas descritas em "&lt;bf0&gt;Um exemplo de uma macro no código para o Writer&lt;/bf0&gt;" na página &lt;bf1&gt;22&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To adjust the shadow effect, open the Area dialog (&lt;f1&gt;Format &gt; Object &gt; Area&lt;/f1&gt;) and choose the &lt;f2&gt;Shadow&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T175842Z" creationid="timotheonb" creationdate="20260821T175334Z">
+        <seg>Para ajustar o efeito de sombra, abra a caixa de diálogo Área (&lt;f1&gt;Formatar &gt; Caixa de texto e formas &gt; Área&lt;/f1&gt;) e escolha a aba &lt;f2&gt;Sombra&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119758,6 +120022,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using the Properties deck in the Sidebar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180751Z" creationid="timotheonb" creationdate="20260821T180751Z">
+        <seg>Deque Propriedades na Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the Sheet menu:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T121952Z" creationid="olivier" creationdate="20250121T121952Z">
@@ -126854,6 +127126,30 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>adding text to</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180930Z" creationid="timotheonb" creationdate="20260821T180930Z">
+        <seg>adicionar texto a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>adding to drawing objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180910Z" creationid="timotheonb" creationdate="20260821T180910Z">
+        <seg>adicionar objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>adding to images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180919Z" creationid="timotheonb" creationdate="20260821T180919Z">
+        <seg>adicionar às imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>advanced filters</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260331T143603Z" creationid="timotheonb" creationdate="20260331T143603Z">
@@ -129626,6 +129922,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260610T004343Z" creationid="timotheonb" creationdate="20260610T004343Z">
         <seg>usar para atualizar estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>using with images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180734Z" creationid="timotheonb" creationdate="20260821T180734Z">
+        <seg>usando com imagens</seg>
       </tuv>
     </tu>
     <tu>
