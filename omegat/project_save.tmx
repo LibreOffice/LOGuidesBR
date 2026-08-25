@@ -7240,6 +7240,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Position Y&lt;/f0&gt; – the vertical distance from the base point selected in the grid.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213827Z" creationid="timotheonb" creationdate="20260825T213827Z">
+        <seg>&lt;f0&gt;Posição Y&lt;/f0&gt; – a distância vertical do ponto base selecionado na grade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Position and Size&lt;/f0&gt;: Modify width and height.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T111754Z" creationid="timot" creationdate="20250114T111754Z">
@@ -7388,6 +7396,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251031T141825Z" creationid="timotheonb" creationdate="20251031T141825Z">
         <seg>&lt;f0&gt;Proteger&lt;/f0&gt; ou &lt;f1&gt;Desproteger&lt;/f1&gt; – protege o estado de alteração da gravação com uma senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Protect&lt;/f0&gt; – to prevent accidental movement or resizing of the image, select the relevant option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T214502Z" creationid="timotheonb" creationdate="20260825T214502Z">
+        <seg>&lt;f0&gt;Proteger&lt;/f0&gt; – para evitar movimento acidental ou redimensionamento da figura, selecione esta opção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8052,6 +8068,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260411T191804Z" creationid="timotheonb" creationdate="20260411T191741Z">
         <seg>&lt;f0&gt;Tamanho&lt;/f0&gt; – selecione ou digite o tamanho da fonte que deseja aplicar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Size&lt;/f0&gt; – the width and height of the image with respect to the selected base point.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213835Z" creationid="timotheonb" creationdate="20260825T213835Z">
+        <seg>&lt;f0&gt;Tamanho&lt;/f0&gt; – a largura e altura da figura em relação ao ponto base selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54782,8 +54806,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Edit &gt; Paste Special &gt; Paste Special&lt;/f0&gt; on the Menu bar, or right-click and select &lt;f1&gt;Paste Special &gt; Paste Special&lt;/f1&gt; in the context menu, or press &lt;f2&gt;Ctrl+Shift+V&lt;/f2&gt;, to open the Paste Special dialog (described in the “Paste Special dialog” section in Chapter 2, Entering and Editing).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194059Z" creationid="firelinux" creationdate="20260403T194059Z">
-        <seg>Vá para&lt;f0&gt;Editar &gt; Colar especial &gt; Colar especial&lt;/f0&gt; na barra de menus ou clique com o botão direito do mouse e selecione&lt;f1&gt;Colar especial &gt; Colar especial&lt;/f1&gt; no menu de contexto ou pressione&lt;f2&gt;Ctrl+Shift+V&lt;/f2&gt;, para abrir a caixa de diálogo Colar Especial (descrita na seção “Caixa de diálogo Colar Especial” no Capítulo 2, Inserindo e Editando).</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="firelinux" creationdate="20260403T194059Z">
+        <seg>Vá para&lt;f0&gt;Editar &gt; Colar especial &gt; Colar especial&lt;/f0&gt; na Barra de menus ou clique com o botão direito do mouse e selecione&lt;f1&gt;Colar especial &gt; Colar especial&lt;/f1&gt; no menu de contexto ou pressione&lt;f2&gt;Ctrl+Shift+V&lt;/f2&gt;, para abrir a caixa de diálogo Colar Especial (descrita na seção “Caixa de diálogo Colar Especial” no Capítulo 2, Inserindo e Editando).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55126,8 +55150,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Format &gt; AutoFormat Styles&lt;/f0&gt; on the Menu bar to open the AutoFormat dialog (Figure &lt;t1&gt;9&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184657Z" creationid="firelinux" creationdate="20260403T184657Z">
-        <seg>Vá para&lt;f0&gt;Formatar &gt; Estilos de formatação automática&lt;/f0&gt; na barra de menus para abrir a caixa de diálogo AutoFormatar (Figura&lt;t1&gt;9&lt;/t1&gt;).</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="firelinux" creationdate="20260403T184657Z">
+        <seg>Vá para&lt;f0&gt;Formatar &gt; Estilos de formatação automática&lt;/f0&gt; na Barra de menus para abrir a caixa de diálogo AutoFormatar (Figura&lt;t1&gt;9&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55158,16 +55182,16 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Format &gt; Cells&lt;/f0&gt; on the Menu bar, or right-click and select &lt;f1&gt;Format Cells&lt;/f1&gt; in the context menu, or press &lt;f2&gt;Ctrl+1&lt;/f2&gt;, to open the Format Cells dialog (Figure &lt;t3&gt;27&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194151Z" creationid="firelinux" creationdate="20260403T194151Z">
-        <seg>Vá para&lt;f0&gt;Formatar &gt; Células&lt;/f0&gt; na barra de menus ou clique com o botão direito do mouse e selecione&lt;f1&gt;Formatar células&lt;/f1&gt; no menu de contexto ou pressione&lt;f2&gt;Ctrl+1&lt;/f2&gt;, para abrir a caixa de diálogo Formatar Células (Figura&lt;t3&gt;27&lt;/t3&gt;).</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="firelinux" creationdate="20260403T194151Z">
+        <seg>Vá para&lt;f0&gt;Formatar &gt; Células&lt;/f0&gt; na Barra de menus ou clique com o botão direito do mouse e selecione&lt;f1&gt;Formatar células&lt;/f1&gt; no menu de contexto ou pressione&lt;f2&gt;Ctrl+1&lt;/f2&gt;, para abrir a caixa de diálogo Formatar Células (Figura&lt;t3&gt;27&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Format &gt; Cells&lt;/f0&gt; on the Menu bar, or right-click and select &lt;f1&gt;Format Cells&lt;/f1&gt; in the context menu, or press &lt;f2&gt;Ctrl+1&lt;/f2&gt;, to open the Format Cells dialog.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165626Z" creationid="firelinux" creationdate="20260403T165626Z">
-        <seg>Vá para&lt;f0&gt;Formatar &gt; Células&lt;/f0&gt; na barra de menus ou clique com o botão direito do mouse e selecione&lt;f1&gt;Formatar células&lt;/f1&gt; no menu de contexto ou pressione&lt;f2&gt;Ctrl+1&lt;/f2&gt;, para abrir a caixa de diálogo Formatar Células.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="firelinux" creationdate="20260403T165626Z">
+        <seg>Vá para&lt;f0&gt;Formatar &gt; Células&lt;/f0&gt; na Barra de menus ou clique com o botão direito do mouse e selecione&lt;f1&gt;Formatar células&lt;/f1&gt; no menu de contexto ou pressione&lt;f2&gt;Ctrl+1&lt;/f2&gt;, para abrir a caixa de diálogo Formatar Células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55206,8 +55230,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Format &gt; Conditional &gt; Condition&lt;/f0&gt; (Figure &lt;t1&gt;16&lt;/t1&gt;), &lt;f2&gt;Color Scale&lt;/f2&gt; (Figure &lt;t3&gt;21&lt;/t3&gt;), &lt;f4&gt;Data Bar &lt;/f4&gt;(Figure &lt;t5&gt;22&lt;/t5&gt;), &lt;f6&gt;Icon Set&lt;/f6&gt; (Figure &lt;t7&gt;24&lt;/t7&gt;), or &lt;f8&gt;Date&lt;/f8&gt; (Figure &lt;t9&gt;20&lt;/t9&gt;), on the Menu bar to open the Conditional Formatting dialog.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184824Z" creationid="firelinux" creationdate="20260403T184824Z">
-        <seg>Vá para&lt;f0&gt;Formatar &gt; Condicional &gt; Condição&lt;/f0&gt; (Figura&lt;t1&gt;16&lt;/t1&gt;),&lt;f2&gt;Escala de cores&lt;/f2&gt; (Figura&lt;t3&gt;21&lt;/t3&gt;),&lt;f4&gt;Barra de dados&lt;/f4&gt;(Figura&lt;t5&gt;22&lt;/t5&gt;),&lt;f6&gt;Conjunto de ícones&lt;/f6&gt; (Figura&lt;t7&gt;24&lt;/t7&gt;), ou&lt;f8&gt;Data&lt;/f8&gt; (Figura&lt;t9&gt;20&lt;/t9&gt;), na barra de menus para abrir a caixa de diálogo Formatação Condicional.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="firelinux" creationdate="20260403T184824Z">
+        <seg>Vá para&lt;f0&gt;Formatar &gt; Condicional &gt; Condição&lt;/f0&gt; (Figura&lt;t1&gt;16&lt;/t1&gt;),&lt;f2&gt;Escala de cores&lt;/f2&gt; (Figura&lt;t3&gt;21&lt;/t3&gt;),&lt;f4&gt;Barra de dados&lt;/f4&gt;(Figura&lt;t5&gt;22&lt;/t5&gt;),&lt;f6&gt;Conjunto de ícones&lt;/f6&gt; (Figura&lt;t7&gt;24&lt;/t7&gt;), ou&lt;f8&gt;Data&lt;/f8&gt; (Figura&lt;t9&gt;20&lt;/t9&gt;), na Barra de menus para abrir a caixa de diálogo Formatação Condicional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55422,8 +55446,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Format &gt; Spreadsheet Theme&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Spreadsheet Theme&lt;/f1&gt; icon on the Tools toolbar, to open the Theme Selection dialog (Figure &lt;t2&gt;17&lt;/t2&gt;), which lists the available themes for the whole spreadsheet.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260529T113621Z" creationid="timotheonb" creationdate="20260529T113621Z">
-        <seg>Vá para &lt;f0&gt;Formatar &gt; Tema da planilha&lt;/f0&gt; na barra de menus ou clique no ícone &lt;f1&gt;Tema de planilha&lt;/f1&gt; na barra de ferramentas Ferramentas, para abrir a caixa de diálogo Seleção de tema (Figura&lt;t2&gt;17&lt;/t2&gt;), que lista os temas disponíveis para toda a planilha.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="timotheonb" creationdate="20260529T113621Z">
+        <seg>Vá para &lt;f0&gt;Formatar &gt; Tema da planilha&lt;/f0&gt; na Barra de menus ou clique no ícone &lt;f1&gt;Tema de planilha&lt;/f1&gt; na barra de ferramentas Ferramentas, para abrir a caixa de diálogo Seleção de tema (Figura&lt;t2&gt;17&lt;/t2&gt;), que lista os temas disponíveis para toda a planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56110,8 +56134,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Protect Sheet&lt;/f0&gt; on the Menu bar, or right-click on the sheet tab and select &lt;f1&gt;Protect Sheet&lt;/f1&gt; in the context menu, to open the Protect Sheet dialog (Figure &lt;t2&gt;28&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194155Z" creationid="firelinux" creationdate="20260403T194155Z">
-        <seg>Vá para&lt;f0&gt;Ferramentas &gt; Folha de Proteção&lt;/f0&gt; na barra de menus ou clique com o botão direito do mouse na guia da planilha e selecione&lt;f1&gt;Folha protetora&lt;/f1&gt; No menu de contexto, para abrir a caixa de diálogo Proteger Folha (Figura&lt;t2&gt;28&lt;/t2&gt;).</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="firelinux" creationdate="20260403T194155Z">
+        <seg>Vá para&lt;f0&gt;Ferramentas &gt; Folha de Proteção&lt;/f0&gt; na Barra de menus ou clique com o botão direito do mouse na guia da planilha e selecione&lt;f1&gt;Folha protetora&lt;/f1&gt; No menu de contexto, para abrir a caixa de diálogo Proteger Folha (Figura&lt;t2&gt;28&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56270,8 +56294,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;View &gt; Toolbars &gt; Find&lt;/f0&gt; or &lt;f1&gt;Edit &gt; Find&lt;/f1&gt; on the Menu bar, or use the keyboard shortcut &lt;f2&gt;Ctrl+F&lt;/f2&gt;, to open the Find toolbar (Figure &lt;t3&gt;31&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T164419Z" creationid="firelinux" creationdate="20260403T164419Z">
-        <seg>Vá para&lt;f0&gt;Exibir &gt; Barras de ferramentas &gt; Localizar&lt;/f0&gt; ou&lt;f1&gt;Editar &gt; Localizar&lt;/f1&gt; na barra de menus ou use o atalho de teclado.&lt;f2&gt;Ctrl+F&lt;/f2&gt;, para abrir a barra de ferramentas Localizar (Figura&lt;t3&gt;31&lt;/t3&gt;).</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="firelinux" creationdate="20260403T164419Z">
+        <seg>Vá para&lt;f0&gt;Exibir &gt; Barras de ferramentas &gt; Localizar&lt;/f0&gt; ou&lt;f1&gt;Editar &gt; Localizar&lt;/f1&gt; na Barra de menus ou use o atalho de teclado.&lt;f2&gt;Ctrl+F&lt;/f2&gt;, para abrir a barra de ferramentas Localizar (Figura&lt;t3&gt;31&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56310,8 +56334,8 @@
       <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;View &gt; Value Highlighting&lt;/f0&gt; on the Menu bar, or use the keyboard shortcut &lt;f1&gt;Ctrl+F8&lt;/f1&gt;, to turn the function on or off.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184754Z" creationid="firelinux" creationdate="20260403T184754Z">
-        <seg>Vá para&lt;f0&gt;Visualizar &gt; Destaque de Valores&lt;/f0&gt; na barra de menus ou use o atalho de teclado.&lt;f1&gt;Ctrl+F8&lt;/f1&gt;, para ativar ou desativar a função.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="firelinux" creationdate="20260403T184754Z">
+        <seg>Vá para&lt;f0&gt;Visualizar &gt; Destaque de Valores&lt;/f0&gt; na Barra de menus ou use o atalho de teclado.&lt;f1&gt;Ctrl+F8&lt;/f1&gt;, para ativar ou desativar a função.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72326,8 +72350,8 @@
       <tuv lang="en-US">
         <seg>Many of these styles are shown on the &lt;f0&gt;Styles&lt;/f0&gt; menu on the Menu bar and all are shown in the Styles deck of the Sidebar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T195419Z" creationid="firelinux" creationdate="20260403T195419Z">
-        <seg>Muitos desses estilos são mostrados no&lt;f0&gt;Estilos&lt;/f0&gt; O menu está na barra de menus e todos os itens são exibidos no painel Estilos da barra lateral.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="firelinux" creationdate="20260403T195419Z">
+        <seg>Muitos desses estilos são mostrados no&lt;f0&gt;Estilos&lt;/f0&gt; O menu está na Barra de menus e todos os itens são exibidos no painel Estilos da barra lateral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84919,8 +84943,8 @@
       <tuv lang="en-US">
         <seg>Right-click and select &lt;f0&gt;Format Cells&lt;/f0&gt; in the context menu, or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar, or press &lt;f2&gt;Ctrl+1&lt;/f2&gt;, to open the Format Cells dialog.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165837Z" creationid="firelinux" creationdate="20260403T165837Z">
-        <seg>Clique com o botão direito do mouse e selecione&lt;f0&gt;Formatar células&lt;/f0&gt; no menu de contexto, ou acesse&lt;f1&gt;Formatar &gt; Células&lt;/f1&gt; na barra de menus ou pressione&lt;f2&gt;Ctrl+1&lt;/f2&gt;, para abrir a caixa de diálogo Formatar Células.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="firelinux" creationdate="20260403T165837Z">
+        <seg>Clique com o botão direito do mouse e selecione&lt;f0&gt;Formatar células&lt;/f0&gt; no menu de contexto, ou acesse&lt;f1&gt;Formatar &gt; Células&lt;/f1&gt; na Barra de menus ou pressione&lt;f2&gt;Ctrl+1&lt;/f2&gt;, para abrir a caixa de diálogo Formatar Células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88455,8 +88479,8 @@
       <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Sheet &gt; Show Sheet&lt;/f0&gt; on the Menu bar, or right-click on any sheet tab and select &lt;f1&gt;Show Sheet&lt;/f1&gt; in the context menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194211Z" creationid="firelinux" creationdate="20260403T194211Z">
-        <seg>Selecione&lt;f0&gt;Planilha &gt; Mostrar Planilha&lt;/f0&gt; na barra de menus ou clique com o botão direito do mouse em qualquer guia da planilha e selecione&lt;f1&gt;Folha de Apresentação&lt;/f1&gt; no menu de contexto.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="firelinux" creationdate="20260403T194211Z">
+        <seg>Selecione&lt;f0&gt;Planilha &gt; Mostrar Planilha&lt;/f0&gt; na Barra de menus ou clique com o botão direito do mouse em qualquer guia da planilha e selecione&lt;f1&gt;Folha de Apresentação&lt;/f1&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -99968,8 +99992,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>The Gallery (Figure &lt;t0&gt;2&lt;/t0&gt;) provides a convenient way to group reusable objects such as images and sounds that you can insert into your documents.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T133259Z" creationid="timotheonb" creationdate="20260616T133259Z">
-        <seg>[parcial]A Galeria (2) oferece uma maneira conveniente de agrupar objetos reutilizáveis, como figuras e sons, que pode-se inserir em seus documentos.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T214541Z" creationid="timotheonb" creationdate="20260616T133259Z">
+        <seg>A Galeria (Figura &lt;t0&gt;2&lt;/t0&gt;) oferece uma maneira conveniente de agrupar objetos reutilizáveis, como figuras e sons, que pode-se inserir em seus documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100472,8 +100496,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>The Navigator deck can also be opened by selecting &lt;f0&gt;View &gt; Navigator&lt;/f0&gt; from the Menu bar or pressing &lt;f1&gt;F5&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="firelinux" changedate="20250907T002320Z" creationid="firelinux" creationdate="20250907T002320Z">
-        <seg>O deque do navegador também pode ser aberto selecionando &lt;f0&gt;Visualizar &gt; Navegador&lt;/f0&gt; na barra de menus ou pressionando &lt;f1&gt;F5&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="firelinux" creationdate="20250907T002320Z">
+        <seg>O deque do navegador também pode ser aberto selecionando &lt;f0&gt;Visualizar &gt; Navegador&lt;/f0&gt; na Barra de menus ou pressionando &lt;f1&gt;F5&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113096,8 +113120,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>To display the Help system, press &lt;f0&gt;F1&lt;/f0&gt; or select &lt;f1&gt;Help &gt; LibreOffice Help&lt;/f1&gt; from the Menu bar (Figure &lt;t2&gt;1&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250725T113710Z" creationid="olivier" creationdate="20250725T113710Z">
-        <seg>Para exibir o sistema de Ajuda, pressione &lt;f0&gt;F1&lt;/f0&gt; ou selecione &lt;f1&gt;Ajuda &gt; Ajuda do LibreOffice&lt;/f1&gt; na barra de menus (Figura &lt;t2&gt;1&lt;/t2&gt;).</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="olivier" creationdate="20250725T113710Z">
+        <seg>Para exibir o sistema de Ajuda, pressione &lt;f0&gt;F1&lt;/f0&gt; ou selecione &lt;f1&gt;Ajuda &gt; Ajuda do LibreOffice&lt;/f1&gt; na Barra de menus (Figura &lt;t2&gt;1&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -115720,8 +115744,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>To select the entire sheet, click on the small box between the column headers and the row headers (Figure &lt;t0&gt;15&lt;/t0&gt;), use the key combination &lt;f1&gt;Ctrl+A&lt;/f1&gt;, press &lt;f2&gt;Ctrl&lt;/f2&gt;+&lt;f3&gt;Shift&lt;/f3&gt;+&lt;f4&gt;Space&lt;/f4&gt;, or go to &lt;f5&gt;Edit&lt;/f5&gt; on the Menu bar and select &lt;f6&gt;Select All&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20251021T220526Z" creationid="timotheonb" creationdate="20251021T220526Z">
-        <seg>Para selecionar a planilha inteira, clique na pequena caixa entre os cabeçalhos das colunas e os cabeçalhos das linhas (Figura&lt;t0&gt;15&lt;/t0&gt;), use a combinação de teclas &lt;f1&gt;Ctrl+A&lt;/f1&gt;, tecle &lt;f2&gt;Ctrl&lt;/f2&gt;+&lt;f3&gt;Shift&lt;/f3&gt;+&lt;f4&gt;Espaço&lt;/f4&gt;, ou vá para &lt;f5&gt;Editar&lt;/f5&gt; na barra de menus e selecione&lt;f6&gt;Selecionar tudo&lt;/f6&gt;.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="timotheonb" creationdate="20251021T220526Z">
+        <seg>Para selecionar a planilha inteira, clique na pequena caixa entre os cabeçalhos das colunas e os cabeçalhos das linhas (Figura&lt;t0&gt;15&lt;/t0&gt;), use a combinação de teclas &lt;f1&gt;Ctrl+A&lt;/f1&gt;, tecle &lt;f2&gt;Ctrl&lt;/f2&gt;+&lt;f3&gt;Shift&lt;/f3&gt;+&lt;f4&gt;Espaço&lt;/f4&gt;, ou vá para &lt;f5&gt;Editar&lt;/f5&gt; na Barra de menus e selecione&lt;f6&gt;Selecionar tudo&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116112,8 +116136,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>To turn it off, go to &lt;f0&gt;Tools&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;AutoInput&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212554Z" creationid="olivier" creationdate="20250123T212554Z">
-        <seg>Para desativá-la, acesse &lt;f0&gt;Ferramentas&lt;/f0&gt; na barra de menus e desmarque &lt;f1&gt; Autoentrada&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="olivier" creationdate="20250123T212554Z">
+        <seg>Para desativá-la, acesse &lt;f0&gt;Ferramentas&lt;/f0&gt; na Barra de menus e desmarque &lt;f1&gt; Autoentrada&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118176,8 +118200,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>Use &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt; on the Menu bar and select the &lt;f1&gt;Enable macro recording (maybe limited)&lt;/f1&gt; option to enable the macro recorder.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="vitor" changedate="20260512T234810Z" creationid="olivier" creationdate="20251123T114447Z">
-        <seg>Use &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Avançado&lt;/f0&gt; na barra de menus e selecione a opção &lt;f1&gt;Ativar gravação de macro (talvez limitado)&lt;/f1&gt; para ativar o gravador de macro.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="olivier" creationdate="20251123T114447Z">
+        <seg>Use &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Avançado&lt;/f0&gt; na Barra de menus e selecione a opção &lt;f1&gt;Ativar gravação de macro (talvez limitado)&lt;/f1&gt; para ativar o gravador de macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125464,8 +125488,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>You can also select sheets using the Select Sheets dialog, accessed by selecting &lt;f0&gt;Edit &gt; Select &gt; Select Sheets&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20251021T221113Z" creationid="timotheonb" creationdate="20251021T221113Z">
-        <seg>Também, é possível selecionar planilhas usando a caixa de diálogo Selecionar planilhas, na barra de menus em &lt;f0&gt;Editar &gt; Selecionar &gt; Selecionar planilhas&lt;/f0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T213743Z" creationid="timotheonb" creationdate="20251021T221113Z">
+        <seg>Também, é possível selecionar planilhas usando a caixa de diálogo Selecionar planilhas, na Barra de menus em &lt;f0&gt;Editar &gt; Selecionar &gt; Selecionar planilhas&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
