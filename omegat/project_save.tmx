@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12676,6 +12676,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T212757Z" creationid="olivier" creationdate="20250308T090727Z">
         <seg>&lt;s0&gt;Caixa de diálogo Selecionar cor&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Selecionar cor&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Position and Size dialog – Position and Size tab&lt;/s0&gt;&lt;s1&gt;Position and Size dialog – Position and Size tab&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260827T211209Z" creationid="timotheonb" creationdate="20260827T211209Z">
+        <seg>[parcial]&lt;s0&gt;Caixa de diálogo Posição e Tamanho - Aba Posição e Tamanho&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Posição e Tamanho - Aba Posição e Tamanho&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -63028,6 +63036,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Images can also be rotated or slanted using the Rotation or Slant &amp; Corner Radius tabs within the Position and Size dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260827T194004Z" creationid="timotheonb" creationdate="20260827T194004Z">
+        <seg>As figuras também podem ser rotacionadas ou inclinadas, usando as guias Rotação ou Inclinação e Raio do Canto na caixa de diálogo Posição e Tamanho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Images in Writer are of these basic types:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T201812Z" creationid="timot" creationdate="20250409T201812Z">
@@ -87365,6 +87381,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the &lt;f0&gt;Draw Guide&lt;/f0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260827T194115Z" creationid="timotheonb" creationdate="20260827T194115Z">
+        <seg>Veja o &lt;f0&gt;Guia do Draw&lt;/f0&gt; para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the &lt;f0&gt;Draw Guide&lt;/f0&gt; for more information on setting the illumination.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T234408Z" creationid="vitor" creationdate="20260407T234408Z">
@@ -108846,6 +108870,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This adjustment is valid for a single use only; once the Position and Size dialog is closed, the base point resets to the default top-left corner.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260827T193047Z" creationid="timotheonb" creationdate="20260827T193047Z">
+        <seg>Este ajuste é válido apenas para uma única utilização; após o fechamento da caixa de diálogo Posição e tamanho, o ponto base retorna ao canto superior esquerdo padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This allows drawing another object of the same type.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T131236Z" creationid="olivier-tdf" creationdate="20250615T131236Z">
@@ -108970,6 +109002,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195841Z" creationid="olivier-tdf" creationdate="20250209T195841Z">
         <seg>Isso altera automaticamente as &lt;f2&gt;Linhas para repetir&lt;/f2&gt; de &lt;f3&gt;- nenhuma -&lt;/f3&gt; para &lt;f4&gt;- definido pelo usuário -&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This base point can be temporarily changed to simplify alignment or dimensioning by clicking a position that corresponds to the desired reference point.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260827T193011Z" creationid="timotheonb" creationdate="20260827T193011Z">
+        <seg>Este ponto base pode ser alterado temporariamente para simplificar o alinhamento ou a medição clicando em uma posição que corresponda ao ponto de referência desejado.</seg>
       </tuv>
     </tu>
     <tu>
