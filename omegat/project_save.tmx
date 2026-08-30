@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21085,6 +21085,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250602T214719Z" creationid="olivier" creationdate="20250602T214719Z">
         <seg>Disposição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arranging images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260830T221822Z" creationid="olivier-tdf" creationdate="20260830T221822Z">
+        <seg>Organizar figuras</seg>
       </tuv>
     </tu>
     <tu>
@@ -47919,6 +47927,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T202407Z" creationid="timotheonb" creationdate="20250502T202407Z">
         <seg>Figura&lt;seq0&gt;8&lt;/seq0&gt;: Barra de ferramentas de Tópicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Position and Size dialog – Position and Size tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260830T221726Z" creationid="olivier-tdf" creationdate="20260830T221726Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Caixa de diálogo Posição e Tamanho – Aba Posição e Tamanho</seg>
       </tuv>
     </tu>
     <tu>
@@ -81320,6 +81336,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T102940Z" creationid="vitor" creationdate="20260412T102940Z">
         <seg>Caixa de diálogo Posição e Tamanho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Position and Size dialog – Position and Size tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260830T221748Z" creationid="olivier-tdf" creationdate="20260830T221748Z">
+        <seg>Caixa de diálogo Posição e Tamanho - Aba Posição e Tamanho</seg>
       </tuv>
     </tu>
     <tu>
@@ -127550,6 +127574,22 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>arranging (stacking)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260830T221811Z" creationid="olivier-tdf" creationdate="20260830T221811Z">
+        <seg>organizar (empilhar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>arranging images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260830T221817Z" creationid="olivier-tdf" creationdate="20260830T221817Z">
+        <seg>organizando imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>arrow cursor</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250907T003034Z" creationid="firelinux" creationdate="20250907T003034Z">
@@ -130002,6 +130042,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250813T202648Z" creationid="timotheonb" creationdate="20250813T202648Z">
         <seg>planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>stacking images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260830T221803Z" creationid="olivier-tdf" creationdate="20260830T221803Z">
+        <seg>organização de imagens</seg>
       </tuv>
     </tu>
     <tu>
