@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -107261,6 +107261,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The visibility of elements on this variant can be modified using the &lt;f0&gt;View&lt;/f0&gt; menu on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260830T142649Z" creationid="olivier" creationdate="20260830T142649Z">
+        <seg>A visibilidade dos elementos nesta variante pode ser modificada usando o menu &lt;f0&gt;Visualizar&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The watermark is not part of the source document.</seg>
       </tuv>
@@ -107338,6 +107347,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T102554Z" creationid="timot" creationdate="20250206T101745Z">
         <seg>A palavra será adicionada ao dicionário standard, a menos que tenha criado outro dicionário no mesmo idioma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The “x” symbol at the right end of the Menu bar is an icon for the &lt;f0&gt;Close Document&lt;/f0&gt; command.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260830T095648Z" creationid="olivier" creationdate="20260830T095648Z">
+        <seg>O símbolo "x" na extremidade direita da barra de menus é um ícone para o comando &lt;f0&gt;Fechar documento&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122762,6 +122780,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203104Z" creationid="olivier-tdf" creationdate="20250328T203104Z">
         <seg>Ao assinar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>When switching to this user interface variant, Calc automatically opens the Sidebar if it is not already open.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260830T142639Z" creationid="olivier" creationdate="20260830T142639Z">
+        <seg>Ao mudar para esta variante da interface do usuário, o Calc abre automaticamente a Barra Lateral se ainda não estiver aberta.</seg>
       </tuv>
     </tu>
     <tu>
