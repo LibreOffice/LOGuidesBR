@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_8bd0ce6" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -89743,8 +89743,8 @@
       <tuv lang="en-US">
         <seg>Select from cursor to A1 in current sheet.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20260317T234009Z" creationid="olivier" creationdate="20260317T233938Z">
-        <seg>Seleciona do cursor até A1 da planilha atual.1</seg>
+      <tuv lang="pt-BR" changeid="vitor" changedate="20260831T235714Z" creationid="olivier" creationdate="20260317T233938Z">
+        <seg>Seleciona do cursor até A1 da planilha atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107277,7 +107277,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>The visibility of elements on this variant can be modified using the &lt;f0&gt;View&lt;/f0&gt; menu on the Menu bar.</seg>
       </tuv>
@@ -107366,7 +107365,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>The “x” symbol at the right end of the Menu bar is an icon for the &lt;f0&gt;Close Document&lt;/f0&gt; command.</seg>
       </tuv>
@@ -122799,7 +122797,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>When switching to this user interface variant, Calc automatically opens the Sidebar if it is not already open.</seg>
       </tuv>
