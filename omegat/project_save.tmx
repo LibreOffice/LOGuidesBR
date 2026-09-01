@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_8bd0ce6" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12682,8 +12682,8 @@
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Position and Size dialog – Position and Size tab&lt;/s0&gt;&lt;s1&gt;Position and Size dialog – Position and Size tab&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260827T211209Z" creationid="timotheonb" creationdate="20260827T211209Z">
-        <seg>[parcial]&lt;s0&gt;Caixa de diálogo Posição e Tamanho - Aba Posição e Tamanho&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Posição e Tamanho - Aba Posição e Tamanho&lt;/s1&gt;</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260831T174700Z" creationid="timotheonb" creationdate="20260827T211209Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Posição e tamanho - aba Posição e tamanho&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Posição e tamanho - aba Posição e tamanho&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23787,8 +23787,8 @@
       <tuv lang="en-US">
         <seg>Calc Guide 26.2 - Chapter 8 , Printing, Exporting, Emailing, and Signing</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T133539Z" creationid="timotheonb" creationdate="20260616T133539Z">
-        <seg>[parcial]Calc Guide 26.2 - Capítulo 8 , Imprimir, exportar, e-mail e assinar</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260831T181903Z" creationid="timotheonb" creationdate="20260616T133539Z">
+        <seg>Guia do Calc 26.2 - Capítulo 8 , Imprimir, exportar, e-mail e assinar</seg>
       </tuv>
     </tu>
     <tu>
@@ -40279,6 +40279,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190711Z" creationid="olivier-tdf" creationdate="20250209T190711Z">
         <seg>Cada função, quando selecionada, exibirá uma breve explicação de seu uso e sintaxe aceitável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each image inserted into a spreadsheet is stacked above the previous one, regardless of whether the images overlap.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260831T182051Z" creationid="timotheonb" creationdate="20260831T182051Z">
+        <seg>Cada imagem inserida em uma planilha fica empilhada acima da anterior, independentemente das imagens se sobreporem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127032,8 +127040,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>You cannot create a sub-category inside a template category.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T124827Z" creationid="timotheonb" creationdate="20260616T124827Z">
-        <seg>[parcial]Não se pode criar uma subcategoria dentro de uma categoria de modelo.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260831T181832Z" creationid="timotheonb" creationdate="20260616T124827Z">
+        <seg>Não há como criar uma subcategoria dentro duma categoria de modelo.</seg>
       </tuv>
     </tu>
     <tu>
