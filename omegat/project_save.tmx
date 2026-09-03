@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_6127bea" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18114,8 +18114,8 @@
       <tuv lang="en-US">
         <seg>Alignment options include three horizontal settings—left, center, and right—and three vertical settings—top, middle, and bottom.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260903T163618Z" creationid="timotheonb" creationdate="20260903T163618Z">
-        <seg>As opções de alinhamento incluem três configurações horizontais — esquerda, centralizado e direita — e três configurações verticais — superior, meio e inferior.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260903T164629Z" creationid="timotheonb" creationdate="20260903T163618Z">
+        <seg>As opções de alinhamento incluem três configurações horizontais — esquerda, centralizado e direita — e três configurações verticais — Em cmia, No meio e Embaixo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89717,6 +89717,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select all of the images to be aligned (select one and hold down the &lt;f0&gt;Shift&lt;/f0&gt; key while selecting others).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260903T205814Z" creationid="timotheonb" creationdate="20260903T205814Z">
+        <seg>Selecione todas as figuras a serem alinhadas (selecione uma e mantenha pressionada a tecla Shift enquanto seleciona outras).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select all of the text or objects in a document, use &lt;f0&gt;Ctrl+A&lt;/f0&gt; (macOS ⌘&lt;f1&gt;+A&lt;/f1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T210305Z" creationid="olivier" creationdate="20250303T003842Z">
@@ -108720,8 +108728,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>These options help ensure that images are positioned uniformly within the layout.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260903T163653Z" creationid="timotheonb" creationdate="20260903T163653Z">
-        <seg>Essas opções ajudam a garantir que as imagens sejam posicionadas uniformemente no layout.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260903T181645Z" creationid="timotheonb" creationdate="20260903T163653Z">
+        <seg>Essas opções ajudam a garantir que as imagens fiquem posicionadas uniformemente no leiaute.</seg>
       </tuv>
     </tu>
     <tu>
