@@ -3952,6 +3952,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Back One&lt;/f0&gt; – moves the selected image down one level in the stack.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102315Z" creationid="timotheonb" creationdate="20260901T102117Z">
+        <seg>&lt;f0&gt;Voltar um&lt;/f0&gt; – move a figura selecionada um nível para baixo na pilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Background&lt;/f0&gt;: The background style of the range.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260529T115212Z" creationid="timotheonb" creationdate="20260529T115212Z">
@@ -4028,6 +4036,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T224959Z" creationid="vitor" creationdate="20260405T224959Z">
         <seg>&lt;f0&gt;Quebrar&lt;/f0&gt; – habilita quebras de texto, permitindo que o texto seja quebrado em novas linhas no espaço disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Bring to Front&lt;/f0&gt; – moves the selected image to the top of the stack, placing it in front of all other images.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102057Z" creationid="timotheonb" creationdate="20260901T102057Z">
+        <seg>&lt;f0&gt;Trazer para a frente&lt;/f0&gt; –move a figura selecionada para o topo da pilha, colocando-a à frente de todas as outras imagens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5812,6 +5828,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260320T120346Z" creationid="timotheonb" creationdate="20260320T120346Z">
         <seg>&lt;f0&gt;Fórmulas&lt;/f0&gt; – cola células que contêm fórmulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Forward One&lt;/f0&gt; – moves the selected image up one level in the stack.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102136Z" creationid="timotheonb" creationdate="20260901T102112Z">
+        <seg>&lt;f0&gt;Avançar um&lt;/f0&gt; – move a figura selecionada um nível para cima na pilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7824,6 +7848,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Send to Back&lt;/f0&gt; – moves the selected image to the bottom of the stack, placing it behind all other images.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102328Z" creationid="timotheonb" creationdate="20260901T102131Z">
+        <seg>&lt;f0&gt;Enviar para trás&lt;/f0&gt; – move a figura selecionada para a parte inferior da pilha, colocando-a atrás de todas as outras imagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Sentence case&lt;/f0&gt;, where only the first word is capitalized (together with any proper nouns).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T110740Z" creationid="timot" creationdate="20250215T110740Z">
@@ -8684,6 +8716,46 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250109T002600Z" creationid="olivier" creationdate="20250109T002600Z">
         <seg>&lt;f0&gt;Para esta edição&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;To Background&lt;/f0&gt; – places the selected image behind text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102517Z" creationid="timotheonb" creationdate="20260901T102517Z">
+        <seg>&lt;f0&gt;Para o plano de fundo&lt;/f0&gt; – posiciona a figura selecionada atrás do texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;To Cell (resize with cell)&lt;/f0&gt; – similar to &lt;f1&gt;To Cell&lt;/f1&gt; but with the additional property that the image resizes as you resize the cell to which it is anchored.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102951Z" creationid="timotheonb" creationdate="20260901T102951Z">
+        <seg>&lt;f0&gt;Na célula (redimensionar com a célula)&lt;/f0&gt; – semelhante a &lt;f1&gt;Na célula&lt;/f1&gt;, mas com a propriedade adicional de redimensionar a figura conforme se redimensiona a célula à qual está ancorada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;To Cell&lt;/f0&gt; – anchor an image to a cell to ensure that the image always stays with the content it is originally anchored to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102902Z" creationid="timotheonb" creationdate="20260901T102902Z">
+        <seg>&lt;f0&gt;Na célula&lt;/f0&gt; – ancora uma figura numa célula para garantir que sempre permaneça com o conteúdo ao qual foi originalmente ancorada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;To Foreground&lt;/f0&gt; – places the selected image in front of text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102406Z" creationid="timotheonb" creationdate="20260901T102406Z">
+        <seg>&lt;f0&gt;Para o primeiro plano&lt;/f0&gt; – posiciona a figura selecionada em frente ao texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;To Page&lt;/f0&gt; – anchor an image to the page to position it in a specific place.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102747Z" creationid="timotheonb" creationdate="20260901T102747Z">
+        <seg>&lt;f0&gt;Na página&lt;/f0&gt; – ancora uma figura na página para posicioná-la em um local específico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18016,6 +18088,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aligning images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T103436Z" creationid="timotheonb" creationdate="20260901T103424Z">
+        <seg>Alinhar figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alignment</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250602T220802Z" creationid="olivier" creationdate="20250602T220802Z">
@@ -19344,6 +19424,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, use one of the six arrangement icons on the Image toolbar to quickly adjust the image’s position in the stacking order.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102002Z" creationid="timotheonb" creationdate="20260901T101811Z">
+        <seg>De outro modo, use um dos seis ícones de disposição na barra de ferramentas Figura para ajustar rapidamente a posição da figura na ordem de empilhamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, use the &lt;f0&gt;Paste Only Text&lt;/f0&gt;, &lt;f1&gt;Paste Only Numbers&lt;/f1&gt;, or &lt;f2&gt;Paste Only Formula&lt;/f2&gt; options in the &lt;f3&gt;Edit &gt; Paste Special&lt;/f3&gt; menu on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260324T164646Z" creationid="timotheonb" creationdate="20260324T164646Z">
@@ -20064,10 +20152,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Anchor images so they stay in their position in relation to other items.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102712Z" creationid="timotheonb" creationdate="20260901T102629Z">
+        <seg>Ancorar figuras para ficarem em sua posição em relação a outros itens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anchoring</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250602T220858Z" creationid="olivier" creationdate="20250602T220858Z">
         <seg>Ancoragem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anchoring images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102635Z" creationid="timotheonb" creationdate="20260901T102616Z">
+        <seg>Ancorar figuras</seg>
       </tuv>
     </tu>
     <tu>
@@ -40285,8 +40389,8 @@
       <tuv lang="en-US">
         <seg>Each image inserted into a spreadsheet is stacked above the previous one, regardless of whether the images overlap.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260831T182051Z" creationid="timotheonb" creationdate="20260831T182051Z">
-        <seg>Cada imagem inserida em uma planilha fica empilhada acima da anterior, independentemente das imagens se sobreporem.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T101539Z" creationid="timotheonb" creationdate="20260831T182051Z">
+        <seg>Cada figura inserida em uma planilha fica empilhada acima da anterior, independentemente das imagens se sobreporem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59396,6 +59500,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If an image is anchored to cell B10, and a new row is inserted above row 10, the image will then be anchored to cell B11.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102921Z" creationid="timotheonb" creationdate="20260901T102921Z">
+        <seg>Se uma figura estiver ancorada na célula B10 e uma nova linha for inserida acima da linha 10, a figura será ancorada na célula B11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If an image is created in LibreOffice Draw, reusing it in a LibreOffice Writer document is relatively easy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250629T183625Z" creationid="firelinux" creationdate="20250629T183625Z">
@@ -74860,6 +74972,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigate to &lt;f0&gt;Format &gt; Anchor&lt;/f0&gt; on the Menu bar, or right-click on the image and select &lt;f1&gt;Anchor&lt;/f1&gt; in the context menu, or click on the &lt;f2&gt;Anchor&lt;/f2&gt; icon on the Image toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T103113Z" creationid="timotheonb" creationdate="20260901T103113Z">
+        <seg>Navegue até &lt;f0&gt;Formatar &gt; Âncora&lt;/f0&gt; na Barra de menus ou clique com o botão direito do mouse na figura e selecione &lt;f1&gt;Âncora&lt;/f1&gt; no menu de contexto ou clique no ícone &lt;f2&gt;Âncora&lt;/f2&gt; na barra de ferramentas Figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate to &lt;f0&gt;Format &gt; Arrange&lt;/f0&gt; on the Menu bar, or right-click on the image and select &lt;f1&gt;Arrange&lt;/f1&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T101659Z" creationid="timotheonb" creationdate="20260901T101659Z">
+        <seg>Navegue até &lt;f0&gt;Formatar &gt; Dispor&lt;/f0&gt; na Barra de menus ou clique com o botão direito do mouse na figura e selecione&lt;f1&gt;Dispor&lt;/f1&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigate to a cell that is next to the page break you want to remove.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200746Z" creationid="olivier-tdf" creationdate="20250209T200746Z">
@@ -75952,6 +76080,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183649Z" creationid="olivier" creationdate="20250220T183649Z">
         <seg>Observe que os nomes ou locais anteriores dos arquivos que foram renomeados ou realocados ainda podem estar no Centro de partida, e clicar nesses tipos de nomes de arquivos pode gerar um erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that the stacking order of text cannot be changed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T101606Z" creationid="timotheonb" creationdate="20260901T101606Z">
+        <seg>Observe que a ordem de empilhamento do texto não pode ser alterada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88557,6 +88693,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;To Page&lt;/f0&gt;, &lt;f1&gt;To Cell&lt;/f1&gt;,&lt;f2&gt; &lt;/f2&gt;or&lt;f3&gt; To Cell (resize with cell)&lt;/f3&gt; in the menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T103328Z" creationid="timotheonb" creationdate="20260901T103240Z">
+        <seg>Selecione &lt;f0&gt;Na página&lt;/f0&gt;, &lt;f1&gt;Na célula &lt;/f1&gt;,&lt;f2&gt; &lt;/f2&gt;ou &lt;f3&gt;Na célula (redimensionar com a célula)&lt;/f3&gt; no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; to configure the name and initials that appear in comments.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T183045Z" creationid="timotheonb" creationdate="20250530T183045Z">
@@ -90977,6 +91121,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T160025Z" creationid="olivier" creationdate="20250121T160025Z">
         <seg>Selecione as planilhas ocultas a serem exibidas novamente e clique em &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the image to be reordered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T101623Z" creationid="timotheonb" creationdate="20260901T101623Z">
+        <seg>Selecione a figura que deseja reordenar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -99702,6 +99854,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Arrange commands can be used to modify the stacking order of these images.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T101532Z" creationid="timotheonb" creationdate="20260901T101532Z">
+        <seg>Os comandos Dispor podem ser usados para modificar a ordem de empilhamento dessas figuras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The AutoCorrect functions in LibreOffice automatically detect and replace common symbols, spelling mistakes, and grammar mistakes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T031112Z" creationid="olivier" creationdate="20250321T031112Z">
@@ -101434,6 +101594,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T111059Z" creationid="timotheonb" creationdate="20250514T111059Z">
         <seg>O preenchimento da área e as bordas nas caixas de texto Autoleiaute e nas caixas de texto podem ser editados usando os mesmos métodos usados para objetos gráficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The arrangement options are as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102013Z" creationid="timotheonb" creationdate="20260901T102013Z">
+        <seg>As opções de disposição são as seguintes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -103930,6 +104098,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260730T105009Z" creationid="timotheonb" creationdate="20260730T105009Z">
         <seg>A imagem aparece no documento, mas apenas uma referência ao arquivo é salva — o que significa que a imagem e o documento permanecem separados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The image does not move when cells are added or deleted; it will always stay in the same position on the page where it is placed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102830Z" creationid="timotheonb" creationdate="20260901T102830Z">
+        <seg>A figura não se move quando células são adicionadas ou excluídas; ela sempre ficará na mesma posição na página onde está posicionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107626,6 +107802,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T151555Z" creationid="olivier-tdf" creationdate="20250403T172120Z">
         <seg>Em seguida, selecione &lt;f0&gt;Parágrafo&lt;/f0&gt;, Caractere ou Lista e escolha o estilo apropriado num submenu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then select one of the available arrangement options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T101719Z" creationid="timotheonb" creationdate="20260901T101719Z">
+        <seg>Em seguida, selecione uma das opções de disposição disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -111798,6 +111982,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To anchor a selected image or change the type of anchor used:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T103006Z" creationid="timotheonb" creationdate="20260901T103006Z">
+        <seg>Para ancorar uma figura selecionada ou alterar o tipo de âncora usada:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To apply a cell style, select the cell or group of cells to be formatted, and then choose &lt;f2&gt;Styles&lt;/f2&gt; and click on the required style.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260404T161055Z" creationid="firelinux" creationdate="20260404T161055Z">
@@ -114514,6 +114706,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T114035Z" creationid="timotheonb" creationdate="20250530T114035Z">
         <seg>Para modificar um slide mestre da seguinte maneira:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To modify or replace a background image, use the Navigator, as direct selection methods such as clicking or double-clicking will not work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102548Z" creationid="timotheonb" creationdate="20260901T102548Z">
+        <seg>Para modificar ou substituir uma figura de fundo, use o Navegador, pois métodos de seleção direta, como clicar ou clicar duas vezes, não funcionarão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118382,6 +118582,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use Fit to Cell Size in the graphic (image) context menu to resize the image to the cell dimensions, adjusting the row height and column width as needed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T103356Z" creationid="timotheonb" creationdate="20260901T103356Z">
+        <seg>Use a opção "Ajustar ao tamanho da célula" no menu de contexto da figura para redimensioná-la às dimensões da célula, ajustando a altura da linha e a largura da coluna conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use LibreOffice dialogs</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T191101Z" creationid="olivier-tdf" creationdate="20250309T191048Z">
@@ -120360,8 +120568,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>Using the Image toolbar</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T111633Z" creationid="timotheonb" creationdate="20260820T111633Z">
-        <seg>Usar a barra de ferramentas Imagem</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T101839Z" creationid="timotheonb" creationdate="20260820T111633Z">
+        <seg>Usar a barra de ferramentas Figura</seg>
       </tuv>
     </tu>
     <tu>
@@ -122384,8 +122592,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>When inserting or selecting an image in the spreadsheet, the Image toolbar (Figure &lt;t0&gt;4&lt;/t0&gt;) replaces the Formatting toolbar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T111657Z" creationid="timotheonb" creationdate="20260820T111657Z">
-        <seg>Ao inserir ou selecionar uma figura na planilha, a barra de ferramentas Imagem (Figura &lt;t0&gt;4&lt;/t0&gt;) substitui a barra de ferramentas Formatação.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T101937Z" creationid="timotheonb" creationdate="20260820T111657Z">
+        <seg>Ao inserir ou selecionar uma figura na planilha, a barra de ferramentas Figura (Figura &lt;t0&gt;4&lt;/t0&gt;) substitui a barra de ferramentas Formatação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122442,6 +122650,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T134900Z" creationid="timotheonb" creationdate="20250502T134900Z">
         <seg>Quando movido, o slide exibido no Workspace ajusta seu zoom de visualização no Workspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When multiple images are present in a spreadsheet, aligning them can enhance the overall visual consistency and create a more professional appearance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T103453Z" creationid="timotheonb" creationdate="20260901T103453Z">
+        <seg>Quando várias figuras estão presentes numa planilha, alinhá-las pode melhorar a consistência visual geral e criar uma aparência mais profissional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127614,6 +127830,38 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>aligning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T103414Z" creationid="timotheonb" creationdate="20260901T103414Z">
+        <seg>alinhar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>aligning images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T103428Z" creationid="timotheonb" creationdate="20260901T103419Z">
+        <seg>alinhando figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>anchoring</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102558Z" creationid="timotheonb" creationdate="20260901T102558Z">
+        <seg>ancorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>anchoring images</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102625Z" creationid="timotheonb" creationdate="20260901T102611Z">
+        <seg>ancorar figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>applying</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260409T134038Z" creationid="timotheonb" creationdate="20260409T134038Z">
@@ -128624,8 +128872,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>images</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tulio" changedate="20250918T005613Z" creationid="tulio" creationdate="20250918T005613Z">
-        <seg>imagens</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102620Z" creationid="tulio" creationdate="20250918T005613Z">
+        <seg>figuras</seg>
       </tuv>
     </tu>
     <tu>
