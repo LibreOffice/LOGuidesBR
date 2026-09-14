@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3D Look</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185417Z" creationid="timotheonb" creationdate="20260914T185417Z">
+        <seg>Aparência 3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3D View</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T210855Z" creationid="vitor" creationdate="20260329T210855Z">
@@ -7472,6 +7480,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Realistic&lt;/f0&gt; – tries to give the best 3D look.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185511Z" creationid="timotheonb" creationdate="20260914T185511Z">
+        <seg>&lt;f0&gt;Realista &lt;/f0&gt; - busca dar a melhor aparência 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Recognize decimal separator&lt;/f0&gt;&lt;f1&gt;: &lt;/f1&gt;The decimal separator character, which varies by locale, when included in the number that follows the text, indicate that it is a decimal number.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260401T113414Z" creationid="firelinux" creationdate="20260401T113414Z">
@@ -8084,6 +8100,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165218Z" creationid="firelinux" creationdate="20260403T165218Z">
         <seg>&lt;f0&gt;Busca por similaridade&lt;/f0&gt; – encontrar termos que sejam semelhantes a&lt;f1&gt;Encontrar&lt;/f1&gt; texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Simple&lt;/f0&gt; – tries to mimic the chart view of other products.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185534Z" creationid="timotheonb" creationdate="20260914T185534Z">
+        <seg>&lt;f0&gt;Simples&lt;/f0&gt; - busca imitar a visualização do gráfico de outros produtos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10396,6 +10420,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260415T003623Z" creationid="vitor" creationdate="20260331T234938Z">
         <seg>&lt;s0&gt;Caixa de diálogo Área do gráfico - aba Transparência&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Área do gráfico - aba Transparência&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Chart Type dialog – Column&lt;/s0&gt;&lt;s1&gt;Chart Type dialog – Column&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T184947Z" creationid="timotheonb" creationdate="20260914T184947Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Tipo de gráfico – Coluna&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Tipo de gráfico – Coluna&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15232,6 +15264,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A bar chart is like a column chart that has been shifted 90 degrees.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185928Z" creationid="timotheonb" creationdate="20260914T185928Z">
+        <seg>Um gráfico de barras é como um gráfico de colunas deslocado a 90 graus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A basic range of cell styles is supplied with Calc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194322Z" creationid="firelinux" creationdate="20260403T194322Z">
@@ -17612,6 +17652,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250512T120441Z" creationid="timot" creationdate="20250512T120441Z">
         <seg>Slides mestres adicionais podem ser criados ou salvos, ou adicionados de outras fontes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additional options for creating column charts are:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185322Z" creationid="timotheonb" creationdate="20260914T185322Z">
+        <seg>As opções adicionais para criar gráficos de colunas são:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22449,6 +22497,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bar charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185819Z" creationid="timotheonb" creationdate="20260914T185819Z">
+        <seg>Gráficos de barras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bar charts can have an immediate visual impact when time is not an important factor — for example, when comparing the popularity of a few products in a marketplace.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T190611Z" creationid="timotheonb" creationdate="20260914T190611Z">
+        <seg>Os gráficos de barras podem ter um impacto visual imediato quando o tempo não é um fator importante – por exemplo, ao comparar a popularidade de alguns produtos em um mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Barbara Duprey</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250728T134454Z" creationid="firelinux" creationdate="20250728T134454Z">
@@ -26485,6 +26549,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T210740Z" creationid="vitor" creationdate="20260329T210740Z">
         <seg>Tipo de Gráfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chart Type dialog – Column</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185019Z" creationid="timotheonb" creationdate="20260914T185019Z">
+        <seg>Caixa de diálogo Tipo de gráfico – Coluna</seg>
       </tuv>
     </tu>
     <tu>
@@ -45723,6 +45795,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Chart Type dialog – Column</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185000Z" creationid="timotheonb" creationdate="20260914T185000Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: caixa de diálogo Tipo de gráfico – Coluna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Customize dialog — Keyboard &lt;f1&gt;tab&lt;/f1&gt; for Linux/Windows</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T234108Z" creationid="olivier" creationdate="20250302T234044Z">
@@ -55296,6 +55376,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223515Z" creationid="timotheonb" creationdate="20250530T223515Z">
         <seg>Guia de Introdução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gives options for the shape of the columns in 3D charts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185709Z" creationid="timotheonb" creationdate="20260914T185709Z">
+        <seg>Oferece opções para a forma das colunas em gráficos 3D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65156,6 +65244,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In contrast to some other chart types, the Y axis is horizontal and the X axis is vertical.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T190452Z" creationid="timotheonb" creationdate="20260914T190452Z">
+        <seg>Em contraste com alguns outros tipos de gráfico, o eixo Y é horizontal e o eixo X é vertical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In contrast, absolute addressing always starts from a root directory.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152711Z" creationid="olivier" creationdate="20250318T152711Z">
@@ -69048,6 +69144,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233353Z" creationid="olivier-tdf" creationdate="20250224T233353Z">
         <seg>Deve ser usado com cautela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows horizontal bars rather than vertical columns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185936Z" creationid="timotheonb" creationdate="20260914T185936Z">
+        <seg>Esse tipo mostra barras horizontais em vez de colunas verticais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81560,6 +81664,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260314T155947Z" creationid="olivier" creationdate="20260314T155947Z">
         <seg>Porcentagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Percent stacked</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185256Z" creationid="timotheonb" creationdate="20260914T185256Z">
+        <seg>Porcentagem empilhada</seg>
       </tuv>
     </tu>
     <tu>
@@ -94421,6 +94533,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shape</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185700Z" creationid="timotheonb" creationdate="20260914T185700Z">
+        <seg>Forma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shapes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250429T221408Z" creationid="timotheonb" creationdate="20250429T221408Z">
@@ -95293,6 +95413,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shows all data values belonging to a category next to each other.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185207Z" creationid="timotheonb" creationdate="20260914T185207Z">
+        <seg>Mostra todos os valores de dados pertencentes a uma categoria próxima à outra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shows current default language as selected at &lt;f0&gt;Tools &gt; Options &gt; Languages and Locales &gt; General&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250906T233746Z" creationid="firelinux" creationdate="20250906T233746Z">
@@ -95333,6 +95461,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shows the data values of each category on top of each other.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185233Z" creationid="timotheonb" creationdate="20260914T185233Z">
+        <seg>Mostra os valores de dados de cada categoria uns sobre os outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shows the details of the selected printer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224005Z" creationid="olivier-tdf" creationdate="20250224T224005Z">
@@ -95353,6 +95489,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250906T231041Z" creationid="firelinux" creationdate="20250906T231041Z">
         <seg>Mostra o estilo de página da planilha atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows the relative percentage of each data value with regard to the total of its category.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185305Z" creationid="timotheonb" creationdate="20260914T185305Z">
+        <seg>Mostra a porcentagem relativa de cada valor de dados em relação ao total de sua categoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -97629,6 +97773,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stacked</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185227Z" creationid="timotheonb" creationdate="20260914T185227Z">
+        <seg>Empilhado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stacks charts or other objects in front of or behind other objects.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T113148Z" creationid="vitor" creationdate="20260412T113148Z">
@@ -99790,6 +99942,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The 2D variants are:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185138Z" creationid="timotheonb" creationdate="20260914T185138Z">
+        <seg>As variantes 2D são:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Alt+=&lt;/f0&gt; keyboard shortcut is equivalent to clicking the &lt;f1&gt;Select Function&lt;/f1&gt; icon and selecting the &lt;f2&gt;Sum&lt;/f2&gt; option.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250906T211732Z" creationid="firelinux" creationdate="20250906T211732Z">
@@ -100794,6 +100954,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260527T005909Z" creationid="vitor" creationdate="20260519T013339Z">
         <seg>A janela de Chamadas (localizada à direita, abaixo do Catálogo de objetos e da janela de edição) fornece informação sobre a pilha de chamadas de procedimentos e funções quando um programa está em execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Chart Type dialog for a bar chart is essentially the same as for a column chart, which was described above, with the previews modified to show horizontal bars.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T190525Z" creationid="timotheonb" creationdate="20260914T190525Z">
+        <seg>A caixa de diálogo Tipo de gráfico para um gráfico de barras é essencialmente a mesma para um gráfico de colunas (descrito acima) com as visualizações modificadas para mostrar barras horizontais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -102914,6 +103082,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T190127Z" creationid="olivier-tdf" creationdate="20250328T190127Z">
         <seg>A soma de verificação e a chave pública são armazenadas juntamente com o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The choices are: &lt;f0&gt;Bar&lt;/f0&gt;, &lt;f1&gt;Cylinder&lt;/f1&gt;, &lt;f2&gt;Cone&lt;/f2&gt;, and &lt;f3&gt;Pyramid&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185729Z" creationid="timotheonb" creationdate="20260914T185729Z">
+        <seg>As opções são: &lt;f0&gt;Barra&lt;/f0&gt;, &lt;f1&gt;Cilindro&lt;/f1&gt;, &lt;f2&gt;Cone&lt;/f2&gt; e &lt;f3&gt;Pirâmide&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105522,6 +105698,30 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195823Z" creationid="timot" creationdate="20250111T195823Z">
         <seg>Veja o espaço de trabalho principal do Writer na Figura&lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The main focus is on the individual absolute values, compared to every other value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185223Z" creationid="timotheonb" creationdate="20260914T185223Z">
+        <seg>O foco principal está nos valores absolutos individuais em comparação a todos os outros valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The main focus is the overall category value and the individual contribution of each value within the category.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185250Z" creationid="timotheonb" creationdate="20260914T185250Z">
+        <seg>O foco principal é o valor geral da categoria e a contribuição individual de cada valor de dentro da categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The main focus is the relative contribution of each value to the category total.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185312Z" creationid="timotheonb" creationdate="20260914T185312Z">
+        <seg>O foco principal é a contribuição relativa de cada valor para o total da categoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112050,6 +112250,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215237Z" creationid="olivier" creationdate="20250324T215237Z">
         <seg>Essa configuração pode criar arquivos grandes quando usada com fotografias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This shows the data values of each category lined up, one behind the other.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185643Z" creationid="timotheonb" creationdate="20260914T185643Z">
+        <seg>Ela mostra os valores de dados de cada categoria alinhada, um atrás da outra em profundidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123030,6 +123238,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a preview is clicked, its borders are highlighted and the name appears below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185130Z" creationid="timotheonb" creationdate="20260914T185130Z">
+        <seg>Ao clicar numa visualização, suas bordas são destacadas e o nome aparece abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a redacted document is exported as a new PDF file, any redacted areas are removed from the new document and replaced by redacted blocks of pixels.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T221515Z" creationid="olivier-tdf" creationdate="20250328T221515Z">
@@ -124358,6 +124574,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When this box is checked, two options become available in the drop-down list:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185451Z" creationid="timotheonb" creationdate="20260914T185451Z">
+        <seg>Ao marcar esta caixa, duas opções ficam disponíveis na lista suspensa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When this icon is clicked on, the displayed slide in the Workspace zooms to fit in the Workspace.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T142400Z" creationid="timotheonb" creationdate="20250502T134850Z">
@@ -124570,6 +124794,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T210120Z" creationid="timot" creationdate="20250402T210120Z">
         <seg>Ao alterar as margens, o estilo da página também é alterado e as margens alteradas se aplicam a todas as páginas que usam esse estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you check the &lt;f0&gt;3D Look&lt;/f0&gt; box, a fourth chart variant becomes available called &lt;f1&gt;Deep&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185616Z" creationid="timotheonb" creationdate="20260914T185616Z">
+        <seg>Ao selecionar a caixa &lt;f0&gt;Aparência 3D&lt;/f0&gt;, uma quarta variante do gráfico torna-se disponível chamada &lt;f1&gt;Profundo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128970,6 +129202,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T235736Z" creationid="vitor" creationdate="20260329T234640Z">
         <seg>Pano de fundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185803Z" creationid="timotheonb" creationdate="20260914T185803Z">
+        <seg>barra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bar charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185823Z" creationid="timotheonb" creationdate="20260914T185757Z">
+        <seg>gráficos de barras</seg>
       </tuv>
     </tu>
     <tu>
