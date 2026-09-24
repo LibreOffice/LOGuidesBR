@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15864,6 +15864,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A further level of flexibility is provided through six alternative user interface variants which can be selected to match an individual user’s work flows and preferences. The seven variants are:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260924T124136Z" creationid="olivier-tdf" creationdate="20260924T124136Z">
+        <seg>O LibreOffice fornece um nível adicional de flexibilidade através de seis variantes de interface de usuário alternativas que podem ser selecionadas para corresponder aos fluxos de trabalho e preferências de um usuário individual. As sete variantes são:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A group can always be undone and the objects that make up the group can always be manipulated separately.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T132607Z" creationid="olivier-tdf" creationdate="20250615T132607Z">
@@ -23597,6 +23605,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260503T172236Z" creationid="olivier" creationdate="20260503T172236Z">
         <seg>Normalmente os comandos do LibreOffice são agrupados em cascatas de menus e em barras de ferramentas preenchidas com ícones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, LibreOffice’s commands are grouped in cascading menus and in toolbars filled with icons. This is the classic user interface described in Chapter 1, Introduction, and assumed in the task descriptions contained in many other chapters throughout this guide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260924T124016Z" creationid="olivier-tdf" creationdate="20260924T124016Z">
+        <seg>Normalmente, os comandos do LibreOffice são agrupados em menus em cascata e em barras de ferramentas cheias de ícones. Esta é a interface de usuário clássica descrita no Capítulo 1, Introdução, e assumida nas descrições de tarefas contidas em muitos outros capítulos ao longo deste guia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95877,6 +95893,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Similar to the Standard Toolbar user interface but with an expanded Sidebar. Expert users who want to quickly change many different properties are advised to use this variant.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260924T145704Z" creationid="olivier-tdf" creationdate="20260924T145704Z">
+        <seg>Semelhante à interface de usuário da barra de ferramentas Padrão, mas com uma barra lateral expandida. Usuários experientes que desejam alterar rapidamente muitas propriedades diferentes são aconselhados a usar essa variante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Similarly the &lt;f3&gt;Shift&lt;/f3&gt;+&lt;f4&gt;F11&lt;/f4&gt; key sequence may be used by macOS to show its desktop and so cannot be used to access the Save as Template dialog in Calc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260320T223446Z" creationid="olivier" creationdate="20260320T223408Z">
@@ -101614,6 +101638,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Groupedbar Compact user interface provides access to functions in groups, with icons for the most-frequently used features, and drop-down menus for others. This variant favors vertical space.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260924T145755Z" creationid="olivier-tdf" creationdate="20260924T145755Z">
+        <seg>A interface compacta de abas agrupadas fornece acesso a funções em grupos, com ícones para os recursos mais utilizados, e menus para os demais. Esta variante compacta favorece o espaço vertical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The HTML files created conform to the HTML 4.0 Transitional standard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T225829Z" creationid="olivier" creationdate="20250327T225829Z">
@@ -102578,6 +102610,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260503T173118Z" creationid="olivier" creationdate="20260503T173118Z">
         <seg>A interface em abas é a mais similar aos "Ribbons" utilizados pelo Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Tabbed user interface is the most similar to the ribbons used in Microsoft Office. It organizes functions in tabs and makes the Menu bar obsolete.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260924T145440Z" creationid="olivier-tdf" creationdate="20260924T145440Z">
+        <seg>A interface de usuário em abas é a mais semelhante às fitas (ribbons) usadas no Microsoft Office. Ela organiza as funções em abas e torna a barra de menus obsoleta.</seg>
       </tuv>
     </tu>
     <tu>
