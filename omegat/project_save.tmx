@@ -4223,6 +4223,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Chapter 16&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T195806Z" creationid="olivier" creationdate="20260925T195806Z">
+        <seg>&lt;f0&gt;Capítulo 16&lt;/f0&gt;, &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Chapter 17&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
@@ -12493,6 +12502,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T001044Z" creationid="tulio" creationdate="20250116T001044Z">
         <seg>&lt;s0&gt;Centro de partida do LibreOffice&lt;/s0&gt;&lt;s1&gt;Centro de partida do LibreOffice&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;LibreOffice options&lt;/s0&gt;&lt;s1&gt;LibreOffice options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200520Z" creationid="olivier" creationdate="20260925T200520Z">
+        <seg>&lt;s0&gt;Opções do LibreOffice&lt;/s0&gt;&lt;s1&gt;Opções do LibreOffice&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21571,6 +21588,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Application extensions available from the LibreOffice website and other providers can simplify the customization process.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200132Z" creationid="olivier" creationdate="20260925T200132Z">
+        <seg>As extensões de aplicativos disponíveis no site do LibreOffice e em outros provedores podem simplificar o processo de personalização.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Applied Styles</seg>
       </tuv>
@@ -23196,6 +23222,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Barbara Duprey, Jean Hollis Weber, Simon Brydon, Mark Morin, Kees Kriek, Steve Fanning, Leo Moons, Felipe Viggiano, Skip Masonsmith, Olivier Hallot, B. Antonio Fernández, Dione Maddern</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T195833Z" creationid="olivier" creationdate="20260925T195833Z">
+        <seg>Barbara Duprey, Jean Hollis Weber, John A Smith, Peter Schofield, Christian Chenal,Martin Saffron, Drew Jensen,Kees Kriek,Steve Fanning, Leo Moons,Felipe Viggiano,Rachel Kartch, Skip Masonsmith, Olivier Hallot, B. Antonio Fernández, Liza Samy,‍ Edward Olson,</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Barbara Duprey, Jean Hollis Weber, Simon Brydon, Richard Barnes, Peter Kupfer, Iain Roberts, Magnus Adielsson, Sandeep Samuel Medikonda, Zachary Parliman, Steve Fanning, Drew Jensen, Gordon Bates, Kees Kriek, Felipe Viggiano, Rafael Lima, ‍Skip Masonsmith, Olivier Hallot.</seg>
       </tuv>
@@ -24713,6 +24748,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T114556Z" creationid="vitor" creationdate="20260505T235627Z">
         <seg>Guia do Calc 26.2 - Capítulo 15, Calc como banco de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc Guide 26.2 - Chapter 16, Setting up and Customizing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T195748Z" creationid="olivier" creationdate="20260925T195748Z">
+        <seg>Guia do Calc 26,2 - Capítulo 16: Configuração e Personalização.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27785,6 +27828,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T105047Z" creationid="timot" creationdate="20250215T105047Z">
         <seg>Escolha &lt;f0&gt;Ferramentas &gt; Autotexto&lt;/f0&gt; na barra de menu (ou tecle &lt;f1&gt;Ctrl+F3&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &lt;/f0&gt;to open the Options dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200341Z" creationid="olivier" creationdate="20260925T200341Z">
+        <seg>Escolha &lt;f0&gt;Ferramentas &gt; Opções &lt;/f0&gt;para abrir a caixa de diálogo Opções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32665,6 +32717,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T105224Z" creationid="timotheonb" creationdate="20250530T105224Z">
         <seg>Clique no marcador de expansão na barra de título de um painel para expandi-lo e mostrar miniaturas dos slides mestres, ou clique no marcador de recolhimento para recolher o painel para ocultar as miniaturas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the expansion symbol (+ or triangle) next to &lt;f0&gt;LibreOffice&lt;/f0&gt; to reveal the list of subsections.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200503Z" creationid="olivier" creationdate="20260925T200503Z">
+        <seg>Clique no símbolo de expansão (+ ou triângulo) ao lado de &lt;f0&gt;LibreOffice&lt;/f0&gt; para revelar a lista de subseções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46790,6 +46850,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200532Z" creationid="olivier" creationdate="20260925T200532Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Opções do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Options &gt; LibreOffice Calc &gt; Defaults dialog</seg>
       </tuv>
@@ -51662,6 +51731,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250728T214003Z" creationid="timotheonb" creationdate="20250728T213938Z">
         <seg>Para uma lista detalhada, consulte o aplicativo Ajuda e o &lt;f0&gt;Apêndice A (Atalhos do teclado)&lt;/f0&gt; deste guia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a detailed list, see the application Help and &lt;f0&gt;Appendix A, Keyboard Shortcuts&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T195932Z" creationid="olivier" creationdate="20260925T195932Z">
+        <seg>Para uma lista detalhada, consulte o aplicativo Ajuda e o &lt;f0&gt;Apêndice A - Atalhos do teclado&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68560,6 +68637,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T204833Z" creationid="olivier-tdf" creationdate="20250109T204833Z">
         <seg>Informações sobre as opções de acessibilidade disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Information about options not covered in this chapter are covered in the Help and in the &lt;f2&gt;Getting Started Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200049Z" creationid="olivier" creationdate="20260925T200049Z">
+        <seg>As informações sobre as opções não abordadas neste capítulo são abordadas na Ajuda e no &lt;f2&gt;Guia de Introdução&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96301,6 +96387,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Setting up and Customizing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T195823Z" creationid="olivier" creationdate="20260925T195823Z">
+        <seg>Configurar e personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Setting up and customizing LibreOffice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194606Z" creationid="olivier-tdf" creationdate="20250109T114052Z">
@@ -106467,6 +106561,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The dynamic list on the left-hand side only displays options applicable to open applications.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200354Z" creationid="olivier" creationdate="20260925T200354Z">
+        <seg>A lista dinâmica no lado esquerdo exibe apenas opções aplicáveis a aplicativos abertos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The easiest way to create HTML documents in LibreOffice is to start with an existing text document.</seg>
       </tuv>
@@ -107489,6 +107592,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212920Z" creationid="olivier-tdf" creationdate="20250109T212920Z">
         <seg>Os ícones de algumas das muitas ferramentas disponíveis no LibreOffice podem ser diferentes daqueles usados neste guia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The illustrations in this chapter show the list as it appears when Calc is open.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200422Z" creationid="olivier" creationdate="20260925T200422Z">
+        <seg>As ilustrações neste capítulo mostram a lista como ela aparece quando o Calc estiver aberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109986,6 +110097,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T232454Z" creationid="vitor" creationdate="20260407T232454Z">
         <seg>A configuração para fazer um gráfico 3D está na primeira página do Assistente de gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The settings described in this section apply to all components of LibreOffice and are of particular interest to users of Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200324Z" creationid="olivier" creationdate="20260925T200324Z">
+        <seg>As configurações descritas nesta seção se aplicam a todos os componentes do LibreOffice e são de particular interesse para os usuários do Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113005,6 +113125,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This chapter does explain how to customize menus, toolbars, and keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200101Z" creationid="olivier" creationdate="20260925T200101Z">
+        <seg>Este capítulo explica como personalizar menus, barras de ferramentas e atalhos de teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This chapter introduces some features of Impress and does not attempt to cover all of the features available in Impress that can be used to create presentations.</seg>
       </tuv>
@@ -113018,6 +113147,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250718T182237Z" creationid="firelinux" creationdate="20250629T183931Z">
         <seg>Este capítulo apresenta alguns recursos do LibreOffice Draw, mas não abrange todos os recursos disponíveis nele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This chapter presents some, but not all, of the setup options found under &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; on the Menu bar (&lt;f1&gt;LibreOffice &gt; Preferences&lt;/f1&gt; on macOS).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200023Z" creationid="olivier" creationdate="20260925T200023Z">
+        <seg>Este capítulo apresenta algumas das opções de configuração encontradas em &lt;f0&gt;Ferramentas &gt; Opções&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências&lt;/f1&gt;) na barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115242,6 +115379,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T001522Z" creationid="olivier-tdf" creationdate="20250219T001522Z">
         <seg>Para acessar o deque, execute estas etapas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To access the options:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200333Z" creationid="olivier" creationdate="20260925T200333Z">
+        <seg>Para acessar as opções:</seg>
       </tuv>
     </tu>
     <tu>
@@ -124576,6 +124722,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Utilizing the &lt;f0&gt;Type to search &lt;/f0&gt;function under &lt;f1&gt;Tools &gt; Options&lt;/f1&gt; on the Menu bar is useful for finding a particular option to customize.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200246Z" creationid="olivier" creationdate="20260925T200246Z">
+        <seg>Utilizar a função &lt;f0&gt;Digite para pesquisar&lt;/f0&gt; em &lt;f1&gt;Ferramentas &gt; Opções&lt;/f1&gt; na barra de menus é útil para encontrar uma opção específica para personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>VBA UserForms (LibreOffice Basic Dialogs)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260526T010102Z" creationid="vitor" creationdate="20260526T010102Z">
@@ -127164,6 +127318,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T213651Z" creationid="olivier" creationdate="20250123T213651Z">
         <seg>Ao digitar fórmulas usando caracteres que correspondem a nomes de funções, uma dica de ajuda será exibida listando as funções disponíveis que começam com caracteres correspondentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>When typing in this field, Calc automatically hides the options in the tree that do not match the entered keywords.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200300Z" creationid="olivier" creationdate="20260925T200300Z">
+        <seg>Ao digitar neste campo, o Calc oculta automaticamente as opções na árvore que não correspondem às palavras-chave inseridas.</seg>
       </tuv>
     </tu>
     <tu>
