@@ -5281,6 +5281,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Enable application theming&lt;/f0&gt;: mark this checkbox to enable an extension theme.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T204807Z" creationid="olivier" creationdate="20260926T204807Z">
+        <seg>&lt;f0&gt;Ativar tema da aplicação&lt;/f0&gt;: marque esta caixa de seleção para habilitar um tema de extensão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;End value&lt;/f0&gt; – determines the end value for the series.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251110T183600Z" creationid="timotheonb" creationdate="20251110T183600Z">
@@ -9053,6 +9061,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250219T000541Z" creationid="olivier-tdf" creationdate="20250219T000541Z">
         <seg>Use &lt;f0&gt;Exibir &gt; Estilos&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Use bitmap for application background&lt;/f0&gt;: select a bitmap from the dropdown list to set as application background.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T204945Z" creationid="olivier" creationdate="20260926T204945Z">
+        <seg>&lt;f0&gt;Bitmap para o plano de fundo da aplicação&lt;/f0&gt;: selecione um bitmap na lista suspensa para definir como plano de fundo do aplicativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Use white document background&lt;/f0&gt;: overrides the theme document background color and set it to white for better readability.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T204911Z" creationid="olivier" creationdate="20260926T204911Z">
+        <seg>&lt;f0&gt;Plano de fundo do documento em branco&lt;/f0&gt;: substitui a cor de fundo do documento do tema e a define como branco para melhor legibilidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17827,6 +17851,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Add more icon sets using the Extensions button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225443Z" creationid="olivier" creationdate="20260926T225443Z">
+        <seg>Adicione mais conjuntos de ícones usando o botão Extensões.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Add new slides to a presentation.</seg>
       </tuv>
@@ -18371,6 +18404,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Adjust the icon size for the various user interface elements listed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225459Z" creationid="olivier" creationdate="20260926T225459Z">
+        <seg>Ajuste o tamanho do ícone para os vários elementos da interface do usuário listados.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Adjust the number of slides, up to a maximum of 15, in the &lt;f0&gt;Slides per Row&lt;/f0&gt; box.</seg>
       </tuv>
@@ -18432,6 +18474,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215503Z" creationid="olivier" creationdate="20250612T215503Z">
         <seg>Ferramentas de edição avançadas para manipular a forma de um ponto de acesso de polígono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Advanced options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225529Z" creationid="olivier" creationdate="20260926T225529Z">
+        <seg>Opções avançadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -28016,6 +28067,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Choose the position of the dialog tabs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225516Z" creationid="olivier" creationdate="20260926T225516Z">
+        <seg>Escolha a posição das abas de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Choose the relevant button to apply your selection to all components of LibreOffice, or only to Calc.</seg>
       </tuv>
@@ -37283,6 +37343,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Customization</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T204946Z" creationid="olivier" creationdate="20260926T204946Z">
+        <seg>Personalização</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Customizations can also be carried out by adding extensions that can be installed from the LibreOffice website or from other providers.</seg>
       </tuv>
@@ -39297,6 +39366,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T083139Z" creationid="olivier-tdf" creationdate="20250701T083139Z">
         <seg>Caixa de diálogo com os resultados da instrução Print.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dialogs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225504Z" creationid="olivier" creationdate="20260926T225504Z">
+        <seg>Caixas de diálogo</seg>
       </tuv>
     </tu>
     <tu>
@@ -76518,6 +76595,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More themes are available as extensions when you press the &lt;f0&gt;Add more themes&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T204456Z" creationid="olivier" creationdate="20260926T204456Z">
+        <seg>Temas adicionais estão disponíveis como extensões quando pressionar o botão &lt;f0&gt;Adicionar mais temas&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most CSV files have the extension .csv but some CSV files may have a .txt extension.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122316Z" creationid="olivier-tdf" creationdate="20250117T122316Z">
@@ -92961,6 +93046,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Select an icon set from the available list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225422Z" creationid="olivier" creationdate="20260926T225422Z">
+        <seg>Selecione um conjunto de ícones na lista disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Select an image, or graphic, to display the selection handles.</seg>
       </tuv>
@@ -95081,6 +95175,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Select the theme scheme you want from the dropdown list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T204327Z" creationid="olivier" creationdate="20260926T204327Z">
+        <seg>Selecione o esquema de tema desejado na lista suspensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Select the theme that you want to apply.</seg>
       </tuv>
@@ -95978,6 +96081,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T201529Z" creationid="olivier-tdf" creationdate="20250328T201529Z">
         <seg>Selecionar esta categoria atribui o tipo de política de segurança nacional ao documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting this option enables features that are not yet complete or contain known bugs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T235920Z" creationid="olivier" creationdate="20260926T235920Z">
+        <seg>Selecionar esta opção para ativar recursos que ainda não estão completos ou contêm bugs conhecidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -103180,6 +103291,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f1&gt;Application background&lt;/f1&gt; element can also display one of the images available in the Images drop-down list, either &lt;f2&gt;Stretched&lt;/f2&gt; or &lt;f3&gt;Tiled&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225402Z" creationid="olivier" creationdate="20260926T225402Z">
+        <seg>O elemento &lt;f1&gt;Bitmap para plano de  fundo do Aplicação&lt;/f1&gt; também pode exibir uma das imagens disponíveis na lista suspensa Imagens, &lt;f2&gt;Esticado&lt;/f2&gt; ou &lt;f3&gt;&lt;/f3&gt;Ladrilhado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f1&gt;Area&lt;/f1&gt; tab offers options for selecting color by clicking directly on a color in a palette, adding a custom palette, specifying the RGB or Hex color codes, or by selecting a custom color using the &lt;f2&gt;Pick&lt;/f2&gt; button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260417T000431Z" creationid="vitor" creationdate="20260404T191631Z">
@@ -103584,6 +103703,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T212333Z" creationid="olivier" creationdate="20250123T212333Z">
         <seg>A ferramenta Autoentrada no Calc completa automaticamente as entradas, com base em outras entradas na mesma coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The Automatic scheme refers to the default colors of the operating system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T204507Z" creationid="olivier" creationdate="20260926T204507Z">
+        <seg>O esquema Automático refere-se às cores padrão do sistema operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115545,6 +115673,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Three items of interest on this page, besides the Java Options, are found under &lt;f0&gt;Optional Features&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225611Z" creationid="olivier" creationdate="20260926T225611Z">
+        <seg>Três itens de interesse nesta página, além das Opções do Java, são encontrados em &lt;f0&gt;Funcionalidades opcionais&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Through</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T131607Z" creationid="olivier-tdf" creationdate="20250615T131607Z">
@@ -127253,6 +127389,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>When removing a theme from the list, LibreOffice resets to the Automatic scheme.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225412Z" creationid="olivier" creationdate="20260926T225412Z">
+        <seg>Ao remover um tema da lista, o LibreOffice redefine para o esquema Automático.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>When satisfied with the chart, click &lt;f0&gt;Finish&lt;/f0&gt; to close the Chart Wizard.</seg>
       </tuv>
@@ -130761,6 +130906,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You can define colors to all the user interface elements listed in the &lt;f0&gt;Items&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225115Z" creationid="olivier" creationdate="20260926T225115Z">
+        <seg>Você pode definir cores para todos os elementos da interface do usuário listados na lista suspensa &lt;f0&gt;Itens&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You can define more than one page style for a spreadsheet and assign different page styles to different sheets within a spreadsheet.</seg>
       </tuv>
@@ -132352,6 +132506,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180919Z" creationid="timotheonb" creationdate="20260821T180919Z">
         <seg>adicionar às imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>advanced</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225521Z" creationid="olivier" creationdate="20260926T225521Z">
+        <seg>avançado</seg>
       </tuv>
     </tu>
     <tu>
