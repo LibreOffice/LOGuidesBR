@@ -10106,6 +10106,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Application appearance page&lt;/s0&gt;&lt;s1&gt;Application appearance page&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T181520Z" creationid="olivier" creationdate="20260926T181520Z">
+        <seg>&lt;s0&gt;Página Aparência do aplicativo&lt;/s0&gt;&lt;s1&gt;Página Aparência do aplicativo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Area dialog — Color page&lt;/s0&gt;&lt;s1&gt;Area dialog — Color page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T090153Z" creationid="olivier" creationdate="20250308T090153Z">
@@ -21609,6 +21617,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260314T153305Z" creationid="olivier" creationdate="20260314T153305Z">
         <seg>Atalhos da aplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Application appearance page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T181537Z" creationid="olivier" creationdate="20260926T181537Z">
+        <seg>Página Aparência do aplicativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -34778,6 +34794,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Control the granularity of the user data removed using the four check boxes located below this option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T181123Z" creationid="olivier" creationdate="20260926T181123Z">
+        <seg>Controle a granularidade dos dados do usuário removidos usando as quatro caixas de seleção localizadas abaixo desta opção.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Control the number of decimal places and leading zeroes in &lt;f0&gt;Options&lt;/f0&gt;.</seg>
       </tuv>
@@ -36967,6 +36992,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203326Z" creationid="olivier-tdf" creationdate="20250328T203326Z">
         <seg>Ctrl-click necessário para abrir hiperlinks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl-click required to open hyperlinks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T181311Z" creationid="olivier" creationdate="20260926T181311Z">
+        <seg>Ctrl-click para abrir hiperlinks</seg>
       </tuv>
     </tu>
     <tu>
@@ -50596,6 +50629,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165452Z" creationid="firelinux" creationdate="20260403T165452Z">
         <seg>Figura&lt;seq0&gt;36&lt;/seq0&gt;Usando expressões regulares na caixa de diálogo Filtro Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Application appearance page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T181533Z" creationid="olivier" creationdate="20260926T181533Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Página Aparência do aplicativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -72494,6 +72535,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>LibreOffice Themes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T181540Z" creationid="olivier" creationdate="20260926T181540Z">
+        <seg>Temas do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>LibreOffice Writer has a configuration called Writer/Web that can create, edit, and save files in HTML format.</seg>
       </tuv>
@@ -79636,6 +79686,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T175723Z" creationid="olivier-tdf" creationdate="20250708T175723Z">
         <seg>Na aba &lt;f0&gt;Bibliotecas&lt;/f0&gt;, selecione o contêiner de biblioteca a ser usado e clique em &lt;f1&gt;Importar&lt;/f1&gt; para importar bibliotecas de macros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;LibreOffice – Appearance&lt;/f0&gt; page (Figure &lt;t1&gt;4&lt;/t1&gt;), you can specify colors independent of the desktop environment theme.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T181354Z" creationid="olivier" creationdate="20260926T181354Z">
+        <seg>Na página &lt;f0&gt;LibreOffice – Aparência&lt;/f0&gt; (Figura &lt;t1&gt;4&lt;/t1&gt;), você pode especificar cores independentes do tema do ambiente de trabalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106516,6 +106575,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The default behavior in most components of LibreOffice is to &lt;f0&gt;Ctrl&lt;/f0&gt;+click on a hyperlink to open the linked document, but you can choose to open hyperlinks using a single click.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T181333Z" creationid="olivier" creationdate="20260926T181333Z">
+        <seg>O comportamento padrão na maioria dos componentes do LibreOffice é &lt;f0&gt;Ctrl&lt;/f0&gt;+clique em um hiperlink para abrir o documento vinculado, mas você pode optar por abrir hiperlinks usando um único clique.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The default controls for other modules may vary.</seg>
       </tuv>
@@ -115179,6 +115247,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This setting applies to all LibreOffice modules.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T181403Z" creationid="olivier" creationdate="20260926T181403Z">
+        <seg>Esta configuração se aplica a todos os módulos do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This setting can create large files when used with photographs.</seg>
       </tuv>
@@ -118825,6 +118902,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T115541Z" creationid="timotheonb" creationdate="20260616T115541Z">
         <seg>Para fazer essas alterações nas configurações padrão dos documentos de planilha, é necessário substituir o modelo padrão do Calc por um novo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To manually remove personal information from specific documents, &lt;t0/&gt;deselect this option and then use the &lt;f1&gt;Reset Properties&lt;/f1&gt; button under &lt;f2&gt;File &gt; Properties &gt; General&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T181213Z" creationid="olivier" creationdate="20260926T181213Z">
+        <seg>Para remover manualmente informações pessoais de documentos específicos, &lt;t0/&gt;desmarque esta opção e use o botão &lt;f1&gt;Redefinir propriedades&lt;/f1&gt; em &lt;f2&gt;Arquivo &gt; Propriedades &gt; Geral&lt;/f2&gt; na barra de Menu.</seg>
       </tuv>
     </tu>
     <tu>
