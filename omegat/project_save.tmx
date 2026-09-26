@@ -10602,6 +10602,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Choosing security options for opening and saving documents&lt;/s0&gt;&lt;s1&gt;Choosing security options for opening and saving documents&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175142Z" creationid="olivier" creationdate="20260926T175142Z">
+        <seg>&lt;s0&gt;Escolher opções de segurança para abrir e salvar documentos&lt;/s0&gt;&lt;s1&gt;Escolher opções de segurança para abrir e salvar documentos&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Color panel in Properties deck&lt;/s0&gt;&lt;s1&gt;Color panel in Properties deck&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260404T195542Z" creationid="vitor" creationdate="20260404T195542Z">
@@ -16139,6 +16147,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A digital signature requires a personal signing certificate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175850Z" creationid="olivier" creationdate="20260926T175850Z">
+        <seg>Uma assinatura digital requer um certificado de assinatura pessoal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A dimension line does not belong to the object itself, but is positioned close to it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250716T225814Z" creationid="olivier" creationdate="20250716T225814Z">
@@ -17988,6 +18004,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding a trusted timestamp to an electronic signature on a PDF provides a digital seal of data integrity and a trusted date and time of when the file was signed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180400Z" creationid="olivier" creationdate="20260926T180400Z">
+        <seg>Adicionar um carimbo de tempo confiável a uma assinatura eletrônica de um documento fornece um selo digital da integridade dos dados e uma data e hora confiável de quando o documento foi assinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adding and formatting data labels for a data series</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T234719Z" creationid="vitor" creationdate="20260405T234719Z">
@@ -19392,6 +19416,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201407Z" creationid="olivier" creationdate="20250325T201407Z">
         <seg>Permite que os usuários selecionem um certificado a ser usado para assinar uma exportação de PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allows you to select a Time Stamping Authority (TSA) URL for PDF documents created by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180255Z" creationid="olivier" creationdate="20260926T180255Z">
+        <seg>Permite selecionar uma URL de autoridade de carimbo do tempo (ACT) para documentos PDF criados pelo LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25536,6 +25568,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc‑specific print options are described in &lt;f0&gt;&lt;bf1&gt;Print options&lt;/bf1&gt;&lt;/f0&gt;, &lt;bf2&gt;below&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174824Z" creationid="olivier" creationdate="20260926T174824Z">
+        <seg>As opções de impressão específicas do Calc são descritas nas &lt;f0&gt;&lt;bf1&gt;Opções de impressão&lt;/bf1&gt;&lt;/f0&gt;, &lt;bf2&gt;abaixo&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc’s Chart Wizard may be used to create an initial chart from spreadsheet data.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260416T232818Z" creationid="vitor" creationdate="20260326T002431Z">
@@ -28029,6 +28069,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T183203Z" creationid="olivier-tdf" creationdate="20250309T183203Z">
         <seg>Escolhendo opções para se adequar à maneira de trabalhar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Choosing security options for opening and saving documents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175215Z" creationid="olivier" creationdate="20260926T175215Z">
+        <seg>Escolher opções de segurança para abrir e salvar documentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -32385,6 +32434,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Macro Security&lt;/f0&gt; button to open the &lt;f1&gt;Macro Security&lt;/f1&gt; dialog, where you can adjust the security level for executing macros and specify trusted sources.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175749Z" creationid="olivier" creationdate="20260926T175749Z">
+        <seg>Clique em &lt;f0&gt;Segurança de macros&lt;/f0&gt; para abrir a caixa de diálogo &lt;f1&gt;Segurança de macros&lt;/f1&gt;, para ajustar o nível de segurança de execução de macros e origens confiáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the &lt;f0&gt;Manage&lt;/f0&gt; button on the Templates dialog and select &lt;f1&gt;Delete Category&lt;/f1&gt; in the context menu (Figure &lt;t2&gt;27&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T125307Z" creationid="timotheonb" creationdate="20260616T125307Z">
@@ -32429,6 +32486,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260202T151403Z" creationid="olivier" creationdate="20260202T151403Z">
         <seg>Clique no botão &lt;f0&gt;OK&lt;/f0&gt; para criar um novo módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Options&lt;/f0&gt; button to open a separate dialog with specific choices (see Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175323Z" creationid="olivier" creationdate="20260926T175323Z">
+        <seg>Clique no botão &lt;f0&gt;Opções&lt;/f0&gt; para abrir uma caixa de diálogo separada com opções específicas (consulte a Figura &lt;t1&gt;3&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32509,6 +32575,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205447Z" creationid="olivier-tdf" creationdate="20250128T205447Z">
         <seg>Clique no ícone &lt;f0&gt;Quebrar texto&lt;/f0&gt; na barra de ferramentas Formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f1&gt;Certificate&lt;/f1&gt; button, and select the preferred certificate store to use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180014Z" creationid="olivier" creationdate="20260926T180014Z">
+        <seg>Clique em &lt;f1&gt;Certificado&lt;/f1&gt; e selecione qual repositório de certificados utilizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48585,6 +48659,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Security Options and Warnings dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180651Z" creationid="olivier" creationdate="20260926T180651Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Caixa de diálogo Opções e Avisos de Segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Select Function drop-down</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212226Z" creationid="olivier-tdf" creationdate="20250116T212226Z">
@@ -50446,6 +50528,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Choosing security options for opening and saving documents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175202Z" creationid="olivier" creationdate="20260926T175202Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Escolher opções de segurança para abrir e salvar documentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Set leading zeroes in Sidebar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251103T105404Z" creationid="timotheonb" creationdate="20251103T105404Z">
@@ -52235,6 +52325,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260401T114318Z" creationid="firelinux" creationdate="20260401T114318Z">
         <seg>Por exemplo, A1.14 contém o caractere 'A', o número 1, o caractere '.' e o número 14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, Calc uses the first and last name entries to populate the &lt;f0&gt;Created&lt;/f0&gt; and &lt;f1&gt;Modified&lt;/f1&gt; fields in the document properties, in the footer of a printed spreadsheet, or as the username associated with comments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T173941Z" creationid="olivier" creationdate="20260926T173941Z">
+        <seg>Por exemplo, o Calc usa o nome e sobrenome para preencher os campos &lt;f0&gt;Criado&lt;/f0&gt; e &lt;f1&gt;Modificado&lt;/f1&gt; nas propriedades do documento, no rodapé de uma planilha impressa ou como o nome de usuário associado aos comentários.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56319,6 +56417,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>GPG Certificate Manager</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180405Z" creationid="olivier" creationdate="20260926T180405Z">
+        <seg>Gestor de certificados GPG</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Gabriel Godoy</seg>
       </tuv>
@@ -60379,6 +60486,14 @@
         <seg>However, a personal certificate issued by an outside agency (after verifying an individual identity) has a higher degree of trust associated with it than does a self-signed certificate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T115310Z" creationid="olivier" creationdate="20250314T115310Z">
+        <seg>Entretanto, um certificado pessoal emitido por uma agência externa (após verificar uma identidade individual) tem um grau de confiança mais alto associado a ele do que um certificado autoassinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, a personal certificate issued by an outside agency (after verifying an individual’s identity) has a higher degree of trust associated with it than a self-signed certificate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175932Z" creationid="olivier" creationdate="20260926T175932Z">
         <seg>Entretanto, um certificado pessoal emitido por uma agência externa (após verificar uma identidade individual) tem um grau de confiança mais alto associado a ele do que um certificado autoassinado.</seg>
       </tuv>
     </tu>
@@ -64833,6 +64948,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you record changes, save multiple versions, or include hidden information or notes in your documents, and you do not want some of the recipients to see that information, you can set warnings to remind you to remove this information, or you can have LibreOffice remove some information automatically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175247Z" creationid="olivier" creationdate="20260926T175247Z">
+        <seg>Se gravar alterações, salvar várias versões ou incluir informações ou anotações ocultas em seus documentos e não quiser que alguns dos destinatários vejam essas informações, poderá definir avisos para lembrá-lo de remover essas informações ou fazer com que o LibreOffice remova algumas informações automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you reload a document in LibreOffice, all the changes made in an editing session after the last save are discarded.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250225T000302Z" creationid="olivier" creationdate="20250220T232919Z">
@@ -64941,6 +65064,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260320T121124Z" creationid="timotheonb" creationdate="20260320T121124Z">
         <seg>Ao selecionar uma operação matemática e desmarcar &lt;f3&gt;Ignorar células vazias&lt;/f3&gt; as células vazias na área de transferência são tratadas como zeros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you select the &lt;f0&gt;Persistently save passwords for web connections&lt;/f0&gt; option, the &lt;f1&gt;Set Master Password&lt;/f1&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175557Z" creationid="olivier" creationdate="20260926T175557Z">
+        <seg>Se selecionar a opção &lt;f0&gt;Salvar permanentemente as senhas de conexões internet&lt;/f0&gt;, a caixa de diálogo &lt;f1&gt;Definir senha mestra&lt;/f1&gt; será aberta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70883,6 +71014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It resets the options to the values that were in place when you opened the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T173848Z" creationid="olivier" creationdate="20260926T173848Z">
+        <seg>Ele redefine as opções para os valores que estavam em vigor quando abriu a caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It should be noted that the brief description of each variant above refers to the default setup for that variant.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260503T174840Z" creationid="olivier" creationdate="20260503T174840Z">
@@ -71351,6 +71490,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231353Z" creationid="olivier-tdf" creationdate="20250328T231353Z">
         <seg>Mantenha esta opção selecionada para permitir a descriptografia de documentos que foram criptografados para outras pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Keep this option selected!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174217Z" creationid="olivier" creationdate="20260926T174217Z">
+        <seg>Mantenha esta opção selecionada!</seg>
       </tuv>
     </tu>
     <tu>
@@ -72602,6 +72750,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>LibreOffice does not provide a secure method of storing these certificates, &lt;t0/&gt;but it can access certificates that have been saved using other programs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175944Z" creationid="olivier" creationdate="20260926T175944Z">
+        <seg>O LibreOffice não fornece um método seguro de armazenar esses certificados, mas pode acessar certificados salvos utilizando outros programas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>LibreOffice does not provide a secure method of storing these certificates, but it can access certificates that have been saved using other programs.</seg>
       </tuv>
@@ -73092,6 +73249,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>LibreOffice tries to locate installed certificate managers automatically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180434Z" creationid="olivier" creationdate="20260926T180434Z">
+        <seg>O LibreOffice tenta localizar os gerenciadores de certificados instalados automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>LibreOffice uses OpenDocument, an XML (eXtensible Markup Language) file format developed as an industry standard by OASIS (Organization for the Advancement of Structured Information Standards).</seg>
       </tuv>
@@ -73145,6 +73311,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184129Z" creationid="olivier-tdf" creationdate="20250328T184129Z">
         <seg>O LibreOffice abrirá o programa de e-mail padrão com o arquivo PDF anexado à mensagem de e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LibreOffice will securely store all passwords that you use to access files from web servers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175623Z" creationid="olivier" creationdate="20260926T175623Z">
+        <seg>O LibreOffice armazenará com segurança todas as senhas usadas para acessar arquivos de servidores internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75101,6 +75275,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mark this checkbox to also encrypt the file with your public key, so you can open the document with your private key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174159Z" creationid="olivier" creationdate="20260926T174159Z">
+        <seg>Marque esta caixa para criptografar para si mesmo com sua chave pública, para que possa abrir o documento com sua chave privada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mark to check for online updates periodically, then select the time interval for how often LibreOffice will check for online updates.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T005035Z" creationid="olivier" creationdate="20250318T005035Z">
@@ -76426,6 +76608,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T101212Z" creationid="timotheonb" creationdate="20260821T213649Z">
         <seg>A maioria das ferramentas são iguais às para formatação de texto em células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most operating systems can generate a self-signed certificate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175915Z" creationid="olivier" creationdate="20260926T175915Z">
+        <seg>A maioria dos sistemas operacionais pode gerar um certificado autoassinado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78693,6 +78883,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Note that, unless removed, much of this information is retained in a file, whether the file is in LibreOffice’s default OpenDocument Format (ODF), or has been saved to other formats, including PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175303Z" creationid="olivier" creationdate="20260926T175303Z">
+        <seg>Observe que, a menos que sejam removidas, muitas dessas informações são retidas em um arquivo, esteja o arquivo no formato OpenDocument (ODF) padrão do LibreOffice ou tenha sido salvo em outros formatos, incluindo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Note the difference between categories and data series names.</seg>
       </tuv>
@@ -78922,6 +79121,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250909T013001Z" creationid="firelinux" creationdate="20250909T013001Z">
         <seg>ODF (formato de documento aberto)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>ODF Cryptography</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T173944Z" creationid="olivier" creationdate="20260926T173944Z">
+        <seg>Criptografia ODF</seg>
       </tuv>
     </tu>
     <tu>
@@ -80471,6 +80679,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>On Windows, LibreOffice uses the default Windows location for storing and retrieving certificates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180041Z" creationid="olivier" creationdate="20260926T180041Z">
+        <seg>No caso do Windows, o LibreOffice utiliza o local padrão do Windows para armazenar e recuperar certificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Op&lt;f0&gt;en&lt;/f0&gt; the Find &lt;f1&gt;deck&lt;/f1&gt; in the Sidebar &lt;f2&gt;(Figure &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;11&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;) &lt;/f5&gt;&lt;f6&gt;or use &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Alt+9&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
@@ -81332,6 +81549,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T230834Z" creationid="olivier-tdf" creationdate="20250328T230834Z">
         <seg>Criptografia OpenPGP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenPGP encryption key</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174110Z" creationid="olivier" creationdate="20260926T174110Z">
+        <seg>Chave de criptografia OpenPGP:</seg>
       </tuv>
     </tu>
     <tu>
@@ -82604,6 +82829,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T213603Z" creationid="timot" creationdate="20250210T213603Z">
         <seg>Caso contrário, continue digitando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Otherwise, you will not be able to decrypt documents you've encrypted for other people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174505Z" creationid="olivier" creationdate="20260926T174505Z">
+        <seg>Caso contrário, não poderá descriptografar documentos que criptografou para outras pessoas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84925,6 +85158,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260925T191546Z" creationid="olivier" creationdate="20260925T191546Z">
         <seg>Clique em &lt;f2&gt;&gt;&gt;&lt;/f2&gt; para acessar os grupos adicionais ocultos no momento -veja, por exemplo, a Figura &lt;t3&gt;48&lt;/t3&gt;,&lt;s4/&gt; que mostra os grupos ocultos correspondentes à Figura &lt;t5&gt;47&lt;/t5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Press the Browse button to locate the certificate manager executable in your system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180523Z" creationid="olivier" creationdate="20260926T180523Z">
+        <seg>Pressione o botão Procurar para localizar o gerenciador de certificados executável em seu sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89850,6 +90092,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Security warnings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180655Z" creationid="olivier" creationdate="20260926T180655Z">
+        <seg>Avisos de segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>See &lt;a0&gt;&lt;f1&gt;https://unicode-org.github.io/icu/userguide/strings/regexp.html&lt;/f1&gt;&lt;/a0&gt; for further details, including a full definition of the syntax for ICU Regular Expressions.</seg>
       </tuv>
@@ -89967,6 +90218,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260225T210316Z" creationid="timotheonb" creationdate="20260225T210316Z">
         <seg>Consulte &lt;f2&gt;&lt;bf3&gt;Usar o navegador&lt;/bf3&gt;&lt;/f2&gt;&lt;s4/&gt;na página &lt;bf5&gt;32&lt;/bf5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See &lt;f3&gt;Chapter 8, Printing, Exporting, Emailing, and Signing&lt;/f3&gt;, for more about these options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174900Z" creationid="olivier" creationdate="20260926T174900Z">
+        <seg>Consulte o &lt;f3&gt;Capítulo 8, Imprimir, exportar, Enviar por e-mail e assinar&lt;/f3&gt;, para mais detalhes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -94995,6 +95254,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Select this option to always remove user data from the file properties when saving the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180752Z" creationid="olivier" creationdate="20260926T180752Z">
+        <seg>Selecione esta opção para sempre remover os dados do usuário das propriedades do arquivo ao salvar o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Select this option to apply any of the above changes and restart LibreOffice.</seg>
       </tuv>
@@ -95291,11 +95559,38 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Select your OpenPGP key from the drop-down list for encrypting ODF documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174117Z" creationid="olivier" creationdate="20260926T174117Z">
+        <seg>Selecione sua chave OpenPGP da lista para criptografar documentos ODF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Select your OpenPGP key from the drop‑down list for signing ODF documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174054Z" creationid="olivier" creationdate="20260926T174054Z">
+        <seg>Selecione sua chave OpenPGP da lista para assinar documentos ODF.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Select your new macro &lt;f0&gt;EnterMyName&lt;/f0&gt; and click &lt;f1&gt;Edit&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T085015Z" creationid="olivier-tdf" creationdate="20250701T085015Z">
         <seg>Selecione sua nova macro &lt;f0&gt;EnterMyName&lt;/f0&gt; e clique em &lt;f1&gt;Editar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Select your preferred GPG certificate manager.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180423Z" creationid="olivier" creationdate="20260926T180423Z">
+        <seg>Selecione seu gerenciador de certificados GPG preferido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96008,6 +96303,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200428Z" creationid="olivier" creationdate="20250325T200428Z">
         <seg>Definir senhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set preferences for &lt;f0&gt;Help&lt;/f0&gt;, &lt;f1&gt;Open/Save&lt;/f1&gt;, &lt;f2&gt;File Associations&lt;/f2&gt;, and more.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174549Z" creationid="olivier" creationdate="20260926T174549Z">
+        <seg>Define preferências para &lt;f0&gt;Ajuda&lt;/f0&gt;, &lt;f1&gt;Abrir/Salvar&lt;/f1&gt;, &lt;f2&gt;Associações de arquivos&lt;/f2&gt; e muito mais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -97667,6 +97970,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Signing key</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174045Z" creationid="olivier" creationdate="20260926T174045Z">
+        <seg>Chave de assinatura</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Similar to sorting, filters are useful for narrowing down long lists of data in order to find particular data items.</seg>
       </tuv>
@@ -98424,6 +98736,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260524T145332Z" creationid="vitor" creationdate="20260524T145332Z">
         <seg>Alguma informação, juntamente com links para leitura mais detalhada, está disponível na Ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Some items have two or more paths listed: one to a shared folder (which might be on a network) and one to a user-specific folder (normally on the user’s personal computer).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175015Z" creationid="olivier" creationdate="20260926T175015Z">
+        <seg>Alguns itens têm dois ou mais caminhos listados: um para uma pasta compartilhada (que pode estar em uma rede) e outro para uma pasta específica do usuário (normalmente no computador pessoal do usuário).</seg>
       </tuv>
     </tu>
     <tu>
@@ -100709,6 +101030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TSAs –Time Stamping Authorities</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180102Z" creationid="olivier" creationdate="20260926T180102Z">
+        <seg>TSAs - Autoridades de carimbo de tempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134320Z" creationid="olivier-tdf" creationdate="20250303T134320Z">
@@ -102166,6 +102495,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Certificate Path&lt;/f0&gt; option appears only on Linux and macOS systems.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180032Z" creationid="olivier" creationdate="20260926T180032Z">
+        <seg>A opção &lt;f0&gt;Caminho do certificado&lt;/f0&gt; aparece apenas nos sistemas Linux e macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Click to add notes&lt;/f0&gt; text box can be resized using the resizing handles which appear when the edge of the notes box is selected.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T203039Z" creationid="timotheonb" creationdate="20250502T203039Z">
@@ -102572,6 +102909,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T184919Z" creationid="olivier-tdf" creationdate="20250309T184919Z">
         <seg>O botão &lt;f0&gt;Redefinir&lt;/f0&gt;, localizado no canto inferior direito da caixa de diálogo Opções, redefine os valores nessa página para os valores que estavam em vigor quando a caixa de diálogo foi aberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Reset&lt;/f0&gt; button, located in the lower right of the full &lt;f1&gt;Options&lt;/f1&gt; dialog, has the same effect on all pages of the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T173837Z" creationid="olivier" creationdate="20260926T173837Z">
+        <seg>O botão &lt;f0&gt;Redefinir&lt;/f0&gt;, localizado no canto inferior direito da caixa de diálogo &lt;f1&gt;Opções&lt;/f1&gt;, tem o mesmo efeito em todas as páginas da caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105855,6 +106200,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251022T155743Z" creationid="timotheonb" creationdate="20251022T155743Z">
         <seg>Os controles e ferramentas disponíveis no Navegador são os seguintes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The controls for the security options shown in &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;are described in detail below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175118Z" creationid="olivier" creationdate="20260926T175118Z">
+        <seg>Os controles para as opções de segurança mostradas em &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;são descritos em detalhes abaixo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109350,6 +109704,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The path options can be used to change the location of files associated with, or used by, LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174953Z" creationid="olivier" creationdate="20260926T174953Z">
+        <seg>As opções de caminho servem para alterar o local dos arquivos associados ou usados pelo LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The path to the JRE is displayed beneath the list box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190244Z" creationid="olivier" creationdate="20250316T190244Z">
@@ -109506,6 +109868,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260526T003226Z" creationid="vitor" creationdate="20260526T003226Z">
         <seg>A razão primária do VBA não funcionar no Calc, embora o Calc possa ler caderno de exercícios do Excel, é que o Calc usa um mecanismo  deiferente para acessar o componente lista de exercício (chamada planilha no Calc), como células na folha de trabalho (chamada de folha no Calc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The print options may be set to suit your default printer and your most common printing method.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174738Z" creationid="olivier" creationdate="20260926T174738Z">
+        <seg>As opções de impressão podem ser definidas para se adequarem à sua impressora padrão e ao seu método de impressão mais comum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109914,6 +110285,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172359Z" creationid="tulio" creationdate="20250119T172359Z">
         <seg>A segunda barra de ferramentas muda dependendo de qual módulo do LibreOffice está aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The security options can be adjusted to change the behavior of the application when a potential security issue is present, such as hidden information or macros.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175050Z" creationid="olivier" creationdate="20260926T175050Z">
+        <seg>As opções de segurança podem ser ajustadas para alterar o comportamento do aplicativo quando um possível problema de segurança estiver presente, como informações ocultas ou macros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112331,6 +112711,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195515Z" creationid="olivier-tdf" creationdate="20250109T195515Z">
         <seg>Essas páginas &lt;f6&gt;dão&lt;/f6&gt; acesso aos Guias do Usuário do LibreOffice e outras informações úteis que podem ser abertas no navegador padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These preferred keys will be pre-selected in key selection dialog every time you sign or encrypt a document, so you don't have to select it yourself when signing with one specific key frequently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174034Z" creationid="olivier" creationdate="20260926T174034Z">
+        <seg>Essas chaves preferidas serão pré-selecionadas na caixa de diálogo de seleção de chaves sempre que assinar ou criptografar um documento, para que não precise selecioná-lo sozinho ao assinar com uma chave específica com frequência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123643,6 +124031,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>User data entries are used by templates and wizards in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T173910Z" creationid="olivier" creationdate="20260926T173910Z">
+        <seg>Os dados do usuário são usados por modelos e assistentes no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>User interface</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T232515Z" creationid="olivier" creationdate="20250319T232515Z">
@@ -123695,6 +124091,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T185306Z" creationid="olivier-tdf" creationdate="20250209T185246Z">
         <seg>Os usuários podem adicionar uma anotação numa célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Users can change the size and style of toolbar and sidebar icons, among other settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174716Z" creationid="olivier" creationdate="20260926T174716Z">
+        <seg>Usuários podem alterar o tamanho e o estilo dos ícones da barra de ferramentas e da barra lateral, entre outras configurações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Users can digitally sign documents using LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175823Z" creationid="olivier" creationdate="20260926T175823Z">
+        <seg>O LibreOffice pode assinar documentos digitalmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125058,6 +125470,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>View settings affect how the document window looks and behaves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174657Z" creationid="olivier" creationdate="20260926T174657Z">
+        <seg>As configurações de exibição afetam a aparência e o comportamento da janela do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>View tab</seg>
       </tuv>
@@ -125187,6 +125608,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174209Z" creationid="olivier" creationdate="20260926T174209Z">
+        <seg>Cuidado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Warning that a document contains macros</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260520T002251Z" creationid="vitor" creationdate="20260520T001231Z">
@@ -125199,6 +125628,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T141815Z" creationid="olivier" creationdate="20250223T141815Z">
         <seg>Avisos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Warnings take the form of a suitable icon and text displayed in an infobar located above the grid of cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180728Z" creationid="olivier" creationdate="20260926T180728Z">
+        <seg>Os avisos assumem a forma de um ícone e texto adequados exibidos em uma barra de informações localizada acima da grade de células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126383,6 +126821,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205524Z" creationid="olivier-tdf" creationdate="20250128T205524Z">
         <seg>Ao editar texto, clique duas vezes na célula e reposicione o cursor para onde deseja a quebra de linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When encrypting documents, always encrypt to self</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174145Z" creationid="olivier" creationdate="20260926T174145Z">
+        <seg>Ao criptografar documentos, sempre criptografar para mim</seg>
       </tuv>
     </tu>
     <tu>
@@ -128107,6 +128553,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>While most of the options available on the Security Options and Warnings dialog (Figure &lt;t0&gt;3&lt;/t0&gt;) are straightforward, those listed below benefit from additional explanation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180556Z" creationid="olivier" creationdate="20260926T180556Z">
+        <seg>Embora a maioria das opções disponíveis na caixa de diálogo Opções de Segurança e Avisos (Figura &lt;t0&gt;3&lt;/t0&gt;) seja direta, as listadas abaixo se beneficiam de explicações adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>While not essential for using Calc, these tools can save you time and effort when managing large data sets or preserving your work for future review.</seg>
       </tuv>
@@ -129579,6 +130034,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You can also disable the tip of the day popups here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174624Z" creationid="olivier" creationdate="20260926T174624Z">
+        <seg>Você também pode desativar os pop-ups de dicas do dia aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You can also enter a custom format.</seg>
       </tuv>
@@ -129995,6 +130459,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You can change these settings at any time, either through this dialog or during the printing process using the Print dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174757Z" creationid="olivier" creationdate="20260926T174757Z">
+        <seg>Você pode alterar essas configurações a qualquer momento, seja através desta caixa de diálogo ou durante o processo de impressão usando a caixa de diálogo Imprimir.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You can choose a contiguous range of cells by clicking the &lt;f0&gt;Selection mode&lt;/f0&gt; area on the Status bar (Figure &lt;t1&gt;4&lt;/t1&gt;) and selecting &lt;f2&gt;Extending selection&lt;/f2&gt; before clicking in the opposite corner of the range of cells.</seg>
       </tuv>
@@ -130339,6 +130812,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You can enter a master password to enable easy access to websites that require a user name and password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175339Z" creationid="olivier" creationdate="20260926T175339Z">
+        <seg>Você pode inserir uma senha mestra para permitir o acesso fácil a sites que exigem um nome de usuário e senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You can enter data (usually numerical) in a spreadsheet and then manipulate this data to discover results.</seg>
       </tuv>
@@ -130672,6 +131154,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T111827Z" creationid="timotheonb" creationdate="20260602T111827Z">
         <seg>É possível renomear estilos personalizados, mas não os estilos fornecidos com o Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can retrieve the passwords from the list after you enter the master password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175655Z" creationid="olivier" creationdate="20260926T175655Z">
+        <seg>Recupere senhas de uma lista de senhas protegidas após inserir a senha mestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131536,6 +132026,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="rafael" changedate="20250220T001034Z" creationid="rafael" creationdate="20250220T001022Z">
         <seg>Suas primeiras &lt;i0/&gt;macros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You could, for example, change the default path to a shared server instead of your PC.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175031Z" creationid="olivier" creationdate="20260926T175031Z">
+        <seg>Você pode, por exemplo, alterar o caminho padrão para um servidor compartilhado em vez do seu PC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133644,6 +134143,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>paths</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174912Z" creationid="olivier" creationdate="20260926T174912Z">
+        <seg>caminhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pie</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260915T112922Z" creationid="timotheonb" creationdate="20260915T112922Z">
@@ -133672,6 +134179,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T133907Z" creationid="olivier" creationdate="20251019T133907Z">
         <seg>preparar um documento para revisão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>print</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174723Z" creationid="olivier" creationdate="20260926T174723Z">
+        <seg>imprimir</seg>
       </tuv>
     </tu>
     <tu>
@@ -134072,6 +134587,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165210Z" creationid="firelinux" creationdate="20260403T165210Z">
         <seg>pesquisando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>security</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175035Z" creationid="olivier" creationdate="20260926T175035Z">
+        <seg>segurança</seg>
       </tuv>
     </tu>
     <tu>
@@ -134712,6 +135235,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T145329Z" creationid="olivier" creationdate="20251019T145329Z">
         <seg>versões, salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>view</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174513Z" creationid="olivier" creationdate="20260926T174513Z">
+        <seg>exibir</seg>
       </tuv>
     </tu>
     <tu>
