@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4984,6 +4984,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Document type:&lt;/f0&gt; If you routinely share documents with users of Microsoft Excel, you might want to change the &lt;f1&gt;Always save as&lt;/f1&gt; option to one of the Excel formats, including XLSX.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T235056Z" creationid="olivier" creationdate="20260929T235056Z">
+        <seg>&lt;f0&gt;Tipo de documento:&lt;/f0&gt; se compartilhar documentos rotineiramente com usuários do Microsoft Excel, convém alterar a opção &lt;f1&gt;Sempre salvar como&lt;/f1&gt; para um dos formatos do Excel, incluindo XLSX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Documentation for LibreOffice is a&lt;/f0&gt;&lt;f1&gt;vailable&lt;/f1&gt;&lt;f2&gt; at &lt;/f2&gt;&lt;a3&gt;&lt;f4&gt;&lt;f5&gt;https://documentation.libreoffice.org/en/&lt;/f5&gt;&lt;/f4&gt;&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250728T172412Z" creationid="timotheonb" creationdate="20250728T172412Z">
@@ -6916,6 +6924,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T174956Z" creationid="olivier-tdf" creationdate="20250109T194435Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;Outras versões do LibreOffice estão listadas na página de download, &lt;f1&gt;como Portable, &lt;/f1&gt;&lt;f2&gt;um aplicativo&lt;/f2&gt; na Microsoft Store e Apple Mac App Store a &lt;f3&gt;preços&lt;/f3&gt; baixos e &lt;f4&gt;acessíveis&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;ODF format version:&lt;/f0&gt; LibreOffice by default saves documents in OpenDocument Format (ODF) version 1.4 Extended.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234958Z" creationid="olivier" creationdate="20260929T234958Z">
+        <seg>&lt;f0&gt;Versão do formato ODF:&lt;/f0&gt; O LibreOffice por padrão salva documentos no OpenDocument Format (ODF) versão 1.4 Estendida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19663,6 +19680,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Also, note that recent versions of Microsoft Excel can open ODS files, so this may no longer be needed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T235148Z" creationid="olivier" creationdate="20260929T235148Z">
+        <seg>Além disso, observe que as versões recentes do Microsoft Excel podem abrir arquivos ODS, portanto, isso pode não ser mais necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Also, predefined text and graphics can be added to a template.</seg>
       </tuv>
@@ -23013,6 +23039,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250629T184522Z" creationid="firelinux" creationdate="20250629T184522Z">
         <seg>Os painéis disponíveis dependem do objeto selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Avoid changing any of these configurations without good knowledge fo the consequences, which may not be visible immediately and can turn the user profile unusable and subject to a factory reset or to a call to the Help desk.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234537Z" creationid="olivier" creationdate="20260929T234537Z">
+        <seg>Evite alterar qualquer uma dessas configurações sem um bom conhecimento das consequências, que podem não ser visíveis imediatamente e podem tornar o perfil do usuário inutilizável e sujeito a uma redefinição de fábrica ou a uma chamada para o Help desk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32861,6 +32896,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200503Z" creationid="olivier" creationdate="20260925T200503Z">
         <seg>Clique no símbolo de expansão (+ ou triângulo) ao lado de &lt;f0&gt;LibreOffice&lt;/f0&gt; para revelar a lista de subseções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the expansion symbol (+ or triangle) to the left of &lt;f2&gt;Load/Save&lt;/f2&gt; on to display the list of load/save options pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234739Z" creationid="olivier" creationdate="20260929T234739Z">
+        <seg>Clique no símbolo de expansão (+ ou triângulo) à esquerda de &lt;f2&gt;Carregar/Salvar&lt;/f2&gt; para exibir a lista de páginas de opções de carregar/salvar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53899,6 +53942,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For more about macro recording, see the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;, and &lt;f1&gt;Chapter 14, Macros&lt;/f1&gt;, in this book.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234436Z" creationid="olivier" creationdate="20260929T234436Z">
+        <seg>Para saber mais sobre a gravação de macros, consulte o &lt;f0&gt;Guia de Introdução&lt;/f0&gt; e o &lt;f1&gt;Capítulo 14, Macros&lt;/f1&gt;, neste livro.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For more about modifying styles, see Chapter 4, Working with Styles, Templates, and Hyperlinks.</seg>
       </tuv>
@@ -61075,6 +61127,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>However, you can choose an Excel format when you save any individual file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T235112Z" creationid="olivier" creationdate="20260929T235112Z">
+        <seg>No entanto, você pode escolher um formato do Excel ao salvar qualquer arquivo individual.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>However, you can delete a category that you created:</seg>
       </tuv>
@@ -63304,6 +63365,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125742Z" creationid="olivier-tdf" creationdate="20250218T125742Z">
         <seg>Se o texto ou objeto compartilha um estilo no LibreOffice, então esse texto ou objeto compartilha os atributos escolhidos desse estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the &lt;f0&gt;Options&lt;/f0&gt; dialog is not already open, click &lt;f1&gt;Tools &gt; Options &lt;/f1&gt;on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234706Z" creationid="olivier" creationdate="20260929T234706Z">
+        <seg>Se a caixa de diálogo &lt;f0&gt;Opções&lt;/f0&gt; não estiver aberta, clique em &lt;f1&gt;Ferramentas &gt; Opções &lt;/f1&gt;na barra de Menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75299,6 +75368,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Many of the choices on the &lt;f0&gt;Load/Save – General&lt;/f0&gt; page (Figure &lt;t1&gt;5&lt;/t1&gt;) are familiar to users of other office suites.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234821Z" creationid="olivier" creationdate="20260929T234821Z">
+        <seg>Muitas das opções na página &lt;f0&gt;Carregar/Salvar – Geral&lt;/f0&gt; (Figura &lt;t1&gt;5&lt;/t1&gt;) são familiares aos usuários de outras suítes de escritório.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Many of these fonts are clones, or close variations of classic fonts, but several fonts are original.</seg>
       </tuv>
@@ -82592,6 +82670,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T213744Z" creationid="timot" creationdate="20250210T213744Z">
         <seg>As opções para personalizar a conclusão de palavras na caixa de diálogo Autocorreção incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Options for loading and saving documents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234544Z" creationid="olivier" creationdate="20260929T234544Z">
+        <seg>Opções para carregar e salvar documentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -90809,6 +90896,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141306Z" creationid="olivier-tdf" creationdate="20250615T141306Z">
         <seg>Consulte o &lt;f0&gt;Guia do Draw&lt;/f0&gt; para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>See the &lt;f0&gt;Getting Started Guide&lt;/f0&gt; for a description of the other options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234638Z" creationid="olivier" creationdate="20260929T234638Z">
+        <seg>Consulte o &lt;f0&gt;Guia de Introdução&lt;/f0&gt; para obter uma descrição das outras opções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107214,6 +107310,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The expert configuration dialog contains advanced settings for LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234516Z" creationid="olivier" creationdate="20260929T234516Z">
+        <seg>A caixa de diálogo de configuração para especialistas contém configurações avançadas para o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The export SVG file contains the selected exported slides or drawing pages.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001928Z" creationid="olivier" creationdate="20250328T001928Z">
@@ -113645,6 +113749,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This chapter describes only a few of the options, those most relevant to working with Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234628Z" creationid="olivier" creationdate="20260929T234628Z">
+        <seg>Este capítulo descreve apenas algumas das opções, aquelas mais relevantes para trabalhar com o Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This chapter describes some common customizations that can be carried out, as follows:</seg>
       </tuv>
@@ -115578,6 +115691,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T234751Z" creationid="olivier" creationdate="20250307T234751Z">
         <seg>Aqueles atribuídos ao sistema do computador não devem ser usados como atalhos de teclado personalizados no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Those of most interest to Calc users are in the &lt;f2&gt;Default File Format and ODF Settings&lt;/f2&gt; section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234944Z" creationid="olivier" creationdate="20260929T234944Z">
+        <seg>Aqueles de maior interesse para os usuários do Calc estão na seção &lt;f2&gt;Formato de arquivo padrão e configurações ODF&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125830,6 +125951,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We recommend that you always save a working copy in ODS format and only create an Excel version if necessary for sharing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T235129Z" creationid="olivier" creationdate="20260929T235129Z">
+        <seg>Recomendamos que sempre salve uma cópia de trabalho no formato ODS e crie apenas uma versão do Excel, se necessário, para compartilhamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250728T170210Z" creationid="timotheonb" creationdate="20250728T170210Z">
@@ -131510,6 +131639,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can set the Load/Save options to suit the way you work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234614Z" creationid="olivier" creationdate="20260929T234614Z">
+        <seg>Você pode definir as opções Carregar/Salvar para se adequar à maneira como trabalha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can set the cell to refuse invalid content, accept it with a warning, or start a macro when an error is entered.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224920Z" creationid="olivier" creationdate="20250123T224852Z">
@@ -132178,6 +132315,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T225457Z" creationid="olivier" creationdate="20250327T225457Z">
         <seg>Você terá que alterar as listas de marcadores e números que inserem um caractere de tabulação entre o marcador ou número e o texto - em vez disso, crie um estilo de lista em que o caractere de tabulação seja substituído por um espaço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You will rarely need to change this for compatibility when exchanging files with other people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T235019Z" creationid="olivier" creationdate="20260929T235019Z">
+        <seg>Você raramente precisará alterar isso para compatibilidade ao trocar arquivos com outras pessoas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133358,6 +133504,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>general</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234744Z" creationid="olivier" creationdate="20260929T234744Z">
+        <seg>geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>general layout</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250813T202637Z" creationid="timotheonb" creationdate="20250813T202637Z">
@@ -133930,6 +134084,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260520T002751Z" creationid="vitor" creationdate="20260520T002751Z">
         <seg>Carregando e descarregando bibliotecas de macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>loading and saving options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234800Z" creationid="olivier" creationdate="20260929T234800Z">
+        <seg>opções de carregar e salvar</seg>
       </tuv>
     </tu>
     <tu>
