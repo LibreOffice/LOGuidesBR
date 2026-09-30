@@ -9872,6 +9872,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f3&gt;Shading&lt;/f3&gt; is the initial default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T193746Z" creationid="olivier" creationdate="20260930T193746Z">
+        <seg>&lt;f3&gt;O sombreado&lt;/f3&gt; é o padrão inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f3&gt;Sheet &gt; Navigate &gt; Go to Sheet&lt;/f3&gt; brings up a dialog box that allows you to select a sheet or to search for a sheet by name.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T134030Z" creationid="olivier-tdf" creationdate="20250120T134030Z">
@@ -10416,6 +10424,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Calc options&lt;/s0&gt;&lt;s1&gt;Calc options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T200003Z" creationid="olivier" creationdate="20260930T200003Z">
+        <seg>&lt;s0&gt;Opções do Calc&lt;/s0&gt;&lt;s1&gt;Opções do Calc&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Callouts subtoolbar&lt;/s0&gt;&lt;s1&gt;Callouts subtoolbar&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250728T125444Z" creationid="firelinux" creationdate="20250728T125444Z">
@@ -10656,10 +10672,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Choosing HTML compatibility options&lt;/s0&gt;&lt;s1&gt;Choosing HTML compatibility options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194952Z" creationid="olivier" creationdate="20260930T194952Z">
+        <seg>&lt;s0&gt;Escolher opções de compatibilidade HTML&lt;/s0&gt;&lt;s1&gt;Escolher opções de compatibilidade HTML&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Choosing Load and Save general options&lt;/s0&gt;&lt;s1&gt;Choosing Load and Save general options&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T191718Z" creationid="olivier" creationdate="20260930T191718Z">
         <seg>&lt;s0&gt;Escolher as opções gerais de Carregar e Salvar&lt;/s0&gt;&lt;s1&gt;Escolher as opções gerais de Carregar e Salvar&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Choosing Load/Save Microsoft Office options&lt;/s0&gt;&lt;s1&gt;Choosing Load/Save Microsoft Office options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T193128Z" creationid="olivier" creationdate="20260930T193128Z">
+        <seg>&lt;s0&gt;Escolher as opções de Carregar e Salvar do Microsoft Office&lt;/s0&gt;&lt;s1&gt;Escolher as opções de Carregar e Salvar do Microsoft Office&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13696,6 +13728,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Selecting general options for Calc&lt;/s0&gt;&lt;s1&gt;Selecting general options for Calc&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T202323Z" creationid="olivier" creationdate="20260930T202323Z">
+        <seg>&lt;s0&gt;Selecionar as opções gerais para Calc&lt;/s0&gt;&lt;s1&gt;Selecionar as opções gerais para Calc&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Selecting items that are not next to each other&lt;/s0&gt;&lt;s1&gt;Selecting items that are not next to each other&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250126T184023Z" creationid="timot" creationdate="20250126T184023Z">
@@ -16692,6 +16732,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="timot" creationdate="20250111T201027Z">
         <seg>Uma lista de estilos de página será exibida. Clique num para selecioná-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>A list of subsections drops down (Figure &lt;t2&gt;9&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T195131Z" creationid="olivier" creationdate="20260930T195131Z">
+        <seg>Uma lista de subseções é exibida (Figura &lt;t2&gt;9&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25426,6 +25475,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc must be open in order for the LibreOffice Calc options to be displayed in the &lt;f0&gt;Options&lt;/f0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T195049Z" creationid="olivier" creationdate="20260930T195049Z">
+        <seg>O Calc deve estar aberto para que as opções do LibreOffice Calc sejam exibidas na caixa de diálogo &lt;f0&gt;Opções&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc offers a variety of ways to present data in the form of customizable charts and graphs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260416T232711Z" creationid="vitor" creationdate="20260326T002011Z">
@@ -25478,6 +25535,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T145210Z" creationid="olivier" creationdate="20251019T145210Z">
         <seg>O Calc abre a caixa de diálogo Gerenciar alterações, mostrando as alterações identificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T200016Z" creationid="olivier" creationdate="20260930T200016Z">
+        <seg>Opções do Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc options, setting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T195201Z" creationid="olivier" creationdate="20260930T195201Z">
+        <seg>Opções do Calc, configuração</seg>
       </tuv>
     </tu>
     <tu>
@@ -25574,6 +25647,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T142906Z" creationid="olivier" creationdate="20251019T142906Z">
         <seg>O Calc mostra a anotação da célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Calc specific options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T195013Z" creationid="olivier" creationdate="20260930T195013Z">
+        <seg>Opções específicas do Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -27817,6 +27899,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Choices made on the &lt;f0&gt;Load/Save – HTML Compatibility&lt;/f0&gt; page (Figure &lt;t1&gt;8&lt;/t1&gt;) affect how LibreOffice imports or exports HTML pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194050Z" creationid="olivier" creationdate="20260930T194050Z">
+        <seg>As escolhas feitas na página &lt;f0&gt;Carregar/Salvar – Compatibilidade HTML&lt;/f0&gt; (Figura &lt;t1&gt;8&lt;/t1&gt;) afetam como o LibreOffice importa ou exporta páginas HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Choose &lt;f0&gt;Data &gt; Text to Columns.&lt;/f0&gt;</seg>
       </tuv>
@@ -28178,6 +28269,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose the unit of measurement used in spreadsheets and the default tab stops distance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T195924Z" creationid="olivier" creationdate="20260930T195924Z">
+        <seg>Escolha a unidade de medida usada nas planilhas e a distância padrão entre paradas de tabulação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose where you want to save the library and click &lt;f0&gt;Save&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T174929Z" creationid="olivier-tdf" creationdate="20250708T174929Z">
@@ -28194,6 +28293,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose whether to update links when opening a document: &lt;f0&gt;Always, On request,&lt;/f0&gt; or &lt;f1&gt;Never&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T202133Z" creationid="olivier" creationdate="20260930T202133Z">
+        <seg>Escolha se deseja atualizar os links ao abrir um documento: &lt;f0&gt;Sempre, Sob demanda&lt;/f0&gt; ou &lt;f1&gt;Nunca&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose which hidden sheets to show from the list on the Show Sheet dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194213Z" creationid="firelinux" creationdate="20260403T194213Z">
@@ -28202,10 +28309,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choosing HTML compatibility options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T195008Z" creationid="olivier" creationdate="20260930T195008Z">
+        <seg>Escolher opções de compatibilidade HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choosing Load and Save general options</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T191750Z" creationid="olivier" creationdate="20260930T191750Z">
         <seg>Escolher as opções gerais de Carregar e Salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choosing Load/Save Microsoft Office options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T193154Z" creationid="olivier" creationdate="20260930T193154Z">
+        <seg>Escolher as opções de Carregar e Salvar do Microsoft Office</seg>
       </tuv>
     </tu>
     <tu>
@@ -32961,6 +33084,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Click the expansion symbol (+ or triangle) by &lt;f1&gt;LibreOffice Calc&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T195111Z" creationid="olivier" creationdate="20260930T195111Z">
+        <seg>Clique no símbolo de expansão (+ ou triângulo) do &lt;f1&gt;LibreOffice Calc&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Click the expansion symbol (+ or triangle) next to &lt;f0&gt;LibreOffice&lt;/f0&gt; to reveal the list of subsections.</seg>
       </tuv>
@@ -33942,6 +34074,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250729T014019Z" creationid="firelinux" creationdate="20250729T014019Z">
         <seg>Código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Code is preserved but rendered inactive by default (if you inspect it with the LibreOffice Basic IDE you will see that it is all commented), but when&lt;f1&gt; Executable code&lt;/f1&gt; is selected, the code is ready to be executed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T192637Z" creationid="olivier" creationdate="20260930T192637Z">
+        <seg>O código é preservado, mas desativado por padrão (se inspecioná-lo com o LibreOffice Basic IDE, verá que tudo é comentado), mas quando o &lt;f1&gt;código Executável&lt;/f1&gt; é selecionado, o código está pronto para ser executado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49860,6 +50000,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Choosing Load/Save Microsoft Office options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T193142Z" creationid="olivier" creationdate="20260930T193142Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Escolher as opções de Carregar e Salvar do Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Confirm File Format dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T124626Z" creationid="olivier-tdf" creationdate="20250117T124626Z">
@@ -50160,6 +50308,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260519T005921Z" creationid="vitor" creationdate="20260519T005921Z">
         <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Organizador de Macro Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Calc options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T200011Z" creationid="olivier" creationdate="20260930T200011Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Opções do Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -50636,6 +50792,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Selecting general options for Calc</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T202334Z" creationid="olivier" creationdate="20260930T202334Z">
+        <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Selecionar as opções gerais para Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Validity dialog – Criteria tab</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260120T120629Z" creationid="timotheonb" creationdate="20260120T120629Z">
@@ -50841,6 +51005,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251108T175052Z" creationid="timotheonb" creationdate="20251108T175052Z">
         <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Exemplos de uso da ferramenta Preencher células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Choosing HTML compatibility options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T195004Z" creationid="olivier" creationdate="20260930T195004Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Escolher opções de compatibilidade HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -59469,6 +59641,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>HTML Compatibility</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194034Z" creationid="olivier" creationdate="20260930T194034Z">
+        <seg>Compatibilidade com HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>HTML Document (.htm and .html files, including Web page queries)</seg>
       </tuv>
@@ -59530,6 +59711,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T002108Z" creationid="olivier" creationdate="20250328T002108Z">
         <seg>Arquivos HTML usando Writer/Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HTML loading and saving options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194026Z" creationid="olivier" creationdate="20260930T194026Z">
+        <seg>Opções de carregar e salvar em HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -62374,6 +62563,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If both options are selected, and you edit the disabled code in LibreOffice, the original Microsoft Basic code will be saved when saving in a Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T192708Z" creationid="olivier" creationdate="20260930T192708Z">
+        <seg>Se ambas as opções forem selecionados e se editar o código desabilitado no LibreOffice o código original VBA será salvo quando salvar num formato Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If both options are selected, and you edit the disabled code in LibreOffice, the original VBA code will be saved when saving in a Microsoft Office format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203852Z" creationid="vitor" creationdate="20260526T004105Z">
@@ -63514,6 +63711,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250629T184143Z" creationid="firelinux" creationdate="20250629T184143Z">
         <seg>Se o painel &lt;f1&gt;Páginas&lt;/f1&gt; não estiver visível, selecione &lt;f2&gt;Exibir &gt; Painel Página&lt;/f2&gt; na barra de Menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the &lt;f2&gt;Display warning&lt;/f2&gt; option is selected, then when exporting to HTML a warning is shown that LibreOffice Basic macros will be lost.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194720Z" creationid="olivier" creationdate="20260930T194720Z">
+        <seg>Se a opção &lt;f2&gt;Exibir aviso&lt;/f2&gt; estiver selecionada, então ao exportar para HTML, será mostrado um aviso de que as macros do LibreOffice Basic serão perdidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64805,6 +65010,23 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If you choose &lt;f0&gt;Load Basic code&lt;/f0&gt;, you can edit the macros in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T192339Z" creationid="olivier" creationdate="20260930T192339Z">
+        <seg>Ao se escolher &lt;i0/&gt;&lt;f1&gt;Carregar código Basic&lt;/f1&gt;, é possível editar as macros no Libreoffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you choose &lt;f0&gt;Save original Basic code&lt;/f0&gt;, the macros will not work in LibreOffice but are retained unchanged if you save the file into Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T192507Z" creationid="olivier" creationdate="20260930T192507Z">
+        <seg>Ao se escolher &lt;i0/&gt;&lt;f1&gt;Salvar código Basic original&lt;/f1&gt;, as macros não funcionarão no LibreOffice, mas permanecerão inalteradas se salvar o arquivo no formato Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>If you choose &lt;i0/&gt;&lt;f1&gt;Load Basic code&lt;/f1&gt;, you can edit the macros in LibreOffice.</seg>
       </tuv>
@@ -64874,6 +65096,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250909T221101Z" creationid="timotheonb" creationdate="20250909T221101Z">
         <seg>Se você desativar &lt;f3&gt;Avisar quando não estiver salvando em ODF ou no formato padrão&lt;/f3&gt; em &lt;f4&gt;Ferramentas &gt; Opções &gt; Carregar/Salvar &gt; Geral&lt;/f4&gt; na barra de Menu, a caixa de diálogo Confirmar Formato de Arquivo não será mais exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you do not activate this option before you create the LibreOffice Basic macro; the script will not be inserted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194303Z" creationid="olivier" creationdate="20260930T194303Z">
+        <seg>Se não ativar essa opção antes de criar a macro do LibreOffice Basic, o script não será inserido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65458,6 +65688,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224036Z" creationid="olivier" creationdate="20250327T224036Z">
         <seg>Se desejar que o LibreOffice exporte um documento de texto como um arquivo XHTML, o LibreOffice gera um arquivo XHTML para cada documento de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want the macro to run automatically when the HTML document is opened, choose &lt;f0&gt;Tools &gt; Customize &gt; Events&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194447Z" creationid="olivier" creationdate="20260930T194447Z">
+        <seg>Se desejar que a macro seja executada automaticamente quando o documento HTML for aberto, escolha &lt;f0&gt;Ferramentas &gt; Personalizar &gt; Eventos&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69197,6 +69435,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Input Settings section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T202408Z" creationid="olivier" creationdate="20260930T202408Z">
+        <seg>Seção Configurações de entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Input line</seg>
       </tuv>
@@ -72654,6 +72901,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibreOffice Basic macros must be located in the header of the HTML document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194338Z" creationid="olivier" creationdate="20260930T194338Z">
+        <seg>As macros do LibreOffice BASIC devem estar localizadas no cabeçalho do documento HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LibreOffice Basic scripts must be located in the header of the HTML document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230232Z" creationid="olivier" creationdate="20250319T230232Z">
@@ -76093,6 +76348,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Metrics section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T195826Z" creationid="olivier" creationdate="20260930T195826Z">
+        <seg>Seção de métricas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Microsoft Excel</seg>
       </tuv>
@@ -76186,6 +76450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T184044Z" creationid="olivier" creationdate="20250318T184044Z">
         <seg>O Microsoft Office tem dois atributos de caracteres semelhantes ao destaque de caracteres do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Microsoft Office loading and saving options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T192751Z" creationid="olivier" creationdate="20260930T192751Z">
+        <seg>Opções de carregar e salvar do Microsoft Office</seg>
       </tuv>
     </tu>
     <tu>
@@ -79973,6 +80245,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;Load/Save – Microsoft Office&lt;/f0&gt; page (Figure &lt;t1&gt;7&lt;/t1&gt;), you can choose what to do when importing or exporting Microsoft Office OLE objects (linked or embedded objects or documents such as spreadsheets or equations): convert them into or from the corresponding LibreOffice OLE object or load and save them in their original format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T192850Z" creationid="olivier" creationdate="20260930T192850Z">
+        <seg>Na página &lt;f0&gt;Carregar/Salvar – Microsoft Office&lt;/f0&gt; (Figura &lt;t1&gt;7&lt;/t1&gt;), você pode escolher o que fazer ao importar ou exportar objetos OLE do Microsoft Office (objetos vinculados ou incorporados ou documentos, como planilhas ou equações): convertê-los em ou do objeto OLE do LibreOffice correspondente ou carregá-los e salvá-los em seu formato original.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>On the &lt;f0&gt;Load/Save – VBA Properties&lt;/f0&gt; page (Figure &lt;t1&gt;6&lt;/t1&gt;), you can choose whether to keep any VBA (Visual Basic for Applications) macros in Microsoft Office documents that are opened in LibreOffice.</seg>
@@ -80675,6 +80955,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="rafael" changedate="20250220T003224Z" creationid="rafael" creationdate="20250220T003224Z">
         <seg>Depois de ter uma macro, você cria uma biblioteca e um módulo para conter sua macro; a criação de uma biblioteca de macros está abaixo, mas consulte “&lt;bf3&gt;Organização de macros&lt;/bf3&gt;” na página &lt;bf4&gt;16&lt;/bf4&gt;&lt;s5/&gt;para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you have created the macro in the LibreOffice Basic IDE, it appears in the source text of the HTML document in the header.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194421Z" creationid="olivier" creationdate="20260930T194421Z">
+        <seg>Após criar a macro no LibreOffice BASIC IDE, ela aparece no texto de origem do documento HTML no cabeçalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -90569,6 +90857,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See &lt;f1&gt;Chapter 14, Macros, for more information&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194502Z" creationid="olivier" creationdate="20260930T194502Z">
+        <seg>Consulte o &lt;f1&gt;Capítulo 14, Macros, para mais informações&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See &lt;f2&gt;&lt;bf3&gt;Using the Navigator&lt;/bf3&gt;&lt;/f2&gt;&lt;s4/&gt;on page &lt;bf5&gt;29&lt;/bf5&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250907T002511Z" creationid="firelinux" creationdate="20250907T002511Z">
@@ -91189,6 +91485,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T115946Z" creationid="timot" creationdate="20250407T115946Z">
         <seg>Consulte o &lt;f1&gt;Guia do Writer&lt;/f1&gt; para obter informações sobre como gerenciar as configurações de idioma de um estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the &lt;f2&gt;Getting Started Guide&lt;/f2&gt;, and the &lt;f3&gt;HTML documents importing/exporting &lt;/f3&gt;Help page, for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194150Z" creationid="olivier" creationdate="20260930T194150Z">
+        <seg>Consulte o &lt;f2&gt;Guia de Introdução&lt;/f2&gt; e a página de Ajuda de &lt;f3&gt;importar/exportar documentos HTML&lt;/f3&gt; para mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93977,6 +94281,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the [L] options to convert Microsoft OLE objects into the corresponding LibreOffice OLE objects when a Microsoft document is loaded into LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T192933Z" creationid="olivier" creationdate="20260930T192933Z">
+        <seg>Selecione as opções [C] para converter objetos OLE da Microsoft nos objetos OLE do LibreOffice correspondentes quando um documento da Microsoft for carregado no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the [S] options to convert LibreOffice OLE objects into the corresponding Microsoft OLE objects when a document is saved in a Microsoft format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T193019Z" creationid="olivier" creationdate="20260930T193019Z">
+        <seg>Selecione as opções [S] para converter objetos OLE do LibreOffice nos objetos OLE correspondentes da Microsoft quando um documento for salvo num formato Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the basic rendering scheme as &lt;f0&gt;Simple&lt;/f0&gt; or &lt;f1&gt;Realistic&lt;/f1&gt; from the adjacent drop-down.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T232624Z" creationid="vitor" creationdate="20260407T232624Z">
@@ -95681,6 +96001,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this option to automatically upload the embedded pictures to an Internet server when uploading using FTP.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194841Z" creationid="olivier" creationdate="20260930T194841Z">
+        <seg>Selecione esta opção para carregar automaticamente as imagens incorporadas para o servidor de Internet ao carregar usando FTP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this option to embed document fonts into the document file and allow portability between different computer systems.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T200453Z" creationid="olivier-tdf" creationdate="20250328T200453Z">
@@ -95696,11 +96024,28 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Select this option to export the print layout of the current document as well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194744Z" creationid="olivier" creationdate="20260930T194744Z">
+        <seg>Selecione esta opção para exportar o layout de impressão do documento atual também.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Select this option to ignore all font settings when importing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T230034Z" creationid="olivier" creationdate="20250319T230034Z">
         <seg>Selecione esta opção para ignorar todas as configurações de fonte ao importar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option to include LibreOffice Basic macros (scripts) when exporting to HTML format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194231Z" creationid="olivier" creationdate="20260930T194231Z">
+        <seg>Selecione esta opção para incluir as instruções do LibreOffice Basic (scripts) ao exportar para o formato HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96213,6 +96558,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260328T193840Z" creationid="vitor" creationdate="20260328T193840Z">
         <seg>Seleção de Série de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting general options for Calc</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T202349Z" creationid="olivier" creationdate="20260930T202349Z">
+        <seg>Selecionar as opções gerais para Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -100537,6 +100890,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spreadsheets that include many or large charts or graphics may load slowly if this option is set to &lt;f2&gt;Always&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T202253Z" creationid="olivier" creationdate="20260930T202253Z">
+        <seg>Planilhas que incluem muitos gráficos ou grandes gráficos podem carregar lentamente se essa opção estiver definida como &lt;f2&gt;Sempre&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spreadsheets, sheets, and cells</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125410Z" creationid="olivier-tdf" creationdate="20250114T125410Z">
@@ -102906,6 +103267,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Character Highlighting&lt;/f0&gt; options enable you to select between the two text highlighting (character background) attributes that Microsoft Office provides, &lt;f1&gt;Highlighting&lt;/f1&gt; or &lt;f2&gt;Shading&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T193724Z" creationid="olivier" creationdate="20260930T193724Z">
+        <seg>As opções de &lt;f0&gt;Destaque de caracteres&lt;/f0&gt; permitem selecionar entre os dois atributos de destaque de texto (plano de fundo do caractere) que o Microsoft Office fornece, &lt;f1&gt;Destaque&lt;/f1&gt; ou &lt;f2&gt;Sombreado&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Click to add notes&lt;/f0&gt; text box can be resized using the resizing handles which appear when the edge of the notes box is selected.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T203039Z" creationid="timotheonb" creationdate="20250502T203039Z">
@@ -102934,6 +103303,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T144258Z" creationid="olivier" creationdate="20251019T144258Z">
         <seg>A coluna &lt;f0&gt;Anotação&lt;/f0&gt;, por padrão, contém uma explicação da alteração que foi feita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Create MSO lock file&lt;/f0&gt; option improves interoperability with Microsoft Office for shared spreadsheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T193814Z" creationid="olivier" creationdate="20260930T193814Z">
+        <seg>A opção &lt;f0&gt;Criar arquivo de trava MSO&lt;/f0&gt; melhora a interoperabilidade com o Microsoft Office para planilhas compartilhadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106058,6 +106435,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The changed code is saved in an ODF document but is not retained if you save into a Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T192437Z" creationid="olivier" creationdate="20260930T192437Z">
+        <seg>O código alterado é salvo em um documento ODF, mas não é retido se salvar em um formato do Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The changed code is saved in an ODF document but is not retained if you save it into a Microsoft Office format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203852Z" creationid="vitor" creationdate="20260526T003700Z">
@@ -106254,6 +106639,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185729Z" creationid="timotheonb" creationdate="20260914T185729Z">
         <seg>As opções são: &lt;f0&gt;Barra&lt;/f0&gt;, &lt;f1&gt;Cilindro&lt;/f1&gt;, &lt;f2&gt;Cone&lt;/f2&gt; e &lt;f3&gt;Pirâmide&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The choices on the &lt;f0&gt;LibreOffice Calc – General&lt;/f0&gt; page (Figure &lt;t1&gt;10&lt;/t1&gt;) affect the units used for rulers and other measurements, the default tab stop positions, the updating of links and fields, and various input settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T195813Z" creationid="olivier" creationdate="20260930T195813Z">
+        <seg>As opções na página do &lt;f0&gt;LibreOffice Calc – Geral &lt;/f0&gt; (Figura &lt;t1&gt;10&lt;/t1&gt;) afetam as unidades usadas para réguas e outras medições, as posições de parada de tabulação padrão, a atualização de links e campos e várias configurações de entrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107310,6 +107703,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T232321Z" creationid="olivier-tdf" creationdate="20250224T232321Z">
         <seg>O documento volta à visualização normal e a barra de ferramentas Formatação reabre substituindo a barra de ferramentas Visualização de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The document will be saved without the Microsoft Basic code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T192721Z" creationid="olivier" creationdate="20260930T192721Z">
+        <seg>O documento é salvo sem o código do Microsoft BASIC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109002,6 +109404,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The main items of interest for Calc users are in the &lt;f0&gt;Export&lt;/f0&gt; section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194206Z" creationid="olivier" creationdate="20260930T194206Z">
+        <seg>Os principais itens de interesse para os usuários do Calc estão na seção &lt;f0&gt;Exportar&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The main part of the dialog displays the image where hotspots are to be defined.</seg>
       </tuv>
@@ -109823,6 +110234,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T205701Z" creationid="vitor" creationdate="20260329T205701Z">
         <seg>A opção fica esmaecida até que uma série de dados seja selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The option is initially disabled by default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T193949Z" creationid="olivier" creationdate="20260930T193949Z">
+        <seg>A opção é inicialmente desativada por padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112795,6 +113215,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These capabilities are only effective if print layout export is activated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194814Z" creationid="olivier" creationdate="20260930T194814Z">
+        <seg>Observe que esses recursos só são eficazes se a exportação de layout de impressão estiver ativada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These cells will be highlighted in the spreadsheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T164509Z" creationid="firelinux" creationdate="20260403T164509Z">
@@ -114440,6 +114868,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260328T202452Z" creationid="vitor" creationdate="20260328T202452Z">
         <seg>Isso permite que as cores dos pontos de dados variem, dependendo de certas condições ou valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This enables users of both suites to be made aware that the file is in use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T193939Z" creationid="olivier" creationdate="20260930T193939Z">
+        <seg>Permite que os usuários de ambos softwares sejam informados de que o arquivo está em uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120187,6 +120623,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To remove any possible macro viruses from the Microsoft Office document, deselect &lt;f0&gt;Save original Basic code&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T192714Z" creationid="olivier" creationdate="20260930T192714Z">
+        <seg>Para remover um possível vírus de macro do documento Microsoft Office, desmarque &lt;f0&gt;Salvar código original Basic&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To remove direct formatting, select the text and choose &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; on the Menu bar, or right-click and choose &lt;f1&gt;Clear Direct Formatting&lt;/f1&gt; in the context menu, or press &lt;f2&gt;Ctrl+M&lt;/f2&gt; on the keyboard, or select the &lt;f3&gt;Clear Direct Formatting&lt;/f3&gt; icon on the Formatting toolbar.</seg>
       </tuv>
@@ -122992,6 +123437,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T183914Z" creationid="olivier-tdf" creationdate="20250403T183914Z">
         <seg>Atualizar estilo selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update links when opening section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T200111Z" creationid="olivier" creationdate="20260930T200111Z">
+        <seg>Seção Atualizar vínculos ao abrir</seg>
       </tuv>
     </tu>
     <tu>
@@ -127357,6 +127810,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When enabled, Calc writes two lock files when opening a Microsoft Office format file, one LibreOffice lock file and one Microsoft Office lock file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T193904Z" creationid="olivier" creationdate="20260930T193904Z">
+        <seg>Quando ativado, o Calc grava dois arquivos de bloqueio ao abrir um arquivo de formato do Microsoft Office, um arquivo de bloqueio do LibreOffice e outro arquivo de bloqueio do Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When encrypting documents, always encrypt to self</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174145Z" creationid="olivier" creationdate="20260926T174145Z">
@@ -127953,6 +128414,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T201726Z" creationid="olivier" creationdate="20250404T201726Z">
         <seg>Ao selecionar a opção &lt;f0&gt;Atualizar automaticamente pelo documento&lt;/f0&gt; na aba &lt;f1&gt;&lt;f2&gt;Geral&lt;/f2&gt;&lt;/f1&gt; da caixa de diálogo Estilo de parágrafo ou Estilo de quadro, o estilo é atualizado sempre que formatar diretamente um parágrafo ou quadro com esse estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; option (see above) is not selected, the &lt;f1&gt;Display warning&lt;/f1&gt; option becomes available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194632Z" creationid="olivier" creationdate="20260930T194632Z">
+        <seg>Quando a opção &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; (veja acima) não for selecionada, a opção &lt;f1&gt;Exibir aviso&lt;/f1&gt; torna-se disponível.</seg>
       </tuv>
     </tu>
     <tu>
