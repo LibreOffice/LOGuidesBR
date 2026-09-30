@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10652,6 +10652,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T180144Z" creationid="olivier-tdf" creationdate="20250708T180144Z">
         <seg>&lt;s0&gt;Escolher opções de importação da biblioteca&lt;/s0&gt;&lt;s1&gt; Escolher opções de importação da biblioteca&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Choosing Load and Save general options&lt;/s0&gt;&lt;s1&gt;Choosing Load and Save general options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T191718Z" creationid="olivier" creationdate="20260930T191718Z">
+        <seg>&lt;s0&gt;Escolher as opções gerais de Carregar e Salvar&lt;/s0&gt;&lt;s1&gt;Escolher as opções gerais de Carregar e Salvar&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24456,6 +24464,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>By default, backup copies accumulate in the folder specified in &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T191541Z" creationid="olivier" creationdate="20260930T191541Z">
+        <seg>Por padrão, as cópias de backup se acumulam na pasta especificada em &lt;f2&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Caminhos&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>By default, commands and functions in LibreOffice are grouped in cascading menus with tools available on toolbars, called the Standard Toolbar user interface.</seg>
       </tuv>
@@ -28181,6 +28198,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194213Z" creationid="firelinux" creationdate="20260403T194213Z">
         <seg>Escolha quais planilhas ocultas exibir na lista da caixa de diálogo Exibir Planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choosing Load and Save general options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T191750Z" creationid="olivier" creationdate="20260930T191750Z">
+        <seg>Escolher as opções gerais de Carregar e Salvar</seg>
       </tuv>
     </tu>
     <tu>
@@ -49447,6 +49472,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T233234Z" creationid="vitor" creationdate="20260328T202005Z">
         <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Caixa de diálogo Assistente de gráfico – selecionar série de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Choosing Load and Save general options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T191728Z" creationid="olivier" creationdate="20260930T191728Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Escolher as opções gerais de Carregar e Salvar</seg>
       </tuv>
     </tu>
     <tu>
@@ -82475,6 +82508,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Optionally you can save the document instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T180452Z" creationid="olivier" creationdate="20260930T180452Z">
+        <seg>Opcionalmente, você pode salvar o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Optionally, include a value for the alpha channel (A) in the COLOR function.</seg>
       </tuv>
@@ -103270,6 +103312,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Save AutoRecovery information every&lt;/f0&gt; and &lt;f1&gt;Always create backup copy&lt;/f1&gt; options are enabled by default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T180421Z" creationid="olivier" creationdate="20260930T180421Z">
+        <seg>As opções &lt;f0&gt;Salvar informações de autorrecuperação a cada&lt;/f0&gt; e &lt;f1&gt;Sempre criar cópia de backup&lt;/f1&gt; são ativadas por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Save Macro In&lt;/f0&gt; area of the Basic Macros dialog shows the existing LibreOffice Basic macros, hierarchically structured into library containers, libraries, modules, and macros as described in the &lt;f1&gt;Getting Started Guide&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260513T003222Z" creationid="olivier" creationdate="20251123T120246Z">
@@ -108757,6 +108807,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The list of these features varies from version to version.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T180144Z" creationid="olivier" creationdate="20260930T180144Z">
+        <seg>A lista desses recursos varia de versão para versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The list type can be changed for an unordered or ordered type for the entire list or for a single point only&lt;be0/&gt; as follows:</seg>
       </tuv>
@@ -113778,6 +113837,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165402Z" creationid="firelinux" creationdate="20260403T165402Z">
         <seg>Isso pode ser facilmente conseguido com uma expressão regular simples, como segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This can be changed by selecting the &lt;f3&gt;Place backup in same folder as document&lt;/f3&gt; option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20260930T191616Z" creationid="olivier" creationdate="20260930T191616Z">
+        <seg>Isso pode ser alterado selecionando a opção &lt;f3&gt;Colocar backup na mesma pasta que o documento&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
