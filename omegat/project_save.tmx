@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2D pie chart with one section of the pie exploded</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T112022Z" creationid="timotheonb" creationdate="20260930T112005Z">
+        <seg>Gráfico de pizza 2D com uma seção da pizza fatiada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260524T154246Z" creationid="vitor" creationdate="20260524T154246Z">
@@ -890,6 +898,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250629T183841Z" creationid="firelinux" creationdate="20250629T183841Z">
         <seg>Funções 3D para criar pequenos desenhos tridimensionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3D pie chart, exploded variant, with realistic schema and various fill effects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T112844Z" creationid="timotheonb" creationdate="20260930T112844Z">
+        <seg>Gráfico de pizza 3D, variante fatiado, com esquema realista e vários efeitos de pre-enchimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -6927,7 +6943,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;ODF format version:&lt;/f0&gt; LibreOffice by default saves documents in OpenDocument Format (ODF) version 1.4 Extended.</seg>
       </tuv>
@@ -13241,6 +13256,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Pie chart examples&lt;/s0&gt;&lt;s1&gt;Pie chart examples&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T111901Z" creationid="timotheonb" creationdate="20260930T111901Z">
+        <seg>&lt;s0&gt;Exemplos de gráficos de pizza&lt;/s0&gt;&lt;s1&gt;Exemplos de gráficos de pizza&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Position and Size dialog – Position and Size tab&lt;/s0&gt;&lt;s1&gt;Position and Size dialog – Position and Size tab&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260831T174700Z" creationid="timotheonb" creationdate="20260827T211209Z">
@@ -18865,6 +18888,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After this, the chart area may need to be enlarged to regain the original size of the pieces.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T111852Z" creationid="timotheonb" creationdate="20260930T111852Z">
+        <seg>Depois disso, a área do gráfico poderá necessitar ampliação para recuperar o tamanho original das peças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After you enter your comment and click &lt;f0&gt;OK&lt;/f0&gt;, the new version is included in the &lt;f1&gt;Existing Versions&lt;/f1&gt; list (Figure &lt;t2&gt;14&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260422T011349Z" creationid="olivier" creationdate="20251019T145755Z">
@@ -19680,7 +19711,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Also, note that recent versions of Microsoft Excel can open ODS files, so this may no longer be needed.</seg>
       </tuv>
@@ -23042,7 +23072,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Avoid changing any of these configurations without good knowledge fo the consequences, which may not be visible immediately and can turn the user profile unusable and subject to a factory reset or to a call to the Help desk.</seg>
       </tuv>
@@ -28044,6 +28073,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose the &lt;f5&gt;Area&lt;/f5&gt; tab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T113317Z" creationid="timotheonb" creationdate="20260930T113317Z">
+        <seg>Escolha a aba &lt;f5&gt;Área&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose the action to perform.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T164323Z" creationid="firelinux" creationdate="20260403T164323Z">
@@ -32864,6 +32901,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184634Z" creationid="firelinux" creationdate="20260403T184634Z">
         <seg>Clique na seta para baixo à direita do&lt;f1&gt;Cor da borda&lt;/f1&gt; ícone para selecionar outra cor da lista&lt;f2&gt;Cor da borda&lt;/f2&gt; paleta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the edge of the section (the section will have highlight squares to mark it), and drag it out from the rest of the sections.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T112654Z" creationid="timotheonb" creationdate="20260930T112654Z">
+        <seg>Clique na borda da seção (a seção terá quadrados de destaque para marcá-la) e arraste-a para fora do restante das seções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49222,6 +49267,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Pie chart examples</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T111920Z" creationid="timotheonb" creationdate="20260930T111920Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: exemplos de Gráfico de pizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Showing details of the change</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T135222Z" creationid="olivier" creationdate="20251019T135222Z">
@@ -53942,7 +53995,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>For more about macro recording, see the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;, and &lt;f1&gt;Chapter 14, Macros&lt;/f1&gt;, in this book.</seg>
       </tuv>
@@ -58968,6 +59020,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f2&gt;Insert &gt; Data Labels&lt;/f2&gt; and select &lt;f3&gt;Show value as percentage&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T112955Z" creationid="timotheonb" creationdate="20260930T112955Z">
+        <seg>Selecione &lt;f2&gt;Inserir &gt; Rótulos de dados&lt;/f2&gt; e selecione &lt;f3&gt;Valor como porcentagem&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f2&gt;Insert &gt; Data Labels&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T112417Z" creationid="timotheonb" creationdate="20260930T112417Z">
+        <seg>Selecione &lt;f2&gt;Inserir &gt; Rótulos de dados&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f2&gt;View &gt; Split Window&lt;/f2&gt; on the Menu bar or click the &lt;f3&gt;Split Window&lt;/f3&gt; icon on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213639Z" creationid="olivier-tdf" creationdate="20250122T224944Z">
@@ -61127,7 +61195,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>However, you can choose an Excel format when you save any individual file.</seg>
       </tuv>
@@ -62977,6 +63044,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If needed, highlight the chart wall and drag it at a corner to increase the size.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T112822Z" creationid="timotheonb" creationdate="20260930T112822Z">
+        <seg>Se necessário, destaque a borda do gráfico e arraste-o até o canto para aumentar o tamanho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If needed, select a chart variant in the preview box by clicking on it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260327T005014Z" creationid="vitor" creationdate="20260327T005014Z">
@@ -63573,6 +63648,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260413T010646Z" creationid="vitor" creationdate="20260405T115146Z">
         <seg>Se o eixo X não estiver exibindo o tempo conforme o esperado, inserir manualmente os tempos mínimo e máximo na aba &lt;f0&gt;Escala&lt;/f0&gt; pode solucionar o problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the aim is to accentuate just one piece of the pie, separate out a piece by carefully highlighting it and dragging it out of the group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T111743Z" creationid="timotheonb" creationdate="20260930T111743Z">
+        <seg>Se o objetivo é destacar apenas uma parte da pizza, separe a parte desejada destacando-a cuidadosamente e arrastando-a para fora do grupo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65091,8 +65174,8 @@
       <tuv lang="en-US">
         <seg>If you only want to separate only piece of the pie, you can choose in the Chart Wizard to use the exploded pie variant, but this option explodes all of the pieces (contrary to the preview graphic in Figure &lt;t0&gt;3&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260929T152456Z" creationid="timotheonb" creationdate="20260929T152456Z">
-        <seg>Caso queira separar apenas uma parte da pizza, pode escolher a opção "pizza explodida" no Assistente de Gráficos, mas essa opção explode todas as partes (ao contrário da pré-visualização na Figura).&lt;t0&gt;3&lt;/t0&gt;).</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T111657Z" creationid="timotheonb" creationdate="20260929T152456Z">
+        <seg>No caso de separar apenas uma parte da pizza, escolha a opção "pizza fatiada" no Assistente de gráficos, note que essa opção separa todas as partes (ao contrário da pré-visualização na Figura &lt;t0&gt;3&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -68229,6 +68312,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T192639Z" creationid="olivier-tdf" creationdate="20250403T192639Z">
         <seg>No documento, selecione o elemento a ser usado como base para um novo estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the edit mode, go to &lt;f0&gt;Format &gt; Chart Type&lt;/f0&gt; and select &lt;f1&gt;3D Look&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T112914Z" creationid="timotheonb" creationdate="20260930T112914Z">
+        <seg>No modo de edição, vá para &lt;f0&gt;Formatar &gt; Tipo de gráfico&lt;/f0&gt; e selecione &lt;f1&gt;Aparência 3D&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the edit mode, go to &lt;f0&gt;Insert &gt; Legend&lt;/f0&gt; and deselect the &lt;f1&gt;Display legend&lt;/f1&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T112355Z" creationid="timotheonb" creationdate="20260930T112355Z">
+        <seg>No modo de edição, vá para &lt;f0&gt;Inserir &gt; Legenda&lt;/f0&gt; e desmarque a caixa &lt;f1&gt;Exibir legenda&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75368,7 +75467,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Many of the choices on the &lt;f0&gt;Load/Save – General&lt;/f0&gt; page (Figure &lt;t1&gt;5&lt;/t1&gt;) are familiar to users of other office suites.</seg>
       </tuv>
@@ -82673,7 +82771,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Options for loading and saving documents</seg>
       </tuv>
@@ -84127,6 +84224,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T204739Z" creationid="olivier" creationdate="20250324T204739Z">
         <seg>Picture Exchange (*.pcx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pie chart examples</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T111927Z" creationid="timotheonb" creationdate="20260930T111927Z">
+        <seg>Exemplos de gráficos de pizza</seg>
       </tuv>
     </tu>
     <tu>
@@ -88436,6 +88541,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click and select &lt;f4&gt;Format Data Point&lt;/f4&gt; to get the Data Point dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T113310Z" creationid="timotheonb" creationdate="20260930T113310Z">
+        <seg>Clique com o botão direito e selecione &lt;f4&gt;Formatar ponto de dados&lt;/f4&gt; para obter a caixa de diálogo Ponto de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click any active arrow button</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T135214Z" creationid="olivier-tdf" creationdate="20250120T135214Z">
@@ -90899,7 +91012,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>See the &lt;f0&gt;Getting Started Guide&lt;/f0&gt; for a description of the other options.</seg>
       </tuv>
@@ -92201,6 +92313,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260411T185156Z" creationid="firelinux" creationdate="20260411T173926Z">
         <seg>Selecione&lt;f2&gt;Estilos Ocultos&lt;/f2&gt; se deseja que esse estilo apareça apenas na lista de estilos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f3&gt;Show value as number&lt;/f3&gt; and also &lt;f4&gt;Show category&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T112518Z" creationid="timotheonb" creationdate="20260930T112518Z">
+        <seg>Selecione &lt;f3&gt;Valor como número&lt;/f3&gt; e também &lt;f4&gt;Categoria&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107222,6 +107342,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The effects achieved in Figure &lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;are explained below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T112013Z" creationid="timotheonb" creationdate="20260930T112001Z">
+        <seg>Veja a explicação sobre os efeitos alcançados na Figura &lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt; abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The effects of the text alignment can only be seen if the text spans over two or more lines.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141045Z" creationid="olivier-tdf" creationdate="20250615T141045Z">
@@ -108202,6 +108330,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T212920Z" creationid="olivier-tdf" creationdate="20250109T212920Z">
         <seg>Os ícones de algumas das muitas ferramentas disponíveis no LibreOffice podem ser diferentes daqueles usados neste guia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The illustration in Figure &lt;t6&gt;4&lt;/t6&gt;&lt;s7/&gt;shows one section formatted with bitmap, one with a radial gradient, one with 50% transparency, and one with a pattern.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T113908Z" creationid="timotheonb" creationdate="20260930T113908Z">
+        <seg>A ilustração na Figura &lt;t6&gt;4&lt;/t6&gt;&lt;s7/&gt; mostra uma seção formatada em figura, uma com gradiente radial, uma com 50% de transparência e outra com um padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110534,6 +110670,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The sections will decrease in size.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T112700Z" creationid="timotheonb" creationdate="20260930T112700Z">
+        <seg>As seções diminuirão de tamanho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The security options can be adjusted to change the behavior of the application when a potential security issue is present, such as hidden information or macros.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175050Z" creationid="olivier" creationdate="20260926T175050Z">
@@ -111858,6 +112002,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260404T200531Z" creationid="vitor" creationdate="20260404T200531Z">
         <seg>Então, associe o número de intervalo de dados para cores de borda e preenchimento na página &lt;f0&gt;Série de Dados&lt;/f0&gt; do Assistente de Gráficos (veja "&lt;bf1&gt;Selecionar série de dados&lt;/bf1&gt;" ou na aba &lt;f2&gt;Série de Dodos&lt;/f2&gt; da Caixa de diálogos Séries de Dados (veja "&lt;bf3&gt;Alterando intervalos de dados&lt;/bf3&gt;" na página &lt;bf4&gt;21&lt;/bf4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then carefully select each section so that it has a wire frame highlight.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T113137Z" creationid="timotheonb" creationdate="20260930T113137Z">
+        <seg>Em seguida, selecione cuidadosamente cada seção para haver um destaque de estrutura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113749,7 +113901,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>This chapter describes only a few of the options, those most relevant to working with Calc.</seg>
       </tuv>
@@ -132318,7 +132469,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>You will rarely need to change this for compatibility when exchanging files with other people.</seg>
       </tuv>
