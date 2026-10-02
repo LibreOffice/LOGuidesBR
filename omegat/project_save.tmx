@@ -13616,6 +13616,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Saving active sheet warning&lt;/s0&gt;&lt;s1&gt;Saving active sheet warning&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T010911Z" creationid="olivier" creationdate="20261002T010911Z">
+        <seg>&lt;s0&gt;Aviso de salvar somente a planilha ativa&lt;/s0&gt;&lt;s1&gt;Aviso de salvar somente a planilha ativa&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Search Commands dialog&lt;/s0&gt;&lt;s1&gt;Search Commands dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250816T110656Z" creationid="timotheonb" creationdate="20250816T110656Z">
@@ -18649,6 +18657,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After a spreadsheet is created, you can add new sheets and change the label of any tab; see &lt;f1&gt;Chapter 1, Introduction, for more information&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T011209Z" creationid="olivier" creationdate="20261002T011209Z">
+        <seg>Depois de criar uma planilha, você pode adicionar novas planilhas e alterar o rótulo de qualquer aba; consulte o &lt;f1&gt;Capítulo 1, Introdução, para obter mais informações&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After a style has been created in Calc and applied to one or more cells, the style name appears in the &lt;f0&gt;Apply Style&lt;/f0&gt; drop‑down list at the left-hand end of the Formatting toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T182013Z" creationid="olivier-tdf" creationdate="20250403T182013Z">
@@ -18805,6 +18821,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260318T183836Z" creationid="timotheonb" creationdate="20260318T183836Z">
         <seg>Após abrir o LibreOffice novamente, a opção de excluir contém a configuração padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After pasting occurs, the clipboard is cleared.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200440Z" creationid="olivier" creationdate="20261001T200440Z">
+        <seg>Após colar, a área de transferência é limpa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22329,6 +22353,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>As expected, handling very large spreadsheets can slow down your system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T011438Z" creationid="olivier" creationdate="20261002T011438Z">
+        <seg>Como esperado, lidar com planilhas muito grandes pode tornar seu sistema mais lento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>As in the mailing lists above, but through forum&lt;br0/&gt;</seg>
       </tuv>
@@ -25239,6 +25272,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164701Z" creationid="olivier" creationdate="20250204T164701Z">
         <seg>O Calc vem com um conjunto predefinido de temas de formatação (conjunto de estilos) que podem ser aplicados a planilhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc default sizes of spreadsheet are up to 10,000 sheets and each sheet can have a maximum of 1,048,576 rows and 16,384 columns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T011323Z" creationid="olivier" creationdate="20261002T011323Z">
+        <seg>Os tamanhos padrão de documentos de planilha do Calc são de até 10.000 planilhas e cada planilha pode ter um máximo de 1.048.576 linhas e 16.384 colunas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38576,8 +38617,8 @@
       <tuv lang="en-US">
         <seg>Defaults</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20250223T133831Z" creationid="olivier" creationdate="20250223T133831Z">
-        <seg>Padrões</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T011131Z" creationid="olivier" creationdate="20250223T133831Z">
+        <seg>Configurações padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -44880,6 +44921,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example: If the range &lt;f0&gt;A1:B1&lt;/f0&gt; is referenced in a formula and you insert a new column after column B, the reference is expanded to &lt;f1&gt;A1:C1&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201038Z" creationid="olivier" creationdate="20261001T201038Z">
+        <seg>Exemplo: Se o intervalo &lt;f0&gt;A1:B1&lt;/f0&gt; for referenciado numa fórmula e você inserir uma nova coluna após a coluna B, a referência será expandida para &lt;f1&gt;A1:C1&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152843Z" creationid="olivier" creationdate="20250318T152843Z">
@@ -45012,6 +45061,24 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135207Z" creationid="olivier-tdf" creationdate="20250303T135207Z">
         <seg>Sai do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Expand formatting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200506Z" creationid="olivier" creationdate="20261001T200506Z">
+        <seg>Expandir formatação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Expand references when new columns/rows are inserted</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200919Z" creationid="olivier" creationdate="20261001T200919Z">
+        <seg>Expandir referências quando novas colunas/linhas são inseridas</seg>
       </tuv>
     </tu>
     <tu>
@@ -46036,6 +46103,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251114T114916Z" creationid="timotheonb" creationdate="20251114T114916Z">
         <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Caixa de diálogo Gerador de números aleatórios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Saving active sheet warning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T010922Z" creationid="olivier" creationdate="20261002T010922Z">
+        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Aviso de salvar somente a planilha ativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -60131,6 +60206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here you can enable/disable this feature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200457Z" creationid="olivier" creationdate="20261001T200457Z">
+        <seg>Você pode ativar/desativar esse recurso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here you can select options for importing a CSV file into a Calc spreadsheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250907T012222Z" creationid="firelinux" creationdate="20250907T012222Z">
@@ -60503,6 +60586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T174017Z" creationid="timotheonb" creationdate="20250514T174017Z">
         <seg>Destaque e copie o texto de outro documento ou slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight selection in column/row headers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201341Z" creationid="olivier" creationdate="20261001T201341Z">
+        <seg>Destacar seleção em cabeçalhos de colunas e linhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -60951,6 +61042,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T122038Z" creationid="vitor" creationdate="20260329T122038Z">
         <seg>No entanto, como as opções são fáceis de ver e estão disponíveis em outros lugares, outras referências a elas não estão incluídas neste capítulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>However, cells that already have a special format are not modified by this function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200615Z" creationid="olivier" creationdate="20261001T200615Z">
+        <seg>No entanto, as células que já possuem um formato especial não são modificadas por essa função.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63411,6 +63511,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If not selected, the references are unchanged.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201258Z" creationid="olivier" creationdate="20261001T201258Z">
+        <seg>Se desmarcado, as referências permanecem inalteradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If not selected, when a word is not recognized it opens a dialog with hyphenation options.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012048Z" creationid="olivier" creationdate="20250321T012048Z">
@@ -64443,6 +64551,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the range &lt;f2&gt;A1:B1&lt;/f2&gt; is referenced and a new row is inserted under row 1, the reference is not expanded, since there is only a single cell in the vertical direction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201120Z" creationid="olivier" creationdate="20261001T201120Z">
+        <seg>Se o intervalo &lt;f2&gt;A1:B1&lt;/f2&gt; for referenciado e uma nova linha for inserida sob a linha 1, a referência não será expandida, uma vez que há apenas uma única célula na direção vertical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the required language is not available in the submenu, click &lt;f4&gt;More&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T130209Z" creationid="timot" creationdate="20250409T130209Z">
@@ -64815,6 +64931,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203244Z" creationid="olivier-tdf" creationdate="20250328T203244Z">
         <seg>Se esta opção não for selecionada, as informações pessoais ainda poderão ser removidas do documento atual usando &lt;f0&gt;Redefinir propriedades&lt;/f0&gt; na página Geral da caixa de diálogo Propriedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this option is not selected, pressing &lt;f5&gt;Enter&lt;/f5&gt; places the data into the cell but does not move the cursor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200143Z" creationid="olivier" creationdate="20261001T200143Z">
+        <seg>Se não estiver selecionada, pressionar &lt;f5&gt;Enter&lt;/f5&gt; coloca os dados na célula, mas não move o cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65272,6 +65396,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T142703Z" creationid="olivier" creationdate="20251019T142703Z">
         <seg>Se passar o ponteiro do mouse sobre uma célula que tenha uma anotação de alteração e uma anotação geral, ambas serão mostradas na dica exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you insert rows or columns in the middle of a reference area, the reference is always expanded.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201140Z" creationid="olivier" creationdate="20261001T201140Z">
+        <seg>Se inserir linhas ou colunas no meio de uma área de referência, a referência será sempre expandida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65928,6 +66060,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T134219Z" creationid="olivier-tdf" creationdate="20250120T134219Z">
         <seg>Se a sua planilha contiver várias planilhas, algumas delas podem estar ocultas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If, for example, a selected cell has the bold attribute, this attribute also applies to empty adjacent cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200559Z" creationid="olivier" creationdate="20261001T200559Z">
+        <seg>Se, por exemplo, uma célula selecionada tiver o atributo negrito, esse atributo também se aplica a células adjacentes vazias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67752,6 +67892,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251014T235828Z" creationid="olivier" creationdate="20251014T235828Z">
         <seg>Para identificar corretamente as alterações, cada colaborador deve inserir seu nome em &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Dados do Usuário&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In order to get it to work again, you will need to format a cell again (it could be the same one if you like) and insert data into its adjacent cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200827Z" creationid="olivier" creationdate="20261001T200827Z">
+        <seg>Para que funcione novamente, você precisará formatar uma célula novamente (pode ser a mesma, se quiser) e inserir dados em suas células adjacentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80238,6 +80387,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;LibreOffice Calc – Defaults&lt;/f0&gt; page you can enter the number of sheets to be opened by default when you start a new spreadsheet, and either accept the default sheet prefix or type a new one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T011111Z" creationid="olivier" creationdate="20261002T011111Z">
+        <seg>Na página &lt;f0&gt;LibreOffice Calc – Configurações padrão&lt;/f0&gt;, você pode inserir o número de planilhas a abrir ao iniciar um novo documento de planilha e aceitar o prefixo da planilha padrão ou digitar uma nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the &lt;f0&gt;LibreOffice – Appearance&lt;/f0&gt; page (Figure &lt;t1&gt;4&lt;/t1&gt;), you can specify colors independent of the desktop environment theme.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T181354Z" creationid="olivier" creationdate="20260926T181354Z">
@@ -84344,6 +84501,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pasting contents of the clipboard into a cell will replace the contents of that cell with what is in the clipboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201740Z" creationid="olivier" creationdate="20261001T201740Z">
+        <seg>Colar o conteúdo da área de transferência numa célula substituirá o conteúdo existente pelo da área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pasting formatted text into a text box overwrites any formatting and replaces the text box style.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250516T115756Z" creationid="timotheonb" creationdate="20250516T115756Z">
@@ -85064,6 +85229,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Position cell reference with selection</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T203335Z" creationid="olivier" creationdate="20261001T203335Z">
+        <seg>Posicionar referência da célula com seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Position the cursor in the cell where you want the new content to be imported.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T001645Z" creationid="olivier" creationdate="20250120T001645Z">
@@ -85685,6 +85858,33 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T004257Z" creationid="olivier" creationdate="20250120T004257Z">
         <seg>Pressione &lt;f6&gt;Ctrl+End&lt;/f6&gt; para mover o foco da célula para a célula na interseção da &lt;t7/&gt;linha R&lt;f8&gt;max&lt;/f8&gt; e coluna C&lt;f9&gt;max&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Press Enter to move selection</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T195932Z" creationid="olivier" creationdate="20261001T195932Z">
+        <seg>Pressione Enter para mover a seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Press Enter to paste and clear clipboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200250Z" creationid="olivier" creationdate="20261001T200250Z">
+        <seg>Tecle Enter para colar e esvaziar a área de transferência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Press Enter to switch to edit mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200152Z" creationid="olivier" creationdate="20261001T200152Z">
+        <seg>Pressione Enter para alternar para o modo de edição</seg>
       </tuv>
     </tu>
     <tu>
@@ -90381,6 +90581,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202747Z" creationid="olivier" creationdate="20250327T202747Z">
         <seg>Salvar um documento de texto como HTML se limita à especificação do HTML 4.0 Transitional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving active sheet warning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T010931Z" creationid="olivier" creationdate="20261002T010931Z">
+        <seg>Aviso de salvar somente a planilha ativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -96008,6 +96216,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Select this option to be alerted to a possible loss of data when pasting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201752Z" creationid="olivier" creationdate="20261001T201752Z">
+        <seg>Selecione esta opção para ser alertado sobre uma possível perda de dados ao colar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Select this option to embed document fonts into the document file and allow portability between different computer systems.</seg>
       </tuv>
@@ -98433,6 +98650,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Show overwrite warning when pasting data</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201630Z" creationid="olivier" creationdate="20261001T201630Z">
+        <seg>Mostrar aviso de substituição ao colar dados</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Show preview of fonts</seg>
       </tuv>
@@ -100145,6 +100371,23 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Specifies that pressing &lt;f0&gt;Enter&lt;/f0&gt; moves the cursor to another cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200003Z" creationid="olivier" creationdate="20261001T200003Z">
+        <seg>Especifica que pressionar &lt;f0&gt;Enter&lt;/f0&gt; move o cursor para outra célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies that pressing &lt;f0&gt;Enter&lt;/f0&gt; puts the selected cell into edit mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200227Z" creationid="olivier" creationdate="20261001T200227Z">
+        <seg>Especifica que pressionar &lt;f0&gt;Enter&lt;/f0&gt; põe a célula selecionada no modo de edição.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Specifies that punctuation and Japanese Kana are compressed.</seg>
       </tuv>
@@ -100486,6 +100729,32 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250225T000603Z" creationid="olivier" creationdate="20250223T133813Z">
         <seg>Especifica se as configurações de impressão se aplicam à impressão direta ou à impressão num arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Specifies whether to automatically apply the formatting attributes of the selected cell to empty adjacent cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200529Z" creationid="olivier" creationdate="20261001T200529Z">
+        <seg>Especifica se os atributos de formatação da célula selecionada devem ser aplicados automaticamente a células adjacentes vazias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Specifies whether to expand references when inserting columns or rows adjacent to the reference range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200945Z" creationid="olivier" creationdate="20261001T200945Z">
+        <seg>Especifica se as referências devem ser expandidas ao inserir colunas ou linhas adjacentes ao intervalo de referência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies whether to highlight column and row headers in the selected columns or rows.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201412Z" creationid="olivier" creationdate="20261001T201412Z">
+        <seg>Especifica se os cabeçalhos de coluna e linha devem ser destacados nas colunas ou linhas selecionadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108468,6 +108737,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The format will also apply to all new values inserted within this range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200719Z" creationid="olivier" creationdate="20261001T200719Z">
+        <seg>O formato também será aplicado a todos os novos valores inseridos dentro deste intervalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The formatting attributes of that style are applied to the selected cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260409T130607Z" creationid="timotheonb" creationdate="20260409T130607Z">
@@ -111067,6 +111344,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131034Z" creationid="timotheonb" creationdate="20250502T131034Z">
         <seg>As réguas mostram o tamanho de um objeto selecionado no slide usando linhas duplas (destacadas na Figura &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The same applies when extending a selection on rows, with &lt;f3&gt;Ctrl&lt;/f3&gt;+&lt;f4&gt;Shift+Left/Right&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T010709Z" creationid="olivier" creationdate="20261002T010709Z">
+        <seg>O mesmo se aplica ao estender uma seleção em linhas, com &lt;f3&gt;Ctrl&lt;/f3&gt;+&lt;f4&gt;Shift+Esquerda/Direita&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114936,6 +115222,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This feature works only while you are inserting data in adjacent cells with the previous formatting style; if you insert some data in a non-adjacent cell, Expand formatting will no longer work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200814Z" creationid="olivier" creationdate="20261001T200814Z">
+        <seg>Esse recurso funciona apenas enquanto estiver inserindo dados em células adjacentes com o estilo de formatação anterior; se inserir alguns dados em uma célula não adjacente, a formatação Expandir não mais funcionará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This file sharing option protects the document against accidental changes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T195210Z" creationid="olivier-tdf" creationdate="20250328T195210Z">
@@ -115300,6 +115594,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250729T014111Z" creationid="firelinux" creationdate="20250729T014111Z">
         <seg>Este não é realmente um valor de erro, portanto, não há código de erro numérico correspondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is only possible if the reference range, where the column or row is inserted, originally spanned at least two cells in the desired direction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201009Z" creationid="olivier" creationdate="20261001T201009Z">
+        <seg>Só é possível se o intervalo de referência, onde a coluna ou linha é inserida, originalmente abranger pelo menos duas células na direção desejada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116996,6 +117298,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260401T002330Z" creationid="vitor" creationdate="20260401T002330Z">
         <seg>Para alinhar uma série de dados a um eixo Y secundário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To allow Calc to read files with up to 16 million rows and 16,384 columns, check the &lt;f0&gt;Enable very large spreadsheets&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T011420Z" creationid="olivier" creationdate="20261002T011420Z">
+        <seg>Para permitir que o Calc leia arquivos com até 16 milhões de linhas e 16.384 colunas, marque a caixa &lt;f0&gt;Permitir planilhas muito extensas&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118812,6 +119122,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194145Z" creationid="firelinux" creationdate="20260403T194145Z">
         <seg>Para ativar/desativar um indicador visual de colunas e linhas ocultas, acesse&lt;f0&gt;Exibir &gt; Indicador de linha/coluna oculta&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To end edit mode and move the cursor in the desired direction, press &lt;f1&gt;Enter&lt;/f1&gt; again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200239Z" creationid="olivier" creationdate="20261001T200239Z">
+        <seg>Para encerrar o modo de edição e mover o cursor na direção desejada, pressione &lt;f1&gt;Enter&lt;/f1&gt; novamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120912,6 +121231,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To see the affected range, press &lt;f0&gt;Ctrl&lt;/f0&gt;+&lt;f1&gt;*&lt;/f1&gt; (multiplication sign on the number pad).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200644Z" creationid="olivier" creationdate="20261001T200644Z">
+        <seg>Para ver o intervalo afetado, pressione &lt;f0&gt;Ctrl&lt;/f0&gt;+&lt;f1&gt;*&lt;/f1&gt; (sinal de multiplicação no teclado numérico).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To see the changed information, hover the mouse pointer over the changed cell.</seg>
       </tuv>
@@ -122265,6 +122593,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To prevent any loss of content from other sheets, Calc displays a warning (Figure &lt;t0&gt;11&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T010756Z" creationid="olivier" creationdate="20261002T010756Z">
+        <seg>Para evitar qualquer perda de conteúdo de outras planilhas, o Calc exibe um aviso (Figura &lt;t0&gt;11&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Trace Dependents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260721T235713Z" creationid="vitor" creationdate="20260721T235713Z">
@@ -123445,6 +123781,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T200111Z" creationid="olivier" creationdate="20260930T200111Z">
         <seg>Seção Atualizar vínculos ao abrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update references when sorting range of cells</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201203Z" creationid="olivier" creationdate="20261001T201203Z">
+        <seg>Atualizar referências ao ordenar o intervalo de células</seg>
       </tuv>
     </tu>
     <tu>
@@ -126585,6 +126929,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Warn when saving only the active sheet</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T010719Z" creationid="olivier" creationdate="20261002T010719Z">
+        <seg>Alertar quando salvar somente a planilha ativa</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Warning</seg>
       </tuv>
@@ -128193,6 +128546,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>When saving a spreadsheet in CSV file format, only the active sheet will be saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T010734Z" creationid="olivier" creationdate="20261002T010734Z">
+        <seg>Ao salvar uma planilha no formato de arquivo CSV, apenas a planilha ativa será salva.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>When saving changes to a style, the changes are applied to all of the elements formatted with that style in the presentation.</seg>
       </tuv>
@@ -128286,6 +128648,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T113556Z" creationid="vitor" creationdate="20260412T113556Z">
         <seg>Quando selecionado, coloca alças de rotação redondas em cada canto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When selected, references to cells are updated when a range of cells is sorted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201235Z" creationid="olivier" creationdate="20261001T201235Z">
+        <seg>Quando selecionado, as referências às células são atualizadas quando ordenar um intervalo de células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128482,6 +128852,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the content of a cell is copied to the clipboard, you can paste the information in another cell by pressing the &lt;f0&gt;Enter&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200407Z" creationid="olivier" creationdate="20261001T200407Z">
+        <seg>Quando copiar o conteúdo de uma célula para a área de transferência, é possível colar as informações em outra célula teclando &lt;f6&gt;Enter&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the cursor is in a &lt;f0&gt;table&lt;/f0&gt;, this panel appears in addition to the panels for text:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T204331Z" creationid="timot" creationdate="20250113T111525Z">
@@ -128590,6 +128968,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110542Z" creationid="timotheonb" creationdate="20250530T110542Z">
         <seg>Quando o novo slide mestre for criado, use um dos seguintes métodos para retornar à exibição &lt;f0&gt;Normal&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the option is not set, expanding a selection (with &lt;f1&gt;Ctrl+Shift+Down/Up&lt;/f1&gt;) jumps to the end &lt;t2/&gt;of the range in the column where selecting the cell range was started.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T010652Z" creationid="olivier" creationdate="20261002T010652Z">
+        <seg>Quando a opção não está definida, a expansão de uma seleção (com &lt;f1&gt;Ctrl+Shift+seta para cima/baixo&lt;/f1&gt;) seleciona até o final &lt;t2/&gt;do intervalo na coluna onde a seleção do intervalo começou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130058,6 +130444,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With this option set, expanding a selection (with &lt;f0&gt;Ctrl+Shift+Down/Up&lt;/f0&gt;) jumps to the end of the range in the column that was added as last to the initial selection.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T010542Z" creationid="olivier" creationdate="20261002T010542Z">
+        <seg>Com esta opção definida, a expansão de uma seleção (com &lt;f0&gt;Ctrl+Shift+seta para cima/baixo&lt;/f0&gt;) seleciona até o final do intervalo na coluna que foi adicionada como última à seleção inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With this tool, you can easily delete duplicates or highlight them for further review.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260402T121320Z" creationid="timotheonb" creationdate="20260402T121126Z">
@@ -130902,6 +131296,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T103054Z" creationid="timot" creationdate="20250113T103054Z">
         <seg>É também possível escolher&lt;f0&gt;Nenhum (Não verificar ortografia)&lt;/f0&gt; para excluir o texto de uma verificação ortográfica ou escolher&lt;f1&gt;Mais&lt;/f1&gt; para abrir a caixa de diálogo Caractere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also choose the direction the cursor moves: &lt;f1&gt;Up&lt;/f1&gt;, &lt;f2&gt;Down&lt;/f2&gt;, &lt;f3&gt;Left&lt;/f3&gt;, or &lt;f4&gt;Right&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200104Z" creationid="olivier" creationdate="20261001T200104Z">
+        <seg>Você também pode escolher a direção em que o cursor se move: &lt;f1&gt;para cima&lt;/f1&gt;, &lt;f2&gt;para baixo, &lt;/f2&gt; &lt;f3&gt;para a esquerda&lt;/f3&gt; ou &lt;f4&gt;para a direita&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133830,6 +134232,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T115327Z" creationid="timotheonb" creationdate="20260616T115327Z">
         <seg>padrão, configuração e redefinição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>defaults</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261002T010936Z" creationid="olivier" creationdate="20261002T010936Z">
+        <seg>padrões</seg>
       </tuv>
     </tu>
     <tu>
