@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1899-12-30 (default) – Sets December 30, 1899 as day zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T192453Z" creationid="olivier" creationdate="20261004T192453Z">
+        <seg>1899-12-30 (padrão) – Define 30 de dezembro de 1899 como dia zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>18|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260524T152401Z" creationid="vitor" creationdate="20260524T152401Z">
@@ -650,6 +658,23 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260225T205911Z" creationid="timotheonb" creationdate="20260225T205911Z">
         <seg>19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>1900-01-01 (StarCalc 1.0) – Sets January 1, 1900 as day zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T192514Z" creationid="olivier" creationdate="20261004T192514Z">
+        <seg>1900-01-01 (StarCalc 1.0) – Define 1º de janeiro de 1900 como dia zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1904-01-01 – Sets January 1, 1904 as day zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T192716Z" creationid="olivier" creationdate="20261004T192716Z">
+        <seg>1904-01-01 – Define 1º de janeiro de 1904 como dia zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26091,6 +26116,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260120T121837Z" creationid="timotheonb" creationdate="20260120T121837Z">
         <seg>A diferenciação entre maiúsculas e minúsculas está desativada por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Case-sensitive</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T192945Z" creationid="olivier" creationdate="20261004T192945Z">
+        <seg>Diferenciar maiúsculas de minúsculas</seg>
       </tuv>
     </tu>
     <tu>
@@ -57311,6 +57344,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T201805Z" creationid="olivier-tdf" creationdate="20250328T201805Z">
         <seg>Corporativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>General Calculations section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T192839Z" creationid="olivier" creationdate="20261004T192839Z">
+        <seg>Seção Cálculos Gerais</seg>
       </tuv>
     </tu>
     <tu>
@@ -96335,6 +96376,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Select the start date for the internal conversion from days to numbers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T192414Z" creationid="olivier" creationdate="20261004T192414Z">
+        <seg>Selecione a data de início para a conversão interna de dias para números.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Select the style that is going to be deleted from the displayed list of custom styles.</seg>
       </tuv>
@@ -101369,6 +101419,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20251120T215432Z" creationid="firelinux" creationdate="20251120T215432Z">
         <seg>Especifique um número inteiro positivo para produzir uma sequência específica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specify a variety of options relevant to spreadsheet calculation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T192913Z" creationid="olivier" creationdate="20261004T192913Z">
+        <seg>Especifica uma variedade de opções relevantes para o cálculo da planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125945,6 +126003,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251031T140636Z" creationid="timotheonb" creationdate="20251031T140636Z">
         <seg>Use esta página para atribuir campos de informações personalizadas ao documento de planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this setting for StarCalc 1.0 spreadsheets containing date entries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T192546Z" creationid="olivier" creationdate="20261004T192546Z">
+        <seg>Utilize esta configuração para planilhas do StarCalc 1.0 que contenham entradas de data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this setting for spreadsheets that are imported from foreign formats.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T192804Z" creationid="olivier" creationdate="20261004T192804Z">
+        <seg>Utilize esta configuração para planilhas que são importadas de um formato estrangeiro.</seg>
       </tuv>
     </tu>
     <tu>
