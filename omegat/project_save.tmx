@@ -10768,6 +10768,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Comment indicator&lt;/s0&gt;&lt;s1&gt;Comment indicator&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T134919Z" creationid="olivier" creationdate="20261004T134919Z">
+        <seg>&lt;s0&gt;Indicador de anotação&lt;/s0&gt;&lt;s1&gt;Indicador de anotação&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Compress Image dialog&lt;/s0&gt;&lt;s1&gt;Compress Image dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250602T223436Z" creationid="olivier" creationdate="20250602T223436Z">
@@ -12068,6 +12076,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211710Z" creationid="olivier-tdf" creationdate="20250116T211710Z">
         <seg>&lt;s0&gt;Barra de fórmulas&lt;/s0&gt;&lt;s1&gt;Barra de fórmulas&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Formula indicator&lt;/s0&gt;&lt;s1&gt;Formula indicator&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135502Z" creationid="olivier" creationdate="20261004T135502Z">
+        <seg>&lt;s0&gt;Indicador de fórmula&lt;/s0&gt;&lt;s1&gt;Indicador de fórmula&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13756,6 +13772,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213221Z" creationid="olivier-tdf" creationdate="20250116T213221Z">
         <seg>&lt;s0&gt;Selecionar operações matemáticas na barra de status&lt;/s0&gt;&lt;s1&gt;Selecionar operações matemáticas na barra de status&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Selecting view options for Calc&lt;/s0&gt;&lt;s1&gt;Selecting view options for Calc&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135305Z" creationid="olivier" creationdate="20261004T135305Z">
+        <seg>&lt;s0&gt;Selecionar opções de exibição para o Calc&lt;/s0&gt;&lt;s1&gt;Selecionar opções de exibição para o Calc&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15980,6 +16004,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T110021Z" creationid="timot" creationdate="20250224T110021Z">
         <seg>Uma estratégia melhor seria definir tabulações para o estilo do parágrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>A blank cell is not the same as an empty cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T134754Z" creationid="olivier" creationdate="20261004T134754Z">
+        <seg>Uma célula em branco não é o mesmo que uma célula vazia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34398,6 +34431,23 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Comment authorship</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135011Z" creationid="olivier" creationdate="20261004T135011Z">
+        <seg>Autoria da anotação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comment indicator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T134826Z" creationid="olivier" creationdate="20261004T134826Z">
+        <seg>Indicador de anotação</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Commenting with &lt;is0/&gt;&lt;is1/&gt;REM</seg>
       </tuv>
@@ -39991,6 +40041,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display a zero in a cell when the cell has a value of zero, or display as a blank cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T134743Z" creationid="olivier" creationdate="20261004T134743Z">
+        <seg>Exibe um zero em uma célula quando o valor for zero ou exibe como uma célula em branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display bars only</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T193621Z" creationid="firelinux" creationdate="20260403T193602Z">
@@ -40031,10 +40089,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T134558Z" creationid="olivier" creationdate="20261004T134558Z">
+        <seg>Seção Exibir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display the available templates by selecting the &lt;f0&gt;Templates&lt;/f0&gt; in the &lt;f1&gt;File type&lt;/f1&gt; box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T142940Z" creationid="olivier" creationdate="20250405T142940Z">
         <seg>Mostre os modelos disponíveis selecionando os &lt;f0&gt;Modelos&lt;/f0&gt; na caixa &lt;f1&gt;Tipo de arquivo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the content of a cell either as a formula or as the result of that formula.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T134653Z" creationid="olivier" creationdate="20261004T134653Z">
+        <seg>Exibe o conteúdo da célula como uma fórmula ou como o resultado dessa fórmula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46147,6 +46221,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Comment indicator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T134927Z" creationid="olivier" creationdate="20261004T134927Z">
+        <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: Indicador de anotação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Conditional formatting toolbar icon</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184836Z" creationid="firelinux" creationdate="20260403T184836Z">
@@ -46427,6 +46509,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Selecting view options for Calc</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135314Z" creationid="olivier" creationdate="20261004T135314Z">
+        <seg>Figura &lt;seq0&gt;13&lt;/seq0&gt;: Selecionar opções de exibição para o Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Slide and Layouts panels in Properties deck on Sidebar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250505T185145Z" creationid="timotheonb" creationdate="20250505T185145Z">
@@ -46503,6 +46593,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T130318Z" creationid="timotheonb" creationdate="20260914T130250Z">
         <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: barra de ferramentas do Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Formula indicator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135508Z" creationid="olivier" creationdate="20261004T135508Z">
+        <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: Indicador de fórmula</seg>
       </tuv>
     </tu>
     <tu>
@@ -56292,6 +56391,24 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Formula indicator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135518Z" creationid="olivier" creationdate="20261004T135518Z">
+        <seg>Indicador de fórmula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Formula indicator and hint</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135325Z" creationid="olivier" creationdate="20261004T135325Z">
+        <seg>Indicador de fórmula e dica</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Formula is</seg>
       </tuv>
@@ -64886,6 +65003,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If this box is checked, the author of the comment and the date and time at which the comment was made will appear in the comment window, when you mouse over a comment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135025Z" creationid="olivier" creationdate="20261004T135025Z">
+        <seg>Ao marcar esta caixa, o autor, a data e hora da criação da anotação aparecem na janela da anotação, quando passar o mouse sobre a anotação.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>If this box is checked, the destination range remains linked to the source range.</seg>
       </tuv>
@@ -64963,6 +65089,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T191915Z" creationid="olivier-tdf" creationdate="20250309T191915Z">
         <seg>Ao selecionar esta opção, na próxima vez que o documento for fechado após ser impresso, a data de impressão será registrada nas propriedades do documento como uma alteração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If those fields are blank, the author name appears as "Unknown Author".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135133Z" creationid="olivier" creationdate="20261004T135133Z">
+        <seg>Se esses campos estiverem em branco, o nome do autor aparecerá como "Autor desconhecido".</seg>
       </tuv>
     </tu>
     <tu>
@@ -68685,6 +68819,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260527T010117Z" creationid="vitor" creationdate="20260520T002447Z">
         <seg>No caso de aviso com mostrado na Figura &lt;t0&gt;14&lt;/t0&gt;, deve-se ajustar o nível de segurança da macro em &lt;f1&gt;Ferramentas &gt; Opções &gt; Libreoffice &gt; Segurança &gt; Segurança de Macro&lt;/f1&gt; para um nível que permita a execução da macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In the case of zero display value setting, a cell can display as blank when its value is zero but is not empty.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T134811Z" creationid="olivier" creationdate="20261004T134811Z">
+        <seg>No caso da configuração de valor de exibição zero, uma célula pode ser exibida como em branco quando seu valor é zero, mas não está vazia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96282,6 +96425,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Select this option to place a blue triangle in the bottom-left corner of each cell that contains a formula.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135350Z" creationid="olivier" creationdate="20261004T135350Z">
+        <seg>Selecione esta opção para colocar um triângulo azul no canto inferior esquerdo de cada célula que contém uma fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Select this option to print the presentation double sided if the printer selected is capable of double sided printing.</seg>
       </tuv>
@@ -96303,6 +96455,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T005933Z" creationid="olivier" creationdate="20250318T005933Z">
         <seg>Selecione esta opção para enviar informações sobre a versão do LibreOffice, sistema operacional e hardware básico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this option to show a small symbol in the top right corner of a cell that contains a comment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T134844Z" creationid="olivier" creationdate="20261004T134844Z">
+        <seg>Selecione esta opção para mostrar um pequeno símbolo no canto superior direito de uma célula que contém uma anotação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96479,6 +96639,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124846Z" creationid="olivier" creationdate="20250325T124846Z">
         <seg>Selecione para mostrar os marca-páginas até o nível selecionado quando o leitor abrir o arquivo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select various options for the display.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T134623Z" creationid="olivier" creationdate="20261004T134623Z">
+        <seg>Seleciona várias opções para a exibição</seg>
       </tuv>
     </tu>
     <tu>
@@ -96895,6 +97063,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T235920Z" creationid="olivier" creationdate="20260926T235920Z">
         <seg>Selecionar esta opção para ativar recursos que ainda não estão completos ou contêm bugs conhecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting view options for Calc</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135320Z" creationid="olivier" creationdate="20261004T135320Z">
+        <seg>Selecionar opções de exibição para o Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -107087,6 +107263,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The comment author name appears as it appears in the First Name and Last Name fields in the User Data dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135114Z" creationid="olivier" creationdate="20261004T135114Z">
+        <seg>O nome do autor do comentário aparece como aparece nos campos Nome e Sobrenome na caixa de diálogo Dados do Usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The community operates internationally in all time zones and in many languages, linked through the internet at &lt;a0&gt;www.libreoffice.org&lt;/a0&gt; and &lt;a1&gt;www.documentfoundation.org&lt;/a1&gt;.</seg>
       </tuv>
@@ -110728,6 +110913,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194937Z" creationid="olivier-tdf" creationdate="20250109T194937Z">
         <seg>As opções marcadas por um sinal ‡ na lista abaixo só são acessíveis se o computador estiver conectado à Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The options on the &lt;f0&gt;LibreOffice Calc – View&lt;/f0&gt; page (Figure &lt;t1&gt;13&lt;/t1&gt;) affect the way the document window looks and behaves when viewed onscreen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T134549Z" creationid="olivier" creationdate="20261004T134549Z">
+        <seg>As opções na página &lt;f0&gt;LibreOffice Calc – Exibir&lt;/f0&gt; (Figura &lt;t1&gt;13&lt;/t1&gt;) afetam a aparência e o comportamento da janela do documento quando visualizada na tela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117326,6 +117519,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To always display a comment, right-click on the cell and select &lt;f0&gt;Show comment&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135002Z" creationid="olivier" creationdate="20261004T135002Z">
+        <seg>Para sempre exibir uma anotação, clique com o botão direito do mouse na célula e selecione &lt;f0&gt;Mostrar anotação&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To anchor a selected image or change the type of anchor used:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T103006Z" creationid="timotheonb" creationdate="20260901T103006Z">
@@ -123841,6 +124042,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Updating the user data only affects comments made after the update.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135221Z" creationid="olivier" creationdate="20261004T135221Z">
+        <seg>Ao atualizar desses dados afeta apenas as anotações feitas após a atualização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Updating themes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250612T212651Z" creationid="olivier" creationdate="20250612T212651Z">
@@ -128239,6 +128448,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260910T121503Z" creationid="timotheonb" creationdate="20260910T121503Z">
         <seg>Ao agrupar imagens, a imagem resultante é ancorada Na página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When hovering the pointer over the blue triangle, the formula is shown in a tool tip.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135450Z" creationid="olivier" creationdate="20261004T135450Z">
+        <seg>Ao passar o ponteiro sobre o triângulo azul, uma dica aparece com a fórmula da célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133496,6 +133713,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250724T212206Z" creationid="timotheonb" creationdate="20250724T212206Z">
         <seg>Zbyszek Zak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Zero values</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261004T134659Z" creationid="olivier" creationdate="20261004T134659Z">
+        <seg>Valores zero</seg>
       </tuv>
     </tu>
     <tu>
