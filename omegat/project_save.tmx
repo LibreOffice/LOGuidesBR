@@ -27840,6 +27840,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Charts are shown with the displayed values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261005T153152Z" creationid="olivier" creationdate="20261005T153152Z">
+        <seg>Gráficos são mostrados com os valores exibidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Charts can be exported in a variety of image formats for use in other documents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260409T001547Z" creationid="vitor" creationdate="20260409T001547Z">
@@ -54257,6 +54265,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For example: type &lt;f0&gt;Test&lt;/f0&gt; in cell A1; and &lt;f1&gt;test&lt;/f1&gt; in B1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261005T152714Z" creationid="olivier" creationdate="20261005T152714Z">
+        <seg>Por exemplo: digite &lt;f0&gt;Teste&lt;/f0&gt; na célula A1; e &lt;f1&gt;teste&lt;/f1&gt; em B1.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For exporting individual cropped images, or graphics, see “&lt;bf0&gt;Exporting&lt;/bf0&gt;” on page &lt;bf1&gt;12&lt;/bf1&gt;.</seg>
       </tuv>
@@ -64269,6 +64286,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194720Z" creationid="olivier" creationdate="20260930T194720Z">
         <seg>Se a opção &lt;f2&gt;Exibir aviso&lt;/f2&gt; estiver selecionada, então ao exportar para HTML, será mostrado um aviso de que as macros do LibreOffice Basic serão perdidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the &lt;f3&gt;Case sensitive&lt;/f3&gt; option is checked, &lt;f4&gt;FALSE&lt;/f4&gt; will appear in the cell; if the analysis was case-insensitive, &lt;f5&gt;TRUE&lt;/f5&gt; will appear in the cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261005T152858Z" creationid="olivier" creationdate="20261005T152858Z">
+        <seg>Se a opção &lt;f3&gt;Diferenciar maiúsculas de minúsculas&lt;/f3&gt; estiver marcada, &lt;f4&gt;FALSO&lt;/f4&gt; aparecerá na célula; se a análise não diferenciar maiúsculas de minúsculas, &lt;f5&gt;VERDADEIRO&lt;/f5&gt; aparecerá na célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85845,6 +85870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Precision as shown</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261005T153032Z" creationid="olivier" creationdate="20261005T153032Z">
+        <seg>Calcular com a precisão do número mostrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Predefined Process</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250728T123900Z" creationid="firelinux" creationdate="20250728T123900Z">
@@ -101383,6 +101416,15 @@
     <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
+        <seg>Specifies whether to distinguish between upper and lower case in texts when comparing cell contents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261005T152658Z" creationid="olivier" creationdate="20261005T152658Z">
+        <seg>Especifica se deve distinguir entre maiúsculas e minúsculas nos textos ao comparar o conteúdo da célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
         <seg>Specifies whether to expand references when inserting columns or rows adjacent to the reference range.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261001T200945Z" creationid="olivier" creationdate="20261001T200945Z">
@@ -101395,6 +101437,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201412Z" creationid="olivier" creationdate="20261001T201412Z">
         <seg>Especifica se os cabeçalhos de coluna e linha devem ser destacados nas colunas ou linhas selecionadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specifies whether to make calculations using the rounded values displayed in the sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261005T153050Z" creationid="olivier" creationdate="20261005T153050Z">
+        <seg>Especifica se deve fazer cálculos usando os valores arredondados exibidos na planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113721,6 +113771,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Then type the formula &lt;f2&gt;=A1=B1&lt;/f2&gt; in cell C1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261005T152723Z" creationid="olivier" creationdate="20261005T152723Z">
+        <seg>Em seguida, digite a fórmula &lt;f2&gt;=A1=B1&lt;/f2&gt; na célula C1.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Then use the pointer to select the data range(s) on the spreadsheet.</seg>
       </tuv>
@@ -116864,6 +116923,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T130827Z" creationid="timot" creationdate="20250409T130827Z">
         <seg>Esta opção é especialmente útil para texto, como endereços da web ou trechos de linguagem de programação onde verificação ortográfica é desnecessária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option is not applied to the EXACT text function, which is always case-sensitive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261005T152939Z" creationid="olivier" creationdate="20261005T152939Z">
+        <seg>Esta opção não é aplicada à função de texto EXATO, que sempre diferencia maiúsculas de minúsculas.</seg>
       </tuv>
     </tu>
     <tu>
