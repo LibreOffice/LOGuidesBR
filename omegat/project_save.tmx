@@ -23205,6 +23205,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Automatically find column and row labels</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T011838Z" creationid="olivier" creationdate="20261006T011838Z">
+        <seg>Localizar rótulos de coluna e linha automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automating repetitive tasks</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251111T235018Z" creationid="olivier" creationdate="20251111T235018Z">
@@ -24009,6 +24017,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T124036Z" creationid="olivier-tdf" creationdate="20250702T124036Z">
         <seg>Abaixo estão as etapas para gravar essa macro usando pressionamentos de teclas e supondo que o cursor esteja no início da linha com o texto "THIN".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Below, in cell E6, is the value 100 and in cell E7 the value 200.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T011941Z" creationid="olivier" creationdate="20261006T011941Z">
+        <seg>Abaixo, na célula E6, está o valor 100 e na célula E7 o valor 200.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24866,6 +24883,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T085055Z" creationid="olivier" creationdate="20250308T085055Z">
         <seg>Porcentagens CMYK de Ciano (C), Magenta (M), Amarelo (Y) e Preto (K).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CPU Threading Settings section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012724Z" creationid="olivier" creationdate="20261006T012724Z">
+        <seg>Seção Processamento paralelo da CPU</seg>
       </tuv>
     </tu>
     <tu>
@@ -25883,6 +25908,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194627Z" creationid="olivier-tdf" creationdate="20250209T194627Z">
         <seg>O Calc exibirá os intervalos de impressão como páginas separadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Calc will name the range of data, under a column heading or to the right of a row heading, using the text in those headings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T011916Z" creationid="olivier" creationdate="20261006T011916Z">
+        <seg>O Calc nomeará o intervalo de dados, sob um título de coluna ou à direita de um título de linha, usando o texto nesses títulos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35388,6 +35422,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Controls the use of multi-threading / parallelism, which can be used to speed up LibreOffice Calc calculations on computers with multiple processing cores.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012828Z" creationid="olivier" creationdate="20261006T012828Z">
+        <seg>Controla o uso de multi-threading / paralelismo, que pode ser usado para acelerar os cálculos do LibreOffice Calc em computadores com vários núcleos de processamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Conversely, if the comparison is done along the columns, the cells to the right of the deleted duplicates will move leftward.</seg>
       </tuv>
@@ -43241,6 +43284,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enable multithreaded calculation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012805Z" creationid="olivier" creationdate="20261006T012805Z">
+        <seg>Ativar processamento paralelo para cálculos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enable natural sort</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260401T111934Z" creationid="timotheonb" creationdate="20260401T111934Z">
@@ -45150,6 +45201,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250509T103034Z" creationid="timot" creationdate="20250509T103034Z">
         <seg>Slide de exemplo usando caixas de conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Example: Cell E5 contains the text Europe.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T011924Z" creationid="olivier" creationdate="20261006T011924Z">
+        <seg>Exemplo: A célula E5 contém o texto Europa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54054,6 +54114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084900Z" creationid="olivier" creationdate="20250308T084900Z">
         <seg>Por exemplo, quando uma extensão faz parte da instalação do LibreOffice, ela não pode, ou não deve, ser removida ou desativada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, when searching for day, Calc will match Friday, Sunday, and days.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T011718Z" creationid="olivier" creationdate="20261006T011718Z">
+        <seg>Por exemplo, ao pesquisar por "feira", o Calc corresponderá a sexta-feira, segunda-feira, etc....</seg>
       </tuv>
     </tu>
     <tu>
@@ -64242,10 +64310,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the &lt;f0&gt;Automatically find column and row labels&lt;/f0&gt; option is selected, you can write the following formula in cell A1:&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;=SUM(Europe)&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012039Z" creationid="olivier" creationdate="20261006T012039Z">
+        <seg>Se a opção &lt;f0&gt;Localizar rótulos de coluna e linha automaticamente&lt;/f0&gt; estiver selecionada, você pode escrever a seguinte fórmula na célula A1:&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;=SOMA(Europa)&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the &lt;f0&gt;Options&lt;/f0&gt; dialog is not already open, click &lt;f1&gt;Tools &gt; Options &lt;/f1&gt;on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234706Z" creationid="olivier" creationdate="20260929T234706Z">
         <seg>Se a caixa de diálogo &lt;f0&gt;Opções&lt;/f0&gt; não estiver aberta, clique em &lt;f1&gt;Ferramentas &gt; Opções &lt;/f1&gt;na barra de Menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the &lt;f0&gt;Precision as shown&lt;/f0&gt; option is not marked, the displayed numbers are rounded, but they are calculated internally using the non‑rounded number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T005646Z" creationid="olivier" creationdate="20261006T005646Z">
+        <seg>Se a opção &lt;f0&gt;Calcular coma precisão do número mostrado&lt;/f0&gt; não estiver marcada, os números exibidos são arredondados, mas são calculados internamente usando o número não arredondado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65033,6 +65117,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>If the result of the iteration is lower than the minimum change value, then the iteration will stop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012639Z" creationid="olivier" creationdate="20261006T012639Z">
+        <seg>Se o resultado da iteração for inferior ao valor mínimo de alteração, a iteração será interrompida.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>If the resulting image is not acceptable, undo the changes and rep&lt;f0&gt;e&lt;/f0&gt;at the procedure using different compression settings.</seg>
       </tuv>
@@ -65399,6 +65492,23 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222456Z" creationid="olivier" creationdate="20250324T222456Z">
         <seg>Ao ativar esta opção, a marcação XObject de referência será usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this option is not selected, a value of zero will display as an empty cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T015109Z" creationid="olivier" creationdate="20261006T015109Z">
+        <seg>Se desmarcado, o valor de zero será exibido como uma célula vazia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>If this option is not selected, an iterative reference causes an error message.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012514Z" creationid="olivier" creationdate="20261006T012514Z">
+        <seg>Se essa opção não for selecionada, uma referência iterativa causará uma mensagem de erro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69630,6 +69740,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In this section you can choose the number of approximation steps carried out during iterative calculations and the degree of precision of the answer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012336Z" creationid="olivier" creationdate="20261006T012336Z">
+        <seg>Nesta seção, você pode escolher o número de etapas de aproximação realizadas durante os cálculos iterativos e o grau de precisão da resposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In this tab you can set some basic protection to you spreadsheet.</seg>
       </tuv>
@@ -72327,6 +72446,33 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Iterations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012342Z" creationid="olivier" creationdate="20261006T012342Z">
+        <seg>Iterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Iterative References section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012247Z" creationid="olivier" creationdate="20261006T012247Z">
+        <seg>Seção Referências Iterativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Iterative references are formulas that are continuously repeated until the problem is solved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012316Z" creationid="olivier" creationdate="20261006T012316Z">
+        <seg>Referências iterativas são fórmulas que são continuamente repetidas até que o problema seja resolvido.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Its Smart Connectors feature allows definition connection points.</seg>
       </tuv>
@@ -74616,10 +74762,27 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Limit decimals for general number format</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012117Z" creationid="olivier" creationdate="20261006T012117Z">
+        <seg>Limitar decimais para o formato de número Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Limitations of the macro recorder</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250703T001916Z" creationid="olivier" creationdate="20250703T001916Z">
         <seg>Limitações do gravador de macros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Limits the number of decimals to be displayed for numbers with the general number format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012127Z" creationid="olivier" creationdate="20261006T012127Z">
+        <seg>Limita o número de casas decimais a serem exibidas para números com o formato de número geral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77285,6 +77448,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011812Z" creationid="olivier" creationdate="20250321T011812Z">
         <seg>Número mínimo de caracteres para hifenização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minimum change</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012613Z" creationid="olivier" creationdate="20261006T012613Z">
+        <seg>Alteração mínima</seg>
       </tuv>
     </tu>
     <tu>
@@ -91370,6 +91541,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search criteria = and &lt;&gt; must apply to whole cells</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T011523Z" creationid="olivier" creationdate="20261006T011523Z">
+        <seg>Critérios de pesquisa = e &lt;&gt; devem ser aplicados ao conteúdo integral das células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Search for objects in Gallery Sidebar deck</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T220236Z" creationid="olivier-tdf" creationdate="20250109T220236Z">
@@ -92622,6 +92801,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250904T004036Z" creationid="timotheonb" creationdate="20250904T004036Z">
         <seg>Consulte &lt;f0&gt;o Capítulo 16, Configurar e personalizar&lt;/f0&gt;, para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See &lt;f0&gt;Chapter 9, Using Formulas and Functions&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012850Z" creationid="olivier" creationdate="20261006T012850Z">
+        <seg>Consulte o &lt;f0&gt;Capítulo 9, Fórmulas e Funções&lt;/f0&gt;, para obter mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96814,6 +97001,15 @@
     <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
+        <seg>Select this option to enable iterations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012439Z" creationid="olivier" creationdate="20261006T012439Z">
+        <seg>Selecione esta opção para ativar as iterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
         <seg>Select this option to export the print layout of the current document as well.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194744Z" creationid="olivier" creationdate="20260930T194744Z">
@@ -96901,6 +97097,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T223756Z" creationid="olivier-tdf" creationdate="20250224T223756Z">
         <seg>Selecione esta opção para reduzir o tamanho do slide para caber no papel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Select this option to search an exact occurrence of &lt;t0/&gt;the target.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T011730Z" creationid="olivier" creationdate="20261006T011730Z">
+        <seg>Selecione esta opção para pesquisar uma ocorrência exata &lt;t0/&gt;do alvo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98141,6 +98346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215636Z" creationid="olivier" creationdate="20250612T215636Z">
         <seg>Define as propriedades do hiperlink e adiciona o atributo Nome ao hiperlink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sets the maximum number of iteration steps.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012553Z" creationid="olivier" creationdate="20261006T012553Z">
+        <seg>Define o número máximo de passos de iteração.</seg>
       </tuv>
     </tu>
     <tu>
@@ -101180,6 +101393,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Specifies the difference between two consecutive iteration step results.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012627Z" creationid="olivier" creationdate="20261006T012627Z">
+        <seg>Especifica a diferença entre dois resultados consecutivos da etapa de iteração.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Specifies the document type to define the default file format.</seg>
       </tuv>
@@ -102157,6 +102379,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250731T011134Z" creationid="firelinux" creationdate="20250731T011134Z">
         <seg>Mensagem da barra de status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Steps</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012540Z" creationid="olivier" creationdate="20261006T012540Z">
+        <seg>Passos</seg>
       </tuv>
     </tu>
     <tu>
@@ -108424,6 +108654,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260910T124914Z" creationid="timotheonb" creationdate="20260910T124914Z">
         <seg>As propriedades padrão de um objeto de desenho podem ser definidas antes que o objeto seja desenhado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The default search method in Calc is to search for any instance of the target regardless of the position of the target within a word.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T011600Z" creationid="olivier" creationdate="20261006T011600Z">
+        <seg>O método de pesquisa padrão no Calc é pesquisar qualquer instância do alvo, independentemente da posição do alvo dentro de uma palavra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117039,6 +117278,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This overrides the setting applied in the General option of the Format section inside the Number Category in &lt;f0&gt;Format &gt; Cells &gt; Numbers&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012206Z" creationid="olivier" creationdate="20261006T012206Z">
+        <seg>Isso substitui a configuração aplicada na opção Geral da seção Formato dentro da Categoria de Número em &lt;f0&gt;Formatar &gt; Células &gt; Números&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This personal key is stored on the computer being used as a combination of a private key, which must be kept secret, and a public key.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185917Z" creationid="olivier-tdf" creationdate="20250328T185917Z">
@@ -117235,6 +117482,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215237Z" creationid="olivier" creationdate="20250324T215237Z">
         <seg>Essa configuração pode criar arquivos grandes quando usada com fotografias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This setting refers to how numbers are displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012212Z" creationid="olivier" creationdate="20261006T012212Z">
+        <seg>Esta configuração refere-se a como os números são exibidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128820,6 +129076,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When calculations involve a range that includes an empty cell, take note of the setting for &lt;f0&gt;Zero values&lt;/f0&gt; in the &lt;f1&gt;LibreOffice Calc &gt; View&lt;/f1&gt; options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012947Z" creationid="olivier" creationdate="20261006T012947Z">
+        <seg>Quando os cálculos envolvem um intervalo que inclui uma célula vazia, observe a configuração para &lt;f0&gt;Valores zero&lt;/f0&gt; nas opções &lt;f1&gt;LibreOffice Calc &gt; Exibir&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When changes are complete, click on &lt;f0&gt;OK&lt;/f0&gt; to save the changes and close the dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T192737Z" creationid="olivier" creationdate="20250404T192737Z">
@@ -128960,6 +129224,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260331T235048Z" creationid="vitor" creationdate="20260331T235048Z">
         <seg>Quando os intervalos de dados mudarem na planilha, modifique as configurações do gráfico para refletir essas mudanças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>When decimal places are limited, calculations are not affected because of rounding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012236Z" creationid="olivier" creationdate="20261006T012236Z">
+        <seg>Quando as casas decimais são limitadas, os cálculos não são afetados por causa do arredondamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130969,6 +131242,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250728T143111Z" creationid="firelinux" creationdate="20250728T134559Z">
         <seg>Por que usar várias planilhas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wildcard symbols can be used to expand the search to match the default condition.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T011805Z" creationid="olivier" creationdate="20261006T011805Z">
+        <seg>Caracteres curinga podem ser usados para expandir a pesquisa para corresponder à condição padrão.</seg>
       </tuv>
     </tu>
     <tu>
