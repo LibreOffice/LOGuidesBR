@@ -318,6 +318,23 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(&lt;f2&gt;Option&lt;/f2&gt;+&lt;f3&gt;DownArrow&lt;/f3&gt; on macOS)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T212536Z" creationid="olivier" creationdate="20261006T212536Z">
+        <seg>(&lt;f2&gt;Opção&lt;/f2&gt;+ &lt;f3&gt;Seta para baixo&lt;/f3&gt; no macOS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>(&lt;f3&gt;Command+D&lt;/f3&gt; on macOS)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205705Z" creationid="olivier" creationdate="20261006T205705Z">
+        <seg>(&lt;f3&gt;Command+D&lt;/f3&gt; no macOS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Clicking too quickly opens the Data Series dialog.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260406T231950Z" creationid="vitor" creationdate="20260406T231950Z">
@@ -3800,6 +3817,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Alt+DownArrow&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T212512Z" creationid="olivier" creationdate="20261006T212512Z">
+        <seg>&lt;f0&gt;Alt+ Seta para baixo&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Anchor&lt;/f0&gt; – choose between anchoring the image to a cell (with or without resize) or to a page.</seg>
       </tuv>
@@ -4565,6 +4591,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T234826Z" creationid="olivier" creationdate="20250302T234826Z">
         <seg>&lt;f0&gt;Controle&lt;/f0&gt; ou &lt;f1&gt;Ctrl&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Control&lt;/f0&gt;+&lt;f1&gt;D&lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205657Z" creationid="olivier" creationdate="20261006T205657Z">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt;+&lt;f1&gt;D&lt;/f1&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8256,6 +8290,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Snap to grid&lt;/f0&gt; activates the snap function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213128Z" creationid="olivier" creationdate="20261006T213128Z">
+        <seg>&lt;f0&gt;Encaixar na grade&lt;/f0&gt; ativa a função de encaixe.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Snap, Flatpak, Appimage &lt;/f0&gt;&lt;f1&gt;and other &lt;/f1&gt;&lt;f2&gt;packages are available as well from your distribution channel.&lt;/f2&gt;</seg>
       </tuv>
@@ -8493,6 +8536,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260404T194550Z" creationid="vitor" creationdate="20260404T194550Z">
         <seg>&lt;f0&gt;Símbolos&lt;/f0&gt; abre uma lista mostrando os símbolos disponíveis que podem ser selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Synchronize axes&lt;/f0&gt; changes the current grid settings symmetrically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213247Z" creationid="olivier" creationdate="20261006T213247Z">
+        <seg>&lt;f0&gt;Sincronizar eixos&lt;/f0&gt; altera as configurações atuais da grade simetricamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9277,6 +9329,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250814T190529Z" creationid="timotheonb" creationdate="20250814T190529Z">
         <seg>&lt;f0&gt;Exibir&lt;/f0&gt; – contém comandos para modificar a aparência da interface de usuário do Calc, como &lt;f1&gt;Barras de ferramentas&lt;/f1&gt;, &lt;f2&gt;Ver cabeçalhos&lt;/f2&gt;, &lt;f3&gt;Tela inteira&lt;/f3&gt;, &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Visible grid&lt;/f0&gt; displays grid points on the screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213201Z" creationid="olivier" creationdate="20261006T213201Z">
+        <seg>A &lt;f0&gt;Grade visível&lt;/f0&gt; mostra os pontos da grade na tela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10441,6 +10501,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Calc Print options&lt;/s0&gt;&lt;s1&gt;Calc Print options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213608Z" creationid="olivier" creationdate="20261006T213608Z">
+        <seg>&lt;s0&gt;Opções de impressão do Calc&lt;/s0&gt;&lt;s1&gt;Opções de impressão do Calc&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Calc calculation options&lt;/s0&gt;&lt;s1&gt;Calc calculation options&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261004T192120Z" creationid="olivier" creationdate="20261004T192120Z">
@@ -10449,10 +10517,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Calc grid options&lt;/s0&gt;&lt;s1&gt;Calc grid options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213329Z" creationid="olivier" creationdate="20261006T213329Z">
+        <seg>&lt;s0&gt;Opções de  grade do Calc&lt;/s0&gt;&lt;s1&gt;Opções de  grade do Calc&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Calc main window&lt;/s0&gt;&lt;s1&gt;Calc main window&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211003Z" creationid="olivier-tdf" creationdate="20250116T211003Z">
         <seg>&lt;s0&gt;Janela principal do Calc&lt;/s0&gt;&lt;s1&gt;Janela principal do Calc&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Calc options for highlighting changes&lt;/s0&gt;&lt;s1&gt;Calc options for highlighting changes&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205049Z" creationid="olivier" creationdate="20261006T205049Z">
+        <seg>&lt;s0&gt;Opções do Calc para destacar alterações&lt;/s0&gt;&lt;s1&gt;Opções do Calc para destacar alterações&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11149,6 +11233,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T203749Z" creationid="timotheonb" creationdate="20250530T203749Z">
         <seg>&lt;s0&gt;Caixa de diálogo Definir apresentação de slides personalizada&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Definir apresentação de slides personalizada&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Defining chart colors&lt;/s0&gt;&lt;s1&gt;Defining chart colors&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214026Z" creationid="olivier" creationdate="20261006T214026Z">
+        <seg>&lt;s0&gt;Definir cores do gráfico&lt;/s0&gt;&lt;s1&gt;Definir cores do gráfico&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Defining sort lists in Calc&lt;/s0&gt;&lt;s1&gt;Defining sort lists in Calc&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T204153Z" creationid="olivier" creationdate="20261006T204153Z">
+        <seg>&lt;s0&gt;Definir listas de ordenação no Calc&lt;/s0&gt;&lt;s1&gt;Definir listas de ordenação no Calc&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12117,6 +12217,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135502Z" creationid="olivier" creationdate="20261004T135502Z">
         <seg>&lt;s0&gt;Indicador de fórmula&lt;/s0&gt;&lt;s1&gt;Indicador de fórmula&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Formula options&lt;/s0&gt;&lt;s1&gt;Formula options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201933Z" creationid="olivier" creationdate="20261006T201933Z">
+        <seg>&lt;s0&gt;Opções de fórmula&lt;/s0&gt;&lt;s1&gt;Opções de fórmula&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14341,6 +14449,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250212T221858Z" creationid="olivier" creationdate="20250212T221858Z">
         <seg>&lt;s0&gt;A barra de Status do Impress&lt;/s0&gt;&lt;s1&gt;A barra de Status do Impress&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;The Menus tab of the Customize dialog&lt;/s0&gt;&lt;s1&gt;The Menus tab of the Customize dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214408Z" creationid="olivier" creationdate="20261006T214408Z">
+        <seg>&lt;s0&gt;A aba Menus da caixa de diálogo Personalizar&lt;/s0&gt;&lt;s1&gt; A aba Menus da caixa de diálogo Personalizar&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23468,6 +23584,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Backspace</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205546Z" creationid="olivier" creationdate="20261006T205546Z">
+        <seg>Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Bad inline array content, non-value/non-string.</seg>
       </tuv>
@@ -24050,6 +24175,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T234430Z" creationid="olivier" creationdate="20250307T234430Z">
         <seg>Além dos atalhos de teclado disponíveis no LibreOffice, podem ser criados atalhos de teclado personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Besides the provided lists, you have the option to create and modify your own lists, as detailed in &lt;f1&gt;Chapter 2, Entering and Editing Data&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T204116Z" creationid="olivier" creationdate="20261006T204116Z">
+        <seg>Além das listas fornecidas, você tem a opção de criar e modificar suas próprias listas, conforme detalhado no &lt;f1&gt;Capítulo 2, Inserir e editar dados&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24959,6 +25092,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc A1 &lt;s0/&gt;&lt;f1&gt;=$Sheet2.C4&lt;/f1&gt; – the default syntax for Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201905Z" creationid="olivier" creationdate="20261006T201905Z">
+        <seg>Calc A1 &lt;s0/&gt;&lt;f1&gt;=$Planilha2.C4&lt;/f1&gt; – a sintaxe padrão para Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc Detective</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260225T212536Z" creationid="timotheonb" creationdate="20260225T212536Z">
@@ -25207,6 +25348,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc Print options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213622Z" creationid="olivier" creationdate="20261006T213622Z">
+        <seg>Opções de impressão do Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc add-ins, which provide new functionality for Calc, including new functions that act like normal built-in functions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T185344Z" creationid="olivier-tdf" creationdate="20250708T185344Z">
@@ -25227,6 +25376,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T210719Z" creationid="olivier-tdf" creationdate="20250128T210719Z">
         <seg>O Calc permite que aplique formatos de número usando ícones na barra de ferramentas Formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Calc allows you to defer recalculation of Excel 2007 (and more recent) spreadsheets to speed up loading time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202719Z" creationid="olivier" creationdate="20261006T202719Z">
+        <seg>O Calc permite adiar o recálculo de planilhas do Excel 2007 (e mais recentes) para acelerar o tempo de carregamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25339,6 +25497,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T001519Z" creationid="olivier" creationdate="20250120T001519Z">
         <seg>O Calc pode importar dados de links HTML para uma fonte de dados externa com consulta à web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc can insert multiple hyperlinks in a cell as text fields, but multiple hyperlinks in a cell cannot be saved to Excel file formats.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T212751Z" creationid="olivier" creationdate="20261006T212751Z">
+        <seg>O Calc pode inserir vários hiperlinks numa célula como campos de texto, porém vários hiperlinks em uma célula não podem ser salvos em formatos de arquivo do Excel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25566,6 +25732,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Calc grid options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213401Z" creationid="olivier" creationdate="20261006T213401Z">
+        <seg>Opções de grade do Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Calc has a good selection of regression types for creating trend lines: linear, logarithmic, exponential, power, polynomial, and moving average.</seg>
       </tuv>
@@ -25707,6 +25882,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T200016Z" creationid="olivier" creationdate="20260930T200016Z">
         <seg>Opções do Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc options for highlighting changes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205104Z" creationid="olivier" creationdate="20261006T205104Z">
+        <seg>Opções do Calc para destacar alterações</seg>
       </tuv>
     </tu>
     <tu>
@@ -26886,6 +27069,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260820T112937Z" creationid="timotheonb" creationdate="20260820T112416Z">
         <seg>As alterações nas propriedades da figura afetam apenas a exibição e a impressão da figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changes to menus and toolbars can be saved in a template.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214138Z" creationid="olivier" creationdate="20261006T214138Z">
+        <seg>As alterações nos menus e barras de ferramentas podem ser salvas num modelo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28450,6 +28641,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Choose the syntax most appropriate for your work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201755Z" creationid="olivier" creationdate="20261006T201755Z">
+        <seg>Escolha a sintaxe mais adequada para o seu trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Choose the type of document to create from the &lt;t2/&gt;&lt;f3&gt;File type&lt;/f3&gt; drop-down list.</seg>
       </tuv>
@@ -28808,6 +29008,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T004045Z" creationid="firelinux" creationdate="20260415T004045Z">
         <seg>Clique&lt;f0&gt;Cor&lt;/f0&gt; Para selecionar uma cor a ser usada como plano de fundo para as células formatadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Default&lt;/f0&gt; to restore the color settings that were defined when the program was installed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214006Z" creationid="olivier" creationdate="20261006T214006Z">
+        <seg>Clique em &lt;f0&gt;Padrão&lt;/f0&gt; para restaurar as configurações de cor que foram definidas quando o programa foi instalado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34678,6 +34887,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205114Z" creationid="olivier" creationdate="20261006T205114Z">
+        <seg>Compatibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Compatibility with other spreadsheet applications</seg>
       </tuv>
@@ -37944,6 +38162,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customizing the user interface</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214109Z" creationid="olivier" creationdate="20261006T214109Z">
+        <seg>Personalizar a interface do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customizing toolbars</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T140604Z" creationid="tulio" creationdate="20250211T140604Z">
@@ -38743,6 +38969,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Default colors for charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213721Z" creationid="olivier" creationdate="20261006T213721Z">
+        <seg>Cores padrão para gráficos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Default currency</seg>
       </tuv>
@@ -39112,6 +39347,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defining chart colors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214050Z" creationid="olivier" creationdate="20261006T214050Z">
+        <seg>Definir cores do gráfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defining keyboard shortcuts</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T141108Z" creationid="olivier-tdf" creationdate="20250303T141108Z">
@@ -39124,6 +39367,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T113913Z" creationid="vitor" creationdate="20260405T113913Z">
         <seg>Definir escalas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defining sort lists in Calc</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T204213Z" creationid="olivier" creationdate="20261006T204213Z">
+        <seg>Definir listas de ordenação no Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -39716,6 +39967,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155338Z" creationid="olivier" creationdate="20250223T155338Z">
         <seg>Tamanho do papel de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Detailed Calculation Settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202350Z" creationid="olivier" creationdate="20261006T202350Z">
+        <seg>Configurações detalhadas de cálculo</seg>
       </tuv>
     </tu>
     <tu>
@@ -43235,6 +43495,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Empty cells and the value zero are treated differently by many functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201234Z" creationid="olivier" creationdate="20261006T201234Z">
+        <seg>As células vazias e o valor zero são tratados de forma diferente por muitas funções.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Empty cells inside the block are selected too.</seg>
       </tuv>
@@ -44185,6 +44454,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T144439Z" creationid="olivier" creationdate="20250405T144439Z">
         <seg>Digite o endereço da web na caixa de texto &lt;f0&gt;URL&lt;/f0&gt; e um nome para o hiperlink na caixa de texto &lt;f1&gt;Texto&lt;/f1&gt; (Figura &lt;t2&gt;12&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter the separator character to be used for functions, row arrays, and column arrays.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202311Z" creationid="olivier" creationdate="20261006T202311Z">
+        <seg>Insira o caractere separador a utilizar para funções, matrizes de linhas e matrizes de colunas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45282,6 +45559,32 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T142906Z" creationid="tulio" creationdate="20250211T142906Z">
         <seg>Exemplos mostrados na Tabela &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Excel 2007 and newer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202537Z" creationid="olivier" creationdate="20261006T202537Z">
+        <seg>Excel 2007 e sucessores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Excel A1 &lt;s0/&gt;&lt;f1&gt;=Sheet2!C4 &lt;/f1&gt;– the default of Microsoft Excel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201913Z" creationid="olivier" creationdate="20261006T201913Z">
+        <seg>Excel A1 &lt;s0/&gt;&lt;f1&gt;=Planilha2!C4 &lt;/f1&gt;– o padrão do Microsoft Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Excel R1C1 &lt;s0/&gt;&lt;f1&gt;=Sheet2!R[3]C[2]&lt;/f1&gt; – the relative row and column addressing used in Excel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201923Z" creationid="olivier" creationdate="20261006T201923Z">
+        <seg>Excel R1C1 &lt;s0/&gt;&lt;f1&gt;=Planilha2!R[3]C[2]&lt;/f1&gt; – o endereçamento relativo de linha e coluna usado no Excel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47922,6 +48225,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Formula options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201938Z" creationid="olivier" creationdate="20261006T201938Z">
+        <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: Opções de fórmula</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Frozen rows and columns</seg>
       </tuv>
@@ -48035,6 +48347,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Defining sort lists in Calc</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T204204Z" creationid="olivier" creationdate="20261006T204204Z">
+        <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: Definir listas de ordenação no Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Example Barcode</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T142026Z" creationid="olivier-tdf" creationdate="20250615T142026Z">
@@ -48127,6 +48447,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194808Z" creationid="olivier-tdf" creationdate="20250708T194808Z">
         <seg>Figura &lt;seq0&gt;23&lt;/seq0&gt;: Caixa de diálogo Macros do BeanShell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Calc options for highlighting changes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205101Z" creationid="olivier" creationdate="20261006T205101Z">
+        <seg>Figura &lt;seq0&gt;23&lt;/seq0&gt;: Opções do Calc para destacar alterações</seg>
       </tuv>
     </tu>
     <tu>
@@ -48251,6 +48579,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Calc grid options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213355Z" creationid="olivier" creationdate="20261006T213355Z">
+        <seg>Figura &lt;seq0&gt;24&lt;/seq0&gt;: Opções de grade do Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Condition for dates in next week.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T193957Z" creationid="firelinux" creationdate="20260403T193957Z">
@@ -48351,6 +48687,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T221907Z" creationid="olivier-tdf" creationdate="20250328T221907Z">
         <seg>Figura &lt;seq0&gt;25&lt;/seq0&gt;: Caixa de diálogo Censura automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Calc Print options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213615Z" creationid="olivier" creationdate="20261006T213615Z">
+        <seg>Figura &lt;seq0&gt;25&lt;/seq0&gt;: Opções de impressão do Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -51324,6 +51669,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Defining chart colors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214037Z" creationid="olivier" creationdate="20261006T214037Z">
+        <seg>Figura &lt;seq0&gt;26&lt;/seq0&gt;: Definir cores do gráfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: The Menus tab of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214419Z" creationid="olivier" creationdate="20261006T214419Z">
+        <seg>Figura &lt;seq0&gt;27&lt;/seq0&gt;: A aba Menus da caixa de diálogo Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Sort dialog – Sort Criteria tab</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260331T162429Z" creationid="timotheonb" creationdate="20260331T162429Z">
@@ -51829,6 +52190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fills cell content down within selection</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205747Z" creationid="olivier" creationdate="20261006T205747Z">
+        <seg>Preenche para baixo o conteúdo da célula dentro da seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fills the resulting space with data from the cells to the right of the deleted cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260318T183002Z" creationid="timotheonb" creationdate="20260318T183002Z">
@@ -52105,6 +52474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T193845Z" creationid="olivier-tdf" creationdate="20250209T193845Z">
         <seg>Primeiro, à medida que os dados na tabela dinâmica são alterados, o gráfico dinâmico se ajusta automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First, save them in a document; then, save that document as a template, as described in Chapter 4, Using Styles and Templates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214207Z" creationid="olivier" creationdate="20261006T214207Z">
+        <seg>Primeiro, salve-os num documento; em seguida, salve esse documento como um modelo, conforme descrito no Capítulo 4, Estilos e Modelos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52596,6 +52973,24 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For English users, the localized names are the same as the English names.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202137Z" creationid="olivier" creationdate="20261006T202137Z">
+        <seg>Para usuários ingleses, os nomes localizados são os mesmos que os nomes ingleses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For ODF spreadsheets saved by other programs, where such cached formula results may not exist, recalculation can be deferred to speed up file loading as with Excel 2007 files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202936Z" creationid="olivier" creationdate="20261006T202936Z">
+        <seg>Para planilhas ODF salvas por outros programas, onde esses resultados de fórmula em cache podem não existir, o recálculo pode ser adiado para acelerar o carregamento de arquivos, como nos arquivos do Excel 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For P = 25, the percentile means the first quartile.</seg>
       </tuv>
@@ -53020,6 +53415,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For custom settings, select &lt;f0&gt;Custom&lt;/f0&gt; and click &lt;f1&gt;Details&lt;/f1&gt; to choose reference syntax and whether to treat empty strings as zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202429Z" creationid="olivier" creationdate="20261006T202429Z">
+        <seg>Para configurações personalizadas, selecione &lt;f0&gt;Personalizado&lt;/f0&gt; e clique em &lt;f1&gt;Detalhes&lt;/f1&gt; para escolher a sintaxe de referência e se deseja tratar strings vazias como zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For dates, specifies that the interval steps should be days, months, or years.</seg>
       </tuv>
@@ -53081,6 +53485,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T170613Z" creationid="timot" creationdate="20250409T170613Z">
         <seg>Para mais detalhes, consulte o Guia do Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For each of these two options, the following choices are possible: &lt;f0&gt;Never recalculate&lt;/f0&gt; (no formulas will be recalculated on loading the file), &lt;f1&gt;Always recalculate&lt;/f1&gt; (all formulas will be recalculated on file load), and &lt;f2&gt;Prompt user&lt;/f2&gt; (prompt user for action).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T203149Z" creationid="olivier" creationdate="20261006T203149Z">
+        <seg>Para cada uma dessas duas opções, as seguintes opções são possíveis: &lt;f0&gt;Nunca recalcular&lt;/f0&gt; (nenhuma fórmula será recalculada ao carregar o arquivo), &lt;f1&gt;Sempre recalcular&lt;/f1&gt; (todas as fórmulas serão recalculadas ao carregar o arquivo) e &lt;f2&gt;Perguntar ao usuário&lt;/f2&gt; (perguntar ao usuário por uma intervenção).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53165,6 +53577,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, COUNT will not include an empty cell as an item to be counted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201542Z" creationid="olivier" creationdate="20261006T201542Z">
+        <seg>Por exemplo, CONT.NÚM não incluirá uma célula vazia como um item a ser contado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, Calc uses the first and last name entries to populate the &lt;f0&gt;Created&lt;/f0&gt; and &lt;f1&gt;Modified&lt;/f1&gt; fields in the document properties, in the footer of a printed spreadsheet, or as the username associated with comments.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T173941Z" creationid="olivier" creationdate="20260926T173941Z">
@@ -53233,6 +53653,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184734Z" creationid="firelinux" creationdate="20260403T184734Z">
         <seg>Por exemplo, uma coluna com datas pode ter uma string (texto) escrita no mesmo formato que o formato de data padrão da coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For example, a comma can be used as a separator in functions and instead of writing &lt;f0&gt;=SUM(A1;B1;C1)&lt;/f0&gt; the function would be expressed as &lt;f1&gt;=SUM(A1,B1,C1)&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202345Z" creationid="olivier" creationdate="20261006T202345Z">
+        <seg>Por exemplo, uma vírgula pode ser usada como um separador em funções e, em vez de escrever &lt;f0&gt;=SOMA(A1;B1;C1)&lt;/f0&gt;, a função seria expressa como &lt;f1&gt;=SOMA(A1,B1,C1)&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54571,6 +55000,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T120500Z" creationid="timotheonb" creationdate="20260616T120500Z">
         <seg>Por exemplo, você pode criar uma pasta para modelos de vendas e outra para modelos de faturas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For large spreadsheets documents, optimal row height calculation depends on the cell contents formatting and also on the result of the conditional formatted formulas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T203631Z" creationid="olivier" creationdate="20261006T203631Z">
+        <seg>Para documentos de planilhas grandes, o cálculo da altura ideal da linha depende da formatação do conteúdo da célula e também do resultado dor formatos condicionais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56679,6 +57116,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formula Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201727Z" creationid="olivier" creationdate="20261006T201727Z">
+        <seg>Opções de fórmula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Formula bar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T211505Z" creationid="olivier-tdf" creationdate="20250116T211505Z">
@@ -56709,6 +57154,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194000Z" creationid="firelinux" creationdate="20260403T194000Z">
         <seg>A fórmula é</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Formula options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201943Z" creationid="olivier" creationdate="20261006T201943Z">
+        <seg>Opções de fórmula</seg>
       </tuv>
     </tu>
     <tu>
@@ -60025,6 +60479,23 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Grid options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T212829Z" creationid="olivier" creationdate="20261006T212829Z">
+        <seg>Opções da grade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grid section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213117Z" creationid="olivier" creationdate="20261006T213117Z">
+        <seg>Seção Grade</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Grids</seg>
       </tuv>
@@ -60735,6 +61206,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T124920Z" creationid="olivier-tdf" creationdate="20250117T124920Z">
         <seg>Defina o formato CSV para o seu arquivo, incluindo o conjunto de caracteres, o delimitador de campo e o delimitador de string (texto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Here you can set the unit of distance for the spacing between horizontal and vertical grid points and subdivisions (intermediate points) of the grid.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213232Z" creationid="olivier" creationdate="20261006T213232Z">
+        <seg>Aqui você pode definir a unidade de distância para o espaçamento entre pontos de grade horizontais e verticais e subdivisões (pontos intermediários) da grade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65874,6 +66354,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you do not need to update your large spreadsheet data immediately, you can postpone the recalculation to a better time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202701Z" creationid="olivier" creationdate="20261006T202701Z">
+        <seg>Se não precisar atualizar sua planilha grande imediatamente, poderá adiar o recálculo para um momento adequado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you do not specify a template when you start a new spreadsheet, then that new spreadsheet is based on the included Calc default template.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T120247Z" creationid="timotheonb" creationdate="20260602T120247Z">
@@ -65918,6 +66406,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T084447Z" creationid="olivier-tdf" creationdate="20250701T084447Z">
         <seg>Se seguiu todas as etapas acima, macro de nome &lt;f0&gt;EnterMyName&lt;/f0&gt; foi criada dentro do módulo selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have activated the snap grid but wish to move or create individual objects without snap positions, &lt;s0/&gt;press the &lt;f1&gt;Ctrl&lt;/f1&gt; key to deactivate the snap grid for as long as needed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213107Z" creationid="olivier" creationdate="20261006T213107Z">
+        <seg>Se você ativou a grade de encaixe, mas deseja mover ou criar objetos individuais sem posições de encaixe, &lt;s0/&gt;pressione a tecla &lt;f1&gt;Ctrl&lt;/f1&gt; para desativar a grade de encaixe pelo tempo que for necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66198,6 +66694,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175247Z" creationid="olivier" creationdate="20260926T175247Z">
         <seg>Se gravar alterações, salvar várias versões ou incluir informações ou anotações ocultas em seus documentos e não quiser que alguns dos destinatários vejam essas informações, poderá definir avisos para lembrá-lo de remover essas informações ou fazer com que o LibreOffice remova algumas informações automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>If you regularly open or save to Microsoft Excel formats, you may wish to use one of the Excel syntaxes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201801Z" creationid="olivier" creationdate="20261006T201801Z">
+        <seg>Se você abrir ou salvar regularmente em formatos do Microsoft Excel, convém usar uma das sintaxes do Excel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66950,6 +67455,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203458Z" creationid="tulio" creationdate="20250918T005816Z">
         <seg>Figuras, como logotipos corporativos e fotografias, são provavelmente os tipos mais comuns de gráficos adicionados a um documento de planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Immediately deletes contents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205612Z" creationid="olivier" creationdate="20261006T205612Z">
+        <seg>Exclui imediatamente o conteúdo</seg>
       </tuv>
     </tu>
     <tu>
@@ -68875,6 +69389,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Scope&lt;/f0&gt; drop-down list in the upper right of the &lt;f1&gt;Customize&lt;/f1&gt; dialog, choose whether to save this changed menu for Calc or for a selected document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214854Z" creationid="olivier" creationdate="20261006T214854Z">
+        <seg>Na lista suspensa &lt;f0&gt;Escopo&lt;/f0&gt; no canto superior direito da caixa de diálogo &lt;f1&gt;Personalizar&lt;/f1&gt;, escolha se deseja salvar este menu alterado para o Calc ou para um documento selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In the &lt;f0&gt;Scope&lt;/f0&gt; drop-down list, the LibreOffice module that is open appears as the selected module.</seg>
       </tuv>
@@ -68920,6 +69443,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T102007Z" creationid="timotheonb" creationdate="20250531T102007Z">
         <seg>No painel &lt;f0&gt;Slides&lt;/f0&gt; ou na visualização &lt;f1&gt;Organizador de slides&lt;/f1&gt; no Espaço de trabalho selecione o slide para adicionar som ou música.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Target&lt;/f0&gt; drop-down list, select the menu that you want to customize.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214925Z" creationid="olivier" creationdate="20261006T214925Z">
+        <seg>Na lista suspensa &lt;f0&gt;Destino&lt;/f0&gt;, selecione o menu que deseja personalizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69429,6 +69960,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the latter case, one color will apply to all changes made by that author.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T204314Z" creationid="olivier" creationdate="20261006T204314Z">
+        <seg>Neste último caso, uma só cor será aplicada a todas as alterações feitas por esse autor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the other LibreOffice modules, the dialog only has four tabs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T031324Z" creationid="olivier" creationdate="20250321T031324Z">
@@ -69914,6 +70453,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134222Z" creationid="olivier-tdf" creationdate="20250303T134222Z">
         <seg>Aumenta ou diminui o valor de uma variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Increases row height</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T212657Z" creationid="olivier" creationdate="20261006T212657Z">
+        <seg>Aumenta a altura da linha</seg>
       </tuv>
     </tu>
     <tu>
@@ -72921,6 +73469,23 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Key Binding</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205537Z" creationid="olivier" creationdate="20261006T205537Z">
+        <seg>Associação de teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Key Bindings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205153Z" creationid="olivier" creationdate="20261006T205153Z">
+        <seg>Associação de teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Key combinations grayed in Customize dialog</seg>
       </tuv>
@@ -75594,6 +76159,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Loading a large spreadsheet file can take a long time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202548Z" creationid="olivier" creationdate="20261006T202548Z">
+        <seg>Carregar um arquivo de planilha grande pode levar muito tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Loading additional master slides</seg>
       </tuv>
@@ -76994,6 +77568,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Menu content</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214237Z" creationid="olivier" creationdate="20261006T214237Z">
+        <seg>Conteúdo do menu</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Menu customization</seg>
       </tuv>
@@ -77587,6 +78170,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Modifying an existing menu</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214440Z" creationid="olivier" creationdate="20261006T214440Z">
+        <seg>Modificar um menu existente</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Modifying charts</seg>
       </tuv>
@@ -77980,6 +78572,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most of the defaults are identical, but there are some differences.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205238Z" creationid="olivier" creationdate="20261006T205238Z">
+        <seg>A maioria das associações são idênticas, mas existem algumas diferenças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most of the fields are similar to those in other components of LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212750Z" creationid="olivier-tdf" creationdate="20250116T212750Z">
@@ -78064,6 +78664,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T004602Z" creationid="olivier" creationdate="20250318T004602Z">
         <seg>A maioria dos usuários não terá necessidade de usar isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Most users will not need to change the default setting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202358Z" creationid="olivier" creationdate="20261006T202358Z">
+        <seg>A maioria dos usuários não precisará alterar a configuração padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80581,6 +81190,23 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ODF spreadsheet (not saved by LibreOffice)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202744Z" creationid="olivier" creationdate="20261006T202744Z">
+        <seg>Planilha ODF (que não foi salva pelo LibreOffice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>ODF spreadsheets saved in Calc will honor &lt;f0&gt;Never recalculate&lt;/f0&gt; and &lt;f1&gt;Always recalculate&lt;/f1&gt; options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T203203Z" creationid="olivier" creationdate="20261006T203203Z">
+        <seg>As planilhas ODF salvas no Calc honrarão as opções &lt;f0&gt;Nunca recalcular&lt;/f0&gt; e &lt;f1&gt;Sempre recalcular&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ODP presentations can be opened by other presentation software, or exported in different presentation formats.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250410T182557Z" creationid="timot" creationdate="20250410T182557Z">
@@ -81085,6 +81711,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;LibreOffice Calc – Changes&lt;/f0&gt; page, you can assign specific colors for insertions, deletions, and other changes, or you can let Calc assign colors based on the author of the change.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T204240Z" creationid="olivier" creationdate="20261006T204240Z">
+        <seg>Na página &lt;f0&gt;LibreOffice Calc – Alterações&lt;/f0&gt;, você pode atribuir cores específicas para inserções, exclusões e outras alterações, ou pode permitir que o Calc atribua cores com base no autor da alteração.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>On the &lt;f0&gt;LibreOffice Calc – Defaults&lt;/f0&gt; page you can enter the number of sheets to be opened by default when you start a new spreadsheet, and either accept the default sheet prefix or type a new one.</seg>
       </tuv>
@@ -81187,6 +81822,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T220449Z" creationid="timot" creationdate="20250409T220449Z">
         <seg>Na ava &lt;f1&gt;Referências cruzadas&lt;/f1&gt; (Figura&lt;t2&gt;31&lt;/t2&gt;), na lista &lt;f3&gt;Tipo&lt;/f3&gt;, selecione o tipo de item a ser referenciado (por exemplo,&lt;f4&gt;Títulos&lt;/f4&gt; ou&lt;f5&gt;Figura&lt;/f5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the &lt;f1&gt;Customize&lt;/f1&gt; dialog, go to the &lt;f2&gt;Menus&lt;/f2&gt; tab (Figure &lt;t3&gt;27&lt;/t3&gt;) or the &lt;f4&gt;Context Menus&lt;/f4&gt; tab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214324Z" creationid="olivier" creationdate="20261006T214324Z">
+        <seg>Na caixa de diálogo &lt;f1&gt;Personalizar&lt;/f1&gt;, vá para a aba &lt;f2&gt;Menus&lt;/f2&gt; (Figura &lt;t3&gt;27&lt;/t3&gt;) ou para a aba &lt;f4&gt;Menus de contexto&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83030,6 +83673,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>OpenOffice.org legacy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205541Z" creationid="olivier" creationdate="20261006T205541Z">
+        <seg>Legado do OpenOffice.org</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>OpenPGP encryption</seg>
       </tuv>
@@ -83107,6 +83759,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260401T000245Z" creationid="vitor" creationdate="20260401T000245Z">
         <seg>Abrir a caixa de diálogo da Série de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens Delete Contents dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205604Z" creationid="olivier" creationdate="20261006T205604Z">
+        <seg>Abre a caixa de diálogo Excluir conteúdo</seg>
       </tuv>
     </tu>
     <tu>
@@ -83399,6 +84059,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opens the Selection List dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T212504Z" creationid="olivier" creationdate="20261006T212504Z">
+        <seg>Abre a caixa de diálogo Lista de seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opens the Templates dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134642Z" creationid="olivier-tdf" creationdate="20250303T134642Z">
@@ -83659,6 +84327,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T191037Z" creationid="olivier" creationdate="20250316T191037Z">
         <seg>Funcionalidades opcionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Optional Row height</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T203544Z" creationid="olivier" creationdate="20261006T203544Z">
+        <seg>Altura ideal da linha</seg>
       </tuv>
     </tu>
     <tu>
@@ -87053,6 +87729,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Print options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213433Z" creationid="olivier" creationdate="20261006T213433Z">
+        <seg>Opções de impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Print previewing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T231622Z" creationid="olivier-tdf" creationdate="20250224T231622Z">
@@ -87993,6 +88677,31 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260314T154250Z" creationid="olivier" creationdate="20260314T154250Z">
         <seg>Recalcular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Recalculating formulas can take significant time while loading very large files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202517Z" creationid="olivier" creationdate="20261006T202517Z">
+        <seg>Recalcular fórmulas pode levar um tempo significativo ao carregar arquivos muito grandes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recalculation on File Load</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202453Z" creationid="olivier" creationdate="20261006T202453Z">
+        <seg>Recalcular ao carregar arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recent versions of Calc cache spreadsheet formula results in its ODF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202904Z" creationid="olivier" creationdate="20261006T202904Z">
+        <seg>Versões recentes do Calc colocam em cache os resultados das fórmulas em seu arquivo ODF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89297,6 +90006,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135455Z" creationid="olivier" creationdate="20250223T135455Z">
         <seg>Resolução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Resolution and Subdivision sections</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213220Z" creationid="olivier" creationdate="20261006T213220Z">
+        <seg>Seções de resolução e subdivisão</seg>
       </tuv>
     </tu>
     <tu>
@@ -94805,6 +95523,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select header of range;&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T212632Z" creationid="olivier" creationdate="20261006T212632Z">
+        <seg>Seleciona o cabeçalho do intervalo;&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select how many slides are printed on one sheet of paper &lt;f0&gt;f&lt;/f0&gt;rom the drop-down list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T150340Z" creationid="olivier" creationdate="20250223T150340Z">
@@ -97974,6 +98700,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Separators</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202203Z" creationid="olivier" creationdate="20261006T202203Z">
+        <seg>Separadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Separators are used in functions to distinguish points in the range used in the function: the symbols used between elements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202252Z" creationid="olivier" creationdate="20261006T202252Z">
+        <seg>Os separadores são utilizados em funções para distinguir pontos no intervalo usado na função: os símbolos usados entre os elementos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sequence Checking</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023432Z" creationid="olivier" creationdate="20250321T023432Z">
@@ -100984,6 +101726,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sort lists</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T203742Z" creationid="olivier" creationdate="20261006T203742Z">
+        <seg>Listas ordenadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort lists are utilized for various purposes beyond just sorting, such as populating a series of cells during data entry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T204013Z" creationid="olivier" creationdate="20261006T204013Z">
+        <seg>As listas de ordenação são utilizadas para vários fins além de apenas ordenação, como preencher uma série de células durante a entrada de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sort options</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260401T012223Z" creationid="firelinux" creationdate="20260401T012223Z">
@@ -102958,6 +103716,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Syntax is the format in which formulas are written.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201750Z" creationid="olivier" creationdate="20261006T201750Z">
+        <seg>Sintaxe é o formato no qual as fórmulas são escritas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>T602 Document (.602, .txt)</seg>
       </tuv>
@@ -104735,6 +105502,23 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;LibreOffice Calc – Compatibility&lt;/f0&gt; page provides a quick way to switch between LibreOffice’s default key bindings and OpenOffice.org’s legacy default key bindings for Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205209Z" creationid="olivier" creationdate="20261006T205209Z">
+        <seg>A página &lt;f0&gt;LibreOffice Calc – Compatibilidade&lt;/f0&gt; fornece uma maneira rápida de alternar entre as associações de teclas padrão do LibreOffice e as associações de teclas padrão herdadas do OpenOffice.org para o Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;LibreOffice Calc – Grid&lt;/f0&gt; page defines the grid settings for spreadsheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T212927Z" creationid="olivier" creationdate="20261006T212927Z">
+        <seg>A página &lt;f0&gt;LibreOffice Calc – Grade&lt;/f0&gt; define as configurações da grade para planilhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The &lt;f0&gt;LibreOffice Macros&lt;/f0&gt; are stored with the application runtime code, which may not be editable to you unless you have administrator rights in LO.</seg>
       </tuv>
@@ -106416,6 +107200,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Menus tab of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214435Z" creationid="olivier" creationdate="20261006T214435Z">
+        <seg>A aba Menus da caixa de diálogo Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Move/Copy Sheet dialog (Figure &lt;t0&gt;20&lt;/t0&gt;) provides greater flexibility and, in particular, allows you to move or copy a sheet into a different spreadsheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T154950Z" creationid="olivier" creationdate="20250121T154950Z">
@@ -107272,6 +108064,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The actions associated with the two key binding choices are shown in the table below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205531Z" creationid="olivier" creationdate="20261006T205531Z">
+        <seg>As ações associadas às duas opções de vinculação são mostradas na tabela abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The active cell is always indicated by highlighting its corresponding column and row header cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T121010Z" creationid="olivier-tdf" creationdate="20250117T121010Z">
@@ -107495,6 +108295,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The average of eight cells, one of which contains the value zero, is not the same as the average of eight cells, one of which is empty (an empty cell is not included in determining the average).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201616Z" creationid="olivier" creationdate="20261006T201616Z">
+        <seg>A média de oito células, uma das quais contém o valor zero, não é a mesma que a média de oito células, uma das quais está vazia (uma célula vazia não está incluída na determinação da média).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The background does not show when printed and can be turned off in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f1&gt;.</seg>
       </tuv>
@@ -107620,6 +108429,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T165442Z" creationid="olivier" creationdate="20250222T165442Z">
         <seg>As categorias são específicas para cada módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The cell C4 can be referenced in three ways:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201836Z" creationid="olivier" creationdate="20261006T201836Z">
+        <seg>A célula C4 pode ser referenciada de três maneiras:</seg>
       </tuv>
     </tu>
     <tu>
@@ -108633,6 +109451,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The default names for functions in Calc are those for the user's locale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202057Z" creationid="olivier" creationdate="20261006T202057Z">
+        <seg>Os nomes padrão para funções no Calc são aqueles para a localidade do usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The default pivot point is at the top left of the chart.</seg>
       </tuv>
@@ -109385,6 +110212,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261004T183403Z" creationid="olivier" creationdate="20261004T183403Z">
         <seg>Os seguintes elementos da janela da planilha podem ser tornados visíveis ou invisíveis: cabeçalhos de coluna e linha, barras de rolagem horizontais e verticais, guias de planilha e, se um contorno tiver sido definido, símbolos de contorno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following examples focus on the &lt;f5&gt;Menus&lt;/f5&gt; tab but the &lt;f6&gt;Context Menus&lt;/f6&gt; tab is similar in appearance and behavior.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214349Z" creationid="olivier" creationdate="20261006T214349Z">
+        <seg>Os exemplos a seguir se concentram na aba &lt;f5&gt;Menus&lt;/f5&gt;, mas a aba &lt;f6&gt;Menus de contexto&lt;/f6&gt; é semelhante em aparência e comportamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112627,6 +113462,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The selections made here are applied when change recording is enabled by &lt;f1&gt;Edit &gt; Track Changes &gt; Record&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205009Z" creationid="olivier" creationdate="20261006T205009Z">
+        <seg>As escolhas feitas aqui são aplicadas quando a gravação de alterações for ativada em &lt;f1&gt;Editar &gt; Registrar alterações &gt; Registrar&lt;/f1&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The sequence can be changed later.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T192054Z" creationid="timotheonb" creationdate="20250530T192054Z">
@@ -114829,6 +115672,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These lists are organized in a specific sequence, but not necessarily in alphabetical or numerical order; for instance, the days of the week.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T204038Z" creationid="olivier" creationdate="20261006T204038Z">
+        <seg>Essas listas são organizadas em uma sequência específica, não necessariamente em ordem alfabética ou numérica; por exemplo, os dias da semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These macros can be edited and enhanced after recording with the built-in LibreOffice Basic Integrated Development Environment (IDE).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="rafael" changedate="20250220T001456Z" creationid="rafael" creationdate="20250220T001456Z">
@@ -114937,6 +115788,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T195515Z" creationid="olivier-tdf" creationdate="20250109T195515Z">
         <seg>Essas páginas &lt;f6&gt;dão&lt;/f6&gt; acesso aos Guias do Usuário do LibreOffice e outras informações úteis que podem ser abertas no navegador padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>These points are not printed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213206Z" creationid="olivier" creationdate="20261006T213206Z">
+        <seg>Esses pontos não são impressos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116237,6 +117097,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This feature helps Calc to recalculate a large ODF spreadsheet saved by Calc faster.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202919Z" creationid="olivier" creationdate="20261006T202919Z">
+        <seg>Esse recurso ajuda o Calc a recalcular uma planilha ODF grande salva pelo Calc mais rapidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This feature is also known as “splitting the window.” The screen can be split horizontally, vertically, or both at once (which would give you up to four sections of the sheet in view at one time).</seg>
       </tuv>
@@ -117254,6 +118123,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This option prevents inserting multiple hyperlinks in a cell when Excel files are edited, in order to be interoperable with Excel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T212813Z" creationid="olivier" creationdate="20261006T212813Z">
+        <seg>Essa opção impede a inserção de vários hiperlinks numa célula quando os arquivos do Excel são editados, a fim de serem interoperáveis com o Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This option replaces one or two hyphens, under certain conditions, with the corresponding dash.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213906Z" creationid="timot" creationdate="20250205T160803Z">
@@ -117482,6 +118359,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T215237Z" creationid="olivier" creationdate="20250324T215237Z">
         <seg>Essa configuração pode criar arquivos grandes quando usada com fotografias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This setting helps to shorten load times by controlling the optimal row height calculation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T203642Z" creationid="olivier" creationdate="20261006T203642Z">
+        <seg>Esta configuração ajuda a encurtar os tempos de carregamento, controlando o cálculo ideal da altura da linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118254,6 +119140,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To add another data series, click &lt;f0&gt;Add&lt;/f0&gt;, then select the new series and click on the required color.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213930Z" creationid="olivier" creationdate="20261006T213930Z">
+        <seg>Para adicionar outra série de dados, clique em &lt;f0&gt;Adicionar&lt;/f0&gt;, selecione a nova série e clique na cor desejada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To add data validation to a cell, select that cell and use &lt;f0&gt;Data &gt; Validity&lt;/f0&gt; on the Menu bar to define which types of content can be entered in the cell.</seg>
       </tuv>
@@ -118299,6 +119194,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T112556Z" creationid="timotheonb" creationdate="20250530T112556Z">
         <seg>Para adicionar slides mestres, clique em &lt;f0&gt;Carregar&lt;/f0&gt; para abrir a caixa de diálogo Carregar slide mestre (Figura &lt;t1&gt;36&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To add new colors to the choices, see &lt;f0&gt;&lt;bf1&gt;Adding custom colors&lt;/bf1&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt; &lt;bf3&gt;below&lt;/bf3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213818Z" creationid="olivier" creationdate="20261006T213818Z">
+        <seg>Para adicionar novas cores às opções, consulte &lt;f0&gt;&lt;bf1&gt;Adicionar de cores personalizadas&lt;/bf1&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt; &lt;bf3&gt;abaixo&lt;/bf3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118923,6 +119826,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T204413Z" creationid="olivier" creationdate="20250123T204413Z">
         <seg>Para alterar o formato de data ou hora usado pelo Calc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To change the default color for a data series, select it in the left-hand column and then click on the required color in the color table.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213830Z" creationid="olivier" creationdate="20261006T213830Z">
+        <seg>Para alterar a cor padrão de uma série de dados, selecione-a na coluna da esquerda e clique na cor desejada na tabela de cores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119579,6 +120491,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T141124Z" creationid="tulio" creationdate="20250211T141124Z">
         <seg>Para personalizar uma barra de ferramentas, é possível adicionar ferramentas listadas em &lt;f0&gt;Botões Visíveis&lt;/f0&gt; ou adicionar novas ferramentas a uma barra de ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To customize menus, choose &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214300Z" creationid="olivier" creationdate="20261006T214300Z">
+        <seg>Para personalizar os menus, escolha &lt;f0&gt;Ferramentas &gt; Personalizar&lt;/f0&gt; na barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120736,6 +121657,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To illustrate the differences between syntaxes, assume a spreadsheet contains two sheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201826Z" creationid="olivier" creationdate="20261006T201826Z">
+        <seg>Para ilustrar as diferenças entre as sintaxes, suponha que o documento contenha duas planilhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To illustrate the use of regular expressions we can use a sales data spreadsheet, the first few rows of which are shown in Figure &lt;t0&gt;34&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165350Z" creationid="firelinux" creationdate="20260403T165350Z">
@@ -121204,6 +122133,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T114035Z" creationid="timotheonb" creationdate="20250530T114035Z">
         <seg>Para modificar um slide mestre da seguinte maneira:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To modify an existing menu:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214520Z" creationid="olivier" creationdate="20261006T214520Z">
+        <seg>Para modificar um menu existente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -125145,6 +126082,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Use &lt;f0&gt;Tools &gt; Options &gt; Charts &gt; Default Colors&lt;/f0&gt; to change the default colors used for charts or to add new data series to the list provided.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213743Z" creationid="olivier" creationdate="20261006T213743Z">
+        <seg>Use &lt;f0&gt;Ferramentas &gt; Opções &gt; Gráficos &gt; Cores padrão&lt;/f0&gt; para alterar as cores padrão usadas para gráficos ou para adicionar novas séries de dados à lista fornecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Use &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt; on the Menu bar and select the &lt;f1&gt;Enable macro recording (maybe limited)&lt;/f1&gt; option to enable the macro recorder.</seg>
       </tuv>
@@ -125206,6 +126152,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T193419Z" creationid="firelinux" creationdate="20260403T193419Z">
         <seg>Use a Escala de Cores para definir a cor de fundo das células dependendo dos valores dos dados nessas células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use English function names</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202047Z" creationid="olivier" creationdate="20261006T202047Z">
+        <seg>Utilizar nomes ingleses das funções</seg>
       </tuv>
     </tu>
     <tu>
@@ -125630,6 +126584,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261004T190439Z" creationid="olivier" creationdate="20261004T190439Z">
         <seg>Use a página &lt;f0&gt;LibreOffice Calc – Calcular&lt;/f0&gt; (Figura &lt;t1&gt;20&lt;/t1&gt;) para definir as configurações de cálculo para planilhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the &lt;f0&gt;LibreOffice Calc – Formula&lt;/f0&gt; page (Figure &lt;t1&gt;21&lt;/t1&gt;) to specify the following formula options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201711Z" creationid="olivier" creationdate="20261006T201711Z">
+        <seg>Utilize a página &lt;f0&gt;LibreOffice Calc – Fórmula&lt;/f0&gt; (Figura &lt;t1&gt;21&lt;/t1&gt;) para especificar as seguintes opções de fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the &lt;f0&gt;LibreOffice Calc – Print&lt;/f0&gt; page to choose defaults for printing spreadsheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213511Z" creationid="olivier" creationdate="20261006T213511Z">
+        <seg>Utilize a página &lt;f0&gt;LibreOffice Calc – Imprimir&lt;/f0&gt; para escolher os padrões para imprimir planilhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126826,6 +127796,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using a grid helps &lt;s1/&gt;determine the exact position of any charts or other objects you may add to a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213008Z" creationid="olivier" creationdate="20261006T213008Z">
+        <seg>A grade ajuda a &lt;s1/&gt;determinar a posição exata de quaisquer gráficos ou outros objetos que possa adicionar a uma planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using a macro as a function</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260520T000256Z" creationid="vitor" creationdate="20260520T000256Z">
@@ -127951,6 +128929,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260925T111056Z" creationid="olivier" creationdate="20260925T111056Z">
         <seg>Menu da aba Exibir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View, define, delete, and edit sort lists on the &lt;f0&gt;LibreOffice Calc – Sort Lists&lt;/f0&gt; page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T203942Z" creationid="olivier" creationdate="20261006T203942Z">
+        <seg>Visualize, defina, exclua e edite listas de ordenação na página &lt;f0&gt;LibreOffice Calc – Listas ordenadas&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130090,6 +131076,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T164257Z" creationid="firelinux" creationdate="20260403T164257Z">
         <seg>Quando a primeira linha ou coluna for identificada como um cabeçalho de dados, ela não será tratada como um registro duplicado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>When the language set by locale is not English, you may wish to express functions in English; if so, select this option to change formula input and display, Function Wizard, and formula tips.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202157Z" creationid="olivier" creationdate="20261006T202157Z">
+        <seg>Quando o idioma definido pela localidade não é o inglês, você pode desejar expressar funções em inglês; em caso afirmativo, selecione esta opção para alterar a entrada e exibição da fórmula, Assistente de Função e dicas de fórmula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132421,6 +133416,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You can add and rearrange menus on the Menu bar or context (right-click) menus; add, rearrange, and remove commands on menus; and make other changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214252Z" creationid="olivier" creationdate="20261006T214252Z">
+        <seg>Você pode adicionar e reorganizar menus na barra de menus ou menus de contexto (clique com o botão direito do mouse); adicionar, reorganizar e remover comandos em menus; e fazer outras alterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You can add your own corrections or special characters or change those supplied with LibreOffice.</seg>
       </tuv>
@@ -132870,6 +133874,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also set this grid in line with the snap grid.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213036Z" creationid="olivier" creationdate="20261006T213036Z">
+        <seg>Você também pode definir essa grade de acordo com a grade de encaixe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also specify that the ranges or tables can be updated every &lt;f1&gt;n&lt;/f1&gt; seconds.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T002048Z" creationid="olivier" creationdate="20250120T002048Z">
@@ -133242,6 +134254,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260416T223309Z" creationid="firelinux" creationdate="20260403T194246Z">
         <seg>É possível personalizar estilos existentes ou criar novos para atender às suas necessidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You can customize menus, toolbars, keyboard shortcuts, and the tabbed interface; add new menus and toolbars; and assign macros to events.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214124Z" creationid="olivier" creationdate="20261006T214124Z">
+        <seg>Você pode personalizar menus, barras de ferramentas, atalhos de teclado e a interface com guias; adicionar novos menus e barras de ferramentas; e atribuir macros a eventos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133722,6 +134743,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T125824Z" creationid="timotheonb" creationdate="20260616T125824Z">
         <seg>Só se pode excluir modelos que voce criou ou importou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You can override these for individual print jobs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213537Z" creationid="olivier" creationdate="20261006T213537Z">
+        <seg>Você pode substituí-los para trabalhos de impressão individuais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135281,6 +136311,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>compatibility</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205112Z" creationid="olivier" creationdate="20261006T205112Z">
+        <seg>compatibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>conditional</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184804Z" creationid="firelinux" creationdate="20260403T184804Z">
@@ -135401,6 +136439,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>customizing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214056Z" creationid="olivier" creationdate="20261006T214056Z">
+        <seg>personalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>dBASE (.dbf)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T204403Z" creationid="olivier" creationdate="20250324T204403Z">
@@ -135437,6 +136483,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260328T185430Z" creationid="vitor" creationdate="20260328T184049Z">
         <seg>Intervalo de dados e série de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>default colors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213634Z" creationid="olivier" creationdate="20261006T213634Z">
+        <seg>cores padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -135825,6 +136879,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>formula</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201622Z" creationid="olivier" creationdate="20261006T201622Z">
+        <seg>fórmula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>freezing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251021T232615Z" creationid="timotheonb" creationdate="20251021T232615Z">
@@ -135877,6 +136939,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T192237Z" creationid="firelinux" creationdate="20260403T192237Z">
         <seg>maior ou igual ao valor definido pelo usuário na caixa de texto à direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>grid</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T212824Z" creationid="olivier" creationdate="20261006T212824Z">
+        <seg>grade</seg>
       </tuv>
     </tu>
     <tu>
@@ -136713,6 +137783,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>no action in empty cell</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T212649Z" creationid="olivier" creationdate="20261006T212649Z">
+        <seg>sem ação em célula vazia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>not between the two values defined in the text boxes on the right – lower and upper values – including the boundary values themselves.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T192246Z" creationid="firelinux" creationdate="20260403T192246Z">
@@ -137445,6 +138523,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165641Z" creationid="firelinux" creationdate="20260403T165641Z">
         <seg>encolhendo para caber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sort lists</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261006T203736Z" creationid="olivier" creationdate="20261006T203736Z">
+        <seg>listas ordenadas</seg>
       </tuv>
     </tu>
     <tu>
