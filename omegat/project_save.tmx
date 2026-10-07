@@ -28574,6 +28574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261007T144158Z" creationid="olivier" creationdate="20261007T144158Z">
+        <seg>Escolha &lt;f0&gt;Ferramentas &gt; Personalizar&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose &lt;f0&gt;Tools &gt; Options &lt;/f0&gt;to open the Options dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260925T200341Z" creationid="olivier" creationdate="20260925T200341Z">
@@ -36412,6 +36420,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261007T131841Z" creationid="olivier" creationdate="20261007T131841Z">
         <seg>Criar menus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Creating a new toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261007T144127Z" creationid="olivier" creationdate="20261007T144127Z">
+        <seg>Criar barras de ferramentas</seg>
       </tuv>
     </tu>
     <tu>
@@ -120794,6 +120811,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To create a new toolbar:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261007T144135Z" creationid="olivier" creationdate="20261007T144135Z">
+        <seg>Para criar barras de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To create a pivot table, choose &lt;f0&gt;Data &gt; Pivot Table &gt; Insert or Edit&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Insert or Edit Pivot Table&lt;/f1&gt; icon on the Standard toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T192326Z" creationid="olivier-tdf" creationdate="20250209T192326Z">
@@ -122222,6 +122247,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To insert a separator, use the command in the &lt;f0&gt;Insert&lt;/f0&gt; drop-down under &lt;f1&gt;Customize&lt;/f1&gt; at the bottom right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261007T144014Z" creationid="olivier" creationdate="20261007T144014Z">
+        <seg>Para inserir um separador, use os comandos na lista suspensa &lt;f0&gt;Inserir&lt;/f0&gt; em &lt;f1&gt;Personalizar&lt;/f1&gt; no canto inferior direito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To insert a soft hyphen inside a word, click where you want the hyphen to appear (when needed) and press &lt;f0&gt;Ctrl+hyphen&lt;/f0&gt; or use &lt;f1&gt;Insert &gt; Formatting Mark &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;S&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;oft Hyphen&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T112857Z" creationid="timot" creationdate="20250224T112857Z">
@@ -123302,6 +123335,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To remove a command from a toolbar, select it in the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list and click the large left arrow.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261007T143902Z" creationid="olivier" creationdate="20261007T143902Z">
+        <seg>Para remover um comando de uma barra de ferramentas, selecione-o na lista de &lt;f0&gt;Comandos atribuídos&lt;/f0&gt; e clique na seta grande para a esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To remove a command from the selected menu, click on it in the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list and then click the left arrow.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261007T130947Z" creationid="olivier" creationdate="20261007T130947Z">
@@ -123435,6 +123476,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261007T131626Z" creationid="olivier" creationdate="20261007T131626Z">
         <seg>Para renomear um item de menu, selecione-o na lista de &lt;f0&gt;Comandos atribuídos&lt;/f0&gt; e escolha &lt;f1&gt;Renomear&lt;/f1&gt; no menu suspenso &lt;f2&gt;Modificar&lt;/f2&gt; abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To rename a toolbar item, select it in the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list and choose &lt;f1&gt;Rename&lt;/f1&gt; in the &lt;f2&gt;Modify&lt;/f2&gt; drop-down.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261007T144052Z" creationid="olivier" creationdate="20261007T144052Z">
+        <seg>Para renomear um item da barra, selecione-o na lista de &lt;f0&gt;Comandos atribuídos&lt;/f0&gt; e escolha &lt;f1&gt;Renomear&lt;/f1&gt; no menu suspenso &lt;f2&gt;Modificar&lt;/f2&gt; abaixo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124076,6 +124125,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251021T232056Z" creationid="timotheonb" creationdate="20251021T232056Z">
         <seg>Para exibir planilhas ocultas, clique com o botão direito em qualquer guia e selecione &lt;f0&gt;Mostrar planilha&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To show or hide a command assigned to a toolbar, mark or clear the checkbox next to its icon in the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261007T143923Z" creationid="olivier" creationdate="20261007T143923Z">
+        <seg>Para mostrar ou ocultar um comando atribuído a uma barra de ferramentas, marque ou desmarque a caixa de seleção ao lado de seu ícone na lista de &lt;f0&gt;Comandos atribuídos&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127042,6 +127099,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the &lt;f0&gt;Reset&lt;/f0&gt; button to reset Calc’s toolbar configuration to the default settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261007T144121Z" creationid="olivier" creationdate="20261007T144121Z">
+        <seg>Use o botão &lt;f0&gt;Redefinir&lt;/f0&gt; para redefinir a configuração da barra do Calc para as configurações padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the &lt;f0&gt;Scale&lt;/f0&gt; tab of the Axis dialog to specify the intervals between grid lines.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T232329Z" creationid="vitor" creationdate="20260407T232329Z">
@@ -127639,6 +127704,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T222751Z" creationid="olivier" creationdate="20250307T222751Z">
         <seg>Use as setas para cima e para baixo em &lt;f0&gt;Comandos atribuídos&lt;/f0&gt; para colocar a ferramenta na posição desejada na barra de ferramentas selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Use the up and down arrows in the far right to position the command in the toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261007T143845Z" creationid="olivier" creationdate="20261007T143845Z">
+        <seg>Use as setas para cima e para baixo na extrema direita para posicionar o comando na barra de ferramentas.</seg>
       </tuv>
     </tu>
     <tu>
