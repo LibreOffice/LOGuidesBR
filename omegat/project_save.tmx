@@ -13582,6 +13582,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Pivot table example of a car dealer&lt;/s0&gt;&lt;s1&gt;Pivot table example of a car dealer&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T174551Z" creationid="olivier" creationdate="20261008T174551Z">
+        <seg>&lt;s0&gt;Exemplo de tabela dinâmica de um revendedor de carros&lt;/s0&gt;&lt;s1&gt; Exemplo de tabela dinâmica de um revendedor de carros&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Position and Size dialog – Position and Size tab&lt;/s0&gt;&lt;s1&gt;Position and Size dialog – Position and Size tab&lt;/s1&gt;</seg>
       </tuv>
@@ -26534,6 +26543,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Calc’s automatic recognition of data</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T184639Z" creationid="olivier" creationdate="20261008T184639Z">
+        <seg>Reconhecimento automático de dados do Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Calc’s general support for &lt;f6&gt;OpenFormula&lt;/f6&gt; leads to a level of inherent compatibility with the function set of any other spreadsheet application that follows the same standard.</seg>
       </tuv>
@@ -39311,6 +39329,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Database preconditions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T174628Z" creationid="olivier" creationdate="20261008T174628Z">
+        <seg>Pré-condições do banco de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Database table keyboard shortcuts</seg>
       </tuv>
@@ -48640,6 +48667,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T184251Z" creationid="olivier-tdf" creationdate="20250309T184251Z">
         <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Caixa de diálogo Opções do LibreOffice — Página Dados do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Pivot table example of a car dealer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T174603Z" creationid="olivier" creationdate="20261008T174603Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Exemplo de tabela dinâmica de uma concessionária de automóveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -66024,6 +66060,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T104127Z" creationid="timotheonb" creationdate="20250530T104127Z">
         <seg>Se os dados tiverem que ser analisados ou as fórmulas aplicadas, essas operações serão melhor executadas em uma planilha do Calc e os resultados exibidos em uma planilha do Calc incorporada ou em uma tabela do Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the data is already within a Calc spreadsheet, simpler sorting functions may suffice without the need for a pivot table.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T183429Z" creationid="olivier" creationdate="20261008T183429Z">
+        <seg>Se os dados já estiverem em uma planilha do Calc, funções de ordenação mais simples podem ser suficientes sem a necessidade de uma tabela dinâmica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87292,6 +87336,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T193806Z" creationid="olivier-tdf" creationdate="20250209T193806Z">
         <seg>Gráficos dinâmicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Pivot table example of a car dealer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T174612Z" creationid="olivier" creationdate="20261008T174612Z">
+        <seg>Exemplo de tabela dinâmica de uma concessionária de automóveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -110579,6 +110632,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The data source can come from an external file or database.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T183410Z" creationid="olivier" creationdate="20261008T183410Z">
+        <seg>A fonte de dados pode vir de um arquivo ou banco de dados externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The data source linked to the document and its view are always loaded with the document, whether or not this option is selected.</seg>
       </tuv>
@@ -111284,6 +111346,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250728T153332Z" creationid="firelinux" creationdate="20250728T153332Z">
         <seg>A informação pode ser exibida na célula que contém o erro (Figure &lt;t0&gt;1&lt;/t0&gt;), ou na barra de Status (Figure &lt;t1&gt;2&lt;/t1&gt;) ou mesmo em ambas, dependendo do tipo de erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The field names should be in the first row above the data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T183112Z" creationid="olivier" creationdate="20261008T183112Z">
+        <seg>Os nomes dos campos devem estar na primeira linha acima dos dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124288,6 +124359,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To process data in lists, Calc needs to identify where the list is located within the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T184844Z" creationid="olivier" creationdate="20261008T184844Z">
+        <seg>Para processar dados em listas, o Calc precisa identificar onde a lista está localizada na planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To promote an item one level, press &lt;f1&gt;Shift+Tab&lt;/f1&gt;.</seg>
       </tuv>
@@ -125714,6 +125794,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260910T123806Z" creationid="timotheonb" creationdate="20260910T123806Z">
         <seg>Para usar uma ferramenta de desenho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To use a pivot table, you need a list of raw data structured like a database table, with rows representing data sets and columns representing data fields.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T183103Z" creationid="olivier" creationdate="20261008T183103Z">
+        <seg>Para usar uma tabela dinâmica, você precisa de uma lista de dados brutos estruturados como uma tabela de banco de dados, com linhas representando conjuntos de dados e colunas representando campos de dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -138336,6 +138425,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>database preconditions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T174616Z" creationid="olivier" creationdate="20261008T174616Z">
+        <seg>pré-condições do bando de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>default colors</seg>
       </tuv>
@@ -139813,6 +139911,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260915T112917Z" creationid="timotheonb" creationdate="20260915T112917Z">
         <seg>Gráficos de pizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pivot tables</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T174625Z" creationid="olivier" creationdate="20261008T174625Z">
+        <seg>tabelas dinâmicas</seg>
       </tuv>
     </tu>
     <tu>
