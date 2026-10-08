@@ -350,6 +350,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>(Figure &lt;t2&gt;35&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124527Z" creationid="olivier" creationdate="20261008T124527Z">
+        <seg>(Figura &lt;t1&gt;35&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>(For help with selecting these areas, see “&lt;bf3&gt;Selecting chart elements&lt;/bf3&gt;” on page &lt;bf4&gt;8&lt;/bf4&gt;.)</seg>
       </tuv>
@@ -11126,6 +11135,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Customizing a keyboard shortcut&lt;/s0&gt;&lt;s1&gt;Customizing a keyboard shortcut&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124550Z" creationid="olivier" creationdate="20261008T124550Z">
+        <seg>&lt;s0&gt;Personalizar um atalho de teclado&lt;/s0&gt;&lt;s1&gt;Personalizar um atalho de teclado&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Customizing the Enter key&lt;/s0&gt;&lt;s1&gt;Customizing the Enter key&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250120T142934Z" creationid="olivier-tdf" creationdate="20250120T142934Z">
@@ -11266,6 +11283,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T203749Z" creationid="timotheonb" creationdate="20250530T203749Z">
         <seg>&lt;s0&gt;Caixa de diálogo Definir apresentação de slides personalizada&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Definir apresentação de slides personalizada&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Defining a color by picking it from a color chart&lt;/s0&gt;&lt;s1&gt;Defining a color by picking it from a color chart&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133225Z" creationid="olivier" creationdate="20261008T133225Z">
+        <seg>&lt;s0&gt;Definir uma cor por meio de uma cartela de cores&lt;/s0&gt;&lt;s1&gt; Definir uma cor por meio de uma cartela de cores&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Defining a new color&lt;/s0&gt;&lt;s1&gt;Defining a new color&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133139Z" creationid="olivier" creationdate="20261008T133139Z">
+        <seg>&lt;s0&gt;Definir uma nova cor&lt;/s0&gt;&lt;s1&gt;Definir uma nova cor&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14461,6 +14494,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;The Extensions dialog&lt;/s0&gt;&lt;s1&gt;The Extensions dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132925Z" creationid="olivier" creationdate="20261008T132925Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Extensões&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Extensões &lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;The Fontwork Gallery&lt;/s0&gt;&lt;s1&gt;The Fontwork Gallery&lt;/s1&gt;</seg>
       </tuv>
@@ -14498,6 +14540,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214408Z" creationid="olivier" creationdate="20261006T214408Z">
         <seg>&lt;s0&gt;A aba Menus da caixa de diálogo Personalizar&lt;/s0&gt;&lt;s1&gt; A aba Menus da caixa de diálogo Personalizar&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;The Notebookbar tab of the Customize dialog&lt;/s0&gt;&lt;s1&gt;The Notebookbar tab of the Customize dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124244Z" creationid="olivier" creationdate="20261008T124244Z">
+        <seg>&lt;s0&gt;A aba Barra de abas da caixa de diálogo Personalizar&lt;/s0&gt;&lt;s1&gt; A aba Barra de abas da caixa de diálogo Personalizar&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16247,6 +16297,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A browser window will open.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132329Z" creationid="olivier" creationdate="20261008T132329Z">
+        <seg>Uma janela do navegador abrirá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A bulleted (unordered) list is created when you type a hyphen (-), star (*), or plus sign (+), followed by a space or tab at the beginning of a paragraph.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T111621Z" creationid="timot" creationdate="20250221T111621Z">
@@ -16367,10 +16425,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A common use is to assign the “open document” event to run a macro that performs certain setup tasks for the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132049Z" creationid="olivier" creationdate="20261008T132049Z">
+        <seg>Um uso comum é atribuir o evento "abrir documento" para executar uma macro que executa certas tarefas de configuração para o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A complete list of keyboard shortcuts is available in Appendix A.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260226T124407Z" creationid="timotheonb" creationdate="20260226T124407Z">
         <seg>Uma lista completa dos atalhos de teclado está disponível no Apêndice A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A confirmation dialog appears if you are about to overwrite an existing file, otherwise there will be no feedback and the file will be saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131412Z" creationid="olivier" creationdate="20261008T131412Z">
+        <seg>Uma confirmação aparece se  estiver prestes a substituir um arquivo existente, caso contrário, não haverá aviso e o arquivo será salvo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18481,6 +18555,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Adding custom colors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132956Z" creationid="olivier" creationdate="20261008T132956Z">
+        <seg>Adicionar cores personalizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Adding drawing objects to charts</seg>
       </tuv>
@@ -18502,6 +18585,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T201055Z" creationid="olivier-tdf" creationdate="20250308T201055Z">
         <seg>Adicionar fontes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding functionality with extensions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132108Z" creationid="olivier" creationdate="20261008T132108Z">
+        <seg>Adicionar funcionalidade com extensões</seg>
       </tuv>
     </tu>
     <tu>
@@ -19098,6 +19189,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>After making your keyboard shortcut assignments, click the &lt;f0&gt;Save&lt;/f0&gt; button on the right of the Customize dialog (Figure &lt;t1&gt;35&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131259Z" creationid="olivier" creationdate="20261008T131259Z">
+        <seg>Depois de fazer suas atribuições de atalho de teclado, clique no botão &lt;f0&gt;Salvar&lt;/f0&gt; à direita da caixa de diálogo Personalizar (Figura &lt;t1&gt;35&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>After opening LibreOffice again the delete option contains the default setting.</seg>
       </tuv>
@@ -19239,6 +19339,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T144955Z" creationid="olivier" creationdate="20251019T144955Z">
         <seg>Após a mesclagem dos documentos, a caixa de diálogo Gerenciar alterações aparece, mostrando as alterações feitas por mais de um revisor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After the extension is downloaded and saved, return to the &lt;f0&gt;Extensions&lt;/f0&gt; dialog and click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132400Z" creationid="olivier" creationdate="20261008T132400Z">
+        <seg>Depois de baixar a extensão, retorne à caixa de diálogo &lt;f0&gt;Extensões&lt;/f0&gt; e clique em &lt;f1&gt;Adicionar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19567,6 +19675,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250404T203950Z" creationid="olivier" creationdate="20250404T203950Z">
         <seg>Todos os documentos do LibreOffice são baseados em modelos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>All existing shortcut keys for the currently selected &lt;f0&gt;Function&lt;/f0&gt; are listed in the &lt;f1&gt;Keys&lt;/f1&gt; selection box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131014Z" creationid="olivier" creationdate="20261008T131014Z">
+        <seg>Todas as teclas de atalho existentes para a &lt;f0&gt;Função&lt;/f0&gt; atualmente selecionada estão listadas na caixa de seleção &lt;f1&gt;Teclas&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20898,6 +21015,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Although individual extensions can be found in different places, the official LibreOffice extension repository is at &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132133Z" creationid="olivier" creationdate="20261008T132133Z">
+        <seg>Embora extensões individuais possam ser encontradas em lugares diferentes, o repositório oficial de extensões do LibreOffice está em &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Although individual extensions can be found in several places, there is currently an extension repository at: &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt; and some documentation at &lt;a1&gt;https://libreplanet.org/wiki/Group:OpenOfficeExtensions/List&lt;/a1&gt;.</seg>
       </tuv>
@@ -21327,6 +21453,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110711Z" creationid="olivier-tdf" creationdate="20250701T110711Z">
         <seg>Uma explicação da UNO e das estruturas do usuário &lt;bk0/&gt;vai muito além do escopo deste livro.&lt;bk1/&gt; Para obter mais informações sobre como criar e usar estruturas, consulte o sistema de Ajuda do LibreOffice e outros guias BASIC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>An extension is a package that can be installed into LibreOffice to add new functionality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132119Z" creationid="olivier" creationdate="20261008T132119Z">
+        <seg>Uma extensão é um pacote que pode ser instalado no LibreOffice para adicionar novas funcionalidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22893,6 +23028,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Assigning macros to events</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131906Z" creationid="olivier" creationdate="20261008T131906Z">
+        <seg>Atribuir macros a eventos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Associates a macro with the hotspot instead of a hyperlink.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215624Z" creationid="olivier" creationdate="20250612T215624Z">
@@ -23457,6 +23600,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260929T234537Z" creationid="olivier" creationdate="20260929T234537Z">
         <seg>Evite alterar qualquer uma dessas configurações sem um bom conhecimento das consequências, que podem não ser visíveis imediatamente e podem tornar o perfil do usuário inutilizável e sujeito a uma redefinição de fábrica ou a uma chamada para o Help desk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Avoid reassigning your operating system’s predefined shortcut keys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124431Z" creationid="olivier" creationdate="20261008T124431Z">
+        <seg>Evite reatribuir as teclas de atalho predefinidas do seu sistema operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24731,6 +24883,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T210804Z" creationid="olivier-tdf" creationdate="20250114T124714Z">
         <seg>Normalmente, o Calc usa a sua própria sintaxe de fórmula, conhecida como Calc A1, em vez da sintaxe padrão do Excel A1 usada pelo Microsoft Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, Calc’s commands are grouped in cascading menus and in toolbars filled with icons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122728Z" creationid="olivier" creationdate="20261008T122728Z">
+        <seg>Normalmente, os comandos do Calc são agrupados em menus em cascata e em barras de ferramentas cheias de ícones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26107,6 +26267,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc supplies several sets of theme colors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133408Z" creationid="olivier" creationdate="20261008T133408Z">
+        <seg>O Calc fornece vários conjuntos de temas de cores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc supports importing a wide range of vector (line drawing) and raster (bitmap or photo) file formats.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250918T004221Z" creationid="tulio" creationdate="20250918T004221Z">
@@ -27173,6 +27341,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changes to the shortcut key assignments can be saved in a keyboard configuration file for use at a later time, thus permitting you to create and apply different configurations as the need arises, or to create a standard keyboard configuration file to be distributed among many users.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131244Z" creationid="olivier" creationdate="20261008T131244Z">
+        <seg>As alterações nas atribuições de teclas de atalho podem ser salvas em um arquivo de configuração de teclado para uso posterior, permitindo assim criar e aplicar configurações diferentes conforme a necessidade, ou criar um arquivo de configuração de teclado padrão para ser distribuído para outros usuários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changes to these settings automatically change the page style.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T113028Z" creationid="timot" creationdate="20250224T113028Z">
@@ -28220,6 +28396,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Check the description to see what licenses and fees apply to the extensions that interest you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132220Z" creationid="olivier" creationdate="20261008T132220Z">
+        <seg>Verifique a descrição para ver quais licenças e taxas se aplicam às extensões que lhe interessam.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Check the descriptions to see what licenses and fees apply to extensions from other sources.</seg>
       </tuv>
@@ -28482,6 +28667,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250402T233956Z" creationid="olivier-tdf" creationdate="20250402T233956Z">
         <seg>Escolha &lt;f0&gt;Formatar &gt; Iluminar &gt; Formatação direta de caracteres&lt;/f0&gt; para ativar o indicador visual de formatação direta de caracteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Format &gt; Theme&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133426Z" creationid="olivier" creationdate="20261008T133426Z">
+        <seg>Escolha &lt;f0&gt;Formatar &gt; Tema&lt;/f0&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28856,6 +29049,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choosing icons for toolbar commands</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122253Z" creationid="olivier" creationdate="20261008T122253Z">
+        <seg>Escolher ícones para comandos da barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choosing options to suit the way of working</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T183203Z" creationid="olivier-tdf" creationdate="20250309T183203Z">
@@ -28980,6 +29181,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="me" changedate="20251118T013854Z" creationid="me" creationdate="20251118T013854Z">
         <seg>Clique em &lt;f0&gt;Adicionar&lt;/f0&gt; e a nova lista aparecerá na caixa &lt;f1&gt;Listas&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Add&lt;/f0&gt; in the lower left corner, enter a name for the new color in the pop-up dialog, and click &lt;f1&gt;OK&lt;/f1&gt; to save.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133110Z" creationid="olivier" creationdate="20261008T133110Z">
+        <seg>Clique em &lt;f0&gt;Adicionar&lt;/f0&gt; no canto inferior esquerdo, digite um nome para a nova cor na caixa de diálogo e clique em &lt;f1&gt;OK&lt;/f1&gt; para salvar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29317,6 +29526,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T184900Z" creationid="olivier-tdf" creationdate="20250209T184900Z">
         <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; e a ordenação é realizada na planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to accept the change.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T130813Z" creationid="olivier" creationdate="20261008T130813Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para aceitar a alteração.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32145,6 +32363,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Click on the &lt;f0&gt;Color&lt;/f0&gt; button on the Area tab (Figure &lt;t1&gt;37&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133022Z" creationid="olivier" creationdate="20261008T133022Z">
+        <seg>Clique no botão &lt;f0&gt;Cor&lt;/f0&gt; na aba Área (Figura &lt;t1&gt;37&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Click on the &lt;f0&gt;Data Ranges&lt;/f0&gt; icon on the Formatting toolbar.</seg>
       </tuv>
@@ -33086,6 +33313,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T101122Z" creationid="timot" creationdate="20250206T101122Z">
         <seg>Clique no botão &lt;f0&gt;Verificação ortográfica&lt;/f0&gt; na barra de ferramentas Padrão, escolha &lt;f1&gt;Ferramentas &gt; Ortografia&lt;/f1&gt; ou tecle &lt;f2&gt;F7&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Check for Updates&lt;/f0&gt; button on the &lt;f1&gt;Extensions&lt;/f1&gt; dialog to check for updates to installed extensions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132543Z" creationid="olivier" creationdate="20261008T132543Z">
+        <seg>Clique no botão &lt;f0&gt;Verificar atualizações&lt;/f0&gt; na caixa de diálogo &lt;f1&gt;Extensões&lt;/f1&gt; para verificar se há atualizações nas extensões instaladas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38313,6 +38549,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customizing a keyboard shortcut</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124603Z" creationid="olivier" creationdate="20261008T124603Z">
+        <seg>Personalizar um atalho de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customizing classification levels</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T201941Z" creationid="olivier-tdf" creationdate="20250328T201941Z">
@@ -39490,6 +39734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defining a color by picking it from a color chart</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133304Z" creationid="olivier" creationdate="20261008T133304Z">
+        <seg>Definir uma cor por meio de uma tabela de cores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defining a different first page for a document</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250404T110049Z" creationid="timot" creationdate="20250404T110049Z">
@@ -39510,6 +39762,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164222Z" creationid="olivier" creationdate="20250204T164222Z">
         <seg>Definir uma nova Autoformatação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Defining a new color</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133153Z" creationid="olivier" creationdate="20261008T133153Z">
+        <seg>Definir uma nova cor</seg>
       </tuv>
     </tu>
     <tu>
@@ -39678,6 +39939,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250215T104632Z" creationid="timot" creationdate="20250215T104632Z">
         <seg>Exclua entradas específicas da lista de conclusão de palavras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Delete the drawing object from the document, if it is not needed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133123Z" creationid="olivier" creationdate="20261008T133123Z">
+        <seg>Exclua o objeto de desenho do documento, se não for necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41456,6 +41726,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier-tdf" creationdate="20250209T170841Z">
         <seg>Os temas de documentos coletam várias seleções de formato num conjunto que pode ser aplicado e alterado rapidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Document themes collect various format selections into a set that can be applied and changed rapidly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133317Z" creationid="olivier" creationdate="20261008T133317Z">
+        <seg>Os temas de documentos coletam várias seleções de formato em um conjunto que pode ser aplicado e alterado rapidamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46295,6 +46574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extensions can be installed from some other places in Calc, such as the &lt;f0&gt;Gallery&lt;/f0&gt; on the Sidebar, the &lt;f1&gt;Templates&lt;/f1&gt; dialog, the &lt;f2&gt;Languages and Locales &gt; Writing Aids&lt;/f2&gt; page of the &lt;f3&gt;Tools &gt; Options&lt;/f3&gt; dialog and the &lt;f4&gt;Icon Style &lt;/f4&gt;section in the &lt;f5&gt;View&lt;/f5&gt; page of the &lt;f6&gt;Tools &gt; Options&lt;/f6&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132843Z" creationid="olivier" creationdate="20261008T132843Z">
+        <seg>Extensões podem ser instaladas a partir de alguns outros lugares no Calc, como a &lt;f0&gt;Galeria&lt;/f0&gt; na Barra Lateral, a caixa de diálogo &lt;f1&gt;Modelos&lt;/f1&gt;, a página &lt;f2&gt;Idiomas e Localidades &gt; Recursos para redação&lt;/f2&gt; da caixa de diálogo &lt;f3&gt;Ferramentas &gt; Opções&lt;/f3&gt; e a seção &lt;f4&gt;Estilo de Ícone &lt;/f4&gt;na página &lt;f5&gt;Exibir&lt;/f5&gt; da caixa de diálogo &lt;f6&gt;Ferramentas &gt; Opções&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extensions can be written in almost any programming language and may be simple or sophisticated.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T185328Z" creationid="olivier-tdf" creationdate="20250708T185328Z">
@@ -46307,6 +46594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083401Z" creationid="olivier" creationdate="20250308T083401Z">
         <seg>Caixa de diálogo Extensões </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extensions from other sources may be free or may be available for a fee.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132206Z" creationid="olivier" creationdate="20261008T132206Z">
+        <seg>As extensões de outras fontes podem ser gratuitas ou podem estar disponíveis mediante encargos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49644,6 +49939,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: The Notebookbar tab of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124300Z" creationid="olivier" creationdate="20261008T124300Z">
+        <seg>Figura &lt;seq0&gt;34&lt;/seq0&gt;: A aba Barra de abas da caixa de diálogo Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Wrap text formatting</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T203215Z" creationid="olivier-tdf" creationdate="20250128T203215Z">
@@ -49656,6 +49959,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T112509Z" creationid="timotheonb" creationdate="20250530T112509Z">
         <seg>Figura &lt;seq0&gt;35&lt;/seq0&gt;: Caixa de diálogo Slides mestres disponíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: Customizing a keyboard shortcut</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124559Z" creationid="olivier" creationdate="20261008T124559Z">
+        <seg>Figura &lt;seq0&gt;35&lt;/seq0&gt;: Personalizar um atalho de teclado</seg>
       </tuv>
     </tu>
     <tu>
@@ -49715,11 +50026,28 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: The Extensions dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132927Z" creationid="olivier" creationdate="20261008T132927Z">
+        <seg>Figura &lt;seq0&gt;36&lt;/seq0&gt;: Caixa de diálogo Extensões</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Data Labels tab of the Data Labels dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260406T230359Z" creationid="vitor" creationdate="20260406T230359Z">
         <seg>Figura &lt;seq0&gt;37&lt;/seq0&gt;: Caixa de diálogo Rótulos de dados - Aba Rótulos de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Defining a new color</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133148Z" creationid="olivier" creationdate="20261008T133148Z">
+        <seg>Figura &lt;seq0&gt;37&lt;/seq0&gt;: Definir de uma nova cor</seg>
       </tuv>
     </tu>
     <tu>
@@ -49760,6 +50088,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T171842Z" creationid="olivier-tdf" creationdate="20250209T171842Z">
         <seg>Figura &lt;seq0&gt;38&lt;/seq0&gt;: Uma paleta de cores de tema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;38&lt;/seq0&gt;: Defining a color by picking it from a color chart</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133246Z" creationid="olivier" creationdate="20261008T133246Z">
+        <seg>Figura &lt;seq0&gt;38&lt;/seq0&gt;: Definindo uma cor por meio de uma cartela de cores</seg>
       </tuv>
     </tu>
     <tu>
@@ -51957,6 +52293,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Change Icon dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122613Z" creationid="olivier" creationdate="20261008T122613Z">
+        <seg>Figura &lt;seq0&gt;33&lt;/seq0&gt;: Caixa de diálogo Alterar ícone</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Search Results dialog</seg>
       </tuv>
@@ -52583,6 +52928,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Find and select the extension you want to install and click &lt;f2&gt;Open&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132426Z" creationid="olivier" creationdate="20261008T132426Z">
+        <seg>Encontre e selecione a extensão baixada e clique em &lt;f2&gt;Abrir&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Find and select the package of templates you want to install and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T115115Z" creationid="timotheonb" creationdate="20260616T115115Z">
@@ -52603,6 +52956,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T121619Z" creationid="olivier" creationdate="20250405T121619Z">
         <seg>Encontre as listas suspensas &lt;f0&gt;Filtrar&lt;/f0&gt; e selecione o tipo de documento e a categoria de modelo necessários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Find the extension you want and download it to your computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132335Z" creationid="olivier" creationdate="20261008T132335Z">
+        <seg>Encontre a extensão desejada e baixe-a para o seu computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52963,6 +53325,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T234148Z" creationid="vitor" creationdate="20260405T234148Z">
         <seg>Fonte e Efeitos de fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Font and format settings are planned for later releases.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133346Z" creationid="olivier" creationdate="20261008T133346Z">
+        <seg>As configurações de fonte e formato estão planejadas para versões posteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53536,6 +53907,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For best quality, custom icons should be 24 x 24 pixels in size; other sizes will be scaled automatically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122652Z" creationid="olivier" creationdate="20261008T122652Z">
+        <seg>Para melhor qualidade, os ícones personalizados devem ter 24 x 24 pixels de tamanho; outros tamanhos serão dimensionados automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For casual use, it is not necessary to understand where macros are stored.</seg>
       </tuv>
@@ -53919,6 +54299,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T223443Z" creationid="timotheonb" creationdate="20250530T223443Z">
         <seg>Por exemplo, uma "dividido por" ao usar linguagem de marcação produz a fração&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;fórmula&lt;/s3&gt;&lt;/df0&gt;quando usado em uma fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, a document was opened, a key was pressed, or the mouse moved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131958Z" creationid="olivier" creationdate="20261008T131958Z">
+        <seg>Por exemplo, abriu-se um documento, uma tecla foi pressionada ou o moveu-se o mouse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55818,6 +56206,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250509T103008Z" creationid="timot" creationdate="20250509T103008Z">
         <seg>Para obter mais informações sobre as caixas de conteúdo de leiaute consulte o &lt;f1&gt;Guia do Impress&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on macros, see &lt;f0&gt;Chapter 14, Macros&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131820Z" creationid="olivier" creationdate="20261008T131820Z">
+        <seg>Para mais informações sobre macros, consulte o &lt;f0&gt;Capítulo 14, Macros&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62494,6 +62890,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>However, not all of the commands have associated icons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122542Z" creationid="olivier" creationdate="20261008T122542Z">
+        <seg>No entanto, nem todos os comandos têm ícones associados.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>However, one of the main challenges for programmers is to discover UNO (Universal Network Objects) object types as well as their supported services, methods, and properties.</seg>
       </tuv>
@@ -64120,6 +64525,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it were not, and you wanted to reassign a shortcut key combination that is already in use, you must first delete the existing key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131124Z" creationid="olivier" creationdate="20261008T131124Z">
+        <seg>Se não estiver, e quiser reatribuir uma combinação de teclas de atalho ocupada, você deve primeiro excluir a tecla existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If keep the old styles is selected, then the document continues to use the old styles without any confirmation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T115622Z" creationid="olivier" creationdate="20250405T115622Z">
@@ -65084,6 +65497,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194720Z" creationid="olivier" creationdate="20260930T194720Z">
         <seg>Se a opção &lt;f2&gt;Exibir aviso&lt;/f2&gt; estiver selecionada, então ao exportar para HTML, será mostrado um aviso de que as macros do LibreOffice Basic serão perdidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the &lt;f2&gt;Keys&lt;/f2&gt; list is empty, it indicates that the chosen key combination is free for use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131049Z" creationid="olivier" creationdate="20261008T131049Z">
+        <seg>Se a lista de &lt;f2&gt;Teclas&lt;/f2&gt; estiver vazia, isso indica que a combinação de teclas escolhida está disponível para utilização.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68534,11 +68955,29 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In LibreOffice, select &lt;f0&gt;Tools &gt; Extensions&lt;/f0&gt; on the Menu bar, or press &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;Alt&lt;/f2&gt;+&lt;f3&gt;E&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132243Z" creationid="olivier" creationdate="20261008T132243Z">
+        <seg>No LibreOffice, selecione &lt;f0&gt;Ferramentas &gt; Extensões&lt;/f0&gt; na barra de menus ou pressione &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;Alt&lt;/f2&gt;+&lt;f3&gt;E.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In LibreOffice, the terms &lt;f0&gt;graphics&lt;/f0&gt; and &lt;f1&gt;images&lt;/f1&gt; refer to both pictures and drawing objects.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20251120T195259Z" creationid="tulio" creationdate="20250918T005522Z">
         <seg>No LibreOffice, os termos &lt;f0&gt;gráficos&lt;/f0&gt; e &lt;f1&gt;imagens&lt;/f1&gt; referem-se tanto a figuras quanto a objetos de desenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In LibreOffice, when something happens, we say that an event occurred.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131916Z" creationid="olivier" creationdate="20261008T131916Z">
+        <seg>No LibreOffice, quando algo acontece, dizemos que ocorreu um evento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68846,6 +69285,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In addition to the built-in keyboard shortcuts (see &lt;f0&gt;Appendix A&lt;/f0&gt;), you can create your own custom shortcuts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124400Z" creationid="olivier" creationdate="20261008T124400Z">
+        <seg>Além dos atalhos de teclado integrados (consulte o &lt;f0&gt;Apêndice A&lt;/f0&gt;), você pode criar seus próprios atalhos personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In addition to the simple dialog above, a more extensive Axis dialog contains options for grid intervals, positioning the axis, formatting the axis line and axis labels, and defining the scale, among other settings.</seg>
       </tuv>
@@ -68891,6 +69339,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T125839Z" creationid="olivier-tdf" creationdate="20250114T125839Z">
         <seg>Além disso, o Calc fornece outras variações da interface do usuário, exibindo grupos contextuais de comandos e conteúdos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In addition, LibreOffice provides other user interface variants, displaying contextual groups of commands and contents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122739Z" creationid="olivier" creationdate="20261008T122739Z">
+        <seg>Além disso, o LibreOffice fornece outras variantes de interface do usuário, exibindo grupos contextuais de comandos e conteúdos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69099,6 +69556,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152711Z" creationid="olivier" creationdate="20250318T152711Z">
         <seg>Em contraste, o endereçamento absoluto sempre começa a partir de um diretório raiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In each of these places you will find a small button leading to a filtered view of the items in the Extensions dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132905Z" creationid="olivier" creationdate="20261008T132905Z">
+        <seg>Em cada um desses lugares, você encontrará um pequeno botão que leva a uma visualização filtrada dos itens na caixa de diálogo Extensões.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69332,6 +69798,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260524T153509Z" creationid="vitor" creationdate="20260524T153509Z">
         <seg>Em anos recentes ela tem crescido em popularidade e é comumente usada por cientistas de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In some cases, the &lt;f0&gt;Remove&lt;/f0&gt; and &lt;f1&gt;Disable&lt;/f1&gt; buttons may be unavailable, for example when you have selected one of the extensions that was bundled with your LibreOffice installation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132920Z" creationid="olivier" creationdate="20261008T132920Z">
+        <seg>Em alguns casos, os botões &lt;f0&gt;Remover&lt;/f0&gt; e &lt;f1&gt;Desativar&lt;/f1&gt; podem estar indisponíveis, por exemplo, quando você selecionou uma das extensões que foram incluídas na sua instalação do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69778,6 +70253,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the &lt;f2&gt;Palette&lt;/f2&gt; drop-down in the &lt;f3&gt;Colors&lt;/f3&gt; area, choose which palette you wish to add the new color to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133034Z" creationid="olivier" creationdate="20261008T133034Z">
+        <seg>No menu suspenso &lt;f2&gt;Paleta&lt;/f2&gt; na área &lt;f3&gt;Cores&lt;/f3&gt;, escolha a qual paleta deseja adicionar a nova cor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the &lt;f2&gt;Scope&lt;/f2&gt; drop-down list, LibreOffice Writer appears as the selected module.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T214312Z" creationid="olivier" creationdate="20250307T214129Z">
@@ -69798,6 +70281,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T213023Z" creationid="olivier" creationdate="20250307T213023Z">
         <seg>Na lista suspensa &lt;f3&gt;Escopo&lt;/f3&gt;, o LibreOffice Writer aparece como o módulo selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f4&gt;Extension Manager&lt;/f4&gt; dialog, click the &lt;f5&gt;Get more extensions online&lt;/f5&gt; link.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132310Z" creationid="olivier" creationdate="20261008T132310Z">
+        <seg>Na caixa de diálogo &lt;f4&gt;Gerenciador de extensões&lt;/f4&gt;, clique no link &lt;f5&gt;Obter mais extensões online&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69982,6 +70473,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251103T115044Z" creationid="timotheonb" creationdate="20251103T115044Z">
         <seg>No campo Substituir, digite:&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;,&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the Save Keyboard Configuration dialog, enter a name for the keyboard configuration file in the &lt;f0&gt;File name&lt;/f0&gt; box, or select an existing file (the file extension is &lt;f1&gt;.cfg&lt;/f1&gt; for Configuration).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131326Z" creationid="olivier" creationdate="20261008T131326Z">
+        <seg>Na caixa de diálogo Salvar configuração do teclado, insira um nome para o arquivo de configuração do teclado na caixa &lt;f0&gt;Nome do arquivo&lt;/f0&gt; ou selecione um arquivo existente (a extensão do arquivo é &lt;f1&gt;.cfg&lt;/f1&gt; para Configuração).</seg>
       </tuv>
     </tu>
     <tu>
@@ -70391,6 +70890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223844Z" creationid="olivier-tdf" creationdate="20250122T223844Z">
         <seg>Nesses casos, você pode percorrer cada seção independentemente da outra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In these variants, the area at the top of the workspace is divided into tabs, where each tab displays a set of icons grouped by context.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122948Z" creationid="olivier" creationdate="20261008T122948Z">
+        <seg>Nessas variantes, a área na parte superior do espaço de trabalho é dividida em abas, onde cada aba exibe um conjunto de ícones agrupados por contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71330,6 +71837,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T115016Z" creationid="timotheonb" creationdate="20250530T115016Z">
         <seg>Insira uma caixa de texto no slide mestre, veja “&lt;bf0&gt;Caixas de texto&lt;/bf0&gt;” na página &lt;bf1&gt;21&lt;/bf1&gt; para maiores informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Insert any drawing object, such as a square, into any document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133010Z" creationid="olivier" creationdate="20261008T133010Z">
+        <seg>Insira qualquer objeto de desenho, como um quadrado, em qualquer documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76436,6 +76952,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loading a saved keyboard configuration</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131436Z" creationid="olivier" creationdate="20261008T131436Z">
+        <seg>Carregar uma configuração de teclado salva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading additional master slides</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T111042Z" creationid="timotheonb" creationdate="20250530T111042Z">
@@ -80655,6 +81179,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Next select the required function in the &lt;f0&gt;Category&lt;/f0&gt; and &lt;f1&gt;Function&lt;/f1&gt; lists.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T130756Z" creationid="olivier" creationdate="20261008T130756Z">
+        <seg>Em seguida, selecione a função necessária nas listas &lt;f0&gt;Categoria&lt;/f0&gt; e &lt;f1&gt;Função&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Next, select the required settings required and click OK.</seg>
       </tuv>
@@ -80925,6 +81458,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260328T202219Z" creationid="vitor" creationdate="20260328T202219Z">
         <seg>Nem todos os intervalos de dados precisam ser preenchidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Not all extensions include update methods that interact with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132552Z" creationid="olivier" creationdate="20261008T132552Z">
+        <seg>Nem todas as extensões incluem métodos de atualização que interagem com o LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81304,11 +81846,29 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Now select the desired shortcut keys in the &lt;f0&gt;Shortcut Keys&lt;/f0&gt; list and click the &lt;f1&gt;Assign&lt;/f1&gt; button at the upper right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T130807Z" creationid="olivier" creationdate="20261008T130807Z">
+        <seg>Agora selecione as teclas de atalho desejadas na lista &lt;f0&gt;Teclas de atalho&lt;/f0&gt; e clique no botão &lt;f1&gt;Atribuir&lt;/f1&gt; no canto superior direito.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Now the cell to which you added the comment has a colored triangle in the upper right-hand corner, as shown in Figure &lt;t0&gt;8&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T141525Z" creationid="olivier" creationdate="20251019T141525Z">
         <seg>Agora, a célula à qual adicionou a anotação tem um triângulo colorido no canto superior direito, conforme mostrado na Figura &lt;t0&gt;8&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Now the chosen shortcut keys will execute the function chosen in step &lt;bf1&gt;3)&lt;/bf1&gt; above whenever they are pressed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T130829Z" creationid="olivier" creationdate="20261008T130829Z">
+        <seg>Agora, as teclas de atalho escolhidas executarão a função escolhida na etapa &lt;bf1&gt;3)&lt;/bf1&gt; acima sempre que forem pressionadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82109,6 +82669,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;Toolbars&lt;/f0&gt; tab of the Customize dialog, click the button next to the &lt;f1&gt;Target&lt;/f1&gt; field and select &lt;f2&gt;Add&lt;/f2&gt; in the drop-down list, to display the Name dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122126Z" creationid="olivier" creationdate="20261008T122126Z">
+        <seg>Na aba &lt;f0&gt;Barras de Ferramentas&lt;/f0&gt; da caixa de diálogo Personalizar, clique no botão ao lado do campo &lt;f1&gt;Destino&lt;/f1&gt; e selecione &lt;f2&gt;Adicionar&lt;/f2&gt; na lista suspensa, para exibir a caixa de diálogo Nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the &lt;f1&gt;Cross-references&lt;/f1&gt; tab (Figure &lt;t2&gt;31&lt;/t2&gt;), in the &lt;f3&gt;Type&lt;/f3&gt; list, select the type of item to be referenced (for example, &lt;f4&gt;Headings&lt;/f4&gt; or &lt;f5&gt;Figure&lt;/f5&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T220449Z" creationid="timot" creationdate="20250409T220449Z">
@@ -82209,6 +82777,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260202T151753Z" creationid="olivier" creationdate="20260202T151753Z">
         <seg>Na caixa de diálogo Macros do Basic, selecione a entrada para o módulo recém-criado na área &lt;f0&gt;Salvar macro em &lt;/f0&gt;, digite o texto &lt;f1&gt;PasteMultiply&lt;/f1&gt; na caixa &lt;f2&gt;Nome da macro &lt;/f2&gt;) e clique no botão &lt;f3&gt;Salvar&lt;/f3&gt; (Figura &lt;t4&gt;7&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>On the Change Icon dialog (Figure &lt;t1&gt;33&lt;/t1&gt;), scroll through the available icons, select one, and click &lt;f2&gt;OK&lt;/f2&gt; to assign it to the command.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122607Z" creationid="olivier" creationdate="20261008T122607Z">
+        <seg>Na caixa de diálogo Alterar ícone (Figura &lt;t1&gt;33&lt;/t1&gt;), percorra os ícones disponíveis, selecione um e clique em &lt;f2&gt;OK&lt;/f2&gt; para atribuí-lo ao comando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82393,6 +82970,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T175759Z" creationid="olivier" creationdate="20250318T175759Z">
         <seg>Na página Microsoft Office da caixa de diálogo Opções Carregar/Salvar (Figura &lt;t0&gt;14&lt;/t0&gt;), são especificadas as configurações para importar e exportar documentos do Microsoft Office e de outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the Name dialog, type the new toolbar's name and choose in the &lt;f0&gt;Save In&lt;/f0&gt; drop-down list where to save this new toolbar – for Calc or for the open document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122155Z" creationid="olivier" creationdate="20261008T122155Z">
+        <seg>Na caixa de diálogo Nome, digite o nome da nova barra de ferramentas e escolha na lista suspensa &lt;f0&gt;Salvar&lt;/f0&gt; em onde salvar essa nova barra – para o Calc ou para o documento aberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89781,6 +90366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Removing and disabling extensions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132619Z" creationid="olivier" creationdate="20261008T132619Z">
+        <seg>Remover e desativar extensões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removing commands</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T214056Z" creationid="olivier" creationdate="20250307T214056Z">
@@ -90257,6 +90850,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T120116Z" creationid="timotheonb" creationdate="20260616T120116Z">
         <seg>Redefinir o modelo padrão para planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resetting the shortcut keys</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131525Z" creationid="olivier" creationdate="20261008T131525Z">
+        <seg>Redefinir as teclas de atalho</seg>
       </tuv>
     </tu>
     <tu>
@@ -91317,6 +91918,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Right-click on the object and choose &lt;f0&gt;Area&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133015Z" creationid="olivier" creationdate="20261008T133015Z">
+        <seg>Clique com o botão direito do mouse no objeto e escolha &lt;f0&gt;Área&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Right-click on the percentage to open a list of magnification values from which to choose.</seg>
       </tuv>
@@ -92014,6 +92624,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Running macros from key combinations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131652Z" creationid="olivier" creationdate="20261008T131652Z">
+        <seg>Executar macros a partir de combinações de teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Running presentations</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T103056Z" creationid="timotheonb" creationdate="20250531T103056Z">
@@ -92346,6 +92964,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T001059Z" creationid="olivier" creationdate="20250120T001059Z">
         <seg>Salvar como um arquivo do Microsoft Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving changes to a file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131154Z" creationid="olivier" creationdate="20261008T131154Z">
+        <seg>Salvar alterações num arquivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -94269,6 +94895,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Modify &gt; Reset Icon&lt;/f0&gt; to revert to the option’s default icon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122701Z" creationid="olivier" creationdate="20261008T122701Z">
+        <seg>Selecione &lt;f0&gt;Modificar &gt; Redefinir ícone&lt;/f0&gt; para reverter para o ícone padrão da opção.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Module1&lt;/f0&gt;, or the new module that you created, and click &lt;f1&gt;Edit&lt;/f1&gt; to open the Integrated Development Environment (IDE) (Figure &lt;t2&gt;4&lt;/t2&gt;).</seg>
       </tuv>
@@ -94490,6 +95125,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T103328Z" creationid="timotheonb" creationdate="20260901T103240Z">
         <seg>Selecione &lt;f0&gt;Na página&lt;/f0&gt;, &lt;f1&gt;Na célula &lt;/f1&gt;,&lt;f2&gt; &lt;/f2&gt;ou &lt;f3&gt;Na célula (redimensionar com a célula)&lt;/f3&gt; no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; on the Menu bar and select the &lt;f1&gt;Keyboard&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124518Z" creationid="olivier" creationdate="20261008T124518Z">
+        <seg>Selecione &lt;f0&gt;Ferramentas &gt; Personalizar&lt;/f0&gt; na barra de menus e selecione a aba &lt;f1&gt;Teclado&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -99606,6 +100249,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Setting up document themes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133309Z" creationid="olivier" creationdate="20261008T133309Z">
+        <seg>Configurar temas de documentos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Setting up multiple sheets</seg>
       </tuv>
@@ -100427,6 +101079,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T133955Z" creationid="olivier-tdf" creationdate="20250303T133955Z">
         <seg>Teclas de atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shortcut keys that are grayed out in the listing on the &lt;f0&gt;Customize&lt;/f0&gt; dialog, such as &lt;f1&gt;F1&lt;/f1&gt; and &lt;f2&gt;F10&lt;/f2&gt;, are not available for reassignment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124454Z" creationid="olivier" creationdate="20261008T124454Z">
+        <seg>As teclas de atalho que estão acinzentadas na lista na caixa de diálogo &lt;f0&gt;Personalizar&lt;/f0&gt;, como &lt;f1&gt;F1&lt;/f1&gt; e &lt;f2&gt;F10&lt;/f2&gt;, não estão disponíveis para reatribuição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106922,6 +107582,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The Extensions dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132931Z" creationid="olivier" creationdate="20261008T132931Z">
+        <seg>Caixa de diálogo Extensões </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The Find &lt;f0&gt;deck&lt;/f0&gt; in the Sidebar is another handy toolto locate quickly &lt;f1&gt;all occurences of &lt;/f1&gt;text in the document.</seg>
       </tuv>
@@ -107623,6 +108292,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T194636Z" creationid="olivier-tdf" creationdate="20250403T194636Z">
         <seg>A caixa de diálogo Novo estilo a partir da seleção exibe uma lista de estilos personalizados disponíveis no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Notebookbar tab of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124320Z" creationid="olivier" creationdate="20261008T124320Z">
+        <seg>A aba Barra de abas da caixa de diálogo Personalizar</seg>
       </tuv>
     </tu>
     <tu>
@@ -110353,6 +111030,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The extension starts to install.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132435Z" creationid="olivier" creationdate="20261008T132435Z">
+        <seg>A extensão começa a ser instalada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The feedback may be displayed within the cell that contains the error (Figure &lt;t0&gt;1&lt;/t0&gt;), or on the Status bar (Figure &lt;t1&gt;2&lt;/t1&gt;), or in both, depending on the type of error.</seg>
       </tuv>
@@ -112037,6 +112723,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The method for defining a custom color is as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133004Z" creationid="olivier" creationdate="20261008T133004Z">
+        <seg>O método para definir uma cor personalizada é o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The method will vary depending on the computer and its operating system.</seg>
       </tuv>
@@ -112443,6 +113138,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250609T132123Z" creationid="timotheonb" creationdate="20250609T132123Z">
         <seg>O novo tema é exibido na lista de temas na Galeria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The new toolbar now appears on the list of toolbars in the &lt;f0&gt;Customize&lt;/f0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122216Z" creationid="olivier" creationdate="20261008T122216Z">
+        <seg>A nova barra de ferramentas agora aparece na lista de barras na caixa de diálogo &lt;f0&gt;Personalizar&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114954,6 +115657,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Theme colors are implemented in the current release.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133337Z" creationid="olivier" creationdate="20261008T133337Z">
+        <seg>Temas de cores são implementadas na versão atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Theme colors have names like &lt;f0&gt;Dark 1&lt;/f0&gt;, &lt;f1&gt;Light 2&lt;/f1&gt;, &lt;f2&gt;Accent 3&lt;/f2&gt;, and so on.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T170934Z" creationid="olivier-tdf" creationdate="20250209T170934Z">
@@ -115866,6 +116577,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>These extensions are free of charge.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132140Z" creationid="olivier" creationdate="20261008T132140Z">
+        <seg>Essas extensões são gratuitas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>These fields are converted to tags in the HTML export.</seg>
       </tuv>
@@ -116205,6 +116925,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These shortcut keys are strictly user-defined; none are built in.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131806Z" creationid="olivier" creationdate="20261008T131806Z">
+        <seg>Essas teclas de atalho são estritamente definidas pelo usuário; nenhuma é interna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These statistical data analyses are available in the menu &lt;f0&gt;Data &gt; Statistics&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191412Z" creationid="olivier-tdf" creationdate="20250209T191412Z">
@@ -116529,6 +117257,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260226T123555Z" creationid="timotheonb" creationdate="20260226T123555Z">
         <seg>O eixo X mostra as categorias e o eixo Y mostra o valor de cada categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The context can change depending on the object selected in the document, for example a table or an image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122956Z" creationid="olivier" creationdate="20261008T122956Z">
+        <seg>O contexto pode mudar dependendo do objeto selecionado no documento, por exemplo, uma tabela ou uma imagem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118703,6 +119440,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This selection is made through the menu that drops down from the button to the right of the &lt;f3&gt;Target&lt;/f3&gt; field.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122534Z" creationid="olivier" creationdate="20261008T122534Z">
+        <seg>Essa seleção é feita através do menu que cai do botão à direita do campo &lt;f3&gt;Destino&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This selects all of the slides between the first and the last slide selected.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T133416Z" creationid="timotheonb" creationdate="20250504T133416Z">
@@ -119045,6 +119790,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225611Z" creationid="olivier" creationdate="20260926T225611Z">
         <seg>Três itens de interesse nesta página, além das Opções do Java, são encontrados em &lt;f0&gt;Funcionalidades opcionais&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three of LibreOffice’s user interface variants utilize a notebook bar: The &lt;f0&gt;Tabbed&lt;/f0&gt;, &lt;f1&gt;Tabbed Compact&lt;/f1&gt;, and &lt;f2&gt;Groupedbar Compact&lt;/f2&gt; options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122919Z" creationid="olivier" creationdate="20261008T122919Z">
+        <seg>Três das variantes de interface do usuário do LibreOffice utilizam uma barra de abas: As opções &lt;f0&gt;Barra de abas&lt;/f0&gt;, &lt;f1&gt;Barra de abas compacta&lt;/f1&gt; e &lt;f2&gt;Barra de abas compacta agrupada&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119432,6 +120185,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To adapt shortcut keys to your needs, use the Customize dialog, as described below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124506Z" creationid="olivier" creationdate="20261008T124506Z">
+        <seg>Para adaptar as teclas de atalho às suas necessidades, use a caixa de diálogo Personalizar, conforme descrito abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To add a &lt;i0/&gt;menu item, &lt;i1/&gt;keyboard shortcut, or &lt;i2/&gt;toolbar icon that calls a macro, use &lt;i3/&gt;the &lt;f4&gt;Customize&lt;/f4&gt; dialog, which allows you to configure menus, keyboard shortcuts, toolbars, and events.</seg>
       </tuv>
@@ -119534,6 +120296,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213930Z" creationid="olivier" creationdate="20261006T213930Z">
         <seg>Para adicionar outra série de dados, clique em &lt;f0&gt;Adicionar&lt;/f0&gt;, selecione a nova série e clique na cor desejada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To add commands to the new toolbar, follow the instructions earlier for modifying a toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122240Z" creationid="olivier" creationdate="20261008T122240Z">
+        <seg>Para adicionar comandos à nova barra, siga as instruções anteriores para modificar uma barra de ferramentas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119894,6 +120664,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T081926Z" creationid="olivier" creationdate="20250308T081926Z">
         <seg>Para associar uma macro a um evento, utilize a página &lt;f0&gt;Eventos&lt;/f0&gt; na caixa de diálogo Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To associate a macro with an event, use the &lt;f0&gt;Events&lt;/f0&gt; tab of the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132058Z" creationid="olivier" creationdate="20261008T132058Z">
+        <seg>Para associar uma macro a um evento, use a guia &lt;f0&gt;Eventos&lt;/f0&gt; da caixa de diálogo Personalizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120538,6 +121317,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To choose an icon for a command, select the command and click &lt;f0&gt;Modify &gt; Change Icon&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122557Z" creationid="olivier" creationdate="20261008T122557Z">
+        <seg>Para escolher um ícone para um comando, selecione o comando e clique em &lt;f0&gt;Modificar &gt; Alterar ícone&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To choose new information to display, or to alter the layout of the existing information, right-click anywhere in the existing pivot table to bring up the context menu and choose &lt;f0&gt;Properties&lt;/f0&gt;.</seg>
       </tuv>
@@ -120979,6 +121767,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To define your own set:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133414Z" creationid="olivier" creationdate="20261008T133414Z">
+        <seg>Para definir seu próprio conjunto:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To define your own sort list, which can later be used as a fill series:</seg>
       </tuv>
@@ -121112,6 +121909,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T084738Z" creationid="olivier" creationdate="20250308T084738Z">
         <seg>Para desativar uma extensão sem removê-la do LibreOffice, faça o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To disable an extension without uninstalling it, select the extension in the main window of the &lt;f2&gt;Extensions&lt;/f2&gt; dialog and click the &lt;f3&gt;Disable&lt;/f3&gt; button, which will then change to &lt;f4&gt;Enable&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132702Z" creationid="olivier" creationdate="20261008T132702Z">
+        <seg>Para desativar uma extensão sem desinstalá-la, selecione a extensão na janela principal da caixa de diálogo &lt;f2&gt;Extensões&lt;/f2&gt; e clique no botão &lt;f3&gt;Desativar&lt;/f3&gt;, que mudará para &lt;f4&gt;Ativar&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121958,6 +122764,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To have the shortcut key assignment available only with Calc, select &lt;f0&gt;Calc&lt;/f0&gt; in the upper right corner of the page; otherwise select &lt;f1&gt;LibreOffice&lt;/f1&gt; to make it available to every component.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T130617Z" creationid="olivier" creationdate="20261008T130617Z">
+        <seg>Para ter a atribuição de teclas de atalho disponível apenas com o &lt;f0&gt;Calc&lt;/f0&gt;, selecione Calc no canto superior direito da página; caso contrário, selecione &lt;f1&gt;LibreOffice&lt;/f1&gt; para disponibilizá-lo a todos os componentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To help determine your choices, see Table &lt;t0&gt;2&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184032Z" creationid="olivier-tdf" creationdate="20250708T184032Z">
@@ -122334,11 +123148,29 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To install an extension that is listed in the repository, follow these steps:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132235Z" creationid="olivier" creationdate="20261008T132235Z">
+        <seg>Para instalar uma extensão listada no repositório, siga estas etapas:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To install an extension that is not listed in the official extension repository, download the extension from its source, then continue from Step 7 above to install the extension.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083914Z" creationid="olivier" creationdate="20250308T083914Z">
         <seg>Para instalar uma extensão que não esteja listada no repositório de extensões oficial, baixe a extensão de sua página e continue na Etapa 7 acima para instalar a extensão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To install an extension that is not listed in the repository, download the extension, then continue with step &lt;bf0&gt;3)&lt;/bf0&gt; above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132454Z" creationid="olivier" creationdate="20261008T132454Z">
+        <seg>Para instalar uma extensão que não esteja listada no repositório, baixe a extensão e continue com a etapa &lt;bf0&gt;3)&lt;/bf0&gt; acima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122427,6 +123259,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T001532Z" creationid="olivier" creationdate="20250308T001532Z">
         <seg>Para carregar um arquivo de configuração de teclado salvo e substituir a configuração de teclado existente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To load a saved keyboard configuration file and replace your existing configuration, click the &lt;f0&gt;Load&lt;/f0&gt; button on the right of the &lt;f1&gt;Customize&lt;/f1&gt; dialog, and then select the configuration file from the Load Keyboard Configuration dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131459Z" creationid="olivier" creationdate="20261008T131459Z">
+        <seg>Para carregar um arquivo de configuração de teclado salvo e substituir a configuração existente, clique no botão &lt;f0&gt;Carregar&lt;/f0&gt; à direita da caixa de diálogo &lt;f1&gt;Personalizar&lt;/f1&gt; e selecione o arquivo de configuração na caixa de diálogo carregar configuração do Teclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123535,6 +124375,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To reset all of the keyboard shortcuts to their default values, click the &lt;f0&gt;Reset&lt;/f0&gt; button on the right of the &lt;f1&gt;Customize&lt;/f1&gt; dialog (adjacent to the &lt;f2&gt;Load&lt;/f2&gt; and &lt;f3&gt;Save&lt;/f3&gt; buttons).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131541Z" creationid="olivier" creationdate="20261008T131541Z">
+        <seg>Para redefinir todos os atalhos de teclado para seus valores padrão, clique no botão &lt;f0&gt;Redefinir&lt;/f0&gt; à direita da caixa de diálogo &lt;f1&gt;Personalizar&lt;/f1&gt; (adjacente aos botões &lt;f2&gt;Carregar&lt;/f2&gt; e &lt;f3&gt;Salvar&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To resize a chart interactively:</seg>
       </tuv>
@@ -123660,6 +124509,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125229Z" creationid="olivier-tdf" creationdate="20250702T125229Z">
         <seg>Para executar esta macro, coloque o cursor no início da linha à qual deseja aplicar as etapas gravadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To save keyboard shortcuts to a file:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131250Z" creationid="olivier" creationdate="20261008T131250Z">
+        <seg>Para salvar atalhos de teclado em um arquivo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -124513,6 +125371,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To uninstall an extension that you have installed, select the extension in the main window of the &lt;f0&gt;Extensions&lt;/f0&gt; dialog and click the &lt;f1&gt;Remove&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132649Z" creationid="olivier" creationdate="20261008T132649Z">
+        <seg>Para desinstalar uma extensão instalada, selecione a extensão na janela principal da caixa de diálogo &lt;f0&gt;Extensões&lt;/f0&gt; e clique no botão &lt;f1&gt;Remover&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To unlock a single toolbar so that it can be repositioned, or used as a floating toolbar, right‑click in an empty space on the toolbar and select &lt;f0&gt;Lock Toolbar Position&lt;/f0&gt; from the submenu that opens.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T235600Z" creationid="tulio" creationdate="20250211T134359Z">
@@ -124557,6 +125423,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260416T233308Z" creationid="vitor" creationdate="20260327T005212Z">
         <seg>Para usar um gráfico 3D, selecione a caixa de seleção &lt;f0&gt;Aparência 3D&lt;/f0&gt; e selecione o tipo de vista 3D (&lt;f1&gt;Realista&lt;/f1&gt; ou &lt;f2&gt;Simples&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To use a custom icon, create it in a graphics program and import it into LibreOffice by clicking the &lt;f0&gt;Import&lt;/f0&gt; button on the Change Icon dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122638Z" creationid="olivier" creationdate="20261008T122638Z">
+        <seg>Para usar um ícone personalizado, crie-o em um programa gráfico e importe-o para o LibreOffice clicando no botão &lt;f0&gt;Importar&lt;/f0&gt; na caixa de diálogo Alterar ícone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124893,6 +125768,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184130Z" creationid="olivier-tdf" creationdate="20250708T184130Z">
         <seg>Barras de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toolbar buttons can be displayed with &lt;f0&gt;Icon only&lt;/f0&gt;, &lt;f1&gt;Text only&lt;/f1&gt;, or &lt;f2&gt;Icon and text&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122516Z" creationid="olivier" creationdate="20261008T122516Z">
+        <seg>Os botões da barra de ferramentas podem ser exibidos &lt;f0&gt;Somente ícone&lt;/f0&gt;, &lt;f1&gt;Somente texto&lt;/f1&gt; ou &lt;f2&gt;Ícone e texto&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125885,6 +126768,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165629Z" creationid="firelinux" creationdate="20260403T165629Z">
         <seg>Sob&lt;f0&gt;Propriedades&lt;/f0&gt;, selecione&lt;f1&gt;O texto se ajusta automaticamente.&lt;/f1&gt; e clique&lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Under &lt;f4&gt;New&lt;/f4&gt;, define the new color using RGB or Hex notation, or click the &lt;f5&gt;Pick&lt;/f5&gt; button to select the color on the Pick a Color dialog (Figure &lt;t6&gt;38&lt;/t6&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T133051Z" creationid="olivier" creationdate="20261008T133051Z">
+        <seg>Em &lt;f4&gt;Novo&lt;/f4&gt;, defina a nova cor usando a notação RGB ou Hex ou clique no botão &lt;f5&gt;Escolher&lt;/f5&gt; para selecionar a cor na caixa de diálogo Escolher uma cor (Figura &lt;t6&gt;38&lt;/t6&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -127107,6 +127999,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the &lt;f0&gt;Reset&lt;/f0&gt; button to reset the displayed configuration to the default settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124347Z" creationid="olivier" creationdate="20261008T124347Z">
+        <seg>Utilize o botão &lt;f0&gt;Redefinir&lt;/f0&gt; para redefinir para as configurações padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the &lt;f0&gt;Scale&lt;/f0&gt; tab of the Axis dialog to specify the intervals between grid lines.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T232329Z" creationid="vitor" creationdate="20260407T232329Z">
@@ -127319,6 +128219,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250222T102911Z" creationid="timot" creationdate="20250222T102911Z">
         <seg>Use os botões na barra de ferramentas Marcadores e numeração para mover itens para cima ou para baixo na lista, criar subitens, alterar o estilo dos marcadores e acessar a caixa de diálogo Marcadores e numeração, que&lt;t0/&gt;contém controles mais detalhados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the checkboxes on the &lt;f0&gt;Notebookbar&lt;/f0&gt; tab of the &lt;f1&gt;Customize&lt;/f1&gt; dialog (Figure &lt;t2&gt;34&lt;/t2&gt;) to show and hide the individual options on the various tabs that are provided in the most recently selected of the three tabbed user interfaces (with &lt;f3&gt;Tabbed&lt;/f3&gt; being the initial default).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T123956Z" creationid="olivier" creationdate="20261008T123956Z">
+        <seg>Use as caixas de seleção na aba &lt;f0&gt;Barra de abas&lt;/f0&gt; da caixa de diálogo &lt;f1&gt;Personalizar&lt;/f1&gt; (Figura &lt;t2&gt;34&lt;/t2&gt;) para mostrar e ocultar as opções individuais nas várias abas fornecidas na mais recente das três interfaces de usuário com guias selecionadas (com &lt;f3&gt;Barra de abas&lt;/f3&gt; sendo o padrão inicial).</seg>
       </tuv>
     </tu>
     <tu>
@@ -127793,6 +128701,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T184509Z" creationid="olivier" creationdate="20250318T184509Z">
         <seg>Utilize este controle para selecionar o atributo, highlighting ou shading, que o LibreOffice deve usar ao exportar o destaque de caracteres do LibreOffice para arquivos no formato do Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Use this feature with care as no confirmation dialog will be displayed; the defaults will be set without any further notice or user input.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131634Z" creationid="olivier" creationdate="20261008T131634Z">
+        <seg>Use este recurso com cuidado, pois nenhuma caixa de diálogo de confirmação será exibida; os padrões serão definidos sem qualquer aviso prévio ou entrada do usuário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131611,6 +132528,15 @@ Tab / ⇥</seg>
     <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
+        <seg>When the installation is complete, the extension is listed in the &lt;f0&gt;Extensions&lt;/f0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132444Z" creationid="olivier" creationdate="20261008T132444Z">
+        <seg>Quando a instalação estiver concluída, a extensão será listada na caixa de diálogo &lt;f0&gt;Extensões&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
         <seg>When the language set by locale is not English, you may wish to express functions in English; if so, select this option to change formula input and display, Function Wizard, and formula tips.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T202157Z" creationid="olivier" creationdate="20261006T202157Z">
@@ -134158,6 +135084,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also define shortcut key combinations that will run macros.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131713Z" creationid="olivier" creationdate="20261008T131713Z">
+        <seg>Você também pode definir combinações de teclas de atalho para executar macros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also define the range of contents that can be entered, and provide help messages explaining the content rules, when users enter invalid content.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260303T112857Z" creationid="timotheonb" creationdate="20260303T112857Z">
@@ -134546,6 +135480,24 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260528T113942Z" creationid="timotheonb" creationdate="20260528T113942Z">
         <seg>É possível atribuir diferentes bandejas de papel a diferentes estilos de página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You can assign shortcuts to standard LibreOffice functions or your custom macros, and save them for use across the entire LibreOffice suite or exclusively for Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124419Z" creationid="olivier" creationdate="20261008T124419Z">
+        <seg>Você pode atribuir atalhos às funções padrão do LibreOffice ou às suas macros personalizadas e salvá-las para uso em todo o pacote LibreOffice ou exclusivamente para o Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You can associate a macro with an event, so the macro is run when the event occurs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132009Z" creationid="olivier" creationdate="20261008T132009Z">
+        <seg>Você pode associar uma macro a um evento, para que a macro seja executada quando o evento ocorrer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135067,6 +136019,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T183440Z" creationid="olivier-tdf" creationdate="20250708T183440Z">
         <seg>Você pode encontrar macros criadas pela comunidade do LibreOffice na internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can find more information about these variants and how to switch between them in &lt;f0&gt;Chapter 17, User Interface Variants&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122813Z" creationid="olivier" creationdate="20261008T122813Z">
+        <seg>Encontre mais informações sobre essas variantes e como alternar entre elas no &lt;f0&gt;Capítulo 17, Variantes da interface do usuário&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136604,6 +137564,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>assigning to events</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131830Z" creationid="olivier" creationdate="20261008T131830Z">
+        <seg>atribuir a eventos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>automatic wrapping</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165618Z" creationid="firelinux" creationdate="20260403T165618Z">
@@ -136829,6 +137797,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>colors, adding custom</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132942Z" creationid="olivier" creationdate="20261008T132942Z">
+        <seg>cores, adicionar personalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>column</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260226T121610Z" creationid="timotheonb" creationdate="20260226T121610Z">
@@ -137013,6 +137989,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>custom colors, adding</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132951Z" creationid="olivier" creationdate="20261008T132951Z">
+        <seg>cores personalizadas, adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>customizing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214056Z" creationid="olivier" creationdate="20261006T214056Z">
@@ -137121,6 +138105,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184036Z" creationid="firelinux" creationdate="20260403T184036Z">
         <seg>direção do texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>disabling</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132557Z" creationid="olivier" creationdate="20261008T132557Z">
+        <seg>desativar</seg>
       </tuv>
     </tu>
     <tu>
@@ -137765,6 +138757,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>installing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132228Z" creationid="olivier" creationdate="20261008T132228Z">
+        <seg>instalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>is above average</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T192300Z" creationid="firelinux" creationdate="20260403T192300Z">
@@ -138097,6 +139097,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260520T002755Z" creationid="vitor" creationdate="20260520T002755Z">
         <seg>Carregando e descarregando bibliotecas de macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>loading saved configuration</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131422Z" creationid="olivier" creationdate="20261008T131422Z">
+        <seg>carregar configuração salva</seg>
       </tuv>
     </tu>
     <tu>
@@ -138789,6 +139797,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>removing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132601Z" creationid="olivier" creationdate="20261008T132601Z">
+        <seg>remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>renaming</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T111810Z" creationid="timotheonb" creationdate="20260602T111810Z">
@@ -138809,6 +139825,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T114038Z" creationid="timotheonb" creationdate="20260318T184808Z">
         <seg>substituir dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>resetting to defaults</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131514Z" creationid="olivier" creationdate="20261008T131514Z">
+        <seg>redefinir para padrões</seg>
       </tuv>
     </tu>
     <tu>
@@ -138905,6 +139929,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250909T012937Z" creationid="firelinux" creationdate="20250909T012937Z">
         <seg>salvar arquivo de planilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>saving to a file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131139Z" creationid="olivier" creationdate="20261008T131139Z">
+        <seg>salvar para um arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139437,6 +140469,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>updating</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132533Z" creationid="olivier" creationdate="20261008T132533Z">
+        <seg>atualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>updating LibreOffice software</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260421T223057Z" creationid="firelinux" creationdate="20250729T012239Z">
@@ -139537,6 +140577,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T234024Z" creationid="vitor" creationdate="20260328T210510Z">
         <seg>usar para alterar propriedades do gráfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>using to run macros</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131643Z" creationid="olivier" creationdate="20261008T131643Z">
+        <seg>usar para executar macros</seg>
       </tuv>
     </tu>
     <tu>
