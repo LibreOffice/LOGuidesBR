@@ -11615,6 +11615,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Drag a column field - note the pointer shape&lt;/s0&gt;&lt;s1&gt;Drag a column field - note the pointer shape&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T161655Z" creationid="olivier" creationdate="20261011T161655Z">
+        <seg>&lt;s0&gt;Drag a coluna field - observação the pointer shape&lt;/s0&gt;&lt;s1&gt;Drag a coluna field - observação the pointer shape&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Draw Standard toolbar with Print Directly installed&lt;/s0&gt;&lt;s1&gt;Draw Standard toolbar with Print Directly installed&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183500Z" creationid="olivier" creationdate="20250222T183232Z">
@@ -43054,6 +43062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drag a column field - note the pointer shape</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T161755Z" creationid="olivier" creationdate="20261011T161755Z">
+        <seg>Arrastar um campo de coluna - observe a forma do cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drag a handle to crop (hide) the edges of the image.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T180446Z" creationid="timotheonb" creationdate="20260821T180446Z">
@@ -50225,6 +50241,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T193957Z" creationid="firelinux" creationdate="20260403T193957Z">
         <seg>Figura&lt;seq0&gt;24&lt;/seq0&gt;Condições para os encontros da próxima semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Drag a column field - note the pointer shape</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T161737Z" creationid="olivier" creationdate="20261011T161737Z">
+        <seg>Figura &lt;seq0&gt;24&lt;/seq0&gt;: arrastar um campo de coluna - observe a forma do cursor</seg>
       </tuv>
     </tu>
     <tu>
@@ -104435,6 +104459,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Some manipulation can also be carried out in the results view of the pivot table.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T161103Z" creationid="olivier" creationdate="20261011T161103Z">
+        <seg>Alguma manipulação também pode ser realizada na exibição de resultados da tabela dinâmica.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Some menu commands are not available (grayed out) when sharing or change tracking are active.</seg>
       </tuv>
@@ -115141,6 +115174,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251021T230658Z" creationid="timotheonb" creationdate="20251021T230641Z">
         <seg>O ponteiro do mouse pode mudar para incluir um sinal de mais (+) dependendo da configuração do seu sistema operacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mouse pointer will change shape from its starting shape (horizontal or vertical block on the arrow head) to the opposite if moving to a different field, such as from row to column, where it can be dropped.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T161650Z" creationid="olivier" creationdate="20261011T161650Z">
+        <seg>O ponteiro do mouse mudará de sua forma inicial (bloco horizontal ou vertical na ponta da seta) para o oposto se for movido para um campo diferente, como de linha para coluna, onde pode ser solto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -129714,6 +129755,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Unused fields can also be added, and fields removed in error can be replaced by dragging and dropping them into the positions required.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T161053Z" creationid="olivier" creationdate="20261011T161053Z">
+        <seg>Os campos não utilizados também podem ser adicionados e os campos removidos por engano podem ser substituídos arrastando-os e soltando-os nas posições necessárias.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Up Arrow</seg>
       </tuv>
@@ -135119,6 +135169,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the Pivot Table Layout dialog is open, fields can be dragged from &lt;f0&gt;Row Fields&lt;/f0&gt;, &lt;f1&gt;Column Fields&lt;/f1&gt;, &lt;f2&gt;Filters,&lt;/f2&gt; and &lt;f3&gt;Data Fields&lt;/f3&gt; areas and then dropped in a different position.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T161048Z" creationid="olivier" creationdate="20261011T161048Z">
+        <seg>Com a caixa de diálogo Leiaute da tabela dinâmica aberta, os campos podem ser arrastados das áreas &lt;f0&gt;Campos de linha&lt;/f0&gt;, &lt;f1&gt;Campos de coluna&lt;/f1&gt;, &lt;f2&gt;Filtros&lt;/f2&gt;, e &lt;f3&gt;Campos de dados&lt;/f3&gt; para qualquer posição que se deseja colocá-los e, em seguida, soltar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the cell displaying the &lt;f0&gt;#REF!&lt;/f0&gt; error code in Figure &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;is selected, the Status bar displays the error message as shown in Figure &lt;t3&gt;2&lt;/t3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260307T220506Z" creationid="olivier" creationdate="20260307T220506Z">
@@ -136865,6 +136923,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100258Z" creationid="olivier" creationdate="20261011T100258Z">
         <seg>Dentro das regiões estará a lista para os diferentes funcionários (Figura &lt;t3&gt;5&lt;/t3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Within the results of the pivot table, drag one of the filters, column, or row fields to a different position.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T161605Z" creationid="olivier" creationdate="20261011T161605Z">
+        <seg>Nos resultados da tabela dinâmica, arraste um dos filtros, coluna ou campos de linha para uma posição diferente.</seg>
       </tuv>
     </tu>
     <tu>
