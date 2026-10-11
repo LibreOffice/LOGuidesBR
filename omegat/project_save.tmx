@@ -6235,6 +6235,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Hide Items.&lt;/f0&gt; Use these options to select the items to hide from the calculations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155218Z" creationid="olivier" creationdate="20261011T155218Z">
+        <seg>&lt;f0&gt;Ocultar itens&lt;/f0&gt;: use essas opções para selecionar os itens a serem ocultados dos cálculos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Hide all&lt;/f0&gt; – hides formulas and contents of the selected cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T004407Z" creationid="firelinux" creationdate="20260415T004407Z">
@@ -6271,6 +6279,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T115429Z" creationid="timotheonb" creationdate="20260602T115429Z">
         <seg>&lt;f0&gt;Hierárquico&lt;/f0&gt; – lista os estilos em sua relação hierárquica, por exemplo &lt;f1&gt;Título 1&lt;/f1&gt; e &lt;f2&gt;Título 2&lt;/f2&gt; em &lt;f3&gt;Título&lt;/f3&gt;, ou &lt;f4&gt;Destaque 1&lt;/f4&gt;, &lt;f5&gt;Destaque 2&lt;/f5&gt;, &lt;f6&gt;Destaque 3&lt;/f6&gt; em &lt;f7&gt;Destaque&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Hierarchy.&lt;/f0&gt; For the majority of users, this field will be disabled because Calc does not provide multiple hierarchies for a single field.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155324Z" creationid="olivier" creationdate="20261011T155324Z">
+        <seg>&lt;f0&gt;Hierarquia&lt;/f0&gt;: para a maioria dos usuários, o Calc não fornece várias hierarquias para um único campo e, portanto, essa opção normalmente está esmaecida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8261,8 +8277,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Show Automatically.&lt;/f0&gt; This feature displays the top or bottom &lt;f1&gt;nn&lt;/f1&gt; items when you sort by a specified field.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T153843Z" creationid="olivier" creationdate="20261011T153843Z">
-        <seg>&lt;f0&gt;Mostrar automaticamente.&lt;/f0&gt; Este recurso exibe os itens &lt;f1&gt;nn&lt;/f1&gt; superiores ou inferiores quando ordenar por um campo especificado.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T153915Z" creationid="olivier" creationdate="20261011T153843Z">
+        <seg>&lt;f0&gt;Mostrar automaticamente.&lt;/f0&gt; Este recurso exibe os &lt;f1&gt;nn&lt;/f1&gt; itens superiores ou inferiores quando ordenar por um campo especificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17705,6 +17721,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260915T112944Z" creationid="timotheonb" creationdate="20260915T112944Z">
         <seg>Um gráfico de pizza mostra os valores como seções circulares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A pivot table can be easily restructured using the Pivot Table Layout dialog (Figure &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155626Z" creationid="olivier" creationdate="20261011T155626Z">
+        <seg>Uma tabela dinâmica pode ser facilmente reestruturada usando a caixa de diálogo Leiaute da tabela dinâmica (Figura &lt;t0&gt;4&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28231,6 +28255,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing the layout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155641Z" creationid="olivier" creationdate="20261011T155641Z">
+        <seg>Mudar o leiaute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing the measurement unit for a ruler</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T110708Z" creationid="timot" creationdate="20250224T110708Z">
@@ -34342,6 +34374,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T211311Z" creationid="timot" creationdate="20250402T211311Z">
         <seg>Clique no botão &lt;f2&gt;Mais opções&lt;/f2&gt; para abrir a caixa de diálogo Estilo de página, para a opção de inserir distâncias de margem exatas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f2&gt;Show&lt;/f2&gt; option to turn on the automatic show feature and enter the maximum number of items that you want to show automatically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T153935Z" creationid="olivier" creationdate="20261011T153935Z">
+        <seg>Clique na opção &lt;f2&gt;Mostrar&lt;/f2&gt; para ativar o recurso de exibição automática e inserir o número máximo de itens que se deseja mostrar automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64156,6 +64196,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, if using a pivot table data source extension, that extension could define multiple hierarchies for some fields.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155411Z" creationid="olivier" creationdate="20261011T155411Z">
+        <seg>No entanto, se usar uma extensão de fonte de dados de tabela dinâmica, essa extensão pode definir várias hierarquias para alguns campos .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, if you are familiar with Excel you may wish to change the default syntax by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Formula &lt;/f0&gt;and choosing &lt;f1&gt;Excel A1&lt;/f1&gt; or &lt;f2&gt;Excel R1C1&lt;/f2&gt; in the &lt;f3&gt;Formula syntax&lt;/f3&gt; drop-down menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124758Z" creationid="olivier-tdf" creationdate="20250114T124758Z">
@@ -64329,6 +64377,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250509T093505Z" creationid="timot" creationdate="20250509T093505Z">
         <seg>No entanto, os diferentes elementos num leiaute de slide podem ser redimensionados e movidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>However, the options settings have no effect until that field is moved from the filters section to either the rows section or the columns section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155544Z" creationid="olivier" creationdate="20261011T155544Z">
+        <seg>No entanto, as configurações de opções não têm efeito até que esse campo seja movido da seção de filtros para a seção de linhas ou para a seção de colunas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71352,6 +71409,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In that case, this setting can be used to select the hierarchy to use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155432Z" creationid="olivier" creationdate="20261011T155432Z">
+        <seg>Nesse caso, essa configuração pode ser usada para selecionar a hierarquia a ser usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In the &lt;f0&gt;Action&lt;/f0&gt; area, select &lt;f1&gt;Move&lt;/f1&gt; to move the sheet or &lt;f2&gt;Copy&lt;/f2&gt; to copy the sheet.</seg>
       </tuv>
@@ -74963,6 +75029,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T223125Z" creationid="vitor" creationdate="20260329T223125Z">
         <seg>É possível mover elementos individuais de um gráfico, como um título ou nome do eixo, independente de outros elementos de gráfico como descrito:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>It is possible to set options for a field appearing in the filters section (Figure &lt;t0&gt;4&lt;/t0&gt;) the same way options are set for row fields and column fields.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155524Z" creationid="olivier" creationdate="20261011T155524Z">
+        <seg>É possível definir opções para um campo que aparece na seção de filtros (Figura &lt;t0&gt;4&lt;/t0&gt;) da mesma forma que as opções são definidas para campos de linha e campos de coluna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87232,6 +87307,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T120707Z" creationid="olivier" creationdate="20261011T120707Z">
         <seg>Opções para campos de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Options for filter fields</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155438Z" creationid="olivier" creationdate="20261011T155438Z">
+        <seg>Opções para campos de filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -109215,6 +109299,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f3&gt;From&lt;/f3&gt; drop-down list selects the top or bottom items in the specified sort order.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T154004Z" creationid="olivier" creationdate="20261011T154004Z">
+        <seg>A lista suspensa &lt;f3&gt;De&lt;/f3&gt; seleciona para mostrar os itens superiores ou inferiores na ordenação especificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f3&gt;Insert Field&lt;/f3&gt; sub-menu contains two &lt;f4&gt;Date&lt;/f4&gt; options – use the occurrence located directly above the &lt;f5&gt;Sheet Name&lt;/f5&gt; item.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211233Z" creationid="olivier" creationdate="20250123T205721Z">
@@ -109267,6 +109359,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T212645Z" creationid="olivier" creationdate="20250307T212645Z">
         <seg>A aba &lt;f4&gt;Menus de contexto&lt;/f4&gt; é semelhante à página &lt;f5&gt;Menus&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f4&gt;Using field&lt;/f4&gt; drop-down list selects the data field by which to sort the data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155118Z" creationid="olivier" creationdate="20261011T155118Z">
+        <seg>A lista suspensa &lt;f4&gt;Usando o campo&lt;/f4&gt; seleciona o campo de dados pelo qual ordenar os dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136936,6 +137036,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Working with the results of the pivot table</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155548Z" creationid="olivier" creationdate="20261011T155548Z">
+        <seg>Trabalhar com os resultados da tabela dinâmica</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Workspace</seg>
       </tuv>
@@ -140429,6 +140538,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>changing layout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155633Z" creationid="olivier" creationdate="20261011T155633Z">
+        <seg>mudar o leiaute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>chart elements</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T212713Z" creationid="vitor" creationdate="20260329T212713Z">
@@ -141093,6 +141210,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260409T125037Z" creationid="timotheonb" creationdate="20260409T125037Z">
         <seg>modo de formatação de preenchimento, usado para aplicar estilos de célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>filter field options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T155435Z" creationid="olivier" creationdate="20261011T155435Z">
+        <seg>opções para campos de filtro</seg>
       </tuv>
     </tu>
     <tu>
