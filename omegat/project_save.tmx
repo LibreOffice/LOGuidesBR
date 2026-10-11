@@ -4154,6 +4154,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Built-in keyboard shortcuts&lt;/f0&gt;: Some shortcuts are predefined, such as the F12 key, which groups a selected data range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094309Z" creationid="olivier" creationdate="20261011T094309Z">
+        <seg>&lt;f0&gt;Atalhos de teclado integrados&lt;/f0&gt;: alguns atalhos são predefinidos, como a tecla F12, que agrupa um intervalo de dados selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Callouts&lt;/f0&gt; (Figure &lt;t1&gt;28&lt;/t1&gt;) are numbered from left to right on the subtoolbar as follows:</seg>
       </tuv>
@@ -4688,6 +4697,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251023T213347Z" creationid="timotheonb" creationdate="20251023T213212Z">
         <seg>&lt;f0&gt;Criado em&lt;/f0&gt; – exibe a data, a hora e o autor em que o arquivo foi aberto pela primeira vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Creating unnecessary sheets&lt;/f0&gt;: For example, using separate sheets for each group of items.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093156Z" creationid="olivier" creationdate="20261011T093156Z">
+        <seg>&lt;f0&gt;Criar planilhas desnecessárias&lt;/f0&gt;: por exemplo, usando planilhas separadas para cada grupo de itens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6280,6 +6297,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213108Z" creationid="olivier-tdf" creationdate="20250109T215140Z">
         <seg>&lt;f0&gt;Além dos modelos agrupados &lt;/f0&gt;&lt;f1&gt;que &lt;/f1&gt;&lt;f2&gt;acompanham&lt;/f2&gt;&lt;f3&gt; a sua instalação, &lt;/f3&gt;&lt;f4&gt;muitos modelos estão disponíveis para download no site de modelos do LibreOffice em &lt;/f4&gt;&lt;a5&gt;&lt;f6&gt;https://templates.libreoffice.org/&lt;/f6&gt;&lt;/a5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Including summary rows in chronological data&lt;/f0&gt;: For example, adding a total row at the end of each month.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093346Z" creationid="olivier" creationdate="20261011T093346Z">
+        <seg>&lt;f0&gt;Incluir linhas de resumo em dados cronológicos&lt;/f0&gt;: por exemplo, adicionar uma linha total no final de cada mês.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8966,6 +8991,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Toolbar icons&lt;/f0&gt;: The standard toolbar includes icons for tasks like inserting or editing pivot tables, making these actions more accessible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094357Z" creationid="olivier" creationdate="20261011T094357Z">
+        <seg>&lt;f0&gt;Ícones da barra  de ferramentas&lt;/f0&gt;: a barra de ferramentas padrão inclui ícones para tarefas como inserir ou editar tabelas dinâmicas, tornando essas ações mais acessíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Tools &gt; Automatic Spell Checking&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260314T154243Z" creationid="olivier" creationdate="20260314T154243Z">
@@ -9242,6 +9275,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013423Z" creationid="olivier" creationdate="20250312T172956Z">
         <seg>&lt;f0&gt;Caminhos do usuário&lt;/f0&gt; são pastas específicas do usuário e normalmente estão localizados num único computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Using multiple columns for similar data&lt;/f0&gt;: For instance, in a sales list, creating separate columns for each employee's sales instead of a single column for all amounts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093239Z" creationid="olivier" creationdate="20261011T093239Z">
+        <seg>&lt;f0&gt;Usar várias colunas para dados semelhantes&lt;/f0&gt;: por exemplo, em uma lista de vendas, criar colunas separadas para as vendas de cada funcionário em vez de uma única coluna para todos os valores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10387,6 +10429,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T221855Z" creationid="olivier-tdf" creationdate="20250328T221855Z">
         <seg>&lt;s0&gt;Caixa de diálogo Censura automática&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Censura automática&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Automatic list selection with cursor in cell B7&lt;/s0&gt;&lt;s1&gt;Automatic list selection with cursor in cell B7&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092619Z" creationid="olivier" creationdate="20261011T092619Z">
+        <seg>&lt;s0&gt;Seleção automática de lista com cursor na célula B7&lt;/s0&gt;&lt;s1&gt;Seleção automática de lista com cursor na célula B7&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11847,6 +11897,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example of data with missing entries in Column A&lt;/s0&gt;&lt;s1&gt;Example of data with missing entries in Column A&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101541Z" creationid="olivier" creationdate="20261011T101541Z">
+        <seg>&lt;s0&gt;Exemplo de dados com entradas ausentes na coluna A&lt;/s0&gt;&lt;s1&gt;Exemplo de dados com entradas ausentes na coluna A&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example of editing inside a group&lt;/s0&gt;&lt;s1&gt;Example of editing inside a group&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T134119Z" creationid="olivier-tdf" creationdate="20250615T134119Z">
@@ -12007,6 +12065,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Expanded area of the Pivot Table Layout dialog&lt;/s0&gt;&lt;s1&gt;Expanded area of the Pivot Table Layout dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101238Z" creationid="olivier" creationdate="20261011T101238Z">
+        <seg>&lt;s0&gt;Área expandida da caixa de diálogo Layout da tabela dinâmica&lt;/s0&gt;&lt;s1&gt;Área expandida da caixa de diálogo Layout da tabela dinâmica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Export Text File dialog for CSV files&lt;/s0&gt;&lt;s1&gt;Export Text File dialog for CSV files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T125048Z" creationid="olivier-tdf" creationdate="20250117T125048Z">
@@ -12059,6 +12125,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T083346Z" creationid="olivier" creationdate="20250308T083346Z">
         <seg>&lt;s0&gt;Caixa de diálogo Extensões&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Extensões &lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Field order for analysis and resulting layout of pivot table&lt;/s0&gt;&lt;s1&gt;Field order for analysis and resulting layout of pivot table&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100347Z" creationid="olivier" creationdate="20261011T100347Z">
+        <seg>&lt;s0&gt;Ordem de campos para análise e leiaute resultante da tabela dinâmica&lt;/s0&gt;&lt;s1&gt;Ordem de campos para análise e leiaute resultante da tabela dinâmica&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13582,6 +13656,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Pivot Table Layout dialog&lt;/s0&gt;&lt;s1&gt;Pivot Table Layout dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100001Z" creationid="olivier" creationdate="20261011T100001Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Layout da tabela dinâmica&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Layout da tabela dinâmica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Pivot table example of a car dealer&lt;/s0&gt;&lt;s1&gt;Pivot table example of a car dealer&lt;/s1&gt;</seg>
@@ -13972,6 +14054,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20251123T210157Z" creationid="firelinux" creationdate="20251123T210157Z">
         <seg>&lt;s0&gt;Caixa de diálogo Selecionar planilhas Caixa&lt;/s0&gt;&lt;s1&gt; de diálogo Selecionar planilhas&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Select Source dialog&lt;/s0&gt;&lt;s1&gt;Select Source dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094949Z" creationid="olivier" creationdate="20261011T094949Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Selecionar fonte&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Selecionar fonte&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16152,6 +16242,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;t1/&gt;This structure complicates data grouping and prevents effective analysis with pivot tables.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093252Z" creationid="olivier" creationdate="20261011T093252Z">
+        <seg>&lt;t1/&gt;Essa estrutura complica o agrupamento de dados e impede a análise eficaz com tabelas dinâmicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;t2/&gt;Deselect &lt;f3&gt;Source format&lt;/f3&gt; to activate options on the Number Format for Percentage Value dialog.</seg>
       </tuv>
@@ -16502,6 +16601,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122033Z" creationid="olivier-tdf" creationdate="20250117T122033Z">
         <seg>Arquivos CSV (Valores separados por vírgulas) contém dados em formato tabular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A common source of errors occurs when a list is unintentionally defined and then sorted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092806Z" creationid="olivier" creationdate="20261011T092806Z">
+        <seg>Uma fonte relativamente comum de erros é declarar inadvertidamente uma lista por engano e, em seguida, ordená-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17452,6 +17559,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A registered data source is a connection to data held in a database outside of the spreadsheet document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093827Z" creationid="olivier" creationdate="20261011T093827Z">
+        <seg>Uma fonte de dados registrada é uma conexão a dados mantidos em um banco de dados fora do documento de planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A regular expression is a string of characters defining a pattern of text that is to be matched.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165323Z" creationid="firelinux" creationdate="20260403T165323Z">
@@ -18380,6 +18495,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Add filter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101105Z" creationid="olivier" creationdate="20261011T101105Z">
+        <seg>Adicionar filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Add metadata in the form of a title and description to an image.</seg>
       </tuv>
@@ -18935,6 +19059,23 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Additionally, there is an Available Fields area that lists the fields from the source data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095622Z" creationid="olivier" creationdate="20261011T095622Z">
+        <seg>Além disso, há uma área Campos disponíveis que lista os campos dos dados de origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additionally, you can create custom keyboard shortcuts and toolbar icons to suit your needs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094435Z" creationid="olivier" creationdate="20261011T094435Z">
+        <seg>Inclusive, é possível personalizar estilos existentes ou criar novos para atender às suas necessidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Additionally, you can set the print order, the first page number, and the page scale.</seg>
       </tuv>
@@ -19277,6 +19418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T161207Z" creationid="olivier" creationdate="20250318T161207Z">
         <seg>Após carregar o código do VBA, o LibreOffice insere a instrução Option VBASupport 1 em cada módulo BASIC para permitir um suporte limitado para instruções, funções e objetos do VBA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After making a selection, create the pivot table in one of three ways:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094618Z" creationid="olivier" creationdate="20261011T094618Z">
+        <seg>Depois de selecionar, crie a tabela dinâmica de uma das três maneiras:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21235,6 +21384,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Always select only one cell before initiating creation of a pivot table.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092722Z" creationid="olivier" creationdate="20261011T092722Z">
+        <seg>Sempre selecione apenas uma célula antes de iniciar a criação de uma tabela dinâmica.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Amanda Labby</seg>
       </tuv>
@@ -21697,6 +21855,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T192238Z" creationid="olivier-tdf" creationdate="20250309T192238Z">
         <seg>Uma data "anterior" é interpretada como sendo no século seguinte; isto é, 1/1/20 é interpretado como 1/1/2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Analyzing a list in a Calc spreadsheet is the simplest and most often used case.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093520Z" creationid="olivier" creationdate="20261011T093520Z">
+        <seg>Analisar uma lista em uma planilha de trabalho do Calc é o caso mais simples e usado com mais frequência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23590,6 +23757,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Automatic list selection with cursor in cell B7</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092636Z" creationid="olivier" creationdate="20261011T092636Z">
+        <seg>Seleção automática de lista com cursor na célula B7</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Automatic page break lines are displayed on screen.</seg>
       </tuv>
@@ -23732,6 +23908,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T224911Z" creationid="vitor" creationdate="20260405T224911Z">
         <seg>Evite isso aumentando o gráfico ou diminuindo o tamanho da fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Avoid using empty rows for formatting purposes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092537Z" creationid="olivier" creationdate="20261011T092537Z">
+        <seg>Evite usar linhas vazias para fins de formatação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24248,6 +24433,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Basic layout</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095452Z" creationid="olivier" creationdate="20261011T095452Z">
+        <seg>Leiaute básico</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Basic macro programming</seg>
       </tuv>
@@ -24550,6 +24744,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T192252Z" creationid="firelinux" creationdate="20260403T192252Z">
         <seg>Entre o valor mínimo do intervalo e o N-ésimo elemento inferior do mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Beyond these technical considerations, maintaining the logical structure of the list is equally crucial.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092952Z" creationid="olivier" creationdate="20261011T092952Z">
+        <seg>Além dessas considerações técnicas, manter a estrutura lógica da lista é igualmente crucial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24990,6 +25193,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251105T103922Z" creationid="timotheonb" creationdate="20251105T103922Z">
         <seg>Por padrão, o Calc aplica automaticamente muitas alterações durante a entrada de dados usando a &lt;f0&gt;Autocorreção&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, Calc inserts a &lt;f0&gt;Data&lt;/f0&gt; field into the &lt;f1&gt;Column Fields&lt;/f1&gt; area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100706Z" creationid="olivier" creationdate="20261011T100706Z">
+        <seg>Por padrão, o Calc insere um campo &lt;f0&gt;Dados&lt;/f0&gt; para a área &lt;f1&gt;Campos de coluna&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25803,6 +26014,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Calc automatically detects your lists using the following logic:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T090614Z" creationid="olivier" creationdate="20261011T090614Z">
+        <seg>O Calc detecta automaticamente suas listas usando a seguinte lógica:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Calc calculation options</seg>
       </tuv>
@@ -25916,6 +26136,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc can use many data sources in addition to databases that are created and maintained with LibreOffice Base.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093908Z" creationid="olivier" creationdate="20261011T093908Z">
+        <seg>O Calc é capaz de usar muitas fontes de dados diferentes, além de bancos de dados criados e mantidos com o LibreOffice Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc checks the content of adjacent cells and determines the data range automatically.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251022T190120Z" creationid="timotheonb" creationdate="20251022T190120Z">
@@ -26016,6 +26244,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251123T115015Z" creationid="olivier" creationdate="20251123T115015Z">
         <seg>O Calc exibe a caixa de diálogo Gravar macro, que inclui um botão &lt;f1&gt;Parar gravação&lt;/f1&gt; (Figura &lt;t2&gt;2&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc displays the Select Source dialog (Figure &lt;t0&gt;3&lt;/t0&gt;), where you can choose between using the selected data cells, a range of cells that has already been named, or a data source that has already been registered with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094841Z" creationid="olivier" creationdate="20261011T094841Z">
+        <seg>O Calc exibe a caixa de diálogo Selecionar a fonte dos dados (3), onde pode-se escolher entre usar as células de dados selecionadas, um intervalo de células que já foi nomeado ou uma fonte de dados que já foi registrada no LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26169,6 +26405,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124415Z" creationid="olivier-tdf" creationdate="20250114T124415Z">
         <seg>O Calc é o componente de documento de planilha do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc lists must have the &lt;f0&gt;normal form&lt;/f0&gt;; that is, they must have a simple linear structure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093008Z" creationid="olivier" creationdate="20261011T093008Z">
+        <seg>Listas do Calc devem ter a forma normal; ou seja, elas devem ter uma estrutura linear simples.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26370,6 +26614,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T195013Z" creationid="olivier" creationdate="20260930T195013Z">
         <seg>Opções específicas do Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc spreadsheet</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093513Z" creationid="olivier" creationdate="20261011T093513Z">
+        <seg>Planilha do Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -29666,6 +29918,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T184900Z" creationid="olivier-tdf" creationdate="20250209T184900Z">
         <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; e a ordenação é realizada na planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; on the Select Source dialog to display the Pivot Table Layout dialog, which is described in the next section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095111Z" creationid="olivier" creationdate="20261011T095111Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; na caixa de diálogo Selecionar fonte de dados para exibir a caixa de diálogo Leiaute da tabela dinâmica, descrita na próxima seção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33635,6 +33895,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Insert or Edit Pivot Table&lt;/f0&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094816Z" creationid="olivier" creationdate="20261011T094816Z">
+        <seg>Clique no ícone &lt;f0&gt;Inserir ou Editar tabela dinâmica&lt;/f0&gt; na barra de ferramentas padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the &lt;f0&gt;Libraries&lt;/f0&gt; tab and choose which library you want to export.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T174849Z" creationid="olivier-tdf" creationdate="20250708T174849Z">
@@ -35153,6 +35421,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T113502Z" creationid="vitor" creationdate="20260412T113502Z">
         <seg>Colore objetos como setas, formas e textos explicativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Column Fields</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095558Z" creationid="olivier" creationdate="20261011T095558Z">
+        <seg>Campos de coluna</seg>
       </tuv>
     </tu>
     <tu>
@@ -36830,6 +37107,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T191220Z" creationid="timotheonb" creationdate="20250530T191220Z">
         <seg>Criar um álbum de fotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating a pivot table</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094509Z" creationid="olivier" creationdate="20261011T094509Z">
+        <seg>Criar uma tabela dinâmica</seg>
       </tuv>
     </tu>
     <tu>
@@ -38978,6 +39263,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data Fields</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095605Z" creationid="olivier" creationdate="20261011T095605Z">
+        <seg>Campos de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data Form dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T223928Z" creationid="olivier" creationdate="20250123T223928Z">
@@ -39246,6 +39539,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260401T002327Z" creationid="vitor" creationdate="20260401T002327Z">
         <seg>Série de dados alinhada a um eixo Y secundário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Data sources</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093432Z" creationid="olivier" creationdate="20261011T093432Z">
+        <seg>Fontes de dados</seg>
       </tuv>
     </tu>
     <tu>
@@ -40330,6 +40632,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172311Z" creationid="olivier" creationdate="20250312T172311Z">
         <seg>A depender do tamanho do bitmap e da resolução de impressão, uma grande quantidade de dados pode ser gerada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Depending on its position within the list of fields in its area, the &lt;f5&gt;Data&lt;/f5&gt; field may lead to a button labeled &lt;f6&gt;Data&lt;/f6&gt; appearing in the results of the pivot table, affecting the layout of the results.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100854Z" creationid="olivier" creationdate="20261011T100854Z">
+        <seg>Dependendo de sua posição na lista de Campos em sua área, o campo &lt;f5&gt;Dados&lt;/f5&gt; pode levar a um botão rotulado &lt;f6&gt;Dados&lt;/f6&gt; aparecendo nos resultados da tabela dinâmica, afetando o leiaute dos resultados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43291,6 +43601,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each of these options is shown in Figure &lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;and described in the sections that follow.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101153Z" creationid="olivier" creationdate="20261011T101153Z">
+        <seg>Essas opções são mostradas na Figura &lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;e descritas nas seções a seguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each of these panels has a &lt;f0&gt;More Options&lt;/f0&gt; button that opens a dialog with additional options.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213625Z" creationid="olivier-tdf" creationdate="20250116T213625Z">
@@ -44164,6 +44482,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Enable drill to details</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101110Z" creationid="olivier" creationdate="20261011T101110Z">
+        <seg>Ativar análise de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Enable experimental features (may be unstable)</seg>
       </tuv>
@@ -44410,6 +44737,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184813Z" creationid="firelinux" creationdate="20260403T184813Z">
         <seg>Certifique-se de que o cálculo automático esteja ativado de uma das duas maneiras a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Ensure there are no empty rows or columns within the list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092530Z" creationid="olivier" creationdate="20261011T092530Z">
+        <seg>Certifique-se de que não haja linhas ou colunas vazias na lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45983,6 +46319,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example of data with missing entries in Column A</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101557Z" creationid="olivier" creationdate="20261011T101557Z">
+        <seg>Exemplo de dados com entradas ausentes na coluna A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example of editing inside a group</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T134128Z" creationid="olivier-tdf" creationdate="20250615T134128Z">
@@ -46345,6 +46689,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T104727Z" creationid="timot" creationdate="20250204T104727Z">
         <seg>Caixa de diálogo Localizar e substituir expandida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expanded area of the Pivot Table Layout dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101259Z" creationid="olivier" creationdate="20261011T101259Z">
+        <seg>Área expandida da caixa de diálogo Layout da tabela dinâmica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expanding the options section of the Pivot Table Layout dialog reveals the following options for working with pivot table layouts:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101029Z" creationid="olivier" creationdate="20261011T101029Z">
+        <seg>Expandir a seção de opções da caixa de diálogo Leiaute da tabela dinâmica revela as seguintes opções para trabalhar com leiautes da tabela:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47053,6 +47413,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Field order for analysis and resulting layout of pivot table</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100415Z" creationid="olivier" creationdate="20261011T100415Z">
+        <seg>Ordem de campos para análise e leiaute resultante da tabela dinâmica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fields are extremely useful features of Writer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T214124Z" creationid="timot" creationdate="20250409T214124Z">
@@ -47065,6 +47433,23 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T215226Z" creationid="timot" creationdate="20250409T215226Z">
         <seg>Campos são a base de referências cruzadas (ver&lt;bf0&gt;abaixo&lt;/bf0&gt;); numeração automática de figuras, tabelas, títulos e outros elementos; e uma ampla gama de outras funções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Fields in this area use an aggregate function by default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095820Z" creationid="olivier" creationdate="20261011T095820Z">
+        <seg>Os campos nesta área usam uma função de agregação por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fields that are placed into the &lt;f0&gt;Filters&lt;/f0&gt; area appear at the top of the resulting pivot table as a drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100434Z" creationid="olivier" creationdate="20261011T100434Z">
+        <seg>Os campos que são colocados na área &lt;f0&gt;Filtros&lt;/f0&gt; aparecem no topo da tabela dinâmica resultante como uma lista suspensa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49754,6 +50139,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Automatic list selection with cursor in cell B7</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092625Z" creationid="olivier" creationdate="20261011T092625Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Seleção automática de lista com cursor na célula B7</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Bar chart examples</seg>
       </tuv>
@@ -50516,6 +50910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Select Source dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095019Z" creationid="olivier" creationdate="20261011T095019Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: caixa de diálogo Selecionar fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Style submenu in Calc</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T171953Z" creationid="olivier-tdf" creationdate="20250403T171748Z">
@@ -50956,6 +51358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Pivot Table Layout dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100029Z" creationid="olivier" creationdate="20261011T100029Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: caixa de diálogo Leiaute da tabela dinâmica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Showing details of the change</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T135222Z" creationid="olivier" creationdate="20251019T135222Z">
@@ -51176,6 +51586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T141141Z" creationid="tulio" creationdate="20250411T141141Z">
         <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Exemplo de posicionamento de uma figura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Field order for analysis and resulting layout of pivot table</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100359Z" creationid="olivier" creationdate="20261011T100359Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Ordem dos campos para análise e leiaute resultante da tabela dinâmica</seg>
       </tuv>
     </tu>
     <tu>
@@ -51420,6 +51838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Expanded area of the Pivot Table Layout dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101251Z" creationid="olivier" creationdate="20261011T101251Z">
+        <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Área expandida da caixa de diálogo Leiaute da tabela dinâmica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: File tab</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260924T184938Z" creationid="olivier" creationdate="20260924T184938Z">
@@ -51552,6 +51978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250402T210800Z" creationid="olivier" creationdate="20250222T170031Z">
         <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Exemplo de deque do Navegador na Barra lateral do Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Example of data with missing entries in Column A</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101551Z" creationid="olivier" creationdate="20261011T101551Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Exemplo de dados com entradas ausentes na coluna A</seg>
       </tuv>
     </tu>
     <tu>
@@ -53061,6 +53495,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260415T001243Z" creationid="firelinux" creationdate="20260403T165335Z">
         <seg>Filtrar usando as caixas de diálogo Filtro padrão e Filtro avançado, acessíveis selecionando &lt;f0&gt;Dados &gt; Mais filtros &gt; Filtro padrão&lt;/f0&gt; e &lt;f1&gt;Dados &gt; Mais filtros &gt; Filtro avançado&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Filters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095555Z" creationid="olivier" creationdate="20261011T095555Z">
+        <seg>Filtros</seg>
       </tuv>
     </tu>
     <tu>
@@ -54705,6 +55148,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, dragging the &lt;f0&gt;Sales Value&lt;/f0&gt; field into the Data Fields area will initially display it as &lt;f1&gt;Sum – Sales Value&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095922Z" creationid="olivier" creationdate="20261011T095922Z">
+        <seg>Por exemplo, se arrastar o campo &lt;f0&gt;Valor de venda&lt;/f0&gt; para a área Campos de dados, inicialmente aparece lá como &lt;f1&gt;Soma – Valor de venda&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, for 3 decimal places, type one period and three question marks [&lt;f2&gt;.???]&lt;/f2&gt; and click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T231531Z" creationid="olivier-tdf" creationdate="20250122T231531Z">
@@ -54897,10 +55348,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if you drag &lt;f0&gt;Region&lt;/f0&gt; and &lt;f1&gt;Employee&lt;/f1&gt; into the &lt;f2&gt;Row Fields&lt;/f2&gt; area, the sum will be divided into the regions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100227Z" creationid="olivier" creationdate="20261011T100227Z">
+        <seg>Por exemplo, se arrastar &lt;f0&gt;Região&lt;/f0&gt; e &lt;f1&gt;Funcionário&lt;/f1&gt; na área &lt;f2&gt;Campos de linha&lt;/f2&gt;, a soma será dividida nas regiões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, if you have to repeatedly enter the same information into a document, you can create a macro that automatically enters this piece of information without having to copy it every time you need it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T083507Z" creationid="olivier-tdf" creationdate="20250701T083507Z">
         <seg>Por exemplo, se tiver que inserir repetidamente as mesmas informações num documento, poderá criar uma macro que insira automaticamente essas informações sem precisar copiá-las sempre que precisar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if you include &lt;f1&gt;Employee&lt;/f1&gt; in the &lt;f2&gt;Filters&lt;/f2&gt; area, you can filter the result shown for each employee.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100506Z" creationid="olivier" creationdate="20261011T100506Z">
+        <seg>Por exemplo, se incluir &lt;f1&gt;Funcionário&lt;/f1&gt; na área &lt;f2&gt;Filtros&lt;/f2&gt;, pode-se filtrar o resultado mostrado para cada funcionário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55045,6 +55512,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T084702Z" creationid="olivier-tdf" creationdate="20250701T084702Z">
         <seg>Por exemplo, selecione sua macro recém-criada &lt;f0&gt;EnterMyName&lt;/f0&gt; e clique em &lt;f1&gt;Executar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, selecting multiple cells—such as an entire column—can result in sorting that misaligns data that should remain together within rows.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092921Z" creationid="olivier" creationdate="20261011T092921Z">
+        <seg>Se selecionar várias células – por exemplo, uma coluna inteira – a ordenação mistura os dados que deveriam estar juntos na mesma linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55840,6 +56315,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T120500Z" creationid="timotheonb" creationdate="20260616T120500Z">
         <seg>Por exemplo, você pode criar uma pasta para modelos de vendas e outra para modelos de faturas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For instructions, see Chapter 16, Setting up and Customizing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094500Z" creationid="olivier" creationdate="20261011T094500Z">
+        <seg>Para obter instruções, consulte o Capítulo 16, Configurar e Personalizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56748,6 +57231,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see Chapter 12, Linking Data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093917Z" creationid="olivier" creationdate="20261011T093917Z">
+        <seg>Para obter mais informações, consulte o Capítulo 12, Vincular dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, see Chapter 12, Sharing and Reviewing Spreadsheets, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T190246Z" creationid="olivier-tdf" creationdate="20250209T190246Z">
@@ -57280,6 +57771,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T234215Z" creationid="vitor" creationdate="20260407T234215Z">
         <seg>Para a fonte de luz selecionada, selecione uma cor na primeira lista suspensa abaixo dos oito botões de fonte de luz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For these functions to work correctly:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092522Z" creationid="olivier" creationdate="20261011T092522Z">
+        <seg>Para que estas funções funcionem corretamente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61930,6 +62430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here are common mistakes often made by inexperienced spreadsheet users:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093112Z" creationid="olivier" creationdate="20261011T093112Z">
+        <seg>Alguns erros mais comuns cometidos por usuários inexperientes em planilhas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here are examples of how to setup a default printer on a computer in LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250225T000426Z" creationid="olivier" creationdate="20250222T182632Z">
@@ -62981,6 +63489,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, if the data is in plain text format, the Text Import dialog appears after you select the file containing the data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093727Z" creationid="olivier" creationdate="20261011T093727Z">
+        <seg>No entanto, se os dados estiverem em formato de texto sem formatação, a caixa de diálogo Importação de texto aparecerá após selecionar o arquivo que contém os dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, if the library you are importing has the same name and you are importing into the same location, it will not be copied.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T180246Z" creationid="olivier-tdf" creationdate="20250708T180246Z">
@@ -63699,6 +64215,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202143Z" creationid="olivier" creationdate="20250327T202143Z">
         <seg>Identificador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Identify categories</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101034Z" creationid="olivier" creationdate="20261011T101034Z">
+        <seg>Identificar categorias</seg>
       </tuv>
     </tu>
     <tu>
@@ -66072,6 +66597,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the data is in a common spreadsheet format, it is copied directly into Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093700Z" creationid="olivier" creationdate="20261011T093700Z">
+        <seg>Se os dados estiverem em um formato de planilha comum, eles serão copiados diretamente para o Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the data was imported from a CSV file, it may have been imported with incorrect locale settings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251103T115134Z" creationid="timotheonb" creationdate="20251103T115134Z">
@@ -66568,6 +67101,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If the source data is not in the recommended form, this option tells the pivot table to ignore empty rows.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101312Z" creationid="olivier" creationdate="20261011T101312Z">
+        <seg>Se os dados de origem não estiverem no formato recomendado, esta opção informa à tabela dinâmica para ignorar as linhas vazias.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>If the source document is closed before the image is pasted into the target document, the image stored on the clipboard could be lost.</seg>
       </tuv>
@@ -66870,6 +67412,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222456Z" creationid="olivier" creationdate="20250324T222456Z">
         <seg>Ao ativar esta opção, a marcação XObject de referência será usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this option is not chosen, then the pivot table inserts &lt;f2&gt;(empty)&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101508Z" creationid="olivier" creationdate="20261011T101508Z">
+        <seg>Se esta opção não for escolhida, a tabela dinâmica insere &lt;f2&gt;(vazio)&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67275,6 +67825,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you do not wish to use this facility, simply place the &lt;f7&gt;Data&lt;/f7&gt; field at the bottom of the list of fields in its area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100910Z" creationid="olivier" creationdate="20261011T100910Z">
+        <seg>Se não deseja usar esta facilidade, basta colocar o campo &lt;f7&gt;Dados&lt;/f7&gt; na parte inferior da lista de campos em sua área.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you do not, any changes you made since the last time you saved will appear only in the Microsoft Word version of the document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T173850Z" creationid="timot" creationdate="20250122T173850Z">
@@ -67303,6 +67861,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T084447Z" creationid="olivier-tdf" creationdate="20250701T084447Z">
         <seg>Se seguiu todas as etapas acima, macro de nome &lt;f0&gt;EnterMyName&lt;/f0&gt; foi criada dentro do módulo selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you frequently use pivot tables in Calc, navigating through the built-in menu paths might feel inconvenient.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094042Z" creationid="olivier" creationdate="20261011T094042Z">
+        <seg>Se usa tabelas dinâmicas com frequência no Calc, pode achar que o uso frequente dos menus inconveniente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67716,6 +68282,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you select more than one cell before creating a pivot table, then Calc’s automatic list recognition logic is not applied.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092655Z" creationid="olivier" creationdate="20261011T092655Z">
+        <seg>Se selecionar mais de uma célula antes de criar uma tabela dinâmica, a lógica de reconhecimento automático de lista do Calc não será aplicada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you select the &lt;f0&gt;Persistently save passwords for web connections&lt;/f0&gt; option, the &lt;f1&gt;Set Master Password&lt;/f1&gt; dialog opens.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175557Z" creationid="olivier" creationdate="20260926T175557Z">
@@ -67819,6 +68393,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If you want Calc to automatically determine the full extent of the raw data list, then select a single cell within this list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094535Z" creationid="olivier" creationdate="20261011T094535Z">
+        <seg>Se deseja que o Calc determine automaticamente a extensão total da lista de dados brutos, selecione uma única célula nesta lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>If you want LibreOffice to export a text document as a XHTML file, LibreOffice generates an XHTML file for each text document.</seg>
       </tuv>
@@ -67896,6 +68479,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230634Z" creationid="olivier-tdf" creationdate="20250122T230634Z">
         <seg>Se desejar exibir números com quatro dígitos inteiros, insira o valor 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to explicitly define the extent of the raw data list, then select only the relevant cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094556Z" creationid="olivier" creationdate="20261011T094556Z">
+        <seg>Se deseja definir explicitamente a extensão da lista de dados brutos, selecione todas as células relevantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68088,6 +68679,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T015605Z" creationid="olivier" creationdate="20250321T015605Z">
         <seg>Ignorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Ignore empty rows</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101031Z" creationid="olivier" creationdate="20261011T101031Z">
+        <seg>Ignorar linhas vazias</seg>
       </tuv>
     </tu>
     <tu>
@@ -72733,10 +73333,27 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Instead, Calc assumes that the pivot table is to be created using exactly the cells that you selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092713Z" creationid="olivier" creationdate="20261011T092713Z">
+        <seg>Em vez disso, o Calc assume que a tabela dinâmica deve ser criada usando exatamente as células que selecionou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Instead, Calc automatically loads just the &lt;f0&gt;Standard&lt;/f0&gt; library within the &lt;f1&gt;My Macros&lt;/f1&gt; library container and the document’s own &lt;f2&gt;Standard&lt;/f2&gt; library.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260520T003159Z" creationid="vitor" creationdate="20260520T003159Z">
         <seg>Ao invés disso, o Calc carrega automaticamente apenas a biblioteca &lt;f0&gt;Standard&lt;/f0&gt; no container de bibliotecas &lt;f1&gt;Minhas macros&lt;/f1&gt; e a biblioteca &lt;f2&gt;Standard&lt;/f2&gt; do próprio documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Instead, apply formatting directly to the cells within the list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092544Z" creationid="olivier" creationdate="20261011T092544Z">
+        <seg>Em vez disso, aplique a formatação diretamente às células dentro da lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72777,6 +73394,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224452Z" creationid="olivier" creationdate="20250327T224452Z">
         <seg>Em vez disso, use tabelas sem bordas para posicionar o conteúdo em vez do caractere de tabulação numa linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Instead, use the pivot table's built-in features to quickly generate monthly summaries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093427Z" creationid="olivier" creationdate="20261011T093427Z">
+        <seg>Em vez disso, use os recursos integrados da tabela dinâmica para gerar resumos mensais rapidamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73305,6 +73931,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260415T004118Z" creationid="vitor" creationdate="20260405T224457Z">
         <seg>Isto tem o mesmo conteúdo da aba &lt;f1&gt;Linha&lt;/f1&gt; da caixa de diálogo Série de Dados mostrado na figura &lt;t2&gt;22&lt;/t2&gt;&lt;s3/&gt;, mas exceto a seção &lt;f4&gt;Ícone&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>It identifies the list boundaries when it encounters an empty row or column or reaches the spreadsheet's edges (Figure &lt;t0&gt;2&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092516Z" creationid="olivier" creationdate="20261011T092516Z">
+        <seg>Ele identifica os limites da lista quando encontra uma linha ou coluna vazia ou atinge as bordas da planilha (Figura &lt;t0&gt;2&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -77049,6 +77684,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Lists can appear anywhere on the sheet and multiple unrelated lists can coexist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T090556Z" creationid="olivier" creationdate="20261011T090556Z">
+        <seg>As listas podem aparecer em qualquer lugar da planilha e várias listas não relacionadas podem coexistir.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Lists commands that allow you to insert and edit tables with text.</seg>
       </tuv>
@@ -77086,6 +77730,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183957Z" creationid="olivier" creationdate="20250222T183957Z">
         <seg>Lista as informações que se aplicam à impressora selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Lists might be updated regularly, or the data might be imported from a different application.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093528Z" creationid="olivier" creationdate="20261011T093528Z">
+        <seg>As listas podem ser atualizadas regularmente ou os dados podem ser importados de um aplicativo diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79539,6 +80192,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222701Z" creationid="olivier" creationdate="20250324T222701Z">
         <seg>Mais informações podem ser encontradas na &lt;f0&gt;especificação PDF, ISO 32000-2:2017&lt;/f0&gt; (&lt;a1&gt;https://www.iso.org/standard/63534.html&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>More options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100923Z" creationid="olivier" creationdate="20261011T100923Z">
+        <seg>Mais opções</seg>
       </tuv>
     </tu>
     <tu>
@@ -82483,6 +83145,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194827Z" creationid="olivier-tdf" creationdate="20250109T194827Z">
         <seg>A Ajuda Offline é instalada com a versão MacOS do LibreOffice &lt;f0&gt;por padrão&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often more than one field is used at a time to get partial sums for rows or columns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100130Z" creationid="olivier" creationdate="20261011T100130Z">
+        <seg>Frequentemente, mais de um campo pode ser usado por vez para obter somas parciais de linhas ou colunas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87332,6 +88002,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pivot Table Layout dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095449Z" creationid="olivier" creationdate="20261011T095449Z">
+        <seg>Caixa de diálogo Leiaute da tabela dinâmica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pivot charts</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T193806Z" creationid="olivier-tdf" creationdate="20250209T193806Z">
@@ -90146,6 +90824,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Refer to Appendix A, Keyboard Shortcuts, for a full list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094330Z" creationid="olivier" creationdate="20261011T094330Z">
+        <seg>Consulte o Apêndice A, Atalhos de Teclado, para obter uma lista completa.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Refer to Figure &lt;t0&gt;2&lt;/t0&gt; to see the PDF options available on the &lt;f1&gt;General&lt;/f1&gt; page of the PDF dialog.</seg>
       </tuv>
@@ -90279,6 +90966,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260225T212508Z" creationid="timotheonb" creationdate="20260225T212508Z">
         <seg>Regina Henschel, Timothy Brenan Jr., Olivier Hallot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Registered data source</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093741Z" creationid="olivier" creationdate="20261011T093741Z">
+        <seg>Fonte de dados registrada</seg>
       </tuv>
     </tu>
     <tu>
@@ -92796,6 +93492,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Row Fields</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095600Z" creationid="olivier" creationdate="20261011T095600Z">
+        <seg>Campos de linha</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Row First Cell</seg>
       </tuv>
@@ -92809,6 +93514,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260314T161715Z" creationid="olivier" creationdate="20260314T161715Z">
         <seg>Última linha de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Row and column fields indicate from which groups the result will be sorted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100045Z" creationid="olivier" creationdate="20261011T100045Z">
+        <seg>Os campos de linha e coluna indicam de quais grupos o resultado será ordenado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93813,6 +94526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Chapter 1, Introduction, for more information about this dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093738Z" creationid="olivier" creationdate="20261011T093738Z">
+        <seg>Consulte o Capítulo 1, Introdução, para obter mais informações sobre esta caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Chapter 1, LibreOffice Basics, for more information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T212802Z" creationid="olivier-tdf" creationdate="20250116T212802Z">
@@ -93877,10 +94598,27 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Chapter 12, Linking Data, for more information about linking to registered data sources.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094901Z" creationid="olivier" creationdate="20261011T094901Z">
+        <seg>Consulte o Capítulo 12, Vincular dados, para obter mais informações sobre como vincular a fontes de dados registradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Chapter 12, Linking Data, for more information on hyperlinks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T124413Z" creationid="timotheonb" creationdate="20260914T124413Z">
         <seg>Consulte o Capítulo 12, Vincular dados, para obter mais informações sobre hiperlinks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>See Chapter 12, Linking Data, for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093623Z" creationid="olivier" creationdate="20261011T093623Z">
+        <seg>Consulte o Capítulo 12, Vincular dados, para obter mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93897,6 +94635,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T215234Z" creationid="olivier-tdf" creationdate="20250109T194743Z">
         <seg>Consulte o Capítulo 13, Personalizar o LibreOffice, para obter mais informações sobre a instalação de extensões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>See Chapter 15, Calc as a Database, for more information about named ranges.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094846Z" creationid="olivier" creationdate="20261011T094846Z">
+        <seg>Consulte o Capítulo 15, Calc como um banco de dados, para obter mais informações sobre intervalos nomeados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95834,6 +96581,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260714T232206Z" creationid="vitor" creationdate="20260714T232206Z">
         <seg>Selecionar linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select Source dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095029Z" creationid="olivier" creationdate="20261011T095029Z">
+        <seg>Caixa de diálogo Selecionar fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -101495,6 +102250,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Show expand/collapse buttons</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101113Z" creationid="olivier" creationdate="20261011T101113Z">
+        <seg>Mostrar botões de expandir/recolher</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Show labels</seg>
       </tuv>
@@ -104373,6 +105137,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250414T001803Z" creationid="timot" creationdate="20250414T001803Z">
         <seg>Iniciar o Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Starting from the currently selected cell (which must be within the list), Calc scans in all four directions—left, right, up, and down.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T090643Z" creationid="olivier" creationdate="20261011T090643Z">
+        <seg>A partir da célula atualmente selecionada (que deve estar dentro da lista), o Calc verifica em todas as quatro direções - esquerda, direita, para cima e para baixo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107340,6 +108113,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f2&gt;Data&lt;/f2&gt; field can be moved between the &lt;f3&gt;Column Fields&lt;/f3&gt; and &lt;f4&gt;Row Fields&lt;/f4&gt; areas as required.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100826Z" creationid="olivier" creationdate="20261011T100826Z">
+        <seg>O campo &lt;f2&gt;Dados&lt;/f2&gt; pode ser movido entre as áreas &lt;f3&gt;Campos de coluna&lt;/f3&gt; e &lt;f4&gt;Campos de linha&lt;/f4&gt; conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f2&gt;Engraved&lt;/f2&gt; relief makes the characters appear as if they are pressed into the page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T001756Z" creationid="firelinux" creationdate="20260415T001731Z">
@@ -107728,6 +108509,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T193535Z" creationid="firelinux" creationdate="20260403T193535Z">
         <seg>A caixa de diálogo Barra de Dados é aberta (Figura&lt;t1&gt;18&lt;/t1&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Data Fields area must include at least one field, though advanced users can add multiple fields.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095805Z" creationid="olivier" creationdate="20261011T095805Z">
+        <seg>A área Campos de dados deve conter pelo menos um campo, embora usuários avançados possam adicionar vários campos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108673,6 +109462,23 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T201053Z" creationid="timot" creationdate="20250111T201053Z">
         <seg>A caixa de diálogo Estilo de página é aberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The Pivot Table Layout dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095116Z" creationid="olivier" creationdate="20261011T095116Z">
+        <seg>A caixa de diálogo Leiaute da tabela dinâmica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Pivot Table Layout dialog (Figure &lt;t0&gt;4&lt;/t0&gt;) organizes the resulting pivot table into four key areas:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095552Z" creationid="olivier" creationdate="20261011T095552Z">
+        <seg>A caixa de diálogo Layout da tabela dinâmica (Figura &lt;t0&gt;4&lt;/t0&gt;) organiza a tabela dinâmica resultante em quatro áreas principais:</seg>
       </tuv>
     </tu>
     <tu>
@@ -109626,6 +110432,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234149Z" creationid="olivier" creationdate="20250301T234149Z">
         <seg>A ideia básica por trás do código aberto é muito simples: quando os programadores podem ler, redistribuir e modificar o código-fonte de um software, o software evolui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The behavior of Calc while inserting data from a different application depends on the format of the data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093628Z" creationid="olivier" creationdate="20261011T093628Z">
+        <seg>O comportamento do Calc ao inserir dados de um aplicativo diferente depende do formato dos dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112648,6 +113463,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The list data might be entered directly into the spreadsheet or copied from another file or application.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093537Z" creationid="olivier" creationdate="20261011T093537Z">
+        <seg>Os dados da lista podem ser inseridos diretamente na planilha ou copiados de outro arquivo ou aplicativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The list in the left-hand box of the Options LibreOffice dialog varies depending on which LibreOffice module is open.</seg>
       </tuv>
@@ -113693,6 +114517,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The option &lt;f0&gt;Identify categories&lt;/f0&gt; ensures that in this example rows 3 and 4 are included for Apples and that row 6 is included for Pears (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101643Z" creationid="olivier" creationdate="20261011T101643Z">
+        <seg>A opção &lt;f0&gt;Identificar categorias&lt;/f0&gt; garante que neste exemplo as linhas 3 e 4 sejam incluídas para maçãs e que a linha 6 seja incluída para peras (Figura &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The option &lt;f0&gt;Select Chart Element&lt;/f0&gt; drop-down list does not appear elsewhere.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T212450Z" creationid="vitor" creationdate="20260329T212450Z">
@@ -113967,6 +114799,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The order of the fields gives the order of the sums from overall to specific.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100155Z" creationid="olivier" creationdate="20261011T100155Z">
+        <seg>A ordem dos campos fornece a ordem das somas desde o geral até o específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The original file will remain open in LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T213347Z" creationid="olivier" creationdate="20250324T213347Z">
@@ -114111,6 +114951,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The pivot table's functionality is controlled in two main areas: the &lt;f0&gt;Pivot Table Layout dialog&lt;/f0&gt; and direct manipulations of the resulting table within the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095210Z" creationid="olivier" creationdate="20261011T095210Z">
+        <seg>A funcionalidade da tabela dinâmica é controlada em duas áreas principais: a caixa de diálogo &lt;f0&gt;Leiaute da tabela dinâmica&lt;/f0&gt; e manipulações diretas da tabela resultante dentro da planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The plus (+) or minus (-) controls on the group indicator are used to show or hide rows or columns.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260324T170623Z" creationid="timotheonb" creationdate="20260324T170623Z">
@@ -114195,6 +115043,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T104912Z" creationid="vitor" creationdate="20260412T104912Z">
         <seg>A posição de um gráfico é coordenada em relação a um ponto fixo (o ponto de base).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The possible data sources for the pivot table are a Calc spreadsheet or an external data source that is registered in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093503Z" creationid="olivier" creationdate="20261011T093503Z">
+        <seg>As fontes de dados possíveis para a tabela dinâmica são uma planilha do Calc ou uma fonte de dados externa registrada no LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115197,6 +116053,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T173945Z" creationid="olivier" creationdate="20261008T173945Z">
         <seg>Os dados resumidos podem incluir cálculos como totais, médias, contagens ou outras medidas estatísticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The summary in the result takes into account only that part of the base data that you have selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100439Z" creationid="olivier" creationdate="20261011T100439Z">
+        <seg>O resumo no resultado leva em consideração apenas aquela parte dos dados básicos que se selecionou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116206,6 +117071,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T165551Z" creationid="timot" creationdate="20250409T165551Z">
         <seg>Em seguida selecione &lt;f0&gt;Inserir &gt; Nota de rodapé e nota de fim&lt;/f0&gt; na Barra de menus e escolha&lt;f1&gt;Nota de rodapé&lt;/f1&gt; ou&lt;f2&gt;Nota de fim&lt;/f2&gt;, ou clique no botão &lt;f3&gt;Inserir nota de rodapé&lt;/f3&gt; ou&lt;f4&gt;Inserir nota de fim&lt;/f4&gt; na Barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then select &lt;f0&gt;Insert &gt; Pivot Table&lt;/f0&gt; on the Menu bar, or select &lt;f1&gt;Data &gt; Pivot Table &gt; Insert or Edit&lt;/f1&gt; on the Menu bar, or click the &lt;f2&gt;Insert or Edit Pivot Table&lt;/f2&gt; icon on the Standard toolbar, or right-click in any cell of the pivot table and select the &lt;f3&gt;Properties&lt;/f3&gt; option in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095422Z" creationid="olivier" creationdate="20261011T095422Z">
+        <seg>Então selecione &lt;f0&gt;Inserir &gt; Tabela Dinâmica&lt;/f0&gt; na barra de menu ou selecione &lt;f1&gt;Dados &gt; Tabela Dinâmica &gt; Inserir ou Editar&lt;/f1&gt; na barra de menu ou clique no ícone &lt;f2&gt;Inserir ou editar tabela dinâmica&lt;/f2&gt; na barra de ferramentas padrão, ou clique com o botão direito em qualquer célula da tabela dinâmica e selecione a opção &lt;f3&gt;Propriedades&lt;/f3&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117678,6 +118551,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This allows Calc to automatically determine the full scope of your data list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092730Z" creationid="olivier" creationdate="20261011T092730Z">
+        <seg>Isso permite que o Calc determine automaticamente o escopo completo de sua lista de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This allows drawing another object of the same type.</seg>
       </tuv>
@@ -119128,6 +120010,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This limits analyses to individual groups and makes cross-group analysis difficult.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093212Z" creationid="olivier" creationdate="20261011T093212Z">
+        <seg>Isso limita as análises a grupos individuais e dificulta a análise entre grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This makes it easier for printers with a smaller memory when printing large files.</seg>
       </tuv>
@@ -119633,6 +120524,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This prevents the list from being sortable by different criteria since pivot tables treat summary rows as regular data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093414Z" creationid="olivier" creationdate="20261011T093414Z">
+        <seg>Isso impede que a lista seja ordenada por critérios diferentes, uma vez que as tabelas dinâmicas tratam as linhas de resumo como dados regulares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This provides a colored bar to reflect password strength, with red indicating a weak password and green indicating a strong password.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T134504Z" creationid="olivier" creationdate="20251019T134504Z">
@@ -119757,6 +120656,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250512T123339Z" creationid="timot" creationdate="20250512T122159Z">
         <seg>Esta seção fornece algumas diretrizes sobre como adicionar texto e alterar a aparência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This section provides a detailed explanation of the Pivot Table Layout dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095237Z" creationid="olivier" creationdate="20261011T095237Z">
+        <seg>Esta seção fornece uma explicação detalhada da caixa de diálogo Layout da tabela dinâmica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120439,6 +121346,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier" creationdate="20250121T155137Z">
         <seg>Para acessar a caixa de diálogo Mover/Copiar planilha, clique com o botão direito do mouse na aba da planilha que deseja mover ou copiar e selecione &lt;f0&gt;Mover ou Copiar planilha&lt;/f0&gt; no menu de contexto ou acesse &lt;f1&gt;Planilha &gt; Mover ou Copiar planilha&lt;/f1&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To access the Pivot Table Layout dialog again after initial creation of a pivot table, left-click in any cell of the pivot table.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095319Z" creationid="olivier" creationdate="20261011T095319Z">
+        <seg>Para acessar a caixa de diálogo Leiaute da tabela dinâmica novamente após a criação inicial de uma tabela dinâmica, clique com o botão esquerdo em qualquer célula da tabela dinâmica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122233,6 +123149,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To design the layout, simply drag fields from the Available Fields area and drop them into the desired section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095717Z" creationid="olivier" creationdate="20261011T095717Z">
+        <seg>Para criar o layout, basta arrastar os campos da área Campos disponíveis e soltá-los na seção desejada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To directly insert a table with the default properties, click the &lt;f0&gt;Insert Table&lt;/f0&gt; icon on the Standard toolbar.</seg>
       </tuv>
@@ -122639,6 +123564,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T191915Z" creationid="olivier-tdf" creationdate="20250708T191915Z">
         <seg>Para habilitá-lo, vá para &lt;f1&gt;Ferramentas &gt; Ferramentas de Desenvolvimento&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To enable proper analysis, all related data should be in the same column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093310Z" creationid="olivier" creationdate="20261011T093310Z">
+        <seg>Para permitir a análise adequada, todos os dados relacionados devem estar na mesma coluna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123695,6 +124629,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To make sure that Calc automatically recognizes a list correctly, check that there are no empty rows or empty columns within the list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T092555Z" creationid="olivier" creationdate="20261011T092555Z">
+        <seg>Para ter certeza de que o Calc reconhece automaticamente uma lista corretamente, verifique se não há linhas vazias ou colunas vazias na lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To make the first chart, after using the Chart Wizard enter the edit mode and go to &lt;f0&gt;Insert &gt; Grids&lt;/f0&gt;, deselect &lt;f1&gt;Y axis&lt;/f1&gt;, and choose &lt;f2&gt;Insert &gt; Mean Value Lines.&lt;/f2&gt; Right-click each mean value line and select &lt;f3&gt;Format Mean Value Line&lt;/f3&gt; to increase the width of the lines.</seg>
       </tuv>
@@ -123804,6 +124747,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T111953Z" creationid="timot" creationdate="20250202T111953Z">
         <seg>Para mover (arrastar e soltar) o texto selecionado usando o mouse, arraste-o para o novo local e solte-o.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To move a field from an area, just drag it to a new area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100511Z" creationid="olivier" creationdate="20261011T100511Z">
+        <seg>Para mover um campo de uma área, basta arrastá-lo para uma nova área.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124473,6 +125425,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To rapidly move a selected field from one area of the Pivot Table Layout dialog to another, press the &lt;f0&gt;Alt+letter&lt;/f0&gt; on the keyboard that corresponds to the underlined letter in the target area’s label.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100642Z" creationid="olivier" creationdate="20261011T100642Z">
+        <seg>Para mover rapidamente um campo selecionado de uma área da caixa de diálogo Leiaute da tabela dinâmica para outra, tecle &lt;f0&gt;Alt+letra&lt;/f0&gt; que corresponde à letra sublinhada na etiqueta da área de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To record changes, open the spreadsheet and make sure that the &lt;f0&gt;Edit &gt; Track Changes &gt; Record&lt;/f0&gt; menu item has a check mark next to it, indicating that change recording is active.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T152041Z" creationid="olivier" creationdate="20251019T134750Z">
@@ -124533,6 +125493,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261007T130947Z" creationid="olivier" creationdate="20261007T130947Z">
         <seg>Para remover um comando do menu selecionado, clique nele na lista de &lt;f0&gt;Comandos atribuídos&lt;/f0&gt; e clique na seta para a esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remove a field from the &lt;f0&gt;Filters&lt;/f0&gt;, &lt;f1&gt;Column Fields&lt;/f1&gt;, &lt;f2&gt;Row Fields&lt;/f2&gt;, or &lt;f3&gt;Data Fields&lt;/f3&gt; areas, drag it to the &lt;f4&gt;Available Fields&lt;/f4&gt; area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100608Z" creationid="olivier" creationdate="20261011T100608Z">
+        <seg>Para remover um campo das áreas &lt;f0&gt;Filtros&lt;/f0&gt;, &lt;f1&gt;Campos de coluna&lt;/f1&gt;, &lt;f2&gt;Campos de linha&lt;/f2&gt;, ou &lt;f3&gt;Campos de dados&lt;/f3&gt;, arraste-o para a área &lt;f4&gt;Campos disponíveis&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125524,6 +126492,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To streamline your workflow, consider the following options:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094051Z" creationid="olivier" creationdate="20261011T094051Z">
+        <seg>Para simplificar seu fluxo de trabalho, considere as seguintes opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To switch between these two views, use the &lt;f3&gt;Thumbnail View&lt;/f3&gt; and &lt;f4&gt;List View&lt;/f4&gt; icons located at the bottom left of the dialog.</seg>
       </tuv>
@@ -126319,10 +127296,26 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Total columns</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101055Z" creationid="olivier" creationdate="20261011T101055Z">
+        <seg>Colunas de total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total editing time</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T193749Z" creationid="olivier-tdf" creationdate="20250328T193749Z">
         <seg>Tempo total de edição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total rows</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101102Z" creationid="olivier" creationdate="20261011T101102Z">
+        <seg>Linhas de total</seg>
       </tuv>
     </tu>
     <tu>
@@ -127680,6 +128673,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use &lt;f0&gt;Data &gt; Pivot Table &gt; Insert or Edit&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094748Z" creationid="olivier" creationdate="20261011T094748Z">
+        <seg>Utilize &lt;f0&gt;Dados &gt; Tabela dinâmica &gt; Inserir ou Editar&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use &lt;f0&gt;Edit &gt; Paste Special &gt; Paste Special&lt;/f0&gt; on the Menu bar to open the Paste Special dialog (Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251123T115150Z" creationid="olivier" creationdate="20251123T115150Z">
@@ -127708,6 +128709,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195824Z" creationid="olivier-tdf" creationdate="20250708T195824Z">
         <seg>Use &lt;f0&gt;Ajuda &gt; Ajuda do LibreOffice&lt;/f0&gt; ou pressione a tecla &lt;f1&gt;F1&lt;/f1&gt; para abrir as páginas de ajuda do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use &lt;f0&gt;Insert &gt; Pivot Table&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094712Z" creationid="olivier" creationdate="20261011T094712Z">
+        <seg>Utilize &lt;f0&gt;Inserir &gt; Tabela dinâmica&lt;/f0&gt; na barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -129842,6 +130851,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T122139Z" creationid="olivier" creationdate="20250121T122139Z">
         <seg>Com os cabeçalhos de linha e coluna:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Using shortcuts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093923Z" creationid="olivier" creationdate="20261011T093923Z">
+        <seg>Usando atalhos</seg>
       </tuv>
     </tu>
     <tu>
@@ -132154,6 +133172,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When entering data, avoid adding outlines, groups, or summaries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093041Z" creationid="olivier" creationdate="20261011T093041Z">
+        <seg>Ao inserir os dados, não adicione esquemas, grupos ou resumos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When entering or editing data in cells, the Sidebar consists of five decks: &lt;f3&gt;Properties&lt;/f3&gt;, &lt;f4&gt;Styles&lt;/f4&gt;, &lt;f5&gt;Gallery&lt;/f5&gt;, &lt;f6&gt;Navigator&lt;/f6&gt;, and &lt;f7&gt;Functions&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250907T000743Z" creationid="firelinux" creationdate="20250907T000743Z">
@@ -133185,6 +134211,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T183409Z" creationid="olivier-tdf" creationdate="20250708T183409Z">
         <seg>Ao usar as caixas de diálogo do LibreOffice, em vez das caixas de diálogo específicas do sistema operacional, digite o nome do diretório desejado no campo &lt;f1&gt;Nome&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>When using a registered data source, the data to be analyzed will not be saved in the spreadsheet; Calc will always use the data from the original source.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093838Z" creationid="olivier" creationdate="20261011T093838Z">
+        <seg>Ao usar uma fonte de dados registrada, os dados a serem analisados não serão salvos no a planilha de trabalho; o Calc vai sempre usar os dados da fonte original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134479,6 +135514,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With this option selected, if the source data has missing entries in a list and does not meet the recommended data structure (as in Figure &lt;t0&gt;7&lt;/t0&gt;&lt;s1/&gt;for example), the pivot table adds it to the listed category above it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101432Z" creationid="olivier" creationdate="20261011T101432Z">
+        <seg>Com esta opção selecionada, se os dados de origem tiverem entradas ausentes em uma lista e não atenderem à estrutura de dados recomendada (como na Figura &lt;t0&gt;7&lt;/t0&gt;&lt;s1/&gt;por exemplo), a tabela dinâmica o adiciona à categoria listada acima dela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With this option set, expanding a selection (with &lt;f0&gt;Ctrl+Shift+Down/Up&lt;/f0&gt;) jumps to the end of the range in the column that was added as last to the initial selection.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261002T010542Z" creationid="olivier" creationdate="20261002T010542Z">
@@ -134499,6 +135542,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260527T010010Z" creationid="vitor" creationdate="20260520T000054Z">
         <seg>Na IDE Libreoffice Basic selecione &lt;f0&gt;Arquivo &gt; Salvar&lt;/f0&gt; na barra de menu ou clique no ícone &lt;f1&gt;Salvar&lt;/f1&gt; na barra de ferramentas padrão ou ainda pressione &lt;f2&gt;Ctrl&lt;/f2&gt;+&lt;f3&gt;S&lt;/f3&gt; para salvar o &lt;f4&gt;Module1&lt;/f4&gt; modificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Within the regions will be the listing for the different employees (Figure  &lt;t3&gt;5&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100258Z" creationid="olivier" creationdate="20261011T100258Z">
+        <seg>Dentro das regiões estará a lista para os diferentes funcionários (Figura &lt;t3&gt;5&lt;/t3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -135805,6 +136856,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T152009Z" creationid="olivier" creationdate="20251019T134428Z">
         <seg>É possível usar &lt;f2&gt;Arquivo &gt; Propriedades &gt; Segurança&lt;/f2&gt; e clicar no botão &lt;f3&gt;Proteger&lt;/f3&gt; para abrir a caixa de diálogo Digitar senha similar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also use a Web Page Query input filter to insert data from an HTML file, a CSV file, a Calc spreadsheet, or a Microsoft Excel spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093618Z" creationid="olivier" creationdate="20261011T093618Z">
+        <seg>Pode-se também usar um filtro de entrada tipo Consulta de página da Web para inserir dados de um arquivo HTML, um arquivo CSV, uma planilha do Calc ou uma planilha do Microsoft Excel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137865,6 +138924,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>additional options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100920Z" creationid="olivier" creationdate="20261011T100920Z">
+        <seg>opções adicionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>advanced</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225521Z" creationid="olivier" creationdate="20260926T225521Z">
@@ -138427,6 +139494,15 @@ Tab / ⇥</seg>
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>data sources</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093430Z" creationid="olivier" creationdate="20261011T093430Z">
+        <seg>fonte de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>database preconditions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T174616Z" creationid="olivier" creationdate="20261008T174616Z">
@@ -138463,6 +139539,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261002T010936Z" creationid="olivier" creationdate="20261002T010936Z">
         <seg>padrões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>defining the layout of the pivot table</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095431Z" creationid="olivier" creationdate="20261011T095431Z">
+        <seg>definir leiaute da tabela dinâmica</seg>
       </tuv>
     </tu>
     <tu>
