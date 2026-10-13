@@ -10152,8 +10152,8 @@
       <tuv lang="en-US">
         <seg>&lt;f4&gt;Ascending&lt;/f4&gt; sorts the values from the lowest value to the highest value.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091859Z" creationid="olivier" creationdate="20261013T091859Z">
-        <seg>&lt;f4&gt;Crescente&lt;/f4&gt; classifica os valores do valor mais baixo para o valor mais alto.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092014Z" creationid="olivier" creationdate="20261013T091859Z">
+        <seg>&lt;f4&gt;Crescente&lt;/f4&gt; ordena os valores do valor mais baixo para o valor mais alto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10208,8 +10208,8 @@
       <tuv lang="en-US">
         <seg>&lt;f6&gt;Manual&lt;/f6&gt; sorts values alphabetically.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091929Z" creationid="olivier" creationdate="20261013T091929Z">
-        <seg>&lt;f6&gt;Manual classifica os valores em ordem alfabética.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091946Z" creationid="olivier" creationdate="20261013T091929Z">
+        <seg>&lt;f6&gt;Manual&lt;/f6&gt; ordena os valores em ordem alfabética.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10443,6 +10443,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260331T143904Z" creationid="timotheonb" creationdate="20260331T143904Z">
         <seg>&lt;s0&gt;Caixa de diálogo Filtro avançado&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Filtro avançado&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;After the drill down&lt;/s0&gt;&lt;s1&gt;After the drill down&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092401Z" creationid="olivier" creationdate="20261013T092401Z">
+        <seg>&lt;s0&gt;After the drill down&lt;/s0&gt;&lt;s1&gt;After the drill down&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10683,6 +10691,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194803Z" creationid="olivier-tdf" creationdate="20250708T194803Z">
         <seg>&lt;s0&gt;Caixa de diálogo Macros BeanShell&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Macros BeanShell&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Before the drill down for Golf&lt;/s0&gt;&lt;s1&gt;Before the drill down for Golf&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092154Z" creationid="olivier" creationdate="20261013T092154Z">
+        <seg>&lt;s0&gt;Before the drill down for Golf&lt;/s0&gt;&lt;s1&gt;Before the drill down for Golf&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11575,6 +11591,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Dialog for defining the filter&lt;/s0&gt;&lt;s1&gt;Dialog for defining the filter&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093318Z" creationid="olivier" creationdate="20261013T093318Z">
+        <seg>&lt;s0&gt;Dialog for defining the filtro&lt;/s0&gt;&lt;s1&gt;Dialog for defining the filtro&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Dialog showing an example of common controls&lt;/s0&gt;&lt;s1&gt;Dialog showing an example of common controls&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214400Z" creationid="olivier-tdf" creationdate="20250109T214400Z">
@@ -12403,6 +12427,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215627Z" creationid="olivier" creationdate="20250123T215627Z">
         <seg>&lt;s0&gt;Caixa de diálogo Preencher série&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Preencher série&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Filter button in the upper left area of the pivot table&lt;/s0&gt;&lt;s1&gt;Filter button in the upper left area of the pivot table&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093132Z" creationid="olivier" creationdate="20261013T093132Z">
+        <seg>&lt;s0&gt;FILTRO button in the maiúscula esquerda area of the pivot tabela&lt;/s0&gt;&lt;s1&gt;FILTRO button in the maiúscula esquerda area of the pivot tabela&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Filter field filtering dialog&lt;/s0&gt;&lt;s1&gt;Filter field filtering dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093512Z" creationid="olivier" creationdate="20261013T093512Z">
+        <seg>&lt;s0&gt;FILTRO field filtering dialog&lt;/s0&gt;&lt;s1&gt;FILTRO field filtering dialog&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13519,6 +13559,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;New sheet after the drill down for a value in a data field&lt;/s0&gt;&lt;s1&gt;New sheet after the drill down for a value in a data field&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092718Z" creationid="olivier" creationdate="20261013T092718Z">
+        <seg>&lt;s0&gt;Novo planilha after the drill down for a valor in a data field&lt;/s0&gt;&lt;s1&gt;Novo planilha after the drill down for a valor in a data field&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;No subdivision with only one row or column field&lt;/s0&gt;&lt;s1&gt;No subdivision with only one row or column field&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T124415Z" creationid="olivier" creationdate="20261011T124415Z">
@@ -14484,6 +14532,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T213221Z" creationid="olivier-tdf" creationdate="20250116T213221Z">
         <seg>&lt;s0&gt;Selecionar operações matemáticas na barra de status&lt;/s0&gt;&lt;s1&gt;Selecionar operações matemáticas na barra de status&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Selecting the field for the subdivision&lt;/s0&gt;&lt;s1&gt;Selecting the field for the subdivision&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092321Z" creationid="olivier" creationdate="20261013T092321Z">
+        <seg>&lt;s0&gt;Selecting the field for the subdivision&lt;/s0&gt;&lt;s1&gt;Selecting the field for the subdivision&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20000,6 +20056,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After the drill down</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092424Z" creationid="olivier" creationdate="20261013T092424Z">
+        <seg>Após o detalhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After the extension is downloaded and saved, return to the &lt;f0&gt;Extensions&lt;/f0&gt; dialog and click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132400Z" creationid="olivier" creationdate="20261008T132400Z">
@@ -20044,6 +20108,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211935Z" creationid="olivier-tdf" creationdate="20250209T184409Z">
         <seg>Após adicionar informações, você pode ordenar os registros para atualizar a planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>After you have created the pivot table, changes in the source data do not cause an automatic update in the resulting table.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093611Z" creationid="olivier" creationdate="20261013T093611Z">
+        <seg>Depois de criar a tabela dinâmica, as alterações nos dados de origem não causam uma atualização automática na tabela resultante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21864,6 +21937,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260330T180329Z" creationid="timotheonb" creationdate="20260330T180329Z">
         <seg>Um Autofiltro adiciona uma lista suspensa à linha superior de uma ou mais colunas de dados, permitindo selecionar as linhas a serem exibidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An AutoFilter or Standard Filter used on the sheet containing the raw data has no effect on the pivot table analysis process.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092917Z" creationid="olivier" creationdate="20261013T092917Z">
+        <seg>Um filtro automático ou filtro padrão usado na planilha que contém os dados brutos não tem efeito no processo de análise da tabela dinâmica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25079,6 +25160,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Before the drill down for Golf</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092259Z" creationid="olivier" creationdate="20261013T092259Z">
+        <seg>Antes do detalhamento para Golfe</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Before using comments, make sure that the user name and initials are entered into &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; User Data)&lt;/f1&gt;.</seg>
       </tuv>
@@ -27666,6 +27756,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Cell formatting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093948Z" creationid="olivier" creationdate="20261013T093948Z">
+        <seg>Formatação de célula:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Cell navigation</seg>
       </tuv>
@@ -28095,6 +28194,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250728T170943Z" creationid="timotheonb" creationdate="20250728T170943Z">
         <seg>Mudanças nos capítulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Changes in the source data could appear in two ways:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093620Z" creationid="olivier" creationdate="20261013T093620Z">
+        <seg>As alterações nos dados de origem podem aparecer de duas maneiras:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34644,6 +34752,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112335Z" creationid="timot" creationdate="20250202T112335Z">
         <seg>Clique na seta no botão &lt;f0&gt;Colar&lt;/f0&gt; na barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the arrow on the right side of the filter field button to access the associated filtering dialog (Figure &lt;t1&gt;48&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093507Z" creationid="olivier" creationdate="20261013T093507Z">
+        <seg>Clique na seta do lado direito do botão do campo de filtro para acessar a caixa de diálogo de filtragem associada (Figura &lt;t1&gt;48&lt;/t1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41644,6 +41760,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dialog for defining the filter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093343Z" creationid="olivier" creationdate="20261013T093343Z">
+        <seg>Caixa de diálogo para definir o filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dialog showing an example of common controls</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T214423Z" creationid="olivier-tdf" creationdate="20250109T214423Z">
@@ -43875,6 +43999,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T174131Z" creationid="olivier" creationdate="20261008T174131Z">
         <seg>Aprofundar em detalhes específicos de interesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drilling</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092037Z" creationid="olivier" creationdate="20261013T092037Z">
+        <seg>Detalhar</seg>
       </tuv>
     </tu>
     <tu>
@@ -52076,6 +52208,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Before the drill down for Golf</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092236Z" creationid="olivier" creationdate="20261013T092236Z">
+        <seg>Figura &lt;seq0&gt;42&lt;/seq0&gt;: Antes do detalhamento para golfe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Example Print dialog — LibreOffice Impress page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T190854Z" creationid="timotheonb" creationdate="20250530T190854Z">
@@ -52132,10 +52272,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;43&lt;/seq0&gt;: Selecting the field for the subdivision</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092340Z" creationid="olivier" creationdate="20261013T092340Z">
+        <seg>Figura &lt;seq0&gt;43&lt;/seq0&gt;: Selecionar o campo para a subdivisão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;43&lt;/seq0&gt;: Sort dialog, Sort Criteria tab</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T185037Z" creationid="olivier-tdf" creationdate="20250209T185037Z">
         <seg>Figura &lt;seq0&gt;43&lt;/seq0&gt;: Caixa de diálogo Ordenar, aba Critérios de ordenação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;44&lt;/seq0&gt;: After the drill down</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092415Z" creationid="olivier" creationdate="20261013T092415Z">
+        <seg>Figura &lt;seq0&gt;44&lt;/seq0&gt;: Após o detalhamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -52188,6 +52344,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;45&lt;/seq0&gt;: New sheet after the drill down for a value in a data field</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092757Z" creationid="olivier" creationdate="20261013T092723Z">
+        <seg>Figura &lt;seq0&gt;45&lt;/seq0&gt;: nova planilha após o detalhamento de um valor em um campo de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;45&lt;/seq0&gt;: Page Style dialog – Sheet tab</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195428Z" creationid="olivier-tdf" creationdate="20250209T195406Z">
@@ -52220,6 +52384,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;46&lt;/seq0&gt;: Filter button in the upper left area of the pivot table</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093145Z" creationid="olivier" creationdate="20261013T093145Z">
+        <seg>Figura &lt;seq0&gt;46&lt;/seq0&gt;: botão Filtro na área superior esquerda da tabela dinâmica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;46&lt;/seq0&gt;: Slide Show Settings dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T204916Z" creationid="timotheonb" creationdate="20250530T204916Z">
@@ -52240,6 +52412,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T234358Z" creationid="vitor" creationdate="20260407T234358Z">
         <seg>Figura &lt;seq0&gt;47&lt;/seq0&gt;: Caixa de diálogo Visualização 3D – Aba Iluminação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;47&lt;/seq0&gt;: Dialog for defining the filter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093333Z" creationid="olivier" creationdate="20261013T093333Z">
+        <seg>Figura &lt;seq0&gt;47&lt;/seq0&gt;: caixa de diálogo para definir o filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -52272,6 +52452,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T103043Z" creationid="timotheonb" creationdate="20250531T103043Z">
         <seg>Figura &lt;seq0&gt;48&lt;/seq0&gt;: Deque Animação na Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;48&lt;/seq0&gt;: Filter field filtering dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093523Z" creationid="olivier" creationdate="20261013T093523Z">
+        <seg>Figura &lt;seq0&gt;48&lt;/seq0&gt;: caixa de diálogo de filtragem de campo de filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -54529,6 +54717,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Filter button in the upper left area of the pivot table</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093200Z" creationid="olivier" creationdate="20261013T093200Z">
+        <seg>Botão Filtro na área superior esquerda da tabela dinâmica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Filter data to show only rows with empty cells in the relevant column.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260331T143054Z" creationid="timotheonb" creationdate="20260331T143054Z">
@@ -54541,6 +54737,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260331T143120Z" creationid="timotheonb" creationdate="20260331T143120Z">
         <seg>Filtra dados para exibir apenas as linhas com células não vazias na coluna relevante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filter field filtering dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093532Z" creationid="olivier" creationdate="20261013T093532Z">
+        <seg>Caixa de diálogo de filtragem de campo de filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filter fields (that is, fields that you placed in the &lt;f0&gt;Filters&lt;/f0&gt; area of the Pivot Table Layout dialog) are another practical way to filter the results of the pivot table.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093441Z" creationid="olivier" creationdate="20261013T093441Z">
+        <seg>Campos de filtro (ou seja, campos que se colocou na área &lt;f0&gt;Filtros&lt;/f0&gt; da caixa de diálogo Leiaute da tabela dinâmica) são outra maneira prática de filtrar os resultados da tabela dinâmica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54589,6 +54801,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T113704Z" creationid="timotheonb" creationdate="20260602T113704Z">
         <seg>Filtrar a lista de estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filtering through column headings is described in “&lt;bf0&gt;Select sort order from drop-down menus on each column heading&lt;/bf0&gt;” &lt;bf1&gt;above&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093420Z" creationid="olivier" creationdate="20261013T093420Z">
+        <seg>A filtragem pelos cabeçalhos das colunas é descrita em “&lt;bf0&gt;Selecionar a ordem nos menus suspensos em cada título de coluna&lt;/bf0&gt;” acima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56265,6 +56485,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For example, double-click on the cell with the value Golf.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092144Z" creationid="olivier" creationdate="20261013T092144Z">
+        <seg>Por exemplo, clique duas vezes na célula com o valor Golfe.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For example, dragging the &lt;f0&gt;Sales Value&lt;/f0&gt; field into the Data Fields area will initially display it as &lt;f1&gt;Sum – Sales Value&lt;/f1&gt;.</seg>
       </tuv>
@@ -57119,6 +57348,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T192220Z" creationid="olivier-tdf" creationdate="20250209T192220Z">
         <seg>Por exemplo, você pode ter uma planilha contendo uma lista de doações para várias instituições de caridade por um grupo de recrutadores em vários meses, mas você só está interessado em quanto dinheiro cada recrutador coletou no total.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, you might have changed a sales value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093702Z" creationid="olivier" creationdate="20261013T093702Z">
+        <seg>Por exemplo, pode-se ter alterado um valor de venda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65988,6 +66225,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a simple addition to the list was made (for example, a new sale from a different employee was inserted), it is possible to update the pivot table by changing the range in the &lt;f1&gt;Selection&lt;/f1&gt; field in the &lt;f2&gt;Source&lt;/f2&gt; area of the Pivot Table Layout dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093847Z" creationid="olivier" creationdate="20261013T093847Z">
+        <seg>Se uma simples adição à lista foi feita (por exemplo, uma nova venda de um funcionário diferente foi inserida), isto é possível atualizar a tabela dinâmica alterando o intervalo no campo &lt;f1&gt;Seleção&lt;/f1&gt; na área &lt;f2&gt;Fonte&lt;/f2&gt; da caixa de diálogo Leiaute da tabela dinâmica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a single cell is referenced, then a cell object is returned.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260524T151349Z" creationid="vitor" creationdate="20260524T151349Z">
@@ -72013,6 +72258,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In our example, if we double-click on the cell with the value &lt;f0&gt;$18,741&lt;/f0&gt; from Figure &lt;t1&gt;42&lt;/t1&gt;, we would have a new list of all data sets that are included in this value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092711Z" creationid="olivier" creationdate="20261013T092711Z">
+        <seg>Em nosso exemplo, se clicarmos duas vezes na célula com o valor &lt;f0&gt;R$ 18.741,00&lt;/f0&gt; da Figura &lt;t1&gt;42&lt;/t1&gt;, teríamos uma nova lista de todos os conjuntos de dados incluídos neste valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In our initial implementation, the &lt;f3&gt;Volume()&lt;/f3&gt; function is stored in the &lt;f4&gt;AuthorsCalcMacros&lt;/f4&gt; library, which is not automatically loaded when the document is opened.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260520T003653Z" creationid="vitor" creationdate="20260520T003653Z">
@@ -72701,6 +72954,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the Filter dialog (Figure &lt;t0&gt;47&lt;/t0&gt;), you can define up to three filter options that are used in the same way as Calc’s Standard Filter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093227Z" creationid="olivier" creationdate="20261013T093227Z">
+        <seg>Na caixa de diálogo Filtro (Figura &lt;t0&gt;47&lt;/t0&gt;), pode-se definir até três opções de filtro que são usadas da mesma forma que o filtro padrão do Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the Fontwork Gallery (Figure &lt;t0&gt;15&lt;/t0&gt;), select a Fontwork style, then click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T130340Z" creationid="timotheonb" creationdate="20260914T130340Z">
@@ -72874,6 +73135,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251023T213111Z" creationid="timotheonb" creationdate="20251023T213111Z">
         <seg>No caso de um arquivo local, este é um link clicável que abre o navegador de arquivos para visualizar a pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In the case of more complex changes to the data set collection, you must redo the pivot table from the beginning.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093859Z" creationid="olivier" creationdate="20261013T093859Z">
+        <seg>No caso de alterações mais complexas na coleção de conjuntos de dados, você deve refazer a tabela dinâmica desde o início.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73265,6 +73535,24 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In this case, drill means an additional breakdown into the categories of another field.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092140Z" creationid="olivier" creationdate="20261013T092140Z">
+        <seg>Nesse caso, o detalhamento significa uma divisão adicional nas categorias de outro campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In this case, drill-down results in a listing of all data entries of the data source that aggregate to this value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092634Z" creationid="olivier" creationdate="20261013T092634Z">
+        <seg>Nesse caso, o detalhamento resulta em uma lista de todas as entradas de dados da fonte que agregam a esse valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In this case, if there is no data region above, focus is moved up the current column to the cell in row 1 of the sheet.</seg>
       </tuv>
@@ -73314,6 +73602,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this case, the change means that the pivot table has to use a different area of the spreadsheet for its analysis.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093805Z" creationid="olivier" creationdate="20261013T093805Z">
+        <seg> Nesse caso, a mudança significa que a tabela dinâmica deve usar uma área diferente da planilha para sua análise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this case, the data labels will remain displayed even when pressing &lt;f1&gt;Cancel&lt;/f1&gt; on the dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T235028Z" creationid="vitor" creationdate="20260405T235028Z">
@@ -73346,6 +73642,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this example, &lt;f0&gt;Employee&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092317Z" creationid="olivier" creationdate="20261013T092317Z">
+        <seg>Neste exemplo, &lt;f0&gt;Funcionário&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this example, consider the library &lt;f1&gt;TestLibrary&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T185756Z" creationid="olivier-tdf" creationdate="20250708T185756Z">
@@ -73374,6 +73678,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090855Z" creationid="olivier-tdf" creationdate="20250701T090855Z">
         <seg>Neste exemplo, há apenas um valor e ele é numerado como zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In this instance, the values that are aggregated within Golf can be subdivided using another field.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092149Z" creationid="olivier" creationdate="20261013T092149Z">
+        <seg>Neste caso, os valores que são agregados em Golfe podem ser subdivididos usando outro campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83606,6 +83919,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T144824Z" creationid="timotheonb" creationdate="20250504T144824Z">
         <seg>Nova apresentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New sheet after the drill down for a value in a data field</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092809Z" creationid="olivier" creationdate="20261013T092809Z">
+        <seg>Nova planilha após o detalhamento de um valor em um campo de dados</seg>
       </tuv>
     </tu>
     <tu>
@@ -102197,6 +102518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selecting the field for the subdivision</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092358Z" creationid="olivier" creationdate="20261013T092358Z">
+        <seg>Selecionar o campo para a subdivisão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selecting the range of contiguous cells you want to merge.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205854Z" creationid="olivier-tdf" creationdate="20250128T205844Z">
@@ -104504,8 +104833,8 @@
       <tuv lang="en-US">
         <seg>Similarly, &lt;f5&gt;Descending&lt;/f5&gt; sorts the values descending from the highest value to the lowest value.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091911Z" creationid="olivier" creationdate="20261013T091911Z">
-        <seg>Similarmente &lt;f5&gt;Decrescente&lt;/f5&gt; classifica os valores decrescentes do valor mais alto para o valor mais baixo.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091956Z" creationid="olivier" creationdate="20261013T091911Z">
+        <seg>Similarmente &lt;f5&gt;Decrescente&lt;/f5&gt; ordena os valores decrescentes do valor mais alto para o valor mais baixo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109451,6 +109780,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Filter&lt;/f0&gt; button is available only if the &lt;f1&gt;Add filter&lt;/f1&gt; option on the Pivot Table Layout dialog is selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093127Z" creationid="olivier" creationdate="20261013T093127Z">
+        <seg>O botão &lt;f0&gt;Filtro&lt;/f0&gt; está disponível apenas se a opção &lt;f1&gt;Adicionar filtro&lt;/f1&gt; na caixa de diálogo Leiaute da Tabela Dinâmica for selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Font&lt;/f0&gt; and &lt;f1&gt;Font Effects&lt;/f1&gt; tabs provide similar options to those on the corresponding tabs of the Cell Style dialog, described in the “Cell style attributes” section of Chapter 4, Using Styles and Templates.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260417T002051Z" creationid="vitor" creationdate="20260407T003547Z">
@@ -111725,6 +112062,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The Show Detail dialog appears allowing you to select the field to use for further subdivision.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092306Z" creationid="olivier" creationdate="20261013T092306Z">
+        <seg>A caixa de diálogo Mostrar detalhes aparece permitindo que se selecione o campo a ser usado para subdivisão posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The Sidebar (&lt;f0&gt;View &gt; Sidebar &lt;/f0&gt;or &lt;f1&gt;Ctrl+F5&lt;/f1&gt;) is located on the right-hand side of the window.</seg>
       </tuv>
@@ -112205,6 +112551,24 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The active cell is a data field.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092629Z" creationid="olivier" creationdate="20261013T092629Z">
+        <seg>A célula ativa é um campo de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The active cell is a row or column field.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092134Z" creationid="olivier" creationdate="20261013T092134Z">
+        <seg>A célula ativa é um campo de linha ou coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The active cell is always indicated by highlighting its corresponding column and row header cells.</seg>
       </tuv>
@@ -112234,6 +112598,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194641Z" creationid="olivier-tdf" creationdate="20250209T194641Z">
         <seg>O intervalo de impressão adicional será impresso como uma página separada, mesmo que ambos os intervalos estejam na mesma planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The advantage is that the filtering criteria used are clearly visible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093444Z" creationid="olivier" creationdate="20261013T093444Z">
+        <seg>A vantagem é que os critérios de filtragem usados são claramente visíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113147,6 +113520,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The content of existing data sets has been changed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093642Z" creationid="olivier" creationdate="20261013T093642Z">
+        <seg>O conteúdo dos conjuntos de dados existentes foi alterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The content of individual tabs and tab menus is similar to the corresponding components of the Tabbed interface and is not described further in this guide.</seg>
       </tuv>
@@ -113240,6 +113622,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175118Z" creationid="olivier" creationdate="20260926T175118Z">
         <seg>Os controles para as opções de segurança mostradas em &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;são descritos em detalhes abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The controls in the &lt;f1&gt;Options&lt;/f1&gt; section of this dialog are similar to the equivalent controls on Calc’s Standard Filter dialog – see Chapter 2, Entering and Editing Data for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093314Z" creationid="olivier" creationdate="20261013T093314Z">
+        <seg>Os controles na seção &lt;f1&gt;Opções&lt;/f1&gt; desta caixa de diálogo é semelhante aos controles equivalentes na caixa de diálogo Filtro padrão do Calc – consulte o Capítulo 2, Inserir, Editar e Formatar Dados para obter mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113449,6 +113839,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T110424Z" creationid="vitor" creationdate="20260405T110424Z">
         <seg>O ponto de dados mostrará alças de seleção quadradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The data presented in a pivot table can also be filtered using the drop-downs on the right-hand side of column headings or by using filter fields.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093348Z" creationid="olivier" creationdate="20261013T093348Z">
+        <seg>Os dados apresentados em uma tabela dinâmica também podem ser filtrados usando os menus suspensos no lado direito dos cabeçalhos das colunas ou usando campos de filtro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117089,6 +117488,15 @@ Tab / ⇥</seg>
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>The pivot table always uses the complete list that was selected when it was started.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092931Z" creationid="olivier" creationdate="20261013T092931Z">
+        <seg>A tabela dinâmica sempre usa a lista completa que foi selecionada quando foi iniciada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>The pivot table can contain a lot of categories, depending on your data source.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261012T152533Z" creationid="olivier" creationdate="20261012T152533Z">
@@ -117102,6 +117510,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261012T153056Z" creationid="olivier" creationdate="20261012T153056Z">
         <seg>A tabela dinâmica na Figura &lt;t0&gt;30&lt;/t0&gt;&lt;s1/&gt;é baseada nos mesmos dados brutos, mas as medições de velocidade foram agrupadas em intervalos de 10 km/h.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The pivot table remembers your selection (in our example the field &lt;f0&gt;Employee&lt;/f0&gt;) by adding and hiding the selected field so that for the next drill-down for a field in the &lt;f1&gt;Category&lt;/f1&gt; column the dialog does not appear.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092520Z" creationid="olivier" creationdate="20261013T092520Z">
+        <seg>A tabela dinâmica lembra sua seleção (em nosso exemplo o campo &lt;f0&gt;Funcionário&lt;/f0&gt;) adicionando e ocultando o campo selecionado, de modo que para o próximo detalhamento de um campo na coluna &lt;f1&gt;Categoria&lt;/f1&gt; a caixa de diálogo não aparece.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118481,6 +118897,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The text adjacent to a filter field button indicates the filtering status, that is “- all -” when nothing is filtered, “- multiple -” when multiple but not all items are filtered, or the value when only that value is not filtered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093554Z" creationid="olivier" creationdate="20261013T093554Z">
+        <seg>O texto adjacente a um botão do campo de filtro indica o status da filtragem, ou seja, “- todos -” quando nada é filtrado, “- vários -” quando vários, mas nem todos os itens são filtrados, ou o valor quando apenas esse valor não é filtrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The text at the top of the dialog displays the file name.</seg>
       </tuv>
@@ -119618,6 +120043,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223827Z" creationid="olivier-tdf" creationdate="20250122T223827Z">
         <seg>Existem dois métodos para dividir uma tela tanto horizontalmente &lt;f0&gt;quanto&lt;/f0&gt; verticalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>There are two possibilities:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092131Z" creationid="olivier" creationdate="20261013T092131Z">
+        <seg>Há duas possibilidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121694,6 +122128,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This facility is available only if you selected the &lt;f0&gt;Enable drill to details&lt;/f0&gt; option on the Pivot Table Layout dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092112Z" creationid="olivier" creationdate="20261013T092112Z">
+        <seg>Este recurso está disponível apenas se se selecionou a opção &lt;f0&gt;Ativar análise de dados&lt;/f0&gt; na caixa de diálogo Leiaute da tabela dinâmica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This facility is not applicable when inserting a line on a chart.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203852Z" creationid="vitor" creationdate="20260409T132133Z">
@@ -122308,6 +122750,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T093212Z" creationid="olivier" creationdate="20261011T093212Z">
         <seg>Isso limita as análises a grupos individuais e dificulta a análise entre grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This list is displayed in a new sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092714Z" creationid="olivier" creationdate="20261013T092714Z">
+        <seg>Esta lista é exibida em uma nova planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123722,6 +124173,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T203945Z" creationid="timotheonb" creationdate="20250530T203945Z">
         <seg>Para ativar uma apresentação personalizada, selecione-a na lista na caixa de diálogo Apresentações de slides personalizadas e selecione a opção &lt;f0&gt;Usar apresentação de slides personalizada&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To activate a drill, double-click on the cell or choose &lt;f0&gt;Data &gt; Group and Outline &gt; Show Details&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092129Z" creationid="olivier" creationdate="20261013T092129Z">
+        <seg>Para ativar um detalhamento, clique duas vezes na célula ou escolha &lt;f0&gt;Dados &gt; Esquema &gt; Mostrar detalhes&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125711,6 +126170,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To do this, click the &lt;f0&gt;Filter&lt;/f0&gt; button at the top left above the results, or right-click in the results and select &lt;f1&gt;Filter&lt;/f1&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092957Z" creationid="olivier" creationdate="20261013T092957Z">
+        <seg>Para fazer isso, clique no botão Filtro no canto superior esquerdo acima dos resultados, ou clique com o botão direito nos resultados e selecione &lt;f0&gt;Filtro&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To do this, right-click anywhere within the table of contents and choose &lt;f0&gt;Update index&lt;/f0&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T150623Z" creationid="timot" creationdate="20250409T150623Z">
@@ -126531,6 +126998,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To hide the details again, double-click on the cell Golf or choose &lt;f0&gt;Data &gt; Group and Outline &gt; Hide Details&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092450Z" creationid="olivier" creationdate="20261013T092450Z">
+        <seg>Para ocultar novamente os detalhes, clique duas vezes na célula Golfe ou selecione &lt;f0&gt;Dados &gt; Esquema &gt; Ocultar detalhes&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To hide the details of any group of rows or columns:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260324T214325Z" creationid="timotheonb" creationdate="20260324T214325Z">
@@ -126898,6 +127373,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T114856Z" creationid="timotheonb" creationdate="20260616T114845Z">
         <seg>Para saber onde as pastas de modelos estão armazenadas em seu computador, vá em &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Caminhos&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To limit the pivot table analysis to a subset of the information that is contained in the data basis, you can filter the pivot table results.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092832Z" creationid="olivier" creationdate="20261013T092832Z">
+        <seg>Para limitar a análise da tabela dinâmica a um subconjunto das informações contidas na base de dados, pode-se filtrar os resultados da tabela dinâmica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128018,6 +128502,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To remove the selection &lt;f2&gt;Employee&lt;/f2&gt;, open the Pivot Table Layout dialog and delete the unwanted selection in the &lt;f3&gt;Row&lt;/f3&gt; or &lt;f4&gt;Column Fields&lt;/f4&gt; area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092625Z" creationid="olivier" creationdate="20261013T092625Z">
+        <seg>Para remover a seleção &lt;f2&gt;Funcionário&lt;/f2&gt;, abra a caixa de diálogo Leiaute da tabela dinâmica e exclua a seleção indesejada na área &lt;f3&gt;Campos de linha&lt;/f3&gt; ou &lt;f4&gt;Campos de coluna&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To rename a menu item, select it in the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list and choose &lt;f1&gt;Rename&lt;/f1&gt; in the &lt;f2&gt;Modify&lt;/f2&gt; drop-down below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261007T131626Z" creationid="olivier" creationdate="20261007T131626Z">
@@ -129132,6 +129624,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T235405Z" creationid="tulio" creationdate="20250211T133920Z">
         <seg>Para destravar todas as barras de ferramentas e permitir que todas as barras de ferramentas sejam reposicionadas ou transformadas em barras de ferramentas flutuantes, acesse &lt;f0&gt;Exibir &gt; Barras de ferramentas&lt;/f0&gt; na barra de menus e selecione &lt;f1&gt;Travar barras de ferramentas&lt;/f1&gt; no submenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To update the pivot table, left-click in the results area and choose &lt;f0&gt;Data &gt; Pivot Table &gt; Refresh&lt;/f0&gt; on the Menu bar, or right-click in the results area and choose &lt;f1&gt;Refresh&lt;/f1&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093736Z" creationid="olivier" creationdate="20261013T093736Z">
+        <seg>Para atualizar a tabela dinâmica, clique com o botão esquerdo nos resultados área e escolha &lt;f0&gt;Dados &gt; Tabela dinâmica &gt; Atualizar&lt;/f0&gt; na barra de menu, ou clique com o botão direito no resultado área e escolha &lt;f1&gt;Atualizar&lt;/f1&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131003,6 +131503,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Updating (refreshing) changed values</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093608Z" creationid="olivier" creationdate="20261013T093608Z">
+        <seg>Atualizar os valores alterados</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Updating extensions</seg>
       </tuv>
@@ -131465,6 +131974,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250404T110813Z" creationid="timot" creationdate="20250404T110813Z">
         <seg>Use estilos de página diferentes para a primeira página e para as páginas seguintes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Use drilling to show the related detailed data for a single, compressed value in the pivot table result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092053Z" creationid="olivier" creationdate="20261013T092053Z">
+        <seg>Use o detalhamento para mostrar os dados detalhados relacionados para um único valor compactado no resultado da tabela dinâmica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -140972,6 +141490,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have added or deleted data sets in the original list.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093755Z" creationid="olivier" creationdate="20261013T093755Z">
+        <seg>Adicionou-se ou excluiu-se conjuntos de dados na lista original.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have to change the cell width manually or reposition the line break.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165639Z" creationid="firelinux" creationdate="20260403T165639Z">
@@ -141168,6 +141694,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260330T180140Z" creationid="timotheonb" creationdate="20260330T180140Z">
         <seg>Você deve ter definido o intervalo de origem em &lt;t2/&gt;&lt;f3&gt;Dados &gt; Definir intervalo&lt;/f3&gt; como um intervalo de banco de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You must update (refresh) the pivot table manually after changing any of the underlying data values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093615Z" creationid="olivier" creationdate="20261013T093615Z">
+        <seg>Deve-se atualizar (atualizar) a tabela dinâmica manualmente após alterar qualquer um dos valores de dados subjacentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -141726,6 +142261,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>cell formatting of results</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093926Z" creationid="olivier" creationdate="20261013T093926Z">
+        <seg>formatação de célula de resultados</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>cell styles</seg>
       </tuv>
@@ -142247,6 +142791,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260409T130527Z" creationid="vitor" creationdate="20260409T130527Z">
         <seg>objetos de desenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>drilling</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092029Z" creationid="olivier" creationdate="20261013T092029Z">
+        <seg>detalhar</seg>
       </tuv>
     </tu>
     <tu>
@@ -143647,6 +144199,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>pivot table cells</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093914Z" creationid="olivier" creationdate="20261013T093914Z">
+        <seg>células da tabela dinâmica</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>pivot tables</seg>
       </tuv>
@@ -143740,6 +144301,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251123T114216Z" creationid="olivier" creationdate="20251123T114216Z">
         <seg>gravar macros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>refreshing / updating changed values</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093601Z" creationid="olivier" creationdate="20261013T093601Z">
+        <seg>atualizando valores alterados</seg>
       </tuv>
     </tu>
     <tu>
