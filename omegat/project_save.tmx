@@ -10150,6 +10150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f4&gt;Ascending&lt;/f4&gt; sorts the values from the lowest value to the highest value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091859Z" creationid="olivier" creationdate="20261013T091859Z">
+        <seg>&lt;f4&gt;Crescente&lt;/f4&gt; classifica os valores do valor mais baixo para o valor mais alto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f4&gt;Close&lt;/f4&gt; and &lt;f5&gt;LibreOffice Help&lt;/f5&gt; icons are located adjacent to the &lt;f6&gt;File&lt;/f6&gt; and &lt;f7&gt;Help&lt;/f7&gt; menu buttons.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260924T185236Z" creationid="olivier" creationdate="20260924T185236Z">
@@ -10194,6 +10202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250310T230747Z" creationid="olivier" creationdate="20250310T230747Z">
         <seg>&lt;f5&gt;Colar área de transferência&lt;/f5&gt; — pressionar o botão do meio do mouse insere o conteúdo da &lt;f6&gt;área de transferência de Seleção&lt;/f6&gt; na posição do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f6&gt;Manual&lt;/f6&gt; sorts values alphabetically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091929Z" creationid="olivier" creationdate="20261013T091929Z">
+        <seg>&lt;f6&gt;Manual classifica os valores em ordem alfabética.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34046,6 +34062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click one cell to select it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091352Z" creationid="olivier" creationdate="20261013T091352Z">
+        <seg>Clique na célula para selecioná-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click one of the cells that has been assigned conditional formatting and copy the cell to the clipboard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203723Z" creationid="firelinux" creationdate="20260403T194056Z">
@@ -43179,6 +43203,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T130358Z" creationid="timotheonb" creationdate="20260914T130358Z">
         <seg>Clique duas vezes no objeto para editar o texto do Fontwork (Figura &lt;t0&gt;16&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-click the row or column field you want to sort.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091631Z" creationid="olivier" creationdate="20261013T091631Z">
+        <seg>Clique duas vezes no campo de linha ou coluna que deseja ordenar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55268,6 +55300,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For &lt;f0&gt;Sort by&lt;/f0&gt;, select either &lt;f1&gt;Ascending&lt;/f1&gt;, &lt;f2&gt;Descending&lt;/f2&gt;, or &lt;f3&gt;Manual&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091814Z" creationid="olivier" creationdate="20261013T091814Z">
+        <seg>Para &lt;f0&gt;Ordenar por&lt;/f0&gt;, escolha qualquer um &lt;f1&gt;Crescente&lt;/f1&gt;, &lt;f2&gt;Decrescente&lt;/f2&gt; ou &lt;f3&gt;Manual&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For &lt;f6&gt;Custom Spacing&lt;/f6&gt;, input a percentage value: 100% is normal character spacing, less than 100% character spacing is tighter, and more than 100% character spacing is looser.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141251Z" creationid="olivier-tdf" creationdate="20250615T141251Z">
@@ -64189,6 +64229,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Hold Shift or Ctrl and click additional cells to add them to the selection.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091453Z" creationid="olivier" creationdate="20261013T091453Z">
+        <seg>Mantenha pressionada a tecla Shift ou Ctrl e clique em células adicionais para adicioná-las à seleção.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click on the sheet tab for the each additional desired sheet.</seg>
       </tuv>
@@ -65751,6 +65800,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T140738Z" creationid="olivier" creationdate="20261011T140738Z">
         <seg>Se um campo de dados for selecionado, os itens são ordenados pelo valor resultante do campo de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a data field was selected, the items are sorted by the resultant value of the selected data field.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091847Z" creationid="olivier" creationdate="20261013T091847Z">
+        <seg>Se um campo de dados foi selecionado, os itens são ordenados pelo valor resultante do campo de dados selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68345,6 +68402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T011208Z" creationid="olivier" creationdate="20250321T011208Z">
         <seg>Se o mesmo erro for cometido novamente ao editar o documento, o erro será marcado como outro erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the selected field is the field for which the dialog was opened, the items are sorted by name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091834Z" creationid="olivier" creationdate="20261013T091834Z">
+        <seg>Se o campo selecionado for o campo para o qual a caixa de diálogo foi aberta, os itens serão ordenados por nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72543,6 +72608,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T124311Z" creationid="olivier" creationdate="20261011T124311Z">
         <seg>Na caixa de diálogo Campo de dados para um campo de linha ou coluna, pode-se escolher mostrar os subtotais para cada categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the Data Field dialog which opens (Figure &lt;t2&gt;15&lt;/t2&gt;), click &lt;f3&gt;Options&lt;/f3&gt; to display the Data Field Options dialog (Figure &lt;t4&gt;21&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091729Z" creationid="olivier" creationdate="20261013T091729Z">
+        <seg>Na caixa de diálogo Campo de dados que é aberta (Figura &lt;t2&gt;15&lt;/t2&gt;), clique &lt;f3&gt;Opções&lt;/f3&gt; para exibir a caixa de diálogo Opções de Campo de Dados (Figura &lt;t4&gt;21&lt;/t4&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -104429,6 +104502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Similarly, &lt;f5&gt;Descending&lt;/f5&gt; sorts the values descending from the highest value to the lowest value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091911Z" creationid="olivier" creationdate="20261013T091911Z">
+        <seg>Similarmente &lt;f5&gt;Decrescente&lt;/f5&gt; classifica os valores decrescentes do valor mais alto para o valor mais baixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Similarly, for a vertical split, click on the thick black line at the right of the horizontal scroll bar (Figure &lt;t0&gt;22&lt;/t0&gt;) and drag the split line to the right of the column where you want the vertical split positioned.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251022T105856Z" creationid="timotheonb" creationdate="20251022T105856Z">
@@ -105549,6 +105630,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T221238Z" creationid="olivier" creationdate="20250123T221238Z">
         <seg>Caixa de diálogo Listas ordenadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Sort automatically</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091455Z" creationid="olivier" creationdate="20261013T091455Z">
+        <seg>Ordenar automaticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -123184,6 +123274,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This will open the Pivot Table Layout dialog (Figure &lt;t1&gt;4&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091556Z" creationid="olivier" creationdate="20261013T091556Z">
+        <seg>Isso abrirá a caixa de diálogo Layout da Tabela Dinâmica (Figura &lt;t1&gt;4&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This works only when single-page view is activated on the Status Bar.</seg>
       </tuv>
@@ -128402,6 +128501,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To select multiple cells:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091342Z" creationid="olivier" creationdate="20261013T091342Z">
+        <seg>Para selecionar várias células:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To select multiple columns or rows that are contiguous:</seg>
       </tuv>
@@ -128655,6 +128763,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212118Z" creationid="lucianacmota0808" creationdate="20250701T212118Z">
         <seg>Para encaixar o final de uma linha no ponto de grade mais próximo, mantenha a &lt;f0&gt;tecla Ctrl&lt;/f0&gt; (macOS) pressionada enquanto desenha a linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To sort automatically, right-click within the pivot table and choose &lt;f0&gt;Properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091525Z" creationid="olivier" creationdate="20261013T091525Z">
+        <seg>Para ordenar automaticamente, clique com o botão direito na tabela dinâmica e selecione &lt;f0&gt;Propriedades&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
