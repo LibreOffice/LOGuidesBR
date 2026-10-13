@@ -15665,12 +15665,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Calc Guide 26.2 - Chapter 10, Using Pivot Tables&lt;/t3&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T104816Z" creationid="olivier" creationdate="20261013T104816Z">
-        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Calc Guide 26.2 - Chapter 10, Using Pivot Tables&lt;/t2&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T105241Z" creationid="olivier" creationdate="20261013T104816Z">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Calc Guide 26.2 - Chapter 10, Using Pivot Tables&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15850,12 +15849,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Calc Guide 26.2 - Chapter 10, Using Pivot Tables&lt;/t1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T104828Z" creationid="olivier" creationdate="20261013T104828Z">
-        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Calc Guide 26.2 - Chapter 10, Using Pivot Tables&lt;/t2&gt;</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T105257Z" creationid="olivier" creationdate="20261013T104828Z">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Calc Guide 26.2 - Chapter 10, Using Pivot Tables&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16904,12 +16902,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>=GETPIVOTDATA(Target Field; Pivot Table[; Field 1; Item 1][; ... [Field 126; Item 126]])</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T095033Z" creationid="olivier" creationdate="20261013T095033Z">
-        <seg>INFODADOSTABELADINÂMICA(Campo de dados; Tabela dinâmica; Nome do campo / item1; Nome do campo / item2;...)</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T105205Z" creationid="olivier" creationdate="20261013T095033Z">
+        <seg>=INFODADOSTABELADINÂMICA(Campo de dados; Tabela dinâmica; Nome do campo 1 / item1;[; ... [Nome do campo 126; Item 126]])</seg>
       </tuv>
     </tu>
     <tu>
@@ -54290,8 +54287,8 @@
       <tuv lang="en-US">
         <seg>Figure &lt;t0&gt;32&lt;/t0&gt;&lt;s1/&gt;illustrates this, showing monthly sales for the North region.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261012T153452Z" creationid="olivier" creationdate="20261012T153452Z">
-        <seg>A Figura &lt;t0&gt;32&lt;/t0&gt; mostra os mesmos dados, mas configurado para mostrar as vendas mensais na região Norte.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T104856Z" creationid="olivier" creationdate="20261012T153452Z">
+        <seg>A Figura &lt;t0&gt;32&lt;/t0&gt; &lt;s1/&gt;mostra os mesmos dados, mas configurado para mostrar as vendas mensais na região Norte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55263,8 +55260,8 @@
       <tuv lang="en-US">
         <seg>Filtering through column headings is described in “&lt;bf0&gt;Select sort order from drop-down menus on each column heading&lt;/bf0&gt;” &lt;bf1&gt;above&lt;/bf1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T093420Z" creationid="olivier" creationdate="20261013T093420Z">
-        <seg>A filtragem pelos cabeçalhos das colunas é descrita em “&lt;bf0&gt;Selecionar a ordem nos menus suspensos em cada título de coluna&lt;/bf0&gt;” acima.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T105017Z" creationid="olivier" creationdate="20261013T093420Z">
+        <seg>A filtragem pelos cabeçalhos das colunas é descrita em “&lt;bf0&gt;Selecionar a ordem nos menus suspensos em cada título de coluna&lt;/bf0&gt;” &lt;bf1&gt;acima&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127185,8 +127182,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>To do this, click the &lt;f0&gt;Filter&lt;/f0&gt; button at the top left above the results, or right-click in the results and select &lt;f1&gt;Filter&lt;/f1&gt; in the context menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092957Z" creationid="olivier" creationdate="20261013T092957Z">
-        <seg>Para fazer isso, clique no botão Filtro no canto superior esquerdo acima dos resultados, ou clique com o botão direito nos resultados e selecione &lt;f0&gt;Filtro&lt;/f0&gt; no menu de contexto.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T104951Z" creationid="olivier" creationdate="20261013T092957Z">
+        <seg>Para fazer isso, clique no botão &lt;f0&gt;Filtro&lt;/f0&gt; no canto superior esquerdo acima dos resultados, ou clique com o botão direito nos resultados e selecione &lt;f1&gt;Filtro&lt;/f1&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -144340,12 +144337,11 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>grouping date / time values</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261012T153059Z" creationid="olivier" creationdate="20261012T153059Z">
-        <seg>agrumapmanto de categorias data / hora</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261013T105345Z" creationid="olivier" creationdate="20261012T153059Z">
+        <seg>agrupamento de categorias data / hora</seg>
       </tuv>
     </tu>
     <tu>
