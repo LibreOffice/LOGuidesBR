@@ -291,10 +291,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'February' !</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142259Z" creationid="olivier" creationdate="20261021T142259Z">
+        <seg>'Fevereiro' !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'Gets the current selection</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T190355Z" creationid="olivier-tdf" creationdate="20250708T190355Z">
         <seg>'Obtém a seleção atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'Temperature'</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142310Z" creationid="olivier" creationdate="20261021T142310Z">
+        <seg>'Temperatura'</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,6 +424,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T221635Z" creationid="olivier" creationdate="20261020T221635Z">
         <seg>(A2:B4):C9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(A2:B4~B1:C2) !</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141839Z" creationid="olivier" creationdate="20261021T141839Z">
+        <seg>(A2:B4~B1:C2) !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Assumes that sheets &lt;f0&gt;Sheet1&lt;/f0&gt;, &lt;f1&gt;Sheet2&lt;/f1&gt;, and &lt;f2&gt;Sheet3&lt;/f2&gt; appear in that order on the Sheet tabs area.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140836Z" creationid="olivier" creationdate="20261021T140836Z">
+        <seg>(Assume que as planilhas &lt;f0&gt;Planilha1&lt;/f0&gt;, &lt;f1&gt;Planilha2&lt;/f1&gt; e &lt;f2&gt;Planilha3&lt;/f2&gt; aparecem nessa ordem na área de abas da planilha.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(B2:C6~C1:D3)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141842Z" creationid="olivier" creationdate="20261021T141842Z">
+        <seg>(B2:C6~C1:D3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -704,6 +744,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10:10</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142123Z" creationid="olivier" creationdate="20261021T142123Z">
+        <seg>10:10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10|</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260202T152754Z" creationid="olivier" creationdate="20260202T152754Z">
@@ -841,6 +889,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1:20</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140920Z" creationid="olivier" creationdate="20261021T140920Z">
+        <seg>120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1|' &lt;s0/&gt;***** &lt;s1/&gt;BASIC &lt;s2/&gt;*****</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260520T000152Z" creationid="vitor" creationdate="20260520T000152Z">
@@ -861,6 +917,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260225T212514Z" creationid="timotheonb" creationdate="20260225T212514Z">
         <seg>20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>20:20</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140906Z" creationid="olivier" creationdate="20261021T140906Z">
+        <seg>20:20</seg>
       </tuv>
     </tu>
     <tu>
@@ -4345,6 +4409,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T094309Z" creationid="olivier" creationdate="20261011T094309Z">
         <seg>&lt;f0&gt;Atalhos de teclado integrados&lt;/f0&gt;: alguns atalhos são predefinidos, como a tecla F12, que agrupa um intervalo de dados selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;COUNT(A1:C3~B2:D2)&lt;/f0&gt; returns 12 (=9+3), but it has only 10 cells when considered as the union of the two sets of cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141410Z" creationid="olivier" creationdate="20261021T141410Z">
+        <seg>&lt;f0&gt;CONT.NÚM(A1:C3~B2:D2)&lt;/f0&gt; retorna 12 (=9+3), mas tem apenas 10 células quando considerado como a união dos dois conjuntos de células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14574,6 +14646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Relative references&lt;/s0&gt;&lt;s1&gt;Relative references&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143222Z" creationid="olivier" creationdate="20261021T143222Z">
+        <seg>&lt;s0&gt;Relative references&lt;/s0&gt;&lt;s1&gt;Relative references&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Remote Files dialog&lt;/s0&gt;&lt;s1&gt;Remote Files dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T185443Z" creationid="olivier-tdf" creationdate="20250328T185300Z">
@@ -14978,6 +15058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T192301Z" creationid="olivier-tdf" creationdate="20250328T192301Z">
         <seg>&lt;s0&gt;Caixa de diálogo Linha de assinatura&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Linha de assinatura&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Simple example of reference intersection operator&lt;/s0&gt;&lt;s1&gt;Simple example of reference intersection operator&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141811Z" creationid="olivier" creationdate="20261021T141811Z">
+        <seg>&lt;s0&gt;Simple example of reference intersection operator&lt;/s0&gt;&lt;s1&gt;Simple example of reference intersection operator&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19254,6 +19342,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A2:B4 !</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141709Z" creationid="olivier" creationdate="20261021T141709Z">
+        <seg>A2:B4 !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A:B !</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142118Z" creationid="olivier" creationdate="20261021T142118Z">
+        <seg>A:B !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A:D</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140859Z" creationid="olivier" creationdate="20261021T140859Z">
+        <seg>A:D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>APNG – Animated &lt;f0&gt;P&lt;/f0&gt;ortable Network Graphic</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205828Z" creationid="olivier" creationdate="20250324T205828Z">
@@ -19339,6 +19451,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143219Z" creationid="olivier" creationdate="20250405T143219Z">
         <seg>Hiperlinks absolutos e relativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Absolute referencing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143411Z" creationid="olivier" creationdate="20261021T143411Z">
+        <seg>Referências absolutas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22662,6 +22783,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Always put the part that is to be calculated first in parentheses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142937Z" creationid="olivier" creationdate="20261021T142937Z">
+        <seg>Sempre coloque entre parênteses a parte que deve ser calculada primeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Always save as</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T153410Z" creationid="olivier" creationdate="20250318T153410Z">
@@ -22903,6 +23032,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An example of a relative reference will illustrate the difference between a relative reference and absolute reference using the spreadsheet from Figure &lt;t0&gt;8&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143033Z" creationid="olivier" creationdate="20261021T143033Z">
+        <seg>Um exemplo de referência relativa ilustrará a diferença entre uma referência relativa e uma referência absoluta usando a planilha de trabalho da Figura &lt;t0&gt;8&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An example of a simple macro is one that enters your address into the current cell of an open spreadsheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260527T005032Z" creationid="olivier" creationdate="20251111T235352Z">
@@ -23019,6 +23156,24 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110711Z" creationid="olivier-tdf" creationdate="20250701T110711Z">
         <seg>Uma explicação da UNO e das estruturas do usuário &lt;bk0/&gt;vai muito além do escopo deste livro.&lt;bk1/&gt; Para obter mais informações sobre como criar e usar estruturas, consulte o sistema de Ajuda do LibreOffice e outros guias BASIC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>An expression using the concatenation operator has the following syntax:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141045Z" creationid="olivier" creationdate="20261021T141045Z">
+        <seg>Uma expressão que usa o operador de concatenação tem a seguinte sintaxe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>An expression using the intersection operator has the following syntax:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141539Z" creationid="olivier" creationdate="20261021T141539Z">
+        <seg>Uma expressão que usa o operador de interseção tem a seguinte sintaxe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25441,6 +25596,31 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B3:D6</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141713Z" creationid="olivier" creationdate="20261021T141713Z">
+        <seg>B3:D6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B:B</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140842Z" creationid="olivier" creationdate="20261021T140842Z">
+        <seg>B:B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>B:B&lt;/f2&gt;, assuming that the data for February is in row 3 while the temperature data is in column B.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142913Z" creationid="olivier" creationdate="20261021T142913Z">
+        <seg>B:B&lt;/f2&gt;, assumindo que os dados de fevereiro estão na linha 3 enquanto os dados de temperatura estão na coluna B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BLACK</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T123933Z" creationid="olivier-tdf" creationdate="20250702T123933Z">
@@ -26557,6 +26737,24 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T201358Z" creationid="olivier-tdf" creationdate="20250328T201358Z">
         <seg>Categorias do Business Authentication Framework (BAF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>But if you name the cell B4 for example with _start and A2 with _end, you can use _start:_end without any error.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140957Z" creationid="olivier" creationdate="20261021T140957Z">
+        <seg>Mas se nomear a célula B4, por exemplo, com _começo e A2 com _fim, pode-se usar _começo:_fim sem nenhum erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>But it is not the union of the two sets 'reference left' and 'reference right' as normally understood in set theory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141130Z" creationid="olivier" creationdate="20261021T141130Z">
+        <seg>Mas não é a união dos dois conjuntos de “referência à esquerda” e “referência à direita” como normalmente entendido na teoria dos conjuntos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28651,6 +28849,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T130909Z" creationid="olivier-tdf" creationdate="20250218T130909Z">
         <seg>Célula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Cell B1 is 1 column to the left of cell C5 and 4 rows above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143322Z" creationid="olivier" creationdate="20261021T143322Z">
+        <seg>A célula B1 está 1 coluna à esquerda da célula C5 e 4 linhas acima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32888,6 +33095,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T151609Z" creationid="olivier-tdf" creationdate="20250403T172234Z">
         <seg>Clique num parágrafo para selecionar esse estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Click in cell C5.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143110Z" creationid="olivier" creationdate="20261021T143110Z">
+        <seg>Clique na célula C5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38472,6 +38688,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T111047Z" creationid="olivier-tdf" creationdate="20250701T111047Z">
         <seg>Copie os dados do site para a área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy the formula in cell B5 (&lt;f0&gt;=B3+B4&lt;/f0&gt;) to cell C5.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143059Z" creationid="olivier" creationdate="20261021T143059Z">
+        <seg>Copie a fórmula na célula B5 (&lt;f0&gt;=B3+B4&lt;/f0&gt;) para a célula C5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54795,6 +55019,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Simple example of reference intersection operator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141830Z" creationid="olivier" creationdate="20261021T141830Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Exemplo simples de operador de intersecção de referência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Tab Color dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250907T011605Z" creationid="firelinux" creationdate="20250907T011605Z">
@@ -54943,6 +55175,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260830T221726Z" creationid="olivier-tdf" creationdate="20260830T221726Z">
         <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Caixa de diálogo Posição e Tamanho – Aba Posição e Tamanho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Relative references</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143242Z" creationid="olivier" creationdate="20261021T143242Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Referências relativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -56574,6 +56814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First the intersections &lt;f0&gt;A2:B4!B2:C6&lt;/f0&gt;, &lt;f1&gt;A2:B4!C1:D3&lt;/f1&gt;, &lt;f2&gt;B1:C2!B2:C6,&lt;/f2&gt; and &lt;f3&gt;B1:C2!C1:D3&lt;/f3&gt; are calculated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142046Z" creationid="olivier" creationdate="20261021T142046Z">
+        <seg>Primeiro os cruzamentos &lt;f0&gt;A2:B4!B2:C6&lt;/f0&gt;, &lt;f1&gt;A2:B4!C1:D3&lt;/f1&gt;, &lt;f2&gt;B1:C2!B2:C6&lt;/f2&gt;, e &lt;f3&gt;B1:C2!C1:D3&lt;/f3&gt; são calculados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First, as the data in the pivot table is altered, the pivot chart will adjust itself automatically.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T193845Z" creationid="olivier-tdf" creationdate="20250209T193845Z">
@@ -57648,6 +57896,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260924T184702Z" creationid="olivier" creationdate="20260924T184702Z">
         <seg>Para cada aba que mostrar o ícone &lt;f0&gt;&gt;&gt;&lt;/f0&gt;, uma figura separada foi incluída para mostrar as opções adicionais que aparecem quando clicar no ícone &lt;f1&gt;&gt;&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example &lt;f0&gt;SUM(A:B~D:D)&lt;/f0&gt; is the sum of all cells in columns A and B and the column D.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141518Z" creationid="olivier" creationdate="20261021T141518Z">
+        <seg>Por exemplo &lt;f0&gt;SOMA(A:B~D:D)&lt;/f0&gt; é a soma de todas as células nas colunas A e B e na coluna D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59981,6 +60237,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250512T121929Z" creationid="timot" creationdate="20250512T121929Z">
         <seg>Para mais informações sobre modificar e executar uma apresentação, consulte o &lt;f1&gt;Guia do Impress&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For more information on naming cells, see “&lt;bf0&gt;Named ranges&lt;/bf0&gt;” &lt;bf1&gt;below&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141013Z" creationid="olivier" creationdate="20261021T141013Z">
+        <seg>Para obter mais informações sobre como nomear células, consulte "&lt;bf0&gt;Intervalos nomeados&lt;/bf0&gt;" &lt;bf1&gt;abaixo&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70001,12 +70266,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If the data needed was in different sheets, they would be referenced by referring to the name of the sheet, for example &lt;f0&gt;=$Sheet2.B12+$Sheet3.A11&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261020T215453Z" creationid="olivier" creationdate="20261020T215453Z">
-        <seg>Se os dados necessários estivessem em planilhas diferentes, eles seriam referenciados por referência ao nome da planilha, por exemplo =$Planilha2.B12+$Planilha3.A11.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140637Z" creationid="olivier" creationdate="20261020T215453Z">
+        <seg>Se os dados necessários estivessem em planilhas diferentes, eles seriam referenciados por referência ao nome da planilha, por exemplo &lt;f0&gt;=$Planilha2.B12+$Planilha3.A11&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70441,6 +70705,24 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261001T201120Z" creationid="olivier" creationdate="20261001T201120Z">
         <seg>Se o intervalo &lt;f2&gt;A1:B1&lt;/f2&gt; for referenciado e uma nova linha for inserida sob a linha 1, a referência não será expandida, uma vez que há apenas uma única célula na direção vertical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If the references are reference lists, then each list item from the left is intersected with each one from the right and these results are concatenated to a reference list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141656Z" creationid="olivier" creationdate="20261021T141656Z">
+        <seg>Se as referências forem listas de referência, então cada item da lista da esquerda é cruzado com cada um da direita e esses resultados são concatenados a uma lista de referência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If the references refer to single ranges, the result is a reference to a single range, containing all cells, which are both in the left reference and in the right reference.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141626Z" creationid="olivier" creationdate="20261021T141626Z">
+        <seg>Se as referências apontam a intervalos únicos, o resultado é uma referência a um único intervalo, contendo todas as células, que estão tanto na referência esquerda quanto na referência direita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71434,6 +71716,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T221835Z" creationid="timot" creationdate="20250409T221835Z">
         <seg>Se o rastreamento de alterações estiver ativado, a alteração será rastreada no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have columns labeled 'Temperature' and 'Precipitation' and the rows labeled 'January', 'February', 'March', and so on, then the following expression</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142226Z" creationid="olivier" creationdate="20261021T142226Z">
+        <seg>Se tiver colunas rotuladas “Temperatura” e “Precipitação” e as linhas rotuladas “Janeiro”, 'Fevereiro”, “Março” e assim por diante, então a seguinte expressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -73967,6 +74257,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="timot" creationdate="20250205T160544Z">
         <seg>Nos casos em que não deseja que o hífen apareça no final de uma linha, por exemplo, num número como 123-4567, é possível teclar &lt;f0&gt;Ctrl+Shift+sinal de subtração&lt;/f0&gt; ou usar &lt;f1&gt;Inserir &gt; Marca de formatação &gt; Inserir hífen inseparável&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In cell B5 the references to cells B3 and B4 are relative references.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143151Z" creationid="olivier" creationdate="20261021T143151Z">
+        <seg>Na célula B5, as referências às células B3 e B4 são referências relativas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86807,6 +87106,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notice that &lt;f0&gt;SUM(A1:C3,B2:D2)&lt;/f0&gt; is different from &lt;f1&gt;SUM(A1:C3~B2:D2)&lt;/f1&gt; although they give the same result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141451Z" creationid="olivier" creationdate="20261021T141451Z">
+        <seg>Note que &lt;f0&gt;SOMA(A1:C3,B2:D2)&lt;/f0&gt; é diferente de &lt;f1&gt;SOMA(A1:C3~B2:D2)&lt;/f1&gt; embora retornem o mesmo resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notice that a cell range returns data as an array of arrays, which is more cumbersome than treating it as an array with two dimensions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260527T010940Z" creationid="vitor" creationdate="20260524T151539Z">
@@ -86822,12 +87129,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Notice that the formula was shown as &lt;f0&gt;=B3+B4&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261020T215433Z" creationid="olivier" creationdate="20261020T215433Z">
-        <seg>Observe que a fórmula foi mostrada como =B3+B4.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140552Z" creationid="olivier" creationdate="20261020T215433Z">
+        <seg>Observe que a fórmula foi mostrada como &lt;f0&gt;=B3+B4&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -90976,12 +91282,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Other ways of using formulas are shown in Table &lt;t1&gt;1&lt;/t1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261020T215443Z" creationid="olivier" creationdate="20261020T215443Z">
-        <seg>Outras maneiras de usar fórmulas são mostradas na 1.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140614Z" creationid="olivier" creationdate="20261020T215443Z">
+        <seg>Outras maneiras de usar fórmulas são mostradas na Tabela &lt;t1&gt;1&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95264,6 +95569,24 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Reference concatenation operator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141036Z" creationid="olivier" creationdate="20261021T141036Z">
+        <seg>Operador de concatenação de referência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Reference intersection operator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141529Z" creationid="olivier" creationdate="20261021T141529Z">
+        <seg>Operador de interseção de referência</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Reference materials regarding database macros.</seg>
       </tuv>
@@ -95305,11 +95628,74 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Reference to a cuboid range with 24 cells, 4 column width × 2 row height × 3 sheets depth.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140802Z" creationid="olivier" creationdate="20261021T140802Z">
+        <seg>Referência a um intervalo cúbico com 24 células, largura de 4 colunas × altura de 2 linhas × profundidade de 3 planilhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Reference to a rectangle range with 6 cells, 2 column width × 3 row height.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T221620Z" creationid="olivier" creationdate="20261020T221620Z">
         <seg>Referencia a um intervalo retângulo com 6 células, largura de 2 colunas x altura de 3 linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Reference to a rectangle range with cell A2 top left and cell C9 bottom right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140727Z" creationid="olivier" creationdate="20261021T140727Z">
+        <seg>Referência a um intervalo retângulo com célula A2 superior esquerdo e célula C9 inferior direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Reference to all cell of rows 1 to 20.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140923Z" creationid="olivier" creationdate="20261021T140923Z">
+        <seg>Referência a todas as células das linhas 1 a 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Reference to all cells of column B.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140848Z" creationid="olivier" creationdate="20261021T140848Z">
+        <seg>Referência a todas as células da coluna B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Reference to all cells of columns A to D.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140902Z" creationid="olivier" creationdate="20261021T140902Z">
+        <seg>Referência a todas as células das colunas A a D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Reference to all cells of row 20.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140916Z" creationid="olivier" creationdate="20261021T140916Z">
+        <seg>Referência a todas as células da linha 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>References are the way that we refer to the location of a particular cell in Calc and can be either relative (to the current cell) or absolute (a fixed amount).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142959Z" creationid="olivier" creationdate="20261021T142959Z">
+        <seg>As referências são a forma como nos referimos à localização de uma célula específica no Calc e podem ser relativas (à célula atual) ou absolutas (uma quantidade fixa).</seg>
       </tuv>
     </tu>
     <tu>
@@ -95464,6 +95850,42 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152625Z" creationid="olivier" creationdate="20250318T152625Z">
         <seg>O endereçamento relativo só é possível se o documento de origem e o documento referenciado estiverem ambos na mesma unidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Relative addressing is the default method of referring to addresses in Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143403Z" creationid="olivier" creationdate="20261021T143403Z">
+        <seg>O endereçamento relativo é o método padrão de referência a endereços no Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Relative and absolute references</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142950Z" creationid="olivier" creationdate="20261021T142950Z">
+        <seg>Referências relativas e absolutas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Relative references</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143249Z" creationid="olivier" creationdate="20261021T143249Z">
+        <seg>Referências relativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Relative referencing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143007Z" creationid="olivier" creationdate="20261021T143007Z">
+        <seg>Referência relativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -106230,6 +106652,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sheet1.A3:Sheet3.D4</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140750Z" creationid="olivier" creationdate="20261021T140750Z">
+        <seg>Planilha1.A3:Planilha3.D4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sheets</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194108Z" creationid="firelinux" creationdate="20260403T194108Z">
@@ -107322,6 +107752,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Simple example of reference intersection operator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141835Z" creationid="olivier" creationdate="20261021T141835Z">
+        <seg>Exemplo simples de operador de intersecção de referência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Simple moving average for n previous y-values, with n being the period.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260408T001202Z" creationid="vitor" creationdate="20260408T001202Z">
@@ -107803,6 +108241,32 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So the final result is the reference list &lt;f4&gt;B2:B4 ~ B2:C2 ~ C1:C2&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142112Z" creationid="olivier" creationdate="20261021T142112Z">
+        <seg>Portanto, o resultado final é a lista de referência &lt;f4&gt;B2:B4~B2:C2~C1:C2&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>So the left top cell of the range is left of the colon and the bottom right cell is right of the colon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140944Z" creationid="olivier" creationdate="20261021T140944Z">
+        <seg>Portanto, a célula superior esquerda do intervalo fica à esquerda do dois pontos e a célula inferior direita fica à direita do dois pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>So the range contains 24 cells, 3 column width × 8 row height.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140733Z" creationid="olivier" creationdate="20261021T140733Z">
+        <seg>Portanto, o intervalo contém 24 células, largura de 3 colunas x altura de 8 linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So when a graphic object is selected in Writer, the Drawing Object Properties toolbar, which provides tools for formatting graphics, replaces the Formatting toolbar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172547Z" creationid="tulio" creationdate="20250119T172547Z">
@@ -107943,6 +108407,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T165121Z" creationid="olivier" creationdate="20250312T165121Z">
         <seg>Algumas fontes mostram uma visualização adicional de algum texto de exemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Some functions can take a reference list as an argument, SUM, MAX, or INDEX for example.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141116Z" creationid="olivier" creationdate="20261021T141116Z">
+        <seg>Algumas funções podem receber uma lista de referência como argumento, SOMA, MÁXIMO ou ÍNDICE, por exemplo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115174,6 +115647,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The address could be written as R[-4]C[-1].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143334Z" creationid="olivier" creationdate="20261021T143334Z">
+        <seg>O endereço pode ser escrito como R[-4]C[-1].</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The advantage is that the filtering criteria used are clearly visible.</seg>
@@ -115594,6 +116076,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261013T094008Z" creationid="olivier" creationdate="20261013T094008Z">
         <seg>As células na área de resultados da tabela dinâmica são formatadas automaticamente pelo Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The cells that have both an orange background and a thick black border (B3:B4) form the intersection of the two ranges.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141806Z" creationid="olivier" creationdate="20261021T141806Z">
+        <seg>As células que têm um fundo laranja e uma borda preta espessa (B3: B4) formam a interseção dos dois intervalos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116071,6 +116562,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The concatenation operator is written as a tilde.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141041Z" creationid="olivier" creationdate="20261021T141041Z">
+        <seg>O operador de concatenação é escrito como um til.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The condition applies to the internal text conversion of the cell contents.</seg>
       </tuv>
@@ -116270,6 +116770,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T205624Z" creationid="timotheonb" creationdate="20260825T205624Z">
         <seg>As alças de canto redimensionam a largura e a altura da figura simultaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The correct operation of this expression assumes that the &lt;f0&gt;Automatically find column and row labels&lt;/f0&gt; option on the &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate&lt;/f1&gt; dialog is enabled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142714Z" creationid="olivier" creationdate="20261021T142714Z">
+        <seg>A operação correta desta expressão pressupõe que a opção &lt;f0&gt;Localizar rótulos de linhas e colunas automaticamente&lt;/f0&gt; na caixa de diálogo &lt;f1&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Calcular&lt;/f1&gt; esteja ativada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117242,6 +117750,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The expression is equivalent to &lt;f2&gt;3:3 !</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142726Z" creationid="olivier" creationdate="20261021T142726Z">
+        <seg>A expressão é equivalente a &lt;f2&gt;3:3 !</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The extension is available at:</seg>
       </tuv>
@@ -117377,6 +117894,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250207T104753Z" creationid="timot" creationdate="20250207T104753Z">
         <seg>A primeira entrada no menu de contexto descreve a regra gramatical suspeita que foi quebrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The first is a function call with 2 parameters, each of them is reference to a range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141455Z" creationid="olivier" creationdate="20261021T141455Z">
+        <seg>A primeira é uma chamada de função com 2 parâmetros, cada um deles é referência a um intervalo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117896,10 +118422,27 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The formula bar shows &lt;f0&gt;=C3+C4&lt;/f0&gt; rather than &lt;f1&gt;=B3+B4&lt;/f1&gt; and the value in C5 is 15, the sum of 4 and 11 which are the values in C3 and C4.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143135Z" creationid="olivier" creationdate="20261021T143135Z">
+        <seg>A barra de fórmula mostra &lt;f0&gt;=C3+C4&lt;/f0&gt; em vez de &lt;f1&gt;=B3+B4&lt;/f1&gt; e o valor em C5 é 15, a soma de 4 e 11 que são os valores em C3 e C4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The formula cannot find what it has been asked to look for.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250730T014641Z" creationid="firelinux" creationdate="20250730T014641Z">
         <seg>A fórmula não consegue encontrar o que foi solicitado a procurar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The formula in B5 calculates the sum of values in the two cells B3 and B4.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143108Z" creationid="olivier" creationdate="20261021T143108Z">
+        <seg>A fórmula em B5 calcula a soma dos valores nas duas células B3 e B4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118406,6 +118949,24 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250730T014927Z" creationid="firelinux" creationdate="20250730T014927Z">
         <seg>A interseção de intervalos produziu zero células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The intersection operator (!) has a higher precedence than the concatenation operator (~), but do not rely on precedence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142922Z" creationid="olivier" creationdate="20261021T142922Z">
+        <seg>O operador de interseção (!) tem uma precedência mais alta do que o operador de concatenação (~), entretanto não confie na precedência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The intersection operator is written as an exclamation mark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141534Z" creationid="olivier" creationdate="20261021T141534Z">
+        <seg>O operador de interseção é escrito como um ponto de exclamação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120020,6 +120581,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The order is to first intersect the first item from the left with all items from the right, then intersect the second item from the left with all items from the right, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141700Z" creationid="olivier" creationdate="20261021T141700Z">
+        <seg>A ordem é primeiro cruzar o primeiro item da esquerda com todos os itens da direita, depois cruzar o segundo item da esquerda com todos os itens da direita e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The order of the fields gives the order of the sums from overall to specific.</seg>
       </tuv>
@@ -120572,6 +121142,24 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The reference concatenation also applies to whole rows and whole columns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141506Z" creationid="olivier" creationdate="20261021T141506Z">
+        <seg>A concatenação de referência também se aplica a linhas e colunas inteiras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The reference concatenation is sometimes called 'union'.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141121Z" creationid="olivier" creationdate="20261021T141121Z">
+        <seg>A concatenação de referência às vezes é chamada de ‘união’.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The referenced cell range is enclosed by a colored border as soon as the cell containing the reference is selected for editing.</seg>
       </tuv>
@@ -120717,6 +121305,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250918T002436Z" creationid="firelinux" creationdate="20250918T002436Z">
         <seg>O resultado de pressionar &lt;f0&gt;End&lt;/f0&gt; ou &lt;f1&gt;Ctrl+End&lt;/f1&gt; depende dos dados contidos na planilha.&lt;be2/&gt; Para explicar essas teclas pressionadas, é útil definir Rmax como a linha numerada mais alta na planilha que contém quaisquer dados e Cmax como a coluna mais à direita na planilha que contém quaisquer dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The result of such an expression is a reference list, which is an ordered list of references.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141108Z" creationid="olivier" creationdate="20261021T141108Z">
+        <seg>O resultado de tal expressão é uma lista de referência, que é uma lista ordenada de referências.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120920,6 +121517,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260915T110314Z" creationid="timotheonb" creationdate="20260915T110314Z">
         <seg>O segundo gráfico é um gráfico 3D criado com uma borda simples e forma de cilindro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The second is a function call with 1 parameter, which is a reference list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141501Z" creationid="olivier" creationdate="20261021T141501Z">
+        <seg>A segunda é uma chamada de função com 1 parâmetro, que é uma lista de referência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122636,6 +123242,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Then these results are concatenated, dropping empty parts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142058Z" creationid="olivier" creationdate="20261021T142058Z">
+        <seg>Em seguida, esses resultados são concatenados, eliminando as partes vazias.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Then type the formula &lt;f2&gt;=A1=B1&lt;/f2&gt; in cell C1.</seg>
@@ -124330,6 +124945,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This calculates the intersection of columns A and B with row 10, thus selecting A10 and B10.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142143Z" creationid="olivier" creationdate="20261021T142143Z">
+        <seg>Calcula a interseção das colunas A e B com a linha 10, selecionando A10 e B10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This can be a LibreOffice module, or one of the listed documents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T225510Z" creationid="olivier" creationdate="20250307T225510Z">
@@ -124828,12 +125451,11 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This document is Copyright © &lt;t0&gt;2026&lt;/t0&gt;&lt;s1/&gt;by the LibreOffice Documentation Team.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261017T134139Z" creationid="olivier" creationdate="20261017T134139Z">
-        <seg>Este documento é protegido por Copyright © &lt;ud0&gt;2026&lt;/ud0&gt;&lt;s1/&gt; da Equipe de Documentação do LibreOffice.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140527Z" creationid="olivier" creationdate="20261017T134139Z">
+        <seg>Este documento é protegido por Copyright © &lt;t0&gt;2026&lt;/t0&gt;&lt;s1/&gt; da Equipe de Documentação do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125432,6 +126054,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is illustrated in Figure &lt;t0&gt;7&lt;/t0&gt;, in which the cells in the range A2:B4 have orange backgrounds and the cells in the range B3:D6 have thick black borders.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141743Z" creationid="olivier" creationdate="20261021T141743Z">
+        <seg>Isso é ilustrado na Figura &lt;t0&gt;7&lt;/t0&gt;, em que as células no intervalo A2: B4 têm fundos laranja e as células no intervalo B3: D6 têm bordas pretas espessas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is indicated by a colored border as shown in by the example in Figure &lt;t0&gt;18&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T112356Z" creationid="timotheonb" creationdate="20250514T112356Z">
@@ -125764,6 +126394,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This means that Calc interprets the formula in B5, applies it to the cells in the B column, and puts the result in the cell holding the formula.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143210Z" creationid="olivier" creationdate="20261021T143210Z">
+        <seg>Isso significa que o Calc interpreta a fórmula em B5, aplica-a às células da coluna B e coloca o resultado na célula que contém a fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This means that any new spreadsheets (invoices) created from this template will have the company logo and address on the first page of the spreadsheet.</seg>
       </tuv>
@@ -125849,6 +126488,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251104T160146Z" creationid="timotheonb" creationdate="20251104T160146Z">
         <seg>Este método também funciona para usuários do Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This method of addressing extends the initial range from A2:B4 to A2:C9.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140739Z" creationid="olivier" creationdate="20261021T140739Z">
+        <seg>Este método de endereçamento estende o intervalo inicial de A2:B4 a A2:C9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126295,6 +126943,24 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This results in B2:B4, empty, B2:C2, and C1:C2.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142054Z" creationid="olivier" creationdate="20261021T142054Z">
+        <seg>Isso resulta em B2:B4, vazio, B2:C2 e C1:C2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This results in a reference to the range B3:B4, because these cells are inside A2:B4 and inside B3:D6.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141720Z" creationid="olivier" creationdate="20261021T141720Z">
+        <seg>Isso resulta em uma referência ao intervalo B3: B4, porque essas células estão dentro de A2: B4 e dentro de B3: D6.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This results in a smaller file size for the document, but may result in a loss of quality when the image, or graphic, is compressed.</seg>
       </tuv>
@@ -126526,6 +127192,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T224310Z" creationid="olivier" creationdate="20250123T224310Z">
         <seg>Essa técnica substitui automaticamente, sem qualquer aviso, qualquer informação que já esteja nas células das planilhas selecionadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This time the formula in cell C5 referred to cells C3 and C4.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143219Z" creationid="olivier" creationdate="20261021T143219Z">
+        <seg>Desta vez, a fórmula na célula C5 referia-se às células C3 e C4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133896,6 +134571,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Type the numbers 4 and 11 into cells C3 and C4 respectively of that spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143038Z" creationid="olivier" creationdate="20261021T143038Z">
+        <seg>Digite os números 4 e 11 nas células C3 e C4, respectivamente, dessa planilha de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Type the reference of the cell you want to move to and press the &lt;f4&gt;Enter&lt;/f4&gt; key.</seg>
       </tuv>
@@ -140586,6 +141270,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>When you copied the formula to another cell, the same procedure was used to calculate the value to put in that cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143215Z" creationid="olivier" creationdate="20261021T143215Z">
+        <seg>Quando se copiou a fórmula para outra célula, o mesmo procedimento foi usado para calcular o valor a ser colocado nessa célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>When you create your document, use the following paragraph styles for hierarchical heading levels (such as chapter and section headings): Heading 1, Heading 2, Heading 3, and so on.</seg>
       </tuv>
@@ -140624,6 +141317,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T221720Z" creationid="timot" creationdate="20250409T221720Z">
         <seg>Ao editar um texto na caixa de diálogo, ele também é editado no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>When you enter B4:A2, B2:A4, or A4:B2 directly, Calc will turn it to A2:B4.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T140938Z" creationid="olivier" creationdate="20261021T140938Z">
+        <seg>Quando inserir B4:A2, B2:A4 ou A4:B2 diretamente, o Calc o transforma em A2:B4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -141073,6 +141775,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T112029Z" creationid="timot" creationdate="20250221T112029Z">
         <seg>Sempre que possível, use estilos de parágrafo para criar listas não ordenadas (com marcadores) e ordenadas (numeradas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Whenever you copy this formula from cell B5 to another cell, the result will always be the sum of the two numbers taken from the two cells one and two rows above the cell containing the formula.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143343Z" creationid="olivier" creationdate="20261021T143343Z">
+        <seg>Sempre que copiar esta fórmula da célula B5 para outra célula, o resultado será sempre a soma dos dois números retirados das duas células uma e duas linhas acima da célula que contém a fórmula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -143691,6 +144402,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You can do this by using a simple copy and paste or click and drag B5 to C5 as shown below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143104Z" creationid="olivier" creationdate="20261021T143104Z">
+        <seg>Pode-se fazer isso usando um simples copiar e colar ou clicar e arrastar B5 para C5 como mostrado abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You can do this in several ways, as described in the Writer Guide:</seg>
       </tuv>
@@ -144475,6 +145195,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You can think of a relative address as a pair of offsets to the current cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143318Z" creationid="olivier" creationdate="20261021T143318Z">
+        <seg>Pode-se pensar num endereço relativo como um par de deslocamentos para a célula atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You can type some characters in the top box under &lt;f1&gt;Selection&lt;/f1&gt; to filter the list in the selection box.</seg>
       </tuv>
@@ -144616,6 +145345,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T002036Z" creationid="olivier" creationdate="20250328T002036Z">
         <seg>Você pode usar a combinação de teclado e mouse com zoom do navegador para ampliar ou reduzir as imagens exportadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You can use the intersection operator to refer to a cell in a cross tabulation in an understandable way.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142148Z" creationid="olivier" creationdate="20261021T142148Z">
+        <seg>Pode-se usar o operador de interseção para referir-se a uma célula em uma tabulação cruzada de uma forma compreensível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -144955,6 +145693,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You may want to multiply a column of numbers by a fixed amount.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143433Z" creationid="olivier" creationdate="20261021T143433Z">
+        <seg>Pode-se querer multiplicar uma coluna de números por um valor fixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You may wish to disable some of its features, modify others, or turn it off completely.</seg>
       </tuv>
@@ -145277,6 +146024,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152919Z" creationid="olivier" creationdate="20250318T152919Z">
         <seg>absoluto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>absolute referencing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143409Z" creationid="olivier" creationdate="20261021T143409Z">
+        <seg>referências absolutas</seg>
       </tuv>
     </tu>
     <tu>
@@ -145842,6 +146597,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T205112Z" creationid="olivier" creationdate="20261006T205112Z">
         <seg>compatibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>concatenation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141027Z" creationid="olivier" creationdate="20261021T141027Z">
+        <seg>concatenação</seg>
       </tuv>
     </tu>
     <tu>
@@ -146855,6 +147619,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>intersection</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141524Z" creationid="olivier" creationdate="20261021T141524Z">
+        <seg>interseção:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>is above average</seg>
       </tuv>
@@ -147778,6 +148551,24 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>reference left !</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141548Z" creationid="olivier" creationdate="20261021T141548Z">
+        <seg>referência esquerda !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>reference left ~ reference right</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141049Z" creationid="olivier" creationdate="20261021T141049Z">
+        <seg>referência esquerda~referência direita</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>reference operators</seg>
       </tuv>
@@ -147787,10 +148578,27 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>reference right</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141606Z" creationid="olivier" creationdate="20261021T141606Z">
+        <seg>referência direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>reference upper left : reference lower right</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T221336Z" creationid="olivier" creationdate="20261020T221336Z">
         <seg>referência superior esquerda : referência inferior direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>references, absolute and relative</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142944Z" creationid="olivier" creationdate="20261021T142944Z">
+        <seg>referências, absolutas e relativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -147832,6 +148640,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T152903Z" creationid="olivier" creationdate="20250318T152903Z">
         <seg>relativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>relative referencing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143011Z" creationid="olivier" creationdate="20261021T143003Z">
+        <seg>referência relativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -148872,6 +149688,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165131Z" creationid="firelinux" creationdate="20260403T165131Z">
         <seg>curingas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>will reference the cell containing the temperature in February.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142327Z" creationid="olivier" creationdate="20261021T142327Z">
+        <seg>fará referência à célula que contém a temperatura em Fevereiro.</seg>
       </tuv>
     </tu>
     <tu>
