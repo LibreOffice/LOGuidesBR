@@ -101,6 +101,22 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>$D$1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201942Z" creationid="olivier" creationdate="20261022T201942Z">
+        <seg>$D$1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>$D1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201952Z" creationid="olivier" creationdate="20261022T201952Z">
+        <seg>$D1</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>% (Percent)</seg>
@@ -387,10 +403,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>((1+3) * 2)+3 = 11</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T205002Z" creationid="olivier" creationdate="20261022T205002Z">
+        <seg>((1 + 3) * 2) +3 = 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(.doc and .dot)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T203518Z" creationid="olivier" creationdate="20250324T203518Z">
         <seg>(.doc e .dot)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(1+3) * (2+3) = 20</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T205008Z" creationid="olivier" creationdate="20261022T205008Z">
+        <seg>(1 + 3) * (2 + 3) = 20</seg>
       </tuv>
     </tu>
     <tu>
@@ -736,6 +768,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1+3 = 4, then 2+3 = 5, then 4x5=20</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204947Z" creationid="olivier" creationdate="20261022T204947Z">
+        <seg>1 + 3 = 4, então 2 + 3 = 5, então 4x5 = 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1+3 = 4, then 4x2 = 8, then 8+3 = 11</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204902Z" creationid="olivier" creationdate="20261022T204902Z">
+        <seg>1 + 3 = 4, então 4x2 = 8, então 8 + 3 = 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1+3*2+3 = 11</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204625Z" creationid="olivier" creationdate="20261022T204625Z">
+        <seg>1+3*2+3 = 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1+3*2+3 = 20</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204933Z" creationid="olivier" creationdate="20261022T204933Z">
+        <seg>1 + 3 * 2 + 3 = 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260225T205906Z" creationid="timotheonb" creationdate="20260225T205906Z">
@@ -1053,6 +1117,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T212841Z" creationid="olivier" creationdate="20261020T212841Z">
         <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3*2 = 6, then 1+6+3 = 10</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204921Z" creationid="olivier" creationdate="20261022T204921Z">
+        <seg>3 * 2 = 6, então 1 + 6 + 3 = 10</seg>
       </tuv>
     </tu>
     <tu>
@@ -10716,6 +10788,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Absolute references&lt;/s0&gt;&lt;s1&gt;Absolute references&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201819Z" creationid="olivier" creationdate="20261022T201819Z">
+        <seg>&lt;s0&gt;Absolute references&lt;/s0&gt;&lt;s1&gt;Absolute references&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Add Target dialog&lt;/s0&gt;&lt;s1&gt;Add Target dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T222122Z" creationid="olivier-tdf" creationdate="20250328T222122Z">
@@ -11865,6 +11945,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T203749Z" creationid="timotheonb" creationdate="20250530T203749Z">
         <seg>&lt;s0&gt;Caixa de diálogo Definir apresentação de slides personalizada&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Definir apresentação de slides personalizada&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Define Name dialog&lt;/s0&gt;&lt;s1&gt;Define Name dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202922Z" creationid="olivier" creationdate="20261022T202922Z">
+        <seg>&lt;s0&gt;Define Name dialog&lt;/s0&gt;&lt;s1&gt;Define Name dialog&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13493,6 +13581,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Inserting name in the range box to define a named range&lt;/s0&gt;&lt;s1&gt;Inserting name in the range box to define a named range&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203042Z" creationid="olivier" creationdate="20261022T203042Z">
+        <seg>&lt;s0&gt;Inserting name in the range box to define a named range&lt;/s0&gt;&lt;s1&gt;Inserting name in the range box to define a named range&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;JavaScript Macros dialog&lt;/s0&gt;&lt;s1&gt;JavaScript Macros dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195116Z" creationid="olivier-tdf" creationdate="20250708T195116Z">
@@ -13745,6 +13841,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194043Z" creationid="firelinux" creationdate="20260403T194043Z">
         <seg>&lt;s0&gt;Caixa de diálogo Gerenciar Formatação Condicional&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Gerenciar Formatação Condicional&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Manage Names dialog&lt;/s0&gt;&lt;s1&gt;Manage Names dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203254Z" creationid="olivier" creationdate="20261022T203254Z">
+        <seg>&lt;s0&gt;Manage Names dialog&lt;/s0&gt;&lt;s1&gt;Manage Names dialog&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17233,6 +17337,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>=1+3*2+3 result 10</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204911Z" creationid="olivier" creationdate="20261022T204911Z">
+        <seg>= 1 + 3 * 2 + 3 resultado 10</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>=10/5</seg>
       </tuv>
@@ -17732,11 +17845,28 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>A column of figures might show amounts in US Dollars.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201343Z" creationid="olivier" creationdate="20261022T201343Z">
+        <seg>Uma coluna de números pode mostrar valores em dólares americanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A comma-separated values (CSV) file contains data in tabular format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122033Z" creationid="olivier-tdf" creationdate="20250117T122033Z">
         <seg>Arquivos CSV (Valores separados por vírgulas) contém dados em formato tabular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A common misconception is that calculations occur strictly from left to right, as one might read an equation in English.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204416Z" creationid="olivier" creationdate="20261022T204416Z">
+        <seg>Um equívoco comum é achar que os cálculos são feitos da esquerda para a direita, pois a equação seria lida em inglês.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19454,12 +19584,29 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Absolute references</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201839Z" creationid="olivier" creationdate="20261022T201839Z">
+        <seg>Referências absolutas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Absolute referencing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143411Z" creationid="olivier" creationdate="20261021T143411Z">
         <seg>Referências absolutas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Absolute, it is the cell D1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201949Z" creationid="olivier" creationdate="20261022T201949Z">
+        <seg>Absoluta, é a célula D1</seg>
       </tuv>
     </tu>
     <tu>
@@ -21251,6 +21398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All cells in the range C1:C10 have the expression &lt;f4&gt;=CIRCUMFERENCE&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204024Z" creationid="olivier" creationdate="20261022T204024Z">
+        <seg>Todas as células no intervalo C1: C10 têm a expressão &lt;f4&gt;=CIRCUNFERÊNCIA&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All certificates found in the selected key store are displayed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201507Z" creationid="olivier" creationdate="20250325T201507Z">
@@ -22903,6 +23058,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>An additional benefit of named ranges is that they dynamically update in all associated formulas when the range’s location or size changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202554Z" creationid="olivier" creationdate="20261022T202554Z">
+        <seg>Um benefício adicional dos intervalos nomeados é que eles são atualizados dinamicamente em todas as fórmulas associadas quando a localização ou o tamanho do intervalo muda.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>An advanced filter has a structure similar to a standard filter.</seg>
       </tuv>
@@ -23499,6 +23663,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T090308Z" creationid="olivier-tdf" creationdate="20250701T090308Z">
         <seg>Outro tipo de sub-rotina é chamada de função, que é uma sub-rotina que pode retornar um valor como resultado de seu processamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Another possible intention could be:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204926Z" creationid="olivier" creationdate="20261022T204926Z">
+        <seg>Outra possível intenção poderia ser:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24524,6 +24697,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260307T220143Z" creationid="olivier" creationdate="20260307T220143Z">
         <seg>Como exemplo, a Figura &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;mostra o código de erro retornado quando uma coluna é muito estreita para exibir todo a data formatada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>As an example, suppose you need to compute in cells C1 to C10 the circumference of a set of circles, and you are given their radius in B1 to B10.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203911Z" creationid="olivier" creationdate="20261022T203911Z">
+        <seg>Como exemplo, suponha que precise calcular nas células C1 a C10 a circunferência de um conjunto de círculos e receber seus raios em B1 a B10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28073,6 +28255,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calc has copied the formula using relative addressing: the formula in E3 is &lt;f0&gt;=D3*D2&lt;/f0&gt; and not what we want, which is &lt;f1&gt;=D3*D1&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201715Z" creationid="olivier" creationdate="20261022T201715Z">
+        <seg>O Calc copiou a fórmula usando endereçamento relativo: a fórmula em E3 é &lt;f0&gt;=D3*D2&lt;/f0&gt; e não o que queremos, que é &lt;f1&gt;=D3*D1&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calc has multiple tools for data editing, including the ability to delete data, replace data, and change data.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T225036Z" creationid="olivier" creationdate="20250123T225036Z">
@@ -28580,6 +28770,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calculations linking sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T205141Z" creationid="olivier" creationdate="20261022T205141Z">
+        <seg>Cálculos vinculando planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calculations with those numbers necessarily results in rounding errors, and those accumulate with every calculation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T212644Z" creationid="olivier" creationdate="20261020T212644Z">
@@ -29051,6 +29249,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250120T003423Z" creationid="olivier" creationdate="20250120T003423Z">
         <seg>As referências de células não diferenciam maiúsculas de minúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cell references can be shown in four ways, listed in Table &lt;t0&gt;5&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201852Z" creationid="olivier" creationdate="20261022T201852Z">
+        <seg>As referências de células podem ser mostradas de quatro maneiras, listado na Tabela &lt;t0&gt;5&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38635,6 +38841,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Copy cell C1 and paste in the remaining cells from C2 to C10 and you have the circumferences of all the circles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204013Z" creationid="olivier" creationdate="20261022T204013Z">
+        <seg>Copie a célula C1 e cole nas células restantes de C2 a C10 e terá as circunferências de todos os círculos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Copy cell above into current cell; remain in edit mode (apostrophe key).</seg>
       </tuv>
@@ -38648,6 +38863,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T155633Z" creationid="olivier" creationdate="20250312T155633Z">
         <seg>Copiar conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Copy it to cells E3 and E4.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201730Z" creationid="olivier" creationdate="20261022T201730Z">
+        <seg>Copie para as células E3 e E4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38696,6 +38920,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143059Z" creationid="olivier" creationdate="20261021T143059Z">
         <seg>Copie a fórmula na célula B5 (&lt;f0&gt;=B3+B4&lt;/f0&gt;) para a célula C5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Copy the formula in cell E2 to cell E3.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201640Z" creationid="olivier" creationdate="20261022T201640Z">
+        <seg>Copie a fórmula da célula E2 para a célula E3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41191,6 +41424,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>D$1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202004Z" creationid="olivier" creationdate="20261022T202004Z">
+        <seg>D$1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>D1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201927Z" creationid="olivier" creationdate="20261022T201927Z">
+        <seg>D1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DONTKNOW</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T123745Z" creationid="olivier-tdf" creationdate="20250702T123745Z">
@@ -42051,10 +42300,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Define Name dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202947Z" creationid="olivier" creationdate="20261022T202947Z">
+        <seg>Caixa de diálogo Definir nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Define a hyperlink from an image to another location in the spreadsheet, another document, or a web page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T124332Z" creationid="timotheonb" creationdate="20260914T124332Z">
         <seg>Defina um hiperlink de uma imagem para outro local na planilha, noutro documento ou numa página da web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Define a named expression CIRCUMFERENCE, with expression &lt;f0&gt;=2*PI()*B1&lt;/f0&gt; and click &lt;f1&gt;Add&lt;/f1&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203942Z" creationid="olivier" creationdate="20261022T203942Z">
+        <seg>Defina uma expressão nomeada CIRCUNFERÊNCIA, com expressão &lt;f0&gt;=2*PI()*B1&lt;/f0&gt; e clique &lt;f1&gt;Adicionar&lt;/f1&gt; para fechar a caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47405,6 +47670,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Enter amounts (in USD) into cells D2, D3 and D4, for example 10, 20, and 30.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201453Z" creationid="olivier" creationdate="20261022T201453Z">
+        <seg>Insira os valores (em US$) nas células D2, D3 e D4, por exemplo 10, 20 e 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Enter an optional password that allows a user viewing the PDF to edit and/or print the document.</seg>
       </tuv>
@@ -49219,6 +49493,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Explanation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201922Z" creationid="olivier" creationdate="20261022T201922Z">
+        <seg>Explicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Explanation of the error</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250729T014035Z" creationid="firelinux" creationdate="20250729T014035Z">
@@ -50024,6 +50306,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Define Name dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202933Z" creationid="olivier" creationdate="20261022T202933Z">
+        <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Caixa de diálogo Definir nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Docked position of Find toolbar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250202T112835Z" creationid="timot" creationdate="20250202T112835Z">
@@ -50248,6 +50538,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Inserting name in the range box to define a named range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203053Z" creationid="olivier" creationdate="20261022T203053Z">
+        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Inserir nome na caixa de intervalo para definir um intervalo nomeado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Line panel in Properties deck on Sidebar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T210833Z" creationid="lucianacmota0808" creationdate="20250701T210833Z">
@@ -50424,6 +50722,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Manage Names dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203303Z" creationid="olivier" creationdate="20261022T203303Z">
+        <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: Caixa de diálogo Gerenciar nomes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Navigating sheet tabs</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251001T221936Z" creationid="timotheonb" creationdate="20251001T221936Z">
@@ -50524,6 +50830,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184839Z" creationid="firelinux" creationdate="20260403T184839Z">
         <seg>Figura&lt;seq0&gt;13&lt;/seq0&gt;Diálogo de formatação condicional – Valor da célula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Create names dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203657Z" creationid="olivier" creationdate="20261022T203657Z">
+        <seg>Figura &lt;seq0&gt;13&lt;/seq0&gt;: caixa de diálogo Criar nomes</seg>
       </tuv>
     </tu>
     <tu>
@@ -55227,6 +55541,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Absolute references</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201830Z" creationid="olivier" creationdate="20261022T201830Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Referências absolutas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: AutoFormat dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184702Z" creationid="firelinux" creationdate="20260403T184702Z">
@@ -57681,6 +58003,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For an overview of these rules, see the Wikipedia article on orders of operations at &lt;a0&gt;https://en.wikipedia.org/wiki/Order_of_operations&lt;/a0&gt; .</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204243Z" creationid="olivier" creationdate="20261022T204243Z">
+        <seg>Para obter uma visão geral dessas regras, consulte o artigo da Wikipedia sobre ordens de operações em &lt;a0&gt;https://en.wikipedia.org/wiki/Order_of_operations&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For any cell group of rows or columns that are hidden, the grouping is removed from the cells and the cells are displayed in the spreadsheet.</seg>
       </tuv>
@@ -58638,6 +58969,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For example, instead of using the formula =SUM(B1:B10) to sum weights in the range B1:B10, you can name the range "Weight" and write the formula as =SUM(Weight).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202456Z" creationid="olivier" creationdate="20261022T202456Z">
+        <seg>Por exemplo, em vez de usar a fórmula =SOMA(B1:B10) para somar pesos no intervalo B1:B10, você pode nomear o intervalo "Peso" e escrever a fórmula como =SOMA(Peso).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For example, macros do not appear in the function lists.</seg>
       </tuv>
@@ -59564,6 +59904,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260416T223247Z" creationid="firelinux" creationdate="20260403T194244Z">
         <seg>Por exemplo, se todos os seus subtotais usam um estilo específico, você pode atualizar a aparência deles em toda uma planilha de 15 páginas modificando esse estilo — alterando de Times New Roman de 8 pontos para Arial de 10 pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For instance, if the “Weight” range moves to &lt;t0/&gt;P10:P30, you only need to update the named range definition.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202724Z" creationid="olivier" creationdate="20261022T202724Z">
+        <seg>Por exemplo, se o intervalo "Peso" está agora nas células &lt;t0/&gt;P10:P30, só precisa atualizar o intervalo nomeado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64307,6 +64655,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Named Ranges and Expressions &gt; Create&lt;/f0&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203529Z" creationid="olivier" creationdate="20261022T203529Z">
+        <seg>Acesse &lt;f0&gt;Planilha &gt; Intervalos nomeados e expressões &gt; Criar&lt;/f0&gt;no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;Insert Columns &gt; Columns Before&lt;/f1&gt;, &lt;f2&gt;Insert Columns &gt; Columns After&lt;/f2&gt;, &lt;f3&gt;Insert Rows &gt; Rows Above&lt;/f3&gt;, or &lt;f4&gt;Insert Rows &gt; Rows Below&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T213639Z" creationid="olivier" creationdate="20250121T122109Z">
@@ -66846,6 +67202,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202608Z" creationid="olivier" creationdate="20250327T202608Z">
         <seg>No entanto, o modo de exibição &lt;f1&gt;Web&lt;/f1&gt; não mostra quais recursos serão ou não salvos corretamente no formato HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>However, Calc evaluates the entire formula based on established precedence rules, prioritizing multiplication and division over addition and subtraction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204523Z" creationid="olivier" creationdate="20261022T204523Z">
+        <seg>No entanto, o Calc avalia toda a fórmula com base em regras de precedência estabelecidas, priorizando multiplicação e divisão sobre adição e subtração.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69442,6 +69807,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>If necessary, use parentheses to clarify the order of operations and make your intent explicit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204547Z" creationid="olivier" creationdate="20261022T204547Z">
+        <seg>Se necessário, use parênteses para esclarecer a ordem das operações e tornar sua intenção explícita.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>If necessary, use the other tools available on the Drawing Object Properties toolbar to format the signature box to the document requirements.</seg>
       </tuv>
@@ -70411,6 +70785,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If the formula is copied to another cell the second part will always show $D$1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201744Z" creationid="olivier" creationdate="20261022T201744Z">
+        <seg>Se a fórmula for copiada para outra célula, a segunda parte sempre mostrará $D$1.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>If the goal is to use the original data for the chart, follow the same procedure as above to copy and paste the chart to another document.</seg>
       </tuv>
@@ -70432,6 +70815,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250907T003030Z" creationid="firelinux" creationdate="20250907T003030Z">
         <seg>Se os cabeçalhos não estiverem visíveis na planilha, vá para &lt;f3&gt;Exibir &gt; Exibir cabeçalhos&lt;/f3&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the headings contain duplicate names, Calc will prompt you to confirm whether to replace previous occurrences with the most recent one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203632Z" creationid="olivier" creationdate="20261022T203632Z">
+        <seg>Se os cabeçalhos contiverem nomes duplicados, o Calc solicitará que confirme se deve substituir as ocorrências anteriores pela mais recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70902,6 +71293,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260328T190650Z" creationid="vitor" creationdate="20260328T190650Z">
         <seg>Se a sintaxe de um intervalo de dados não estiver correta, o Calc destacará a caixa de texto &lt;f0&gt;Intervalo de dados&lt;/f0&gt; para indicar o erro e desabilitará os botões &lt;f1&gt;Anterior&lt;/f1&gt;, &lt;f2&gt;Próximo&lt;/f2&gt; e &lt;f3&gt;Finalizar&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the table includes both row and column headings, you can reference any element using the range intersection operator (!) —for example: &lt;f0&gt;=row_heading !</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203754Z" creationid="olivier" creationdate="20261022T203754Z">
+        <seg>Se a tabela incluir cabeçalhos de linha e coluna, você pode fazer referência a qualquer elemento usando o operador de interseção de intervalo (!) - por exemplo: &lt;f0&gt;=cabeçalho_linha !</seg>
       </tuv>
     </tu>
     <tu>
@@ -71807,6 +72206,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If you intend for the result to be either of the two possible solutions on the left, order the formula as:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204953Z" creationid="olivier" creationdate="20261022T204953Z">
+        <seg>Se pretende que o resultado seja uma das duas soluções possíveis à esquerda, ordene a fórmula como:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>If you know where they are stored, however, you can create a backup, share your macros, or inspect them if there is an error.</seg>
       </tuv>
@@ -72486,6 +72894,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260608T131129Z" creationid="timotheonb" creationdate="20260608T131129Z">
         <seg>Se desejar, você pode aplicar os novos estilos às planilhas que foram criadas a partir do modelo original (veja detalhes abaixo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>If your data table includes column headings at the top or bottom and row headings on the left or right, you can easily create named ranges using the &lt;f0&gt;Create Names&lt;/f0&gt; dialog:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203405Z" creationid="olivier" creationdate="20261022T203405Z">
+        <seg>Se sua tabela de dados incluir cabeçalhos de coluna na parte superior ou inferior e cabeçalhos de linha à esquerda ou à direita, você pode criar facilmente intervalos nomeados usando a caixa de diálogo &lt;f0&gt;Criar Nomes&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -74270,6 +74687,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In cell C1, type &lt;f2&gt;=CIRCUMFERENCE&lt;/f2&gt; and press &lt;f3&gt;Enter&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204005Z" creationid="olivier" creationdate="20261022T204005Z">
+        <seg>Na célula C1, digite &lt;f2&gt;=CIRCUNFERÊNCIA&lt;/f2&gt; e tecle &lt;f3&gt;Enter&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In cell E2 edit the formula to be &lt;f0&gt;=D2*$D$1&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201727Z" creationid="olivier" creationdate="20261022T201727Z">
+        <seg>Na célula E2 edite a fórmula para ser &lt;f0&gt;=D2*$D$1&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In cell E2 type the formula &lt;f0&gt;=D2*D1&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201628Z" creationid="olivier" creationdate="20261022T201628Z">
+        <seg>Na célula E2 digite a fórmula &lt;f0&gt;=D2*D1&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In computers using macOS, some keyboard shortcuts are not available and these unavailable keyboard shortcuts are indicated in the following tables with a blank cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000702Z" creationid="olivier" creationdate="20250303T000702Z">
@@ -74574,6 +75015,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132920Z" creationid="olivier" creationdate="20261008T132920Z">
         <seg>Em alguns casos, os botões &lt;f0&gt;Remover&lt;/f0&gt; e &lt;f1&gt;Desativar&lt;/f1&gt; podem estar indisponíveis, por exemplo, quando você selecionou uma das extensões que foram incluídas na sua instalação do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In spreadsheets, division and multiplication are performed before addition and subtraction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204312Z" creationid="olivier" creationdate="20261022T204312Z">
+        <seg>Nas planilhas, a divisão e a multiplicação são realizadas antes da adição ou subtração.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75479,6 +75928,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172350Z" creationid="tulio" creationdate="20250119T172350Z">
         <seg>Na instalação padrão do LibreOffice, a barra de ferramentas Padrão é encaixada na parte superior da janela em todos os módulos do LibreOffice e a segunda barra de ferramentas está encaixada na parte superior da janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In the dialog (as shown in Figure &lt;t0&gt;10&lt;/t0&gt;), specify the name and scope for the named range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202918Z" creationid="olivier" creationdate="20261022T202918Z">
+        <seg>Na caixa de diálogo (como mostrado na Figura &lt;t0&gt;10&lt;/t0&gt;), especifique o nome e o escopo para o intervalo nomeado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76584,6 +77042,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Input the exchange rate Eur:USD (0.75) in cell D1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201447Z" creationid="olivier" creationdate="20261022T201447Z">
+        <seg>Insira a taxa de câmbio EUR: US$ (0,75) na célula D1.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Insert</seg>
       </tuv>
@@ -77230,6 +77697,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260408T234822Z" creationid="vitor" creationdate="20260408T234822Z">
         <seg>Inserir Linhas de valor médio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inserting name in the range box to define a named range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203104Z" creationid="olivier" creationdate="20261022T203104Z">
+        <seg>Inserir nome na caixa de intervalo para definir um intervalo nomeado</seg>
       </tuv>
     </tu>
     <tu>
@@ -79602,6 +80077,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Knowledge of the use of relative and absolute references is essential if you want to copy and paste formulas and to link spreadsheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202158Z" creationid="olivier" creationdate="20261022T202158Z">
+        <seg>O conhecimento do uso de referências relativas e absolutas é essencial se deseja copiar e colar fórmulas e vincular planilhas de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Kodak Photo CD (*.pcd)</seg>
       </tuv>
@@ -79887,6 +80371,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250728T120734Z" creationid="firelinux" creationdate="20250728T120734Z">
         <seg>Abrir Colchetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Left To Right Calculation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204617Z" creationid="olivier" creationdate="20261022T204617Z">
+        <seg>Cálculo da esquerda para a direita</seg>
       </tuv>
     </tu>
     <tu>
@@ -82988,6 +83481,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manage Names dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203312Z" creationid="olivier" creationdate="20261022T203312Z">
+        <seg>Caixa de diálogo Gerenciar nomes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manage Styles</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T183951Z" creationid="olivier-tdf" creationdate="20250403T183951Z">
@@ -85771,6 +86272,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Name the expression and click &lt;f2&gt;Add&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203902Z" creationid="olivier" creationdate="20261022T203902Z">
+        <seg>Nomeie a expressão e clique &lt;f2&gt;Adicionar&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Name:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T123905Z" creationid="timotheonb" creationdate="20260914T123905Z">
@@ -85783,6 +86292,24 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260526T010010Z" creationid="vitor" creationdate="20260526T010010Z">
         <seg>Argumentos nomeados quando há vários parâmetros opcionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Named expressions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203813Z" creationid="olivier" creationdate="20261022T203813Z">
+        <seg>Expressões nomeadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Named ranges</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202401Z" creationid="olivier" creationdate="20261022T202401Z">
+        <seg>Intervalos nomeados</seg>
       </tuv>
     </tu>
     <tu>
@@ -85855,6 +86382,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260910T122846Z" creationid="timotheonb" creationdate="20260910T122846Z">
         <seg>Navegue até &lt;f0&gt;Formatar &gt; Agrupar formas &gt; Sair do grupo&lt;/f0&gt; na Barra de menus ou clique com o botão direito do mouse em uma das imagens selecionadas e selecione &lt;f1&gt;Sair do grupo&lt;/f1&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate to &lt;f0&gt;Sheet &gt; Named Ranges and Expressions &gt; Define&lt;/f0&gt; in the menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202850Z" creationid="olivier" creationdate="20261022T202850Z">
+        <seg>Acesse &lt;f0&gt;Planilha &gt; Intervalos nomeados e expressões &gt; Definir&lt;/f0&gt;no menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -91082,6 +91617,24 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Order of calculation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204122Z" creationid="olivier" creationdate="20261022T204122Z">
+        <seg>Ordem de cálculo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Ordered Calculation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204621Z" creationid="olivier" creationdate="20261022T204621Z">
+        <seg>Cálculo Ordenado</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Organizing data series</seg>
       </tuv>
@@ -92023,6 +92576,24 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234758Z" creationid="olivier" creationdate="20250301T234758Z">
         <seg>Part 3, OpenDocument Schema: &lt;a0&gt;https://docs.oasis-open.org/office/OpenDocument/v1.3/OpenDocument-v1.3-part3-schema.html&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Partially absolute, from cell E3 it is the cell in column D and two rows above</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202000Z" creationid="olivier" creationdate="20261022T202000Z">
+        <seg>Parcialmente absoluto, da célula E3 é a célula da coluna D e duas linhas acima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Partially absolute, from cell E3 it is the cell one column to the left and in row 1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202010Z" creationid="olivier" creationdate="20261022T202010Z">
+        <seg>Parcialmente absoluto, da célula E3 é a célula uma coluna à esquerda e na linha 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -94984,6 +95555,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quickly Naming Ranges</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203342Z" creationid="olivier" creationdate="20261022T203342Z">
+        <seg>Nomear intervalos rapidamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>REM &lt;s0/&gt;***** &lt;s1/&gt;BASIC &lt;s2/&gt;*****</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T082524Z" creationid="olivier-tdf" creationdate="20250701T082524Z">
@@ -95571,6 +96150,15 @@
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>Reference</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201908Z" creationid="olivier" creationdate="20261022T201908Z">
+        <seg>Referência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>Reference concatenation operator</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141036Z" creationid="olivier" creationdate="20261021T141036Z">
@@ -95886,6 +96474,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143007Z" creationid="olivier" creationdate="20261021T143007Z">
         <seg>Referência relativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Relative, from cell E3 it is the cell one column to the left and two rows above</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201932Z" creationid="olivier" creationdate="20261022T201932Z">
+        <seg>Relativo, da célula E3 é a célula uma coluna à esquerda e duas linhas acima</seg>
       </tuv>
     </tu>
     <tu>
@@ -102949,6 +103546,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the cell or range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202750Z" creationid="olivier" creationdate="20261022T202750Z">
+        <seg>Selecione uma célula ou intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the cell range containing the data to be converted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251103T125234Z" creationid="timotheonb" creationdate="20251103T125234Z">
@@ -103913,6 +104518,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20251123T204555Z" creationid="firelinux" creationdate="20251123T204555Z">
         <seg>Selecione o intervalo de células contíguas que você deseja mesclar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the range that includes your table headings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203505Z" creationid="olivier" creationdate="20261022T203505Z">
+        <seg>Selecione o intervalo que inclui os cabeçalhos da tabela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105362,6 +105975,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092358Z" creationid="olivier" creationdate="20261013T092358Z">
         <seg>Selecionar o campo para a subdivisão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selecting the menu option &lt;f2&gt;Sheet &gt; Cycle Cell Reference Types&lt;/f2&gt; is equivalent to pressing the &lt;f3&gt;F4&lt;/f3&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202154Z" creationid="olivier" creationdate="20261022T202154Z">
+        <seg>Selecionando a opção do menu &lt;f2&gt;Planilha &gt; Circular entre tipos de referência de célula&lt;/f2&gt; é equivalente a pressionar o atalho &lt;f3&gt;F4&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109787,6 +110408,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specify the location of your headings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203551Z" creationid="olivier" creationdate="20261022T203551Z">
+        <seg>Especifique a localização dos seus cabeçalhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specify the names in the &lt;f5&gt;Range for Name&lt;/f5&gt; field on the Data Series page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260328T205946Z" creationid="vitor" creationdate="20260328T205946Z">
@@ -111608,6 +112237,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;5&lt;/seq0&gt;: Cell reference types</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201906Z" creationid="olivier" creationdate="20261022T201906Z">
+        <seg>Tabela &lt;seq0&gt;5&lt;/seq0&gt;: Tipos de referência de célula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table &lt;seq0&gt;5&lt;/seq0&gt;: Keyboard shortcuts for opening menus and menu items</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001124Z" creationid="olivier" creationdate="20250303T001124Z">
@@ -111644,6 +112281,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260715T002534Z" creationid="vitor" creationdate="20260715T002534Z">
         <seg>Tabela &lt;seq0&gt;6&lt;/seq0&gt;: Teclas para visualização de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;6&lt;/seq0&gt;: Order of calculation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204613Z" creationid="olivier" creationdate="20261022T204613Z">
+        <seg>Tabela &lt;seq0&gt;6&lt;/seq0&gt;: Ordem de cálculo</seg>
       </tuv>
     </tu>
     <tu>
@@ -112552,6 +113197,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The $ signs before the D and the 1 convert the reference to cell D1 from relative to absolute or fixed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201741Z" creationid="olivier" creationdate="20261022T201741Z">
+        <seg>Os sinais $ antes de D e 1 convertem a referência à célula D1 de relativa para absoluta ou fixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The 2D variants are:</seg>
       </tuv>
@@ -113374,6 +114028,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250310T230845Z" creationid="olivier" creationdate="20250310T230845Z">
         <seg>A &lt;f1&gt;área de transferência&lt;/f1&gt; e a &lt;f2&gt;área de transferência de seleção&lt;/f2&gt; podem conter conteúdos diferentes ao mesmo tempo, conforme mostrado na Tabela &lt;t3&gt;1&lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The &lt;f1&gt;Create Names&lt;/f1&gt; dialog will open (Figure &lt;t2&gt;13&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203538Z" creationid="olivier" creationdate="20261022T203538Z">
+        <seg>A caixa de diálogo &lt;f1&gt;Criar Nomes&lt;/f1&gt; será aberta (Figura &lt;t2&gt;13&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -118019,6 +118682,23 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The following example demonstrates how the order of calculation is applied in practice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204601Z" creationid="olivier" creationdate="20261022T204601Z">
+        <seg>O exemplo a seguir demonstra como a ordem de cálculo é aplicada na prática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following example shows how to input an exchange rate and use that rate to convert amounts in a column from USD to Euros.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201438Z" creationid="olivier" creationdate="20261022T201438Z">
+        <seg>O exemplo a seguir mostra como inserir uma taxa de câmbio e usá-la para converter valores em uma coluna de USD para Euros.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The following examples focus on the &lt;f5&gt;Menus&lt;/f5&gt; tab but the &lt;f6&gt;Context Menus&lt;/f6&gt; tab is similar in appearance and behavior.</seg>
       </tuv>
@@ -118455,6 +119135,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The formula is applied to cell C1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204007Z" creationid="olivier" creationdate="20261022T204007Z">
+        <seg>A fórmula é aplicada à célula C1.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The formula is expressed similar to a test condition evaluating to TRUE or FALSE.</seg>
       </tuv>
@@ -118476,6 +119165,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194005Z" creationid="firelinux" creationdate="20260403T194005Z">
         <seg>As fórmulas estão expressas na Tabela.&lt;t2&gt;4&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The formulas referencing “Weight” will automatically adjust without further changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202734Z" creationid="olivier" creationdate="20261022T202734Z">
+        <seg>As fórmulas que fazem referência ao "Peso" serão ajustadas automaticamente sem mais alterações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118941,6 +119639,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234514Z" creationid="olivier" creationdate="20250301T234514Z">
         <seg>A propriedade intelectual da norma é disponibilizada irrevogavelmente sem royalties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The interpretation of this formula is “take the value in the cell one column to the left in the same row and multiply it by the value in cell D1”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201813Z" creationid="olivier" creationdate="20261022T201813Z">
+        <seg>A interpretação desta fórmula é “pegue o valor na célula uma coluna à esquerda na mesma linha e multiplique-o pelo valor na célula D1".</seg>
       </tuv>
     </tu>
     <tu>
@@ -119826,6 +120532,31 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The named expression uses the same rules for cell addressing, that is, absolute and relative references.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204049Z" creationid="olivier" creationdate="20261022T204049Z">
+        <seg>A expressão nomeada usa as mesmas regras para endereçamento de células, ou seja, referências absolutas e relativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The named range is shown on the screen and selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203137Z" creationid="olivier" creationdate="20261022T203137Z">
+        <seg>O intervalo nomeado é mostrado na tela e selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The named ranges will be created automatically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203559Z" creationid="olivier" creationdate="20261022T203559Z">
+        <seg>Os intervalos nomeados serão criados automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The names and types of all properties available in the object.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T192050Z" creationid="olivier-tdf" creationdate="20250708T192050Z">
@@ -120591,6 +121322,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The order of calculation refers to the sequence in which operations are performed in a formula.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204208Z" creationid="olivier" creationdate="20261022T204208Z">
+        <seg>A ordem de cálculo se refere à sequência em que as operações numéricas são realizadas numa fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The order of the fields gives the order of the sums from overall to specific.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100155Z" creationid="olivier" creationdate="20261011T100155Z">
@@ -121029,6 +121768,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The program resolves the multiplication of 3 x 2 before dealing with the numbers being added.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204939Z" creationid="olivier" creationdate="20261022T204939Z">
+        <seg>O programa resolve a multiplicação de 3 x 2 antes de lidar com os números que estão sendo adicionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The protected sheet has a padlock icon in its tab, as shown in Figure &lt;t0&gt;42&lt;/t0&gt;.</seg>
       </tuv>
@@ -121224,6 +121972,24 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The result is 200, clearly wrong!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201644Z" creationid="olivier" creationdate="20261022T201644Z">
+        <seg>O resultado é 200, claramente errado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The result is 7.5, correctly shown.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201636Z" creationid="olivier" creationdate="20261022T201636Z">
+        <seg>O resultado é 7,5, mostrado corretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The result is a multiple selection.</seg>
       </tuv>
@@ -121331,6 +122097,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261017T135743Z" creationid="olivier" creationdate="20261017T135743Z">
         <seg>Os resultados são formatados de acordo com os atributos do formato da célula, como casas decimais, cor da fonte e formatos numéricos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The results are now 15 and 22.5 which are correct.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201734Z" creationid="olivier" creationdate="20261022T201734Z">
+        <seg>Os resultados agora são 15 e 22,5, que estão corretos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125420,6 +126195,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This dialog is accessed by selecting &lt;f1&gt;Sheet &gt; Named Ranges and Expressions &gt; Manage&lt;/f1&gt; on the Menu bar or pressing &lt;f2&gt;Ctrl&lt;/f2&gt;+&lt;f3&gt;F3&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203250Z" creationid="olivier" creationdate="20261022T203250Z">
+        <seg>Esta caixa de diálogo é acessada selecionando &lt;f1&gt;Planilha &gt; Intervalos nomeados e expressões &gt; Gerenciar&lt;/f1&gt; na barra de menu ou pressionando &lt;f2&gt;Ctrl&lt;/f2&gt;+&lt;f3&gt;F3&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This dialog is similar to a file browser window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250320T012055Z" creationid="tulio" creationdate="20250320T012055Z">
@@ -126319,6 +127102,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250122T223532Z">
         <seg>Isso torna mais fácil ver como a alteração do número numa célula afeta cada uma das fórmulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This makes your formulas more intuitive and easier to understand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202533Z" creationid="olivier" creationdate="20261022T202533Z">
+        <seg>Isso torna suas fórmulas mais intuitivas e fáceis de entender.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128533,6 +129325,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change references in formulas, highlight the cell and press &lt;f0&gt;F4&lt;/f0&gt; to cycle through the four types of references.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202034Z" creationid="olivier" creationdate="20261022T202034Z">
+        <seg>Para alterar as referências nas fórmulas, realce a célula e tecle &lt;f0&gt;F4&lt;/f0&gt; para percorrer os quatro tipos de referências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change text direction back to the default left-to-right direction used for Western fonts, click on the &lt;f0&gt;Left-To-Right&lt;/f0&gt; icon.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184249Z" creationid="firelinux" creationdate="20260403T184249Z">
@@ -129182,6 +129982,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To convert these amounts to Euros it is necessary to multiply each dollar amount by the exchange rate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201348Z" creationid="olivier" creationdate="20261022T201348Z">
+        <seg>Para converter esses valores em euros, é necessário multiplicar cada valor em dólares pela taxa de câmbio.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To copy a sheet within the same spreadsheet, hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key then click on the sheet tab and drag it to its new position before releasing the mouse button.</seg>
       </tuv>
@@ -129448,6 +130257,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To cycle only part of the formula select the cells in the formula bar and cycle with &lt;f1&gt;F4&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202051Z" creationid="olivier" creationdate="20261022T202051Z">
+        <seg>Para percorrer apenas parte da fórmula, selecione as células na barra de fórmula e percorra com &lt;f1&gt;F4&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To define a custom (user) format, enter a height here.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260527T144718Z" creationid="timotheonb" creationdate="20260527T144718Z">
@@ -129460,6 +130277,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260527T144658Z" creationid="timotheonb" creationdate="20260527T144658Z">
         <seg>Para definir um formato personalizado (usuário), insira uma largura aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To define a named cell or range:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202741Z" creationid="olivier" creationdate="20261022T202741Z">
+        <seg>Para definir uma célula ou intervalo nomeado:</seg>
       </tuv>
     </tu>
     <tu>
@@ -130169,6 +130995,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260320T120731Z" creationid="timotheonb" creationdate="20260320T120731Z">
         <seg>Para garantir que as alterações feitas em células vazias no arquivo de origem sejam atualizadas no arquivo de destino, certifique-se de que &lt;f1&gt;Tudo&lt;/f1&gt; é selecionado na área &lt;f2&gt;Colar&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To ensure your formula produces the expected result, it's a good practice to test it thoroughly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204536Z" creationid="olivier" creationdate="20261022T204536Z">
+        <seg>Para garantir que sua fórmula produza o resultado esperado, é uma boa prática testá-la completamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131303,6 +132138,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To modify a named range, use the Manage Names dialog (Figure &lt;t0&gt;12&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203212Z" creationid="olivier" creationdate="20261022T203212Z">
+        <seg>Para modificar um intervalo nomeado, use a caixa de diálogo Gerenciar nomes (Figura &lt;t0&gt;12&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To modify an existing menu:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214520Z" creationid="olivier" creationdate="20261006T214520Z">
@@ -131468,6 +132311,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250918T001608Z" creationid="firelinux" creationdate="20250918T001608Z">
         <seg>Para mover o foco para outra célula usando o mouse, mova o ponteiro do mouse para a célula e clique no botão esquerdo do mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To name a formula, open the Define Name dialog (Figure &lt;t0&gt;10&lt;/t0&gt;) and enter the formula expression in the &lt;f1&gt;Range or formula expression&lt;/f1&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203852Z" creationid="olivier" creationdate="20261022T203852Z">
+        <seg>Para nomear uma fórmula, abra a caixa de diálogo Definir nome (Figura &lt;t0&gt;10&lt;/t0&gt;) e insira a expressão da fórmula na caixa Intervalo ou expressão de fórmula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131981,6 +132832,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T183541Z" creationid="olivier" creationdate="20250222T183541Z">
         <seg>Para imprimir rapidamente, clique em &lt;f0&gt;Imprimir diretamente&lt;/f0&gt; na barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To quickly access a named range, select the named range in the Name Box drop-down above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203118Z" creationid="olivier" creationdate="20261022T203118Z">
+        <seg>Para acessar rapidamente um intervalo nomeado, selecione o intervalo nomeado na lista suspensa Caixa de Nome acima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134765,6 +135624,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>USD 10.00 would be multiplied by 0.75 to convert to Euros, in this case EUR 7.50.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T201427Z" creationid="olivier" creationdate="20261022T201427Z">
+        <seg>USD 10,00 seria multiplicado por 0,75 para converter em euros, neste caso EUR 7,50.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unable to acquire the trademarked OpenOffice.org name from Oracle Corporation, The Document Foundation named its product &lt;f0&gt;as&lt;/f0&gt; LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T232902Z" creationid="olivier" creationdate="20250301T232902Z">
@@ -135959,6 +136826,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250221T112228Z" creationid="timot" creationdate="20250221T112228Z">
         <seg>Use estilos de parágrafo Numeração 1, Numeração 2, Numeração 3, etc, para criar listas ordenadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use parentheses to group operations in the order you intend; for example, &lt;f0&gt;=B4+G12*C4/M12&lt;/f0&gt; might become &lt;f1&gt;=((B4+G12)*C4)/M12&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T205040Z" creationid="olivier" creationdate="20261022T205040Z">
+        <seg>Use parênteses para agrupar as operações na ordem desejada; por exemplo, &lt;f0&gt;=B4+ G12*C4/M12&lt;/f0&gt; pode se tornar &lt;f1&gt;=((B4+G12)*C4)/M12&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -143306,6 +144181,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You also can give a long or complex formula a name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203828Z" creationid="olivier" creationdate="20261022T203828Z">
+        <seg>Também pode-se dar um nome a uma fórmula longa ou complexa.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You are encouraged to work with a certified LibreOffice professional for your business needs, from deployment or conversion from other office suites, staff training, or custom development needs.</seg>
       </tuv>
@@ -143545,6 +144429,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T130148Z" creationid="olivier-tdf" creationdate="20250114T130148Z">
         <seg>É possível modificar a barra de menus, conforme explicado no Capítulo 13, Configuração e personalização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also define a named range directly in the sheet by selecting the range and typing its name in the Name Box at the left of the Formula Bar (Figure &lt;t0&gt;11&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203036Z" creationid="olivier" creationdate="20261022T203036Z">
+        <seg>Também pode-se definir um intervalo nomeado diretamente na planilha, selecionando o intervalo e digitando seu nome na caixa Nome à esquerda da barra de fórmula (Figura &lt;t0&gt;11&lt;/t0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -143953,6 +144845,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260528T113942Z" creationid="timotheonb" creationdate="20260528T113942Z">
         <seg>É possível atribuir diferentes bandejas de papel a diferentes estilos de página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You can assign names to individual cells or ranges of cells to improve formula readability and simplify spreadsheet management.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202425Z" creationid="olivier" creationdate="20261022T202425Z">
+        <seg>Você pode atribuir nomes a células individuais ou intervalos de células para melhorar a legibilidade da fórmula e simplificar o gerenciamento de planilhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -146366,6 +147267,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>calculations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204117Z" creationid="olivier" creationdate="20261022T204117Z">
+        <seg>cálculo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>categories</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T120345Z" creationid="timotheonb" creationdate="20260616T120345Z">
@@ -146532,6 +147441,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260226T121605Z" creationid="timotheonb" creationdate="20260226T121605Z">
         <seg>gráficos de colunas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>column_heading&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203807Z" creationid="olivier" creationdate="20261022T203807Z">
+        <seg>cabeçalho_coluna</seg>
       </tuv>
     </tu>
     <tu>
@@ -147917,6 +148834,22 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>linking in calculations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T205103Z" creationid="olivier" creationdate="20261022T205103Z">
+        <seg>vincular em cálculos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>linking sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T205124Z" creationid="olivier" creationdate="20261022T205124Z">
+        <seg>vincular planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>list of disabled features</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T130827Z" creationid="olivier" creationdate="20251019T130827Z">
@@ -148213,6 +149146,23 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>named expressions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203818Z" creationid="olivier" creationdate="20261022T203810Z">
+        <seg>expressões nomeadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>named ranges</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202359Z" creationid="olivier" creationdate="20261022T202359Z">
+        <seg>Intervalos nomeados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>navigating</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251001T222321Z" creationid="firelinux" creationdate="20250918T001450Z">
@@ -148322,6 +149272,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261013T095037Z" creationid="olivier" creationdate="20261013T095037Z">
         <seg>ou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>order of</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204101Z" creationid="olivier" creationdate="20261022T204101Z">
+        <seg>ordem de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>order of calculation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204054Z" creationid="olivier" creationdate="20261022T204054Z">
+        <seg>ordem de cálculo</seg>
       </tuv>
     </tu>
     <tu>
@@ -149696,6 +150662,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261021T142327Z" creationid="olivier" creationdate="20261021T142327Z">
         <seg>fará referência à célula que contém a temperatura em Fevereiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>with functions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202356Z" creationid="olivier" creationdate="20261022T202356Z">
+        <seg>com funções</seg>
       </tuv>
     </tu>
     <tu>
