@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* (star)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235336Z" creationid="olivier" creationdate="20261022T235336Z">
+        <seg>* (asterisco)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*.odb</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T235646Z" creationid="olivier" creationdate="20250301T235646Z">
@@ -682,6 +690,15 @@
         <seg>+ (Plus)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T220020Z" creationid="olivier" creationdate="20261020T220020Z">
+        <seg>+ (Adição)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>+ (plus)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235310Z" creationid="olivier" creationdate="20261022T235310Z">
         <seg>+ (Adição)</seg>
       </tuv>
     </tu>
@@ -11533,6 +11550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Combined sheet showing linking between branch sheets&lt;/s0&gt;&lt;s1&gt;Combined sheet showing linking between branch sheets&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234816Z" creationid="olivier" creationdate="20261022T234816Z">
+        <seg>&lt;s0&gt;Combined planilha showing linking between branch planilhas&lt;/s0&gt;&lt;s1&gt;Combined planilha showing linking between branch planilhas&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Comment added to cell B3&lt;/s0&gt;&lt;s1&gt;Comment added to cell B3&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T140337Z" creationid="olivier" creationdate="20251019T140337Z">
@@ -11649,6 +11674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260819T175011Z" creationid="olivier" creationdate="20260819T175011Z">
         <seg>&lt;s0&gt;Interface Contextual única&lt;/s0&gt;&lt;s1&gt;Interface Contextual única&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Copying a sheet&lt;/s0&gt;&lt;s1&gt;Copying a sheet&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234623Z" creationid="olivier" creationdate="20261022T234623Z">
+        <seg>&lt;s0&gt;Copying a planilha&lt;/s0&gt;&lt;s1&gt;Copying a planilha&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13773,6 +13806,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Linking sheets: Copy / Paste Special from K7:N17&lt;/s0&gt;&lt;s1&gt;Linking sheets: Copy / Paste Special from K7:N17&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235112Z" creationid="olivier" creationdate="20261022T235112Z">
+        <seg>&lt;s0&gt;Linking planilhas: Copy / Paste Special from K7:N17&lt;/s0&gt;&lt;s1&gt;Linking planilhas: Copy / Paste Special from K7:N17&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Linking sheets: pasting a formula to a cell range&lt;/s0&gt;&lt;s1&gt;Linking sheets: pasting a formula to a cell range&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235008Z" creationid="olivier" creationdate="20261022T235008Z">
+        <seg>&lt;s0&gt;Linking planilhas: pasting a fórmula to a cél range&lt;/s0&gt;&lt;s1&gt;Linking planilhas: pasting a fórmula to a cél range&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Load Master Slide dialog&lt;/s0&gt;&lt;s1&gt;Load Master Slide dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T112622Z" creationid="timotheonb" creationdate="20250530T112622Z">
@@ -15130,6 +15179,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T130411Z" creationid="olivier" creationdate="20251019T130411Z">
         <seg>&lt;s0&gt;Caixa de diálogo Compartilhar documento&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Compartilhar documento&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Sheet containing combined data for all branches&lt;/s0&gt;&lt;s1&gt;Sheet containing combined data for all branches&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234254Z" creationid="olivier" creationdate="20261022T234254Z">
+        <seg>&lt;s0&gt;PLANILHA containing combined data for todas branches&lt;/s0&gt;&lt;s1&gt;PLANILHA containing combined data for todas branches&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Sheet containing data for Branch 1&lt;/s0&gt;&lt;s1&gt;Sheet containing data for Branch 1&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234130Z" creationid="olivier" creationdate="20261022T234130Z">
+        <seg>&lt;s0&gt;PLANILHA containing data for Branch 1&lt;/s0&gt;&lt;s1&gt;PLANILHA containing data for Branch 1&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Sheet containing data for Branch 2&lt;/s0&gt;&lt;s1&gt;Sheet containing data for Branch 2&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234219Z" creationid="olivier" creationdate="20261022T234219Z">
+        <seg>&lt;s0&gt;PLANILHA containing data for Branch 2&lt;/s0&gt;&lt;s1&gt;PLANILHA containing data for Branch 2&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Sheet containing data for Branch 3&lt;/s0&gt;&lt;s1&gt;Sheet containing data for Branch 3&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234238Z" creationid="olivier" creationdate="20261022T234238Z">
+        <seg>&lt;s0&gt;PLANILHA containing data for Branch 3&lt;/s0&gt;&lt;s1&gt;PLANILHA containing data for Branch 3&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18167,6 +18248,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>A few basic functions are somewhat similar to operators.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235304Z" creationid="olivier" creationdate="20261022T235304Z">
+        <seg>Algumas funções básicas são um tanto semelhantes aos operadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A few examples of drawing functions are as follows:</seg>
       </tuv>
@@ -18341,6 +18431,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T190422Z">
         <seg>Uma função é um cálculo predefinido inserido numa célula para ajudá-lo a analisar ou manipular dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>A function may be as simple as adding two numbers together or finding the average of a list of numbers, or it may be as complex as calculating the standard deviation of a sample or a hyperbolic tangent of a number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235245Z" creationid="olivier" creationdate="20261022T235245Z">
+        <seg>Uma função pode ser tão simples quanto somar dois números ou encontrar a média de uma lista de números, ou pode ser tão complexa quanto calcular o desvio padrão de uma amostra ou a tangente hiperbólica de um número.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21084,6 +21183,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>After that, create copies from the first sheet as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234331Z" creationid="olivier" creationdate="20261022T234331Z">
+        <seg>Depois disso, crie cópias da primeira planilha da seguinte forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>After the QR or Barcode has been generated, it is possible to edit it by right-clicking in its image and selecting &lt;f0&gt;Edit Barcode&lt;/f0&gt;.</seg>
       </tuv>
@@ -23224,6 +23332,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T012432Z" creationid="olivier" creationdate="20250321T012432Z">
         <seg>Um exemplo de adição de outro dicionário de idiomas é o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>An example of calculations obtaining data from other work can be seen in a business setting where a business combines revenues and costs of each of its branch operations into a single combined sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234040Z" creationid="olivier" creationdate="20261022T234040Z">
+        <seg>Um exemplo de cálculos que obtêm dados de outro documento pode ser visto num ambiente comercial onde uma empresa combina receitas e custos de suas operações de cada uma das filiais numa única planilha combinada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27157,6 +27274,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>By default, a new Calc instance includes only one sheet, but you can add, rename, and rearrange sheets as needed to organize your data effectively.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T233952Z" creationid="olivier" creationdate="20261022T233952Z">
+        <seg>Por padrão, uma nova instância do Calc inclui apenas uma planilha, mas você pode adicionar, renomear e reorganizar planilhas conforme necessário para organizar seus dados de forma eficaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>By default, a new style created from a selection is placed in the Custom Styles.</seg>
       </tuv>
@@ -27824,6 +27950,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Calc allows you to link data across multiple sheets within a spreadsheet, making it a powerful tool for organizing and referencing information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T233549Z" creationid="olivier" creationdate="20261022T233549Z">
+        <seg>O Calc permite vincular dados em várias folhas dentro de uma planilha, tornando-se uma ferramenta poderosa para organizar e referenciar informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Calc allows you to view different areas of a sheet simultaneously by splitting the screen into separate sections.</seg>
       </tuv>
@@ -28291,6 +28426,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T191233Z" creationid="olivier-tdf" creationdate="20250209T191233Z">
         <seg>O Calc inclui muitas ferramentas para ajudá-lo a analisar informações, incluindo recursos para copiar e reutilizar dados, para criar subtotais automaticamente e outras maneiras de variar informações, bem como ajudá-lo a encontrar as respostas de que precisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc includes over 500 built-in functions to help you analyze and reference data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235236Z" creationid="olivier" creationdate="20261022T235236Z">
+        <seg>O Calc inclui mais de 500 funções para ajudá-lo a analisar e referenciar dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29505,6 +29648,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T192351Z" creationid="timot" creationdate="20250228T192351Z">
         <seg>Altere o alinhamento do número caso necessário (esquerda, direita ou centro).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the entry in &lt;f4&gt;New name&lt;/f4&gt; to &lt;f5&gt;Branch2&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234555Z" creationid="olivier" creationdate="20261022T234555Z">
+        <seg>Altere a entrada em &lt;f4&gt;Novo nome&lt;/f4&gt; para &lt;f5&gt;Loja2&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32973,6 +33124,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T161328Z" creationid="olivier" creationdate="20250121T161328Z">
         <seg>Clique em &lt;f4&gt;Sim&lt;/f4&gt; para confirmar a exclusão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click Copy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234611Z" creationid="olivier" creationdate="20261022T234611Z">
+        <seg>Clique em Copiar</seg>
       </tuv>
     </tu>
     <tu>
@@ -37716,6 +37875,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Combined sheet showing linking between branch sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234845Z" creationid="olivier" creationdate="20261022T234845Z">
+        <seg>Planilha combinada mostrando a ligação entre planilhas de filiais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Combining both methods may be useful.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T102248Z" creationid="vitor" creationdate="20260412T102248Z">
@@ -38933,10 +39100,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copy the formula, highlight the range K7:N17, click &lt;f0&gt;Edit &gt; Paste Special &gt; Paste Special &lt;/f0&gt;on the Menu bar, or right-click and select &lt;f1&gt;Paste Special &gt; Paste Special&lt;/f1&gt; in the context menu, or press &lt;f2&gt;Ctrl+Shift+V&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234932Z" creationid="olivier" creationdate="20261022T234932Z">
+        <seg>Copie a fórmula, destaque o intervalo K7: N17, clique &lt;f0&gt;Editar &gt; Colar especial &gt; Colar especial&lt;/f0&gt; na barra de menus ou clique com o botão direito e selecione &lt;f1&gt;Colar Especial &gt; Colar Especial&lt;/f1&gt; no menu de contexto ou tecle &lt;f2&gt;Ctrl+Shift+V&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copy to Clipboard</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260722T000632Z" creationid="vitor" creationdate="20260722T000632Z">
         <seg>Copiar para Área de Transferência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copying a sheet</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234652Z" creationid="olivier" creationdate="20261022T234652Z">
+        <seg>Copiar uma planilha</seg>
       </tuv>
     </tu>
     <tu>
@@ -46012,6 +46195,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Each function has a number of arguments used in the calculations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235349Z" creationid="olivier" creationdate="20261022T235349Z">
+        <seg>Cada função possui vários argumentos usados nos cálculos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Each function, when selected, will display a brief explanation of its use and acceptable syntax.</seg>
       </tuv>
@@ -46292,6 +46484,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203356Z" creationid="olivier" creationdate="20250120T005114Z">
         <seg>Cada planilha num documento de planilha é independente das outras planilhas, embora as referências possam ser vinculadas de uma planilha para outra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Each sheet stands alone and reports the results for the individual branches.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234704Z" creationid="olivier" creationdate="20261022T234704Z">
+        <seg>Cada planilha de trabalho é autônoma e relata os resultados individualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47896,6 +48097,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Enter the data for Branch 2 and Branch 3 into the respective sheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234701Z" creationid="olivier" creationdate="20261022T234701Z">
+        <seg>Insira os dados da Filial 2 e da Filial 3 nas respectivas planilhas de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Enter the desired text and use the tools on the Text Formatting toolbar to format it.</seg>
       </tuv>
@@ -49292,6 +49502,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250211T142906Z" creationid="tulio" creationdate="20250211T142906Z">
         <seg>Exemplos mostrados na Tabela &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Examples:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235306Z" creationid="olivier" creationdate="20261022T235306Z">
+        <seg>Exemplos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51131,6 +51350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Sheet containing data for Branch 1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234209Z" creationid="olivier" creationdate="20261022T234209Z">
+        <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: planilha contendo dados para a Filial 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: The Special Characters dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T155714Z" creationid="timot" creationdate="20250205T155714Z">
@@ -51271,6 +51498,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251021T220532Z" creationid="timotheonb" creationdate="20251021T220532Z">
         <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: Caixa Selecionar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Sheet containing data for Branch 2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234226Z" creationid="olivier" creationdate="20261022T234226Z">
+        <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: planilha contendo dados para a Filial 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51435,6 +51671,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Sheet containing data for Branch 3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234243Z" creationid="olivier" creationdate="20261022T234243Z">
+        <seg>Figura &lt;seq0&gt;16&lt;/seq0&gt;: planilha contendo dados para a Filial 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Spelling dialog</seg>
       </tuv>
@@ -51572,6 +51817,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Sheet containing combined data for all branches</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234313Z" creationid="olivier" creationdate="20261022T234313Z">
+        <seg>Figura &lt;seq0&gt;17&lt;/seq0&gt;: planilha contendo dados combinados para todas as filiais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Text Formatting toolbar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T110733Z" creationid="timotheonb" creationdate="20250514T110733Z">
@@ -51608,6 +51861,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260331T235450Z" creationid="vitor" creationdate="20260331T235317Z">
         <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;: Caixa de diálogo Alterar Intervalo da Fonte de Dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Copying a sheet</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234640Z" creationid="olivier" creationdate="20261022T234640Z">
+        <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;: copiar uma planilha</seg>
       </tuv>
     </tu>
     <tu>
@@ -51712,6 +51973,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T192310Z" creationid="olivier-tdf" creationdate="20250328T192310Z">
         <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;: Caixa de diálogo Linha de assinatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Combined sheet showing linking between branch sheets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234830Z" creationid="olivier" creationdate="20261022T234830Z">
+        <seg>Figura &lt;seq0&gt;19&lt;/seq0&gt;: planilha combinada mostrando a ligação entre planilhas de filiais</seg>
       </tuv>
     </tu>
     <tu>
@@ -52158,6 +52427,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Linking sheets: pasting a formula to a cell range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235023Z" creationid="olivier" creationdate="20261022T235023Z">
+        <seg>Figura &lt;seq0&gt;20&lt;/seq0&gt;: vincular planilhas: colar uma fórmula num intervalo de células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: More Bullets dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250525T131959Z" creationid="timotheonb" creationdate="20250525T131959Z">
@@ -52259,6 +52536,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T193939Z" creationid="firelinux" creationdate="20260403T193939Z">
         <seg>Figura&lt;seq0&gt;21&lt;/seq0&gt;Conjuntos de ícones com 3 ícones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Linking sheets: Copy / Paste Special from K7:N17</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235127Z" creationid="olivier" creationdate="20261022T235127Z">
+        <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: vincular planilhas: Copiar / colar especial de K7:N17</seg>
       </tuv>
     </tu>
     <tu>
@@ -58810,6 +59095,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if the formula &lt;f0&gt;=SHEET()&lt;/f0&gt; is put into A1 on Sheet 1 it returns the value 1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234020Z" creationid="olivier" creationdate="20261022T234020Z">
+        <seg>Por exemplo, se a fórmula &lt;f0&gt;=PLANILHA()&lt;/f0&gt; é colocada em A1 na Planilha 1, ela retorna o valor 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, if the source values are in currency format, the corresponding cells in the pivot table will also use the currency format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261013T094239Z" creationid="olivier" creationdate="20261013T094239Z">
@@ -58846,6 +59139,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T100227Z" creationid="olivier" creationdate="20261011T100227Z">
         <seg>Por exemplo, se arrastar &lt;f0&gt;Região&lt;/f0&gt; e &lt;f1&gt;Funcionário&lt;/f1&gt; na área &lt;f2&gt;Campos de linha&lt;/f2&gt;, a soma será dividida nas regiões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if you have multiple sheets named Sheet1, Sheet2, etc., numbered from left to right, dragging a sheet to a new location updates its position, and SHEET() reflects the new order.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T233933Z" creationid="olivier" creationdate="20261022T233933Z">
+        <seg>Por exemplo, se tiver várias planilhas chamadas Planilha1, Planilha2, etc., numeradas da esquerda para a direita, arrastar uma planilha para um novo local atualiza sua posição e a função PLANILHA() reflete a nova ordem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59912,6 +60213,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202724Z" creationid="olivier" creationdate="20261022T202724Z">
         <seg>Por exemplo, se o intervalo "Peso" está agora nas células &lt;t0/&gt;P10:P30, só precisa atualizar o intervalo nomeado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For instance, the FV function gives the future value of an investment, while BIN2HEX converts a binary number to a hexadecimal number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235256Z" creationid="olivier" creationdate="20261022T235256Z">
+        <seg>Por exemplo, a função VF fornece o valor futuro de um investimento, enquanto BIN2HEX converte um número binário em um número hexadecimal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71385,6 +71695,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If the values in the cells change, then the result of the function is automatically updated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235419Z" creationid="olivier" creationdate="20261022T235419Z">
+        <seg>Se os valores nas células mudarem, o resultado da função será atualizado automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>If the word is correct but not in the dictionary, you can chose &lt;f1&gt;Add to dictionary&lt;/f1&gt;.</seg>
       </tuv>
@@ -72059,6 +72378,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T115519Z" creationid="olivier" creationdate="20261011T115519Z">
         <seg>Se clicar duas vezes numa célula numa&lt;f2&gt; &lt;/f2&gt;área de campo tanto de linha quanto de  coluna, a caixa de diálogo Mostrar detalhes será aberta (Figura &lt;t3&gt;43&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If you drag Sheet 1 to be positioned between sheets 2 and 3 then the value changes to 2; it is now the second sheet in the order.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234030Z" creationid="olivier" creationdate="20261022T234030Z">
+        <seg>Se arrastar a Planilha 1 para ser posicionada entre as planilhas 2 e 3, o valor muda para 2; agora é a segunda planilha na ordem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73879,6 +74207,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In Calc, functions can be entered either in upper, lower or mixed cases.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235300Z" creationid="olivier" creationdate="20261022T235300Z">
+        <seg>No Calc, as funções podem ser inseridas em casos superiores, inferiores ou mistos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In Calc, objects in the background are behind the cell grid and may be difficult to select.</seg>
       </tuv>
@@ -73924,6 +74261,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251010T001154Z" creationid="timotheonb" creationdate="20251010T001154Z">
         <seg>No Calc, quando o conteúdo de uma célula é copiado para a área de transferência, é possível colar as informações em outra célula teclando &lt;f6&gt;Enter&lt;/f6&gt;; aqui você pode desativar esse recurso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In Calc, you can enter values from other cells by typing in their name or range, or—unlike the case in some spreadsheets—by selecting cells with the mouse.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235415Z" creationid="olivier" creationdate="20261022T235415Z">
+        <seg>No Calc, pode-se inserir valores de outras células digitando seu nome ou intervalo, ou – ao contrário do caso em algumas planilhas de trabalho – selecionando células com o mouse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75018,6 +75364,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In some cases, the arguments have predefined choices, and you may need to refer to the text on the Function Wizard and the Functions deck, or the Help, to understand them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235402Z" creationid="olivier" creationdate="20261022T235402Z">
+        <seg>Em alguns casos, os argumentos têm opções predefinidas e você pode precisar consultar o texto no Assistente de Função e no painel de Funções da barra lateral, ou a Ajuda, para entendê-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In spreadsheets, division and multiplication are performed before addition and subtraction.</seg>
       </tuv>
@@ -75590,6 +75945,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In the Combined sheet, click on cell K7.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234708Z" creationid="olivier" creationdate="20261022T234708Z">
+        <seg>Na planilha Combinada, clique na célula K7.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In the Danish locale, however, the order is 'A', 'a', 'B', 'b'.</seg>
       </tuv>
@@ -75742,6 +76106,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T112606Z" creationid="timotheonb" creationdate="20250530T112606Z">
         <seg>Na caixa de diálogo Carregar slide mestre, selecione a categoria do modelo e o modelo a ser carregado como slide mestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the Move/Copy Sheet dialog (Figure &lt;t0&gt;18&lt;/t0&gt;), select the &lt;f1&gt;Copy&lt;/f1&gt; option (automatically selected if there is only one sheet in the spreadsheet) and select &lt;f2&gt;-move to end position-&lt;/f2&gt; in the &lt;f3&gt;Insert before&lt;/f3&gt; area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234530Z" creationid="olivier" creationdate="20261022T234530Z">
+        <seg>Na caixa de diálogo Mover / Copiar Planilha (Figura &lt;t0&gt;18&lt;/t0&gt;), selecione a opção &lt;f1&gt;Copiar&lt;/f1&gt; (selecionada automaticamente se houver apenas uma planilha no documento) e selecione &lt;f2&gt;- mover para a posição final -&lt;/f2&gt; na caixa &lt;f3&gt;Inserir antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82011,6 +82383,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linking sheets: Copy / Paste Special from K7:N17</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235137Z" creationid="olivier" creationdate="20261022T235137Z">
+        <seg>Vincular planilhas: Copiar / colar especial de K7:N17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linking sheets: pasting a formula to a cell range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235056Z" creationid="olivier" creationdate="20261022T235056Z">
+        <seg>Vincular planilhas: colar uma fórmula a um intervalo de células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linking to external data</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260328T193748Z" creationid="vitor" creationdate="20260328T193748Z">
@@ -83696,6 +84084,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Many of these functions are for use with numbers, but others are used with dates and times or even text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235240Z" creationid="olivier" creationdate="20261022T235240Z">
+        <seg>Muitas dessas funções devem ser usadas com números, mas outras são usadas com datas e horas ou até mesmo texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Many of these styles are shown on the &lt;f0&gt;Styles&lt;/f0&gt; menu on the Menu bar and all are shown in the Styles deck of the Sidebar.</seg>
       </tuv>
@@ -85017,6 +85414,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T222701Z" creationid="olivier" creationdate="20250324T222701Z">
         <seg>Mais informações podem ser encontradas na &lt;f0&gt;especificação PDF, ISO 32000-2:2017&lt;/f0&gt; (&lt;a1&gt;https://www.iso.org/standard/63534.html&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>More often, however, an argument is a value that you enter manually, or one already entered in a cell or range of cells in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235407Z" creationid="olivier" creationdate="20261022T235407Z">
+        <seg>Mais frequentemente, no entanto, um argumento é um valor que se insere manualmente ou que já foi inserido em uma célula ou intervalo de células na planilha de trabalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88044,6 +88450,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Of course, in this example you would have to tidy up the sheet by removing the zeros in the non-formatted rows.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235105Z" creationid="olivier" creationdate="20261022T235105Z">
+        <seg>Claro, neste exemplo teríamos que arrumar a planilha removendo os zeros nas linhas não formatadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Off-page Connector</seg>
       </tuv>
@@ -89125,6 +89540,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143502Z" creationid="olivier" creationdate="20250405T143502Z">
         <seg>No lado esquerdo, determine se o hiperlink será absoluto ou relativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the sheet tab, right-click and select &lt;f0&gt;Rename Sheet&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234346Z" creationid="olivier" creationdate="20261022T234346Z">
+        <seg>Na aba da página, clique com o botão direito e selecione &lt;f0&gt;Renomear planilha&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -92152,6 +92575,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205921Z" creationid="olivier" creationdate="20250324T205921Z">
         <seg>PNG – &lt;f0&gt;&lt;/f0&gt;Portable Network Graphic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>PRODUCT() does the same for multiplying that SUM() does for adding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235346Z" creationid="olivier" creationdate="20261022T235346Z">
+        <seg>PRODUTO() faz o mesmo para multiplicar que SOMA() faz para somar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96990,6 +97422,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Repeat to produce the Branch3 and Combined sheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234617Z" creationid="olivier" creationdate="20261022T234617Z">
+        <seg>Repita para produzir as planilhas Filial3 e Combinadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Repeatedly pressing &lt;f0&gt;F6&lt;/f0&gt; switches the focus through the following objects:</seg>
       </tuv>
@@ -98491,6 +98932,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click on the tab again and select &lt;f2&gt;Move or Copy Sheet&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234425Z" creationid="olivier" creationdate="20261022T234425Z">
+        <seg>Clique com o botão direito na aba novamente e selecione &lt;f2&gt;Mover ou copiar planilha&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click on the target cell or cell range and select &lt;f0&gt;Paste Special&lt;/f0&gt; in the context menu, then select &lt;f1&gt;Text&lt;/f1&gt;, &lt;f2&gt;Number&lt;/f2&gt;, or &lt;f3&gt;Formula&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260324T164311Z" creationid="timotheonb" creationdate="20260324T164311Z">
@@ -99112,6 +99561,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T123834Z" creationid="olivier-tdf" creationdate="20250702T123834Z">
         <seg>SEMILIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>SUM() on the other hand adds groups of contiguous ranges of numbers together.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235322Z" creationid="olivier" creationdate="20261022T235322Z">
+        <seg>SOMA(), por outro lado, adiciona grupos de intervalos contíguos de números.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100340,6 +100798,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T135915Z" creationid="olivier" creationdate="20251019T135852Z">
         <seg>Veja a Figura &lt;t2&gt;5&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Figures &lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt;to &lt;t2&gt;17&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234121Z" creationid="olivier" creationdate="20261022T234121Z">
+        <seg>Veja as Figuras &lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt; a &lt;t2&gt;17&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107229,6 +107695,42 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T155237Z" creationid="olivier" creationdate="20250223T155237Z">
         <seg>Ordem das folhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Sheet containing combined data for all branches</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234318Z" creationid="olivier" creationdate="20261022T234318Z">
+        <seg>Planilha contendo dados combinados para todas as filiais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Sheet containing data for Branch 1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234147Z" creationid="olivier" creationdate="20261022T234147Z">
+        <seg>Planilha contendo dados para a Filial 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Sheet containing data for Branch 2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234231Z" creationid="olivier" creationdate="20261022T234231Z">
+        <seg>Planilha contendo dados para a Filial 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Sheet containing data for Branch 3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234246Z" creationid="olivier" creationdate="20261022T234246Z">
+        <seg>Planilha contendo dados para a Filial 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114841,6 +115343,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The Function Wizard can also be used to accomplish the linking.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235142Z" creationid="olivier" creationdate="20261022T235142Z">
+        <seg>O Assistente de Função também pode ser usado para realizar a vinculação.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The Galaxy, Oxygen, and Tango icon sets are no longer included as part of the standard installation package.</seg>
       </tuv>
@@ -115671,6 +116182,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T205713Z" creationid="olivier-tdf" creationdate="20250328T205713Z">
         <seg>A barra de ferramentas Censurar abre automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The SHEET() function can be used to return the current sheet's position in the order of sheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T233828Z" creationid="olivier" creationdate="20261022T233828Z">
+        <seg>A função PLANILHA() pode ser usada para retornar a posição da planilha na lista de planilhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118241,6 +118760,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T202457Z" creationid="olivier" creationdate="20250327T202457Z">
         <seg>A maneira mais fácil de criar documentos HTML no LibreOffice é começar com um documento de texto existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The easiest way to do this is to open a new spreadsheet, set up the first branch sheet, input data, format cells, and prepare the formulas for the various sums of rows and columns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234328Z" creationid="olivier" creationdate="20261022T234328Z">
+        <seg>A maneira mais fácil de fazer isso é abrir uma nova planilha, configurar a primeira planilha da filial, inserir dados, formatar células e preparar as fórmulas para as várias somas de linhas e colunas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122592,6 +123120,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The sheets have been set up with identical structures.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234322Z" creationid="olivier" creationdate="20261022T234322Z">
+        <seg>As planilhas foram configuradas com estruturas idênticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The shortcut does not work with the online help.</seg>
       </tuv>
@@ -124523,6 +125060,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251110T181051Z" creationid="timotheonb" creationdate="20251108T180040Z">
         <seg>São:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>These arguments may or may not have their own name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235353Z" creationid="olivier" creationdate="20261022T235353Z">
+        <seg>Esses argumentos podem ou não ter seu próprio nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127369,6 +127915,24 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T225127Z" creationid="olivier-tdf" creationdate="20250328T225127Z">
         <seg>Isso abre o documento como um desenho no LibreOffice Draw com todos os alvos censurados automaticamente usando a &lt;f1&gt;Censura por retângulo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This operator adds two numbers together for a result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235316Z" creationid="olivier" creationdate="20261022T235316Z">
+        <seg>Este operador adiciona dois números para um resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This operator multiplies two numbers together for a result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235340Z" creationid="olivier" creationdate="20261022T235340Z">
+        <seg>Este operador multiplica dois números juntos para obter um resultado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132097,6 +132661,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To make your spreadsheet easier to navigate, assign meaningful names to sheets, such as "Payroll" or "Boise Sales," instead of using default names like "Sheet1."</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T233643Z" creationid="olivier" creationdate="20261022T233643Z">
+        <seg>Para tornar sua planilha mais fácil de navegar, atribua nomes significativos a planilhas, como "Folha de Pagamento" ou "Vendas Sudeste", em vez de usar nomes padrão como "Planilha1".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To manually remove personal information from specific documents, &lt;t0/&gt;deselect this option and then use the &lt;f1&gt;Reset Properties&lt;/f1&gt; button under &lt;f2&gt;File &gt; Properties &gt; General&lt;/f2&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T181213Z" creationid="olivier" creationdate="20260926T181213Z">
@@ -135207,6 +135779,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type &lt;f0&gt;=&lt;/f0&gt;, click on the tab Branch1, click on cell K7, press &lt;f1&gt;+&lt;/f1&gt;, repeat for sheets Branch2 and Branch3, and press &lt;f2&gt;Enter&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234803Z" creationid="olivier" creationdate="20261022T234803Z">
+        <seg>Digite &lt;f0&gt;=&lt;/f0&gt;, clique na aba Filial1, clique na célula K7, tecle &lt;f1&gt;+&lt;/f1&gt;, repita para as planilhas Filial2 e Filial3 e tecle &lt;f2&gt;Enter&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type &lt;f0&gt;Brigitte&lt;/f0&gt; into the &lt;f1&gt;Replace&lt;/f1&gt; field.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165411Z" creationid="firelinux" creationdate="20260403T165411Z">
@@ -135235,6 +135815,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165408Z" creationid="firelinux" creationdate="20260403T165408Z">
         <seg>Tipo&lt;f0&gt;^Bri.*&lt;/f0&gt; para dentro do&lt;f1&gt;Encontrar&lt;/f1&gt; campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type &lt;f1&gt;Branch1&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234410Z" creationid="olivier" creationdate="20261022T234410Z">
+        <seg>Digite &lt;f1&gt;Loja1&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135559,6 +136147,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Typically, the name of a function is an abbreviated description of what the function does.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235250Z" creationid="olivier" creationdate="20261022T235250Z">
+        <seg>Normalmente, o nome de uma função é uma descrição abreviada do que a função faz.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Typically, this will be 1,2,3; or a,b,c; or i,ii,iii.</seg>
       </tuv>
@@ -135636,6 +136233,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T232902Z" creationid="olivier" creationdate="20250301T232902Z">
         <seg>Incapaz de adquirir o nome OpenOffice.org de marca registrada da Oracle Corporation, a The Document Foundation nomeou seu produto &lt;f0&gt;como&lt;/f0&gt; LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Uncheck the &lt;f3&gt;All&lt;/f3&gt; and &lt;f4&gt;Formats&lt;/f4&gt; options in the &lt;f5&gt;Paste&lt;/f5&gt; area of the dialog, check all other options in that area, and click &lt;f6&gt;OK&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234955Z" creationid="olivier" creationdate="20261022T234955Z">
+        <seg>Desmarque as opções &lt;f3&gt;Todos&lt;/f3&gt; e &lt;f4&gt;Formatos&lt;/f4&gt; na área &lt;f5&gt;Colar&lt;/f5&gt; da caixa de diálogo, marque todas as outras opções nessa área e clique em &lt;f6&gt;OK&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135749,6 +136355,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260314T160759Z" creationid="olivier" creationdate="20260314T160759Z">
         <seg>Ícone sublinhado na barra de formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Understanding functions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235221Z" creationid="olivier" creationdate="20261022T235221Z">
+        <seg>Entender funções</seg>
       </tuv>
     </tu>
     <tu>
@@ -136698,6 +137313,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184509Z" creationid="olivier-tdf" creationdate="20250708T184509Z">
         <seg>O uso das abas &lt;f6&gt;Menus&lt;/f6&gt;, &lt;f7&gt;Barras de Ferramentas&lt;/f7&gt;, &lt;f8&gt;Menus de Contexto&lt;/f8&gt; e &lt;f9&gt;Teclado&lt;/f9&gt; são abordados no Capítulo 13, Personalizar o LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use of this wizard is described in detail in “&lt;bf0&gt;Using the Function Wizard&lt;/bf0&gt;” on page &lt;bf1&gt;25&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235216Z" creationid="olivier" creationdate="20261022T235216Z">
+        <seg>O uso deste assistente é descrito em detalhes em “&lt;bf0&gt;Utilizar o Assistente de Funções&lt;/bf0&gt;" na página &lt;bf1&gt;25&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -146458,6 +147081,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You have now copied the formulas into each cell while maintaining the format set up in the original sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235059Z" creationid="olivier" creationdate="20261022T235059Z">
+        <seg>Agora se copiou as fórmulas para cada célula, mantendo o formato configurado na planilha original.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You have to change the cell width manually or reposition the line break.</seg>
       </tuv>
@@ -146700,6 +147332,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You now have a formula in cell K7 which adds the revenue from greenery sales for the three branches.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234809Z" creationid="olivier" creationdate="20261022T234809Z">
+        <seg>Agora você tem uma fórmula na célula K7 que adiciona a receita das vendas de hortaliças para as três filais.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You should now save the Calc document, close it, and open it again.</seg>
       </tuv>
@@ -146740,6 +147381,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You will see the following message:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235003Z" creationid="olivier" creationdate="20261022T235003Z">
+        <seg>Você verá a seguinte mensagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Your actual procedure depends on how your &lt;f0&gt;computer &lt;/f0&gt;is &lt;s1/&gt;set up and what operating system is being used.</seg>
       </tuv>
@@ -146762,6 +147412,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261013T094748Z" creationid="olivier" creationdate="20261013T094748Z">
         <seg>Sua fórmula ainda faz referência à célula C6 e, portanto, usa um valor errado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Your task is to enter the arguments needed to run the function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235357Z" creationid="olivier" creationdate="20261022T235357Z">
+        <seg>Sua tarefa é inserir os argumentos necessários para executar a função.</seg>
       </tuv>
     </tu>
     <tu>
