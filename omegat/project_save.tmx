@@ -565,6 +565,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(There are some functions within Calc that are not in accordance with &lt;f6&gt;OpenFormula&lt;/f6&gt; but many of these are included specifically to improve the exchange of files between Calc and Microsoft Excel.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212730Z" creationid="olivier" creationdate="20261024T212730Z">
+        <seg>(Existem algumas funções no Calc que não estão de acordo com &lt;f6&gt;OpenFormula&lt;/f6&gt; mas muitos deles são incluídos especificamente para melhorar a troca de arquivos entre o Calc e o Microsoft Excel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(To change the name of an axis, see “&lt;bf2&gt;Titles, subtitles, and axis names&lt;/bf2&gt;” on page &lt;bf3&gt;17&lt;/bf3&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T111643Z" creationid="vitor" creationdate="20260405T111643Z">
@@ -28123,6 +28131,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Calc can open spreadsheets created using many applications and can save spreadsheets in many formats despite differences in the applications.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212756Z" creationid="olivier" creationdate="20261024T212756Z">
+        <seg>O Calc pode abrir planilhas criadas usando muitos aplicativos e pode salvar planilhas em muitos formatos, apesar das diferenças nos aplicativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Calc can save in the ODF spreadsheet formats (.ods, .ots, and .fods) as well as the following formats:</seg>
       </tuv>
@@ -28950,6 +28967,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T184639Z" creationid="olivier" creationdate="20261008T184639Z">
         <seg>Reconhecimento automático de dados do Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc’s general support for &lt;f5&gt;OpenFormula&lt;/f5&gt; leads to a level of inherent compatibility with the function set of any other spreadsheet application that follows the same standard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212708Z" creationid="olivier" creationdate="20261024T212708Z">
+        <seg>O suporte geral do Calc para &lt;f5&gt;OpenFormula&lt;/f5&gt; leva a um nível de compatibilidade inerente com o conjunto de funções de qualquer outro aplicativo de planilha que segue o mesmo padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58845,6 +58870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, calls to Excel’s CEILING function are converted to reference the CEILING.XCL function when the Excel file is opened in Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212924Z" creationid="olivier" creationdate="20261024T212924Z">
+        <seg>Por exemplo, chamadas para a função TETO do Excel,  ão convertidas automaticamente para a função TETO.XCL quando o arquivo do Excel é aberto no Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, changing a tab stop from align left to align right, and changes in formulas (equations) or linked graphics are not recorded.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T213222Z" creationid="timot" creationdate="20250409T213222Z">
@@ -60311,6 +60344,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261012T150621Z" creationid="olivier" creationdate="20261012T150621Z">
         <seg>Para muitas análises, as categorias devem ser agrupadas em classes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For many functions, Calc follows the &lt;f0&gt;OpenFormula&lt;/f0&gt; standard defined in Part 2 (Recalculated Formula (OpenFormula) Format) of the Open Document Format for Office Applications (OpenDocument) Version 1.2.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212613Z" creationid="olivier" creationdate="20261024T212544Z">
+        <seg>Para muitas funções, o Calc segue o padrão &lt;f0&gt;OpenFormula&lt;/f0&gt; definido na Parte 2 (Recalculated Formula (OpenFormula) Format) do Open Document Format for Office Applications (OpenDocument) Version 1.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108819,6 +108860,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Similarly, calls to Calc’s FLOOR function are automatically converted to reference Excel’s FLOOR.MATH function when the file is saved in Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T213135Z" creationid="olivier" creationdate="20261024T213135Z">
+        <seg>Da mesma forma, as chamadas para a função ARREDMULTB do Calc são convertidas automaticamente para referenciar a função ARREDMULTB.MAT do Excel quando o arquivo é salvo no Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Similarly, for a vertical split, click on the thick black line at the right of the horizontal scroll bar (Figure &lt;t0&gt;22&lt;/t0&gt;) and drag the split line to the right of the column where you want the vertical split positioned.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251022T105856Z" creationid="timotheonb" creationdate="20251022T105856Z">
@@ -115163,6 +115212,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T233148Z" creationid="olivier" creationdate="20250301T233148Z">
         <seg>A missão da The Document Foundation é:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The Document Foundation’s wiki offers a comparison of the features of LibreOffice and Microsoft Office, which you can view &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T213205Z" creationid="olivier" creationdate="20261024T213205Z">
+        <seg>O wiki da The Document Foundation oferece uma comparação dos recursos do LibreOffice e do Microsoft Office, que você pode visualizar &lt;a0&gt;aqui&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125766,6 +125824,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>These wiki pages are a recent addition to the available documentation and are continuously undergoing improvement.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212427Z" creationid="olivier" creationdate="20261024T212427Z">
+        <seg>Essas páginas wiki são uma adição recente à documentação disponível e estão em constante aprimoramento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>They also allow you to answer different questions about a spreadsheet by rearranging – or pivoting – the data in it, which includes the ability to view different summaries of the source data, display the details of areas of interest, and create reports.</seg>
       </tuv>
@@ -128468,6 +128535,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T172716Z" creationid="tulio" creationdate="20250119T172716Z">
         <seg>Esta interface de usuário de barra de ferramentas única contém os comandos mais usados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This standard can be accessed at the OASIS website (&lt;a1&gt;&lt;f2&gt;https://www.oasis-open.org/&lt;/f2&gt;&lt;/a1&gt;) or the ISO website (&lt;a3&gt;&lt;f4&gt;https://www.iso.org/standard/66375.html&lt;/f4&gt;&lt;/a3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212645Z" creationid="olivier" creationdate="20261024T212557Z">
+        <seg>Este padrão pode ser acessado no site OASIS (&lt;a1&gt;&lt;f2&gt;https://www.oasis-open.org/&lt;/f2&gt;&lt;/a1&gt;) ou o site da ISO (&lt;a3&gt;&lt;f4&gt;https://www.iso.org/standard/66375.html&lt;/f4&gt;&lt;/a3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -146081,6 +146156,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can find more details about each of the available functions in the Calc Functions area of The Document Foundation Wiki at &lt;a0&gt;https://wiki.documentfoundation.org/Documentation/Calc_Functions&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212418Z" creationid="olivier" creationdate="20261024T212418Z">
+        <seg>Você pode encontrar mais detalhes sobre cada uma das funções disponíveis na área de Funções do Calc no wiki da The Document Foundation em &lt;a0&gt;https://wiki.documentfoundation.org/Documentation/Calc_Functions&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can find more information about these variants and how to switch between them in &lt;f0&gt;Chapter 17, User Interface Variants&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122813Z" creationid="olivier" creationdate="20261008T122813Z">
@@ -148176,6 +148259,23 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>compatibility of functions with other applications</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212502Z" creationid="olivier" creationdate="20261024T212502Z">
+        <seg>compatibilidade de funções com outros aplicativos de planilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>compatibility with other applications</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212510Z" creationid="olivier" creationdate="20261024T212510Z">
+        <seg>compatibilidade com outros aplicativos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>concatenation</seg>
@@ -148860,6 +148960,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142552Z" creationid="olivier-tdf" creationdate="20250704T142552Z">
         <seg>funções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>functions wiki</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212303Z" creationid="olivier" creationdate="20261024T212303Z">
+        <seg>wiki das funções</seg>
       </tuv>
     </tu>
     <tu>
@@ -151305,6 +151413,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T084855Z" creationid="olivier-tdf" creationdate="20250701T084855Z">
         <seg>exibir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wiki pages</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212325Z" creationid="olivier" creationdate="20261024T212325Z">
+        <seg>páginas wiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wiki, Calc functions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212314Z" creationid="olivier" creationdate="20261024T212314Z">
+        <seg>wiki, funções do Calc</seg>
       </tuv>
     </tu>
     <tu>
