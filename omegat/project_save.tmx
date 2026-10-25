@@ -27247,6 +27247,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Besides the cell range, you enter the type of quartile: 0 for the lowest entry, 1 for the value of 25%, 2 for the value of 50%, 3 for 75%, and 4 for the highest entry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182001Z" creationid="olivier" creationdate="20261025T182001Z">
+        <seg>Além do intervalo de células, insera o tipo de quartil: 0 para a entrada mais baixa, 1 para o valor de 25%, 2 para o valor de 50%, 3 para 75% e 4 para a entrada mais alta.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Besides the keyboard shortcuts available in LibreOffice, custom keyboard shortcuts can be created.</seg>
       </tuv>
@@ -27485,6 +27494,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250728T145220Z" creationid="firelinux" creationdate="20250728T145220Z">
         <seg>Tanto o Excel quanto o Calc usam os termos &lt;f2&gt;planilha&lt;/f2&gt; e &lt;f3&gt;pasta de trabalho&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Both LARGE and SMALL are handy as a permanent control, since, by changing the rank argument, you can quickly scan multiple results.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181742Z" creationid="olivier" creationdate="20261025T181742Z">
+        <seg>Ambos MAIOR e MENOR são úteis como um controle permanente, uma vez que, ao alterar o argumento de classificação, pode-se verificar rapidamente vários resultados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61746,11 +61764,10 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>For more flexibility in similar operations, you could use LARGE or SMALL, both of which add a specialized argument of rank.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180824Z" creationid="olivier" creationdate="20261025T180824Z">
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181825Z" creationid="olivier" creationdate="20261025T180824Z">
         <seg>Para obter mais flexibilidade em operações semelhantes, pode-se usar MAIOR ou MENOR, os quais adicionam um argumento especializado de classificação.</seg>
       </tuv>
     </tu>
@@ -69028,6 +69045,24 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>However, for the rest of us, there are simpler statistical functions that you can quickly learn to use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181857Z" creationid="olivier" creationdate="20261025T181857Z">
+        <seg>No entanto, para o restante de nós, existem funções estatísticas mais simples para aprender a usar rapidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>However, functions are generally more flexible and easier to adjust, offering a broader range of possibilities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182142Z" creationid="olivier" creationdate="20261025T182142Z">
+        <seg>No entanto, as funções são geralmente mais flexíveis e fáceis de ajustar, oferecendo uma gama mais ampla de possibilidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>However, hidden elements can still be selected for copying if you select the elements around them; for example, if column B is hidden, it is copied when you select to copy columns A to C. When you require a hidden element again, you can reverse the process and show the element.</seg>
       </tuv>
@@ -69097,6 +69132,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T212445Z" creationid="lucianacmota0808" creationdate="20250701T212445Z">
         <seg>No entanto, se a opção &lt;f1&gt;Ao criar ou mover objetos&lt;/f1&gt; na seção &lt;f2&gt;Restringir Objetos&lt;/f2&gt; em &lt;f3&gt;Ferramentas &gt; Opções &gt; LibreOffice Draw &gt; &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;Grade&lt;/f5&gt; (macOS &lt;f6&gt;LibreOffice &gt; Preferências &gt; LibreOffice Draw &gt; Grade&lt;/f6&gt;) tiver sido selecionada, a tecla &lt;f7&gt;Shift&lt;/f7&gt; desativa essa restrição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>However, if the rank is 2, then the result is the second-largest result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181726Z" creationid="olivier" creationdate="20261025T181726Z">
+        <seg>No entanto, se a classificação for 2, o resultado é o segundo maior resultado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76177,6 +76221,24 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In a set containing an even number of values, the median will be the mean of the two values in the middle of the ranked list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181941Z" creationid="olivier" creationdate="20261025T181941Z">
+        <seg>Num conjunto contendo um número par de valores, a mediana será a média dos dois valores no meio da lista classificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In a set containing an uneven number of values, the median will be the number in the middle of the ranked list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181935Z" creationid="olivier" creationdate="20261025T181935Z">
+        <seg>Num conjunto contendo um número ímpar de valores, a mediana será o número do meio da lista classificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In a spreadsheet, the term “function” covers much more than just mathematical functions.</seg>
       </tuv>
@@ -76541,6 +76603,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In addition, you can get other information about the data set:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181917Z" creationid="olivier" creationdate="20261025T181917Z">
+        <seg>Além disso, pode-se obter outras informações sobre o conjunto de dados:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In addition, you can use the form’s scroll bar to move between records.</seg>
       </tuv>
@@ -76843,6 +76914,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In other cases, a custom sort or filter might give much the same result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182050Z" creationid="olivier" creationdate="20261025T182050Z">
+        <seg>Em outros casos, uma ordenação ou filtro personalizado pode dar o mesmo resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In other cases, the field is blank.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250906T234327Z" creationid="firelinux" creationdate="20250906T234327Z">
@@ -76933,6 +77012,15 @@
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>In particular, if you need an average, you have a number of functions to choose from.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181902Z" creationid="olivier" creationdate="20261025T181902Z">
+        <seg>Em particular, se precisar de uma média, tem-se uma série de funções para escolher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>In practice, though, some users may fumble when replacing the placeholders with values.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T104117Z" creationid="olivier" creationdate="20261025T104117Z">
@@ -76972,6 +77060,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235402Z" creationid="olivier" creationdate="20261022T235402Z">
         <seg>Em alguns casos, os argumentos têm opções predefinidas e você pode precisar consultar o texto no Assistente de Função e no painel de Funções da barra lateral, ou a Ajuda, para entendê-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In some cases, you can achieve similar results to certain functions by using filters or custom sorting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182131Z" creationid="olivier" creationdate="20261025T182131Z">
+        <seg>Em alguns casos, pode-se obter resultados semelhantes a algumas dessas funções configurando um filtro ou uma ordenação personalizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85079,6 +85175,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MEDIAN: Logically ranks the numbers (lowest to highest) to evaluate the median value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181928Z" creationid="olivier" creationdate="20261025T181928Z">
+        <seg>MED: classifica logicamente os números (do menor para o maior) para avaliar o valor da mediana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MODE: The most common entry in a list of numbers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181949Z" creationid="olivier" creationdate="20261025T181949Z">
+        <seg>MODO: a entrada mais comum em uma lista de números.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mac OS X (Aarch64/Apple Silicon)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194046Z" creationid="olivier-tdf" creationdate="20250109T194046Z">
@@ -89913,6 +90025,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183649Z" creationid="olivier" creationdate="20250220T183649Z">
         <seg>Observe que os nomes ou locais anteriores dos arquivos que foram renomeados ou realocados ainda podem estar no Centro de partida, e clicar nesses tipos de nomes de arquivos pode gerar um erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Note that the result for types 1 through 3 may not represent an actual item entered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182006Z" creationid="olivier" creationdate="20261025T182006Z">
+        <seg>Observe que o resultado para os tipos 1 a 3 pode não representar um item real inserido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98002,6 +98123,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>QUARTILE: The entry at a set position in the array of numbers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181956Z" creationid="olivier" creationdate="20261025T181956Z">
+        <seg>QUARTIL: a entrada em uma posição definida na matriz de números.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>QUOTIENT for division</seg>
@@ -98080,6 +98209,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203342Z" creationid="olivier" creationdate="20261022T203342Z">
         <seg>Nomear intervalos rapidamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RANK: The position of a given entry in the entire list, measured either from top to bottom or bottom to top.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182016Z" creationid="olivier" creationdate="20261025T182016Z">
+        <seg>ORDEM: a posição de uma determinada entrada em toda a lista, medida de cima para baixo ou de baixo para cima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -111003,6 +111140,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Similarly, a rank of 2 used with SMALL gives you the second-smallest number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181731Z" creationid="olivier" creationdate="20261025T181731Z">
+        <seg>Da mesma forma, uma classificação 2 usada com MENOR fornece o segundo menor número.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Similarly, calls to Calc’s FLOOR function are automatically converted to reference Excel’s FLOOR.MATH function when the file is saved in Calc.</seg>
       </tuv>
@@ -111963,6 +112109,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Some of these functions overlap; for example, MIN and MAX are both covered by QUARTILE.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182039Z" creationid="olivier" creationdate="20261025T182039Z">
+        <seg>Algumas dessas funções se sobrepõem; por exemplo, MÍNIMO e MÁXIMO são cobertos por QUARTIL.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Some options available in the tab menu may replicate options that are available on the tab; others may be extra options.</seg>
       </tuv>
@@ -112088,6 +112243,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250314T123316Z" creationid="olivier" creationdate="20250314T123316Z">
         <seg>Alguns elementos da interface do usuário não podem ser ocultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some users prefer to use MIN and MAX because they are easy to remember, while others prefer QUARTILE because it is more versatile.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182106Z" creationid="olivier" creationdate="20261025T182106Z">
+        <seg>Alguns podem preferir usar MÍNIMO e MÁXIMO porque são fáceis de lembrar, enquanto outros podem preferir QUARTIL porque é mais versátil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142783,6 +142946,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Using these functions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182111Z" creationid="olivier" creationdate="20261025T182111Z">
+        <seg>Usando essas funções</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Using these three toolbars together, corrections and adjustments can be applied to an image.</seg>
       </tuv>
@@ -149374,6 +149546,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You can find the arithmetical mean—that is, the result when you add all entries in a list then divide by the number of entries, by entering a range of numbers when using AVERAGE, or AVERAGEA to include text entries and to give them a value of zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181913Z" creationid="olivier" creationdate="20261025T181913Z">
+        <seg>pode-se encontrar a média aritmética, ou seja, o resultado quando adiciona todas as entradas numa lista e, em seguida, dividido pelo número de entradas, inserindo um intervalo de números ao usar MÉDIA, ou MÉDIAA para incluir entradas de texto e dar-lhes um valor de zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You can find them under the Tools and Data menus on the Menu bar.</seg>
       </tuv>
@@ -150646,6 +150827,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You need to enter the cell address for the entry, the range of &lt;t0/&gt;entries, and the type of rank (0 for the rank from the highest, or any other value for the rank from the bottom).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182031Z" creationid="olivier" creationdate="20261025T182031Z">
+        <seg>precisa-se inserir o endereço da célula para a entrada, o intervalo&lt;t0/&gt; de entradas, e o tipo de classificação (0 para a classificação do mais alto, ou qualquer outro valor para a classificação na parte inferior).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You never know for certain what the macro recorder can capture until you try it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250704T142403Z" creationid="olivier-tdf" creationdate="20250704T142403Z">
@@ -150708,6 +150897,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235003Z" creationid="olivier" creationdate="20261022T235003Z">
         <seg>Você verá a seguinte mensagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You would need to be an expert to want to find the Poisson distribution of a sample, or to find the skew or negative binomial of a distribution (and, if you are, you will find functions in Calc for such things).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181853Z" creationid="olivier" creationdate="20261025T181853Z">
+        <seg>Teria que ser um especialista para querer encontrar a distribuição de Poisson de uma amostra, ou para encontrar a inclinação ou binomial negativo de uma distribuição (e, se for, encontrará funções no Calc para essas coisas).</seg>
       </tuv>
     </tu>
     <tu>
