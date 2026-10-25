@@ -573,6 +573,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>(The same treatment of text occurs in any variation of another function that adds an "A" to the end.) Either function gives the same result, and could be useful if you used a text notation to indicate, for example, if any students were absent when a test was written, and you wanted to check whether to schedule a makeup exam.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180818Z" creationid="olivier" creationdate="20261025T180818Z">
+        <seg>(O mesmo tratamento de texto ocorre em qualquer variação de outra função que adiciona um "A" ao final.) Ambas as funções fornecem o mesmo resultado e podem ser úteis se se usar uma notação de texto para indicar, por exemplo, se algum aluno estiver ausente quando um teste for escrito, e quiser verificar se deseja agendar um exame adicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>(The top two charts in Figure &lt;t4&gt;32&lt;/t4&gt;&lt;s5/&gt;show the labels along the axes.</seg>
       </tuv>
@@ -4960,6 +4969,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Color coding&lt;/f0&gt;: Highlights referenced cells for easier identification.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173630Z" creationid="olivier" creationdate="20261025T173630Z">
+        <seg>&lt;f0&gt;Código de cores&lt;/f0&gt;: destaca as células referenciadas para facilitar a identificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Color&lt;/f0&gt; – opens the Color toolbar (Figure &lt;t1&gt;5&lt;/t1&gt;) to adjust the values of the red, green, blue colors, brightness, contrast and gamma.</seg>
       </tuv>
@@ -5966,6 +5984,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203723Z" creationid="timotheonb" creationdate="20260303T172534Z">
         <seg>&lt;f0&gt;Mensagem de erro&lt;/f0&gt; – digite a mensagem que deseja exibir quando dados inválidos forem inseridos numa célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Error messages&lt;/f0&gt;: These provide information about issues in formulas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173618Z" creationid="olivier" creationdate="20261025T173618Z">
+        <seg>&lt;f0&gt;Mensagens de erro&lt;/f0&gt;: fornecem informações sobre problemas em fórmulas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9404,6 +9430,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;The Detective tool&lt;/f0&gt;: Helps trace relationships between cells and identify errors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173642Z" creationid="olivier" creationdate="20261025T173642Z">
+        <seg>&lt;f0&gt;A ferramenta Detetive&lt;/f0&gt;: ajuda a rastrear relações entre células e identificar erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;The Line&lt;/f0&gt; page in the Line dialog.</seg>
       </tuv>
@@ -11591,6 +11626,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Color coding for input&lt;/s0&gt;&lt;s1&gt;Color coding for input&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175556Z" creationid="olivier" creationdate="20261025T175556Z">
+        <seg>&lt;s0&gt;COR coding for input&lt;/s0&gt;&lt;s1&gt;COR coding for input&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Color panel in Properties deck&lt;/s0&gt;&lt;s1&gt;Color panel in Properties deck&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260404T195542Z" creationid="vitor" creationdate="20260404T195542Z">
@@ -12134,6 +12177,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Deleted sheet causing #REF!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175429Z" creationid="olivier" creationdate="20261025T175429Z">
+        <seg>&lt;s0&gt;Folha excluída causando #REF!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Dialog for defining the filter&lt;/s0&gt;&lt;s1&gt;Dialog for defining the filter&lt;/s1&gt;</seg>
       </tuv>
@@ -12195,6 +12247,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250719T115457Z" creationid="olivier" creationdate="20250719T115457Z">
         <seg>&lt;s0&gt;Caixa de diálogo Linha de cota&lt;/s0&gt;&lt;s1&gt;&lt;/s1&gt;Caixa de diálogo Linha de cota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Division by zero solution&lt;/s0&gt;&lt;s1&gt;Division by zero solution&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175042Z" creationid="olivier" creationdate="20261025T175042Z">
+        <seg>&lt;s0&gt;Division by zero solution&lt;/s0&gt;&lt;s1&gt;Division by zero solution&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12827,6 +12887,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250509T103018Z" creationid="timot" creationdate="20250509T103018Z">
         <seg>&lt;s0&gt;Slide de exemplo usando caixas de conteúdo&lt;/s0&gt;&lt;s1&gt; Slide de exemplo usando caixas de conteúdo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Examples of #DIV/0!, division by zero error&lt;/s0&gt;&lt;s1&gt;Examples of #DIV/0!, division by zero error&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174943Z" creationid="olivier" creationdate="20261025T174943Z">
+        <seg>&lt;s0&gt;Examples of #DIV/0!, division by zero error&lt;/s0&gt;&lt;s1&gt;Examples of #DIV/0!, division by zero error&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13652,6 +13720,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T144804Z" creationid="olivier" creationdate="20250223T144804Z">
         <seg>&lt;s0&gt;Caixa de diálogo Impress: Imprimir — Aba Geral — Windows ou Linux&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Impress: Imprimir — Aba Geral — Windows ou Linux&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Incorrect entry causing #VALUE!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181503Z" creationid="olivier" creationdate="20261025T175213Z">
+        <seg>&lt;s0&gt;Entrada incorreta causando erro #VALOR!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16035,6 +16111,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Tracing precedents using the Detective&lt;/s0&gt;&lt;s1&gt;Tracing precedents using the Detective&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180039Z" creationid="olivier" creationdate="20261025T180039Z">
+        <seg>&lt;s0&gt;Tracing precedents using the Detective&lt;/s0&gt;&lt;s1&gt;Tracing precedents using the Detective&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Trend Line dialog – Line tab&lt;/s0&gt;&lt;s1&gt;Trend Line dialog – Line tab&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260408T234225Z" creationid="vitor" creationdate="20260408T234225Z">
@@ -17734,6 +17818,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>=IF(C3&gt;0, B3/C3, "No Report")</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174839Z" creationid="olivier" creationdate="20261025T174803Z">
+        <seg>=SE(C3&gt;0, B3/C3, "Sem relatório")</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>=ROUND(A1,1)</seg>
@@ -18019,6 +18111,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>A calculation results in an overflow of the defined value range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174038Z" creationid="olivier" creationdate="20261025T174038Z">
+        <seg>Um cálculo resulta em um estouro do intervalo de valores definido.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A calculation that results in an overflow of the defined value range – a value too big or too small.</seg>
       </tuv>
@@ -18129,6 +18230,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204416Z" creationid="olivier" creationdate="20261022T204416Z">
         <seg>Um equívoco comum é achar que os cálculos são feitos da esquerda para a direita, pois a equação seria lida em inglês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>A common occurrence of this error arises when a cell contains an incorrect value type.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175142Z" creationid="olivier" creationdate="20261025T175142Z">
+        <seg>Uma ocorrência comum desse erro surge quando uma célula contém um tipo de valor incorreto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18443,6 +18553,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250629T183750Z" creationid="firelinux" creationdate="20250629T183750Z">
         <seg>Alguns exemplos de funções de desenho são os seguintes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A few of the most common are shown in Table &lt;t0&gt;9&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173913Z" creationid="olivier" creationdate="20261025T173913Z">
+        <seg>Alguns dos mais comuns são mostrados na Tabela &lt;t0&gt;9&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19327,6 +19445,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>A similar choice is also available if you want to raise a number by the power of another.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180346Z" creationid="olivier" creationdate="20261025T180346Z">
+        <seg>Uma escolha semelhante também está disponível se quiser elevar um número à potência de outro.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A simple calculation</seg>
       </tuv>
@@ -19662,6 +19789,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260312T113233Z" creationid="timotheonb" creationdate="20260312T113233Z">
         <seg>Uma regra de validade é considerada parte do formato de uma célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>A variable is missing from the formula.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174047Z" creationid="olivier" creationdate="20261025T174047Z">
+        <seg>Uma variável está faltando na fórmula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21213,6 +21349,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="lucianacmota0808" changedate="20250701T213026Z" creationid="lucianacmota0808" creationdate="20250701T213026Z">
         <seg>Depois de desenhar uma linha ou seta, o estilo da linha ou seta é alterado abrindo a caixa de diálogo Linha (Figura &lt;t0&gt;12&lt;/t0&gt; na página &lt;t1&gt;10&lt;/t1&gt;) e usando as opções disponíveis nas páginas &lt;f2&gt;Estilos de linha&lt;/f2&gt; ou &lt;f3&gt;Estilos de seta&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>After entering the formula in the first row of column D, copy it down the remainder of the column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174857Z" creationid="olivier" creationdate="20261025T174857Z">
+        <seg>Depois de inserir a fórmula na primeira linha da coluna D, copie-a para o restante da coluna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23054,6 +23199,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Alternatively, the formula can be adjusted to return a blank cell (using double quotes `""`) or to substitute a specific standardized number for the missing or invalid value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174939Z" creationid="olivier" creationdate="20261025T174939Z">
+        <seg>Alternativamente, a fórmula pode ser ajustada para retornar uma célula em branco (usando aspas duplas `""`) ou para substituir um número padronizado específico pelo valor ausente ou inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Alternatively, to automatically preview how the transition looks when it is applied, select &lt;f1&gt;Automatic Preview&lt;/f1&gt; at the bottom of the &lt;f2&gt;Slides Transition&lt;/f2&gt; deck.</seg>
       </tuv>
@@ -23522,6 +23676,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An error message for a formula is usually a three-digit number from 501 to 540, or sometimes vague text such as #NAME?, #REF!, or #VALUE!.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181442Z" creationid="olivier" creationdate="20261025T173756Z">
+        <seg>Uma mensagem de erro para uma fórmula é geralmente um número de três dígitos de 501 a 540 ou, às vezes, um trecho de texto seco, como #NOME?, #REF!, ou #VALOR!.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An error message will be displayed to indicate that protected cells cannot be modified.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260401T002847Z" creationid="timotheonb" creationdate="20260401T002847Z">
@@ -23558,6 +23720,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T110243Z" creationid="timot" creationdate="20250113T110243Z">
         <seg>Um exemplo é mostrado no Capítulo 1, Noções básicas do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An example is shown in Figure &lt;t0&gt;30&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174922Z" creationid="olivier" creationdate="20261025T174922Z">
+        <seg>A Figura &lt;t0&gt;30&lt;/t0&gt; mostra um exemplo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23870,6 +24040,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>An operator such as an equals sign is missing from the formula.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174043Z" creationid="olivier" creationdate="20261025T174043Z">
+        <seg>Um operador, como um sinal de igual, está faltando na fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>An option is available to highlight the entire row and column of the active cell using a transparent color (Figure &lt;t0&gt;6&lt;/t0&gt;).</seg>
       </tuv>
@@ -24052,6 +24231,15 @@
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>Another common use for spreadsheet functions is to pull useful information out of a list, such as a series of test scores in a class, or a summary of earnings per quarter for a company.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180630Z" creationid="olivier" creationdate="20261025T180630Z">
+        <seg>Outro uso comum para funções de planilha é extrair informações úteis de uma lista, como uma série de pontuações de testes em uma aula ou um resumo dos ganhos por trimestre de uma empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>Another feature is the ability to display the last formulas used.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T104122Z" creationid="olivier" creationdate="20261025T104122Z">
@@ -24097,6 +24285,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T204926Z" creationid="olivier" creationdate="20261022T204926Z">
         <seg>Outra possível intenção poderia ser:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Another useful tool when reviewing a formula is the color coding for input.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175547Z" creationid="olivier" creationdate="20261025T175547Z">
+        <seg>Outra ferramenta útil ao revisar uma fórmula é a codificação de cores para entrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25516,6 +25713,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>At other times, a cell or range used may have the wrong format, such as text instead of numbers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174012Z" creationid="olivier" creationdate="20261025T174012Z">
+        <seg>Em outras ocasiões, uma célula ou intervalo usado pode ter o formato errado, como texto em vez de números.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>At the bottom of the &lt;f0&gt;Special Characters&lt;/f0&gt; dialog there is provision for building a small collection of &lt;f1&gt;Favorite Characters&lt;/f1&gt;.</seg>
       </tuv>
@@ -26725,6 +26931,24 @@
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>Basic arithmetic</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180314Z" creationid="olivier" creationdate="20261025T180314Z">
+        <seg>Aritmética básica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Basic arithmetic and statistics</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180301Z" creationid="olivier" creationdate="20261025T180301Z">
+        <seg>Aritmética e estatísticas básicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>Basic layout</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095452Z" creationid="olivier" creationdate="20261011T095452Z">
@@ -27870,6 +28094,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>By default, the text contents are in black characters and the numeric contents are in blue.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175717Z" creationid="olivier" creationdate="20261025T175717Z">
+        <seg>Por padrão, o conteúdo do texto está em caracteres pretos e o conteúdo numérico está em azul.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>By default, this base point is located at the upper left of a chart.</seg>
       </tuv>
@@ -27940,6 +28173,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T190457Z" creationid="olivier" creationdate="20250316T190457Z">
         <seg>Definindo a variável de ambiente JAVA_HOME.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>By tracing these precedents, you frequently can find the source of the errors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175900Z" creationid="olivier" creationdate="20261025T175900Z">
+        <seg>Ao rastrear esses precedentes, você frequentemente pode encontrar a origem dos erros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28938,6 +29180,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Calc offers three key tools to help investigate formulas and the cells they reference:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173557Z" creationid="olivier" creationdate="20261025T173557Z">
+        <seg>O Calc oferece três ferramentas principais para ajudar a investigar as fórmulas e as células que elas fazem referência:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Calc offers three style types:</seg>
       </tuv>
@@ -29204,6 +29455,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260503T175200Z" creationid="olivier" creationdate="20260503T175200Z">
         <seg>Usuários do Calc podem alternar a interface padrão (Barra de ferramentas padrão) a qualquer momento com descrito a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Calc uses eight colors for outlining referenced cells, starting with blue for the first cell, and continuing with red, magenta, green, dark blue, brown, purple, and yellow before cycling through the sequence again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175614Z" creationid="olivier" creationdate="20261025T175614Z">
+        <seg>O Calc usa oito cores para delinear células referenciadas, começando com azul para a primeira célula e continuando com vermelho, magenta, verde, azul-escuro, marrom, roxo e amarelo antes de percorrer a sequência novamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38184,6 +38444,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Color coding for input</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175543Z" creationid="olivier" creationdate="20261025T175543Z">
+        <seg>Codificação de cores para entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Color panel in Properties deck</seg>
       </tuv>
@@ -43499,6 +43768,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deleted sheet causing #REF!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175535Z" creationid="olivier" creationdate="20261025T175535Z">
+        <seg>Planilha excluída causando #REF!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deletes modification and printing dates.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202845Z" creationid="olivier-tdf" creationdate="20250328T202845Z">
@@ -44060,6 +44337,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250909T012630Z" creationid="firelinux" creationdate="20250909T012630Z">
         <seg>A detecção de números na notação científica dependerá da opção de &lt;f0&gt;Detecção de notação científica&lt;/f0&gt; adjacente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Detective</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175744Z" creationid="olivier" creationdate="20261025T175744Z">
+        <seg>O Detetive</seg>
       </tuv>
     </tu>
     <tu>
@@ -45106,6 +45392,23 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T220112Z" creationid="olivier" creationdate="20261020T220112Z">
         <seg>Divisão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Division by zero solution</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175105Z" creationid="olivier" creationdate="20261025T175105Z">
+        <seg>Solução para divisão por zero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Division by zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174020Z" creationid="olivier" creationdate="20261025T174020Z">
+        <seg>Divisão por zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46663,6 +46966,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T011529Z" creationid="tulio" creationdate="20250116T011529Z">
         <seg>A interface de usuário de cada módulo do LibreOffice é baseada na janela principal do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Each also has a related function, MINA or MAXA, which performs the same function, but also treats a cell formatted for text as having a value of 0.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180811Z" creationid="olivier" creationdate="20261025T180811Z">
+        <seg>Cada um também tem uma função relacionada, MÍNIMOA ou MÁXIMOA, que executa a mesma função, mas também trata uma célula formatada para texto como tendo o valor 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49238,6 +49550,23 @@
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>Error messages</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173647Z" creationid="olivier" creationdate="20261025T173647Z">
+        <seg>Mensagens de erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error messages display in a formula’s cell, on the Status Bar, or in the Function Wizard instead of the result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173704Z" creationid="olivier" creationdate="20261025T173704Z">
+        <seg>As mensagens de erro são exibidas na célula de uma fórmula, na barra de status, ou no Assistente de funções em vez do resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>Error-checking formulas</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T214033Z" creationid="olivier" creationdate="20261020T214033Z">
@@ -49426,6 +49755,24 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260307T221220Z" creationid="olivier" creationdate="20260307T221220Z">
         <seg>Erros descritos como &lt;f0&gt;Erros internos&lt;/f0&gt; não deveriam ser encontrados pelos usuários em condições normais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Errors in formulas are a common occurrence in spreadsheets, even with the many tools Calc provides to assist with formula entry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173512Z" creationid="olivier" creationdate="20261025T173512Z">
+        <seg>Erros em fórmulas são uma ocorrência comum em planilhas, mesmo com as muitas ferramentas que o Calc fornece para auxiliar na entrada de fórmulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Errors like these are common when data is missing or incorrectly reported.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174431Z" creationid="olivier" creationdate="20261025T174431Z">
+        <seg>Erros como esses são comuns quando os dados estão ausentes ou são relatados incorretamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50067,10 +50414,35 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Examples of #DIV/0!, division by zero error</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175037Z" creationid="olivier" creationdate="20261025T175014Z">
+        <seg>Exemplos de #DIV/0!, erro de divisão por zero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Examples of common errors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174101Z" creationid="olivier" creationdate="20261025T174101Z">
+        <seg>Exemplos de erros comuns:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Examples of data label options</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260406T230449Z" creationid="vitor" creationdate="20260406T230449Z">
         <seg>Exemplos de opções de rótulos de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Examples of functions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180156Z" creationid="olivier" creationdate="20261025T180156Z">
+        <seg>Exemplos de funções</seg>
       </tuv>
     </tu>
     <tu>
@@ -50138,6 +50510,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201923Z" creationid="olivier" creationdate="20261006T201923Z">
         <seg>Excel R1C1 &lt;s0/&gt;&lt;f1&gt;=Planilha2!R[3]C[2]&lt;/f1&gt; – o endereçamento relativo de linha e coluna usado no Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Except for subtraction, each of these operations has its own function:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180321Z" creationid="olivier" creationdate="20261025T180321Z">
+        <seg>Exceto pela subtração, cada uma dessas operações tem sua própria função:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54039,6 +54420,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Examples of #DIV/0!, division by zero error</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175028Z" creationid="olivier" creationdate="20261025T174957Z">
+        <seg>Figura &lt;seq0&gt;29&lt;/seq0&gt;: Exemplos de #DIV/0!, erro de divisão por zero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Formatting toolbar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250528T220332Z" creationid="timotheonb" creationdate="20250528T220332Z">
@@ -54328,6 +54717,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Division by zero solution</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175054Z" creationid="olivier" creationdate="20261025T175054Z">
+        <seg>Figura &lt;seq0&gt;30&lt;/seq0&gt;: Solução para divisão por zero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Example of comments</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T114337Z" creationid="timot" creationdate="20250407T114337Z">
@@ -54392,6 +54789,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Incorrect entry causing #VALUE!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175325Z" creationid="olivier" creationdate="20261025T175325Z">
+        <seg>Figura &lt;seq0&gt;31&lt;/seq0&gt;: Entrada incorreta causando erro #VALOR!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Paste Special dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T010956Z" creationid="olivier" creationdate="20250124T010956Z">
@@ -54428,6 +54833,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T011817Z" creationid="olivier" creationdate="20250124T011817Z">
         <seg>Figura &lt;seq0&gt;32&lt;/seq0&gt;: Caixa de diálogo Excluir conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Deleted sheet causing #REF!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175513Z" creationid="olivier" creationdate="20261025T175513Z">
+        <seg>Figura &lt;seq0&gt;32&lt;/seq0&gt;: planilha excluída causando o erro #REF!</seg>
       </tuv>
     </tu>
     <tu>
@@ -54469,6 +54882,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T224615Z" creationid="vitor" creationdate="20260405T224615Z">
         <seg>Figura &lt;seq0&gt;33&lt;/seq0&gt;: Caixa de diálogo de formatação do Eixo – Aba Rótulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Color coding for input</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175608Z" creationid="olivier" creationdate="20261025T175608Z">
+        <seg>Figura &lt;seq0&gt;33&lt;/seq0&gt;: codificação de cores para entrada</seg>
       </tuv>
     </tu>
     <tu>
@@ -54542,6 +54963,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T124300Z" creationid="olivier" creationdate="20261008T124300Z">
         <seg>Figura &lt;seq0&gt;34&lt;/seq0&gt;: A aba Barra de abas da caixa de diálogo Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Tracing precedents using the Detective</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180058Z" creationid="olivier" creationdate="20261025T180058Z">
+        <seg>Figura &lt;seq0&gt;34&lt;/seq0&gt;: rastrear precedentes usando o Detetive</seg>
       </tuv>
     </tu>
     <tu>
@@ -57022,6 +57451,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;t3&gt;34&lt;/t3&gt;&lt;s4/&gt;shows a simple example of tracing precedents for cell B4.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180025Z" creationid="olivier" creationdate="20261025T180025Z">
+        <seg>A Figura &lt;t3&gt;34&lt;/t3&gt;&lt;s4/&gt;mostra um exemplo simples de rastreamento de precedentes para a célula B4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;t3&gt;9&lt;/t3&gt;&lt;s4/&gt;shows the original line and the resulting line after applying the macro.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250702T125352Z" creationid="olivier-tdf" creationdate="20250702T125352Z">
@@ -58990,6 +59427,15 @@
     <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
+        <seg>For beginners, functions can be one of the most intimidating aspects of LibreOffice Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180208Z" creationid="olivier" creationdate="20261025T180208Z">
+        <seg>Para iniciantes, as funções podem ser um dos aspectos mais intimidantes do LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
         <seg>For best quality, custom icons should be 24 x 24 pixels in size; other sizes will be scaled automatically.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T122652Z" creationid="olivier" creationdate="20261008T122652Z">
@@ -59174,6 +59620,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For each of these formulas, all arguments are either a range of cells, or a series of cells entered individually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180803Z" creationid="olivier" creationdate="20261025T180803Z">
+        <seg>Para cada uma dessas fórmulas, todos os argumentos são um intervalo de células ou uma série de células inseridas individualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For each of these two options, the following choices are possible: &lt;f0&gt;Never recalculate&lt;/f0&gt; (no formulas will be recalculated on loading the file), &lt;f1&gt;Always recalculate&lt;/f1&gt; (all formulas will be recalculated on file load), and &lt;f2&gt;Prompt user&lt;/f2&gt; (prompt user for action).</seg>
       </tuv>
@@ -59300,6 +59755,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T173941Z" creationid="olivier" creationdate="20260926T173941Z">
         <seg>Por exemplo, o Calc usa o nome e sobrenome para preencher os campos &lt;f0&gt;Criado&lt;/f0&gt; e &lt;f1&gt;Modificado&lt;/f1&gt; nas propriedades do documento, no rodapé de uma planilha impressa ou como o nome de usuário associado aos comentários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For example, Figure &lt;t0&gt;29&lt;/t0&gt;&lt;s1/&gt;illustrates a division of values in column B by values in column C, resulting in two errors caused by a zero and a blank cell in column C.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174419Z" creationid="olivier" creationdate="20261025T174419Z">
+        <seg>Por exemplo, a Figura &lt;t0&gt;29&lt;/t0&gt;&lt;s1/&gt;ilustra uma divisão de valores na coluna B por valores na coluna C, resultando em dois erros causados por um zero e uma célula em branco na coluna C.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60105,6 +60569,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T134723Z" creationid="olivier" creationdate="20250217T134723Z">
         <seg>Por exemplo, o texto pode ficar em negrito ou itálico com o menu Formato, a barra de ferramentas Formatação ou o deque Propriedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For example, text contents and numeric contents can look the same but can produce a mistake if both are used in some calculations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175626Z" creationid="olivier" creationdate="20261025T175626Z">
+        <seg>Por exemplo, um conteúdo de texto e um conteúdo numérico podem ter a mesma aparência, mas podem produzir um erro se ambos forem usados em alguns cálculos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60950,6 +61423,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>For instance, instead of entering &lt;f0&gt;=SUM(A1:A2)&lt;/f0&gt;, or possibly &lt;f1&gt;=SUM(A1,A2)&lt;/f1&gt;, you enter &lt;f2&gt;=A1+A2&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180504Z" creationid="olivier" creationdate="20261025T180504Z">
+        <seg>Por exemplo, em vez de inserir &lt;f0&gt;=SOMA(A1:A2)&lt;/f0&gt; , ou possivelmente &lt;f1&gt;=SOMA(A1;A2)&lt;/f1&gt;, entre &lt;f2&gt;=A1+A2&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>For instance, the FV function gives the future value of an investment, while BIN2HEX converts a binary number to a hexadecimal number.</seg>
@@ -60965,6 +61446,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T214124Z" creationid="olivier" creationdate="20261020T214124Z">
         <seg>Por exemplo, ao calcular o total de uma coluna, use a função &lt;f0&gt;SOMA&lt;/f0&gt; para encontrar o total da coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For instance, you can use the formula:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174730Z" creationid="olivier" creationdate="20261025T174730Z">
+        <seg>Por exemplo, você pode usar a fórmula:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61051,8 +61541,8 @@
       <tuv lang="en-US">
         <seg>For many functions, Calc follows the &lt;f0&gt;OpenFormula&lt;/f0&gt; standard defined in Part 2 (Recalculated Formula (OpenFormula) Format) of the Open Document Format for Office Applications (OpenDocument) Version 1.2.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212613Z" creationid="olivier" creationdate="20261024T212544Z">
-        <seg>Para muitas funções, o Calc segue o padrão &lt;f0&gt;OpenFormula&lt;/f0&gt; definido na Parte 2 (Recalculated Formula (OpenFormula) Format) do Open Document Format for Office Applications (OpenDocument) Version 1.3.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181243Z" creationid="olivier" creationdate="20261024T212544Z">
+        <seg>Para muitas funções, o Calc segue o padrão &lt;f0&gt;OpenFormula&lt;/f0&gt; definido na Parte 2 (Recalculated Formula (OpenFormula) Format) do Open Document Format for Office Applications (OpenDocument) Version 1.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61253,6 +61743,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T161658Z" creationid="olivier" creationdate="20250204T161658Z">
         <seg>Para obter mais flexibilidade na definição de características de borda, incluindo estilos de preenchimento e sombra, use a guia &lt;f0&gt;Bordas&lt;/f0&gt; na caixa de diálogo Formatar células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For more flexibility in similar operations, you could use LARGE or SMALL, both of which add a specialized argument of rank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180824Z" creationid="olivier" creationdate="20261025T180824Z">
+        <seg>Para obter mais flexibilidade em operações semelhantes, pode-se usar MAIOR ou MENOR, os quais adicionam um argumento especializado de classificação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61814,6 +62313,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T132403Z" creationid="olivier-tdf" creationdate="20250615T132403Z">
         <seg>Para obter mais informações sobre como trabalhar com objetos agrupados, consulte o guia do usuário específico para cada módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For more information search for “Detective” in the Help system’s index.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180147Z" creationid="olivier" creationdate="20261025T180147Z">
+        <seg>Para obter mais informações, pesquise “Detetive” no índice do sistema de Ajuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62528,6 +63036,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234915Z" creationid="olivier" creationdate="20250301T234915Z">
         <seg>Por esse motivo, o ODF é &lt;f1&gt;importante&lt;/f1&gt; para agências governamentais, escolas e outras empresas que preferem não ser muito dependentes de nenhum fornecedor de software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For this we use the Trace Error function, found under &lt;f0&gt;Tools &gt; Detective &gt; Trace Error&lt;/f0&gt;, to find the cells that caused the error.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180143Z" creationid="olivier" creationdate="20261025T180143Z">
+        <seg>Para isso, usamos a função Rastrear erro, encontrada em &lt;f0&gt;Ferramentas &gt; Detetive &gt; Rastrear erro&lt;/f0&gt;, para localizar as células que causaram o erro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68487,6 +69003,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>However, for basic equations, many users prefer the time-honored computer symbols for these operations, using the plus sign (+) for addition, the hyphen (–) for subtraction, the asterisk (*) for multiplication and the forward slash (/) for division.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180338Z" creationid="olivier" creationdate="20261025T180338Z">
+        <seg>No entanto, para equações básicas, muitos usuários preferem os símbolos de computador consagrados pelo tempo para essas operações, usando o sinal de mais (+) para adição, o hífen (-) para subtração, o asterisco (*) para multiplicação e a barra (/) para divisão.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>However, for professional results it is generally better to use Draw or other software designed to modify image files, and then insert the result into Calc.</seg>
       </tuv>
@@ -68644,6 +69169,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T235518Z" creationid="tulio" creationdate="20250211T134126Z">
         <seg>No entanto, se utilizar uma única barra de ferramentas para evitar que ela seja reposicionada ou transformada numa barra de ferramentas flutuante, clique com o botão direito do mouse num espaço vazio na barra de ferramentas e selecione &lt;f0&gt;Travar posição da barra  de ferramentas&lt;/f0&gt; no submenu que será aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>However, if you use spreadsheets regularly in a group setting such as a class or an office, you might want to standardize on an entry format so that everyone who handles a spreadsheet becomes accustomed to a standard input.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180616Z" creationid="olivier" creationdate="20261025T180616Z">
+        <seg>No entanto, se usa planilhas de trabalho regularmente em um ambiente de grupo, como uma classe ou um escritório, convém padronizar um formato de entrada para que todos que lidam com um documento de planilha se acostumem a uma entrada padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69853,6 +70387,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250505T104315Z" creationid="timotheonb" creationdate="20250505T104315Z">
         <seg>Se um slide não for selecionado, o novo slide será inserido como o último slide da apresentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If a source is a range, then that range is highlighted in blue.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180034Z" creationid="olivier" creationdate="20261025T180034Z">
+        <seg>Se uma fonte for um intervalo, esse intervalo será destacado em azul.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72299,6 +72842,15 @@
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>If the rank is 1 used with LARGE, you get the same result as you would with MAX.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180859Z" creationid="olivier" creationdate="20261025T180859Z">
+        <seg>Se a classificação for 1 usada com MAIOR, será obtido o mesmo resultado que obteria com MÁXIMO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>If the references are reference lists, then each list item from the left is intersected with each one from the right and these results are concatenated to a reference list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141656Z" creationid="olivier" creationdate="20261021T141656Z">
@@ -73160,8 +73712,8 @@
       <tuv lang="en-US">
         <seg>If you create an array formula using the Function Wizard, you must mark the &lt;f0&gt;Array&lt;/f0&gt; check box each time so that the results are returned in an array (Figure &lt;t1&gt;23&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T110701Z" creationid="olivier" creationdate="20261025T110701Z">
-        <seg>Se criar uma fórmula de matriz usando o Assistente de Funções, deverá marcar a caixa de seleção &lt;f0&gt;MatrizT a cada vez para que os resultados sejam retornados em uma matriz (Figura &lt;/f0&gt;23&lt;t1&gt;).</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181625Z" creationid="olivier" creationdate="20261025T110701Z">
+        <seg>Se criar uma fórmula de matriz usando o Assistente de Funções, deverá marcar a caixa de seleção &lt;f0&gt;Matriz&lt;/f0&gt; a cada vez para que os resultados sejam retornados em uma matriz (Figura &lt;t1&gt;23&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -73309,6 +73861,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234030Z" creationid="olivier" creationdate="20261022T234030Z">
         <seg>Se arrastar a Planilha 1 para ser posicionada entre as planilhas 2 e 3, o valor muda para 2; agora é a segunda planilha na ordem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you enable value highlighting (&lt;f0&gt;View &gt; Value Highlighting&lt;/f0&gt; or &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;F8&lt;/f2&gt;), Calc distinguishes the text and numeric data types by assigning different colors to the content’s characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175715Z" creationid="olivier" creationdate="20261025T175715Z">
+        <seg>Se habilitar o destaque de valor (&lt;f0&gt;Exibir &gt; Destaque de valores&lt;/f0&gt; ou &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;F8&lt;/f2&gt;), O Calc distingue os tipos de dados de texto e numéricos atribuindo cores diferentes aos caracteres do conteúdo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75576,6 +76136,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In a long or complicated spreadsheet, color coding becomes less useful.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175752Z" creationid="olivier" creationdate="20261025T175752Z">
+        <seg>Num documento de planilha grande ou complicado, o código de cores se torna menos útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In a new document, this page may be blank.</seg>
       </tuv>
@@ -75661,6 +76230,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T103756Z" creationid="vitor" creationdate="20260412T103756Z">
         <seg>Além dos gráficos, a caixa de diálogo Posição e Tamanho também pode ser usada para modificar e posicionar outros elementos gráficos, como os disponíveis na barra de ferramentas Desenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to correcting these errors, you may need to identify the cells used in a formula to adjust their values or verify the results.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173545Z" creationid="olivier" creationdate="20261025T173545Z">
+        <seg>Além de corrigir erros, pode-se querer encontrar as células usadas em uma fórmula para alterar seus valores ou para verificar a resposta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76273,6 +76850,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In other instances we may have to trace an error.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180124Z" creationid="olivier" creationdate="20261025T180124Z">
+        <seg>Em outros casos, podemos ter que rastrear um erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In other words, it is a name/value pair.</seg>
       </tuv>
@@ -76302,6 +76888,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T110903Z" creationid="olivier-tdf" creationdate="20250701T110903Z">
         <seg>Em outras palavras, esta linha de código executa o comando uno &lt;f0&gt;.uno:InsertText&lt;/f0&gt; passando o valor “Your Name” como o parâmetro “Text”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other words, to enter the equivalent of &lt;f0&gt;=SUM(A1:A3)&lt;/f0&gt;, you would need to type &lt;f1&gt;=A1+A2+A3&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180604Z" creationid="olivier" creationdate="20261025T180604Z">
+        <seg>Em outras palavras, para inserir o equivalente a &lt;f0&gt;=SOMA(A1:A3)&lt;/f0&gt;, seria preciso digitar &lt;f1&gt;=A1+A2+A3&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77136,8 +77730,8 @@
       <tuv lang="en-US">
         <seg>In the Move/Copy Sheet dialog (Figure &lt;t0&gt;18&lt;/t0&gt;), select the &lt;f1&gt;Copy&lt;/f1&gt; option (automatically selected if there is only one sheet in the spreadsheet) and select &lt;f2&gt;-move to end position-&lt;/f2&gt; in the &lt;f3&gt;Insert before&lt;/f3&gt; area.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T234530Z" creationid="olivier" creationdate="20261022T234530Z">
-        <seg>Na caixa de diálogo Mover / Copiar Planilha (Figura &lt;t0&gt;18&lt;/t0&gt;), selecione a opção &lt;f1&gt;Copiar&lt;/f1&gt; (selecionada automaticamente se houver apenas uma planilha no documento) e selecione &lt;f2&gt;- mover para a posição final -&lt;/f2&gt; na caixa &lt;f3&gt;Inserir antes.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181137Z" creationid="olivier" creationdate="20261022T234530Z">
+        <seg>Na caixa de diálogo Mover / Copiar Planilha (Figura &lt;t0&gt;18&lt;/t0&gt;), selecione a opção &lt;f1&gt;Copiar&lt;/f1&gt; (selecionada automaticamente se houver apenas uma planilha no documento) e selecione &lt;f2&gt;- mover para a posição final -&lt;/f2&gt; na caixa &lt;f3&gt;Inserir antes&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77425,6 +78019,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the example of Figure &lt;t0&gt;31&lt;/t0&gt;, text “None” has been entered in C8, where our formula in column D is expecting a number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175159Z" creationid="olivier" creationdate="20261025T175159Z">
+        <seg>No exemplo da Figura &lt;t0&gt;31&lt;/t0&gt;, o texto “Nenhum” foi inserido em C8, onde nossa fórmula na coluna D espera que haja um número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the example shown in Figure &lt;t0&gt;32&lt;/t0&gt;, the formula references a sheet that has been deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175425Z" creationid="olivier" creationdate="20261025T175425Z">
+        <seg>No exemplo mostrado na Figura &lt;t0&gt;32&lt;/t0&gt;, a fórmula faz referência a uma planilha que foi excluída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the example shown in Figure &lt;t2&gt;25&lt;/t2&gt;, the menu provides three &lt;t3/&gt;entries indicating that some cells have a light green background, others have a yellow background, and the remainder have no background color set (&lt;f4&gt;No Fill&lt;/f4&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260331T142539Z" creationid="timotheonb" creationdate="20260331T142539Z">
@@ -77673,6 +78283,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T104112Z" creationid="olivier" creationdate="20261025T104112Z">
         <seg>Em teoria, também deveria ser menos sujeito a erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In these cases, consider using the submenu under &lt;f0&gt;Tools &gt; Detective&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175803Z" creationid="olivier" creationdate="20261025T175803Z">
+        <seg>Nestes casos, considere usar o submenu em &lt;f0&gt;Ferramentas &gt; Detetive&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78066,6 +78684,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203852Z" creationid="tulio" creationdate="20250918T004139Z">
         <seg>Incorporar gráficos pode transformar uma planilha padrão num documento mais envolvente e memorável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Incorrect entry causing #VALUE!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175329Z" creationid="olivier" creationdate="20261025T175329Z">
+        <seg>Entrada incorreta causando erro #VALOR!</seg>
       </tuv>
     </tu>
     <tu>
@@ -79364,6 +79991,59 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Instead of displaying Err:503.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174034Z" creationid="olivier" creationdate="20261025T174034Z">
+        <seg>Em vez de exibir Erro:503.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Instead of displaying Err:519.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173957Z" creationid="olivier" creationdate="20261025T173957Z">
+        <seg>Em vez de exibir Erro:519.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Instead of displaying Err:524.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173948Z" creationid="olivier" creationdate="20261025T173948Z">
+        <seg>Em vez de exibir Erro:524.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Instead of displaying Err:525.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173937Z" creationid="olivier" creationdate="20261025T173937Z">
+        <seg>Em vez de exibir Erro:525.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Instead of displaying Err:532.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174017Z" creationid="olivier" creationdate="20261025T174017Z">
+        <seg>Em vez de exibir Erro:532.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instead of entering &lt;f0&gt;=POWER(A1,2)&lt;/f0&gt;, you can enter &lt;f1&gt;=A1^2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180411Z" creationid="olivier" creationdate="20261025T180411Z">
+        <seg>Em vez de inserir &lt;f0&gt;=POTÊNCIA(A1,2)&lt;/f0&gt;, pode digitar &lt;f1&gt;=A1^2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Instead of entering information on each sheet individually, for example to set up standard listings for a group of individuals or organizations, you can enter it in several sheets at the same time.</seg>
       </tuv>
@@ -79466,6 +80146,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203723Z" creationid="timotheonb" creationdate="20260331T143659Z">
         <seg>Em vez disso, os filtros podem ser inseridos numa área em branco de uma planilha e, em seguida, referenciados pela caixa de diálogo de filtro para aplicar os filtros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Instead, it is usually quicker and more efficient to enter a function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180645Z" creationid="olivier" creationdate="20261025T180645Z">
+        <seg>Em vez disso, geralmente é mais rápido e eficiente inserir uma função.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79704,6 +80393,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investigating and Resolving Formula Errors</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173500Z" creationid="olivier" creationdate="20261025T173500Z">
+        <seg>Investigar e resolver erros de fórmula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Is LibreOffice available in different languages?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T215026Z" creationid="olivier-tdf" creationdate="20250109T215026Z">
@@ -79860,6 +80557,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184719Z" creationid="firelinux" creationdate="20260403T184719Z">
         <seg>Aplica formatação direta ao intervalo selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>It can also be used for tracing errors, marking invalid data (that is, information in cells that is not in the proper format for a function’s argument), or even for removing precedents and dependents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175816Z" creationid="olivier" creationdate="20261025T175816Z">
+        <seg>Também pode ser usado para rastrear erros, marcar dados inválidos (ou seja, informações em células que não estão no formato adequado para um argumento de função) ou até mesmo para remover precedentes e dependentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85586,6 +86292,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Meaning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173933Z" creationid="olivier" creationdate="20261025T173933Z">
+        <seg>Significado</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Measurement units for the horizontal and vertical rulers can be different measurement units.</seg>
       </tuv>
@@ -86180,6 +86895,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Mistakes can happen when inputting numbers or using &lt;t0/&gt;incorrect types of arguments for a function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173522Z" creationid="olivier" creationdate="20261025T173522Z">
+        <seg>Erros podem acontecer ao inserir números ou usar tipos &lt;t0/&gt;incorretos de argumentos para uma função.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Mode</seg>
       </tuv>
@@ -86591,6 +87315,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Moreover, they have the advantage that you enter formulas with them in an order that more closely approximates human-readable format than the spreadsheet-readable format used by the equivalent function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180416Z" creationid="olivier" creationdate="20261025T180416Z">
+        <seg>Além disso, eles têm a vantagem de inserir fórmulas numa ordem que se aproxima mais do formato legível por humanos do que o formato usado pela função de planilha de trabalho equivalente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Most CSV files have the extension .csv but some CSV files may have a .txt extension.</seg>
       </tuv>
@@ -86628,6 +87361,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T115523Z" creationid="timotheonb" creationdate="20260616T115523Z">
         <seg>A maioria das configurações padrão, como tamanho da página e margens da página, pode ser alterada, mas essas alterações normalmente se aplicam apenas ao documento de planilha em que se está trabalhando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Most error messages indicate a problem with how the formula was input, although several indicate that you have run up against a limitation of either Calc or its current settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173822Z" creationid="olivier" creationdate="20261025T173822Z">
+        <seg>A maioria das mensagens de erro indica um problema com a forma como a fórmula foi inserida, embora várias indiquem que se esbarrou numa limitação do Calc ou de suas configurações atuais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87584,12 +88326,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Multi-threading</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T114740Z" creationid="olivier" creationdate="20261025T114740Z">
-        <seg>Multifilamentos</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T172905Z" creationid="olivier" creationdate="20261025T114740Z">
+        <seg>Processamento paralelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multi-threading is enabled by default to take advantage of the parallel processing power of modern computers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173033Z" creationid="olivier" creationdate="20261025T173033Z">
+        <seg>O processamento paralelo é habilitado por padrão para aproveitar o poder de processamento paralelo dos computadores modernos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88678,6 +89427,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135958Z" creationid="olivier" creationdate="20250223T135958Z">
         <seg>Sem transparência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>No valid reference exists for the argument.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173941Z" creationid="olivier" creationdate="20261025T173941Z">
+        <seg>Não existe nenhuma referência válida para o argumento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -90761,6 +91519,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>On the spreadsheet, you will see lines ending in dots to indicate precedents, and lines ending in arrows for dependents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175847Z" creationid="olivier" creationdate="20261025T175847Z">
+        <seg>Na planilha de trabalho, será mostrado linhas terminando em pontos para indicar precedentes e linhas terminando em setas para dependentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>On the toolbar, right-click in the toolbar and choose &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
       </tuv>
@@ -90934,6 +91701,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T114239Z" creationid="olivier" creationdate="20261025T114239Z">
         <seg>Um erro comum é inserir fórmulas para cada célula e realizar milhares de interpretações de fórmulas s e cálculos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>One implication of this approach is that the optimization is column-based and so a row-based layout could be less efficient.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173409Z" creationid="olivier" creationdate="20261025T173409Z">
+        <seg>Uma implicação dessa abordagem é que a otimização é baseada em colunas e, portanto, um leiaute orientado em linhas pode ser menos eficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93389,6 +94165,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Other methods of controlling Calc’s multi-threading capability, such as adjusting the MAX_CONCURRENCY environment variable, are beyond the scope of this document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173428Z" creationid="olivier" creationdate="20261025T173428Z">
+        <seg>Outros métodos de controle da capacidade multi-threading do Calc, como ajustar a variável de ambiente MAX_CONCURRENCY, estão além do escopo deste documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Other options</seg>
       </tuv>
@@ -93554,6 +94339,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T110706Z" creationid="olivier" creationdate="20261025T110706Z">
         <seg> Caso contrário, apenas o valor na célula superior esquerda da matriz que está sendo calculada é retornado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Otherwise, whether you use a function or an operator is largely up to you—except, of course, when you are subtracting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180612Z" creationid="olivier" creationdate="20261025T180612Z">
+        <seg>Caso contrário, o uso de uma função ou de um operador depende muito de você – exceto, é claro, quando se está subtraindo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93818,6 +94612,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T205921Z" creationid="olivier" creationdate="20250324T205921Z">
         <seg>PNG – &lt;f0&gt;&lt;/f0&gt;Portable Network Graphic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>PRODUCT for multiplication</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180326Z" creationid="olivier" creationdate="20261025T180326Z">
+        <seg>PRODUTO para multiplicação,</seg>
       </tuv>
     </tu>
     <tu>
@@ -94974,6 +95777,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250716T230010Z" creationid="olivier" creationdate="20250716T230010Z">
         <seg>Coloque o cursor perto do objeto para posicionar o início da linha de cota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Place the cursor in the cell in question and then choose &lt;f0&gt;Tools &gt; Detective &gt; Trace Precedents&lt;/f0&gt; on the Menu bar or press &lt;f1&gt;Shift&lt;/f1&gt;+&lt;f2&gt;F9&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175943Z" creationid="olivier" creationdate="20261025T175943Z">
+        <seg>Coloque o cursor na célula em questão e escolha &lt;f0&gt;Ferramentas &gt; Detetive &gt; Rastrear precedentes&lt;/f0&gt; na barra de menus ou tecle &lt;f1&gt;Shift&lt;/f1&gt; + &lt;f2&gt;F9&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -97188,6 +97999,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T141527Z" creationid="olivier-tdf" creationdate="20250615T141527Z">
         <seg>Os códigos QR são um tipo de código de barras que contém, por exemplo, dados que apontam para um site ou aplicativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>QUOTIENT for division</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180328Z" creationid="olivier" creationdate="20261025T180328Z">
+        <seg>QUOCIENTE para divisão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100871,10 +101691,28 @@
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>SUM for addition</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180324Z" creationid="olivier" creationdate="20261025T180324Z">
+        <seg>SOMA para adição,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>SUM() on the other hand adds groups of contiguous ranges of numbers together.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235322Z" creationid="olivier" creationdate="20261022T235322Z">
         <seg>SOMA(), por outro lado, adiciona grupos de intervalos contíguos de números.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>SUM, PRODUCT, and QUOTIENT are useful for entering ranges of cells in the same way as any other function, with arguments in brackets after the function name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180334Z" creationid="olivier" creationdate="20261025T180334Z">
+        <seg>SOMA, PRODUTO e QUOCIENTE são úteis para inserir intervalos de células da mesma forma que qualquer outra função, com argumentos entre colchetes após o nome da função.</seg>
       </tuv>
     </tu>
     <tu>
@@ -101928,6 +102766,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260417T003750Z" creationid="vitor" creationdate="20260329T210305Z">
         <seg>Veja capítulo 2, Entrar e editar dados, para mais informações sobre inserir caracteres especiais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Chapter 2, Entering and Editing Data, for more information on value highlighting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175742Z" creationid="olivier" creationdate="20261025T175742Z">
+        <seg>Consulte o Capítulo 2, Inserir, editar e formatar dados, para obter mais informações sobre o destaque de valor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110197,6 +111043,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Similarly, to find the highest or lowest entry, you can use MIN or MAX.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180800Z" creationid="olivier" creationdate="20261025T180800Z">
+        <seg>Da mesma forma, para encontrar a entrada mais alta ou mais baixa, pode-se usar MÍNIMO ou MÁXIMO.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Similarly, users of other platforms may input Unicode characters by typing a two-digit hex code and then pressing &lt;f4&gt;Alt&lt;/f4&gt;+&lt;f5&gt;X&lt;/f5&gt;.</seg>
       </tuv>
@@ -110234,6 +111089,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260408T001202Z" creationid="vitor" creationdate="20260408T001202Z">
         <seg>Média móvel simples para n valores y anteriores, com n sendo o período.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Simple statistics</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180625Z" creationid="olivier" creationdate="20261025T180625Z">
+        <seg>Estatísticas simples</seg>
       </tuv>
     </tu>
     <tu>
@@ -113315,6 +114179,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Such reasons explain the existence of a function like COUNT, which does no more than give the total number of entries in the designated cell range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180752Z" creationid="olivier" creationdate="20261025T180752Z">
+        <seg>Tais razões explicam a existência de uma função como CONT,NÚM, que não faz mais do que fornecer o número total de entradas no intervalo de células designado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Such results should either have no unit or be displayed as percentages.</seg>
@@ -114259,6 +115131,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;9&lt;/seq0&gt;: Common error messages</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173930Z" creationid="olivier" creationdate="20261025T173930Z">
+        <seg>Tabela &lt;seq0&gt;9&lt;/seq0&gt;: Mensagens de erro comuns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table &lt;seq0&gt;9&lt;/seq0&gt;: Keyboard shortcuts for editing and formatting documents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T135330Z" creationid="olivier-tdf" creationdate="20250303T135330Z">
@@ -115091,6 +115971,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Thankfully, Calc offers a wide range of functions that are simple and accessible, even for novice users.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180251Z" creationid="olivier" creationdate="20261025T180251Z">
+        <seg>Felizmente, o Calc oferece uma ampla gama de funções que são simples e acessíveis, mesmo para usuários iniciantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>That information is then displayed on every page with the same page style (unless the page style specifies separate settings for the first page or for left and right pages).</seg>
       </tuv>
@@ -115128,6 +116017,23 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260528T105401Z" creationid="timotheonb" creationdate="20260528T105401Z">
         <seg>A direção do fluxo de texto “Da direita para esquerda (vertical)” gira todas as configurações de leiaute para a direita em 90 graus, exceto para o cabeçalho e rodapé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The #REF!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175352Z" creationid="olivier" creationdate="20261025T175334Z">
+        <seg>O erro #REF!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The #VALUE!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175136Z" creationid="olivier" creationdate="20261025T175136Z">
+        <seg>O erro #VALOR!</seg>
       </tuv>
     </tu>
     <tu>
@@ -116566,11 +117472,29 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The Detective</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175747Z" creationid="olivier" creationdate="20261025T175747Z">
+        <seg>O Detetive</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The Detective function marks any cells containing invalid data.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260312T113021Z" creationid="timotheonb" creationdate="20260312T113021Z">
         <seg>A função Detetive marca quaisquer células contendo dados inválidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The Detective is a tool for checking which cells are used as arguments by a formula (precedents) and which other formulas it is nested in (dependents), and tracking errors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175810Z" creationid="olivier" creationdate="20261025T175810Z">
+        <seg>O Detetive é uma ferramenta para verificar quais células são usadas como argumentos por uma fórmula (precedentes) e em quais outras fórmulas ela está incluída (dependentes), além de rastrear erros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119138,6 +120062,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The column, row, or sheet for the referenced cell is missing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173953Z" creationid="olivier" creationdate="20261025T173953Z">
+        <seg>A coluna, linha ou planilha da célula referenciada está faltando.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The command is sent to the document frame and the frame the command around the API until an object is found that can handle the command.</seg>
       </tuv>
@@ -120366,6 +121299,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T103441Z" creationid="olivier" creationdate="20261025T103441Z">
         <seg>A fórmula inteira seria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The error message appears in the cell, and a brief explanation of the error is shown on the right side of the Status bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173811Z" creationid="olivier" creationdate="20261025T173811Z">
+        <seg>A mensagem de erro aparece na célula e uma breve explicação do erro é mostrada no lado direito da barra de status.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121949,6 +122890,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The lines show the flow of information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175850Z" creationid="olivier" creationdate="20261025T175850Z">
+        <seg>As linhas mostram o fluxo de informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The link to the sound or music file must be established before starting the presentation.</seg>
       </tuv>
@@ -122173,6 +123123,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261013T095742Z" creationid="olivier" creationdate="20261013T095742Z">
         <seg>As principais diferenças entre os gráficos dinâmicos e outros gráficos no Calc são as seguintes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The main disadvantage of using arithmetical operators is that you cannot directly use a range of cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180535Z" creationid="olivier" creationdate="20261025T180535Z">
+        <seg>A principal desvantagem de usar operadores aritméticos é que não se pode usar diretamente um intervalo de células.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122438,10 +123397,28 @@ Tab / ⇥</seg>
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>The most basic functions create formulas for basic arithmetic or for evaluating numbers in a range of cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180306Z" creationid="olivier" creationdate="20261025T180306Z">
+        <seg>As funções mais básicas criam fórmulas para aritmética básica ou para avaliar números em um intervalo de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>The most basic strategy is to view whatever formulas are needed as simple and with a limited useful life.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T113737Z" creationid="olivier" creationdate="20261025T113737Z">
         <seg>A estratégia mais básica é ver todas as fórmulas necessárias como simples e com uma vida útil limitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The most basic tool is error messages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173650Z" creationid="olivier" creationdate="20261025T173650Z">
+        <seg>A ferramenta mais básica são as mensagens de erro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123144,6 +124121,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165511Z" creationid="firelinux" creationdate="20260403T165511Z">
         <seg>A ajuda online descreve muitas outras expressões regulares e seus usos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The only trouble is, the longer the list, the more time you waste and the more likely you are to miss what you are looking for.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180640Z" creationid="olivier" creationdate="20261025T180640Z">
+        <seg>O único problema é que, quanto mais longa a lista, mais tempo se perde e é mais provável que perca o que está procurando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124846,6 +125832,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The simple arithmetic functions are addition, subtraction, multiplication, and division.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180317Z" creationid="olivier" creationdate="20261025T180317Z">
+        <seg>As funções aritméticas simples são adição, subtração, multiplicação e divisão.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The simplest way to create a macro is to record a series of actions through Calc’s user interface.</seg>
       </tuv>
@@ -125800,11 +126795,29 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The value for one of the arguments is not the type that the argument requires.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174005Z" creationid="olivier" creationdate="20261025T174005Z">
+        <seg>O valor de um dos argumentos não é o tipo que o argumento requer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The value highlighting colors override any colors used in formatting.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184748Z" creationid="firelinux" creationdate="20260403T184748Z">
         <seg>As cores de realce de valores substituem quaisquer cores usadas na formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The value may be entered incorrectly; for example, double-quotation marks may be missing around the value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174009Z" creationid="olivier" creationdate="20261025T174009Z">
+        <seg>O valor pode ser inserido incorretamente; por exemplo, aspas duplas podem estar faltando ao redor do valor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126499,6 +127512,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250728T152217Z" creationid="firelinux" creationdate="20250728T152217Z">
         <seg>Existem várias maneiras de inserir uma nova planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>There are situations where the display of cell contents is the same when the data type is different.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175618Z" creationid="olivier" creationdate="20261025T175618Z">
+        <seg>Existem situações em que a exibição do conteúdo da célula é a mesma quando o tipo de dados é diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127408,6 +128430,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>These symbols are quick to enter without requiring your hands to stray from the keyboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180343Z" creationid="olivier" creationdate="20261025T180343Z">
+        <seg>Esses símbolos são inseridos rapidamente, sem exigir que suas mãos se desviem do teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>These tables are now listed in the order they appear in the source.</seg>
       </tuv>
@@ -127867,6 +128898,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This allows us to check the source cells (which may be a range) for any errors which have caused us to query the calculation result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180029Z" creationid="olivier" creationdate="20261025T180029Z">
+        <seg>Isso nos permite verificar as células de origem (que podem ser um intervalo) em busca de quaisquer erros que nos tenham levado a consultar o resultado do cálculo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>This allows you to adjust filters for both the pivot table and chart.</seg>
@@ -127881,6 +128921,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T232834Z" creationid="vitor" creationdate="20260329T232834Z">
         <seg>Isto permite, por exemplo, usar o formato subscrito e sobrescrito nas anotações de fórmulas do gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This almost-human readable format is especially useful for compound operations, where writing &lt;f3&gt;=A1*(A2+A3)&lt;/f3&gt; is briefer and easier to read than &lt;f4&gt;=PRODUCT(A1,SUM(A2:A3))&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180532Z" creationid="olivier" creationdate="20261025T180532Z">
+        <seg>Este formato mais legível é especialmente útil para operações compostas, onde escrever &lt;f3&gt;=A1*(A2+A3)&lt;/f3&gt; é mais breve e fácil de ler do que &lt;f4&gt;=PRODUTO(A1,SOMA(A2:A3))&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128730,6 +129778,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This error occurs when dividing a number by either zero (0) or a blank cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174130Z" creationid="olivier" creationdate="20261025T174130Z">
+        <seg>Este erro é o resultado da divisão de um número por zero (0) ou por uma célula em branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This facility is available only if you selected the &lt;f0&gt;Enable drill to details&lt;/f0&gt; option on the Pivot Table Layout dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261013T092112Z" creationid="olivier" creationdate="20261013T092112Z">
@@ -128840,6 +129896,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260404T201200Z" creationid="vitor" creationdate="20260404T201200Z">
         <seg>Esta fórmula está em todas as células da coluna C. Os números que aparecem na coluna C são os valores RGB calculados usando a fórmula condicional (com as referências de células alteradas de acordo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This formula means: "If the value in C3 is greater than 0, divide B3 by C3; otherwise, display 'No Report'".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174819Z" creationid="olivier" creationdate="20261025T174819Z">
+        <seg>Esta fórmula significa: "Se o valor em C3 for maior que 0, divida B3 por C3; caso contrário, exiba 'Sem relatório'".</seg>
       </tuv>
     </tu>
     <tu>
@@ -130611,6 +131676,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Threads are generally used for formula groups, where enough adjacent cells in a column use the same formula but get different results because of relative cell addressing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173403Z" creationid="olivier" creationdate="20261025T173403Z">
+        <seg>Threads geralmente são usados para grupos de fórmulas, onde células adjacentes em colunas usam a mesma fórmula, mas obtêm resultados diferentes devido ao endereçamento de célula relativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Three items of interest on this page, besides the Java Options, are found under &lt;f0&gt;Optional Features&lt;/f0&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225611Z" creationid="olivier" creationdate="20260926T225611Z">
@@ -131288,6 +132361,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To address this, an **IF function** can ensure proper handling of such cases.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174723Z" creationid="olivier" creationdate="20261025T174723Z">
+        <seg>Para resolver isso, uma ** função SE ** pode garantir o tratamento adequado desses casos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To address this, we use a third type of data: formulas.</seg>
       </tuv>
@@ -131590,6 +132672,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T111058Z" creationid="olivier-tdf" creationdate="20250701T111058Z">
         <seg>Para evitar formatação e fontes estranhas, cole o texto em um documento do Writer como texto não formatado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To avoid this issue, you can use a conditional function to handle cases where a zero or blank cell appears.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174146Z" creationid="olivier" creationdate="20261025T174146Z">
+        <seg>Para evitar esse problema, você pode usar uma função condicional para lidar com casos em que uma célula zero ou em branco aparece.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134025,6 +135116,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To illustrate, the string “10.35” right-aligned in a cell can be confused with the value 10.35.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175634Z" creationid="olivier" creationdate="20261025T175634Z">
+        <seg>Para ilustrar, a string “10,35” alinhada à direita em uma célula pode ser confundida com o valor 10,35.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To import a template onto the computer, go to &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt; or another internet location and download the required template to your computer.</seg>
       </tuv>
@@ -134772,8 +135872,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>To name a formula, open the Define Name dialog (Figure &lt;t0&gt;10&lt;/t0&gt;) and enter the formula expression in the &lt;f1&gt;Range or formula expression&lt;/f1&gt; box.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203852Z" creationid="olivier" creationdate="20261022T203852Z">
-        <seg>Para nomear uma fórmula, abra a caixa de diálogo Definir nome (Figura &lt;t0&gt;10&lt;/t0&gt;) e insira a expressão da fórmula na caixa Intervalo ou expressão de fórmula.</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T181055Z" creationid="olivier" creationdate="20261022T203852Z">
+        <seg>Para nomear uma fórmula, abra a caixa de diálogo Definir nome (Figura &lt;t0&gt;10&lt;/t0&gt;) e insira a expressão da fórmula na caixa &lt;f1&gt;Intervalo ou expressão de fórmula&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136880,6 +137980,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To use the Detective, select a cell with a formula, then select the required option in the &lt;f0&gt;Tools &gt; Detective&lt;/f0&gt; menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175840Z" creationid="olivier" creationdate="20261025T175840Z">
+        <seg>Para usar o Detetive, selecione uma célula com uma fórmula e, em seguida, selecione a opção necessária no menu &lt;f0&gt;Ferramentas &gt; Detetive&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To use the Find toolbar, click in the box and type your search text, then press &lt;f0&gt;Enter&lt;/f0&gt; to find the next occurrence of that term.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T103023Z" creationid="timot" creationdate="20250202T113328Z">
@@ -137388,6 +138496,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260721T235536Z" creationid="vitor" creationdate="20260721T235536Z">
         <seg>Rastrear Precedentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tracing precedents using the Detective</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180119Z" creationid="olivier" creationdate="20261025T180119Z">
+        <seg>Rastrear precedentes usando o Detetive</seg>
       </tuv>
     </tu>
     <tu>
@@ -139659,6 +140775,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250404T110604Z" creationid="timot" creationdate="20250404T110604Z">
         <seg>Use o Estilo de página Padrão (ou qualquer outro estilo de página) para o seu documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Use the Detective to assist in following the precedents referred to in a formula in a cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175855Z" creationid="olivier" creationdate="20261025T175855Z">
+        <seg>Use o Detetive para ajudar a seguir os precedentes mencionados em uma fórmula em uma célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -143532,6 +144657,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When enabled, Calc automatically identifies where your spreadsheet could benefit from multi-threading and processes it accordingly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173330Z" creationid="olivier" creationdate="20261025T173330Z">
+        <seg>Quando o processamento paralelo estiver habilitado, o Calc identifica automaticamente onde sua planilha pode se beneficiar do multi-threading e o processa de acordo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When enabled, Calc writes two lock files when opening a Microsoft Office format file, one LibreOffice lock file and one Microsoft Office lock file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T193904Z" creationid="olivier" creationdate="20260930T193904Z">
@@ -144257,6 +145390,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203723Z" creationid="firelinux" creationdate="20260403T193416Z">
         <seg>Quando a célula não estiver numa condição de erro definida na caixa de texto à direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>When the cell is used in a formula the string may take the value of zero and an error may be produced.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175639Z" creationid="olivier" creationdate="20261025T175639Z">
+        <seg>Quando a célula é usada em uma fórmula, a string pode assumir o valor zero e pode ocorrer um erro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145164,6 +146306,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>When you select a formula that has already been entered, the cells or ranges used for each argument in the formula are outlined in color.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175552Z" creationid="olivier" creationdate="20261025T175552Z">
+        <seg>Quando selecionar uma fórmula que já foi inserida, as células ou intervalos usados para cada argumento na fórmula são destacados em cores.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>When you select a function, its description appears on the right-hand side of the dialog.</seg>
       </tuv>
@@ -145454,6 +146605,23 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While disabling multi-threading is not recommended, the setting (Enable multithreaded calculation) &lt;s0/&gt;can be found in the &lt;f1&gt;CPU Threading Settings&lt;/f1&gt; section of the &lt;f2&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate&lt;/f2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173240Z" creationid="olivier" creationdate="20261025T173240Z">
+        <seg>Embora a desativação do processamento paralelo não seja recomendada, a configuração (Ativar processamento paralelo para cálculos) &lt;s0/&gt;pode ser encontrada na seção &lt;f1&gt;Processamento paralelo da CPU&lt;/f1&gt; da caixa de diálogo &lt;f2&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Calcular&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>While error messages are not intuitive, they do provide clues that can help the user to correct mistakes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173836Z" creationid="olivier" creationdate="20261025T173836Z">
+        <seg>Embora as mensagens de erro não sejam intuitivas, elas fornecem pistas que podem ajudar o usuário a corrigir erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>While file size is generally not a concern on modern systems, this can still be beneficial for managing large documents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20260819T231403Z" creationid="olivier-tdf" creationdate="20260819T231403Z">
@@ -145490,6 +146658,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T180556Z" creationid="olivier" creationdate="20260926T180556Z">
         <seg>Embora a maioria das opções disponíveis na caixa de diálogo Opções de Segurança e Avisos (Figura &lt;t0&gt;3&lt;/t0&gt;) seja direta, as listadas abaixo se beneficiam de explicações adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>While new users quickly recognize that functions are a key feature of spreadsheets, the sheer number of available functions—many requiring specialized knowledge or specific inputs—can feel overwhelming.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180242Z" creationid="olivier" creationdate="20261025T180242Z">
+        <seg>Embora os novos usuários reconheçam rapidamente que as funções são um recurso fundamental das planilhas, o grande número de funções disponíveis - muitas exigindo conhecimento especializado ou entradas específicas - pode parecer esmagador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -148164,6 +149341,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You can find detailed explanations of them in Appendix B, Error Codes, and in the Help, by searching for “error codes” in Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173849Z" creationid="olivier" creationdate="20261025T173849Z">
+        <seg>Pode-se encontrar explicações detalhadas sobre eles no Apêndice B, Códigos de erro, e na Ajuda, procurando por “códigos de erro” no Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You can find macros created by the LibreOffice community in the internet.</seg>
       </tuv>
@@ -149067,6 +150253,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260529T113324Z" creationid="timotheonb" creationdate="20260529T113324Z">
         <seg>Não é possível adicionar novos temas nem alterar os temas predefinidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You can, of course, scan a list of figures if you want basic information such as the highest or lowest entry or the average.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180635Z" creationid="olivier" creationdate="20261025T180635Z">
+        <seg>Pode-se, é claro, percorrer uma lista de números se quiser informações básicas, como a entrada mais alta ou mais baixa ou a média.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150012,6 +151207,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>basic arithmetic</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180311Z" creationid="olivier" creationdate="20261025T180311Z">
+        <seg>aritmética básica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>begins with</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T192156Z" creationid="firelinux" creationdate="20260403T192156Z">
@@ -150214,6 +151417,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>color coding for input</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175540Z" creationid="olivier" creationdate="20261025T175540Z">
+        <seg>codificação de cores para entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>colors, adding custom</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132942Z" creationid="olivier" creationdate="20261008T132942Z">
@@ -150249,8 +151460,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>column_heading&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203807Z" creationid="olivier" creationdate="20261022T203807Z">
-        <seg>cabeçalho_coluna</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180916Z" creationid="olivier" creationdate="20261022T203807Z">
+        <seg>cabeçalho_coluna&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -150654,6 +151865,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>division by zero</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T174109Z" creationid="olivier" creationdate="20261025T174109Z">
+        <seg>divisão por zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>document properties</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251023T212712Z" creationid="timotheonb" creationdate="20251023T212712Z">
@@ -150813,12 +152032,65 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>error is also very common.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175138Z" creationid="olivier" creationdate="20261025T175138Z">
+        <seg>também é muito comum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>error is caused by a missing reference.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175341Z" creationid="olivier" creationdate="20261025T175341Z">
+        <seg>é causado por uma referência ausente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>error message appears.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T113012Z" creationid="olivier" creationdate="20261025T113012Z">
         <seg>mensagem de erro é exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>error&lt;/s0&gt;&lt;s1&gt;Deleted sheet causing #REF!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175436Z" creationid="olivier" creationdate="20261025T175436Z">
+        <seg>erro &lt;/s0&gt;&lt;s1&gt;Folha excluída causando #REF!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>error&lt;/s0&gt;&lt;s1&gt;Incorrect entry causing #VALUE!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175306Z" creationid="olivier" creationdate="20261025T175306Z">
+        <seg>erro &lt;/s0&gt;&lt;s1&gt;Entrada incorreta causando #VALOR!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>error&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175311Z" creationid="olivier" creationdate="20261025T175311Z">
+        <seg>erro&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>errors, finding and fixing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173434Z" creationid="olivier" creationdate="20261025T173434Z">
+        <seg>erros, encontrar e corrigir</seg>
       </tuv>
     </tu>
     <tu>
@@ -150835,6 +152107,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T111004Z" creationid="olivier-tdf" creationdate="20250701T111004Z">
         <seg>exemplo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>examples</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180153Z" creationid="olivier" creationdate="20261025T180153Z">
+        <seg>exemplos</seg>
       </tuv>
     </tu>
     <tu>
@@ -151289,6 +152569,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260409T130521Z" creationid="vitor" creationdate="20260409T130521Z">
         <seg>incluir em gráficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>incorrect references</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175133Z" creationid="olivier" creationdate="20261025T175133Z">
+        <seg>referências incorretas</seg>
       </tuv>
     </tu>
     <tu>
@@ -151968,7 +153257,7 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>multi-threading</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T114719Z" creationid="olivier" creationdate="20261025T114719Z">
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T172855Z" creationid="olivier" creationdate="20261025T114719Z">
         <seg>multi-threading</seg>
       </tuv>
     </tu>
@@ -152044,6 +153333,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T212649Z" creationid="olivier" creationdate="20261006T212649Z">
         <seg>sem ação em célula vazia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>no result and &lt;i0/&gt;#REF!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175130Z" creationid="olivier" creationdate="20261025T175130Z">
+        <seg>nenhum resultado e &lt;i0/&gt;#REF!</seg>
       </tuv>
     </tu>
     <tu>
@@ -152200,12 +153497,11 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>parallel processing</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T114727Z" creationid="olivier" creationdate="20261025T114727Z">
-        <seg>multi-threading</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T172848Z" creationid="olivier" creationdate="20261025T114727Z">
+        <seg>processamento paralelo</seg>
       </tuv>
     </tu>
     <tu>
@@ -152980,6 +154276,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165641Z" creationid="firelinux" creationdate="20260403T165641Z">
         <seg>encolhendo para caber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>simple statistics</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T180622Z" creationid="olivier" creationdate="20261025T180622Z">
+        <seg>estatísticas simples</seg>
       </tuv>
     </tu>
     <tu>
