@@ -630,12 +630,28 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>(question mark) to represent a single character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183947Z" creationid="olivier" creationdate="20261025T183947Z">
+        <seg>(ponto de interrogação) corresponde a qualquer caractere único.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>* (Asterisk)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T220101Z" creationid="olivier" creationdate="20261020T220101Z">
         <seg>* Asterisco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* (asterisk) to represent any number of characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184053Z" creationid="olivier" creationdate="20261025T184053Z">
+        <seg>&amp; (asterisco) para representar qualquer número de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -5932,6 +5948,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Enable regular expressions in formulas&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184307Z" creationid="olivier" creationdate="20261025T184307Z">
+        <seg>&lt;f0&gt;Permitir expressões regulares em fórmulas&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Enable wildcards in formulas&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184254Z" creationid="olivier" creationdate="20261025T184254Z">
+        <seg>&lt;f0&gt;Permitir caracteres curingas em fórmulas&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;End value&lt;/f0&gt; – determines the end value for the series.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251110T183600Z" creationid="timotheonb" creationdate="20251110T183600Z">
@@ -7536,6 +7568,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260327T194848Z" creationid="timotheonb" creationdate="20260327T194848Z">
         <seg>&lt;f0&gt;Sem duplicatas&lt;/f0&gt; – exclui linhas duplicadas da lista de dados filtrados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;No wildcards or regular expressions in formulas&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184315Z" creationid="olivier" creationdate="20261025T184315Z">
+        <seg>&lt;f0&gt;Não utilizar caracteres curinga ou expressões regulares em fórmulas&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16079,6 +16119,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate dialog&lt;/s0&gt;&lt;s1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184538Z" creationid="olivier" creationdate="20261025T184538Z">
+        <seg>&lt;s0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate dialog&lt;/s0&gt;&lt;s1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate dialog&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Tools tab - additional options&lt;/s0&gt;&lt;s1&gt;Tools tab - additional options&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260925T111540Z" creationid="olivier" creationdate="20260925T111540Z">
@@ -16219,6 +16267,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260404T201241Z" creationid="vitor" creationdate="20260404T201241Z">
         <seg>&lt;s0&gt;Usar função COR e fórmula: condicional para especificar cores&lt;/s0&gt;&lt;s1&gt;Usar função COR e fórmula: condicional para especificar cores&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Using the COUNTIF function&lt;/s0&gt;&lt;s1&gt;Using the COUNTIF function&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184755Z" creationid="olivier" creationdate="20261025T184755Z">
+        <seg>&lt;s0&gt;Using the CONT.SE function&lt;/s0&gt;&lt;s1&gt;Using the CONT.SE function&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16800,6 +16856,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0&gt;40&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;CalcGuide 26.2 - Chapter 9, Using Formulas and Functions&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185654Z" creationid="olivier" creationdate="20261025T185654Z">
+        <seg>&lt;t0&gt;40&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;CalcGuide 26.2 - Chapter 9, Using Formulas e Funções&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0&gt;42&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Chapter 2, Getting Started with Writer&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250410T132758Z" creationid="timot" creationdate="20250410T132758Z">
@@ -16876,6 +16940,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260415T003119Z" creationid="firelinux" creationdate="20260403T165530Z">
         <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Guia do Calc 26.2 - Capítulo 2, Inserir e editar dados&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;CalcGuide 26.2 - Chapter 9, Using Formulas and Functions&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185714Z" creationid="olivier" creationdate="20261025T185714Z">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;CalcGuide 26.2 - Chapter 9, Using Formulas e Funções&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17044,6 +17116,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260414T235328Z" creationid="olivier" creationdate="20260307T222040Z">
         <seg>&lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;|&lt;t2&gt;Guia do Calc 26.2 - Prefácio&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;Advanced functions&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;41&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185641Z" creationid="olivier" creationdate="20261025T185641Z">
+        <seg>&lt;t0&gt;Advanced funções&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;41&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17245,6 +17325,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260225T205405Z" creationid="timotheonb" creationdate="20260225T205341Z">
         <seg>&lt;t0&gt;Guia do Calc 26.2 - Prefácio&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0&gt;CalcGuide 26.2 - Chapter 9, Using Formulas and Functions&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185700Z" creationid="olivier" creationdate="20261025T185700Z">
+        <seg>&lt;t0&gt;CalcGuide 26.2 - Chapter 9, Using Formulas e Funções&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17826,6 +17914,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>=IF(COUNTIF(A1, "r.d"), "hooray", "boo")`</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185437Z" creationid="olivier" creationdate="20261025T185437Z">
+        <seg>=SE(CONT.SE(A1, "r.d"), "hooray", "boo")`</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>=ROUND(A1,1)</seg>
@@ -17875,6 +17971,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T220442Z" creationid="olivier" creationdate="20261020T220442Z">
         <seg>&gt;=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183929Z" creationid="olivier" creationdate="20261025T183929Z">
+        <seg>?</seg>
       </tuv>
     </tu>
     <tu>
@@ -18792,6 +18896,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A further related option in the &lt;f0&gt;General Calculations&lt;/f0&gt; area of the same dialog, &lt;f1&gt;Search criteria = and &lt;&gt; must apply to whole cells&lt;/f1&gt;, controls whether search criteria must match the whole cell exactly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184357Z" creationid="olivier" creationdate="20261025T184357Z">
+        <seg>Uma outra opção relacionada no &lt;f0&gt;Cálculos Gerais&lt;/f0&gt; área da mesma caixa de diálogo, &lt;f1&gt;Os critérios de pesquisa = e &lt;&gt; devem ser aplicados a células inteiras&lt;/f1&gt;, controla se os critérios de pesquisa devem corresponder exatamente à célula inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A group can always be undone and the objects that make up the group can always be manipulated separately.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T132607Z" creationid="olivier-tdf" creationdate="20250615T132607Z">
@@ -19151,6 +19263,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T104112Z" creationid="timot" creationdate="20250113T104112Z">
         <seg>Uma nova seleção separada é adicionada a uma seleção existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A non-volatile function is not recalculated at new input events and does not recalculate when selecting &lt;f0&gt;Data &gt; Calculate &gt; Recalculate&lt;/f0&gt; or pressing &lt;f1&gt;F9&lt;/f1&gt;, except when the cell containing the function is selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183617Z" creationid="olivier" creationdate="20261025T183617Z">
+        <seg>Uma função não volátil não é recalculada em novos eventos de entrada e não recalcula ao selecionar &lt;f0&gt;Dados &gt; Calcular &gt; Recalcular&lt;/f0&gt; ou pressionando &lt;f1&gt;F9&lt;/f1&gt;, exceto quando a célula que contém a função é selecionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19962,6 +20082,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>AVERAGEIF, AVERAGEIFS, COUNTIF, COUNTIFS, MAXIFS, MINIFS, SUMIF, SUMIFS</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184147Z" creationid="olivier" creationdate="20261025T184147Z">
+        <seg>MÉDIASE, MÉDIASES, CONT.SE, CONTSES, MÁXIMOSES, MÍNIMOSES, SOMASE, SOMASES</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Ability to open, edit, and save Microsoft Excel and other spreadsheets.</seg>
       </tuv>
@@ -20469,6 +20598,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T101105Z" creationid="olivier" creationdate="20261011T101105Z">
         <seg>Adicionar filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Add labels to the cells to the left of each formula for clarity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182755Z" creationid="olivier" creationdate="20261025T182755Z">
+        <seg>Adicione rótulos às células à esquerda de cada fórmula para maior clareza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21188,6 +21326,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250612T215503Z" creationid="olivier" creationdate="20250612T215503Z">
         <seg>Ferramentas de edição avançadas para manipular a forma de um ponto de acesso de polígono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Advanced functions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185559Z" creationid="olivier" creationdate="20261025T185559Z">
+        <seg>Funções avançadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -24065,6 +24212,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>An understanding of volatile functions is important especially if you create a large spreadsheet, where frequent recalculations may adversely affect performance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183446Z" creationid="olivier" creationdate="20261025T183446Z">
+        <seg>É importante compreender as funções voláteis, especialmente se criar um documento de planilha grande, onde recálculos frequentes podem afetar negativamente o desempenho.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>An “earlier” date is interpreted as being in the following century; that is, 1/1/20 is interpreted as 1/1/2020.</seg>
       </tuv>
@@ -25430,6 +25586,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260421T223040Z" creationid="firelinux" creationdate="20250729T012628Z">
         <seg>Como nas listas de discussão acima, mas através do fórum&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>As is common with other spreadsheet programs, Calc can be enhanced by user-defined functions or add-ins.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185604Z" creationid="olivier" creationdate="20261025T185604Z">
+        <seg>Como é comum com outros programas de planilha, o Calc pode ser aprimorado por funções definidas pelo usuário ou suplementos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28033,6 +28198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, regular expression searches within Calc functions are case-insensitive, irrespective of the setting of the &lt;f0&gt;Case sensitive&lt;/f0&gt; checkbox.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184507Z" creationid="olivier" creationdate="20261025T184507Z">
+        <seg>Por padrão, as pesquisas de expressão regular nas funções do Calc não diferenciam maiúsculas de minúsculas, independentemente da configuração da caixa &lt;f0&gt;Diferenciar maiúsculas de minúsculas&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, text is left-aligned in a cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250123T204006Z">
@@ -28169,6 +28342,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>By learning the options for rounding up or down, you can make your spreadsheets more immediately useful.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183106Z" creationid="olivier" creationdate="20261025T183106Z">
+        <seg>Ao aprender as opções de arredondamento para cima ou para baixo, pode-se tornar suas planilhas de trabalho mais úteis imediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>By providing the configuration file for the computer operating system in the folder &lt;f2&gt;&lt;instdir&gt;/presets/config&lt;/f2&gt;.</seg>
       </tuv>
@@ -28233,6 +28415,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T085055Z" creationid="olivier" creationdate="20250308T085055Z">
         <seg>Porcentagens CMYK de Ciano (C), Magenta (M), Amarelo (Y) e Preto (K).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COUNTIF(A1, "r.d")</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185346Z" creationid="olivier" creationdate="20261025T185346Z">
+        <seg>CONT.SE(A1, "r.d")</seg>
       </tuv>
     </tu>
     <tu>
@@ -28457,6 +28647,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T173735Z" creationid="olivier" creationdate="20261008T173735Z">
         <seg>Calc Guide 26.2 - Capítulo 10, Tabelas Dinâmicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Calc Guide 26.2 - Chapter 11, Data Analysis</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185721Z" creationid="olivier" creationdate="20261025T185721Z">
+        <seg>Guia do Calc 26.2 - Capítulo 11, Análise de dados</seg>
       </tuv>
     </tu>
     <tu>
@@ -28876,6 +29075,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Calc displays a random number between 0 and 1 in cell A1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183331Z" creationid="olivier" creationdate="20261025T183331Z">
+        <seg>O Calc exibe um número aleatório entre 0 e 1 na célula A1.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Calc displays a variant of the Basic Macros dialog (Figure &lt;t1&gt;5&lt;/t1&gt;).</seg>
       </tuv>
@@ -29150,6 +29358,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Calc macros can be written in Basic, BeanShell, JavaScript, or Python.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185622Z" creationid="olivier" creationdate="20261025T185622Z">
+        <seg>As macros do Calc podem ser escritas em Basic, BeanShell, JavaScript ou Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Calc main window</seg>
       </tuv>
@@ -29378,6 +29595,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Calc recalculates the random number in A1, despite the user not changing the formula in A1 and despite the updated B2 having no link to A1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183355Z" creationid="olivier" creationdate="20261025T183355Z">
+        <seg>O Calc recalcula o número aleatório em A1, apesar de o usuário não alterar a fórmula em A1 e apesar de B2 ser atualizada e não ter relação com A1.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Calc shows the cell’s comment.</seg>
       </tuv>
@@ -29449,6 +29675,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250918T004221Z" creationid="tulio" creationdate="20250918T004221Z">
         <seg>O Calc suporta a importação de uma ampla gama de formatos de arquivo vetoriais (desenho vetorial) e raster (bitmap ou foto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Calc supports the use of regular expressions or wildcards in the arguments of many of its functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183642Z" creationid="olivier" creationdate="20261025T183642Z">
+        <seg>O Calc suporta o uso de expressões regulares ou curingas nos argumentos de muitas de suas funções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39137,6 +39372,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Configuration options are available in the &lt;f0&gt;Formulas wildcards&lt;/f0&gt; section on the &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate&lt;/f1&gt; dialog (Figure &lt;t2&gt;35&lt;/t2&gt;) to control the use of wildcards and regular expressions with Calc’s functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184238Z" creationid="olivier" creationdate="20261025T184238Z">
+        <seg>As opções de configuração estão disponíveis na seção &lt;f0&gt;Caracteres curinga&lt;/f0&gt; de fórmulas na caixa de diálogo &lt;f1&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Calcular&lt;/f1&gt; (Figura &lt;t2&gt;35&lt;/t2&gt;) para controlar o uso de curingas e expressões regulares com as funções do Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Configure</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T233115Z" creationid="olivier-tdf" creationdate="20250224T233115Z">
@@ -39478,6 +39721,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123714Z" creationid="olivier" creationdate="20250325T123714Z">
         <seg>Páginas abertas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contrast this with example &lt;bf2&gt;3)&lt;/bf2&gt;&lt;s3/&gt;&lt;bf4&gt;above&lt;/bf4&gt;&lt;s5/&gt;– the regular expression in the current example allows for 0 or more characters both before the “r” and after the “d”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185201Z" creationid="olivier" creationdate="20261025T185201Z">
+        <seg>Compare isso com o exemplo &lt;bf2&gt;3) )&lt;/bf2&gt;&lt;s3/&gt;&lt;bf4&gt;acima&lt;/bf4&gt;&lt;s5/&gt;– a expressão regular no exemplo atual permite 0 ou mais caracteres antes do “r” e depois do “d”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42928,6 +43179,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T104739Z" creationid="olivier" creationdate="20261025T104739Z">
         <seg>Banco de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Database functions (DAVERAGE, DCOUNT, DCOUNTA, DGET, DMAX, DMIN, DPRODUCT, DSTDEV, DSTDEVP, DSUM, DVAR, DVARP)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184144Z" creationid="olivier" creationdate="20261025T184144Z">
+        <seg>Funções de banco de dados (BDMÉDIA, BDCONTAR, BDCONTARA, BDEXTRAIR, BDMÁX, BDMÍN, BDMULTIPL, BDEST, BDDESVPA, BDSOMA, BDVAR, BDVAREST)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51363,6 +51623,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FORMULA</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183500Z" creationid="olivier" creationdate="20261025T183500Z">
+        <seg>FÓRMULA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Facilities to edit and debug Python scripts are not currently integrated into the standard LibreOffice user interface.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194304Z" creationid="olivier-tdf" creationdate="20250708T194304Z">
@@ -55049,6 +55317,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184552Z" creationid="olivier" creationdate="20261025T184552Z">
+        <seg>Figura &lt;seq0&gt;35&lt;/seq0&gt;: A caixa de diálogo Calcular em Ferramentas&gt; Opção&gt; LibreOffice Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: AutoFormat dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250204T164155Z" creationid="olivier" creationdate="20250204T164155Z">
@@ -55094,6 +55370,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T132927Z" creationid="olivier" creationdate="20261008T132927Z">
         <seg>Figura &lt;seq0&gt;36&lt;/seq0&gt;: Caixa de diálogo Extensões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Using the COUNTIF function</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184805Z" creationid="olivier" creationdate="20261025T184805Z">
+        <seg>Figura &lt;seq0&gt;36&lt;/seq0&gt;: Usando a função CONT.SE</seg>
       </tuv>
     </tu>
     <tu>
@@ -59598,6 +59882,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For details on rounding methods, see the Help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183210Z" creationid="olivier" creationdate="20261025T183210Z">
+        <seg>Para obter detalhes sobre os métodos de arredondamento, consulte a Ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For details on the contents and use of these fields, see Chapter 1, LibreOffice Basics, in this guide and the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
       </tuv>
@@ -61434,6 +61727,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For instance, if the parts you need come in packages of 100, then the fact you only need 66 is irrelevant to you; you need to round up for ordering.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183102Z" creationid="olivier" creationdate="20261025T183102Z">
+        <seg>Por exemplo, se as peças de que se precisa vêm em lotes de 100, então o fato de que só se precisa de 66 é irrelevante; se precisar arredondar para fazer o pedido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For instance, if the “Weight” range moves to &lt;t0/&gt;P10:P30, you only need to update the named range definition.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T202724Z" creationid="olivier" creationdate="20261022T202724Z">
@@ -61455,6 +61756,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T235256Z" creationid="olivier" creationdate="20261022T235256Z">
         <seg>Por exemplo, a função VF fornece o valor futuro de um investimento, enquanto BIN2HEX converte um número binário em um número hexadecimal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For instance, the formula &lt;f0&gt;=ROUND((SUM(A1,A2))&lt;/f0&gt; adds the figures in cells A1 and A2, then rounds them off to the nearest whole number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183130Z" creationid="olivier" creationdate="20261025T183130Z">
+        <seg>Por exemplo, a fórmula &lt;f0&gt;=ARREDONDAR((SOMA(A1;A2))&lt;/f0&gt; adiciona os números nas células A1 e A2 e os arredonda para o número inteiro mais próximo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For instance, the formula A1="r.d" will always return FALSE if cell A1 contains "red," even if regular expressions are enabled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185259Z" creationid="olivier" creationdate="20261025T185259Z">
+        <seg>Por exemplo: A1 = “rd” sempre retornará FALSO se A1 contiver "red", mesmo se as expressões regulares estiverem habilitadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61489,6 +61806,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T120500Z" creationid="timotheonb" creationdate="20260616T120500Z">
         <seg>Por exemplo, você pode criar uma pasta para modelos de vendas e outra para modelos de faturas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For instance:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185423Z" creationid="olivier" creationdate="20261025T185423Z">
+        <seg>Por exemplo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61785,6 +62111,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T182716Z" creationid="olivier" creationdate="20250222T182716Z">
         <seg>Para obter mais informações sobre como imprimir os diferentes tipos de documentos que o LibreOffice pode criar, consulte os guias do usuário de cada módulo do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information about regular expressions, including examples, see the “Searching and filtering with regular expressions” section in Chapter 2, Entering and Editing data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183716Z" creationid="olivier" creationdate="20261025T183716Z">
+        <seg>Para obter mais informações sobre expressões regulares, incluindo exemplos, consulte a seção "Pesquisando e filtrando com expressões regulares" no Capítulo 2, Inserir e editar dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62927,6 +63261,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For statistical and mathematical purposes, Calc includes a variety of ways to round off numbers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183016Z" creationid="olivier" creationdate="20261025T183016Z">
+        <seg>Para fins estatísticos e matemáticos, o Calc inclui uma variedade de maneiras de arredondar números.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For text boxes — click the border of a text box to select it so that the selection handles are displayed indicating that the text box is in edit mode.</seg>
       </tuv>
@@ -62964,6 +63307,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260526T002937Z" creationid="vitor" creationdate="20260526T002937Z">
         <seg>Para o programador Excel/VBA, o Libreoffice Basic é uma linguagem de programação muito similar a VBA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For the RAND and RANDBETWEEN functions, Calc provides non-volatile equivalents – RAND.NV and RANDBETWEEN.NV.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183546Z" creationid="olivier" creationdate="20261025T183546Z">
+        <seg>Para as funções ALEATÓRIO e ALEATÓRIOENTRE, o Calc fornece equivalentes não voláteis – ALEATÓRIO.NV e ALEATÓRIOENTRE.NV.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64430,6 +64782,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T104448Z" creationid="olivier" creationdate="20261025T104448Z">
         <seg>Aba Funções do Assistente de funções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Functions that support this facility are: AVERAGEIF, AVERAGEIFS, COUNTIF, COUNTIFS, HLOOKUP, LOOKUP, MATCH, SEARCH, SUMIF, SUMIFS, and VLOOKUP.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184533Z" creationid="olivier" creationdate="20261025T184533Z">
+        <seg>As funções que oferecem suporte a esse recurso são: MÉDIASE, MÉDIASES, CONT.SE, CONT.SES, PROCH, PROC, CORRESP, LOCALIZAR, SOMASE, SOMASES e PROCV.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67509,6 +67869,15 @@
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>HLOOKUP, LOOKUP, VLOOKUP</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184149Z" creationid="olivier" creationdate="20261025T184149Z">
+        <seg>PROCH, PROC, PROCV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>HTML Compatibility</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194034Z" creationid="olivier" creationdate="20260930T194034Z">
@@ -69004,6 +69373,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>However, even though you do not need to work with exact figures every day, you may still want to refer to them occasionally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183134Z" creationid="olivier" creationdate="20261025T183134Z">
+        <seg>No entanto, embora não precise trabalhar com números exatos todos os dias, talvez queira consultá-los ocasionalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>However, file size is usually not a problem on modern computers, and LibreOffice can handle large files.</seg>
       </tuv>
@@ -69042,6 +69420,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261017T143538Z" creationid="olivier" creationdate="20261017T143538Z">
         <seg>Entretanto, para relatórios e análise de dados históricos, recalcular manualmente garante um desempenho mais suave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>However, for some functions regular expressions can include a flag option “(?-i)” to switch to a case-sensitive match.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184515Z" creationid="olivier" creationdate="20261025T184515Z">
+        <seg>No entanto, para algumas funções, as expressões regulares podem incluir uma opção de sinalizador “(?-i)” para alternar para uma correspondência que diferencia maiúsculas de minúsculas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69197,6 +69584,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250114T124758Z" creationid="olivier-tdf" creationdate="20250114T124758Z">
         <seg>No entanto, se estiver familiarizado com o Excel, poderá alterar a sintaxe padrão acessando &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Fórmula &lt;/f0&gt;e escolhendo &lt;f1&gt;Excel A1&lt;/f1&gt; ou &lt;f2&gt;Excel R1C1&lt;/f2&gt; no menu suspenso &lt;f3&gt;Sintaxe de fórmula&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, if you frequently use the same functions, consider creating a template with designated spaces for those functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182746Z" creationid="olivier" creationdate="20261025T182746Z">
+        <seg>No entanto, se costuma usar as mesmas funções, considere criar um modelo com espaços designados para essas funções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69673,6 +70068,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>However, you do not need to be a specialist to find some of these methods useful.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183020Z" creationid="olivier" creationdate="20261025T183020Z">
+        <seg>No entanto, não é preciso ser um especialista para considerar alguns desses métodos úteis.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Hue (H), Saturation (S), and Brightness (B)</seg>
       </tuv>
@@ -69782,6 +70186,23 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250815T193959Z" creationid="olivier" creationdate="20250815T193959Z">
         <seg>SEERRO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>INDIRECT</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183503Z" creationid="olivier" creationdate="20261025T183503Z">
+        <seg>INDIRETO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INFO</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183519Z" creationid="olivier" creationdate="20261025T183519Z">
+        <seg>INFO</seg>
       </tuv>
     </tu>
     <tu>
@@ -71086,6 +71507,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If maintaining compatibility with Microsoft Excel is important for your spreadsheet, you may need to limit your use of Calc’s regular expression features, as Excel does not support equivalent functionality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183743Z" creationid="olivier" creationdate="20261025T183743Z">
+        <seg>Se a interoperabilidade com o Microsoft Excel for importante para sua planilha, talvez você não consiga utilizar totalmente os recursos de expressões regulares do Calc, pois o Excel não oferece recursos equivalentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If marked, numbers are interpreted using the English (USA) locale.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250319T225702Z" creationid="olivier" creationdate="20250319T225702Z">
@@ -72014,6 +72443,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250218T125742Z" creationid="olivier-tdf" creationdate="20250218T125742Z">
         <seg>Se o texto ou objeto compartilha um estilo no LibreOffice, então esse texto ou objeto compartilha os atributos escolhidos desse estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If that is the case, then you are probably better off separating the two functions, placing &lt;f1&gt;=SUM(A1,A2)&lt;/f1&gt; in cell A3, and &lt;f2&gt;=ROUND(A3)&lt;/f2&gt; in A4, and clearly labeling each function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183208Z" creationid="olivier" creationdate="20261025T183208Z">
+        <seg>Se for esse o caso, então provavelmente é melhor separar as duas funções, colocando &lt;f1&gt;=SOMA(A1;A2)&lt;/f1&gt; na célula A3, e &lt;f2&gt;=ARREDONDAR(A3)&lt;/f2&gt; em A4, e identificando claramente cada função.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73489,6 +73926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this setting is later deactivated, the backslashes will need to be removed to avoid errors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185558Z" creationid="olivier" creationdate="20261025T185558Z">
+        <seg>Essas barras invertidas precisarão ser removidas se a configuração for desativada posteriormente para evitar erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If those fields are blank, the author name appears as "Unknown Author".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135133Z" creationid="olivier" creationdate="20261004T135133Z">
@@ -73549,6 +73994,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T001604Z" creationid="firelinux" creationdate="20260415T001604Z">
         <seg>Se você aplicar sublinhado a um texto em sobrescrito, o sublinhado será elevado ao nível do sobrescrito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If you are a programmer, you may also be familiar with some of these methods.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183018Z" creationid="olivier" creationdate="20261025T183018Z">
+        <seg>Se es um programador, também pode estar familiarizado com alguns desses métodos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73718,6 +74172,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T204657Z" creationid="olivier" creationdate="20250325T204657Z">
         <seg>Se optar por exportar rapidamente um arquivo do Writer para o formato de arquivo EPUB, não há controle sobre o conteúdo e a qualidade do arquivo EPUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If you choose, you can nest a calculation within one of the rounding functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183111Z" creationid="olivier" creationdate="20261025T183111Z">
+        <seg>Se preferir, pode-se aninhar um cálculo em uma das funções de arredondamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74452,6 +74915,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T193333Z" creationid="firelinux" creationdate="20260403T193333Z">
         <seg>Se suspeitar de resultados incorretos desta função, procure por texto nos intervalos de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you then enter any value into a different cell (say cell B2 for the purpose of this discussion) and press &lt;f1&gt;Enter&lt;/f1&gt;, you will notice that the value displayed in A1 is updated to show a different random number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183348Z" creationid="olivier" creationdate="20261025T183348Z">
+        <seg>Se inserir qualquer valor em uma célula diferente (digamos, célula B2 para o propósito desta discussão) e pressionar &lt;f1&gt;Enter&lt;/f1&gt;, se notará que o valor exibido em A1 é atualizado para mostrar um número aleatório diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77116,6 +77587,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260406T235323Z" creationid="vitor" creationdate="20260406T235323Z">
         <seg>Nestes casos, a tabela de dados do gráfico pode simplesmente ser removida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In summary, the &lt;t2/&gt;RAND function will generate a new value when any cell is updated by selecting &lt;f3&gt;Data &gt; Calculate &gt; Recalculate&lt;/f3&gt; or pressing &lt;f4&gt;F9&lt;/f4&gt;, or on any input event.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183438Z" creationid="olivier" creationdate="20261025T183438Z">
+        <seg>Em resumo, a &lt;t2/&gt;função ALEATÓRIO gerará um novo valor quando qualquer célula for atualizada selecionando &lt;f3&gt;Dados &gt; Calcular &gt; Recalcular&lt;/f3&gt; ou pressionando &lt;f4&gt;F9&lt;/f4&gt;, ou em qualquer evento de entrada de dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81631,6 +82110,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>It will only return TRUE if A1 contains "r.d" (with "r," a dot, and "d").</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185307Z" creationid="olivier" creationdate="20261025T185307Z">
+        <seg>Ele só retornará VERDADEIRO se A1 contiver "r.d" (r então um ponto e depois d).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Italic</seg>
       </tuv>
@@ -85174,6 +85662,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>MATCH</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184151Z" creationid="olivier" creationdate="20261025T184151Z">
+        <seg>CORRESP</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>MEDIAN: Logically ranks the numbers (lowest to highest) to evaluate the median value.</seg>
       </tuv>
@@ -85332,6 +85829,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T081719Z" creationid="olivier" creationdate="20250308T081719Z">
         <seg>Macros podem ser atribuídas a eventos no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Macros can be linked to menus or toolbars for ease of operation or stored in template modules to make the functions available in other documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185618Z" creationid="olivier" creationdate="20261025T185618Z">
+        <seg>As macros podem ser vinculadas a menus ou barras de ferramentas para facilitar a operação ou armazenadas em módulos de modelo para disponibilizar as funções em outros documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85604,6 +86110,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250222T184234Z" creationid="olivier" creationdate="20250222T184234Z">
         <seg>Certifique-se de que a orientação do leiaute (Paisagem ou Retrato) corresponda ao formato de página definido em &lt;f0&gt;Formato &gt; Página&lt;/f0&gt; na barra de Menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Make sure that you design your spreadsheet to use volatile functions appropriately.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183449Z" creationid="olivier" creationdate="20261025T183449Z">
+        <seg>Certifique-se de projetar sua planilha de trabalho para usar as funções voláteis de maneira adequada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88655,6 +89170,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>NOW</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183522Z" creationid="olivier" creationdate="20261025T183522Z">
+        <seg>AGORA</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Name</seg>
       </tuv>
@@ -89527,6 +90051,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No matter how you use functions, you’ll likely find them simple and adaptable for many tasks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182949Z" creationid="olivier" creationdate="20261025T182949Z">
+        <seg>Não importa como se use essas funções, provavelmente as achará simples de usar e adaptáveis para muitas tarefas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No subdivision with only one row or column field</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T124441Z" creationid="olivier" creationdate="20261011T124441Z">
@@ -89613,6 +90145,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T123754Z" creationid="olivier" creationdate="20250313T123754Z">
         <seg>Somente fontes não proporcionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Non-volatile functions are recalculated when opening the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183620Z" creationid="olivier" creationdate="20261025T183620Z">
+        <seg>As funções não voláteis são recalculadas ao abrir o arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -90399,6 +90940,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250410T182557Z" creationid="timot" creationdate="20250410T182557Z">
         <seg>As apresentações do ODP podem ser abertas por outros softwares de apresentação ou exportadas em diferentes formatos de apresentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>OFFSET</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183524Z" creationid="olivier" creationdate="20261025T183524Z">
+        <seg>DESLOC</seg>
       </tuv>
     </tu>
     <tu>
@@ -91806,6 +92356,23 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013054Z" creationid="timot" creationdate="20250222T101730Z">
         <seg>Após configurar listas aninhadas, a hierarquia de um item pode ser imediatamente mudada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once your template is set up, you can easily update formulas as data changes—either automatically or by pressing &lt;f0&gt;F9&lt;/f0&gt; to refresh all selected cells.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182922Z" creationid="olivier" creationdate="20261025T182922Z">
+        <seg>Depois de criar o modelo, pode-se atualizar facilmente cada fórmula à medida que as entradas mudam, seja automaticamente e em tempo real ou pressionando a tecla &lt;f0&gt;F9&lt;/f0&gt; para atualizar todas as células selecionadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Once you’re comfortable with these basic functions, you’ll be ready to explore more advanced options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183002Z" creationid="olivier" creationdate="20261025T183002Z">
+        <seg>Quando estiver confortável com essas funções básicas, você estará pronto para explorar opções mais avançadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98212,11 +98779,38 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>RAND</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183527Z" creationid="olivier" creationdate="20261025T183527Z">
+        <seg>ALEATÓRIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>RANDBETWEEN</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183529Z" creationid="olivier" creationdate="20261025T183529Z">
+        <seg>ALEATÓRIOENTRE</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>RANK: The position of a given entry in the entire list, measured either from top to bottom or bottom to top.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182016Z" creationid="olivier" creationdate="20261025T182016Z">
         <seg>ORDEM: a posição de uma determinada entrada em toda a lista, medida de cima para baixo ou de baixo para cima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>REGEX (not applicable for wildcards)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184155Z" creationid="olivier" creationdate="20261025T184155Z">
+        <seg>EXPREG (não aplicável para curingas)</seg>
       </tuv>
     </tu>
     <tu>
@@ -99082,6 +99676,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165326Z" creationid="firelinux" creationdate="20260403T165326Z">
         <seg>Expressões regulares são amplamente utilizadas em diversos domínios e existem vários processadores de expressões regulares disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Regular expressions cannot be used directly in simple comparisons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185236Z" creationid="olivier" creationdate="20261025T185236Z">
+        <seg>Expressões regulares não podem ser usadas em comparações simples.</seg>
       </tuv>
     </tu>
     <tu>
@@ -101643,6 +102245,15 @@
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>Rounding off numbers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183013Z" creationid="olivier" creationdate="20261025T183013Z">
+        <seg>Arredondar números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>Row Fields</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095600Z" creationid="olivier" creationdate="20261011T095600Z">
@@ -101807,6 +102418,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250728T123047Z" creationid="firelinux" creationdate="20250728T123047Z">
         <seg>Seta em S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>SEARCH</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184158Z" creationid="olivier" creationdate="20261025T184158Z">
+        <seg>LOCALIZAR</seg>
       </tuv>
     </tu>
     <tu>
@@ -109715,6 +110335,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Setting up user-defined functions can be done either by using macros or by writing separate add-ins or extensions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185607Z" creationid="olivier" creationdate="20261025T185607Z">
+        <seg>A configuração de funções definidas pelo usuário pode ser feita usando macros ou escrevendo suplementos ou extensões separados.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Settings can be changed for any field that is currently included in the pivot table layout.</seg>
       </tuv>
@@ -112335,6 +112964,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sometimes, you might want to temporarily enter one or more formulas in a blank cell for quick calculations and delete them afterward.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T182716Z" creationid="olivier" creationdate="20261025T182716Z">
+        <seg>Às vezes, talvez queira inserir temporariamente uma ou mais fórmulas em uma célula em branco para cálculos rápidos e excluí-las depois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sometimes, your spreadsheet can contain data of different types in the same column, row or range.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184733Z" creationid="firelinux" creationdate="20260403T184733Z">
@@ -113606,6 +114243,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Spreadsheets using wildcards can be exported to Excel format without losing functionality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183910Z" creationid="olivier" creationdate="20261025T183910Z">
+        <seg>Planilhas usando curingas podem ser exportadas para o formato Excel sem perder a funcionalidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Spreadsheets, sheets, and cells</seg>
       </tuv>
@@ -114648,6 +115294,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250116T004917Z" creationid="tulio" creationdate="20250116T004917Z">
         <seg>Dica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TODAY</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183539Z" creationid="olivier" creationdate="20261025T183539Z">
+        <seg>HOJE</seg>
       </tuv>
     </tu>
     <tu>
@@ -118546,6 +119200,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Open Document Format for Office Applications (OpenDocument) Version &lt;s0/&gt;1.3 includes the following definition: “Functions that are &lt;f1&gt;always&lt;/f1&gt; recalculated whenever a recalculation occurs are termed &lt;f2&gt;volatile&lt;/f2&gt; functions.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183300Z" creationid="olivier" creationdate="20261025T183300Z">
+        <seg>O padrão Open Document Format for Office Applications (OpenDocument) Versão &lt;s0/&gt;1.3 inclui a seguinte definição: “Funções que são sempre recalculadas sempre que ocorre um recálculo são denominadas funções &lt;f1&gt;voláteis&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The OpenOffice.org project began when Sun Microsystems released the source code (“blueprints”) for its StarOffice® software to the open source community on 13 October 2000.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T232634Z" creationid="olivier" creationdate="20250301T232634Z">
@@ -119634,6 +120296,15 @@ Tab / ⇥</seg>
     <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
+        <seg>The available wildcards are:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183924Z" creationid="olivier" creationdate="20261025T183924Z">
+        <seg>Os coringas disponíveis são:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
         <seg>The average of eight cells, one of which contains the value zero, is not the same as the average of eight cells, one of which is empty (an empty cell is not included in determining the average).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T201616Z" creationid="olivier" creationdate="20261006T201616Z">
@@ -119679,6 +120350,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234149Z" creationid="olivier" creationdate="20250301T234149Z">
         <seg>A ideia básica por trás do código aberto é muito simples: quando os programadores podem ler, redistribuir e modificar o código-fonte de um software, o software evolui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The basics of writing and running macros is covered in Chapter 14, Macros.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185612Z" creationid="olivier" creationdate="20261025T185612Z">
+        <seg>O básico sobre como escrever e executar macros é abordado no Capítulo 14, Macros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121806,6 +122486,24 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The following Calc functions allow the use of wildcards or regular expressions:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184138Z" creationid="olivier" creationdate="20261025T184138Z">
+        <seg>As seguintes funções do Calc permitem o uso de curingas ou expressões regulares:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The following Calc functions are volatile:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183454Z" creationid="olivier" creationdate="20261025T183454Z">
+        <seg>As seguintes funções do Calc são voláteis:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The following attributes are available on the tabbed pages of the Cell Style dialog (Figure &lt;t0&gt;6&lt;/t0&gt;).</seg>
       </tuv>
@@ -122281,6 +122979,42 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250730T014641Z" creationid="firelinux" creationdate="20250730T014641Z">
         <seg>A fórmula não consegue encontrar o que foi solicitado a procurar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The formula counts cells in the range A1:A6 which contain “Fred”, “red”, and “bride”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185002Z" creationid="olivier" creationdate="20261025T185002Z">
+        <seg>A fórmula conta células no intervalo A1: A6 que contêm “Fred”, “red” e “bride”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The formula counts cells in the range A1:A6 which contain “Fred”, “red”, “ROD”, “bride”, and “Ridge”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184935Z" creationid="olivier" creationdate="20261025T184935Z">
+        <seg>A fórmula conta células no intervalo A1: A6 que contêm “Fred”, “red”, “ROD”, “bride” e “Ridge”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The formula counts cells in the range A1:A6 which contain “red” and “ROD”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185032Z" creationid="olivier" creationdate="20261025T185032Z">
+        <seg>A fórmula conta células no intervalo A1: A6 que contêm “red” e “ROD”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The formula counts cells in the range A1:A6 which contain “red”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185057Z" creationid="olivier" creationdate="20261025T185057Z">
+        <seg>A fórmula conta células no intervalo A1: A6 que contêm “red”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126619,6 +127353,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The three mutually exclusive, self-explanatory options are:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184242Z" creationid="olivier" creationdate="20261025T184242Z">
+        <seg>Os três mutuamente exclusivos, autoexplicativo as opções são:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The time format automatically changes to the selected format used by Calc.</seg>
       </tuv>
@@ -126907,6 +127650,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T193347Z" creationid="olivier-tdf" creationdate="20250309T193347Z">
         <seg>Os dados de uso são enviados anonimamente e não carregam o conteúdo do documento, apenas os comandos usados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The usage of these wildcards is the same as described in the Find and Replace dialog covered in Chapter 2, Entering, Editing, and Formatting Data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184133Z" creationid="olivier" creationdate="20261025T184133Z">
+        <seg>O uso desses curingas é igual ao da caixa de diálogo Localizar e substituir, descrito na Seção 2, Inserir, editar e formatar dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128405,6 +129156,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="rafael" changedate="20250220T001456Z" creationid="rafael" creationdate="20250220T001456Z">
         <seg>Essas macros podem ser editadas e aprimoradas após a gravação com o ambiente de desenvolvimento integrado do LibreOffice Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>These may be useful when you do not require the function values to update so frequently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183551Z" creationid="olivier" creationdate="20261025T183551Z">
+        <seg>Isso pode ser útil quando não se exige que os valores da função sejam atualizados com tanta frequência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130569,6 +131329,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This is the initial default when Calc is installed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184257Z" creationid="olivier" creationdate="20261025T184257Z">
+        <seg>Este é o padrão inicial quando o Calc é instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This is the same as &lt;f0&gt;Edit &gt; Track Changes &gt; Record&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
@@ -131317,6 +132086,24 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This regular expression utilizes the “(?-i)” flag option to perform a case-sensitive search.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185006Z" creationid="olivier" creationdate="20261025T185006Z">
+        <seg>Esta expressão regular utiliza a opção do sinalizador “(?-i)” para realizar uma pesquisa com distinção entre maiúsculas e minúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This regular expression utilizes the “(?‑i)” flag option to perform a case-sensitive search.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185100Z" creationid="olivier" creationdate="20261025T185100Z">
+        <seg>Esta expressão regular utiliza a opção do sinalizador “(?-i)” para realizar uma pesquisa com distinção entre maiúsculas e minúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This removes the requirement to select the preferred key when frequently signing a document with one specific key.</seg>
       </tuv>
@@ -131779,6 +132566,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T212858Z" creationid="olivier" creationdate="20261020T212858Z">
         <seg>Isso resultará em -999,129999999997 em A3, em vez do esperado -999,13 (talvez seja necessário aumentar as casas decimais mostradas no formato de célula para que seja visto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This will return 1 if a match is found and 0 if not, which can be interpreted as TRUE or FALSE in formulas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185416Z" creationid="olivier" creationdate="20261025T185416Z">
+        <seg>Isso retornará 1 se uma correspondência for encontrada e 0 se não, o que pode ser interpretado como VERDADEIRO ou FALSO nas fórmulas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134657,6 +135453,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>To ensure compatibility, you can use Calc’s less powerful wildcard feature instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183837Z" creationid="olivier" creationdate="20261025T183837Z">
+        <seg>Para garantir a compatibilidade, você pode usar o recurso curinga menos poderoso do Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To ensure formatting consistency in LibreOffice documents, users can control text and other elements by using templates, styles and direct formatting.</seg>
       </tuv>
@@ -135260,6 +136065,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203852Z" creationid="firelinux" creationdate="20260403T193338Z">
         <seg>Para destacar o conteúdo de texto num intervalo de dados, use o&lt;a0&gt;&lt;bf1&gt;Valorizando a valorização&lt;/bf1&gt;&lt;/a0&gt;&lt;s2/&gt;recurso&lt;bf3&gt;acima&lt;/bf3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To illustrate some of the features of regular expressions, consider the simple spreadsheet shown in Figure &lt;t0&gt;36&lt;/t0&gt;&lt;s1/&gt;and assume that &lt;f2&gt;Enable regular expressions in formulas&lt;/f2&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184748Z" creationid="olivier" creationdate="20261025T184748Z">
+        <seg>Para ilustrar alguns dos recursos das expressões regulares, considere a planilha simples mostrada na Figura &lt;t0&gt;36&lt;/t0&gt;&lt;s1/&gt; e assumir que &lt;f2&gt;Permitir expressões regulares em fórmulas&lt;/f2&gt; está selecionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137797,6 +138610,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To test for regular expressions, use the COUNTIF function instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185331Z" creationid="olivier" creationdate="20261025T185331Z">
+        <seg>Para testar expressões regulares, use a função CONT.SE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To the right of the tabs is a Quick menu (Figure &lt;t0&gt;5&lt;/t0&gt;) containing some commonly used commands and links.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260924T183556Z" creationid="olivier" creationdate="20260924T183556Z">
@@ -137913,6 +138734,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260328T201516Z" creationid="vitor" creationdate="20260328T201516Z">
         <seg>Para entender como o Calc trata os dados em gráficos, é importante entender a distinção entre valores e categorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To understand some of the behaviors of a volatile function within Calc, consider a simple example in which you have created an empty spreadsheet and entered the formula &lt;f0&gt;=RAND()&lt;/f0&gt; into cell A1 (RAND is one of Calc’s volatile functions).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183327Z" creationid="olivier" creationdate="20261025T183327Z">
+        <seg>Para entender alguns dos comportamentos de uma função volátil no Calc, considere um exemplo simples no qual se criou um documento de planilha vazio e inseriu a fórmula &lt;f0&gt;=ALEATÓRIO()&lt;/f0&gt; na célula A1 (ALEATÓRIO é uma das funções voláteis do Calc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -138507,6 +139336,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T000438Z" creationid="olivier" creationdate="20250303T000438Z">
         <seg>Ferramentas &gt; Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184604Z" creationid="olivier" creationdate="20261025T184604Z">
+        <seg>Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Caixa de diálogo Calcular</seg>
       </tuv>
     </tu>
     <tu>
@@ -142601,6 +143439,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using the COUNTIF function</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184824Z" creationid="olivier" creationdate="20261025T184824Z">
+        <seg>Usando a função CONT.SE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the Elements panel or the context menus to create a formula provides a convenient way to learn the markup language used by Math.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T225927Z" creationid="timotheonb" creationdate="20250530T225927Z">
@@ -142976,6 +143822,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260417T000820Z" creationid="vitor" creationdate="20260404T201119Z">
         <seg>Usando esta fórmula, quando o valor na coluna B é maior que 100, o ajuste do primeiro RGB será aplicado a cor para o ponto de dados no gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Using wildcards and regular expressions in functions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183638Z" creationid="olivier" creationdate="20261025T183638Z">
+        <seg>Utilizando curingas e expressões regulares em funções</seg>
       </tuv>
     </tu>
     <tu>
@@ -143465,6 +144320,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261004T184023Z" creationid="olivier" creationdate="20261004T184023Z">
         <seg>Seção de Ajuda visual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Volatile / non-volatile functions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183214Z" creationid="olivier" creationdate="20261025T183214Z">
+        <seg>Funções voláteis / não voláteis</seg>
       </tuv>
     </tu>
     <tu>
@@ -144579,6 +145443,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When both the &lt;f0&gt;Search criteria = and &lt;&gt; must apply to whole cells&lt;/f0&gt; and &lt;f1&gt;Enable wildcards in formulas&lt;/f1&gt; options are selected, Calc behaves exactly as Microsoft Excel when searching cells in the database functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184429Z" creationid="olivier" creationdate="20261025T184429Z">
+        <seg>Quando ambos as opções &lt;f0&gt;Os critérios de pesquisa = e &lt;&gt; devem ser aplicados a células inteiras&lt;/f0&gt; e &lt;f1&gt;Ativar curingas em fórmulas&lt;/f1&gt; forem selecionadas, o Calc se comportará exatamente como o Microsoft Excel ao pesquisar células nas funções de banco de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When calculations involve a range that includes an empty cell, take note of the setting for &lt;f0&gt;Zero values&lt;/f0&gt; in the &lt;f1&gt;LibreOffice Calc &gt; View&lt;/f1&gt; options.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012947Z" creationid="olivier" creationdate="20261006T012947Z">
@@ -145486,6 +146358,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the &lt;f0&gt;Enable regular expressions in formulas&lt;/f0&gt; option is activated, all functions will require regular expression special characters (such as parentheses) within strings to be preceded by a backslash (`\`), even if they are not part of a regular expression.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185532Z" creationid="olivier" creationdate="20261025T185532Z">
+        <seg>Ativando a opção &lt;f0&gt;Permitir expressões regulares em fórmulas&lt;/f0&gt; significa que todas as funções acima exigirão que quaisquer caracteres especiais de expressão regular (como parênteses) usados em strings dentro de fórmulas, sejam precedidos por uma barra invertida (\), apesar de não fazer parte de uma expressão regular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; option (see above) is not selected, the &lt;f1&gt;Display warning&lt;/f1&gt; option becomes available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194632Z" creationid="olivier" creationdate="20260930T194632Z">
@@ -146198,6 +147078,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you export a Calc spreadsheet to Excel format, any data relying on regular expressions will not work in Excel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183826Z" creationid="olivier" creationdate="20261025T183826Z">
+        <seg>Ao exportar uma planilha do Calc para o formato Excel, as informações relacionadas a expressões regulares não funcionarão no Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you have an available spreadsheet template, you can use it to create a new spreadsheet from the Templates dialog or the LibreOffice Start Center.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260610T004254Z" creationid="timotheonb" creationdate="20260602T120934Z">
@@ -146572,6 +147460,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T103941Z" creationid="olivier" creationdate="20261025T103941Z">
         <seg>Quando digitar na caixa de pesquisa localizada na parte superior do deque, a lista de funções se restringe a cada caractere inserido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>When you use a rounding function, you have two choices about how to set up your formulas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183109Z" creationid="olivier" creationdate="20261025T183109Z">
+        <seg>Ao usar uma função de arredondamento, tem-se duas opções sobre como configurar suas fórmulas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -146997,6 +147894,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Wildcards are special characters that represent one or more unspecified characters, making text searches more flexible but often less precise.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183853Z" creationid="olivier" creationdate="20261025T183853Z">
+        <seg>Coringas são caracteres especiais que representam um ou mais caracteres não especificados, tornando as pesquisas de texto mais flexíveis, mas muitas vezes menos precisas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Wildcards make text searches more powerful, but often less specific.</seg>
       </tuv>
@@ -147365,6 +148271,46 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T225509Z" creationid="vitor" creationdate="20260329T225509Z">
         <seg>Com o gráfico no modo de edição, clique duas vezes no texto para alterá-lo diretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the formula &lt;f0&gt;=COUNTIF(A1:A6,".*r.d.*")&lt;/f0&gt; entered in cell A7 and &lt;f1&gt;Search criteria = and &lt;&gt; must apply to whole cells&lt;/f1&gt; selected, the value 5 is again shown in cell A7.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185123Z" creationid="olivier" creationdate="20261025T185123Z">
+        <seg>Com a fórmula &lt;f0&gt;=CONT.SE(A1:A6;".*r.d.*")&lt;/f0&gt; inserido na célula A7 e &lt;f1&gt;Critérios de pesquisa = e &lt;&gt; devem ser aplicados a células inteiras&lt;/f1&gt; selecionado, o valor 5 é mostrado novamente na célula A7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the formula &lt;f0&gt;=COUNTIF(A1:A6,”(?-i)r.d”)&lt;/f0&gt; entered in cell A7 and &lt;f1&gt;Search criteria = and &lt;&gt; must apply to whole cells&lt;/f1&gt; deselected, the value 3 is displayed in cell A7.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184959Z" creationid="olivier" creationdate="20261025T184959Z">
+        <seg>Com a fórmula =CONT.SE(A1:A6; ”(?-i)r.d”) inserida na célula A7 e &lt;f0&gt;Os critérios de pesquisa = e &lt;&gt; devem ser aplicados a células inteiras&lt;/f0&gt; desmarcado, o valor 3 é exibido na célula A7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the formula &lt;f0&gt;=COUNTIF(A1:A6,”(?-i)r.d”)&lt;/f0&gt; entered in cell A7 and &lt;f1&gt;Search criteria = and &lt;&gt; must apply to whole cells&lt;/f1&gt; selected, the value 1 is shown in cell A7.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185054Z" creationid="olivier" creationdate="20261025T185054Z">
+        <seg>Com a fórmula &lt;f0&gt;=CONT.SE(A1:A6; ”(?-i)r.d”)&lt;/f0&gt; inserida na célula A7 e &lt;f1&gt;Os critérios de pesquisa = e &lt;&gt; devem ser aplicados a células inteiras&lt;/f1&gt; selecionado, o valor 1 é mostrado na célula A7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the formula &lt;f0&gt;=COUNTIF(A1:A6,”r.d”)&lt;/f0&gt; entered in cell A7 and &lt;f1&gt;Search criteria = and &lt;&gt; must apply to whole cells&lt;/f1&gt; deselected, the value 5 is displayed in cell A7, as shown in Figure &lt;t2&gt;36&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184922Z" creationid="olivier" creationdate="20261025T184922Z">
+        <seg>Com a fórmula &lt;f0&gt;=CONT.SE(A1:A6;”r.d”)&lt;/f0&gt; inserida na célula A7 e &lt;f1&gt;Os critérios de pesquisa = e &lt;&gt; devem ser aplicados a células inteiras&lt;/f1&gt; desmarcado, o valor 5 é exibido na célula A7, conforme mostrado na Figura &lt;t2&gt;36&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the formula &lt;f0&gt;=COUNTIF(A1:A6,”r.d”)&lt;/f0&gt; entered in cell A7 and &lt;f1&gt;Search criteria = and &lt;&gt; must apply to whole cells&lt;/f1&gt; selected, the value 2 is shown in cell A7.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T185029Z" creationid="olivier" creationdate="20261025T185029Z">
+        <seg>Com a fórmula &lt;f0&gt;=CONT.SE(A1:A6; ”r.d”)&lt;/f0&gt; inserida na célula A7 e &lt;f1&gt;Os critérios de pesquisa = e &lt;&gt; devem ser aplicados a células inteiras&lt;/f1&gt; selecionado, o valor 2 é mostrado na célula A7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150726,6 +151672,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261021T143433Z" creationid="olivier" creationdate="20261021T143433Z">
         <seg>Pode-se querer multiplicar uma coluna de números por um valor fixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may want to round off for billing purposes, or because decimal places do not translate well into the physical world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183043Z" creationid="olivier" creationdate="20261025T183043Z">
+        <seg>Pode-se querer arredondar para fins de faturamento ou porque as casas decimais não se traduzem bem no mundo físico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154230,6 +155184,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rounding numbers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183011Z" creationid="olivier" creationdate="20261025T183011Z">
+        <seg>arredondar números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>rows</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250814T185150Z" creationid="timotheonb" creationdate="20250814T185150Z">
@@ -154974,6 +155936,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>using wildcards</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183631Z" creationid="olivier" creationdate="20261025T183631Z">
+        <seg>usando coringas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>using with drawing objects</seg>
       </tuv>
@@ -155156,6 +156127,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T115217Z" creationid="olivier-tdf" creationdate="20250109T115217Z">
         <seg>| &lt;t0&gt;0&lt;/t0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>~ (tilde) to escape wildcard characters if they are part of the actual text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184101Z" creationid="olivier" creationdate="20261025T184101Z">
+        <seg>~ (til) para escapar de caracteres curinga se eles fizerem parte do texto real.</seg>
       </tuv>
     </tu>
     <tu>
