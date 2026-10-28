@@ -59915,6 +59915,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>For details, see Chapter 16, Setting up and Customizing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261028T002838Z" creationid="olivier" creationdate="20261028T002838Z">
+        <seg>Para obter detalhes, consulte o Capítulo 16, Configuração e Personalização.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For details, see the Help or Chapter 2, Entering and Editing Data, in the &lt;f2&gt;Calc Guide&lt;/f2&gt;.</seg>
       </tuv>
@@ -62023,6 +62032,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T143001Z" creationid="olivier" creationdate="20250223T143001Z">
         <seg>Para obter mais controle sobre a impressão, abra a caixa de diálogo Imprimir com um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more control over printing, select &lt;f0&gt;File &gt; Print&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Print&lt;/f1&gt; icon on the Standard toolbar, or use the &lt;f2&gt;Ctrl+P&lt;/f2&gt; key combination to open the Print dialog (Figure &lt;t3&gt;1&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261028T002506Z" creationid="olivier" creationdate="20261028T002506Z">
+        <seg>Para obter mais controle sobre a impressão, selecione &lt;f0&gt;Arquivo &gt; Imprimir&lt;/f0&gt; na barra de menus ou clique no ícone &lt;f1&gt;Imprimir&lt;/f1&gt; na barra de ferramentas Padrão ou use a combinação de teclas &lt;f2&gt;Ctrl+P&lt;/f2&gt; para abrir a caixa de diálogo Imprimir (Figura &lt;t3&gt;1&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -119352,6 +119369,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The Print dialog has multiple tabs where you can choose a range of options, as described in the following sections.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261028T003303Z" creationid="olivier" creationdate="20261028T003303Z">
+        <seg>A caixa de diálogo Imprimir possui várias abas onde você pode escolher uma variedade de opções, conforme descrito nas seções a seguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The Properties deck (&lt;f0&gt;Ctrl+Alt+1&lt;/f0&gt;, macOS ⌘+⌥&lt;f1&gt;+1&lt;/f1&gt;) has ten panels, allowing changes to slide layout and formatting of slide objects.</seg>
       </tuv>
@@ -125334,6 +125360,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T115545Z" creationid="vitor" creationdate="20260405T115545Z">
         <seg>As opções na lista suspensa são &lt;f1&gt;Início&lt;/f1&gt;, &lt;f2&gt;Fim&lt;/f2&gt;, ou &lt;f3&gt;Categoria&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The options selected on the Print dialog apply to this printing of this document only.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261028T002629Z" creationid="olivier" creationdate="20261028T002629Z">
+        <seg>As opções selecionadas na caixa de diálogo Imprimir aplicam-se apenas a esta impressão deste documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -138452,6 +138487,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165225Z" creationid="firelinux" creationdate="20260403T165225Z">
         <seg>Para especificar um estilo de substituição, selecione um estilo da lista.&lt;f2&gt;Substituir&lt;/f2&gt; lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To specify default printing settings for LibreOffice, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Print&lt;/f0&gt; and &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Print&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261028T002812Z" creationid="olivier" creationdate="20261028T002812Z">
+        <seg>Para especificar as configurações de impressão padrão para o LibreOffice, vá para &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Imprimir&lt;/f0&gt; e &lt;f1&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Imprimir&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -152916,6 +152959,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213634Z" creationid="olivier" creationdate="20261006T213634Z">
         <seg>cores padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>default settings for LibreOffice</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261028T002651Z" creationid="olivier" creationdate="20261028T002651Z">
+        <seg>configurações padrão para o LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
