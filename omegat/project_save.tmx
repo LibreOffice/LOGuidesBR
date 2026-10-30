@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -554,6 +554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250701T082744Z" creationid="olivier-tdf" creationdate="20250701T082744Z">
         <seg>(Opcional) Para verificar se a macro foi gravada conforme esperado pela linguagem de programação LibreOffice BASIC, clique no ícone &lt;f0&gt;Compilar&lt;/f0&gt; na barra de ferramentas Macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(See “&lt;bf0&gt;Selecting what to print&lt;/bf0&gt;” &lt;bf1&gt;below&lt;/bf1&gt;.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T003918Z" creationid="olivier" creationdate="20261030T003918Z">
+        <seg>(Consulte “&lt;bf0&gt;Seleciona o que imprimir&lt;/bf0&gt;” &lt;bf1&gt;abaixo&lt;/bf1&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14864,6 +14872,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Print dialog – General tab&lt;/s0&gt;&lt;s1&gt;Print dialog – General tab&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T004027Z" creationid="olivier" creationdate="20261030T004027Z">
+        <seg>&lt;s0&gt;Print dialog – General aba&lt;/s0&gt;&lt;s1&gt;Print dialog – General aba&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Print dialog – LibreOffice Calc tab&lt;/s0&gt;&lt;s1&gt;Print dialog – LibreOffice Calc tab&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T004138Z" creationid="olivier" creationdate="20261030T004138Z">
+        <seg>&lt;s0&gt;Print dialog – LibreOffice Calc aba&lt;/s0&gt;&lt;s1&gt;Print dialog – LibreOffice Calc aba&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Print dialog — Impress General page — macOS&lt;/s0&gt;&lt;s1&gt;Print dialog — Impress General page — macOS&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T154948Z" creationid="olivier" creationdate="20250223T154948Z">
@@ -21164,6 +21188,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250504T134311Z" creationid="timotheonb" creationdate="20250504T134311Z">
         <seg>Adiciona um novo slide após o slide selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Adjacent controls allow you to navigate through multiple pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T003745Z" creationid="olivier" creationdate="20261030T003745Z">
+        <seg>Os controles adjacentes permitem que navegue pelas páginas a serem impressas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37089,6 +37122,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Properties&lt;/f0&gt; button to change any required settings of the selected printer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T003832Z" creationid="olivier" creationdate="20261030T003832Z">
+        <seg>Pressione o botão &lt;f0&gt;Propriedades&lt;/f0&gt; para alterar quaisquer configurações necessárias da impressora selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the &lt;f0&gt;Save New Version&lt;/f0&gt; button to save a new version.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T145640Z" creationid="olivier" creationdate="20251019T145640Z">
@@ -44069,6 +44110,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T103554Z" creationid="olivier" creationdate="20261025T103554Z">
         <seg>Dependendo da média, o aluno receberia a mensagem de parabéns ou reprovação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Depending on the computer’s operating system, the number of tabs and the layout of each tab may be different from the illustrations shown in this chapter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T003707Z" creationid="olivier" creationdate="20261030T003707Z">
+        <seg>Dependendo do sistema operacional do seu computador, o número de abas e o layout de cada aba podem ser diferentes das ilustrações mostradas neste capítulo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53259,6 +53308,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Print dialog – General tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T004042Z" creationid="olivier" creationdate="20261030T004042Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Diálogo de impressão – aba Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Select Your Preferred User Interface dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260925T194328Z" creationid="olivier" creationdate="20260503T180237Z">
@@ -54631,6 +54688,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T214330Z" creationid="olivier" creationdate="20250324T214330Z">
         <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Caixa de diálogo Opções de PDF — Página Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Print dialog – LibreOffice Calc tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T004151Z" creationid="olivier" creationdate="20261030T004151Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Diálogo de impressão – aba LibreOffice Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -83027,6 +83092,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>LibreOffice Calc tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T004059Z" creationid="olivier" creationdate="20261030T004059Z">
+        <seg>Aba LibreOffice Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>LibreOffice Draw Main Window</seg>
       </tuv>
@@ -90939,6 +91013,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab of the Print dialog (Figure &lt;t1&gt;1&lt;/t1&gt;), you can choose from the following options:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T003751Z" creationid="olivier" creationdate="20261030T003751Z">
+        <seg>Na aba Geral da caixa de diálogo Imprimir (1), você pode escolher entre as seguintes opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>On the &lt;f0&gt;Label&lt;/f0&gt; tab (Figure &lt;t1&gt;33&lt;/t1&gt;), choose whether to show or hide the labels and specify how to handle them when they do not fit neatly in the chart.</seg>
       </tuv>
@@ -90968,6 +91051,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261002T011111Z" creationid="olivier" creationdate="20261002T011111Z">
         <seg>Na página &lt;f0&gt;LibreOffice Calc – Configurações padrão&lt;/f0&gt;, você pode inserir o número de planilhas a abrir ao iniciar um novo documento de planilha e aceitar o prefixo da planilha padrão ou digitar uma nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;LibreOffice Calc&lt;/f0&gt; tab of the Print dialog (Figure &lt;t1&gt;2&lt;/t1&gt;), you can select whether to suppress the output of empty pages when you print the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T004132Z" creationid="olivier" creationdate="20261030T004132Z">
+        <seg>Na aba &lt;f0&gt;LibreOffice Calc&lt;/f0&gt; da caixa de diálogo Imprimir (Figura &lt;t1&gt;2&lt;/t1&gt;), você pode selecionar se deseja suprimir a saída de páginas vazias ao imprimir a planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -97361,6 +97452,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T133802Z" creationid="timotheonb" creationdate="20260616T133802Z">
         <seg>Caixa de diálogo Imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Print dialog – General tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T004056Z" creationid="olivier" creationdate="20261030T004056Z">
+        <seg>Diálogo de impressão – aba Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Print dialog – LibreOffice Calc tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T004203Z" creationid="olivier" creationdate="20261030T004203Z">
+        <seg>Diálogo de impressão – aba LibreOffice Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -105476,6 +105583,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Select an available printer from the list of installed printers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T003804Z" creationid="olivier" creationdate="20261030T003804Z">
+        <seg>Selecione uma impressora disponível na lista de impressoras instaladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Select an element in the Animation panel.</seg>
       </tuv>
@@ -105921,6 +106037,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194159Z" creationid="firelinux" creationdate="20260403T194159Z">
         <seg>Selecione ou desmarque as opções em&lt;f0&gt;Permitir que todos os usuários desta planilha&lt;/f0&gt; área para que os usuários possam selecionar células protegidas ou desprotegidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Select page layout properties such as paper size, portrait, or landscape orientation; how many pages are printed per sheet of paper; the order in which the pages are printed on a sheet of paper; and whether a border is drawn around each page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T004022Z" creationid="olivier" creationdate="20261030T004022Z">
+        <seg>Selecione as propriedades do leiaute da página, como tamanho do papel, orientação retrato ou paisagem; quantas páginas são impressas por folha de papel; a ordem em que as páginas são impressas em uma folha de papel; e se uma borda é desenhada ao redor de cada página. Imprimir</seg>
       </tuv>
     </tu>
     <tu>
@@ -108353,6 +108478,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260328T190422Z" creationid="vitor" creationdate="20260328T190422Z">
         <seg>Selecione se deseja usar a primeira linha ou a primeira coluna ou ambas como rótulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Select which sheets and pages to print; single or double-sided printing; the number of copies to print; whether to collate multiple copies; and the page order for printing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T003840Z" creationid="olivier" creationdate="20261030T003840Z">
+        <seg>Selecione quais planilhas e páginas imprimir; imprimir em uma ou dupla face; o número de cópias a serem impressas; se deve agrupar várias cópias; e a ordem das páginas para impressão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118654,6 +118788,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Print dialog includes a &lt;f0&gt;Preview&lt;/f0&gt; checkbox that enables to turn on/off a preview of how the data will appear on the printed page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T003737Z" creationid="olivier" creationdate="20261030T003737Z">
+        <seg>A caixa de diálogo Imprimir inclui uma caixa de seleção &lt;f0&gt;Visualizar&lt;/f0&gt; que permite ligar / desligar uma visualização de como os dados aparecerão na página impressa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Properties deck (&lt;f0&gt;Ctrl+Alt+1&lt;/f0&gt;, macOS ⌘+⌥&lt;f1&gt;+1&lt;/f1&gt;) has ten panels, allowing changes to slide layout and formatting of slide objects.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250428T122011Z" creationid="timotheonb" creationdate="20250428T122011Z">
@@ -124437,6 +124579,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The options available through this interaction will depend on your printer and system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T003835Z" creationid="olivier" creationdate="20261030T003835Z">
+        <seg>As opções disponíveis por meio dessa interação dependerão da impressora e do sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The options available to refine your find and replace are as follows:</seg>
       </tuv>
@@ -124938,6 +125089,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T145148Z" creationid="olivier" creationdate="20250223T145148Z">
         <seg>As predefinições disponíveis dependem do tipo de impressora conectada ao computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The preview appears on the left-hand side of the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T003741Z" creationid="olivier" creationdate="20261030T003741Z">
+        <seg>A visualização aparece no lado esquerdo da caixa de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -153394,6 +153554,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165614Z" creationid="firelinux" creationdate="20260403T165614Z">
         <seg>várias linhas de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>multiple pages per sheet of paper</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T004233Z" creationid="olivier" creationdate="20261030T004233Z">
+        <seg>várias páginas por folha de papel</seg>
       </tuv>
     </tu>
     <tu>
