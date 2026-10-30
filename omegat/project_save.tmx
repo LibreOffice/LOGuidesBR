@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12304,6 +12304,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Donut chart examples&lt;/s0&gt;&lt;s1&gt;Donut chart examples&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T113237Z" creationid="timotheonb" creationdate="20261030T113237Z">
+        <seg>&lt;s0&gt;Exemplos de gráfico de rosca&lt;/s0&gt;&lt;s1&gt;Exemplos de gráfico de rosca&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Drag a column field - note the pointer shape&lt;/s0&gt;&lt;s1&gt;Drag a column field - note the pointer shape&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T161655Z" creationid="olivier" creationdate="20261011T161655Z">
@@ -21191,7 +21199,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Adjacent controls allow you to navigate through multiple pages.</seg>
       </tuv>
@@ -45906,6 +45913,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Donut chart examples</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T113254Z" creationid="timotheonb" creationdate="20261030T113254Z">
+        <seg>Exemplos de gráfico de rosca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double Brace</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250728T120755Z" creationid="firelinux" creationdate="20250728T120755Z">
@@ -56276,6 +56291,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Donut chart examples</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T113247Z" creationid="timotheonb" creationdate="20261030T113247Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: exemplos de gráfico de rosca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Entering a comment associated with a change</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T140146Z" creationid="olivier" creationdate="20251019T140146Z">
@@ -62833,6 +62856,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250122T182139Z" creationid="timot" creationdate="20250122T182139Z">
         <seg>Para mais usos do Navegador no Writer, consulte o &lt;f0&gt;Guia do Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more variety, use a 3D look.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T113219Z" creationid="timotheonb" creationdate="20261030T113219Z">
+        <seg>Para mais variedade, use um visual 3D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83092,7 +83123,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>LibreOffice Calc tab</seg>
       </tuv>
@@ -90630,6 +90660,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Of-Pie charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T113420Z" creationid="timotheonb" creationdate="20261030T113420Z">
+        <seg>Gráficos de pizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Off-page Connector</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250728T124201Z" creationid="firelinux" creationdate="20250728T124201Z">
@@ -91013,7 +91051,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab of the Print dialog (Figure &lt;t1&gt;1&lt;/t1&gt;), you can choose from the following options:</seg>
       </tuv>
@@ -105583,7 +105620,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Select an available printer from the list of installed printers.</seg>
       </tuv>
@@ -106040,7 +106076,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Select page layout properties such as paper size, portrait, or landscape orientation; how many pages are printed per sheet of paper; the order in which the pages are printed on a sheet of paper; and whether a border is drawn around each page.</seg>
       </tuv>
@@ -108481,7 +108516,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Select which sheets and pages to print; single or double-sided printing; the number of copies to print; whether to collate multiple copies; and the page order for printing.</seg>
       </tuv>
@@ -110999,6 +111033,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T201204Z" creationid="timot" creationdate="20250111T201204Z">
         <seg>Mostra o idioma e a localização na posição do cursor, ou para o texto selecionado, que é usado para verificar ortografia, gramática, hifenização e o dicionário de sinônimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows the last entries in the data column aggregated as a "composite" sector.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T113445Z" creationid="timotheonb" creationdate="20261030T113445Z">
+        <seg>Exibe as últimas entradas na coluna de dados agregadas como um setor "composto".</seg>
       </tuv>
     </tu>
     <tu>
@@ -120436,6 +120478,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The composite sector is broken down in a bar chart or pie chart on the right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T113506Z" creationid="timotheonb" creationdate="20261030T113506Z">
+        <seg>O setor composto é apresentado num gráfico de barras ou gráfico de pizza à direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The computer video card driver must have support for OpenCL to use this feature.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T010124Z" creationid="olivier" creationdate="20250318T010124Z">
@@ -124356,6 +124406,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The of-pie charts are useful when the original pie chart has small values in the last entries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T144835Z" creationid="timotheonb" creationdate="20261030T144835Z">
+        <seg>Os Gráficos pizza de pizza com valores menores (ou "fora de pizza") são úteis quando o gráfico de pizza original apresenta valores pequenos nas últimas entradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The official extension repository for LibreOffice opens in a web browser.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T082951Z" creationid="olivier" creationdate="20250308T082951Z">
@@ -124579,7 +124637,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The options available through this interaction will depend on your printer and system.</seg>
       </tuv>
@@ -125092,7 +125149,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The preview appears on the left-hand side of the dialog.</seg>
       </tuv>
@@ -131776,8 +131832,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>This variant can be misleading for comparing numeric data, since inner circles are necessarily smaller.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261028T004347Z" creationid="timotheonb" creationdate="20261028T004347Z">
-        <seg>Essa variante pode ser enganosa para comparar dados numéricos, uma vez que os círculos internos são necessariamente menores.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T113146Z" creationid="timotheonb" creationdate="20261028T004347Z">
+        <seg>Essa variante pode ser enganosa ao comparar dados numéricos, uma vez que os círculos internos são necessariamente menores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -153557,7 +153613,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>multiple pages per sheet of paper</seg>
       </tuv>
