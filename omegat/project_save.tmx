@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11640,6 +11640,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Choosing a named range for printing&lt;/s0&gt;&lt;s1&gt;Choosing a named range for printing&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100721Z" creationid="olivier" creationdate="20261103T100721Z">
+        <seg>&lt;s0&gt;Choosing a named range for printing&lt;/s0&gt;&lt;s1&gt;Choosing a named range for printing&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Choosing security options for opening and saving documents&lt;/s0&gt;&lt;s1&gt;Choosing security options for opening and saving documents&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175142Z" creationid="olivier" creationdate="20260926T175142Z">
@@ -14688,6 +14696,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Page break preview&lt;/s0&gt;&lt;s1&gt;Page break preview&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095428Z" creationid="olivier" creationdate="20261103T095428Z">
+        <seg>&lt;s0&gt;Page break preview&lt;/s0&gt;&lt;s1&gt;Page break preview&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Page style (Default) indicated on Status Bar&lt;/s0&gt;&lt;s1&gt;Page style (Default) indicated on Status Bar&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260409T134259Z" creationid="timotheonb" creationdate="20260409T134259Z">
@@ -14920,6 +14936,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Printing more than one spreadsheet page per sheet of paper&lt;/s0&gt;&lt;s1&gt;Printing more than one spreadsheet page per sheet of paper&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T085216Z" creationid="olivier" creationdate="20261103T085216Z">
+        <seg>&lt;s0&gt;Printing more than one documento de planilha page per planilha of paper&lt;/s0&gt;&lt;s1&gt;Printing more than one documento de planilha page per planilha of paper&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Properties deck in Sidebar for drawing object&lt;/s0&gt;&lt;s1&gt;Properties deck in Sidebar for drawing object&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260910T124559Z" creationid="timotheonb" creationdate="20260910T124515Z">
@@ -15068,6 +15092,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261012T154327Z" creationid="olivier" creationdate="20261012T154327Z">
         <seg>&lt;s0&gt;Renamed group e partial results&lt;/s0&gt;&lt;s1&gt;Renamed group e partial results&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Repeat printing of rows and columns&lt;/s0&gt;&lt;s1&gt;Repeat printing of rows and columns&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101149Z" creationid="olivier" creationdate="20261103T101149Z">
+        <seg>&lt;s0&gt;Repeat printing of linhas e colunas&lt;/s0&gt;&lt;s1&gt;Repeat printing of linhas e colunas&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15508,6 +15540,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141811Z" creationid="olivier" creationdate="20261021T141811Z">
         <seg>&lt;s0&gt;Simple example of reference intersection operator&lt;/s0&gt;&lt;s1&gt;Simple example of reference intersection operator&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Single print range marked by a bounding box&lt;/s0&gt;&lt;s1&gt;Single print range marked by a bounding box&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095145Z" creationid="olivier" creationdate="20261103T095145Z">
+        <seg>&lt;s0&gt;Single print range marked by a bounding box&lt;/s0&gt;&lt;s1&gt;Single print range marked by a bounding box&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21744,6 +21784,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After the print range is removed, the default page break lines for the selected paper size will appear on the screen (assuming that &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; View &gt; Page breaks&lt;/f1&gt; is enabled).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101024Z" creationid="olivier" creationdate="20261103T101024Z">
+        <seg>Depois que o intervalo de impressão for removido, as linhas de quebra de página padrão para o tamanho de papel selecionado aparecerão na tela (assumindo que &lt;f1&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Exibir &gt; Quebras de página&lt;/f1&gt; está ativado).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After the print ranges have been removed, the default page break lines will appear on the screen.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194829Z" creationid="olivier-tdf" creationdate="20250209T194829Z">
@@ -22559,6 +22607,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Also, any sheets without a defined print range are not printed or exported.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094628Z" creationid="olivier" creationdate="20261103T094628Z">
+        <seg>Além disso, quaisquer folhas sem um intervalo de impressão definido não são impressas ou exportadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Also, check the settings on the Data Range page that define whether the data are in rows or columns and whether the first row or first column should be considered labels.</seg>
       </tuv>
@@ -22756,6 +22813,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250415T173749Z" creationid="timot" creationdate="20250415T173749Z">
         <seg>Além disso, as seguintes operações podem ser realizadas, embora existam métodos mais eficientes do que usar o painel Slides:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Also, the name cannot refer to a valid cell reference such as A123.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100358Z" creationid="olivier" creationdate="20261103T100358Z">
+        <seg>Além disso, o nome não pode se referir a uma referência de célula válida, como A123.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23188,6 +23254,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T202952Z" creationid="olivier-tdf" creationdate="20250328T202952Z">
         <seg>Como alternativa, vá para &lt;f3&gt;Arquivo &gt; Salvar como&lt;/f3&gt; na barra de menus e salve o arquivo com um nome diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Alternatively, open the Define Name dialog, then select the cells you want to define and name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100301Z" creationid="olivier" creationdate="20261103T100301Z">
+        <seg>Como alternativa, abra a caixa de diálogo Definir nome e selecione as células que deseja definir e nomear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25789,6 +25864,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194859Z" creationid="olivier-tdf" creationdate="20250209T194859Z">
         <seg>A qualquer momento, você pode editar diretamente o intervalo de impressão, por exemplo, para remover ou redimensionar parte do intervalo de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>At any time, you can edit the print range, For example to add or remove cells, or define rows and columns to repeat (such as column or row headings).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094913Z" creationid="olivier" creationdate="20261103T094913Z">
+        <seg>A qualquer momento, você pode editar o intervalo de impressão, por exemplo, para adicionar ou remover células, ou definir linhas e colunas a serem repetidas (como cabeçalhos de coluna ou linha).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32121,6 +32205,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Toggle Print Preview&lt;/f1&gt; icon on the Standard toolbar, or press &lt;f2&gt;Ctrl&lt;/f2&gt;+&lt;f3&gt;Shift&lt;/f3&gt;+&lt;f4&gt;O&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T093024Z" creationid="olivier" creationdate="20261103T093024Z">
+        <seg>Escolha &lt;f0&gt;Arquivo &gt; Visualizar impressão&lt;/f0&gt; na barra de menu, ou clique no ícone &lt;f1&gt;Alternar visualização de impressão&lt;/f1&gt; na barra de ferramentas padrão, ou mesmo pressione &lt;f2&gt;Ctrl&lt;/f2&gt; + &lt;f3&gt;Shift&lt;/f3&gt; + &lt;f4&gt;O&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;File &gt; Print&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Print&lt;/f1&gt; icon on the Standard toolbar, or use the &lt;f2&gt;Ctrl+P&lt;/f2&gt; key combination to open the Print dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092246Z" creationid="olivier" creationdate="20261103T092246Z">
+        <seg>Utilize &lt;f0&gt;Arquivo &gt; Imprimir&lt;/f0&gt; na barra de menu, ou clique no ícone &lt;f1&gt;Imprimir&lt;/f1&gt; na barra de ferramentas padrão, ou mesmo pressione &lt;f2&gt;Ctrl+P&lt;/f2&gt;, para abrir a caixa de diálogo Imprimir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;File &gt; Print&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Print&lt;/f1&gt; icon on the Standard toolbar, or use the &lt;f2&gt;Ctrl&lt;/f2&gt;+&lt;f3&gt;P&lt;/f3&gt; key combination to open the Print dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T091734Z" creationid="olivier" creationdate="20261103T091734Z">
+        <seg>Utilize &lt;f0&gt;Arquivo &gt; Imprimir&lt;/f0&gt; na barra de menu, ou clique no ícone &lt;f1&gt;Imprimir&lt;/f1&gt; na barra de ferramentas padrão, ou mesmo pressione &lt;f2&gt;Ctrl&lt;/f2&gt;+&lt;f3&gt;P&lt;/f3&gt;, para abrir a caixa de diálogo Imprimir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose &lt;f0&gt;File &gt; Properties&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250228T185229Z" creationid="timot" creationdate="20250228T185229Z">
@@ -32265,6 +32373,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Print&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092639Z" creationid="olivier" creationdate="20261103T092639Z">
+        <seg>Escolha &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Imprimir&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; to provide the name you want to appear in the Author field of comments.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T114435Z" creationid="timot" creationdate="20250407T114435Z">
@@ -32317,6 +32433,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260422T004528Z" creationid="timotheonb" creationdate="20250728T163700Z">
         <seg>Escolha da lista suspensa em &lt;f1&gt;Ícones&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Choose grayscale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092603Z" creationid="olivier" creationdate="20261103T092603Z">
+        <seg>Escolha tons de cinza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32405,6 +32530,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T225516Z" creationid="olivier" creationdate="20260926T225516Z">
         <seg>Escolha a posição das abas de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose the print options and click the &lt;f0&gt;Print&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T093415Z" creationid="olivier" creationdate="20261103T093415Z">
+        <seg>Escolha as opções de impressão e clique no botão &lt;f0&gt;Imprimir&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32525,6 +32658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260526T003542Z" creationid="vitor" creationdate="20260526T003542Z">
         <seg>Escolher Carregar/Salvar Propriedades VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choosing a named range for printing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100754Z" creationid="olivier" creationdate="20261103T100754Z">
+        <seg>Escolher um intervalo nomeado para impressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -32681,6 +32822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Add&lt;/f0&gt; to accept the data and close the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100610Z" creationid="olivier" creationdate="20261103T100610Z">
+        <seg>Clique &lt;f0&gt;Adicionar&lt;/f0&gt; para aceitar os dados e fechar a caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;Add&lt;/f0&gt; to add another data series below the selected entry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260328T201239Z" creationid="vitor" creationdate="20260328T200806Z">
@@ -32813,6 +32962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T214006Z" creationid="olivier" creationdate="20261006T214006Z">
         <seg>Clique em &lt;f0&gt;Padrão&lt;/f0&gt; para restaurar as configurações de cor que foram definidas quando o programa foi instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Delete&lt;/f0&gt; and then click &lt;f1&gt;OK&lt;/f1&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100937Z" creationid="olivier" creationdate="20261103T100937Z">
+        <seg>Clique em &lt;f0&gt;Excluir&lt;/f0&gt; e então clique &lt;f1&gt;OK&lt;/f1&gt; para fechar o diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33329,6 +33486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to confirm your choice and return to the Print dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092614Z" creationid="olivier" creationdate="20261103T092614Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para confirmar sua escolha e retornar à caixa de diálogo Imprimir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to create the new style in the selected style category and close the dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T195235Z" creationid="olivier-tdf" creationdate="20250403T195235Z">
@@ -33641,6 +33806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save your changes and close the dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095326Z" creationid="olivier" creationdate="20261103T095326Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar suas modificações e fechar a caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save your changes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T202028Z" creationid="olivier-tdf" creationdate="20250209T202028Z">
@@ -33741,6 +33914,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T010501Z" creationid="olivier" creationdate="20250328T010501Z">
         <seg>Clique em &lt;f0&gt;Visualizar no navegador Internet&lt;/f0&gt; na barra de ferramentas Padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Print&lt;/f0&gt; to print the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092625Z" creationid="olivier" creationdate="20261103T092625Z">
+        <seg>Clique em &lt;f0&gt;Imprimir&lt;/f0&gt; para imprimir o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Print&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T085206Z" creationid="olivier" creationdate="20261103T085206Z">
+        <seg>Clique &lt;f0&gt;Imprimir&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33933,6 +34122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250312T172849Z" creationid="olivier" creationdate="20250312T172849Z">
         <seg>Clique em &lt;f2&gt;OK&lt;/f2&gt; para retornar à caixa de diálogo Opções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f2&gt;OK&lt;/f2&gt; to save the change.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092819Z" creationid="olivier" creationdate="20261103T092819Z">
+        <seg>Clique no botão &lt;f2&gt;OK&lt;/f2&gt; para salvar a alteração.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36001,6 +36198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the &lt;f0&gt;Print Directly&lt;/f0&gt; icon on the Standard toolbar to print the defined print range, or open the Print dialog and click &lt;f1&gt;Print&lt;/f1&gt; to print the defined print range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094800Z" creationid="olivier" creationdate="20261103T094800Z">
+        <seg>Clique no ícone &lt;f0&gt;Imprimir diretamente&lt;/f0&gt; na barra de ferramentas padrão para imprimir o intervalo de impressão definido ou abra a caixa de diálogo Imprimir e clique &lt;f1&gt;Imprimir&lt;/f1&gt; para imprimir o intervalo de impressão definido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the &lt;f0&gt;Save&lt;/f0&gt; icon in the Status bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231240Z" creationid="olivier" creationdate="20250220T231240Z">
@@ -37137,6 +37342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Properties&lt;/f0&gt; button to open the Properties dialog for the printer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092446Z" creationid="olivier" creationdate="20261103T092446Z">
+        <seg>Clique em &lt;f0&gt;Propriedades&lt;/f0&gt; para abrir a caixa de diálogo Propriedades da impressora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the &lt;f0&gt;Save New Version&lt;/f0&gt; button to save a new version.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T145640Z" creationid="olivier" creationdate="20251019T145640Z">
@@ -37189,6 +37402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260608T130902Z" creationid="timotheonb" creationdate="20260608T130902Z">
         <seg>Clique no botão &lt;f0&gt;Modelos&lt;/f0&gt; no painel esquerdo e os ícones são exibidos na Tela inicial para todos os modelos disponíveis do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Toggle Print Preview&lt;/f0&gt; icon again, or click the &lt;f1&gt;Close Preview&lt;/f1&gt; icon on the right-hand side of the Print Preview toolbar, to return to the normal spreadsheet view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094608Z" creationid="olivier" creationdate="20261103T094608Z">
+        <seg>Clique no ícone &lt;f0&gt;Alternar visualização de impressão&lt;/f0&gt; novamente ou clique no ícone &lt;f1&gt;Fechar visualização&lt;/f1&gt; no lado direito da barra de ferramentas Visualizar impressão, para retornar à visualização normal da planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40512,6 +40733,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Creating a user-defined print range will replace any existing defined print range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094632Z" creationid="olivier" creationdate="20261103T094632Z">
+        <seg>A criação de um intervalo de impressão definido pelo usuário substituirá qualquer intervalo de impressão definido existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Creating an AutoText entry</seg>
       </tuv>
@@ -43416,6 +43646,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Define and name the rows and/or columns you want to repeat print.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101426Z" creationid="olivier" creationdate="20261103T101426Z">
+        <seg>Defina e nomeie as linhas e / ou colunas que deseja repetir a impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Define parameters related to the selected distribution type, as follows:</seg>
       </tuv>
@@ -43696,6 +43935,24 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Defining and naming</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095544Z" creationid="olivier" creationdate="20261103T095544Z">
+        <seg>Definir e nomear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Defining and printing a print range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094648Z" creationid="olivier" creationdate="20261103T094648Z">
+        <seg>Definir e imprimir um intervalo de impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Defining chart colors</seg>
       </tuv>
@@ -43917,6 +44174,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200715Z" creationid="olivier-tdf" creationdate="20250209T200715Z">
         <seg>Excluir quebra de página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Deleting a named print range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100806Z" creationid="olivier" creationdate="20261103T100806Z">
+        <seg>Excluir um intervalo de impressão nomeado</seg>
       </tuv>
     </tu>
     <tu>
@@ -51682,6 +51948,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Manage Names dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100854Z" creationid="olivier" creationdate="20261103T100854Z">
+        <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Caixa de diálogo Gerenciar nomes</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: New Category dialog</seg>
       </tuv>
@@ -51871,6 +52146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251114T114916Z" creationid="timotheonb" creationdate="20251114T114916Z">
         <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Caixa de diálogo Gerador de números aleatórios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Repeat printing of rows and columns</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101158Z" creationid="olivier" creationdate="20261103T101158Z">
+        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Repita a impressão de linhas e colunas</seg>
       </tuv>
     </tu>
     <tu>
@@ -55467,6 +55750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Printing more than one spreadsheet page per sheet of paper</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T085228Z" creationid="olivier" creationdate="20261103T085228Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Imprimir mais de uma página de planilha por folha de papel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Rulers showing object size</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T131123Z" creationid="timotheonb" creationdate="20250502T131123Z">
@@ -56034,6 +56325,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Print Preview toolbar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T093059Z" creationid="olivier" creationdate="20261103T093059Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: barra de ferramentas de visualização de impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Showing details of the change</seg>
       </tuv>
@@ -56295,6 +56595,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T113247Z" creationid="timotheonb" creationdate="20261030T113247Z">
         <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: exemplos de gráfico de rosca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Edit Print Ranges dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095059Z" creationid="olivier" creationdate="20261103T095059Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Caixa de diálogo Editar intervalos de impressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -56659,6 +56968,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Single print range marked by a bounding box</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095155Z" creationid="olivier" creationdate="20261103T095155Z">
+        <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Intervalo de impressão único marcado por uma caixa delimitadora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Text Formatting toolbar for images</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T181258Z" creationid="timotheonb" creationdate="20260821T181258Z">
@@ -56795,6 +57112,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Page break preview</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095436Z" creationid="olivier" creationdate="20261103T095436Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Visualização de quebra de página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Select the module and name the macro</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260202T151822Z" creationid="olivier" creationdate="20260202T151822Z">
@@ -56879,6 +57204,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250602T223448Z" creationid="olivier" creationdate="20250602T223448Z">
         <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Caixa de diálogo Comprimir figura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Define Name dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095540Z" creationid="olivier" creationdate="20261103T095540Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Caixa de diálogo Definir nome</seg>
       </tuv>
     </tu>
     <tu>
@@ -57055,6 +57389,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260415T001400Z" creationid="timotheonb" creationdate="20260412T220421Z">
         <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: caixa de diálogo Estilo de célula – aba Efeitos da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Choosing a named range for printing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100801Z" creationid="olivier" creationdate="20261103T100731Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Escolher um intervalo nomeado para impressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -59474,6 +59816,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For an individual file, you can change the printer settings to print in black and white or grayscale:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092429Z" creationid="olivier" creationdate="20261103T092429Z">
+        <seg>Para um arquivo individual, você pode alterar as configurações da impressora para imprimir em preto e branco ou em escala de cinza:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For an opening tag, an &lt;f0&gt;HTML_ON&lt;/f0&gt; field is created with the value of the tag name.</seg>
       </tuv>
@@ -59655,6 +60006,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T122440Z" creationid="olivier-tdf" creationdate="20250117T122440Z">
         <seg>Para obter detalhes sobre essas opções, consulte o Capítulo 1, Introdução, no &lt;f1&gt;Guia do Calc&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For details on how to select multiple sheets, see Chapter 1, Introduction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092005Z" creationid="olivier" creationdate="20261103T092005Z">
+        <seg>Para obter detalhes sobre como selecionar várias planilhas, consulte o Capítulo 1, Introdução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60924,6 +61284,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, to repeat rows 1, 2 and 3, type &lt;f1&gt;$1:$3&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101228Z" creationid="olivier" creationdate="20261103T101228Z">
+        <seg>Por exemplo, para repetir as linhas 1, 2 e 3, digite&lt;f1&gt; $1:$3&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, to select the range that would go from A3 to C6, enter A3:C6.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251021T214819Z" creationid="timotheonb" creationdate="20251021T214819Z">
@@ -61848,6 +62216,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T003646Z" creationid="firelinux" creationdate="20260415T003646Z">
         <seg>Para obter mais detalhes sobre as opções disponíveis nesta guia, consulte a descrição da guia correspondente da caixa de diálogo Formatar Célula no Capítulo 2, Inserindo e Editando Dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more details on how to define repeated rows and/or columns, see “&lt;bf0&gt;Repeat printing of rows or columns&lt;/bf0&gt;” &lt;bf1&gt;below&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094943Z" creationid="olivier" creationdate="20261103T094943Z">
+        <seg>Para obter mais detalhes sobre como definir linhas e / ou colunas repetidas, consulte “&lt;bf0&gt;Repetir a impressão de linhas ou colunas&lt;/bf0&gt;" &lt;bf1&gt;abaixo&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62968,6 +63344,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T233413Z" creationid="olivier" creationdate="20250302T233413Z">
         <seg>Para atalhos específicos para Writer, Calc, Impress, Draw, Math ou Base, consulte o guia do usuário relevante para cada módulo ou pesquise na Ajuda do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For simplicity, these clicks are deliberately omitted from the descriptions in this chapter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T085332Z" creationid="olivier" creationdate="20261103T085332Z">
+        <seg>Para simplificar, esses cliques são omitidos deliberadamente das descrições neste capítulo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66060,10 +66445,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Clear&lt;/f0&gt; on the Menu bar to remove all of the defined print ranges in the spreadsheet, except for named print ranges.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101004Z" creationid="olivier" creationdate="20261103T101004Z">
+        <seg>Vá para &lt;f0&gt;Formatar &gt; Intervalos de impressão &gt; Limpar&lt;/f0&gt; na barra de menus para remover todos os intervalos de impressão definidos na planilha, exceto para intervalos de impressão nomeados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Define&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194237Z" creationid="olivier-tdf" creationdate="20250209T194237Z">
         <seg>Acesse &lt;f0&gt;Formatar &gt; Intervalos de impressão &gt; Definir&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Edit Print Ranges&lt;/f1&gt; dialog (Figure &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095045Z" creationid="olivier" creationdate="20261103T095045Z">
+        <seg>Acesse &lt;f0&gt;Formatar &gt; Intervalos de impressão &gt; Editar&lt;/f0&gt; na barra de menu para abrir a caixa de diálogo &lt;f1&gt;Editar intervalos de impressão&lt;/f1&gt; (Figura &lt;t2&gt;5&lt;/t2&gt;) Editar intervalos de impressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -66076,10 +66477,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; on the Menu bar to open the Edit Print Ranges dialog (Figure &lt;t1&gt;9&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100651Z" creationid="olivier" creationdate="20261103T100651Z">
+        <seg>Acesse &lt;f0&gt;Formatar &gt; Intervalos de impressão &gt; Editar&lt;/f0&gt; na barra de menu para abrir a caixa de diálogo Editar intervalos de impressão (Figura &lt;t1&gt;9&lt;/t1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; on the Menu bar to open the Edit Print Ranges dialog where you can modify the print range.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T195010Z" creationid="olivier-tdf" creationdate="20250209T195010Z">
         <seg>Acesse &lt;f0&gt;Formatar &gt; Intervalos de impressão &gt; Editar&lt;/f0&gt; na barra de menus para abrir a caixa de diálogo Editar intervalos de impressão, e modificar o intervalo de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; to open the Edit Print Ranges dialog (Figure &lt;t1&gt;11&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101140Z" creationid="olivier" creationdate="20261103T101140Z">
+        <seg>Acesse &lt;f0&gt;Formatar &gt; Intervalos de impressão &gt; Editar&lt;/f0&gt; para abrir a caixa de diálogo Editar intervalos de impressão (Figura &lt;t1&gt;11&lt;/t1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -66432,6 +66849,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203529Z" creationid="olivier" creationdate="20261022T203529Z">
         <seg>Acesse &lt;f0&gt;Planilha &gt; Intervalos nomeados e expressões &gt; Criar&lt;/f0&gt;no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Named Ranges and Expressions &gt; Manage&lt;/f0&gt; on the Menu bar, or press &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;F3&lt;/f2&gt;, to open the Manage Names dialog (Figure &lt;t3&gt;10&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100850Z" creationid="olivier" creationdate="20261103T100850Z">
+        <seg>Vá para &lt;f0&gt;Planilha &gt; Intervalos e expressões nomeadas &gt; Gerenciar&lt;/f0&gt; na barra de menu, ou pressione &lt;f1&gt;Ctrl&lt;/f1&gt; + &lt;f2&gt;F3&lt;/f2&gt;, para abrir a caixa de diálogo Gerenciar nomes (Figura &lt;t3&gt;10&lt;/t3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -70188,6 +70613,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; View &gt; Page breaks&lt;/f1&gt; is enabled, then automatic page break lines are displayed on the screen, defining the cells included in the print range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094726Z" creationid="olivier" creationdate="20261103T094726Z">
+        <seg>E se &lt;f1&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Exibir &gt; Quebras de página&lt;/f1&gt; estiver habilitado, então umas linhas de quebra de páginas automáticas serão exibidas na tela, definindo as células incluídas na faixa de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If &lt;f4&gt;Category&lt;/f4&gt; is selected, a further drop-down menu is displayed enabling selection of the value required.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260417T001245Z" creationid="vitor" creationdate="20260405T115649Z">
@@ -70592,6 +71025,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260404T160933Z" creationid="firelinux" creationdate="20260404T160933Z">
         <seg>Se uma planilha contiver mais de uma aba, um estilo de página diferente poderá ser aplicado a cada aba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If a spreadsheet is printed on multiple pages, you can define specific rows or columns (for example, headings) to repeat print on each printed page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101113Z" creationid="olivier" creationdate="20261103T101113Z">
+        <seg>Se uma planilha for impressa em várias páginas, você pode definir linhas ou colunas específicas (por exemplo, cabeçalhos) a serem repetidas em cada página impressa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71748,6 +72190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If necessary, you can edit or set the range of selected cells for the print range in the &lt;f0&gt;Range or formula expression&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100425Z" creationid="olivier" creationdate="20261103T100425Z">
+        <seg>Se necessário, você pode editar ou definir o intervalo de células selecionadas para o intervalo de impressão na caixa &lt;f0&gt;Intervalo ou expressão de fórmula&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If needed, highlight the chart wall and drag it at a corner to increase the size.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260930T112822Z" creationid="timotheonb" creationdate="20260930T112822Z">
@@ -71936,6 +72386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T142929Z" creationid="tulio" creationdate="20250411T131243Z">
         <seg>Se apenas uma parte de uma imagem ou figura for usada num documento, ela poderá ser cortada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If only a single range is defined, then clicking anywhere in the &lt;f0&gt;Print Range&lt;/f0&gt; text box displays the defined print range bounded in blue, as shown in Figure &lt;t1&gt;6&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095138Z" creationid="olivier" creationdate="20261103T095138Z">
+        <seg>Se apenas um único intervalo for definido, clique em qualquer lugar na caixa de texto &lt;f0&gt;Intervalo de impressão&lt;/f0&gt;. A caixa de texto exibe o intervalo de impressão definido delimitado em azul, conforme mostrado na Figura &lt;t1&gt;6&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76451,6 +76909,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In addition to defining a print range for each print job, you can also define a range of cells to be used repeatedly, without having to select a range of cells every time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095501Z" creationid="olivier" creationdate="20261103T095501Z">
+        <seg>Além de definir um intervalo de impressão para cada trabalho de impressão, você também pode definir um intervalo de células a ser usado repetidamente, sem ter que selecionar um intervalo de células a cada vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In addition to formulas, spreadsheets also offer &lt;f0&gt;functions&lt;/f0&gt;, which are predefined calculations designed to help analyze or manipulate data efficiently.</seg>
       </tuv>
@@ -76496,6 +76963,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250224T113229Z" creationid="timot" creationdate="20250224T113229Z">
         <seg>Além dos estilos de página, vários recursos permitem controlar ainda mais os leiautes de página, incluindo colunas, quadros, tabelas e seções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to printing a full spreadsheet document, you can select single sheets, multiple sheets, and selections of cells for printing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T091641Z" creationid="olivier" creationdate="20261103T091641Z">
+        <seg>Além de imprimir um documento de planilha completo, você pode escolher planilhas individuais, várias planilhas e seleções de células para impressão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77324,6 +77799,23 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Columns to Repeat&lt;/f0&gt; box, type the references for the columns to be repeat printed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101337Z" creationid="olivier" creationdate="20261103T101337Z">
+        <seg>Na caixa &lt;f0&gt;Colunas a repetir&lt;/f0&gt;, digite as referências para as colunas a serem impressas repetidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Defaults&lt;/f0&gt; section, select &lt;f1&gt;Convert colors to grayscale&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092748Z" creationid="olivier" creationdate="20261103T092748Z">
+        <seg>Na seção &lt;f0&gt;Padrões&lt;/f0&gt;, selecione &lt;f1&gt;Converter cores em escala de cinza&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the &lt;f0&gt;Displayed value&lt;/f0&gt; section, you can choose other possibilities for analysis using the aggregate function.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T121035Z" creationid="olivier" creationdate="20261011T121035Z">
@@ -77508,6 +78000,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Page Layout&lt;/f0&gt; section of the &lt;f1&gt;General&lt;/f1&gt; tab, select the number of spreadsheet pages to print per sheet of paper in the &lt;f2&gt;Pages per sheet&lt;/f2&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T085033Z" creationid="olivier" creationdate="20261103T085033Z">
+        <seg>Na seção &lt;f0&gt;Leiaute de página&lt;/f0&gt; da aba &lt;f1&gt;Geral&lt;/f1&gt;, selecione o número de páginas da planilha a imprimir por folha de papel na lista suspensa &lt;f2&gt;Páginas por folha&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Range and Copies&lt;/f0&gt; area of the &lt;f1&gt;General&lt;/f1&gt; tab of the Print dialog, choose &lt;f2&gt;Print All Sheets&lt;/f2&gt; in the &lt;f3&gt;From which&lt;/f3&gt; drop-down to print all sheets in the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T091615Z" creationid="olivier" creationdate="20261103T091615Z">
+        <seg>Na área &lt;f0&gt;Intervalo e cópias&lt;/f0&gt; da aba &lt;f1&gt;Geral&lt;/f1&gt; da caixa de diálogo Imprimir, escolha &lt;f2&gt;Imprimir todas as planilhas&lt;/f2&gt; na lista suspensa &lt;f3&gt;Das quais&lt;/f3&gt; para imprimir todas as páginas no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Range and Copies&lt;/f0&gt; area of the &lt;f1&gt;General&lt;/f1&gt; tab of the Print dialog, choose &lt;f2&gt;Print Selected Sheets&lt;/f2&gt; in the &lt;f3&gt;From which&lt;/f3&gt; drop-down.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T091917Z" creationid="olivier" creationdate="20261103T091917Z">
+        <seg>Na área &lt;f0&gt;Intervalo e cópias&lt;/f0&gt; da aba &lt;f1&gt;Geral&lt;/f1&gt; da caixa de diálogo Imprimir, escolha &lt;f2&gt;Imprimir planilhas selecionadas&lt;/f2&gt; na lista suspensa &lt;f3&gt;Das quais&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Range and Copies&lt;/f0&gt; area of the &lt;f1&gt;General&lt;/f1&gt; tab of the Print dialog, choose &lt;f2&gt;Print&lt;/f2&gt; &lt;f3&gt;Selected Cells&lt;/f3&gt; in the &lt;f4&gt;From which&lt;/f4&gt; drop-down.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092313Z" creationid="olivier" creationdate="20261103T092313Z">
+        <seg>Na área &lt;f0&gt;Intervalo e cópias&lt;/f0&gt; da aba &lt;f1&gt;Geral&lt;/f1&gt; da caixa de diálogo Imprimir, escolha &lt;f2&gt;Imprimir&lt;/f2&gt; &lt;f3&gt;células selecionadas&lt;/f3&gt; na lista suspensa &lt;f4&gt;Das quais&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Range and Copies&lt;/f0&gt; area of the &lt;f1&gt;General&lt;/f1&gt; tab of the Print dialog, choose &lt;f2&gt;Print&lt;/f2&gt; &lt;f3&gt;Selected Sheets&lt;/f3&gt; in the &lt;f4&gt;From which&lt;/f4&gt; drop-down.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092205Z" creationid="olivier" creationdate="20261103T092205Z">
+        <seg>Na área &lt;f0&gt;Intervalo e cópias&lt;/f0&gt; da aba &lt;f1&gt;Geral&lt;/f1&gt; da caixa de diálogo Imprimir, escolha &lt;f2&gt;Imprimir&lt;/f2&gt; &lt;f3&gt;planilhas selecionadas&lt;/f3&gt; na lista suspensa &lt;f4&gt;Das quais&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the &lt;f0&gt;Refer using:&lt;/f0&gt; list, select the option needed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250409T221011Z" creationid="timot" creationdate="20250409T221011Z">
@@ -77520,6 +78052,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251103T111828Z" creationid="timotheonb" creationdate="20251103T111828Z">
         <seg>No campo &lt;f0&gt;Substituir&lt;/f0&gt;, digite: &lt;f1&gt;$0&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the &lt;f0&gt;Rows to Repeat&lt;/f0&gt; box, type the references for the rows to be repeat printed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101212Z" creationid="olivier" creationdate="20261103T101212Z">
+        <seg>Na caixa &lt;f0&gt;Linhas a repetir&lt;/f0&gt;, digite as referências para as linhas a serem impressas repetidamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78411,11 +78951,38 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In the spreadsheet, click on the sheet tab to select the sheet you want to print.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T091646Z" creationid="olivier" creationdate="20261103T091646Z">
+        <seg>Na planilha, clique na aba da página para selecionar a página que deseja imprimir.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>In the spreadsheet, highlight the cell or group of cells where you want to apply a cell style.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260408T004743Z" creationid="timotheonb" creationdate="20260408T004743Z">
         <seg>No documento de planilha, destaque a célula ou grupo de células onde deseja aplicar um estilo de célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In the spreadsheet, select the cells to print.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092210Z" creationid="olivier" creationdate="20261103T092210Z">
+        <seg>Na planilha, selecione as células a serem impressas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In the spreadsheet, select the sheets to print.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T091958Z" creationid="olivier" creationdate="20261103T091958Z">
+        <seg>No documento de planilha, selecione as planilhas a serem impressas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81147,6 +81714,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>It is not necessary to select the whole row.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101326Z" creationid="olivier" creationdate="20261103T101326Z">
+        <seg>Não é necessário selecionar a linha inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>It is not possible to delete all the sheets in a spreadsheet.</seg>
       </tuv>
@@ -81520,6 +82096,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T120017Z" creationid="timot" creationdate="20250407T120017Z">
         <seg>Pode ser útil incluir o idioma no nome do estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>It may become necessary to remove a defined print range, for example if the whole sheet needs to be printed later, or you no longer want to print some of the added ranges.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100949Z" creationid="olivier" creationdate="20261103T100949Z">
+        <seg>Pode ser necessário remover um intervalo de impressão definido, por exemplo, se a planilha inteira precisar ser impressa posteriormente ou se não quiser mais imprimir alguns dos intervalos adicionados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85652,6 +86237,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make sure &lt;f0&gt;Document (Global)&lt;/f0&gt; is selected in the &lt;f1&gt;Scope&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100539Z" creationid="olivier" creationdate="20261103T100539Z">
+        <seg>Certifique-se de que a opção &lt;f0&gt;Documento (Global)&lt;/f0&gt; é selecionado da lista suspensa &lt;f1&gt;Escopo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make sure &lt;f0&gt;Normal&lt;/f0&gt; view is selected in the Workspace.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250514T111209Z" creationid="timotheonb" creationdate="20250514T111209Z">
@@ -85768,6 +86361,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110434Z" creationid="timotheonb" creationdate="20250530T110434Z">
         <seg>Certifique-se de que o novo slide mestre esteja selecionado no painel Slides mestres e adicione todo o texto, gráficos e elementos mestres necessários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Make sure the remaining print ranges are separated by a single comma and there is not a comma at the end of the sequence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095314Z" creationid="olivier" creationdate="20261103T095314Z">
+        <seg>Certifique-se de que os intervalos de impressão restantes são separados por um vírgula única e não há vírgula no final da sequência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88563,6 +89165,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Multiple cell ranges can also be defined by separating each range with a single comma.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095209Z" creationid="olivier" creationdate="20261103T095209Z">
+        <seg>Vários intervalos de células também podem ser definidos, separando cada intervalo com uma única vírgula.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Multiple columns or rows</seg>
       </tuv>
@@ -88832,6 +89443,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203813Z" creationid="olivier" creationdate="20261022T203813Z">
         <seg>Expressões nomeadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Named print ranges</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095455Z" creationid="olivier" creationdate="20261103T095455Z">
+        <seg>Intervalos de impressão nomeados</seg>
       </tuv>
     </tu>
     <tu>
@@ -89408,6 +90028,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250728T170948Z" creationid="timotheonb" creationdate="20250728T170948Z">
         <seg>Nova seleção de bloco de células não vazias no Capítulo 1 (Olivier Hallot)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New cell ranges can also be added by holding &lt;f1&gt;Ctrl&lt;/f1&gt; as you select the cell range using the cursor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095254Z" creationid="olivier" creationdate="20261103T095254Z">
+        <seg>Novos intervalos de células também podem ser adicionados segurando a tecla &lt;f1&gt;Ctrl&lt;/f1&gt; conforme seleciona o intervalo de células usando o cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -91054,8 +91682,8 @@
       <tuv lang="en-US">
         <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab of the Print dialog (Figure &lt;t1&gt;1&lt;/t1&gt;), you can choose from the following options:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261030T003751Z" creationid="olivier" creationdate="20261030T003751Z">
-        <seg>Na aba Geral da caixa de diálogo Imprimir (1), você pode escolher entre as seguintes opções:</seg>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T093447Z" creationid="olivier" creationdate="20261030T003751Z">
+        <seg>Na aba &lt;f0&gt;Geral&lt;/f0&gt; da caixa de diálogo Imprimir (Figura &lt;t1&gt;1&lt;/t1&gt;), você pode escolher entre as seguintes opções:</seg>
       </tuv>
     </tu>
     <tu>
@@ -92744,6 +93372,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T224908Z" creationid="olivier-tdf" creationdate="20250224T224908Z">
         <seg>Abra a caixa de diálogo Imprimir usando um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Open the Print dialog, which will show only the named range in the preview area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100712Z" creationid="olivier" creationdate="20261103T100712Z">
+        <seg>Abra a caixa de diálogo Imprimir, que mostrará apenas o intervalo nomeado na área de visualização.</seg>
       </tuv>
     </tu>
     <tu>
@@ -94976,6 +95613,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250302T235319Z" creationid="olivier" creationdate="20250302T235319Z">
         <seg>Page Up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page break preview</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095446Z" creationid="olivier" creationdate="20261103T095446Z">
+        <seg>Visualização de quebra de página</seg>
       </tuv>
     </tu>
     <tu>
@@ -97437,6 +98082,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Previewing pages/sheets before printing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092919Z" creationid="olivier" creationdate="20261103T092919Z">
+        <seg>Visualizar páginas e planilhas antes de imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Previews animated graphics, such as GIF images, in LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250316T183258Z" creationid="olivier" creationdate="20250316T183258Z">
@@ -97676,6 +98329,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Printing a named range</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100612Z" creationid="olivier" creationdate="20261103T100612Z">
+        <seg>Imprimir um intervalo nomeado</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Printing and exporting to PDF or EPUB</seg>
       </tuv>
@@ -97705,6 +98367,32 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T183203Z" creationid="timotheonb" creationdate="20250530T183203Z">
         <seg>Imprimir folhetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Printing in grayscale on a color printer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092333Z" creationid="olivier" creationdate="20261103T092333Z">
+        <seg>Impressão em escala de cinza em uma impressora colorida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Printing more than one spreadsheet page per sheet of paper</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T085248Z" creationid="olivier" creationdate="20261103T085248Z">
+        <seg>Imprimir mais de uma página de planilha por folha de papel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Printing multiple pages on a single piece of paper</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T084849Z" creationid="olivier" creationdate="20261103T084849Z">
+        <seg>Imprimir várias páginas numa única folha de papel</seg>
       </tuv>
     </tu>
     <tu>
@@ -99444,6 +100132,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Remember to separate the cell references with a colon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095225Z" creationid="olivier" creationdate="20261103T095225Z">
+        <seg>Lembre-se de separar as referências de células com dois pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Remote Control</seg>
       </tuv>
@@ -99628,6 +100325,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Removing print ranges</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100943Z" creationid="olivier" creationdate="20261103T100943Z">
+        <seg>Remover intervalos de impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Removing split views</seg>
       </tuv>
@@ -99769,6 +100475,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T164635Z" creationid="firelinux" creationdate="20260403T164635Z">
         <seg>Repita conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Repeat printing of rows and columns</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101200Z" creationid="olivier" creationdate="20261103T101200Z">
+        <seg>Repetir a impressão de linhas ou colunas</seg>
       </tuv>
     </tu>
     <tu>
@@ -103596,6 +104311,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>See your printer’s help or user manual for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092452Z" creationid="olivier" creationdate="20261103T092452Z">
+        <seg>Consulte a ajuda da impressora ou o manual do usuário para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>See “&lt;bf0&gt;3D charts&lt;/bf0&gt;” on page &lt;bf1&gt;44&lt;/bf1&gt;&lt;s2/&gt;for information.</seg>
       </tuv>
@@ -103693,6 +104417,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See “&lt;bf0&gt;Named print ranges&lt;/bf0&gt;” &lt;bf1&gt;above&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101500Z" creationid="olivier" creationdate="20261103T101500Z">
+        <seg>Veja "&lt;bf0&gt;Intervalos de impressão nomeados&lt;/bf0&gt;" &lt;bf1&gt;acima&lt;/bf1&gt;&lt;s2/&gt; para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See “&lt;bf0&gt;Position and Size dialog&lt;/bf0&gt;” on page &lt;bf1&gt;59&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260414T235719Z" creationid="vitor" creationdate="20260329T211537Z">
@@ -103781,6 +104513,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See “&lt;bf1&gt;Editing a print range&lt;/bf1&gt;” &lt;bf2&gt;above&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100504Z" creationid="olivier" creationdate="20261103T100504Z">
+        <seg>Veja "&lt;bf1&gt;Editar um intervalo de impressão&lt;/bf1&gt;" &lt;bf2&gt;acima&lt;/bf2&gt;&lt;s3/&gt; para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See “&lt;bf1&gt;LibreOffice Gallery&lt;/bf1&gt;” &lt;bf2&gt;below&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T122822Z" creationid="tulio" creationdate="20250411T122822Z">
@@ -103809,6 +104549,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T204348Z" creationid="timot" creationdate="20250114T113458Z">
         <seg>Veja "&lt;bf1&gt;Usar o Navegador&lt;/bf1&gt;” na página&lt;bf2&gt;9&lt;/bf2&gt;&lt;s3/&gt;para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “&lt;bf1&gt;Viewing print ranges&lt;/bf1&gt;” &lt;bf2&gt;below&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094849Z" creationid="olivier" creationdate="20261103T094849Z">
+        <seg>Veja “&lt;bf1&gt;Exibir os intervalos de impressão&lt;/bf1&gt;” &lt;bf2&gt;abaixo&lt;/bf2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -104405,6 +105153,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Print range&lt;/f0&gt; from &lt;f1&gt;Range Options&lt;/f1&gt; to define the settings as a print range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100601Z" creationid="olivier" creationdate="20261103T100601Z">
+        <seg>Selecione &lt;f0&gt;Intervalo de impressão&lt;/f0&gt; nas &lt;f1&gt;Opções de intervalo&lt;/f1&gt; para definir as configurações como um intervalo de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Protect this sheet and the contents of protected cells&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T183535Z" creationid="olivier-tdf" creationdate="20250209T183535Z">
@@ -104417,6 +105173,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165442Z" creationid="firelinux" creationdate="20260403T165442Z">
         <seg>Selecione&lt;f0&gt;Região&lt;/f0&gt; a partir do segundo menu suspenso em&lt;f1&gt;Nome do campo&lt;/f1&gt; coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Repeat column&lt;/f0&gt; and / or &lt;f1&gt;Repeat row&lt;/f1&gt; from &lt;f2&gt;Range Options&lt;/f2&gt; to define the columns and/or rows for repeat printing in the Define Name dialog (Figure &lt;t3&gt;8&lt;/t3&gt;&lt;s4/&gt;on page &lt;t5&gt;9&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101702Z" creationid="olivier" creationdate="20261103T101702Z">
+        <seg>Selecione &lt;f0&gt;Repetir colunas&lt;/f0&gt; e / ou &lt;f1&gt;Repetir linhas&lt;/f1&gt; nas &lt;f2&gt;Opções de intervalo&lt;/f2&gt; para definir as colunas e / ou linhas para repetir a impressão na caixa de diálogo Definir nome (Figura &lt;t3&gt;8&lt;/t3&gt;&lt;s4/&gt; na página &lt;t5&gt;9&lt;/t5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -106605,6 +107369,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the cells you want to define and name as a print range, then go to &lt;f0&gt;Sheet &gt; Named Ranges and Expressions &gt; Define&lt;/f0&gt; on the Menu bar to open the Define Name dialog (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100234Z" creationid="olivier" creationdate="20261103T100234Z">
+        <seg>Selecione as células que deseja definir e nomear como um intervalo de impressão e vá para &lt;f0&gt;Planilha &gt; Intervalos e expressões nomeadas &gt; Definir&lt;/f0&gt; na barra de menus para abrir a caixa de diálogo Definir nome (Figura &lt;t1&gt;8&lt;/t1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the cells you want to delete.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T153553Z" creationid="olivier" creationdate="20250121T153553Z">
@@ -106777,6 +107549,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211217Z" creationid="olivier-tdf" creationdate="20250128T200312Z">
         <seg>Selecione o formato de data ou hora que deseja usar na lista &lt;f0&gt;Formato&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the defined and named print range in the &lt;f0&gt;Print Range &lt;/f0&gt;drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100707Z" creationid="olivier" creationdate="20261103T100707Z">
+        <seg>Selecione o intervalo de impressão definido e nomeado a partir da lista suspensa &lt;f0&gt;Intervalo de impressão&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the defined and named print ranges from the &lt;f0&gt;Rows to Repeat&lt;/f0&gt; and/or &lt;f1&gt;Columns to Repeat &lt;/f1&gt;drop-down lists.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101727Z" creationid="olivier" creationdate="20261103T101727Z">
+        <seg>Selecione os intervalos de impressão definidos e nomeados das listas suspensas &lt;f0&gt;Linhas a repetir&lt;/f0&gt; e / ou &lt;f1&gt;Colunas a repetir&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107261,6 +108049,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the named print range you want to delete and confirm it is a print range by checking the options from the &lt;f0&gt;Range Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100914Z" creationid="olivier" creationdate="20261103T100914Z">
+        <seg>Selecione o intervalo de impressão nomeado que deseja excluir e confirme se é um intervalo de impressão marcando as opções em &lt;f0&gt;Opções do intervalo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the new menu and use the up and down arrows to reposition the new menu in the &lt;f0&gt;Menu position&lt;/f0&gt; list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T215231Z" creationid="olivier" creationdate="20250307T215231Z">
@@ -107433,6 +108229,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T194204Z" creationid="olivier-tdf" creationdate="20250209T194204Z">
         <seg>Selecione o intervalo de células a serem incluídas no intervalo de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Select the range of cells to be used in the print range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094659Z" creationid="olivier" creationdate="20261103T094659Z">
+        <seg>Selecione o intervalo de células a ser usado no intervalo de impressão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108953,6 +109758,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135320Z" creationid="olivier" creationdate="20261004T135320Z">
         <seg>Selecionar opções de exibição para o Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Selecting what to print</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T085341Z" creationid="olivier" creationdate="20261103T085341Z">
+        <seg>Selecionar o que imprimir</seg>
       </tuv>
     </tu>
     <tu>
@@ -111276,6 +112090,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Similar to user defined print ranges, it is sufficient to select one cell from the row or column you want to be repeat printed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101504Z" creationid="olivier" creationdate="20261103T101504Z">
+        <seg>Semelhante aos intervalos de impressão definidos pelo usuário, basta selecionar uma célula da linha ou coluna que deseja repetir a impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Similarly the &lt;f3&gt;Shift&lt;/f3&gt;+&lt;f4&gt;F11&lt;/f4&gt; key sequence may be used by macOS to show its desktop and so cannot be used to access the Save as Template dialog in Calc.</seg>
       </tuv>
@@ -111529,6 +112352,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T123623Z" creationid="olivier" creationdate="20250325T123623Z">
         <seg>Página única</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single print range marked by a bounding box</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095207Z" creationid="olivier" creationdate="20261103T095207Z">
+        <seg>Intervalo de impressão único marcado por uma caixa delimitadora</seg>
       </tuv>
     </tu>
     <tu>
@@ -111977,6 +112808,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250724T212946Z" creationid="timotheonb" creationdate="20250724T212946Z">
         <seg>Alguns capítulos pressupõem familiaridade com o uso básico de planilhas de trabalho ao descrever como usar o Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Some color printers may print in color regardless of the settings you choose.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092420Z" creationid="olivier" creationdate="20261103T092420Z">
+        <seg>Algumas impressoras coloridas podem imprimir em cores, independentemente das configurações escolhidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117637,6 +118477,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The Calc window now displays the Print Preview toolbar instead of the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T093044Z" creationid="olivier" creationdate="20261103T093044Z">
+        <seg>A janela do Calc agora exibe a barra de ferramentas Visualizar impressão em vez da barra de ferramentas Formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The Calls Window (located to the right, below the Object Catalog and Editor Window) provides information about the call stack of procedures and functions when a program runs.</seg>
       </tuv>
@@ -119749,6 +120598,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The available choices vary from one printer to another, but you should find options for the color settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092449Z" creationid="olivier" creationdate="20261103T092449Z">
+        <seg>As opções disponíveis variam de uma impressora para outra, mas você deve encontrar opções para as configurações de cores.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The available layouts are shown in &lt;bs0/&gt;the &lt;f1&gt;Layouts&lt;/f1&gt; panel&lt;be2/&gt; on the Properties deck on the Sidebar.</seg>
       </tuv>
@@ -119997,6 +120855,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The cells on the sheet that are not part of the defined print range are not printed or exported.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094625Z" creationid="olivier" creationdate="20261103T094625Z">
+        <seg>As células da planilha que não fazem parte do intervalo de impressão definido não são impressas ou exportadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The cells that have both an orange background and a thick black border (B3:B4) form the intersection of the two ranges.</seg>
       </tuv>
@@ -120218,6 +121085,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185729Z" creationid="timotheonb" creationdate="20260914T185729Z">
         <seg>As opções são: &lt;f0&gt;Barra&lt;/f0&gt;, &lt;f1&gt;Cilindro&lt;/f1&gt;, &lt;f2&gt;Cone&lt;/f2&gt; e &lt;f3&gt;Pirâmide&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The choices for color might include black and white, or grayscale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092455Z" creationid="olivier" creationdate="20261103T092455Z">
+        <seg>As opções de cores podem incluir preto e branco ou tons de cinza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124269,6 +125145,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The non-printing area of the spreadsheet normally has a gray background.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095406Z" creationid="olivier" creationdate="20261103T095406Z">
+        <seg>A área não impressa da planilha normalmente tem um fundo cinza.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The normal position for a signature box is at the bottom of a page.</seg>
       </tuv>
@@ -125157,6 +126042,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The preview panel on the right shows how the pages will look in the printed document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T085039Z" creationid="olivier" creationdate="20261103T085039Z">
+        <seg>O painel de visualização à direita mostra como as páginas ficarão no documento impresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The previous versions of LibreOffice support the file format ODF 1.2.</seg>
       </tuv>
@@ -125202,6 +126096,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174738Z" creationid="olivier" creationdate="20260926T174738Z">
         <seg>As opções de impressão podem ser definidas para se adequarem à sua impressora padrão e ao seu método de impressão mais comum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The print ranges are outlined by default with a blue border and contain a pale gray page number in the center of each page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095403Z" creationid="olivier" creationdate="20261103T095403Z">
+        <seg>Os intervalos de impressão são contornados por padrão com uma borda azul e contêm um número de página em cinza claro no centro de cada página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125354,6 +126257,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T221318Z" creationid="olivier" creationdate="20261020T221318Z">
         <seg>O operador de intervalo é escrito como dois pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>The reason is that these names are ambiguous with the R1C1 cell reference notation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100348Z" creationid="olivier" creationdate="20261103T100348Z">
+        <seg>A razão é que esses nomes são ambíguos com a notação de referência de célula R1C1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125894,10 +126806,26 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The selected cells are displayed in the &lt;f2&gt;Range or formula expression&lt;/f2&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100255Z" creationid="olivier" creationdate="20261103T100255Z">
+        <seg>As células selecionadas são então exibidas na caixa &lt;f2&gt;Intervalo ou expressão de fórmula&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The selected cells are now set to apply a result using conditional formatting.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184833Z" creationid="firelinux" creationdate="20260403T184833Z">
         <seg>As células selecionadas agora estão configuradas para aplicar um resultado usando formatação condicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The selected cells are then displayed in the &lt;f0&gt;Range or formula expression&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100314Z" creationid="olivier" creationdate="20261103T100314Z">
+        <seg>As células selecionadas são então exibidas na caixa &lt;f0&gt;Intervalo ou expressão de fórmula&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -129310,6 +130238,22 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This automatically changes the &lt;f2&gt;Columns to Repeat&lt;/f2&gt; drop-down from &lt;f3&gt;- none -&lt;/f3&gt; to &lt;f4&gt;- user defined -&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101406Z" creationid="olivier" creationdate="20261103T101406Z">
+        <seg>Isso muda automaticamente a lista suspensa &lt;f2&gt;Colunas a repetir&lt;/f2&gt; de &lt;f3&gt;– Nenhum –&lt;/f3&gt; para &lt;f4&gt;– definido pelo usuário –&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This automatically changes the &lt;f2&gt;Rows to Repeat&lt;/f2&gt; drop-down from &lt;f3&gt;- none -&lt;/f3&gt; to &lt;f4&gt;- user defined -&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101309Z" creationid="olivier" creationdate="20261103T101309Z">
+        <seg>Isso muda automaticamente a lista suspensa &lt;f2&gt;Linhas a repetir&lt;/f2&gt; de &lt;f3&gt;– Nenhum –&lt;/f3&gt; para &lt;f4&gt;– definido pelo usuário –&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This base point can be temporarily changed to simplify alignment or dimensioning by clicking a position that corresponds to the desired reference point.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260827T193011Z" creationid="timotheonb" creationdate="20260827T193011Z">
@@ -129446,6 +130390,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can be done with the keyboard by typing in a comma and the cell references, using the same format as the print ranges already defined in the &lt;f0&gt;Print Range&lt;/f0&gt; text box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095221Z" creationid="olivier" creationdate="20261103T095221Z">
+        <seg>Isso pode ser feito com o teclado, digitando uma vírgula e as referências de célula, usando o mesmo formato que os intervalos de impressão já definidos na caixa de texto &lt;f0&gt;Intervalo de impressão&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This can be misleading because both the Y axis and the X axis can be horizontal or vertical, depending on the type of chart.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T004212Z" creationid="vitor" creationdate="20260407T004212Z">
@@ -129546,6 +130498,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T132053Z" creationid="timotheonb" creationdate="20250502T132053Z">
         <seg>Isso muda dependendo do objeto selecionado no slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This changes the print settings for all components of LibreOffice, not just Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092824Z" creationid="olivier" creationdate="20261103T092824Z">
+        <seg>Isso muda as configurações de impressão de todos os componentes do LibreOffice, não apenas do Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130722,6 +131683,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250602T213811Z" creationid="olivier" creationdate="20250602T213811Z">
         <seg>Isso é útil para girar imagens através de um ângulo reto, por exemplo, de retrato para paisagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is useful if different areas of a large spreadsheet have to be printed for different reports; several named print ranges can be defined to meet this need.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095531Z" creationid="olivier" creationdate="20261103T095531Z">
+        <seg>Isso é útil se diferentes áreas de uma grande planilha tiverem que ser impressas para relatórios diferentes; vários intervalos de impressão nomeados podem ser definidos para atender a essa necessidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132314,6 +133283,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T105105Z" creationid="timotheonb" creationdate="20250531T105105Z">
         <seg>Para acessar mais opções de navegação durante uma apresentação de slides, clique com o botão direito do mouse em um slide e use as opções disponíveis no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To access some options on the &lt;f0&gt;General&lt;/f0&gt; tab of the Print dialog, you may need to click one of the &lt;f1&gt;More&lt;/f1&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T085327Z" creationid="olivier" creationdate="20261103T085327Z">
+        <seg>Para acessar algumas das opções da aba &lt;f0&gt;Geral&lt;/f0&gt; da caixa de diálogo Imprimir, você pode precisar clicar uma das opções em &lt;f1&gt;Mais&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134157,6 +135134,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To delete a named print range if it is no longer required:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100809Z" creationid="olivier" creationdate="20261103T100809Z">
+        <seg>Para excluir um intervalo de impressão nomeado quando este não for mais necessário:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To delete a pivot chart, select the chart and press &lt;f0&gt;Del&lt;/f0&gt; on the keyboard.</seg>
       </tuv>
@@ -134434,6 +135420,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250702T004827Z" creationid="firelinux" creationdate="20250702T004827Z">
         <seg>Para exibir a barra de ferramentas, vá para &lt;f1&gt;Exibir &gt; Barras de ferramentas&lt;/f1&gt; na barra de menus e selecione-a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To distinguish each page on a sheet, select the &lt;f0&gt;Draw a border around each page&lt;/f0&gt; option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T085157Z" creationid="olivier" creationdate="20261103T085157Z">
+        <seg>Para distinguir cada página em uma folha, selecione a opção &lt;f0&gt;Desenhar uma borda em volta de cada página&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134898,6 +135892,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T115727Z" creationid="timot" creationdate="20250114T115727Z">
         <seg>Para sair da visualização Tela inteira e voltar à visualização anterior, tecle &lt;f0&gt;Esc&lt;/f0&gt; ou clique no botão &lt;f1&gt;Tela cheia&lt;/f1&gt; na barra de ferramentas flutuante no canto superior esquerdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To exit the page break preview, go to &lt;f0&gt;View &gt; Normal&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095423Z" creationid="olivier" creationdate="20261103T095423Z">
+        <seg>Para sair da visualização da quebra de página, vá para &lt;f0&gt;Exibir &gt; Normal&lt;/f0&gt; na barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136589,11 +137591,46 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To preview the sheets in Calc before printing:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092923Z" creationid="olivier" creationdate="20261103T092923Z">
+        <seg>Para visualizar as planilhas no Calc antes de imprimir:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To previous editions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260417T182246Z" creationid="timot" creationdate="20250110T215658Z">
         <seg>Para edições anteriores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To print a range of sheets:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T091954Z" creationid="olivier" creationdate="20261103T091954Z">
+        <seg>Para imprimir um intervalo de planilhas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To print a selection of cells:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092207Z" creationid="olivier" creationdate="20261103T092207Z">
+        <seg>Para imprimir uma seleção de células:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To print an individual sheet:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T091643Z" creationid="olivier" creationdate="20261103T091643Z">
+        <seg>Para imprimir uma planilha individual:</seg>
       </tuv>
     </tu>
     <tu>
@@ -136613,11 +137650,28 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To print multiple pages of a spreadsheet on one piece of paper:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T084854Z" creationid="olivier" creationdate="20261103T084854Z">
+        <seg>Para imprimir várias páginas de uma planilha em uma folha de papel:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To print the document from &lt;f0&gt;Print Preview&lt;/f0&gt;, click &lt;f1&gt;Print&lt;/f1&gt; on the Print Preview toolbar to open the Print dialog, then select the printing options and click &lt;f2&gt;OK&lt;/f2&gt; (macOS &lt;f3&gt;Print&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250224T232249Z" creationid="olivier-tdf" creationdate="20250224T232249Z">
         <seg>Para imprimir o documento a partir da &lt;f0&gt;Visualização de Impressão&lt;/f0&gt;, clique em &lt;f1&gt;Imprimir&lt;/f1&gt; na barra de ferramentas Visualização de impressão para abrir a caixa de diálogo Imprimir, selecione as opções de impressão e clique em &lt;f2&gt;OK&lt;/f2&gt; (&lt;f3&gt;Impressão&lt;/f3&gt; do macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To print the document from this view, select &lt;f0&gt;File &gt; Print&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Print&lt;/f1&gt; icon on the Standard toolbar, or use the &lt;f2&gt;Ctrl&lt;/f2&gt;+&lt;f3&gt;P&lt;/f3&gt; key combination to open the Print dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T093159Z" creationid="olivier" creationdate="20261103T093159Z">
+        <seg>Para imprimir o documento a partir desta visão, selecione &lt;f0&gt;Arquivo &gt; Imprimir&lt;/f0&gt; na barra de menu ou clique no ícone &lt;f1&gt;Imprimir&lt;/f1&gt; na barra de ferramentas padrão ou mesmo pressione &lt;f2&gt;Ctrl&lt;/f2&gt; + &lt;f3&gt;P&lt;/f3&gt;, para abrir a caixa de diálogo Imprimir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136838,6 +137892,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To remove a print range, select the print range in the &lt;f0&gt;Print Range&lt;/f0&gt; text box and delete it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095307Z" creationid="olivier" creationdate="20261103T095307Z">
+        <seg>Para remover um intervalo de impressão, selecione o intervalo de impressão na caixa de texto &lt;f0&gt;Intervalo de impressão&lt;/f0&gt; e excluí-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To remove a split view, do any of the following:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251022T121056Z" creationid="timotheonb" creationdate="20251022T121056Z">
@@ -136938,6 +138000,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194306Z" creationid="firelinux" creationdate="20260403T194306Z">
         <seg>Para remover a formatação manual, selecione o objeto e, em seguida, faça um dos seguintes procedimentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remove named print ranges, see “&lt;bf0&gt;Deleting a named print range&lt;/bf0&gt;” &lt;bf1&gt;above&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101053Z" creationid="olivier" creationdate="20261103T101053Z">
+        <seg>Para remover intervalos de impressão nomeados, consulte “&lt;bf0&gt;Excluir um intervalo de impressão nomeado&lt;/bf0&gt;" &lt;bf1&gt;acima&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137309,6 +138379,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To select a named range for printing:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100615Z" creationid="olivier" creationdate="20261103T100615Z">
+        <seg>Para selecionar um intervalo nomeado para impressão:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To select a range of cells by dragging the mouse pointer:</seg>
       </tuv>
@@ -137578,6 +138657,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201412Z" creationid="olivier-tdf" creationdate="20250209T201412Z">
         <seg>Para definir um cabeçalho ou rodapé:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To set a user-defined print range:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094651Z" creationid="olivier" creationdate="20261103T094651Z">
+        <seg>Para definir um intervalo de impressão definido pelo usuário:</seg>
       </tuv>
     </tu>
     <tu>
@@ -138414,6 +139502,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To view the page breaks, go to &lt;f0&gt;View &gt; Page Break&lt;/f0&gt; on the Menu bar to open the preview (Figure &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095359Z" creationid="olivier" creationdate="20261103T095359Z">
+        <seg>Para ver as quebras de página, vá para &lt;f0&gt;Exibir &gt; Quebra de página&lt;/f0&gt; na barra de menus para abrir a visualização (Figura &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To view the page breaks, go to &lt;f0&gt;View &gt; Page Break&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier-tdf" creationdate="20250209T194050Z">
@@ -139186,6 +140282,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T225115Z" creationid="olivier" creationdate="20250307T225115Z">
         <seg>Digite um nome para a nova barra de ferramentas na caixa &lt;f0&gt;Nome da barra de ferramentas&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type a name for the range in the &lt;f0&gt;Name&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100323Z" creationid="olivier" creationdate="20261103T100323Z">
+        <seg>Digite um nome para o intervalo na caixa &lt;f0&gt;Nome&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -140254,6 +141358,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use &lt;f0&gt;File &gt; Print&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Print&lt;/f1&gt; icon on the Standard toolbar, or use the &lt;f2&gt;Ctrl+P&lt;/f2&gt; key combination to open the Print dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T084950Z" creationid="olivier" creationdate="20261103T084950Z">
+        <seg>Utilize &lt;f0&gt;Arquivo &gt; Imprimir&lt;/f0&gt; na barra de menu, ou clique no ícone &lt;f1&gt;Imprimir&lt;/f1&gt; na barra de ferramentas padrão, ou mesmo pressione &lt;f2&gt;Ctrl + P&lt;/f2&gt;, para abrir a caixa de diálogo Imprimir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use &lt;f0&gt;Help &gt; LibreOffice Help,&lt;/f0&gt; or press the &lt;f1&gt;F1&lt;/f1&gt; key, to open the LibreOffice help pages.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195824Z" creationid="olivier-tdf" creationdate="20250708T195824Z">
@@ -140786,6 +141898,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T225245Z" creationid="vitor" creationdate="20260329T225245Z">
         <seg>Use um desses métodos para abrir a caixa de diálogo Títulos (Figura &lt;t0&gt;12&lt;/t0&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Use only letters, numbers, and underscores in the name; no spaces, hyphens, or other characters are allowed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100327Z" creationid="olivier" creationdate="20261103T100327Z">
+        <seg>Use apenas letras, números e sublinhados no nome; nenhum espaço, hífen ou outros caracteres são permitidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142541,11 +143662,29 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Using named print ranges</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101415Z" creationid="olivier" creationdate="20261103T101415Z">
+        <seg>Utilizar intervalos de impressão nomeados</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Using pivot table results elsewhere</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261013T094449Z" creationid="olivier" creationdate="20261013T094449Z">
         <seg>Utilizar os resultados da tabela dinâmica em outro lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Using print ranges</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094618Z" creationid="olivier" creationdate="20261103T094618Z">
+        <seg>Utilizar intervalos de impressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -143546,6 +144685,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250121T161555Z" creationid="olivier" creationdate="20250121T161555Z">
         <seg>Visualizar uma planilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Viewing print ranges</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095330Z" creationid="olivier" creationdate="20261103T095330Z">
+        <seg>Exibir os intervalos de impressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -145334,6 +146482,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When printing more than one page per sheet, select the order to print the pages &lt;s0/&gt;on a sheet in the &lt;f1&gt;Order&lt;/f1&gt; drop-down list (Figure &lt;t2&gt;3&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T085138Z" creationid="olivier" creationdate="20261103T085138Z">
+        <seg>Ao imprimir mais de duas páginas por folha, selecione a ordem em que as páginas são impressas&lt;s0/&gt; numa folha da lista suspensa &lt;f1&gt;Ordem&lt;/f1&gt; (Figura &lt;t2&gt;3&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When printing, the name of the default printer installed on a computer appears in the &lt;f0&gt;Print&lt;/f0&gt; tool name, &lt;f1&gt;Print Directly&lt;/f1&gt; tool name, Print dialog, and Printer Settings dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250225T000454Z" creationid="olivier" creationdate="20250222T182705Z">
@@ -146922,6 +148078,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200421Z" creationid="olivier-tdf" creationdate="20250209T200421Z">
         <seg>Embora a definição de um intervalo de impressão possa ser uma ferramenta poderosa, às vezes pode ser necessário ajustar manualmente a impressão usando uma quebra de página manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>While defining a print range can be a powerful tool, you may sometimes need to manually adjust the page breaks to make sure the spreadsheet prints the way you want it to look.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101741Z" creationid="olivier" creationdate="20261103T101741Z">
+        <seg>Embora definir um intervalo de impressão possa ser uma ferramenta poderosa, às vezes você pode precisar ajustar manualmente as quebras de página para garantir que a planilha seja impressa da maneira que deseja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -148677,6 +149842,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You can also define named print ranges to use for repeat printing of rows or columns as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101422Z" creationid="olivier" creationdate="20261103T101422Z">
+        <seg>Você também pode definir intervalos de impressão nomeados e usá-los para repetir a impressão de linhas ou colunas da seguinte maneira:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You can also define shortcut key combinations that will run macros.</seg>
       </tuv>
@@ -148810,6 +149984,23 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260422T003617Z" creationid="firelinux" creationdate="20250729T012842Z">
         <seg>Também existe suporte pago por meio de contratos de serviço de um fornecedor ou empresa de consultoria especializada no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You can also place the cursor in the &lt;f0&gt;Columns to Repeat&lt;/f0&gt; box and then, using the mouse, select a cell in each column you want to be repeat printed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101412Z" creationid="olivier" creationdate="20261103T101412Z">
+        <seg>Você também pode colocar o cursor em Colunas a repetir e, em seguida, usando o mouse, selecionar uma célula em cada coluna que deseja repetir a impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also place the cursor in the &lt;f0&gt;Rows to Repeat&lt;/f0&gt; box and then, using the mouse, select a cell in each row you want to be repeat printed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101324Z" creationid="olivier" creationdate="20261103T101324Z">
+        <seg>Você também pode colocar o cursor em &lt;f0&gt;Linhas a repetir&lt;/f0&gt; e, em seguida, usando o mouse, selecionar uma célula em cada linha que deseja repetir a impressão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -149133,6 +150324,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You can change the LibreOffice settings to print all color text and graphics as grayscale:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092628Z" creationid="olivier" creationdate="20261103T092628Z">
+        <seg>Você pode alterar as configurações do LibreOffice para imprimir todos os textos e gráficos coloridos em escala de cinza:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You can change the action of the &lt;f2&gt;Enter&lt;/f2&gt; key; see “&lt;bf3&gt;Customizing the Enter key&lt;/bf3&gt;” &lt;bf4&gt;below&lt;/bf4&gt;.</seg>
       </tuv>
@@ -149210,6 +150410,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261013T094014Z" creationid="olivier" creationdate="20261013T094014Z">
         <seg>Pode-se alterar essa formatação usando todas as ferramentas do Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can check the print range by using &lt;f0&gt;Toggle Print Preview&lt;/f0&gt; or the Preview pane in the Print dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094821Z" creationid="olivier" creationdate="20261103T094821Z">
+        <seg>Você pode verificar o intervalo de impressão usando &lt;f0&gt;Alternar visualização de impressão&lt;/f0&gt; ou o painel de visualização na caixa de diálogo Imprimir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -149485,6 +150693,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You can define which range of cells on a spreadsheet are to be printed or exported to a PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094622Z" creationid="olivier" creationdate="20261103T094622Z">
+        <seg>Você pode definir qual intervalo de células em uma planilha deve ser impresso ou exportado para um PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You can define your own heading styles and set them up in &lt;f0&gt;Tools &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Heading&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Numbering&lt;/f3&gt;.</seg>
       </tuv>
@@ -149554,6 +150771,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250404T110547Z" creationid="timot" creationdate="20250404T110547Z">
         <seg>Tem como fazer isso de várias maneiras, conforme descrito no Guia do Writer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can do this in two ways.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092415Z" creationid="olivier" creationdate="20261103T092415Z">
+        <seg>Você pode fazer isso de duas maneiras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150701,6 +151926,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You cannot start a name with c, C, r, R followed by any number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T100339Z" creationid="olivier" creationdate="20261103T100339Z">
+        <seg>Não é possível iniciar um nome com c, C, r, R seguido de qualquer número.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You could, of course, retype or copy and paste the common paragraphs into each document.</seg>
       </tuv>
@@ -150898,6 +152132,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T212154Z" creationid="timot" creationdate="20250210T212154Z">
         <seg>Tem como desativar alguns de seus recursos, modificar outros ou desativá-los completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You may wish to print a spreadsheet in grayscale on a color printer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092339Z" creationid="olivier" creationdate="20261103T092339Z">
+        <seg>Você pode desejar imprimir uma planilha em escala de cinza em uma impressora colorida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -152142,6 +153385,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>defining</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094637Z" creationid="olivier" creationdate="20261103T094637Z">
+        <seg>definir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>defining the layout of the pivot table</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261011T095431Z" creationid="olivier" creationdate="20261011T095431Z">
@@ -152674,6 +153925,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250813T202637Z" creationid="timotheonb" creationdate="20250813T202637Z">
         <seg>leiaute geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>grayscale on a color printer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092329Z" creationid="olivier" creationdate="20261103T092329Z">
+        <seg>escala de cinza em uma impressora colorida</seg>
       </tuv>
     </tu>
     <tu>
@@ -153622,6 +154881,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>named</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095452Z" creationid="olivier" creationdate="20261103T095452Z">
+        <seg>nomeado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>named expressions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261022T203818Z" creationid="olivier" creationdate="20261022T203810Z">
@@ -153926,10 +155193,26 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>preview before printing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092839Z" creationid="olivier" creationdate="20261103T092839Z">
+        <seg>visualizar antes de imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>print</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T174723Z" creationid="olivier" creationdate="20260926T174723Z">
         <seg>imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>print ranges</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094643Z" creationid="olivier" creationdate="20261103T094643Z">
+        <seg>intervalos de impressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -154294,6 +155577,23 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>repeat printing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101105Z" creationid="olivier" creationdate="20261103T101105Z">
+        <seg>repetir impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>repeat printing of rows or columns</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T101108Z" creationid="olivier" creationdate="20261103T101108Z">
+        <seg>Repetir a impressão de linhas ou colunas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>replacing data</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T114038Z" creationid="timotheonb" creationdate="20260318T184808Z">
@@ -154522,6 +155822,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T111650Z" creationid="vitor" creationdate="20260412T111626Z">
         <seg>múltipla seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>selecting what to print</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T085337Z" creationid="olivier" creationdate="20261103T085337Z">
+        <seg>selecionar o que imprimir</seg>
       </tuv>
     </tu>
     <tu>
@@ -155042,6 +156350,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260422T004840Z" creationid="timotheonb" creationdate="20250728T164026Z">
         <seg>LibreOffice no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>using print preview</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T092904Z" creationid="olivier" creationdate="20261103T092904Z">
+        <seg>usar a visualização de impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>using print ranges</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094614Z" creationid="olivier" creationdate="20261103T094614Z">
+        <seg>utilizar intervalos de impressão</seg>
       </tuv>
     </tu>
     <tu>
