@@ -4440,6 +4440,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;AutoFit height&lt;/f0&gt; – automatically adjusts the height of the header or footer to fit the content.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T165539Z" creationid="olivier" creationdate="20261103T165539Z">
+        <seg>&lt;f0&gt;Autoajustar altura&lt;/f0&gt; – ajusta automaticamente a altura do cabeçalho ou rodapé para caber no conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Automatic Recalculation&lt;/f0&gt;: This is the default mode in Calc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261017T135143Z" creationid="olivier" creationdate="20261017T135143Z">
@@ -5904,6 +5912,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Edit&lt;/f0&gt; – opens the Header or Footer dialog where you can add, edit, or format text that is placed in the header or footer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T165614Z" creationid="olivier" creationdate="20261103T165614Z">
+        <seg>&lt;f0&gt;Editar&lt;/f0&gt; – abre a caixa de diálogo Cabeçalho ou Rodapé, para adicionar, editar ou formatar o texto que é colocado no cabeçalho ou rodapé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Effect&lt;/f0&gt;: Add and adjust a Glow or Soft Edge effect to the object.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T111327Z" creationid="timot" creationdate="20250114T111327Z">
@@ -6736,6 +6752,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Header on&lt;/f0&gt; or &lt;f1&gt;Footer on&lt;/f1&gt; – adds a header or footer to the current page style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T163111Z" creationid="olivier" creationdate="20261103T163111Z">
+        <seg>&lt;f0&gt;Ativar cabeçalho&lt;/f0&gt; ou &lt;f1&gt;Ativar rodapé&lt;/f1&gt; – adiciona um cabeçalho ou rodapé ao estilo de página atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Header&lt;/f0&gt; and &lt;f1&gt;Footer&lt;/f1&gt; activate/deactivate and modify the respective margins, spacing, and content.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T113736Z" creationid="timot" creationdate="20250114T113736Z">
@@ -6756,6 +6780,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260527T144706Z" creationid="timotheonb" creationdate="20260527T144706Z">
         <seg>&lt;f0&gt;Altura&lt;/f0&gt; – exibe a altura do formato de papel selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Height&lt;/f0&gt; – enter the height for the header or footer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T165530Z" creationid="olivier" creationdate="20261103T165530Z">
+        <seg>&lt;f0&gt;Altura&lt;/f0&gt; – insira a altura do cabeçalho ou rodapé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7184,6 +7216,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Left margin&lt;/f0&gt; – enter the amount of space to leave between the left page margin and the left edge of the header or footer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T165443Z" creationid="olivier" creationdate="20261103T165443Z">
+        <seg>&lt;f0&gt;Margem esquerda&lt;/f0&gt; – insira a quantidade de espaço a ser deixada entre a margem esquerda da página e a borda esquerda do cabeçalho ou rodapé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Left to right, then down&lt;/f0&gt; – prints horizontally from the top row of the sheet to the right column.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114106Z" creationid="olivier" creationdate="20261103T114106Z">
@@ -7524,6 +7564,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T194724Z" creationid="olivier-tdf" creationdate="20250109T194724Z">
         <seg>&lt;f0&gt;Mais&lt;/f0&gt; funcionalidades &lt;f1&gt;podem ser adicionadas &lt;/f1&gt;ao LibreOffice por meio de extensões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;More&lt;/f0&gt; – opens the Border/Background dialog, where you can define the appearance of borders and background colors or images for headers or footers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T165604Z" creationid="olivier" creationdate="20261103T165604Z">
+        <seg>&lt;f0&gt;Mais&lt;/f0&gt; – abre a caixa de diálogo Bordas / Pano de Fundo, para definir a aparência das bordas e cores ou imagens de fundo para cabeçalhos ou rodapés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8552,6 +8600,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Right margin&lt;/f0&gt; – enter the amount of space to leave between the right page margin and the right edge of the header or footer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T165501Z" creationid="olivier" creationdate="20261103T165501Z">
+        <seg>&lt;f0&gt;Margem direita&lt;/f0&gt; – insira a quantidade de espaço a ser deixada entre a margem direita da página e a borda direita do cabeçalho ou rodapé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Right/Outer&lt;/f0&gt; – the space between the right edge of the paper and the spreadsheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203415Z" creationid="timotheonb" creationdate="20260528T130200Z">
@@ -8636,6 +8692,23 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T235543Z" creationid="olivier" creationdate="20250301T235543Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Planilhas&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Same content on left and right pages&lt;/f0&gt; – causes left and right pages to share the same header or footer content.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T163122Z" creationid="olivier" creationdate="20261103T163122Z">
+        <seg>&lt;f0&gt;Mesmo conteúdo nas páginas esquerda e direita&lt;/f0&gt; – faz com que as páginas esquerda e direita compartilhem o mesmo conteúdo de cabeçalho ou rodapé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Same contents on first page&lt;/f0&gt; – causes the first page to have a different header or footer than the remaining pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T165421Z" creationid="olivier" creationdate="20261103T165421Z">
+        <seg>&lt;f0&gt;O mesmo conteúdo na primeira página&lt;/f0&gt; – faz com que a primeira página tenha um cabeçalho ou rodapé diferente das páginas restantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9016,6 +9089,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Shrink print range(s) on number of pages&lt;/f0&gt; – specifies the maximum number of pages to be printed for each sheet that uses the same page style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160437Z" creationid="olivier" creationdate="20261103T160437Z">
+        <seg>&lt;f0&gt;Encolher o(s) intervalo (s) de impressão ao número de páginas&lt;/f0&gt; – especifica o número máximo de páginas a serem impressas para cada planilha que usa o mesmo estilo de página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Shrink print range(s) to width/height &lt;/f0&gt;– specifies the maximum number of pages horizontally (width) and vertically (height) on which every sheet with the current page style is to be printed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160325Z" creationid="olivier" creationdate="20261103T160325Z">
+        <seg>&lt;f0&gt;Encolher o(S) intervalo (s) de impressão à largura / altura&lt;/f0&gt; – especifica o número máximo de páginas horizontalmente (largura) e verticalmente (altura) nas quais cada folha com o estilo de página atual deve ser impressa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Shrink to fit cell size&lt;/f0&gt; – reduces the apparent size of the font so that the contents of the cell fit into the current cell width.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T003637Z" creationid="firelinux" creationdate="20260415T003637Z">
@@ -9164,6 +9253,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260121T133854Z" creationid="timotheonb" creationdate="20260121T133854Z">
         <seg>&lt;f0&gt;Fonte&lt;/f0&gt; – insira o intervalo de células que contém os valores ou texto válidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Spacing&lt;/f0&gt; – enter the amount of space to maintain between the bottom edge of the header and the top edge of the spreadsheet, or the top edge of the footer and the bottom edge of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T165518Z" creationid="olivier" creationdate="20261103T165518Z">
+        <seg>&lt;f0&gt;Espaçamento&lt;/f0&gt; – insira a quantidade de espaço a ser mantida entre a borda inferior do cabeçalho e a borda superior da planilha, ou a borda superior do rodapé e a borda inferior da planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13727,6 +13824,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Header dialog&lt;/s0&gt;&lt;s1&gt;Header dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T182209Z" creationid="olivier" creationdate="20261103T182209Z">
+        <seg>&lt;s0&gt;Diálogo de cabeçalho&lt;/s0&gt;&lt;s1&gt; Diálogo de cabeçalho&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Header marker at top of text area&lt;/s0&gt;&lt;s1&gt;Header marker at top of text area&lt;/s1&gt;</seg>
       </tuv>
@@ -14812,6 +14918,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124609Z" creationid="olivier" creationdate="20250325T124609Z">
         <seg>&lt;s0&gt;Caixa de diálogo Opções de PDF — Página de Interface do usuário&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Opções de PDF — Página de Interface do Usuário&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Page Style dialog – Header tab&lt;/s0&gt;&lt;s1&gt;Page Style dialog – Header tab&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160654Z" creationid="olivier" creationdate="20261103T160654Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Estilo de página, guia Cabeçalho&lt;/s0&gt; Caixa de&lt;s1&gt; diálogo Estilo de página, guia Cabeçalho&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33152,6 +33267,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Edit&lt;/f0&gt; to open the Header or Footer dialog (Figure &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T182044Z" creationid="olivier" creationdate="20261103T182044Z">
+        <seg>Clique em &lt;f0&gt;Editar&lt;/f0&gt; para abrir a caixa de diálogo Cabeçalho ou Rodapé (Figura &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;Encrypt&lt;/f0&gt; to close the dialog and save the file encrypted with the selected public keys.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231635Z" creationid="olivier-tdf" creationdate="20250328T231635Z">
@@ -47584,6 +47707,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Each column can either be empty or have different contents than the other columns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T181856Z" creationid="olivier" creationdate="20261103T181856Z">
+        <seg>Cada coluna pode estar vazia ou ter conteúdos diferentes do que as outras colunas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Each data series contains a set of data that have something in common, such as the types of rental equipment listed in Figure &lt;t1&gt;1&lt;/t1&gt;.</seg>
       </tuv>
@@ -49823,6 +49955,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T192250Z" creationid="firelinux" creationdate="20260403T192250Z">
         <seg>Insira o valor de N na caixa de texto à direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Enter the values for the other options according to your requirements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160642Z" creationid="olivier" creationdate="20261103T160642Z">
+        <seg>Insira os valores para as outras opções de acordo com seus requisitos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52758,6 +52899,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Page Style dialog – Header tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160706Z" creationid="olivier" creationdate="20261103T160706Z">
+        <seg>Figura &lt;seq0&gt;13&lt;/seq0&gt;: Caixa de diálogo Estilo de página, aba Cabeçalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Selecting view options for Calc</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135314Z" creationid="olivier" creationdate="20261004T135314Z">
@@ -52858,6 +53007,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261004T135508Z" creationid="olivier" creationdate="20261004T135508Z">
         <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: Indicador de fórmula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Header dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T182816Z" creationid="olivier" creationdate="20261103T182816Z">
+        <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: Diálogo de cabeçalho</seg>
       </tuv>
     </tu>
     <tu>
@@ -67920,6 +68077,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to the Styles deck of the Sidebar, right-click the relevant page style, and select &lt;f0&gt;Modify&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160551Z" creationid="olivier" creationdate="20261103T160551Z">
+        <seg>Abra o deque de estilos da barra lateral, clique com o botão direito no estilo de página relevante e selecione &lt;f0&gt;Modificar&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to the Styles deck on the Sidebar (Figure &lt;t0&gt;2&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260409T134453Z" creationid="olivier" creationdate="20260311T004206Z">
@@ -68631,6 +68796,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Header or footer contents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T181851Z" creationid="olivier" creationdate="20261103T181851Z">
+        <seg>Conteúdo do cabeçalho ou rodapé</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Header tab of Page Style dialog</seg>
       </tuv>
@@ -68655,11 +68829,29 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Headers and footers are predefined pieces of text that are printed at the top or bottom of a sheet outside the sheet area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160500Z" creationid="olivier" creationdate="20261103T160500Z">
+        <seg>Cabeçalhos e rodapés são blocos de texto predefinidos que são impressos na parte superior ou inferior da página fora da área da planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Headers and footers are set and defined using the same method.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201150Z" creationid="olivier-tdf" creationdate="20250209T201150Z">
         <seg>Cabeçalhos e rodapés são estabelecidos e definidos usando o mesmo método.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Headers and footers are set the same way, and you can have different content on left and right pages that use the same page style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160503Z" creationid="olivier" creationdate="20261103T160503Z">
+        <seg>Cabeçalhos e rodapés são definidos da mesma maneira e você pode ter conteúdo diferente nas páginas esquerda e direita que usam o mesmo estilo de página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70924,6 +71116,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261103T094726Z" creationid="olivier" creationdate="20261103T094726Z">
         <seg>E se &lt;f1&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Exibir &gt; Quebras de página&lt;/f1&gt; estiver habilitado, então umas linhas de quebra de páginas automáticas serão exibidas na tela, definindo as células incluídas na faixa de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If &lt;f2&gt;Same content on left and right pages&lt;/f2&gt; &lt;s3/&gt;and / or &lt;f4&gt;Same contents on first page&lt;/f4&gt; is deselected in the Page Style dialog, the Header or Footer dialog will have tabbed pages where you can set the header or footer contents for the first page as well as right and left pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T182158Z" creationid="olivier" creationdate="20261103T182158Z">
+        <seg>Se &lt;f2&gt;Mesmo conteúdo nas páginas esquerda e direita&lt;/f2&gt; &lt;s3/&gt;e / ou &lt;f4&gt;Mesmo conteúdo na primeira página&lt;/f4&gt; estiver desmarcado na caixa de diálogo Estilo de página, a caixa de diálogo Cabeçalho ou Rodapé terá páginas com guias para definir o conteúdo do cabeçalho ou rodapé para a primeira página, bem como páginas direita e esquerda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74653,6 +74853,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T183111Z" creationid="olivier" creationdate="20261025T183111Z">
         <seg>Se preferir, pode-se aninhar um cálculo em uma das funções de arredondamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If you clear both boxes, the scaling factor will be 100%.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160333Z" creationid="olivier" creationdate="20261103T160333Z">
+        <seg>Se desmarcar as duas caixas, o fator de escala será 100%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93703,10 +93912,27 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Page Style dialog (Figure &lt;t0&gt;13&lt;/t0&gt;), then select &lt;f1&gt;Header on&lt;/f1&gt; or &lt;f2&gt;Footer on&lt;/f2&gt; and the options for the header or footer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T182005Z" creationid="olivier" creationdate="20261103T182005Z">
+        <seg>Abra a caixa de diálogo Estilo de página (Figura &lt;t0&gt;13&lt;/t0&gt;) e selecione &lt;f1&gt;Ativar cabeçalho&lt;/f1&gt; ou &lt;f2&gt;Ativar rodapé&lt;/f2&gt; e as opções para o cabeçalho ou rodapé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Page Style dialog (Figure &lt;t0&gt;47&lt;/t0&gt;) using one of the following methods:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201500Z" creationid="olivier-tdf" creationdate="20250209T201500Z">
         <seg>Abra a caixa de diálogo Estilo de página (Figura &lt;t0&gt;47&lt;/t0&gt;) usando um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Open the Page Style dialog using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160515Z" creationid="olivier" creationdate="20261103T160515Z">
+        <seg>Abra a caixa de diálogo Estilo de página usando um dos seguintes métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -95924,6 +96150,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260525T212406Z" creationid="timotheonb" creationdate="20260525T212406Z">
         <seg>Caixa de diálogo Estilo de página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page Style dialog – Header tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160713Z" creationid="olivier" creationdate="20261103T160713Z">
+        <seg>Caixa de diálogo Estilo de página, aba Cabeçalho</seg>
       </tuv>
     </tu>
     <tu>
@@ -98389,6 +98623,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T105519Z" creationid="vitor" creationdate="20260412T105519Z">
         <seg>Evita alterações não intencionais na posição ou no tamanho do gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preview box – shown on the right side of Figure &lt;t0&gt;13&lt;/t0&gt;, this area displays a preview of the current selection.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T165553Z" creationid="olivier" creationdate="20261103T165553Z">
+        <seg>Caixa de visualização – mostrada no lado direito da Figura &lt;t0&gt;13&lt;/t0&gt;, esta área exibe uma visualização da seleção atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -104904,6 +105146,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>See “&lt;bf1&gt;Header or footer contents&lt;/bf1&gt;” &lt;bf2&gt;below&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T181838Z" creationid="olivier" creationdate="20261103T181838Z">
+        <seg>Veja “&lt;bf2&gt;Conteúdo do cabeçalho ou rodapé&lt;/bf2&gt;” &lt;bf3&gt;abaixo&lt;/bf3&gt;&lt;s4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>See “&lt;bf1&gt;LibreOffice Gallery&lt;/bf1&gt;” &lt;bf2&gt;below&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
       </tuv>
@@ -104965,6 +105216,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250206T002839Z" creationid="timot" creationdate="20250206T002839Z">
         <seg>Consulte "&lt;bf2&gt;Verificar gramática&lt;/bf2&gt;" na página &lt;bf3&gt;18&lt;/bf3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “&lt;bf2&gt;Header or footer contents&lt;/bf2&gt;” &lt;bf3&gt;below&lt;/bf3&gt;&lt;s4/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T163153Z" creationid="olivier" creationdate="20261103T163153Z">
+        <seg>Veja “&lt;bf2&gt;Conteúdo do cabeçalho ou rodapé&lt;/bf2&gt;” &lt;bf3&gt;abaixo&lt;/bf3&gt;&lt;s4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “&lt;bf3&gt;Setting headers and footers&lt;/bf3&gt;” above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T182022Z" creationid="olivier" creationdate="20261103T182022Z">
+        <seg>Veja "&lt;bf3&gt;Definir cabeçalhos e rodapés&lt;/bf3&gt;" acima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105357,6 +105624,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T235712Z" creationid="vitor" creationdate="20260329T234329Z">
         <seg>Selecione &lt;f0&gt;Formatar &gt; Legenda&lt;/f0&gt; na Barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Format &gt; Page Style&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160534Z" creationid="olivier" creationdate="20261103T160534Z">
+        <seg>Acesse &lt;f0&gt;Formatar &gt; Estilo de página&lt;/f0&gt; na barra de menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107377,6 +107652,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the &lt;f0&gt;Header&lt;/f0&gt; (or &lt;f1&gt;Footer&lt;/f1&gt;) tab (Figure &lt;t2&gt;13&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160619Z" creationid="olivier" creationdate="20261103T160619Z">
+        <seg>Selecione a aba &lt;f0&gt;Cabeçalho&lt;/f0&gt; (ou &lt;f1&gt;Rodapé&lt;/f1&gt;) (Figura &lt;t2&gt;13&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the &lt;f0&gt;Header&lt;/f0&gt; or &lt;f1&gt;Footer&lt;/f1&gt; tab as appropriate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201654Z" creationid="olivier-tdf" creationdate="20250209T201654Z">
@@ -108928,6 +109211,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251021T223454Z" creationid="timotheonb" creationdate="20251021T223454Z">
         <seg>Selecione a planilha onde deseja inserir uma nova planilha e selecione&lt;f0&gt;Planilha &gt; Inserir planilha&lt;/f0&gt; na Barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Select the sheet where you want to turn on the header or footer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160512Z" creationid="olivier" creationdate="20261103T160512Z">
+        <seg>Selecione a página em que deseja ativar o cabeçalho ou rodapé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110985,6 +111277,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T113727Z" creationid="olivier" creationdate="20250405T113727Z">
         <seg>Configurar o modelo padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Setting headers and footers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160505Z" creationid="olivier" creationdate="20261103T160505Z">
+        <seg>Definir cabeçalhos e rodapés</seg>
       </tuv>
     </tu>
     <tu>
@@ -118656,6 +118957,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f3&gt;Header&lt;/f3&gt; and &lt;f4&gt;Footer&lt;/f4&gt; tabs on the Page Style dialog are identical.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160638Z" creationid="olivier" creationdate="20261103T160638Z">
+        <seg>As abas &lt;f3&gt;Cabeçalho&lt;/f3&gt; e &lt;f4&gt;Rodapé&lt;/f4&gt; na caixa de diálogo Estilo de página são idênticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f3&gt;Insert Field&lt;/f3&gt; sub-menu contains two &lt;f4&gt;Date&lt;/f4&gt; options – use the occurrence located directly above the &lt;f5&gt;Sheet Name&lt;/f5&gt; item.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T211233Z" creationid="olivier" creationdate="20250123T205721Z">
@@ -123956,6 +124265,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The headers and footers in a Calc spreadsheet have three columns for text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T181854Z" creationid="olivier" creationdate="20261103T181854Z">
+        <seg>Os cabeçalhos e rodapés em uma planilha do Calc têm três colunas para texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The heavier horizontal line between rows 3 and 23 and the heavier vertical line between columns F and Q indicate that rows 1 to 3 and columns A to F are frozen.</seg>
       </tuv>
@@ -126544,6 +126862,15 @@ Tab / ⇥</seg>
     <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
+        <seg>The print ranges are always scaled proportionally, so the resulting number of pages may be less than specified.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160117Z" creationid="olivier" creationdate="20261103T160117Z">
+        <seg>Os intervalos de impressão são sempre dimensionados proporcionalmente, de modo que o número de páginas resultante pode ser menor que o especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
         <seg>The print ranges are outlined by default with a blue border and contain a pale gray page number in the center of each page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261103T095403Z" creationid="olivier" creationdate="20261103T095403Z">
@@ -127117,6 +127444,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T185712Z" creationid="olivier-tdf" creationdate="20250708T185712Z">
         <seg>O código de exemplo na Listagem &lt;t0&gt;5&lt;/t0&gt;&lt;s1/&gt; é um exemplo simples de uma macro criada sem o gravador que adiciona a cadeia de caracteres "Hello" no final de um documento do Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The scale will be reduced as necessary to fit the defined number of pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160439Z" creationid="olivier" creationdate="20261103T160439Z">
+        <seg>A escala será reduzida conforme necessário para se ajustar ao número definido de páginas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -129989,6 +130325,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T224714Z" creationid="vitor" creationdate="20260405T224714Z">
         <seg>Essas opções estão disponíveis apenas para gráficos 2D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>These options are described below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160645Z" creationid="olivier" creationdate="20261103T160645Z">
+        <seg>Essas opções são descritas a seguir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134326,6 +134671,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T001557Z" creationid="firelinux" creationdate="20260415T001557Z">
         <seg>Para aplicar o sublinhado apenas às palavras (e não aos espaços entre elas), selecione&lt;f1&gt;Palavras individuais&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To assign a different header or footer to left and right pages, deselect this option and then click &lt;f1&gt;Edit&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T163132Z" creationid="olivier" creationdate="20261103T163132Z">
+        <seg>Para atribuir um cabeçalho ou rodapé diferente às páginas esquerda e direita, desmarque esta opção e clique em &lt;f1&gt;Editar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To assign a different header or footer to the first page, deselect this option and then click &lt;f1&gt;Edit&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T165430Z" creationid="olivier" creationdate="20261103T165430Z">
+        <seg>Para atribuir um cabeçalho ou rodapé diferente às páginas esquerda e direita, desmarque esta opção e clique em &lt;f1&gt;Editar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139574,6 +139935,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203723Z" creationid="firelinux" creationdate="20250906T211843Z">
         <seg>Para transformar a linha de entrada numa área de entrada de várias linhas para fórmulas muito longas, clique no ícone &lt;f1&gt;Expandir Barra de Fórmulas&lt;/f1&gt; à direita ou Clique e arraste entre a Barra de Fórmulas e a parte superior dos Cabeçalhos de Coluna (quando o ponteiro do mouse se transformar numa seta dupla) para se estender para baixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To turn the headers or footers on in your spreadsheet:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160509Z" creationid="olivier" creationdate="20261103T160509Z">
+        <seg>Para ativar os cabeçalhos ou rodapés em sua planilha:</seg>
       </tuv>
     </tu>
     <tu>
@@ -152510,6 +152880,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You may clear one of the boxes; then the unspecified dimension will use as many pages as necessary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160329Z" creationid="olivier" creationdate="20261103T160329Z">
+        <seg>Você pode limpar uma das caixas; então, a dimensão não especificada usará quantas páginas forem necessárias.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;/f3&gt;&lt;a5&gt;&lt;f6&gt;https://www.gnu.org/licenses/gpl.html&lt;/f6&gt;&lt;/a5&gt;&lt;f7&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;/f7&gt;&lt;a8&gt;&lt;f9&gt;https://creativecommons.org/licenses/by/4.0/&lt;/f9&gt;&lt;/a8&gt;&lt;f10&gt;), version 4.0 or later.&lt;/f10&gt;</seg>
       </tuv>
@@ -154343,6 +154722,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>footers and headers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160454Z" creationid="olivier" creationdate="20261103T160454Z">
+        <seg>rodapés e cabeçalhos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>formatting</seg>
       </tuv>
@@ -154508,6 +154896,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261012T153529Z" creationid="olivier" creationdate="20261012T153529Z">
         <seg>agrupamento sem intervalos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>headers and footers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T160445Z" creationid="olivier" creationdate="20261103T160445Z">
+        <seg>cabeçalhos e rodapés</seg>
       </tuv>
     </tu>
     <tu>
