@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8703,7 +8703,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Same contents on first page&lt;/f0&gt; – causes the first page to have a different header or footer than the remaining pages.</seg>
       </tuv>
@@ -11761,6 +11760,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Chart Type dialog - 2D and 3D Area&lt;/s0&gt;&lt;s1&gt;Chart Type dialog - 2D and 3D Area&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T144519Z" creationid="timotheonb" creationdate="20261102T144519Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Tipo de gráfico - Área 2D e 3D&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Tipo de gráfico - Área 2D e 3D&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Chart Type dialog - Pie&lt;/s0&gt;&lt;s1&gt;Chart Type dialog - Pie&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260915T113120Z" creationid="timotheonb" creationdate="20260915T113120Z">
@@ -13824,7 +13831,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Header dialog&lt;/s0&gt;&lt;s1&gt;Header dialog&lt;/s1&gt;</seg>
       </tuv>
@@ -14626,6 +14632,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Of-pie charts&lt;/s0&gt;&lt;s1&gt;Of-pie charts&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T121826Z" creationid="timotheonb" creationdate="20261102T121826Z">
+        <seg>&lt;s0&gt;Gráficos de Pizza composta&lt;/s0&gt;&lt;s1&gt;Gráficos de Pizza composta&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Options - Languages and Locales dialog — Languages page&lt;/s0&gt;&lt;s1&gt;Options - Languages and Locales dialog — Languages page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250320T131016Z" creationid="olivier" creationdate="20250320T131016Z">
@@ -14921,7 +14935,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Page Style dialog – Header tab&lt;/s0&gt;&lt;s1&gt;Page Style dialog – Header tab&lt;/s1&gt;</seg>
       </tuv>
@@ -22874,7 +22887,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Also, any sheets without a defined print range are not printed or exported.</seg>
       </tuv>
@@ -23083,7 +23095,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Also, the name cannot refer to a valid cell reference such as A123.</seg>
       </tuv>
@@ -23532,7 +23543,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Alternatively, open the Define Name dialog, then select the cells you want to define and name.</seg>
       </tuv>
@@ -24670,7 +24680,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Another alternative is to double-click the name of the page style on the Status Bar.</seg>
       </tuv>
@@ -25551,7 +25560,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Appropriate controls for the scaling mode selected will be shown below the drop-down list box.</seg>
       </tuv>
@@ -25621,6 +25629,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T123540Z" creationid="timotheonb" creationdate="20260914T123540Z">
         <seg>As propriedades de área e linha, como cor e espessura, são definidas usando um menu de paleta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Area charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122636Z" creationid="timotheonb" creationdate="20261102T122548Z">
+        <seg>gráficos de Área</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Area charts emphasize volumes of change from one category to the next.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122632Z" creationid="timotheonb" creationdate="20261102T122632Z">
+        <seg>Os gráficos de área enfatizam os volumes de mudança de uma categoria para a próxima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26160,7 +26184,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>At any time, you can edit the print range, For example to add or remove cells, or define rows and columns to repeat (such as column or row headings).</seg>
       </tuv>
@@ -27102,6 +27125,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T190611Z" creationid="timotheonb" creationdate="20260914T190611Z">
         <seg>Os gráficos de barras podem ter um impacto visual imediato quando o tempo não é um fator importante – por exemplo, ao comparar a popularidade de alguns produtos em um mercado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bar of Pie</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122117Z" creationid="timotheonb" creationdate="20261102T122117Z">
+        <seg>barra de pizza</seg>
       </tuv>
     </tu>
     <tu>
@@ -32729,7 +32760,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Choose grayscale.</seg>
       </tuv>
@@ -41042,7 +41072,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Creating a user-defined print range will replace any existing defined print range.</seg>
       </tuv>
@@ -43955,7 +43984,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Define and name the rows and/or columns you want to repeat print.</seg>
       </tuv>
@@ -44244,7 +44272,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Defining and naming</seg>
       </tuv>
@@ -44253,7 +44280,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Defining and printing a print range</seg>
       </tuv>
@@ -44486,7 +44512,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Deleting a named print range</seg>
       </tuv>
@@ -44623,7 +44648,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Deleting multiple page breaks</seg>
       </tuv>
@@ -44640,7 +44664,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Deleting page breaks</seg>
       </tuv>
@@ -47707,7 +47730,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Each column can either be empty or have different contents than the other columns.</seg>
       </tuv>
@@ -49820,7 +49842,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Enter the number of the first page in the box.</seg>
       </tuv>
@@ -49893,7 +49914,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Enter the scaling factor as a percentage in the box, in the range 10% to 400%.</seg>
       </tuv>
@@ -49958,7 +49978,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Enter the values for the other options according to your requirements.</seg>
       </tuv>
@@ -52055,7 +52074,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Factors less than 100% reduce the pages, while higher factors enlarge the pages.</seg>
       </tuv>
@@ -52320,7 +52338,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Manage Names dialog</seg>
       </tuv>
@@ -52697,7 +52714,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Page Style dialog – Sheet tab</seg>
       </tuv>
@@ -56722,7 +56738,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Print Preview toolbar</seg>
       </tuv>
@@ -56995,7 +57010,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Edit Print Ranges dialog</seg>
       </tuv>
@@ -57333,6 +57347,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Of-pie charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T121954Z" creationid="timotheonb" creationdate="20261102T121927Z">
+        <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: gráficos de Pizza composta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Options LibreOffice dialog — Fonts page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250313T123120Z" creationid="olivier" creationdate="20250313T123120Z">
@@ -57433,6 +57455,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T201920Z" creationid="timotheonb" creationdate="20250502T201835Z">
         <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Exemplo da exibição Estrutura de tópicos no espaço de trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Example of Bar of-Pie</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122244Z" creationid="timotheonb" creationdate="20261102T122244Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: exemplo de Gráfico barra de pizza</seg>
       </tuv>
     </tu>
     <tu>
@@ -57589,6 +57619,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Chart Type dialog - 2D and 3D Area</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T144721Z" creationid="timotheonb" creationdate="20261102T144721Z">
+        <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: caixa de diálogo Tipo de gráfico – Área 2D e 3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Colored triangle in cell containing a comment</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T141625Z" creationid="olivier" creationdate="20251019T141625Z">
@@ -57604,7 +57642,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Define Name dialog</seg>
       </tuv>
@@ -60213,7 +60250,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>For an individual file, you can change the printer settings to print in black and white or grayscale:</seg>
       </tuv>
@@ -60406,7 +60442,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>For details on how to select multiple sheets, see Chapter 1, Introduction.</seg>
       </tuv>
@@ -61127,7 +61162,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>For example, if the selected cell is H15, then a column break is created between columns G and H.</seg>
       </tuv>
@@ -61136,7 +61170,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>For example, if the selected cell is H15, then a row break is created between rows 14 and 15.</seg>
       </tuv>
@@ -61345,7 +61378,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>For example, page order, details, scale to be printed, and so on.</seg>
       </tuv>
@@ -63771,7 +63803,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>For simplicity, these clicks are deliberately omitted from the descriptions in this chapter.</seg>
       </tuv>
@@ -68796,7 +68827,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Header or footer contents</seg>
       </tuv>
@@ -68829,7 +68859,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Headers and footers are predefined pieces of text that are printed at the top or bottom of a sheet outside the sheet area.</seg>
       </tuv>
@@ -68846,7 +68875,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Headers and footers are set the same way, and you can have different content on left and right pages that use the same page style.</seg>
       </tuv>
@@ -71535,7 +71563,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If a spreadsheet is printed on multiple pages, you can define specific rows or columns (for example, headings) to repeat print on each printed page.</seg>
       </tuv>
@@ -74856,7 +74883,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If you clear both boxes, the scaling factor will be 100%.</seg>
       </tuv>
@@ -75849,7 +75875,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If you want to remove all breaks from the spreadsheet:</seg>
       </tuv>
@@ -77442,7 +77467,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In addition to defining a print range for each print job, you can also define a range of cells to be used repeatedly, without having to select a range of cells every time.</seg>
       </tuv>
@@ -78339,7 +78363,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>In the &lt;f0&gt;Defaults&lt;/f0&gt; section, select &lt;f1&gt;Convert colors to grayscale&lt;/f1&gt;.</seg>
       </tuv>
@@ -79484,7 +79507,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In the spreadsheet, click on the sheet tab to select the sheet you want to print.</seg>
       </tuv>
@@ -79501,7 +79523,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In the spreadsheet, select the cells to print.</seg>
       </tuv>
@@ -79510,7 +79531,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In the spreadsheet, select the sheets to print.</seg>
       </tuv>
@@ -81103,7 +81123,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Inserting page breaks</seg>
       </tuv>
@@ -82256,7 +82275,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>It is not necessary to select the whole row.</seg>
       </tuv>
@@ -82641,7 +82659,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>It may become necessary to remove a defined print range, for example if the whole sheet needs to be printed later, or you no longer want to print some of the added ranges.</seg>
       </tuv>
@@ -85267,6 +85284,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Like a line or column chart, an area chart shows values as points on the Y axis and categories on the X axis.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122609Z" creationid="timotheonb" creationdate="20261102T122609Z">
+        <seg>Como um gráfico de linha ou coluna, um gráfico de área mostra valores como pontos no eixo Y e categorias no eixo X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Likewise, floating toolbars can be docked.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250816T111234Z" creationid="timotheonb" creationdate="20250816T111234Z">
@@ -86906,7 +86931,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Make sure the remaining print ranges are separated by a single comma and there is not a comma at the end of the sequence.</seg>
       </tuv>
@@ -86955,7 +86979,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Make sure you have selected the correct sheet within the spreadsheet before setting the print options.</seg>
       </tuv>
@@ -89716,7 +89739,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Multiple cell ranges can also be defined by separating each range with a single comma.</seg>
       </tuv>
@@ -89821,7 +89843,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Multiple manual row and column breaks can exist in the same spreadsheet.</seg>
       </tuv>
@@ -90006,7 +90027,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Named print ranges</seg>
       </tuv>
@@ -91850,8 +91870,16 @@
       <tuv lang="en-US">
         <seg>Of-Pie charts</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T113420Z" creationid="timotheonb" creationdate="20261030T113420Z">
-        <seg>Gráficos de pizza</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T121449Z" creationid="timotheonb" creationdate="20261030T113420Z">
+        <seg>Gráficos Pizza composta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of-pie charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122006Z" creationid="timotheonb" creationdate="20261102T122006Z">
+        <seg>Gráficos de Pizza composta</seg>
       </tuv>
     </tu>
     <tu>
@@ -93927,7 +93955,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Open the Page Style dialog using one of the following methods:</seg>
       </tuv>
@@ -93952,7 +93979,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Open the Print dialog, which will show only the named range in the preview area.</seg>
       </tuv>
@@ -97026,6 +97052,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pie of Pie</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122254Z" creationid="timotheonb" creationdate="20261102T122254Z">
+        <seg>pizza de pizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pie variant options, shown in Figure &lt;t0&gt;3&lt;/t0&gt;, are:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260915T113155Z" creationid="timotheonb" creationdate="20260915T113155Z">
@@ -98922,7 +98956,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Printing a named range</seg>
       </tuv>
@@ -98963,7 +98996,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Printing in grayscale on a color printer</seg>
       </tuv>
@@ -98980,7 +99012,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Printing multiple pages on a single piece of paper</seg>
       </tuv>
@@ -99005,7 +99036,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Printing options for page styles</seg>
       </tuv>
@@ -100742,7 +100772,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Remember to separate the cell references with a colon.</seg>
       </tuv>
@@ -100935,7 +100964,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Removing print ranges</seg>
       </tuv>
@@ -101088,7 +101116,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Repeat printing of rows and columns</seg>
       </tuv>
@@ -104937,7 +104964,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>See your printer’s help or user manual for more information.</seg>
       </tuv>
@@ -105146,7 +105172,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>See “&lt;bf1&gt;Header or footer contents&lt;/bf1&gt;” &lt;bf2&gt;below&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
       </tuv>
@@ -107971,7 +107996,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Select the cell where you want to delete a manual break from the spreadsheet.</seg>
       </tuv>
@@ -107980,7 +108004,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Select the cell where you want to insert a manual break in the spreadsheet.</seg>
       </tuv>
@@ -108790,6 +108813,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the number of entries to be merged into one slice of the original pie chart.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122459Z" creationid="timotheonb" creationdate="20261102T122459Z">
+        <seg>Selecione o número de entradas a serem mescladas em uma fatia do gráfico de pizza original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the number of images per slide in the &lt;f0&gt;Slide layout:&lt;/f0&gt; drop-down list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T191831Z" creationid="timotheonb" creationdate="20250530T191831Z">
@@ -108941,7 +108972,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Select the range of cells to be used in the print range.</seg>
       </tuv>
@@ -109214,7 +109244,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Select the sheet where you want to turn on the header or footer.</seg>
       </tuv>
@@ -110479,7 +110508,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Selecting what to print</seg>
       </tuv>
@@ -111280,7 +111308,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Setting headers and footers</seg>
       </tuv>
@@ -112778,6 +112805,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Similar to the Bar of Pie subtype, this subtype shows a pie chart on the left, with the last entries in the data column aggregated as a "composite" sector.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122326Z" creationid="timotheonb" creationdate="20261102T122326Z">
+        <seg>Semelhante ao subtipo "barra de pizza", este subtipo exibe um gráfico de pizza à esquerda, com as últimas entradas da coluna de dados agregadas como um setor "composto".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Similar to the Standard Toolbar user interface but with a single-line toolbar, intended for use on smaller screens.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260503T173445Z" creationid="olivier" creationdate="20260503T173445Z">
@@ -112817,7 +112852,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Similar to user defined print ranges, it is sufficient to select one cell from the row or column you want to be repeat printed.</seg>
       </tuv>
@@ -113127,6 +113161,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T114029Z" creationid="timotheonb" creationdate="20250530T114029Z">
         <seg>Tamanho e posicionamento de quadros padrão para títulos de slides e conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Size of the composite wedge</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122445Z" creationid="timotheonb" creationdate="20261102T122445Z">
+        <seg>Dimensões da cunha composta</seg>
       </tuv>
     </tu>
     <tu>
@@ -113538,7 +113580,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Some color printers may print in color regardless of the settings you choose.</seg>
       </tuv>
@@ -114144,6 +114185,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260401T012223Z" creationid="firelinux" creationdate="20260401T012223Z">
         <seg>Opções da ordenação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort the data series in descending order to get better results with the of-pie charts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T121837Z" creationid="timotheonb" creationdate="20261102T121751Z">
+        <seg>Ordene as séries de dados em ordem decrescente para obter melhores resultados com os gráficos de Pizza composta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119212,7 +119261,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The Calc window now displays the Print Preview toolbar instead of the Formatting toolbar.</seg>
       </tuv>
@@ -121038,6 +121086,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Y values of each data series are connected by lines and the areas below the lines are colored.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122625Z" creationid="timotheonb" creationdate="20261102T122625Z">
+        <seg>Os valores Y de cada série de dados são conectados por linhas e as áreas abaixo das linhas são coloridas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The above procedure is for sending text documents as an attachment to an email.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T184144Z" creationid="olivier-tdf" creationdate="20250328T184144Z">
@@ -121085,7 +121141,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The actual appearance depends on your computer setup.</seg>
       </tuv>
@@ -121342,7 +121397,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The available choices vary from one printer to another, but you should find options for the color settings.</seg>
       </tuv>
@@ -121599,7 +121653,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The cells on the sheet that are not part of the defined print range are not printed or exported.</seg>
       </tuv>
@@ -121832,7 +121885,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The choices for color might include black and white, or grayscale.</seg>
       </tuv>
@@ -122098,10 +122150,26 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The composite sector is broken down in a bar chart on the right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122207Z" creationid="timotheonb" creationdate="20261102T122207Z">
+        <seg>O setor composto fica detalhado em um gráfico de barras à direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The composite sector is broken down in a bar chart or pie chart on the right.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T113506Z" creationid="timotheonb" creationdate="20261030T113506Z">
         <seg>O setor composto é apresentado num gráfico de barras ou gráfico de pizza à direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The composite sector is displayed on the right as another pie chart.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122351Z" creationid="timotheonb" creationdate="20261102T122351Z">
+        <seg>O setor composto apresenta-se à direita como outro gráfico de pizza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124265,7 +124333,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The headers and footers in a Calc spreadsheet have three columns for text.</seg>
       </tuv>
@@ -125906,7 +125973,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The non-printing area of the spreadsheet normally has a gray background.</seg>
       </tuv>
@@ -126054,8 +126120,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>The of-pie charts are useful when the original pie chart has small values in the last entries.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261030T144835Z" creationid="timotheonb" creationdate="20261030T144835Z">
-        <seg>Os Gráficos pizza de pizza com valores menores (ou "fora de pizza") são úteis quando o gráfico de pizza original apresenta valores pequenos nas últimas entradas.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T121513Z" creationid="timotheonb" creationdate="20261030T144835Z">
+        <seg>Os gráficos Pizza composta são úteis quando o gráfico de pizza original apresenta valores pequenos nas últimas entradas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126803,7 +126869,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The preview panel on the right shows how the pages will look in the printed document.</seg>
       </tuv>
@@ -126860,7 +126925,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The print ranges are always scaled proportionally, so the resulting number of pages may be less than specified.</seg>
       </tuv>
@@ -126869,7 +126933,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The print ranges are outlined by default with a blue border and contain a pale gray page number in the center of each page.</seg>
       </tuv>
@@ -127030,7 +127093,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>The reason is that these names are ambiguous with the R1C1 cell reference notation.</seg>
       </tuv>
@@ -127447,7 +127509,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The scale will be reduced as necessary to fit the defined number of pages.</seg>
       </tuv>
@@ -130328,7 +130389,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>These options are described below.</seg>
       </tuv>
@@ -130726,6 +130786,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250119T143232Z" creationid="tulio" creationdate="20250119T143232Z">
         <seg>Eles apresentam comandos que podem executar um destes comandos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They have greater visual impact than line charts, but the data used will make a difference.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T144445Z" creationid="timotheonb" creationdate="20261102T144445Z">
+        <seg>Eles têm maior impacto visual do que os gráficos de linha, mas os dados usados farão diferença.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131289,7 +131357,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This changes the print settings for all components of LibreOffice, not just Calc.</seg>
       </tuv>
@@ -133423,6 +133490,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261024T212645Z" creationid="olivier" creationdate="20261024T212557Z">
         <seg>Este padrão pode ser acessado no site OASIS (&lt;a1&gt;&lt;f2&gt;https://www.oasis-open.org/&lt;/f2&gt;&lt;/a1&gt;) ou o site da ISO (&lt;a3&gt;&lt;f4&gt;https://www.iso.org/standard/66375.html&lt;/f4&gt;&lt;/a3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This subtype shows a pie chart on the left, with the last entries in the data column aggregated as a "composite" sector.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122139Z" creationid="timotheonb" creationdate="20261102T122139Z">
+        <seg>Este subtipo mostra um gráfico de pizza à esquerda, com as últimas entradas na coluna de dados agregadas como um setor "composto".</seg>
       </tuv>
     </tu>
     <tu>
@@ -135938,7 +136013,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To delete a named print range if it is no longer required:</seg>
       </tuv>
@@ -138395,7 +138469,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To preview the sheets in Calc before printing:</seg>
       </tuv>
@@ -138420,7 +138493,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To print a selection of cells:</seg>
       </tuv>
@@ -138429,7 +138501,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To print an individual sheet:</seg>
       </tuv>
@@ -138454,7 +138525,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To print multiple pages of a spreadsheet on one piece of paper:</seg>
       </tuv>
@@ -139111,7 +139181,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To see manual break lines more easily on your display, you can change their appearance.</seg>
       </tuv>
@@ -139192,7 +139261,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To select a named range for printing:</seg>
       </tuv>
@@ -139473,7 +139541,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To set a user-defined print range:</seg>
       </tuv>
@@ -139938,7 +140005,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To turn the headers or footers on in your spreadsheet:</seg>
       </tuv>
@@ -142723,7 +142789,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Use only letters, numbers, and underscores in the name; no spaces, hyphens, or other characters are allowed.</seg>
       </tuv>
@@ -144484,7 +144549,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Using named print ranges</seg>
       </tuv>
@@ -144493,7 +144557,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Using page styles allows you to quickly set up and change the printing options of different sheets within your spreadsheet.</seg>
       </tuv>
@@ -144510,7 +144573,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Using print ranges</seg>
       </tuv>
@@ -145519,7 +145581,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Viewing print ranges</seg>
       </tuv>
@@ -147977,6 +148038,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When this is the case, the of-pie charts highlights the smaller values of the data series in a separate chart on the right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T121906Z" creationid="timotheonb" creationdate="20261102T121405Z">
+        <seg>Nesse caso, os gráficos de Pizza composta destacam os valores menores da série de dados num gráfico separado à direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When this option is active, any colors assigned in the document are not displayed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261004T153014Z" creationid="olivier" creationdate="20261004T153014Z">
@@ -148128,7 +148197,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When using page styles for your spreadsheets, you can include printing options within the page style.</seg>
       </tuv>
@@ -148929,7 +148997,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>While defining a print range can be a powerful tool, you may sometimes need to manually adjust the page breaks to make sure the spreadsheet prints the way you want it to look.</seg>
       </tuv>
@@ -150690,7 +150757,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can also define named print ranges to use for repeat printing of rows or columns as follows:</seg>
       </tuv>
@@ -150843,7 +150909,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can also place the cursor in the &lt;f0&gt;Columns to Repeat&lt;/f0&gt; box and then, using the mouse, select a cell in each column you want to be repeat printed.</seg>
       </tuv>
@@ -151180,7 +151245,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can change the LibreOffice settings to print all color text and graphics as grayscale:</seg>
       </tuv>
@@ -151549,7 +151613,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can define which range of cells on a spreadsheet are to be printed or exported to a PDF.</seg>
       </tuv>
@@ -151926,7 +151989,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can insert two types of page breaks into a spreadsheet:</seg>
       </tuv>
@@ -152791,7 +152853,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>You cannot start a name with c, C, r, R followed by any number.</seg>
       </tuv>
@@ -152880,7 +152941,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You may clear one of the boxes; then the unspecified dimension will use as many pages as necessary.</seg>
       </tuv>
@@ -153009,7 +153069,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You may wish to print a spreadsheet in grayscale on a color printer.</seg>
       </tuv>
@@ -153559,6 +153618,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260409T134038Z" creationid="timotheonb" creationdate="20260409T134038Z">
         <seg>aplicar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>area</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122506Z" creationid="timotheonb" creationdate="20261102T122506Z">
+        <seg>área</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>area charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T144433Z" creationid="timotheonb" creationdate="20261102T122536Z">
+        <seg>gráficos de área</seg>
       </tuv>
     </tu>
     <tu>
@@ -154722,7 +154797,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>footers and headers</seg>
       </tuv>
@@ -155907,7 +155981,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>options for page styles</seg>
       </tuv>
@@ -156004,7 +156077,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>page breaks, inserting and deleting</seg>
       </tuv>
@@ -156509,7 +156581,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>repeat printing of rows or columns</seg>
       </tuv>
