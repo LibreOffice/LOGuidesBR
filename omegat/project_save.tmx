@@ -4928,6 +4928,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Charts&lt;/f0&gt; – prints the charts that have been inserted into your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114315Z" creationid="olivier" creationdate="20261103T114315Z">
+        <seg>&lt;f0&gt;Gráficos&lt;/f0&gt; – imprime os gráficos que foram inseridos em sua planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Check for Updates&lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; – Opens a dialog and checks the LibreOffice website for updates to your version of the software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260422T001027Z" creationid="firelinux" creationdate="20250729T012329Z">
@@ -5000,6 +5008,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Column and row headers&lt;/f0&gt; – prints the column and row headers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114145Z" creationid="olivier" creationdate="20261103T114145Z">
+        <seg>&lt;f0&gt;Cabeçalhos de linhas e colunas&lt;/f0&gt; – imprime os cabeçalhos de coluna e linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Column break&lt;/f0&gt; – inserts a vertical page break to the left of the selected cell in a column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112447Z" creationid="olivier" creationdate="20261103T112447Z">
+        <seg>&lt;f0&gt;Quebra de coluna&lt;/f0&gt; – insere uma quebra de página vertical à esquerda da célula selecionada em uma coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Column field buttons: &lt;/f0&gt;Stacked in the legend on the right side of the chart.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261013T095952Z" creationid="olivier" creationdate="20261013T095952Z">
@@ -5044,6 +5068,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260320T120251Z" creationid="timotheonb" creationdate="20260320T115941Z">
         <seg>&lt;f0&gt;Anotações&lt;/f0&gt; – cola comentários anexados às células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Comments&lt;/f0&gt; – prints the comments defined in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114242Z" creationid="olivier" creationdate="20261103T114242Z">
+        <seg>&lt;f0&gt;Anotações&lt;/f0&gt; – imprime as anotações definidas na planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5688,6 +5720,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Drawing objects&lt;/f0&gt; – includes all drawing objects in the printed spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114324Z" creationid="olivier" creationdate="20261103T114324Z">
+        <seg>&lt;f0&gt;Objetos de desenho&lt;/f0&gt; – inclui todos os objetos de desenho na planilha impressa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Duration&lt;/f0&gt; — enter a duration time in seconds for slide transition.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T205240Z" creationid="timotheonb" creationdate="20250530T205240Z">
@@ -6184,6 +6224,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;First page number&lt;/f0&gt; – select this option if you want the first page to start with a number other than 1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114122Z" creationid="olivier" creationdate="20261103T114122Z">
+        <seg>&lt;f0&gt;Número da primeira página&lt;/f0&gt; – selecione esta opção se desejar que a primeira página comece com um número diferente de 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Fixed width&lt;/f0&gt; – separates data into columns by a set number of characters.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250907T012509Z" creationid="firelinux" creationdate="20250907T012509Z">
@@ -6544,6 +6592,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Formulas&lt;/f0&gt; – prints the formulas contained in the cells, instead of the results of any formulas used in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114337Z" creationid="olivier" creationdate="20261103T114337Z">
+        <seg>&lt;f0&gt;Fórmulas&lt;/f0&gt; – imprime as fórmulas contidas nas células, em vez dos resultados de quaisquer fórmulas usadas na planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Forward One&lt;/f0&gt; – moves the selected image up one level in the stack.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102136Z" creationid="timotheonb" creationdate="20260901T102112Z">
@@ -6660,6 +6716,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T193549Z" creationid="firelinux" creationdate="20260403T193549Z">
         <seg>&lt;f0&gt;Gradiente&lt;/f0&gt;Defina uma escala de cores entre a cor dos valores positivos (negativos) e o branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Grid&lt;/f0&gt; – prints the borders of the individual cells as a grid.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114154Z" creationid="olivier" creationdate="20261103T114154Z">
+        <seg>&lt;f0&gt;Grade&lt;/f0&gt; – imprime as bordas das células individuais como uma grade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7116,6 +7180,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260411T185825Z" creationid="timotheonb" creationdate="20260411T185825Z">
         <seg>&lt;f0&gt;Zeros à esquerda&lt;/f0&gt; – insira o número máximo de zeros a serem exibidos na frente do ponto decimal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Left to right, then down&lt;/f0&gt; – prints horizontally from the top row of the sheet to the right column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114106Z" creationid="olivier" creationdate="20261103T114106Z">
+        <seg>&lt;f0&gt;Da esquerda para a direita, depois para baixo&lt;/f0&gt; – imprime horizontalmente da linha superior da folha para a coluna direita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7672,6 +7744,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Objects/Images&lt;/f0&gt; – includes all inserted objects (if printable) and graphics with the printed spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114307Z" creationid="olivier" creationdate="20261103T114307Z">
+        <seg>&lt;f0&gt;Objetos e figuras&lt;/f0&gt; – inclui todos os objetos inseridos (se imprimíveis) e figuras com a planilha impressa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Objects&lt;/f0&gt; – pastes objects contained within the selected cell range.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260320T120321Z" creationid="timotheonb" creationdate="20260320T120321Z">
@@ -7844,6 +7924,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250120T004901Z">
         <seg>&lt;f0&gt;Page Down:&lt;/f0&gt; move o foco da célula para baixo numa exibição de tela completa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Page Order&lt;/f0&gt; – defines the order in which data in a sheet is numbered and printed when it does not fit on one printed page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114021Z" creationid="olivier" creationdate="20261103T114021Z">
+        <seg>&lt;f0&gt;Ordem das páginas&lt;/f0&gt; – define a ordem em que os dados em uma planilha são numerados e impressos quando não couberem em uma página impressa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8176,6 +8264,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Print&lt;/f0&gt; – defines which elements of the spreadsheet are to be printed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114134Z" creationid="olivier" creationdate="20261103T114134Z">
+        <seg>&lt;f0&gt;Imprimir&lt;/f0&gt; – define quais elementos da planilha devem ser impressos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Properties deck: &lt;/f0&gt;Contains tools for direct formatting of content.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250113T110939Z" creationid="timot" creationdate="20250113T110939Z">
@@ -8284,6 +8380,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251031T141423Z" creationid="timotheonb" creationdate="20251031T141018Z">
         <seg>&lt;f0&gt;Registrar alterações&lt;/f0&gt; – selecione para exigir que todas as alterações sejam gravadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Reduce/enlarge printout&lt;/f0&gt; – specifies a scaling factor to scale all printed pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114427Z" creationid="olivier" creationdate="20261103T114427Z">
+        <seg>&lt;f0&gt;Reduzir / aumentar impressão&lt;/f0&gt; – especifica um fator de escala para dimensionar todas as páginas impressas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8496,6 +8600,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Row break&lt;/f0&gt; – inserts a horizontal page break above a selected cell in a row.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112431Z" creationid="olivier" creationdate="20261103T112431Z">
+        <seg>&lt;f0&gt;Quebra de linha&lt;/f0&gt; – insere uma quebra de página horizontal acima de uma célula selecionada em uma linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Row field buttons: &lt;/f0&gt;Shown at the bottom of the pivot chart.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261013T095941Z" creationid="olivier" creationdate="20261013T095941Z">
@@ -8580,6 +8692,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231102Z" creationid="olivier" creationdate="20250220T231102Z">
         <seg>&lt;f0&gt;Salvar&lt;/f0&gt; — pode salvar todas as alterações feitas, mantendo o nome do arquivo atual e a localização do arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Scale&lt;/f0&gt; – defines a page scale for the printed spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114356Z" creationid="olivier" creationdate="20261103T114356Z">
+        <seg>&lt;f0&gt;Escala&lt;/f0&gt; – define uma escala de página para a planilha impressa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Scaling mode&lt;/f0&gt; – select a scaling mode in the drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114415Z" creationid="olivier" creationdate="20261103T114415Z">
+        <seg>&lt;f0&gt;Modo de escala&lt;/f0&gt; – selecione um modo de escala na lista suspensa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9744,6 +9872,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Top to bottom, then right&lt;/f0&gt; – prints vertically from the left column to the bottom of the sheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114055Z" creationid="olivier" creationdate="20261103T114055Z">
+        <seg>&lt;f0&gt;De cima para baixo, depois para a direita&lt;/f0&gt; – imprime verticalmente da coluna esquerda até a parte inferior da folha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Top&lt;/f0&gt; – aligns the contents of the cell to the upper edge of the cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T003448Z" creationid="firelinux" creationdate="20260415T003448Z">
@@ -10212,6 +10348,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260120T120052Z" creationid="timotheonb" creationdate="20260120T120052Z">
         <seg>&lt;f0&gt;Você&lt;/f0&gt; também pode definir o intervalo de conteúdo a ser inserido e fornecer mensagens de ajuda explicando as regras de conteúdo.&lt;f1&gt;quando os usuários&lt;/f1&gt; inserem conteúdo inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Zero values&lt;/f0&gt; – specifies that cells with a zero value are printed with a zero (0) in the cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114348Z" creationid="olivier" creationdate="20261103T114348Z">
+        <seg>&lt;f0&gt;Valores zero&lt;/f0&gt; – especifica que as células com valor zero são impressas com zero (0) na célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19400,6 +19544,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A preview of the page order is shown in the graphic on the top right of the dialog in Figure &lt;t1&gt;12&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114037Z" creationid="olivier" creationdate="20261103T114037Z">
+        <seg>Uma prévia da ordem das páginas é mostrada no gráfico no canto superior direito da caixa de diálogo na Figura &lt;t1&gt;12&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A preview of the selected user interface is displayed in the dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T201926Z" creationid="olivier-tdf" creationdate="20250308T201926Z">
@@ -23242,6 +23394,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, go to &lt;f0&gt;View &gt; Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112831Z" creationid="olivier" creationdate="20261103T112831Z">
+        <seg>Alternativamente, vá para &lt;f0&gt;Exibir &gt; Quebra de página&lt;/f0&gt; na barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; View&lt;/f1&gt; on the Menu bar, &lt;f2&gt;check&lt;/f2&gt; the &lt;f3&gt;Formulas&lt;/f3&gt; option in the &lt;f4&gt;Display&lt;/f4&gt; area, and click &lt;f5&gt;OK&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T205923Z" creationid="olivier-tdf" creationdate="20250117T215653Z">
@@ -24395,6 +24555,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Another alternative is to double-click the name of the page style on the Status Bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114008Z" creationid="olivier" creationdate="20261103T114008Z">
+        <seg>Outra opção é clicar duas vezes no nome do estilo de página na barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Another common use for spreadsheet functions is to pull useful information out of a list, such as a series of test scores in a class, or a summary of earnings per quarter for a company.</seg>
       </tuv>
@@ -25264,6 +25433,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250403T172017Z" creationid="olivier-tdf" creationdate="20250403T172017Z">
         <seg>Aplicar estilos com o menu de contexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Appropriate controls for the scaling mode selected will be shown below the drop-down list box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114418Z" creationid="olivier" creationdate="20261103T114418Z">
+        <seg>Os controles apropriados para o modo de escala selecionado serão mostrados abaixo da caixa de lista suspensa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39078,6 +39256,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comments will be printed on a separate page, along with the corresponding cell reference.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114259Z" creationid="olivier" creationdate="20261103T114259Z">
+        <seg>As anotações serão impressas em uma página separada, junto com a referência da célula correspondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Comments, labels, and headings</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T213557Z" creationid="olivier" creationdate="20261020T213557Z">
@@ -44314,11 +44500,29 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Deleting multiple page breaks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113014Z" creationid="olivier" creationdate="20261103T113014Z">
+        <seg>Excluir várias quebras de página</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Deleting one or more of the copies does not affect the other copies of the same file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T204000Z" creationid="timotheonb" creationdate="20260825T204000Z">
         <seg>A exclusão de uma ou mais cópias não afeta as outras cópias do mesmo arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Deleting page breaks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112916Z" creationid="olivier" creationdate="20261103T112916Z">
+        <seg>Excluir quebras de página</seg>
       </tuv>
     </tu>
     <tu>
@@ -49484,6 +49688,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Enter the number of the first page in the box.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114126Z" creationid="olivier" creationdate="20261103T114126Z">
+        <seg>Digite o número da primeira página na caixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Enter the numbers shown in Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;into cells A1:C3 of &lt;f2&gt;Sheet1&lt;/f2&gt; in the new spreadsheet.</seg>
       </tuv>
@@ -49545,6 +49758,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T144439Z" creationid="olivier" creationdate="20250405T144439Z">
         <seg>Digite o endereço da web na caixa de texto &lt;f0&gt;URL&lt;/f0&gt; e um nome para o hiperlink na caixa de texto &lt;f1&gt;Texto&lt;/f1&gt; (Figura &lt;t2&gt;12&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Enter the scaling factor as a percentage in the box, in the range 10% to 400%.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114430Z" creationid="olivier" creationdate="20261103T114430Z">
+        <seg>Insira o fator de escala como uma porcentagem na caixa, na faixa de 10% a 400%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51692,6 +51914,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Factors less than 100% reduce the pages, while higher factors enlarge the pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114434Z" creationid="olivier" creationdate="20261103T114434Z">
+        <seg>Fatores menores que 100% reduzem as páginas, enquanto fatores maiores aumentam as páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Feature</seg>
       </tuv>
@@ -52322,6 +52553,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261012T150210Z" creationid="olivier" creationdate="20261011T122133Z">
         <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: Tabela dinâmica original (topo) e um exemplo &lt;f1&gt;Diferença de&lt;/f1&gt; (embaixo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Page Style dialog – Sheet tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113948Z" creationid="olivier" creationdate="20261103T113948Z">
+        <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: Caixa de diálogo Estilo de página – aba planilha</seg>
       </tuv>
     </tu>
     <tu>
@@ -60730,6 +60970,24 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For example, if the selected cell is H15, then a column break is created between columns G and H.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112451Z" creationid="olivier" creationdate="20261103T112451Z">
+        <seg>Por exemplo, se a célula selecionada for H15, uma quebra de coluna será criada entre as colunas G e H.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For example, if the selected cell is H15, then a row break is created between rows 14 and 15.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112436Z" creationid="olivier" creationdate="20261103T112436Z">
+        <seg>Por exemplo, se a célula selecionada for H15, uma quebra de linha será criada entre as linhas 14 e 15.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For example, if the source values are in currency format, the corresponding cells in the pivot table will also use the currency format.</seg>
       </tuv>
@@ -60927,6 +61185,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T184550Z" creationid="olivier-tdf" creationdate="20250708T184550Z">
         <seg>Por exemplo, abrir um documento, alterar o status de modificado ou mover o cursor do mouse são todos eventos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>For example, page order, details, scale to be printed, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113758Z" creationid="olivier" creationdate="20261103T113758Z">
+        <seg>Por exemplo, ordem das páginas, detalhes, escala a ser impressa e assim por diante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63529,6 +63796,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T234215Z" creationid="vitor" creationdate="20260407T234215Z">
         <seg>Para a fonte de luz selecionada, selecione uma cor na primeira lista suspensa abaixo dos oito botões de fonte de luz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the view on screen, make your selection under &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; View &gt; Grid lines&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114207Z" creationid="olivier" creationdate="20261103T114207Z">
+        <seg>Para a visualização na tela, faça sua seleção em &lt;f1&gt;Ferramentas &gt; Opções &gt; LibreOffice Calc &gt; Exibir &gt; Linhas de grade&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66429,6 +66704,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Page Style&lt;/f0&gt; on the Menu bar to open the Page Style dialog, then click on the &lt;f1&gt;Sheet&lt;/f1&gt; tab (Figure &lt;t2&gt;12&lt;/t2&gt;) to set the printing options for a page style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113914Z" creationid="olivier" creationdate="20261103T113914Z">
+        <seg>Acesse &lt;f0&gt;Formatar &gt; Estilo de página&lt;/f0&gt; na barra de menus para abrir a caixa de diálogo Estilo de página e clique na aba &lt;f1&gt;Planilha&lt;/f1&gt; (Figura &lt;t2&gt;12&lt;/t2&gt;) para definir as opções de impressão para um estilo de página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Format &gt; Page Style&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T201544Z" creationid="olivier-tdf" creationdate="20250209T201544Z">
@@ -67149,6 +67432,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Appearance&lt;/f0&gt; and scroll down to the &lt;f1&gt;Spreadsheet&lt;/f1&gt; section where you can change how page breaks appear.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112633Z" creationid="olivier" creationdate="20261103T112633Z">
+        <seg>Acesse &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Aparência&lt;/f0&gt; e role para baixo até a seção &lt;f1&gt;Planilha&lt;/f1&gt; para alterar como as quebras de página aparecem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Print&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferences &gt; LibreOffice &gt; Print&lt;/f1&gt;) to open the Options LibreOffice Print dialog (Figure &lt;t2&gt;12&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T133731Z" creationid="olivier" creationdate="20250223T133731Z">
@@ -67341,10 +67632,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;View &gt; Normal&lt;/f0&gt; on the Menu bar to return to the standard spreadsheet view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113058Z" creationid="olivier" creationdate="20261103T113058Z">
+        <seg>Acesse &lt;f0&gt;Exibir &gt; Normal&lt;/f0&gt; na barra de menus para retornar à visualização padrão da planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to &lt;f0&gt;View &gt; Normal&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250530T110659Z" creationid="timotheonb" creationdate="20250530T110659Z">
         <seg>Vá para &lt;f0&gt;Exibir &gt; Normal&lt;/f0&gt; na Barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to &lt;f0&gt;View &gt; Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113030Z" creationid="olivier" creationdate="20261103T113030Z">
+        <seg>Acesse &lt;f0&gt;Exibir &gt; Quebra de página&lt;/f0&gt; na barra de menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71146,6 +71453,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T112044Z" creationid="timotheonb" creationdate="20260602T112044Z">
         <seg>Se um estilo de página aplicado for excluído, as planilhas afetadas serão revertidas para o estilo &lt;f0&gt;Padrão&lt;/f0&gt; de página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If an appropriate cell (right of a column break or below a row break) has not been selected, then the &lt;f0&gt;Column Break&lt;/f0&gt; or &lt;f1&gt;Row Break&lt;/f1&gt; options are grayed out.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113010Z" creationid="olivier" creationdate="20261103T113010Z">
+        <seg>Se uma célula apropriada (à direita de uma quebra de coluna ou abaixo de uma quebra de linha) não tiver sido selecionada, as opções &lt;f0&gt;Quebra de coluna&lt;/f0&gt; ou &lt;f1&gt;Quebra de linha&lt;/f1&gt; ficarão acinzentadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75322,6 +75637,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251019T134159Z" creationid="olivier" creationdate="20251019T134159Z">
         <seg>Se quiser proteger a planilha, clique em &lt;f0&gt;Editar &gt; registrar alterações &gt; Proteger&lt;/f0&gt; na barra de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If you want to remove all breaks from the spreadsheet:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113019Z" creationid="olivier" creationdate="20261103T113019Z">
+        <seg>Se deseja remover todas as quebras da planilha:</seg>
       </tuv>
     </tu>
     <tu>
@@ -80567,6 +80891,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T233422Z" creationid="vitor" creationdate="20260329T233422Z">
         <seg>Apenas Inserir ou excluir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Inserting page breaks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112719Z" creationid="olivier" creationdate="20261103T112719Z">
+        <seg>Inserir quebras de página</seg>
       </tuv>
     </tu>
     <tu>
@@ -86413,6 +86746,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Make sure you have selected the correct sheet within the spreadsheet before setting the print options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113818Z" creationid="olivier" creationdate="20261103T113818Z">
+        <seg>Certifique-se de ter selecionado a planilha correta na planilha antes de definir as opções de impressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Make the change to the spreadsheet.</seg>
       </tuv>
@@ -89267,6 +89609,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier" creationdate="20250124T011928Z">
         <seg>Várias linhas de texto podem ser inseridas numa única célula usando quebra automática ou quebras de linha manuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Multiple manual row and column breaks can exist in the same spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113016Z" creationid="olivier" creationdate="20261103T113016Z">
+        <seg>Podem existir várias quebras manuais de linha e coluna na mesma planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98412,6 +98763,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Printing options for page styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113114Z" creationid="olivier" creationdate="20261103T113114Z">
+        <seg>Opções de impressão com estilos de página</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Printing sets “document modified” status</seg>
       </tuv>
@@ -100117,6 +100477,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remember to go to &lt;f3&gt;View &gt; Normal&lt;/f3&gt; on the Menu bar and return to the standard spreadsheet view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112912Z" creationid="olivier" creationdate="20261103T112912Z">
+        <seg>Lembre-se de ir para &lt;f3&gt;Exibir &gt; Normal&lt;/f3&gt; na barra de menus e retorne à visualização padrão da planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remember to release the &lt;f1&gt;Shift&lt;/f1&gt; key before releasing the cursor.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250602T213832Z" creationid="olivier" creationdate="20250602T213832Z">
@@ -101524,6 +101892,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251021T223544Z" creationid="timotheonb" creationdate="20251021T223544Z">
         <seg>Clique com o botão direito no espaço vazio no final das abas da planilha e selecione &lt;f0&gt;Inserir planilha&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click in the spreadsheet and select &lt;f0&gt;Delete Page Breaks&lt;/f0&gt; in the context menu to remove all manual breaks from your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113048Z" creationid="olivier" creationdate="20261103T113048Z">
+        <seg>Clique com o botão direito na planilha e selecione &lt;f0&gt;Excluir quebras de página&lt;/f0&gt; no o menu de contexto para remover todas as quebras manuais de sua planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -103800,6 +104176,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Chapter 4, Using Styles and Templates, for more information about page styles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113814Z" creationid="olivier" creationdate="20261103T113814Z">
+        <seg>Consulte o Capítulo 4, Estilos e modelos, para obter mais informações sobre estilos de página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Chapter 4, Working with Styles, Templates and Hyperlinks, for more information on hyperlinks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250328T001050Z" creationid="olivier" creationdate="20250328T001050Z">
@@ -105213,6 +105597,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200633Z" creationid="olivier-tdf" creationdate="20250209T200633Z">
         <seg>Selecione &lt;f0&gt;Quebra de linha&lt;/f0&gt; para criar uma quebra de página horizontal acima da célula selecionada ou selecione &lt;f1&gt;Quebra de coluna&lt;/f1&gt; para criar uma quebra de página vertical à esquerda da célula selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; to delete a row break from above the cell or &lt;f1&gt;Column Break&lt;/f1&gt; to delete a column break from the left of the cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112940Z" creationid="olivier" creationdate="20261103T112940Z">
+        <seg>Selecione &lt;f0&gt;Quebra de linha&lt;/f0&gt; para excluir uma quebra de linha acima da célula ou &lt;f1&gt;Quebra de coluna&lt;/f1&gt; para excluir uma quebra de coluna à esquerda da célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; to insert a row break above the cell or &lt;f1&gt;Column Break&lt;/f1&gt; to insert a column break to the left of the cell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112818Z" creationid="olivier" creationdate="20261103T112818Z">
+        <seg>Selecione &lt;f0&gt;Quebra de linha&lt;/f0&gt; para inserir uma quebra de linha acima da célula ou &lt;f1&gt;Quebra de coluna&lt;/f1&gt; para inserir uma quebra de coluna à esquerda da célula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107285,6 +107685,32 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T230326Z" creationid="olivier-tdf" creationdate="20250122T230326Z">
         <seg>Selecione a célula que manterá os zeros à esquerda e acesse a caixa de diálogo Formatar células (Figura &lt;t0&gt;24&lt;/t0&gt;) seguindo um destes procedimentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Select the cell where you want to delete a manual break from the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112918Z" creationid="olivier" creationdate="20261103T112918Z">
+        <seg>Selecione a célula da qual deseja excluir uma quebra manual da planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Select the cell where you want to insert a manual break in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112724Z" creationid="olivier" creationdate="20261103T112724Z">
+        <seg>Selecione a célula onde deseja inserir uma quebra manual na planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the cell where you want to insert a manual break, right-click in the spreadsheet and select &lt;f1&gt;Row Break&lt;/f1&gt; or &lt;f2&gt;Column Break&lt;/f2&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112856Z" creationid="olivier" creationdate="20261103T112856Z">
+        <seg>Selecione a célula onde deseja inserir uma quebra manual, clique com o botão direito na planilha e selecione &lt;f1&gt;Quebra de linha&lt;/f1&gt; ou &lt;f2&gt;Quebra de coluna&lt;/f2&gt; no menu de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120350,6 +120776,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The actual appearance depends on your computer setup.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112532Z" creationid="olivier" creationdate="20261103T112532Z">
+        <seg>A aparência real depende da configuração do seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The added cell styles are:</seg>
       </tuv>
@@ -122134,6 +122569,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T124619Z" creationid="timotheonb" creationdate="20260914T124619Z">
         <seg>A caixa de diálogo que se abre dependerá da configuração do seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The dialog title indicates the name of the page style you are about to change.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113937Z" creationid="olivier" creationdate="20261103T113937Z">
+        <seg>A caixa de diálogo indica o estilo de página você está prestes a alterar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -138307,6 +138750,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To see manual break lines more easily on your display, you can change their appearance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112535Z" creationid="olivier" creationdate="20261103T112535Z">
+        <seg>Para ver as linhas de quebra manual mais facilmente em sua tela, você pode alterar sua aparência.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>To see the affected range, press &lt;f0&gt;Ctrl&lt;/f0&gt;+&lt;f1&gt;*&lt;/f1&gt; (multiplication sign on the number pad).</seg>
       </tuv>
@@ -143671,6 +144123,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Using page styles allows you to quickly set up and change the printing options of different sheets within your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113801Z" creationid="olivier" creationdate="20261103T113801Z">
+        <seg>O uso de estilos de página permite que configure e altere rapidamente as opções de impressão de diferentes planilhas em seu documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Using pivot table results elsewhere</seg>
       </tuv>
@@ -145522,6 +145983,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a manual break is inserted, it appears as a blue line or as a bold line between the rows or columns on the display.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112530Z" creationid="olivier" creationdate="20261103T112530Z">
+        <seg>Ao inserir uma quebra manual, ela aparece como uma linha azul ou como uma linha em negrito entre as linhas ou colunas no visor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a manual line break is entered in a cell, the cell row height changes but the cell width does not change and the text may still overlap the end of the cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250128T205622Z" creationid="olivier-tdf" creationdate="20250128T205622Z">
@@ -147286,6 +147755,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250531T101716Z" creationid="timotheonb" creationdate="20250531T101716Z">
         <seg>Ao usar música em uma apresentação, certifique-se de que nenhum direito autoral ou licença para a música esteja sendo violado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>When using page styles for your spreadsheets, you can include printing options within the page style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113117Z" creationid="olivier" creationdate="20261103T113117Z">
+        <seg>Ao utilizar estilos de página para suas planilhas, você pode incluir opções de impressão no estilo de página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -149972,6 +150450,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also open the Page Style dialog by going to the Styles deck of the Sidebar, right-clicking the relevant page style, and selecting &lt;f0&gt;Modify&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T114005Z" creationid="olivier" creationdate="20261103T114005Z">
+        <seg>Você também pode abrir a caixa de diálogo Estilo de página indo para o painel de estilos da barra lateral, clicando com o botão direito do mouse no estilo de página relevante e selecionando &lt;f0&gt;Modificar&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also open this dialog by pressing the &lt;f1&gt;Ctrl+Shift+S&lt;/f1&gt; keyboard shortcut, or by clicking the arrowhead icon to the right of the &lt;f2&gt;Save&lt;/f2&gt; icon on the Standard toolbar and selecting &lt;f3&gt;Save As&lt;/f3&gt; in the drop-down menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T220715Z" creationid="olivier-tdf" creationdate="20250117T123706Z">
@@ -151067,6 +151553,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T200453Z" creationid="olivier-tdf" creationdate="20250209T200453Z">
         <seg>Você pode inserir uma quebra de página horizontal acima ou uma quebra de página vertical à esquerda da célula ativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>You can insert two types of page breaks into a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112418Z" creationid="olivier" creationdate="20261103T112418Z">
+        <seg>Você pode inserir dois tipos de quebras de página em uma planilha:</seg>
       </tuv>
     </tu>
     <tu>
@@ -155016,6 +155511,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>options for page styles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113109Z" creationid="olivier" creationdate="20261103T113109Z">
+        <seg>opções para estilos de página</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>options on Format Cells dialog</seg>
       </tuv>
@@ -155093,6 +155597,23 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260404T160929Z" creationid="firelinux" creationdate="20260404T160929Z">
         <seg>página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>page breaks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112707Z" creationid="olivier" creationdate="20261103T112707Z">
+        <seg>quebras de página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>page breaks, inserting and deleting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T112716Z" creationid="olivier" creationdate="20261103T112716Z">
+        <seg>quebras de página, inserindo e excluindo</seg>
       </tuv>
     </tu>
     <tu>
@@ -155221,6 +155742,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250904T214228Z" creationid="timotheonb" creationdate="20250904T214228Z">
         <seg>Imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>printing options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261103T113103Z" creationid="olivier" creationdate="20261103T113103Z">
+        <seg>opções de impressão</seg>
       </tuv>
     </tu>
     <tu>
