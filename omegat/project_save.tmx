@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_8bd0ce6" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25637,6 +25637,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T123540Z" creationid="timotheonb" creationdate="20260914T123540Z">
         <seg>As propriedades de área e linha, como cor e espessura, são definidas usando um menu de paleta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Area chart variants, shown in Figure &lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;are:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261104T003905Z" creationid="olivier" creationdate="20261104T003905Z">
+        <seg>As variantes do gráfico de área, mostrado na Figura 63são:</seg>
       </tuv>
     </tu>
     <tu>
@@ -68816,6 +68825,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260529T112756Z" creationid="timotheonb" creationdate="20260529T112704Z">
         <seg>Abas Cabeçalho e Rodapé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Header dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261104T003505Z" creationid="olivier" creationdate="20261104T003505Z">
+        <seg>Caixa de diálogo do cabeçalho</seg>
       </tuv>
     </tu>
     <tu>
@@ -130173,6 +130191,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>These icons are explained below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261104T003749Z" creationid="olivier" creationdate="20261104T003749Z">
+        <seg>Estes ícones são explicados abaixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>These images may be used by a file manager under certain conditions.</seg>
       </tuv>
@@ -136718,6 +136745,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To enter customized contents into the header or footer, click in one of the area boxes and type your text, or click in one of the area boxes and click one of the &lt;f0&gt;Custom header&lt;/f0&gt; or &lt;f1&gt;Custom footer&lt;/f1&gt; icons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261104T003732Z" creationid="olivier" creationdate="20261104T003732Z">
+        <seg>Para inserir conteúdos personalizados no cabeçalho ou rodapé, clique numa das caixas de área e digite seu texto, ou clique em uma das caixas de área e clique em um dos ícones &lt;f0&gt;Cabeçalho personalizado&lt;/f0&gt; ou &lt;f1&gt;Rodapé personalizado&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To enter data, simply type in the cell and move to the next cell or press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T215316Z" creationid="olivier" creationdate="20261020T215316Z">
@@ -136746,6 +136781,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T224415Z" creationid="olivier" creationdate="20250327T224415Z">
         <seg>Para inserir espaços que não quebrem, use o atalho de teclado &lt;f0&gt;Ctrl+Barra de espaço&lt;/f0&gt; (macOS&lt;f1&gt;⌘ +Shift+Barra de espaço&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To enter standard contents into the header or footer, select an option from the &lt;f0&gt;Header&lt;/f0&gt; or &lt;f1&gt;Footer&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261104T003640Z" creationid="olivier" creationdate="20261104T003640Z">
+        <seg>Para inserir o conteúdo padrão no cabeçalho ou rodapé, selecione uma opção do &lt;f0&gt;Cabeçalho&lt;/f0&gt; ou &lt;f1&gt;Rodapé&lt;/f1&gt; lista suspensa.</seg>
       </tuv>
     </tu>
     <tu>
