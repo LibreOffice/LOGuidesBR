@@ -11296,6 +11296,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Area chart examples&lt;/s0&gt;&lt;s1&gt;Area chart examples&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114558Z" creationid="timotheonb" creationdate="20261104T114558Z">
+        <seg>&lt;s0&gt;Exemplos de gráfico de área&lt;/s0&gt;&lt;s1&gt;Exemplos de gráfico de área&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Area dialog — Color page&lt;/s0&gt;&lt;s1&gt;Area dialog — Color page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250308T090153Z" creationid="olivier" creationdate="20250308T090153Z">
@@ -21768,6 +21776,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After deselecting the Y axis grid, right-click on each data series in turn and select &lt;f0&gt;Format Data Series&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T115134Z" creationid="timotheonb" creationdate="20261104T115134Z">
+        <seg>Após desmarcar a grade do eixo Y, clique com o botão direito em cada série de dados e selecione &lt;f0&gt;Formatar série de dados&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After doing the steps above, right-click and select &lt;f0&gt;Chart Type&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T115245Z" creationid="timotheonb" creationdate="20261104T115245Z">
+        <seg>Após seguir as etapas acima, clique com o botão direito e selecione &lt;f0&gt;Tipo de gráfico&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After double-clicking on the chart to enter edit mode, select chart elements using one of the following methods:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T212733Z" creationid="vitor" creationdate="20260329T212733Z">
@@ -25641,10 +25665,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Area chart examples</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114727Z" creationid="timotheonb" creationdate="20261104T114727Z">
+        <seg>Exemplos de gráfico de área</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Area chart variants, shown in Figure &lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;are:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="olivier" changedate="20261104T003905Z" creationid="olivier" creationdate="20261104T003905Z">
-        <seg>As variantes do gráfico de área, mostrado na Figura 63são:</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114032Z" creationid="olivier" creationdate="20261104T003905Z">
+        <seg>As variantes do gráfico de área, mostrado na Figura &lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;são:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25653,6 +25685,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20261102T122636Z" creationid="timotheonb" creationdate="20261102T122548Z">
         <seg>gráficos de Área</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Area charts are sometimes tricky to create.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114754Z" creationid="timotheonb" creationdate="20261104T114754Z">
+        <seg>Os gráficos de área às vezes são difíceis de criar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27557,6 +27597,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260525T234858Z" creationid="vitor" creationdate="20260525T234858Z">
         <seg>Beanshell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Because of the data overlap, some of it is missing behind the first data series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114854Z" creationid="timotheonb" creationdate="20261104T114854Z">
+        <seg>Devido à sobreposição de dados, parte deles está atrás da primeira série de dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57827,6 +57875,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Area chart examples</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114612Z" creationid="timotheonb" creationdate="20261104T114612Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: exemplos de gráfico de área</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: AutoFormat dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184702Z" creationid="firelinux" creationdate="20260403T184702Z">
@@ -70516,6 +70572,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, the Y values no longer represent absolute values, except for the first data series, which is shown at the bottom of the stacked areas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114004Z" creationid="timotheonb" creationdate="20261104T114004Z">
+        <seg>No entanto, os valores Y não representam mais valores absolutos, exceto para a primeira série de dados, demonstrada na parte inferior das áreas empilhadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, the different elements in a slide layout can be resized and moved.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250509T093505Z" creationid="timot" creationdate="20250509T093505Z">
@@ -72968,6 +73032,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251103T110055Z" creationid="timotheonb" creationdate="20251103T110055Z">
         <seg>Se os caracteres numéricos não precisarem ser tratados como números nos cálculos (por exemplo, ao inserir códigos postais), digite um apóstrofo (&lt;f0&gt;'&lt;/f0&gt;) antes do número, por exemplo,&lt;f1&gt;'01481&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If one of the series hides valuable information on an area chart, consider reordering the data series in the &lt;f0&gt;Data Series&lt;/f0&gt; tab of the &lt;f1&gt;Data Range&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114414Z" creationid="timotheonb" creationdate="20261104T114414Z">
+        <seg>Se uma das séries oculta informações valiosas num gráfico de área, considere reordenar as séries de dados na aba &lt;f0&gt;Série de dados&lt;/f0&gt; da caixa de diálogos &lt;f1&gt;Intervalo de dados&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81360,6 +81432,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260616T114507Z" creationid="timotheonb" creationdate="20260616T114507Z">
         <seg>Instalar modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instead of a legend, use labels on the Z axis.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T120231Z" creationid="timotheonb" creationdate="20261104T120231Z">
+        <seg>Em vez de uma legenda, use rótulos no eixo Z.</seg>
       </tuv>
     </tu>
     <tu>
@@ -91028,6 +91108,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Normal area charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114743Z" creationid="timotheonb" creationdate="20261104T114743Z">
+        <seg>Gráficos de área normais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Normal print quality</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250223T135700Z" creationid="olivier" creationdate="20250223T135700Z">
@@ -92512,6 +92600,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250210T212557Z" creationid="timot" creationdate="20250210T212557Z">
         <seg>Na guia &lt;f1&gt;Substituir&lt;/f1&gt;, é possível definir quais sequências de texto são corrigidas e de que maneira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the &lt;f1&gt;Transparency&lt;/f1&gt; tab, set Transparency to 50%.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T115159Z" creationid="timotheonb" creationdate="20261104T115159Z">
+        <seg>Na aba &lt;f1&gt;Transparência&lt;/f1&gt;, defina Transparência para 50%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96904,6 +97000,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260314T155947Z" creationid="olivier" creationdate="20260314T155947Z">
         <seg>Porcentagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Percent Stacked</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114129Z" creationid="timotheonb" creationdate="20261104T114013Z">
+        <seg>Porcentagem empilhada</seg>
       </tuv>
     </tu>
     <tu>
@@ -103117,6 +103221,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rotate the chart area using the 3D View dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T120039Z" creationid="timotheonb" creationdate="20261104T120039Z">
+        <seg>Gire a área do gráfico usando a caixa de diálogo Exibição 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rotate the image or flip it horizontally or vertically.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T124219Z" creationid="timotheonb" creationdate="20260914T124219Z">
@@ -105329,6 +105441,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T174817Z" creationid="timotheonb" creationdate="20260821T174817Z">
         <seg>Veja "&lt;bf6&gt;Ordenar figuras&lt;/bf6&gt;” &lt;bf7&gt;abaixo&lt;/bf7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “Setting data series ranges” in Chapter 6 – “Creating Charts and Graphs”.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114538Z" creationid="timotheonb" creationdate="20261104T114538Z">
+        <seg>Consulte “Definir intervalos de séries de dados” no Capítulo 6 – “Criar gráficos”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107873,6 +107993,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T143022Z" creationid="olivier" creationdate="20250405T143022Z">
         <seg>Selecione o &lt;f0&gt;&lt;/f0&gt;modelo e clique em &lt;f1&gt;Abrir&lt;/f1&gt; para importar o modelo para a categoria selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the &lt;f1&gt;3D Look&lt;/f1&gt; option and select &lt;f2&gt;Realistic&lt;/f2&gt; in the drop-down list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T115834Z" creationid="timotheonb" creationdate="20261104T115834Z">
+        <seg>Selecione a opção &lt;f1&gt;Aparência 3D&lt;/f1&gt; e &lt;f2&gt;Realista&lt;/f2&gt; na lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115477,10 +115605,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stacked area charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T120238Z" creationid="timotheonb" creationdate="20261104T120238Z">
+        <seg>Gráficos de Área empilhado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stacks charts or other objects in front of or behind other objects.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T113148Z" creationid="vitor" creationdate="20260412T113148Z">
         <seg>Empilha gráficos ou outros objetos na frente ou atrás de outros objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stacks cumulative values on each other and also scales the values as percentages of the category total.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114200Z" creationid="timotheonb" creationdate="20261104T114037Z">
+        <seg>Empilha valores cumulativos entre si e também dimensiona os valores como porcentagens do total da categoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121894,6 +122038,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The chart on the left shows the result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114834Z" creationid="timotheonb" creationdate="20261104T114834Z">
+        <seg>O gráfico à esquerda mostra o resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The chart on the right in Figure &lt;t0&gt;24&lt;/t0&gt;&lt;s1/&gt;shows how the colors change to reflect the conditional formatting.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260417T000838Z" creationid="vitor" creationdate="20260404T201339Z">
@@ -126622,6 +126774,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The other examples are better solutions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114913Z" creationid="timotheonb" creationdate="20261104T114913Z">
+        <seg>Os outros exemplos são soluções melhores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The other options include searching only in selected text, searching from the current cursor position backwards toward the beginning of the file, searching for similar words, searching in comments, and using regular expressions (wildcards).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250204T105408Z" creationid="timot" creationdate="20250204T105408Z">
@@ -128770,6 +128930,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T111032Z" creationid="timotheonb" creationdate="20260529T172837Z">
         <seg>A transição para a configuração à direita da figura requer apenas uma alteração cosmética no texto da célula B1 e a seleção do tema &lt;f3&gt;Sunset&lt;/f3&gt; via &lt;f4&gt;Formatar &gt; Tema&lt;/f4&gt; na Barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The transparency makes it easy to see the data hidden behind the first data series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T115221Z" creationid="timotheonb" creationdate="20261104T115221Z">
+        <seg>A transparência facilita a visualização dos dados ocultos atrás da primeira série de dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132486,6 +132654,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is probably not desirable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114904Z" creationid="timotheonb" creationdate="20261104T114904Z">
+        <seg>Isso provavelmente não é desejável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is recommended if you are printing the PDF file as a double-sided document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221842Z" creationid="olivier" creationdate="20250324T221842Z">
@@ -135946,6 +136122,30 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T225229Z" creationid="vitor" creationdate="20260329T225229Z">
         <seg>Para criar ou alterar o texto de um título de gráfico, subtítulo ou nome do eixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To create the chart in the center:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114926Z" creationid="timotheonb" creationdate="20261104T114926Z">
+        <seg>Para criar o gráfico no centro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To create the chart on the right:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T115226Z" creationid="timotheonb" creationdate="20261104T115226Z">
+        <seg>Para criar o gráfico à direita:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To create the charts in Figure &lt;t0&gt;9&lt;/t0&gt;, first set up the basic chart using the Chart Wizard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114828Z" creationid="timotheonb" creationdate="20261104T114828Z">
+        <seg>Para criar os gráficos da Figura &lt;t0&gt;9&lt;/t0&gt;, primeiro configure o gráfico básico usando o Assistente de gráficos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145234,6 +145434,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260417T000820Z" creationid="vitor" creationdate="20260404T201119Z">
         <seg>Usando esta fórmula, quando o valor na coluna B é maior que 100, o ajuste do primeiro RGB será aplicado a cor para o ponto de dados no gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using transparency values may be helpful.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T114802Z" creationid="timotheonb" creationdate="20261104T114802Z">
+        <seg>Usar valores de transparência pode ser útil.</seg>
       </tuv>
     </tu>
     <tu>
