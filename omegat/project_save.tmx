@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_8bd0ce6" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1258,6 +1258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T104745Z" creationid="olivier" creationdate="20261025T104745Z">
         <seg>36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3D</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="vitor" changedate="20261104T002948Z" creationid="vitor" creationdate="20261104T002948Z">
+        <seg>3D</seg>
       </tuv>
     </tu>
     <tu>
