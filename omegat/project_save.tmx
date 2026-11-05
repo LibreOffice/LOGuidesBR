@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4256,6 +4256,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;All&lt;/f0&gt;&lt;f1&gt;:&lt;/f1&gt; Exports the entire document to PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T180700Z" creationid="olivier" creationdate="20261105T180700Z">
+        <seg>&lt;f0&gt;Todas as páginas&lt;/f0&gt;&lt;f1&gt;:&lt;/f1&gt; Exporta todo o documento para PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Allow empty cells&lt;/f0&gt; – in conjunction with &lt;f1&gt;Tools &gt; Detective &gt; Mark Invalid Data&lt;/f1&gt;, this defines that blank cells are shown as invalid data (disabled) or not shown (enabled).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260120T121547Z" creationid="timotheonb" creationdate="20260120T121547Z">
@@ -5436,6 +5444,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251108T180125Z" creationid="timotheonb" creationdate="20251108T180125Z">
         <seg>&lt;f0&gt;Data&lt;/f0&gt; – cria uma série de datas usando o incremento definido e a data final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Date&lt;/f0&gt; – inserts a placeholder in the selected area for the current date, which will be repeated in the header/footer on each page of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175019Z" creationid="olivier" creationdate="20261105T175019Z">
+        <seg>&lt;f0&gt;Data&lt;/f0&gt; – insere um espaço reservado na área selecionada para a data atual, que será repetido no cabeçalho / rodapé de cada página da planilha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6936,6 +6952,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Hybrid PDF (embed ODF file)&lt;/f0&gt;: Use this setting to export the document as a PDF file containing two file formats: PDF and ODF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183422Z" creationid="olivier" creationdate="20261105T183422Z">
+        <seg>&lt;f0&gt;PDF híbrido (arquivo ODF incorporado)&lt;/f0&gt;: Use esta configuração para exportar o documento como um arquivo PDF contendo dois formatos de arquivo: PDF e ODF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Hyphenation active&lt;/f0&gt; – enables word hyphenation for text wrapping to the next line.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T003633Z" creationid="firelinux" creationdate="20260415T003633Z">
@@ -7132,6 +7156,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250731T011159Z" creationid="firelinux" creationdate="20250731T011159Z">
         <seg>&lt;f0&gt;Caractere inválido na fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;JPEG compression&lt;/f0&gt;: Allows for varying degrees of quality, in the range 1 to 100%.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183332Z" creationid="olivier" creationdate="20261105T183332Z">
+        <seg>&lt;f0&gt;Compressão JPEG&lt;/f0&gt;: Permite vários graus de qualidade, na faixa de 1 a 100%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7412,6 +7444,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251023T213056Z" creationid="timotheonb" creationdate="20251023T213056Z">
         <seg>&lt;f0&gt;Localização&lt;/f0&gt; – exibe o caminho e o nome do diretório onde o arquivo está armazenado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Lossless compression&lt;/f0&gt;: Images are stored without any loss of quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183317Z" creationid="olivier" creationdate="20261105T183317Z">
+        <seg>&lt;f0&gt;Compressão sem perdas&lt;/f0&gt;: As imagens são armazenadas sem perda de qualidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7984,6 +8024,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;PDF Version&lt;/f0&gt;: PDF/A is an ISO standard for long-term preservation of documents, by embedding all the information necessary for faithful reproduction (such as fonts) while forbidding other elements (including forms, security, and encryption).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183508Z" creationid="olivier" creationdate="20261105T183508Z">
+        <seg>&lt;f0&gt;Versão PDF&lt;/f0&gt;: PDF / A é um padrão ISO para preservação de longo prazo de documentos, incorporando todas as informações necessárias para a reprodução fiel (como fontes), enquanto proíbe outros elementos (incluindo formulários, segurança e criptografia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Padding&lt;/f0&gt; – specify the amount of space that you want to leave between the border and the contents of the cell.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T003700Z" creationid="firelinux" creationdate="20260415T003700Z">
@@ -8060,6 +8108,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260314T153106Z" creationid="olivier" creationdate="20260314T153106Z">
         <seg>&lt;f0&gt;Page&lt;/f0&gt; &lt;f1&gt;Up&lt;/f1&gt; (abreviado para “Pg Up” nas tabelas a seguir)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Page&lt;/f0&gt; – inserts a placeholder in the selected area for the page number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175000Z" creationid="olivier" creationdate="20261105T175000Z">
+        <seg>&lt;f0&gt;Página&lt;/f0&gt; – insere um espaço reservado na área selecionada para o número da página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Pages&lt;/f0&gt; – inserts a placeholder in the selected area for the total number of pages in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175011Z" creationid="olivier" creationdate="20261105T175011Z">
+        <seg>&lt;f0&gt;Páginas&lt;/f0&gt; – insere um espaço reservado na área selecionada para o número total de páginas da planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Pages&lt;/f0&gt;&lt;f1&gt;:&lt;/f1&gt; To export a range of pages within a selected sheet, use the format 3-6 (pages 3 to 6).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183140Z" creationid="olivier" creationdate="20261105T183140Z">
+        <seg>&lt;f0&gt;Páginas&lt;/f0&gt;&lt;f1&gt;:&lt;/f1&gt; Para exportar um intervalo de páginas dentro de uma planilha selecionada, use o formato 3-6 (páginas 3 a 6).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8460,6 +8532,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251031T141423Z" creationid="timotheonb" creationdate="20251031T141018Z">
         <seg>&lt;f0&gt;Registrar alterações&lt;/f0&gt; – selecione para exigir que todas as alterações sejam gravadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Reduce image resolution&lt;/f0&gt;: Select the required value from the options in the drop-down menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183345Z" creationid="olivier" creationdate="20261105T183345Z">
+        <seg>&lt;f0&gt;Reduzir a resolução da imagem&lt;/f0&gt;: Selecione o valor necessário nas opções do menu suspenso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8888,6 +8968,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Selection/Selected sheet(s)&lt;/f0&gt;: Exports the selected sheets only.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183219Z" creationid="olivier" creationdate="20261105T183219Z">
+        <seg>&lt;f0&gt;Seleção/planilha(s) selecionada (s)&lt;/f0&gt;: Exporta apenas as planilhas selecionadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Send Feedback&lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; – Opens your default browser at the Feedback page of the LibreOffice website &lt;a2&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250729T011832Z" creationid="firelinux" creationdate="20250729T011832Z">
@@ -8972,6 +9060,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260831T235728Z" creationid="vitor" creationdate="20260722T005021Z">
         <seg>&lt;f0&gt;Planilha &gt; Circular Entre Tipos de Referências de Célula&lt;/f0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Sheet Name&lt;/f0&gt; – inserts a placeholder in the selected area for the sheet name of the selected sheet in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T174952Z" creationid="olivier" creationdate="20261105T174952Z">
+        <seg>&lt;f0&gt;Nome da planilha&lt;/f0&gt; – insere um espaço reservado na área selecionada para o nome da planilha selecionada do documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9140,6 +9236,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T003637Z" creationid="firelinux" creationdate="20260415T003637Z">
         <seg>&lt;f0&gt;Reduzir para ajustar ao tamanho da célula&lt;/f0&gt; – reduz o tamanho aparente da fonte para que o conteúdo da célula caiba na largura atual da célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Sign with watermark&lt;/f0&gt;: When this option is selected, a transparent overlay of the text you enter into the text box will appear on each page of the PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183406Z" creationid="olivier" creationdate="20261105T183406Z">
+        <seg>&lt;f0&gt;Assine com marca d'água&lt;/f0&gt;: Quando esta opção é selecionada, uma sobreposição transparente do texto inserido na caixa de texto aparecerá em cada página do PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9584,6 +9688,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Text Attributes&lt;/f0&gt; – opens a Text Attributes dialog where you can assign formats to new or selected text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T174830Z" creationid="olivier" creationdate="20261105T174830Z">
+        <seg>&lt;f0&gt;Atributos de Texto&lt;/f0&gt; – abre uma caixa de diálogo Atributos de texto, para atribuir formatos a um texto novo ou selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Text Extension From Lower Cell Border&lt;/f0&gt; – writes the rotated text from the bottom cell edge outwards.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T184059Z" creationid="firelinux" creationdate="20260403T184059Z">
@@ -9800,6 +9912,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Time&lt;/f0&gt; – inserts a placeholder in the selected area for the current time, which will be repeated in the header/footer on each page of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175035Z" creationid="olivier" creationdate="20261105T175035Z">
+        <seg>&lt;f0&gt;Hora&lt;/f0&gt; – insere um espaço reservado na área selecionada para a hora atual, que será repetido no cabeçalho / rodapé de cada página da planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Title&lt;/f0&gt; – enter a title for the spreadsheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251023T214042Z" creationid="timotheonb" creationdate="20251023T214042Z">
@@ -9820,6 +9940,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260303T114650Z" creationid="timotheonb" creationdate="20260303T114650Z">
         <seg>&lt;f0&gt;Título&lt;/f0&gt; – insira o título que será exibido quando a célula ou o intervalo de células for selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Title&lt;/f0&gt; – inserts a file name placeholder in the selected area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T174904Z" creationid="olivier" creationdate="20261105T174904Z">
+        <seg>&lt;f0&gt;Título&lt;/f0&gt; – insere um espaço reservado para o nome do arquivo na área selecionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10136,6 +10264,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Universal Accessibility (PDF/UA)&lt;/f0&gt;: Use this setting to create a universal accessibility-compliant PDF file that follows the requirements of the PDF/UA standard (formerly ISO 14289).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183728Z" creationid="olivier" creationdate="20261105T183728Z">
+        <seg>&lt;f0&gt;Acessibilidade Universal (PDF/UA)&lt;/f0&gt;: use esta configuração para criar um arquivo PDF compatível com acessibilidade universal que siga os requisitos do padrão PDF/UA (anteriormente ISO 14289).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Up&lt;/f0&gt; or &lt;f1&gt;Down Arrow&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134201Z" creationid="olivier-tdf" creationdate="20250303T134201Z">
@@ -10316,6 +10452,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260715T004803Z" creationid="vitor" creationdate="20260715T004647Z">
         <seg>&lt;f0&gt;Exibir &gt; Destacar valores&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;View PDF after export&lt;/f0&gt;: If selected, your default PDF viewer will open and display the newly exported PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183304Z" creationid="olivier" creationdate="20261105T183304Z">
+        <seg>&lt;f0&gt;Visualizar o PDF depois de exportar&lt;/f0&gt;: Se selecionado, o visualizador de PDF padrão abrirá e exibirá o PDF recém-exportado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14948,6 +15092,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250502T202352Z" creationid="timotheonb" creationdate="20250502T202352Z">
         <seg>&lt;s0&gt;Barra de ferramentas de Tópicos&lt;/s0&gt;&lt;s1&gt;Barra de ferramentas de Tópicos&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;PDF Options dialog – General tab&lt;/s0&gt;&lt;s1&gt;PDF Options dialog – General tab&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T180021Z" creationid="olivier" creationdate="20261105T180021Z">
+        <seg>&lt;s0&gt;PDF Options dialog – General aba&lt;/s0&gt;&lt;s1&gt;PDF Options dialog – General aba&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19919,6 +20071,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>A setting of 90% works well with photographs (small file size, little perceptible loss of quality).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183337Z" creationid="olivier" creationdate="20261105T183337Z">
+        <seg>Uma configuração de 90% funciona bem com fotografias (tamanho de arquivo pequeno, pouca perda perceptível de qualidade).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>A sheet can be renamed using one of the following methods:</seg>
       </tuv>
@@ -22932,6 +23093,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250116T214127Z" creationid="olivier-tdf" creationdate="20250116T214127Z">
         <seg>Também prevê a mesclagem de células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also select which version of the standard to use, &lt;f1&gt;PDF/A-1b (PDF 1.4 base)&lt;/f1&gt;, &lt;f2&gt;PDF/A-2b (PDF 1.7 base)&lt;/f2&gt;, &lt;s3/&gt;&lt;f4&gt;PDF/ A-3b (PDF 1.7 base) &lt;/f4&gt;or&lt;f5&gt; PDF/A-4 (PDF 2.0 Base)&lt;/f5&gt;, which is the default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183704Z" creationid="olivier" creationdate="20261105T183704Z">
+        <seg>Selecione também qual versão do padrão usar, &lt;f1&gt;PDF/A-1b (PDF 1.4 base)&lt;/f1&gt;, &lt;f2&gt;PDF/A-2b (PDF 1.7 base)&lt;/f2&gt;, &lt;s3/&gt;&lt;f4&gt;PDF/ A-3b (PDF 1.7 base) &lt;/f4&gt;ou&lt;f5&gt; PDF/A-4 (PDF 2.0 BASE)&lt;/f5&gt;, que é o padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28552,6 +28721,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>By default, a document in PDF format is not protected against contents tampering or editing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175053Z" creationid="olivier" creationdate="20261105T175053Z">
+        <seg>Normalmente, um documento em formato PDF não é protegido contra adulteração ou edição de conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>By default, a file in PDF format is not protected against contents tampering, or editing.</seg>
       </tuv>
@@ -29413,6 +29591,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250209T172149Z">
         <seg>O Calc pode alterar os formatos das células dependendo de condições especificadas pelo usuário, e essas condições podem ser impostas numa ordem especificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Calc can export documents to PDF (Portable Document Format).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175044Z" creationid="olivier" creationdate="20261105T175044Z">
+        <seg>O Calc pode exportar documentos para PDF (Portable Document Format).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34233,6 +34420,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the changes to text attributes and close the Text Attributes dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T174715Z" creationid="olivier" creationdate="20261105T174715Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar as alterações nos atributos de texto e fechar a caixa de diálogo Atributos de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the changes to the contents of the header or footer and close the Header or Footer dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T174728Z" creationid="olivier" creationdate="20261105T174728Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar as alterações no conteúdo do cabeçalho ou rodapé e fechar a caixa de diálogo Cabeçalho ou Rodapé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the changes to the menu and close the Customize dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T214043Z" creationid="olivier" creationdate="20250307T214043Z">
@@ -34245,6 +34448,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250307T224012Z" creationid="olivier" creationdate="20250307T224012Z">
         <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar as alterações na barra de ferramentas e fechar a caixa de diálogo Personalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the changes to your header or footer and close the Page Style dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T174759Z" creationid="olivier" creationdate="20261105T174759Z">
+        <seg>Clique em &lt;f0&gt;OK&lt;/f0&gt; para salvar as alterações no cabeçalho ou rodapé e fechar a caixa de diálogo Estilo da página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34949,6 +35160,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250719T115758Z" creationid="olivier" creationdate="20250719T115758Z">
         <seg>Clique e segure o botão esquerdo do mouse para criar o ponto inicial da curva e, em seguida, arraste do ponto inicial para desenhar uma linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click and select either &lt;f1&gt;Title&lt;/f1&gt;, &lt;f2&gt;File Name&lt;/f2&gt;, or &lt;f3&gt;Path/File Name&lt;/f3&gt; in the drop-down menu that opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T174936Z" creationid="olivier" creationdate="20261105T174936Z">
+        <seg>Clique e selecione &lt;f1&gt;Título&lt;/f1&gt;, &lt;f2&gt;Nome do arquivo&lt;/f2&gt;, ou &lt;f3&gt;Caminho / nome do arquivo&lt;/f3&gt; no o menu suspenso aberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37701,6 +37920,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T194823Z" creationid="olivier-tdf" creationdate="20250708T194823Z">
         <seg>Clique no botão &lt;f0&gt;Editar&lt;/f0&gt; na caixa de diálogo Macros do BeanShell para acessar a Janela de Depuração do BeanShell (Figura &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Export Directly as PDF&lt;/f0&gt; icon on the Standard toolbar to export the entire spreadsheet using the PDF settings most recently selected on the PDF Options dialog (see below).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175253Z" creationid="olivier" creationdate="20261105T175253Z">
+        <seg>Clique no ícone &lt;f0&gt;Exportar diretamente como PDF&lt;/f0&gt; na barra de ferramentas Padrão para exportar a planilha inteira usando as configurações de PDF selecionadas anteriormente na caixa de diálogo Opções de PDF (veja abaixo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40477,6 +40704,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T214158Z" creationid="olivier" creationdate="20250324T214158Z">
         <seg>Controle da Exportação PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Controlling PDF content and quality</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175403Z" creationid="olivier" creationdate="20261105T175403Z">
+        <seg>Controle do conteúdo e da qualidade do PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -51938,6 +52174,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Exporting to PDF</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175040Z" creationid="olivier" creationdate="20261105T175040Z">
+        <seg>Exportar para PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Exporting values and formulas as a CSV file</seg>
       </tuv>
@@ -53543,6 +53788,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250318T190101Z" creationid="olivier" creationdate="20250318T190101Z">
         <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: Caixa de diálogo Opções Carregar/Salvar — Página de compatibilidade HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: PDF Options dialog – General tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T180627Z" creationid="olivier" creationdate="20261105T180627Z">
+        <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: Caixa de diálogo Opções do PDF – aba Geral</seg>
       </tuv>
     </tu>
     <tu>
@@ -62972,6 +63225,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more control over the content and quality of the resulting PDF, use &lt;f0&gt;File &gt; Export as PDF&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175416Z" creationid="olivier" creationdate="20261105T175416Z">
+        <seg>Para obter mais controle sobre o conteúdo e a qualidade do PDF resultante, use &lt;f0&gt;Arquivo &gt; Exportar como PDF&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more detail about this dialog, see Chapter 2, Entering and Editing Data in the &lt;f2&gt;Calc Guide&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215617Z" creationid="olivier" creationdate="20250123T215617Z">
@@ -63876,6 +64137,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see the &lt;f2&gt;Getting Started Guide&lt;/f2&gt; or the Help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T180016Z" creationid="olivier" creationdate="20261105T180016Z">
+        <seg>Para obter mais informações, consulte o &lt;f2&gt;Guia do Iniciante&lt;/f2&gt; ou a Ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information, see the Help.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250309T193458Z" creationid="olivier-tdf" creationdate="20250309T193458Z">
@@ -64448,6 +64717,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250111T195726Z" creationid="timot" creationdate="20250111T195726Z">
         <seg>Criação e preenchimento de formulários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Form section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183810Z" creationid="olivier" creationdate="20261105T183810Z">
+        <seg>Seção Formulário</seg>
       </tuv>
     </tu>
     <tu>
@@ -66011,11 +66288,29 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>General section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183408Z" creationid="olivier" creationdate="20261105T183408Z">
+        <seg>Seção Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>General tab</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260411T184749Z" creationid="timotheonb" creationdate="20260226T112402Z">
         <seg>Aba Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>General tab of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175825Z" creationid="olivier" creationdate="20261105T175825Z">
+        <seg>Aba Geral da caixa de diálogo Opções de PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -69859,6 +70154,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Higher DPI settings can greatly increase the size of the exported file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183351Z" creationid="olivier" creationdate="20261105T183351Z">
+        <seg>Configurações de DPI mais altas podem aumentar muito o tamanho do arquivo exportado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Higher DPI settings increase the size of the exported file.</seg>
       </tuv>
@@ -71992,6 +72296,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T151822Z" creationid="olivier" creationdate="20250405T121417Z">
         <seg>Se um modelo estiver num local diferente no computador, ele deverá ser importado para uma categoria do LibreOffice para que o LibreOffice o reconheça como modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>If a title has not be assigned to the spreadsheet, the file name for the spreadsheet will be inserted instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T174940Z" creationid="olivier" creationdate="20261105T174940Z">
+        <seg>Se um título não tiver sido atribuído à planilha, o nome do arquivo da planilha será inserido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76659,6 +76972,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Images section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183309Z" creationid="olivier" creationdate="20261105T183309Z">
+        <seg>Seção Imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Images, Graphics, Gallery, Drawing Tools, Fontwork</seg>
       </tuv>
@@ -77600,6 +77922,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261008T131916Z" creationid="olivier" creationdate="20261008T131916Z">
         <seg>No LibreOffice, quando algo acontece, dizemos que ocorreu um evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In PDF viewers it behaves like a normal PDF file, and it remains fully editable in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183425Z" creationid="olivier" creationdate="20261105T183425Z">
+        <seg>Em visualizadores de PDF, ele se comporta como um arquivo PDF normal e permanece totalmente editável no LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85080,6 +85411,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T231053Z" creationid="olivier" creationdate="20250220T231053Z">
         <seg>Os documentos do LibreOffice podem ser salvos com um dos seguintes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>LibreOffice does not check accessibility issues in spreadsheets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183756Z" creationid="olivier" creationdate="20261105T183756Z">
+        <seg>O LibreOffice não verifica problemas de acessibilidade em planilhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -92716,6 +93056,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab (Figure &lt;t1&gt;15&lt;/t1&gt;), you can choose which pages to include in the PDF, the type of compression to use for images (which affects the quality of images in the PDF), and other options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175957Z" creationid="olivier" creationdate="20261105T175957Z">
+        <seg>Na aba &lt;f0&gt;Geral&lt;/f0&gt; (Figura &lt;t1&gt;15&lt;/t1&gt;), você pode escolher quais páginas incluir no PDF, o tipo de compactação a ser usado para imagens (que afeta a qualidade das imagens no PDF) e outras opções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab of the PDF Options dialog (Figure &lt;t1&gt;11&lt;/t1&gt;), select the option &lt;f2&gt;Whole sheet export&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250117T221513Z" creationid="olivier-tdf" creationdate="20250117T221513Z">
@@ -96147,6 +96495,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>Other options such as page range and image compression are not available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175312Z" creationid="olivier" creationdate="20261105T175312Z">
+        <seg>Outras opções, como intervalo de páginas e compactação de imagem, não estão disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Other pages contain options for gradient, bitmap, pattern, hatch, transparency, and borders.</seg>
       </tuv>
@@ -96484,6 +96841,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175342Z" creationid="olivier" creationdate="20261105T175342Z">
+        <seg>A caixa de diálogo Opções de PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PDF Options dialog – General tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T180638Z" creationid="olivier" creationdate="20261105T180638Z">
+        <seg>Caixa de diálogo Opções do PDF – aba Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PDF Options dialog — Digital Signatures page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201201Z" creationid="olivier" creationdate="20250325T201201Z">
@@ -96552,6 +96925,23 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T213438Z" creationid="olivier" creationdate="20250324T213438Z">
         <seg>Exportação rápida de PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>PDF tags are written.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183516Z" creationid="olivier" creationdate="20261105T183516Z">
+        <seg>Marcas de PDF são gravadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PDF, exporting to</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175230Z" creationid="olivier" creationdate="20261105T175230Z">
+        <seg>PDF, exportar para</seg>
       </tuv>
     </tu>
     <tu>
@@ -100140,6 +100530,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Quick export to PDF</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175234Z" creationid="olivier" creationdate="20261105T175234Z">
+        <seg>Exportação rápida para PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Quick font resizing</seg>
       </tuv>
@@ -100348,6 +100747,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Range section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T180641Z" creationid="olivier" creationdate="20261105T180641Z">
+        <seg>Seção Intervalo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Ranges, scenarios, pictures, and other objects are much easier to find if you have given them informative names when creating them, instead of keeping the default Calc names, for example Scenario 1, Image 1, Image 2, Object 1, and so on.</seg>
       </tuv>
@@ -100457,6 +100865,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203256Z" creationid="olivier-tdf" creationdate="20250328T203256Z">
         <seg>Recomendar proteção por senha ao salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Recommended for other kinds of images or graphics.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183323Z" creationid="olivier" creationdate="20261105T183323Z">
+        <seg>Recomendado para outros tipos de imagens ou figuras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -104701,6 +105118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See &lt;f1&gt;Selecting Sheets&lt;/f1&gt; in Chapter 1, Introduction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183250Z" creationid="olivier" creationdate="20261105T183250Z">
+        <seg>Consulte &lt;f1&gt;Seleciona planilhas&lt;/f1&gt; no Capítulo 1, Introdução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See &lt;f2&gt;&lt;bf3&gt;Using the Navigator&lt;/bf3&gt;&lt;/f2&gt;&lt;s4/&gt;on page &lt;bf5&gt;29&lt;/bf5&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250907T002511Z" creationid="firelinux" creationdate="20250907T002511Z">
@@ -108433,6 +108858,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T193019Z" creationid="olivier" creationdate="20260930T193019Z">
         <seg>Selecione as opções [S] para converter objetos OLE do LibreOffice nos objetos OLE correspondentes da Microsoft quando um documento for salvo num formato Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the appropriate settings, and then click &lt;f7&gt;Export&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175653Z" creationid="olivier" creationdate="20261105T175653Z">
+        <seg>Selecione as configurações apropriadas e clique em &lt;f7&gt;Exportar&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120973,11 +121406,29 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The PDF Options dialog opens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175419Z" creationid="olivier" creationdate="20261105T175419Z">
+        <seg>A caixa de diálogo Opções de PDF é aberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The PDF Options dialog’s &lt;f0&gt;Digital Signatures&lt;/f0&gt; page in Figure &lt;t1&gt;7&lt;/t1&gt; specifies how the exported PDF file can be digitally signed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201022Z" creationid="olivier" creationdate="20250325T201022Z">
         <seg>A página &lt;f0&gt;Assinaturas Digitais&lt;/f0&gt; da caixa de diálogo Opções de PDF na Figura &lt;t1&gt;7&lt;/t1&gt; especifica como o arquivo PDF exportado pode ser assinado digitalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The PDF document contents can be edited by specialized software tools, including LibreOffice Draw.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175057Z" creationid="olivier" creationdate="20261105T175057Z">
+        <seg>O conteúdo do documento PDF pode ser editado por ferramentas de software especializadas, incluindo o LibreOffice Draw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121586,6 +122037,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T122213Z" creationid="timotheonb" creationdate="20260602T122213Z">
         <seg>A caixa de diálogo Modelos (Figura &lt;t4&gt;21&lt;/t4&gt;) é aberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Text Attributes dialog contains tabs for &lt;f1&gt;Font&lt;/f1&gt;, &lt;f2&gt;Font Effects&lt;/f2&gt;, and &lt;f3&gt;Position&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T174856Z" creationid="olivier" creationdate="20261105T174856Z">
+        <seg>A caixa de diálogo Atributos de texto contém abas para &lt;f1&gt;Fonte&lt;/f1&gt;, &lt;f2&gt;Efeitos de fonte&lt;/f2&gt; e &lt;f3&gt;Posição&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126982,6 +127441,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The options available for a &lt;f0&gt;Custom header&lt;/f0&gt; or &lt;f1&gt;Custom footer&lt;/f1&gt; are as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T174819Z" creationid="olivier" creationdate="20261105T174819Z">
+        <seg>As opções disponíveis para um &lt;f0&gt;Cabeçalho personalizado&lt;/f0&gt; ou &lt;f1&gt;Rodapé personalizado&lt;/f1&gt; são como segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The options available for arranging the stack level of images, or graphics are as follows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T175857Z" creationid="olivier" creationdate="20250602T215640Z">
@@ -129966,6 +130433,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then enter the location and file name of the PDF to be created, and click &lt;f8&gt;Save&lt;/f8&gt; to export the file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175715Z" creationid="olivier" creationdate="20261105T175715Z">
+        <seg>Em seguida, digite o local e o nome do arquivo do PDF a ser criado e clique em &lt;f8&gt;Salvar&lt;/f8&gt; para exportar o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then go to &lt;f0&gt;Tools &gt; Macros &gt; Run Macro,&lt;/f0&gt; select the &lt;f1&gt;CopyNumToCol1&lt;/f1&gt; macro and click &lt;f2&gt;Run&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T201004Z" creationid="olivier-tdf" creationdate="20250702T125242Z">
@@ -131693,6 +132168,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This allows continuous page numbering in a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175002Z" creationid="olivier" creationdate="20261105T175002Z">
+        <seg>Isso permite a numeração contínua de páginas em uma planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This allows drawing another object of the same type.</seg>
       </tuv>
@@ -132430,6 +132914,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This dialog has six tabs (&lt;f1&gt;General&lt;/f1&gt;, &lt;f2&gt;Initial View&lt;/f2&gt;, &lt;f3&gt;User Interface&lt;/f3&gt;, &lt;f4&gt;Links&lt;/f4&gt;, &lt;f5&gt;Security&lt;/f5&gt;, and &lt;f6&gt;Digital Signatures&lt;/f6&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175643Z" creationid="olivier" creationdate="20261105T175643Z">
+        <seg>Esta caixa de diálogo tem seis abas (&lt;f1&gt;Geral&lt;/f1&gt;, &lt;f2&gt;Visualização Inicial&lt;/f2&gt;, &lt;f3&gt;Interface de usuário&lt;/f3&gt;, &lt;f4&gt;Vínculos&lt;/f4&gt;, &lt;f5&gt;Segurança&lt;/f5&gt; e &lt;f6&gt;Assinaturas digitais&lt;/f6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This dialog has three tabs, which are explained below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T233227Z" creationid="vitor" creationdate="20260407T233227Z">
@@ -132922,6 +133414,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T102104Z" creationid="olivier" creationdate="20261025T102104Z">
         <seg>É claro que há um alto nível de semelhança entre os conjuntos de funções do Calc e do Excel, e muitas funções podem ser usadas em ambos os aplicativos sem alterações, aumentando assim a interoperabilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This industry-standard file format is ideal for sending a file to someone else, for viewing using Adobe Acrobat Reader or any other PDF viewer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175048Z" creationid="olivier" creationdate="20261105T175048Z">
+        <seg>Este formato de arquivo padrão da indústria é ideal para enviar um arquivo para alguém, para visualizar usando Adobe Acrobat Reader ou qualquer outro visualizador de PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133725,6 +134226,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>This option automatically selects the &lt;f1&gt;Tagged PDF&lt;/f1&gt; checkbox below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183740Z" creationid="olivier" creationdate="20261105T183740Z">
+        <seg>Esta opção seleciona automaticamente a caixa de seleção &lt;f1&gt;PDF marcado&lt;/f1&gt; abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This option can be disabled only if the &lt;f0&gt;Detect special numbers&lt;/f0&gt; option is disabled.</seg>
       </tuv>
@@ -133738,6 +134248,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T220425Z" creationid="olivier" creationdate="20250324T220425Z">
         <seg>Esta opção pode aumentar significativamente o tamanho dos arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This option can lead to large files when used with photographs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183321Z" creationid="olivier" creationdate="20261105T183321Z">
+        <seg>Esta opção pode gerar arquivos grandes quando usados com fotografias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135838,6 +136357,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change the appearance of the text in the header or footer, click the &lt;f0&gt;Text Attributes&lt;/f0&gt; icon to open the Text Attributes dialog, where you can set the font, font effects and font position.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T174701Z" creationid="olivier" creationdate="20261105T174701Z">
+        <seg>Para alterar a aparência do texto no cabeçalho ou rodapé, clique no ícone &lt;f0&gt;Atributos de Texto&lt;/f0&gt; para abrir a caixa de diálogo Atributos de texto, e definir a fonte, os efeitos da fonte e a posição da fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change the background and other characteristics of all slides in the presentation, the master slide has to be modified or a different master slide selected, as explained in “&lt;bf0&gt;Working with master slides&lt;/bf0&gt;” on page &lt;bf1&gt;33&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250512T120212Z" creationid="timot" creationdate="20250512T120212Z">
@@ -137658,6 +138185,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250324T221558Z" creationid="olivier" creationdate="20250324T221558Z">
         <seg>Para exportar anotações de documentos do Writer exibidos no LibreOffice, selecione &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Writer &gt; Imprimir&lt;/f0&gt; (macOS &lt;f1&gt;LibreOffice &gt; Preferências &gt; LibreOffice Writer &gt; Imprimir&lt;/f1&gt;) e selecione a opção &lt;f2&gt;Nas margens&lt;/f2&gt; em &lt;f3&gt;Anotações&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>To export single pages, use the format 7;9;11 (pages 7, 9, and 11), or a combination of the two formats.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183146Z" creationid="olivier" creationdate="20261105T183146Z">
+        <seg>Para exportar páginas individuais, use o formato 7; 9; 11 (páginas 7, 9 e 11) ou uma combinação dos dois formatos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142758,6 +143294,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unlike &lt;f0&gt;Save As&lt;/f0&gt;, the &lt;f1&gt;Export&lt;/f1&gt; command writes a copy of the current document in a new file with the chosen format, but keeps the current document and format open in your session.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175140Z" creationid="olivier" creationdate="20261105T175140Z">
+        <seg>Ao contrário de &lt;f0&gt;Salvar como&lt;/f0&gt;, o comando &lt;f1&gt;Exportar&lt;/f1&gt; grava uma cópia do documento atual num novo arquivo com o formato escolhido, mas mantém o documento e o formato atuais abertos em sua sessão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unlike &lt;f1&gt;Justified&lt;/f1&gt;, it also justifies the very last line of text.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T003405Z" creationid="firelinux" creationdate="20260415T003405Z">
@@ -146589,6 +147133,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Watermark section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183354Z" creationid="olivier" creationdate="20261105T183354Z">
+        <seg>Seção Marca d'água</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>We also recommend that you enable the &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate &gt; General Calculations &gt; Search criteria = and &lt;&gt; must apply to whole cells&lt;/f1&gt; option so that search criteria in formulas must match the whole of the cell contents.</seg>
       </tuv>
@@ -147818,6 +148371,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T110541Z" creationid="olivier" creationdate="20261025T110541Z">
         <seg>Quando utilizar fórmulas de matriz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>When doing so, you may only specify the file name and location for the PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175304Z" creationid="olivier" creationdate="20261105T175304Z">
+        <seg>Ao fazer isso, você só pode especificar o nome e o local do arquivo para o PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -151510,6 +152072,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also access the PDF Options dialog by going to &lt;f0&gt;File &gt; Export&lt;/f0&gt; on the Menu bar and then selecting the &lt;f1&gt;PDF – Portable Document Format&lt;/f1&gt; entry in the &lt;f2&gt;Save as type&lt;/f2&gt; drop-down menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175818Z" creationid="olivier" creationdate="20261105T175818Z">
+        <seg>Você também pode acessar a caixa de diálogo Opções de PDF em &lt;f0&gt;Arquivo &gt; Exportar&lt;/f0&gt; na barra de menus e, em seguida, selecionando o tipo &lt;f1&gt;PDF – Portable Document Format&lt;/f1&gt; no menu suspenso &lt;f2&gt;Salvar como tipo&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also access the Rename Sheet dialog by double-clicking on the sheet tab or going to &lt;f1&gt;Sheet &gt; Rename Sheet&lt;/f1&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T221712Z" creationid="olivier-tdf" creationdate="20250117T121643Z">
@@ -154045,6 +154615,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>You must first select the sheets to export.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T183228Z" creationid="olivier" creationdate="20261105T183228Z">
+        <seg>Você deve primeiro selecionar as planilhas a serem exportadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You must have defined the source range under &lt;t2/&gt;&lt;f3&gt;Data &gt; Define Range&lt;/f3&gt; as a database range.</seg>
       </tuv>
@@ -155594,6 +156173,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260404T200742Z" creationid="vitor" creationdate="20260404T200742Z">
         <seg>Exportar imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>exporting to PDF, using the Export Directly as PDF icon</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175202Z" creationid="olivier" creationdate="20261105T175202Z">
+        <seg>exportar para PDF, usar o ícone Exportar diretamente como PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>exporting to PDF, using the PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175327Z" creationid="olivier" creationdate="20261105T175327Z">
+        <seg>exportar para PDF, usando a caixa de diálogo Opções de PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -158322,6 +158917,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251009T193922Z" creationid="timotheonb" creationdate="20251009T193922Z">
         <seg>usar a tecla Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>using the Export Directly as PDF icon</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175217Z" creationid="olivier" creationdate="20261105T175217Z">
+        <seg>usar o ícone Exportar diretamente como PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>using the PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175351Z" creationid="olivier" creationdate="20261105T175351Z">
+        <seg>usar a caixa de diálogo Opções de PDF</seg>
       </tuv>
     </tu>
     <tu>
