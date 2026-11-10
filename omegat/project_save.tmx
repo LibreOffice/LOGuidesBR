@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5264,6 +5264,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Convert document references to PDF targets:&lt;/f0&gt; If you have defined links to other documents with OpenDocument extensions (such as .odt, .ods, and .odp), this option converts the file extensions to .pdf in the exported PDF document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134953Z" creationid="olivier" creationdate="20261110T134953Z">
+        <seg>&lt;f0&gt;Converter referências do documento em destinos PDF&lt;/f0&gt;:Se definiu vínculos para outros documentos com extensões OpenDocument (como .odt, .ods e .odp), esta opção converte as extensões de arquivo em .pdf no documento PDF exportado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Copy results to&lt;/f0&gt; – select the checkbox and then select the cell range where you want to display the filter results.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260327T194247Z" creationid="timotheonb" creationdate="20260327T194247Z">
@@ -5532,6 +5540,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260120T120901Z" creationid="timotheonb" creationdate="20260120T120901Z">
         <seg>&lt;f0&gt;Decimal&lt;/f0&gt; – todos os números correspondem ao formato decimal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Default mode&lt;/f0&gt;: The PDF links will be handled as specified in your operating system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135201Z" creationid="olivier" creationdate="20261110T135201Z">
+        <seg>&lt;f0&gt;Modo padrão&lt;/f0&gt;: Os vínculos de PDF serão tratados conforme especificado em seu sistema operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6208,10 +6224,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Export URLs relative to file system:&lt;/f0&gt; If you have defined relative links in a document, this option exports those links to the PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135106Z" creationid="olivier" creationdate="20261110T135106Z">
+        <seg>&lt;f0&gt;Exportar URLs relativas ao sistema de arquivos&lt;/f0&gt;: se você definiu vínculos relativos em um documento, esta opção exporta esses vínculos para o PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Export automatically inserted blank pages&lt;/f0&gt;: Not available in Calc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261109T123054Z" creationid="olivier" creationdate="20261109T123054Z">
         <seg>&lt;f0&gt;Exportar páginas em branco inseridas automaticamente&lt;/f0&gt;: Não disponível no Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Export outlines as named destinations:&lt;/f0&gt; If you have defined Calc sheet names, this option exports them as “named destinations” to which Web pages and PDF documents can link.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134823Z" creationid="olivier" creationdate="20261110T134823Z">
+        <seg>&lt;f0&gt;Exportar marca-páginas como destinos nomeados:&lt;/f0&gt; se você definiu os nomes das planilhas do Calc, esta opção os exporta como "destinos nomeados" para os quais as páginas da Web e os documentos PDF podem vincular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6968,10 +7000,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Hide toolbar&lt;/f0&gt;: hides the reader toolbar when the document is active.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134312Z" creationid="olivier" creationdate="20261110T134312Z">
+        <seg>&lt;f0&gt;Ocultar barra de ferramentas&lt;/f0&gt;: oculta a barra de ferramentas do leitor quando o documento está ativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Hide when printing&lt;/f0&gt; – prevents the selected cells from being printed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260416T214018Z" creationid="timotheonb" creationdate="20260416T214018Z">
         <seg>&lt;f0&gt;Ocultar durante a impressão&lt;/f0&gt; – evita que as células selecionadas sejam impressas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Hide window controls&lt;/f0&gt;: hides the reader controls when the document is active.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134324Z" creationid="olivier" creationdate="20261110T134324Z">
+        <seg>&lt;f0&gt;Ocultar controles de janela&lt;/f0&gt;: oculta os controles do leitor quando o documento está ativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8000,6 +8048,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Open with Internet browser&lt;/f0&gt;: Use the default Internet browser to display linked PDF documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135233Z" creationid="olivier" creationdate="20261110T135233Z">
+        <seg>&lt;f0&gt;Abrir com navegador da Internet&lt;/f0&gt;: Use o navegador padrão da Internet para exibir documentos PDF vinculados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Open with PDF reader application&lt;/f0&gt;: Use the same application used to display the PDF document to open linked PDF documents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135216Z" creationid="olivier" creationdate="20261110T135216Z">
+        <seg>&lt;f0&gt;Abrir com o programa leitor de PDF&lt;/f0&gt;: Use o mesmo aplicativo usado para exibir o documento PDF para abrir documentos PDF vinculados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;OpenPGP encryption key&lt;/f0&gt; — select an OpenPGP key from the drop-down list for encrypting ODF documents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T231249Z" creationid="olivier-tdf" creationdate="20250328T231249Z">
@@ -8712,6 +8776,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Remove cross-document links&lt;/f0&gt;: Specifies that the PDF will be exported without links external to the document.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135342Z" creationid="olivier" creationdate="20261110T135342Z">
+        <seg>&lt;f0&gt;Remover vínculos entre documentos&lt;/f0&gt;: Especifica que o PDF será exportado sem vínculos externos ao documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Remove&lt;/f0&gt; will delete he duplicates and &lt;f1&gt;Select&lt;/f1&gt; will just select them for later use.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T164327Z" creationid="firelinux" creationdate="20260403T164327Z">
@@ -9260,6 +9332,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250303T001500Z" creationid="olivier" creationdate="20250303T001500Z">
         <seg>&lt;f0&gt;Shift&lt;/f0&gt;+&lt;f1&gt;F6&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Show All&lt;/f0&gt;: shows all outline levels when the reader opens the PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134345Z" creationid="olivier" creationdate="20261110T134345Z">
+        <seg>&lt;f0&gt;Mostrar tudo&lt;/f0&gt;: mostra todos os níveis de estrutura de tópicos quando o leitor abre o PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10620,6 +10701,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213201Z" creationid="olivier" creationdate="20261006T213201Z">
         <seg>A &lt;f0&gt;Grade visível&lt;/f0&gt; mostra os pontos da grade na tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Visible levels&lt;/f0&gt;: shows outline levels down to the selected level (in the range 1 to 10) when the reader opens the PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134400Z" creationid="olivier" creationdate="20261110T134400Z">
+        <seg>&lt;f0&gt;Níveis visíveis&lt;/f0&gt;: mostra os níveis de contorno até o nível selecionado (no intervalo de 1 a 10) quando o leitor abre o PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15280,6 +15370,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;PDF Options dialog – Security tab&lt;/s0&gt;&lt;s1&gt;PDF Options dialog – Security tab&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135446Z" creationid="olivier" creationdate="20261110T135446Z">
+        <seg>&lt;s0&gt;PDF Options dialog – Security aba&lt;/s0&gt;&lt;s1&gt;PDF Options dialog – Security aba&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;PDF Options dialog – User Interface tab&lt;/s0&gt;&lt;s1&gt;PDF Options dialog – User Interface tab&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134406Z" creationid="olivier" creationdate="20261110T134406Z">
+        <seg>&lt;s0&gt;PDF Options dialog – User Interface aba&lt;/s0&gt;&lt;s1&gt;PDF Options dialog – User Interface aba&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;PDF Options dialog — Digital Signatures page&lt;/s0&gt;&lt;s1&gt;PDF Options dialog — Digital Signatures page&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201128Z" creationid="olivier" creationdate="20250325T201128Z">
@@ -15324,6 +15430,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T124609Z" creationid="olivier" creationdate="20250325T124609Z">
         <seg>&lt;s0&gt;Caixa de diálogo Opções de PDF — Página de Interface do usuário&lt;/s0&gt;&lt;s1&gt; Caixa de diálogo Opções de PDF — Página de Interface do Usuário&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;PDF options dialog - Links tab&lt;/s0&gt;&lt;s1&gt;PDF options dialog - Links tab&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135347Z" creationid="olivier" creationdate="20261110T135347Z">
+        <seg>&lt;s0&gt;PDF options dialog - Links aba&lt;/s0&gt;&lt;s1&gt;PDF options dialog - Links aba&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38473,6 +38587,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the &lt;f0&gt;Set Passwords&lt;/f0&gt; button to open the Set Passwords dialog (Figure &lt;t1&gt;20&lt;/t1&gt;), where you enter the passwords.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135542Z" creationid="olivier" creationdate="20261110T135542Z">
+        <seg>Clique no botão &lt;f0&gt;Definir senhas&lt;/f0&gt; para abrir a caixa de diálogo Definir senhas (Figura &lt;t1&gt;20&lt;/t1&gt;), para inserir as senhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the &lt;f0&gt;Special Character&lt;/f0&gt; icon on the Standard toolbar to open a list of favorite and recently used characters and click on the one you wish to insert (Figure &lt;t1&gt;13&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250205T154600Z" creationid="timot" creationdate="20250205T154600Z">
@@ -44885,6 +45007,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T182617Z" creationid="olivier-tdf" creationdate="20250328T182617Z">
         <seg>Define os atributos de tabelas em documentos de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defines the behavior of links clicked in PDF files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135138Z" creationid="olivier" creationdate="20261110T135138Z">
+        <seg>Define o comportamento dos vínculos clicados em arquivos PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54507,6 +54637,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: PDF Options dialog – User Interface tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134417Z" creationid="olivier" creationdate="20261110T134417Z">
+        <seg>Figura &lt;seq0&gt;17&lt;/seq0&gt;: Caixa de diálogo Opções do PDF – aba Interface do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: QR and Barcode dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T131052Z" creationid="timotheonb" creationdate="20260914T131052Z">
@@ -54699,6 +54837,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: PDF options dialog - Links tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135358Z" creationid="olivier" creationdate="20261110T135358Z">
+        <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;: Caixa de diálogo Opções do PDF – aba Vínculos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: QR code example</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T131638Z" creationid="timotheonb" creationdate="20260914T131638Z">
@@ -54839,6 +54985,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T020954Z" creationid="olivier" creationdate="20250321T020954Z">
         <seg>Figura &lt;seq0&gt;19&lt;/seq0&gt;: Caixa de diálogo Opções Idiomas e Localidades — Layout Asiático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: PDF Options dialog – Security tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135456Z" creationid="olivier" creationdate="20261110T135456Z">
+        <seg>Figura &lt;seq0&gt;19&lt;/seq0&gt;: Caixa de diálogo Opções do PDF – aba Segurança</seg>
       </tuv>
     </tu>
     <tu>
@@ -66760,6 +66914,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261105T175825Z" creationid="olivier" creationdate="20261105T175825Z">
         <seg>Aba Geral da caixa de diálogo Opções de PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Generally not used in Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134827Z" creationid="olivier" creationdate="20261110T134827Z">
+        <seg>Geralmente não é usado no Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86907,6 +87070,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Links tab of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134526Z" creationid="olivier" creationdate="20261110T134526Z">
+        <seg>Aba Vínculos da caixa de diálogo Opções de PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Links to another document or to another place in a document, commonly referred to as a bookmark.</seg>
       </tuv>
@@ -93716,6 +93888,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the &lt;f0&gt;Links&lt;/f0&gt; tab (Figure &lt;t1&gt;18&lt;/t1&gt;) you can select how bookmarks and hyperlinks are exported to PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134550Z" creationid="olivier" creationdate="20261110T134550Z">
+        <seg>Na aba &lt;f0&gt;Vínculos&lt;/f0&gt; (Figura &lt;t1&gt;18&lt;/t1&gt;), você pode selecionar como os marca-páginas e hiperlinks são exportados para PDF. Opções do PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the &lt;f0&gt;Load/Save – Microsoft Office&lt;/f0&gt; page (Figure &lt;t1&gt;7&lt;/t1&gt;), you can choose what to do when importing or exporting Microsoft Office OLE objects (linked or embedded objects or documents such as spreadsheets or equations): convert them into or from the corresponding LibreOffice OLE object or load and save them in their original format.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T192850Z" creationid="olivier" creationdate="20260930T192850Z">
@@ -97380,6 +97560,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Outlines are generally not used in Calc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134517Z" creationid="olivier" creationdate="20261110T134517Z">
+        <seg>Os tópicos geralmente não são usados no Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Outlines the licenses under which LibreOffice is made available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T200321Z" creationid="olivier-tdf" creationdate="20250109T200321Z">
@@ -97468,6 +97656,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PDF Options dialog – Security tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135506Z" creationid="olivier" creationdate="20261110T135506Z">
+        <seg>Caixa de diálogo Opções do PDF – aba Segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PDF Options dialog – User Interface tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T134430Z" creationid="olivier" creationdate="20261110T134430Z">
+        <seg>Caixa de diálogo Opções do PDF – aba Interface do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PDF Options dialog — Digital Signatures page</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201201Z" creationid="olivier" creationdate="20250325T201201Z">
@@ -97528,6 +97732,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T115048Z" creationid="olivier-tdf" creationdate="20250109T115048Z">
         <seg>PDF files: Olivier Hallot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PDF options dialog - Links tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135410Z" creationid="olivier" creationdate="20261110T135410Z">
+        <seg>Caixa de diálogo Opções do PDF – aba Vínculos</seg>
       </tuv>
     </tu>
     <tu>
@@ -105636,6 +105848,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Security tab of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135414Z" creationid="olivier" creationdate="20261110T135414Z">
+        <seg>Aba Segurança da caixa de diálogo Opções de PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Security warnings</seg>
       </tuv>
@@ -105753,6 +105974,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260930T194502Z" creationid="olivier" creationdate="20260930T194502Z">
         <seg>Consulte o &lt;f1&gt;Capítulo 14, Macros, para mais informações&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See &lt;f1&gt;Relative hyperlinks&lt;/f1&gt; in the Calc Help for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135122Z" creationid="olivier" creationdate="20261110T135122Z">
+        <seg>Veja &lt;f1&gt;Hiperlinks relativo&lt;/f1&gt;s na Ajuda do Calc para obter mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109089,6 +109318,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260722T011123Z" creationid="vitor" creationdate="20260722T011123Z">
         <seg>Selecionar próximo elemento de gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Select one among the following alternatives:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135141Z" creationid="olivier" creationdate="20261110T135141Z">
+        <seg>Selecione uma das seguintes alternativas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -112969,6 +113207,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T113727Z" creationid="olivier" creationdate="20250405T113727Z">
         <seg>Configurar o modelo padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Setting encryption and passwords also allows you to apply restrictions on printing and if changes or copying can be carried out on the PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135440Z" creationid="olivier" creationdate="20261110T135440Z">
+        <seg>A configuração da criptografia e das senhas também permite que você aplique restrições à impressão e se alterações ou cópias podem ser realizadas no arquivo PDF. Opções do PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -145278,6 +145525,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the &lt;f0&gt;Security&lt;/f0&gt; tab (Figure &lt;t1&gt;19&lt;/t1&gt;) to encrypt and set passwords when you export your spreadsheet and create the PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135437Z" creationid="olivier" creationdate="20261110T135437Z">
+        <seg>Use a aba &lt;f0&gt;Segurança&lt;/f0&gt; (Figura &lt;t1&gt;19&lt;/t1&gt;) para criptografar e definir senhas ao exportar sua planilha e criar o arquivo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the &lt;f0&gt;Select&lt;/f0&gt; tool (arrow icon) on the Drawing toolbar (Figure &lt;t1&gt;55&lt;/t1&gt;) to select them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T113321Z" creationid="vitor" creationdate="20260412T113321Z">
@@ -151813,6 +152068,15 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>With an open password set, the PDF can only be opened with the password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135613Z" creationid="olivier" creationdate="20261110T135613Z">
+        <seg>Com uma senha aberta definida, o PDF só pode ser aberto com a senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>With each LibreOffice module having different requirements, refer to the specific user guide for each LibreOffice module for a full description of user interface variants and how to use the user interface.</seg>
       </tuv>
@@ -154162,6 +154426,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260926T175339Z" creationid="olivier" creationdate="20260926T175339Z">
         <seg>Você pode inserir uma senha mestra para permitir o acesso fácil a sites que exigem um nome de usuário e senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can enter a password (&lt;f2&gt;Set open password&lt;/f2&gt;) to open the file and an optional password (&lt;f3&gt;Set permission password&lt;/f3&gt;) to restrict what readers can do with the PDF file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135609Z" creationid="olivier" creationdate="20261110T135609Z">
+        <seg>Você pode inserir uma senha (&lt;f2&gt;Definir senha de abertura&lt;/f2&gt;) para abrir o arquivo e uma senha opcional (&lt;f3&gt;Definir senha de permissão&lt;/f3&gt;) para restringir o que os leitores podem fazer com o arquivo PDF.</seg>
       </tuv>
     </tu>
     <tu>
