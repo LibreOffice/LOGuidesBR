@@ -16209,6 +16209,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Set Passwords dialog&lt;/s0&gt;&lt;s1&gt;Set Passwords dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180225Z" creationid="olivier" creationdate="20261110T180225Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Definir Senha&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Definir senha&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Set leading zeroes in Sidebar&lt;/s0&gt;&lt;s1&gt;Set leading zeroes in Sidebar&lt;/s1&gt;</seg>
       </tuv>
@@ -22766,6 +22775,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165301Z" creationid="firelinux" creationdate="20260403T165301Z">
         <seg>Após selecionar&lt;f0&gt;Encontrar tudo&lt;/f0&gt; na barra de ferramentas Localizar, ou&lt;f1&gt;Encontrar tudo&lt;/f1&gt; ou&lt;f2&gt;Substituir tudo&lt;/f2&gt; no&lt;f3&gt;Localizar e substituir&lt;/f3&gt; O comportamento padrão inicial do Calc é exibir a caixa de diálogo Resultados da Pesquisa (Figura&lt;t4&gt;33&lt;/t4&gt;) após a conclusão da operação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After you set a password for permissions, the other choices on the right half of the &lt;f1&gt;Security&lt;/f1&gt; tab become available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180203Z" creationid="olivier" creationdate="20261110T180203Z">
+        <seg>Depois de definir uma senha para permissões, as outras opções na direita da aba &lt;f1&gt;Segurança&lt;/f1&gt; fica disponível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46266,6 +46283,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Digital Signatures tab of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180400Z" creationid="olivier" creationdate="20261110T180400Z">
+        <seg>Aba Assinaturas digitais da caixa de diálogo Opções de PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Digital signature</seg>
       </tuv>
@@ -46279,6 +46305,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250217T132924Z" creationid="olivier" creationdate="20250217T132924Z">
         <seg>Assinaturas digitais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Digital signatures are used to ensure that the PDF was really created by the original author (that is, you), and that the document has not been modified since it was signed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180419Z" creationid="olivier" creationdate="20261110T180419Z">
+        <seg>As assinaturas digitais são usadas para garantir que o PDF foi realmente criado pelo autor original (ou seja, você) e que o documento não foi modificado desde que foi assinado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55361,6 +55396,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T023239Z" creationid="olivier" creationdate="20250321T023239Z">
         <seg>Figura &lt;seq0&gt;20&lt;/seq0&gt;: Caixa de diálogo Opções Idiomas e Localidades — Página de Layout de Texto Complexo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Set Passwords dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180239Z" creationid="olivier" creationdate="20261110T180239Z">
+        <seg>Figura &lt;seq0&gt;20&lt;/seq0&gt;: Definir senhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -94631,6 +94674,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Once opened, there are no restrictions on what the user can do with the document (for example, print, copy, or change it).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180120Z" creationid="olivier" creationdate="20261110T180120Z">
+        <seg>Depois de aberto, não há restrições sobre o que o usuário pode fazer com o documento (por exemplo, imprimir, copiar ou alterá-lo).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Once the chart is properly formatted, all of the data can be selected.</seg>
       </tuv>
@@ -98588,6 +98640,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T132822Z" creationid="olivier-tdf" creationdate="20250615T132822Z">
         <seg>Agrupamento permanente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Permissions settings are effective only if the user’s PDF viewer respects the settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180356Z" creationid="olivier" creationdate="20261110T180356Z">
+        <seg>As configurações de permissões só entram em vigor se o visualizador de PDF do usuário respeitar as configurações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106417,6 +106477,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>See Figure &lt;t0&gt;19&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180146Z" creationid="olivier" creationdate="20261110T180146Z">
+        <seg>Veja a Figura &lt;t0&gt;19&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>See Figure &lt;t0&gt;4&lt;/t0&gt;.</seg>
       </tuv>
@@ -112766,6 +112835,15 @@
         <seg>Set Password dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T230640Z" creationid="olivier-tdf" creationdate="20250328T230640Z">
+        <seg>Caixa de diálogo Definir senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Set Passwords dialog</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180318Z" creationid="olivier" creationdate="20261110T180318Z">
         <seg>Caixa de diálogo Definir senha</seg>
       </tuv>
     </tu>
@@ -120189,6 +120267,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Digital Signatures&lt;/f0&gt; tab contains the options related to exporting a digitally signed PDF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180412Z" creationid="olivier" creationdate="20261110T180412Z">
+        <seg>A aba &lt;f0&gt;Assinaturas digitais&lt;/f0&gt; contém as opções relacionadas à exportação de um PDF assinado digitalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;f0&gt;Document Title&lt;/f0&gt; commands insert the name of the spreadsheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T210357Z" creationid="olivier" creationdate="20250123T210357Z">
@@ -126917,6 +127003,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The key store to be used can be selected under &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Security &gt; Certificate Path&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180437Z" creationid="olivier" creationdate="20261110T180437Z">
+        <seg>O armazenamento principal a ser usado pode ser selecionado em &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Segurança &gt; Caminho do certificado&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The keyboard shortcuts for controlling documents and windows in LibreOffice are shown in Table &lt;t0&gt;8&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250303T134446Z" creationid="olivier-tdf" creationdate="20250303T134446Z">
@@ -128661,6 +128755,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The options on the &lt;f0&gt;Security&lt;/f0&gt; tab become available only when passwords have been set.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180221Z" creationid="olivier" creationdate="20261110T180221Z">
+        <seg>As opções na aba &lt;f0&gt;Segurança&lt;/f0&gt; ficarão disponíveis apenas quando as senhas forem definidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The options on the drop-down list are &lt;f1&gt;Start&lt;/f1&gt;, &lt;f2&gt;End&lt;/f2&gt;, or &lt;f3&gt;Category&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T115545Z" creationid="vitor" creationdate="20260405T115545Z">
@@ -130137,6 +130239,15 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T201309Z" creationid="olivier" creationdate="20250325T201309Z">
         <seg>A exportação de PDF assinado utiliza as chaves e certificados X.509 já armazenados em seu local de armazenamento de chaves padrão ou num cartão inteligente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The signed PDF export uses the keys and X.509 certificates already stored in your default key store location or on a smartcard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180424Z" creationid="olivier" creationdate="20261110T180424Z">
+        <seg>A exportação de PDF assinada utiliza as chaves e certificados X.509 já armazenados em seu local de armazenamento de chaves padrão ou num cartão inteligente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -152068,12 +152179,29 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>With a permission password set, the PDF can be opened by anyone, but its permissions can be restricted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180141Z" creationid="olivier" creationdate="20261110T180141Z">
+        <seg>Com uma senha de permissão definida, o PDF pode ser aberto por qualquer pessoa, mas suas permissões podem ser restritas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>With an open password set, the PDF can only be opened with the password.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261110T135613Z" creationid="olivier" creationdate="20261110T135613Z">
         <seg>Com uma senha aberta definida, o PDF só pode ser aberto com a senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>With both the open password and permission password set, the PDF can only be opened with the correct password, and its permissions can be restricted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="olivier" changedate="20261110T180208Z" creationid="olivier" creationdate="20261110T180208Z">
+        <seg>Com a senha de abertura e a senha de permissão definidas, o PDF só pode ser aberto com a senha correta e suas permissões podem ser restritas.</seg>
       </tuv>
     </tu>
     <tu>
