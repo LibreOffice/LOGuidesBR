@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4536,6 +4536,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;B-spline&lt;/f0&gt; uses parametric, interpolating B-spline curves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093550Z" creationid="timotheonb" creationdate="20261106T093550Z">
+        <seg>&lt;f0&gt;Spline B&lt;/f0&gt; usa curvas Spline B paramétricas de interpolação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Back One&lt;/f0&gt; – moves the selected image down one level in the stack.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260901T102315Z" creationid="timotheonb" creationdate="20260901T102117Z">
@@ -5368,6 +5376,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Cubic spline&lt;/f0&gt; interpolates the data points with polynomials of degree 3.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093426Z" creationid="timotheonb" creationdate="20261106T093426Z">
+        <seg>&lt;f0&gt;Spline cúbica&lt;/f0&gt; interpola os pontos de dados com polinômios de grau 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Current selection only&lt;/f0&gt; – searches only the selected text or cells.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T165114Z" creationid="firelinux" creationdate="20260403T165114Z">
@@ -5556,6 +5572,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260415T003443Z" creationid="firelinux" creationdate="20260415T003443Z">
         <seg>&lt;f0&gt;Padrão&lt;/f0&gt; – alinha o conteúdo da célula com o fundo da célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Degree of polynomials&lt;/f0&gt; (only for B-spline line type) sets the degree of these polynomials.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093808Z" creationid="timotheonb" creationdate="20261106T093808Z">
+        <seg>&lt;f0&gt;Grau de polinômios&lt;/f0&gt; (somente para o tipo de linha B-spline) define o grau desses polinômios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7592,6 +7616,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Mean Value Lines&lt;/f0&gt; and &lt;f1&gt;Trend Lines&lt;/f1&gt; – Enable the display of mean value lines and trend lines with commands on the &lt;f2&gt;Insert&lt;/f2&gt; menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T095431Z" creationid="timotheonb" creationdate="20261106T095431Z">
+        <seg>&lt;f0&gt;Linhas de valor médio&lt;/f0&gt; e &lt;f1&gt;Linha de tendência&lt;/f1&gt; – Habilita a exibição de linhas de valor médio e linhas de tendência com comandos no menu &lt;f2&gt;Inserir&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Media Playback&lt;/f0&gt;: Control for play, pause, stop, seek, loop, and volume.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250114T111734Z" creationid="timot" creationdate="20250114T111734Z">
@@ -8756,6 +8788,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261109T123432Z" creationid="olivier" creationdate="20261109T123432Z">
         <seg>&lt;f0&gt;Redimensionar a janela à página inicial&lt;/f0&gt;: a janela do leitor de PDF exibe a primeira página inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Resolution&lt;/f0&gt; determines how many line segments are calculated to draw a piece of polynomial between two data points.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093609Z" creationid="timotheonb" creationdate="20261106T093609Z">
+        <seg>&lt;f0&gt;Resolução&lt;/f0&gt; determina quantos segmentos de linha são calculados para desenhar um pedaço de polinômio entre dois pontos de dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20191,7 +20231,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>A setting of 90% works well with photographs (small file size, little perceptible loss of quality).</seg>
       </tuv>
@@ -20573,6 +20612,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260312T113233Z" creationid="timotheonb" creationdate="20260312T113233Z">
         <seg>Uma regra de validade é considerada parte do formato de uma célula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A value in the range 1 to 100.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093617Z" creationid="timotheonb" creationdate="20261106T093617Z">
+        <seg>Um valor no intervalo de 1 a 100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A value in the range 1 to 15.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093814Z" creationid="timotheonb" creationdate="20261106T093814Z">
+        <seg>Um valor no intervalo de 1 a 15.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22069,6 +22124,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tulio" changedate="20250411T130447Z" creationid="tulio" creationdate="20250411T122349Z">
         <seg>Depois que uma fonte de digitalização é selecionada, o LibreOffice lembra a fonte de escaneamento selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After a scatter chart is created, its default settings can be changed in ways such as the following.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T094119Z" creationid="timotheonb" creationdate="20261106T094100Z">
+        <seg>Após criar um gráfico de dispersão, suas configurações padrão podem ser alteradas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27946,6 +28009,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be sure to first double-click the chart to enter edit mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T094201Z" creationid="timotheonb" creationdate="20261106T094201Z">
+        <seg>Certifique-se primeiro de clicar duas vezes no gráfico para entrar no modo de edição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BeanShell Debug Window</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260525T234829Z" creationid="olivier-tdf" creationdate="20250708T194837Z">
@@ -28841,7 +28912,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>By default, a document in PDF format is not protected against contents tampering or editing.</seg>
       </tuv>
@@ -29039,6 +29109,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260826T005344Z" creationid="timotheonb" creationdate="20260826T005344Z">
         <seg>Por padrão, o ponto base para posicionar e dimensionar objetos está localizado no canto superior esquerdo da planilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, the drawing order is the same as the order in the data series, but note the option to sort by X values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093011Z" creationid="timotheonb" creationdate="20261106T093011Z">
+        <seg>Por padrão, a ordem do desenho é a mesma da série de dados, mas observe a opção de Ordenar pelos valores de X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29533,8 +29611,8 @@
       <tuv lang="en-US">
         <seg>Calc Guide 26.2 - Preface</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="timotheonb" changedate="20260225T205205Z" creationid="timotheonb" creationdate="20260225T205205Z">
-        <seg>Guia do Calc 26.2 - Prefácio</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T100422Z" creationid="timotheonb" creationdate="20260225T205205Z">
+        <seg> Guia do Calc 26.2 - Prefácio</seg>
       </tuv>
     </tu>
     <tu>
@@ -29714,7 +29792,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Calc can export documents to PDF (Portable Document Format).</seg>
       </tuv>
@@ -31904,6 +31981,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T195302Z" creationid="olivier-tdf" creationdate="20250708T195302Z">
         <seg>Alterar o esquema de cores do IDE Básico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changing the colors and icons is discussed in “Chapter 6: Lines, areas, and data point icons” for further information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T092844Z" creationid="timotheonb" creationdate="20261106T092844Z">
+        <seg>Para mais informações sobre como alterar as cores e os ícones, consulte o “Capítulo 6: Criar gráficos”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34820,6 +34905,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Properties&lt;/f0&gt; to set details for the curves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093347Z" creationid="timotheonb" creationdate="20261106T093347Z">
+        <seg>Clique em &lt;f0&gt;Propriedades&lt;/f0&gt; para definir os detalhes das curvas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;Properties&lt;/f0&gt; to set details for the stepped lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093850Z" creationid="timotheonb" creationdate="20261106T093850Z">
+        <seg>Clique em &lt;f0&gt;Propriedades&lt;/f0&gt; para definir detalhes para as linhas escalonadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click &lt;f0&gt;Recent Documents&lt;/f0&gt; in the Start Center and select a recent file from the Center.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250220T183345Z" creationid="olivier" creationdate="20250220T183345Z">
@@ -35304,6 +35405,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250907T002741Z" creationid="firelinux" creationdate="20250907T002741Z">
         <seg>Clique em qualquer botão na barra de guias para ativar / desativar a exibição do deque associado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click any data point to see the intermediate points.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093630Z" creationid="timotheonb" creationdate="20261106T093630Z">
+        <seg>Clique em qualquer ponto de dados para ver os pontos intermediários.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40827,7 +40936,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Controlling PDF content and quality</seg>
       </tuv>
@@ -45389,6 +45497,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Depending on the option, a data point or data series may also need to be double-clicked.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T094228Z" creationid="timotheonb" creationdate="20261106T094228Z">
+        <seg>Dependendo da opção, um ponto de dados ou série de dados também pode precisar de um clique duplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Depending on the scheme selected, not all options may be available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T233814Z" creationid="vitor" creationdate="20260407T233814Z">
@@ -48077,10 +48193,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draws curves instead of straight line segments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093336Z" creationid="timotheonb" creationdate="20261106T093336Z">
+        <seg>Desenha curvas em vez de segmentos de linha reta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draws straight line segments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093326Z" creationid="timotheonb" creationdate="20261106T093326Z">
+        <seg>Desenha segmentos de linha reta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draws straight lines between the points.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20261105T130348Z" creationid="timotheonb" creationdate="20261105T130348Z">
         <seg>Desenha linhas retas entre os pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draws straight lines from one data point to the next.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T092928Z" creationid="timotheonb" creationdate="20261106T092928Z">
+        <seg>Desenha linhas retas de um ponto de dados ao próximo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draws the lines in order of the X values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093206Z" creationid="timotheonb" creationdate="20261106T093206Z">
+        <seg>Desenha as linhas na ordem dos valores X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50863,6 +51011,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Error bars – For 2D charts, select &lt;f0&gt;Insert &gt; Y Error Bars&lt;/f0&gt; or &lt;f1&gt;X Error Bars&lt;/f1&gt; to enable the display of error bars.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T095022Z" creationid="timotheonb" creationdate="20261106T095022Z">
+        <seg>Barras de erro – para gráficos 2D, selecione &lt;f0&gt;Inserir &gt; Barras de erro Y&lt;/f0&gt; ou &lt;f1&gt;Barras de erro X&lt;/f1&gt; para habilitar a exibição de barras de erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error bars, shown in Figure &lt;t0&gt;53&lt;/t0&gt;, can be useful for presenting data that has a known possibility of error, such as social surveys using a particular sampling method, or for showing the measuring accuracy of the tool used.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260417T002859Z" creationid="vitor" creationdate="20260408T235848Z">
@@ -52079,6 +52235,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exponential </seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T100457Z" creationid="timotheonb" creationdate="20261106T100457Z">
+        <seg>Exponencial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exponentiation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T220130Z" creationid="olivier" creationdate="20261020T220130Z">
@@ -52294,7 +52458,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Exporting to PDF</seg>
       </tuv>
@@ -64371,8 +64534,8 @@
       <tuv lang="en-US">
         <seg>For more information, see “&lt;bf0&gt;Trend and mean value lines&lt;/bf0&gt;” on page &lt;bf1&gt;48&lt;/bf1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="vitor" changedate="20260329T205717Z" creationid="vitor" creationdate="20260329T205717Z">
-        <seg>Para mais informações, veja &lt;bf0&gt;"Linhas de Tendência e de Valor médio"&lt;/bf0&gt;, na página &lt;bf1&gt;48&lt;/bf1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T100354Z" creationid="vitor" creationdate="20260329T205717Z">
+        <seg>Para mais informações, veja &lt;bf0&gt;"Linhas de tendência e de valor médio"&lt;/bf0&gt;, na página &lt;bf1&gt;48&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66416,7 +66579,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>General section</seg>
       </tuv>
@@ -66433,7 +66595,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>General tab of PDF Options dialog</seg>
       </tuv>
@@ -70282,7 +70443,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Higher DPI settings can greatly increase the size of the exported file.</seg>
       </tuv>
@@ -72427,7 +72587,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If a title has not be assigned to the spreadsheet, the file name for the spreadsheet will be inserted instead.</seg>
       </tuv>
@@ -72844,7 +73003,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If disabled, field names will be exported using generated unique names.</seg>
       </tuv>
@@ -77117,7 +77275,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Images section</seg>
       </tuv>
@@ -78070,7 +78227,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In PDF viewers it behaves like a normal PDF file, and it remains fully editable in LibreOffice.</seg>
       </tuv>
@@ -80280,6 +80436,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the finished chart, use the &lt;f0&gt;3D View&lt;/f0&gt; dialog to set properties like illumination and angle of view.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093148Z" creationid="timotheonb" creationdate="20261106T093148Z">
+        <seg>No gráfico concluído, use a caixa de diálogo &lt;f0&gt;Aparência 3D&lt;/f0&gt; para definir propriedades como iluminação e ângulo de visão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the first example, each point in a data series is added to the other data series to show the total area.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20261105T125223Z" creationid="timotheonb" creationdate="20261105T125223Z">
@@ -80832,6 +80996,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Include boundary column(s) containing only comments&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T100450Z" creationid="timotheonb" creationdate="20261106T100450Z">
+        <seg>Incluir coluna(s) de limite contendo apenas comentários&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Include boundary column(s) containing only images</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260401T114407Z" creationid="firelinux" creationdate="20260401T114407Z">
@@ -81279,7 +81451,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Initial View tab of PDF Options dialog</seg>
       </tuv>
@@ -85568,7 +85739,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>LibreOffice does not check accessibility issues in spreadsheets.</seg>
       </tuv>
@@ -86362,10 +86532,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Line styles and icons – double-click or right-click on a data series in the chart to open the Data Series dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T094556Z" creationid="timotheonb" creationdate="20261106T094556Z">
+        <seg>Estilos de linha e ícones – clique duas vezes ou clique com o botão direito em uma série de dados no gráfico para abrir a caixa de diálogo Série de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Line tab</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T120540Z" creationid="vitor" creationdate="20260405T120540Z">
         <seg>Aba Linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Line type – Smooth</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093330Z" creationid="timotheonb" creationdate="20261106T093330Z">
+        <seg>Tipo de linha – Suavizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Line type – Stepped</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093823Z" creationid="timotheonb" creationdate="20261106T093823Z">
+        <seg>Tipo de linha – Escada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Line type – Straight</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093241Z" creationid="timotheonb" creationdate="20261106T093241Z">
+        <seg>Tipo de linha – Reta</seg>
       </tuv>
     </tu>
     <tu>
@@ -88010,6 +88212,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Makes the lines look like tapes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093021Z" creationid="timotheonb" creationdate="20261106T093021Z">
+        <seg>Faz com que as linhas pareçam fitas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Making changes can be carried out in &lt;f0&gt;Slide Sorter&lt;/f0&gt; view on the Workspace.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250512T121852Z" creationid="timot" creationdate="20250512T121852Z">
@@ -89617,7 +89827,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>More information can be found in the ISO 32000 standard that defines the core specifications of PDF files.</seg>
       </tuv>
@@ -92106,7 +92315,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Not used in Calc.</seg>
       </tuv>
@@ -92371,7 +92579,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Note:</seg>
       </tuv>
@@ -96692,7 +96899,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Other options such as page range and image compression are not available.</seg>
       </tuv>
@@ -97133,7 +97339,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>PDF tags are written.</seg>
       </tuv>
@@ -99791,7 +99996,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Preview pages will have different sizes, as do the source sheets.</seg>
       </tuv>
@@ -100744,7 +100948,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Quick export to PDF</seg>
       </tuv>
@@ -100961,7 +101164,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Range section</seg>
       </tuv>
@@ -101082,7 +101284,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Recommended for other kinds of images or graphics.</seg>
       </tuv>
@@ -106448,6 +106649,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260821T174817Z" creationid="timotheonb" creationdate="20260821T174817Z">
         <seg>Veja "&lt;bf6&gt;Ordenar figuras&lt;/bf6&gt;” &lt;bf7&gt;abaixo&lt;/bf7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “Chapter 6: Error bars” for further information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T095056Z" creationid="timotheonb" creationdate="20261106T095056Z">
+        <seg>Para mais informações, veja "Capítulo 6: Barras de erro".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “Chapter 6: Lines, areas, and data point icons” &lt;s0/&gt;for further information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T094634Z" creationid="timotheonb" creationdate="20261106T094634Z">
+        <seg>Veja “Capítulo 6: Gráficos” &lt;s0/&gt;´para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See “Chapter 6: Trend and mean value lines” for further information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T095546Z" creationid="timotheonb" creationdate="20261106T095546Z">
+        <seg>Para mais informações veja “Capítulo 6: Linhas de tendência e de valor médio”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113756,6 +113981,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shows both points and lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T092911Z" creationid="timotheonb" creationdate="20261106T092911Z">
+        <seg>Exibe pontos e linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shows current default language as selected at &lt;f0&gt;Tools &gt; Options &gt; Languages and Locales &gt; General&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250906T233746Z" creationid="firelinux" creationdate="20250906T233746Z">
@@ -115107,7 +115340,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Some of these options are useful when you are creating a PDF to be used as a presentation or a kiosk-type display.</seg>
       </tuv>
@@ -115385,6 +115617,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261013T091455Z" creationid="olivier" creationdate="20261013T091455Z">
         <seg>Ordenar automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort by X values</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093212Z" creationid="timotheonb" creationdate="20261106T093155Z">
+        <seg>Ordenar pelos valores X</seg>
       </tuv>
     </tu>
     <tu>
@@ -121645,7 +121885,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The PDF Options dialog opens.</seg>
       </tuv>
@@ -121662,7 +121901,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The PDF document contents can be edited by specialized software tools, including LibreOffice Draw.</seg>
       </tuv>
@@ -123896,6 +124134,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The curves are built from polynomials.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093555Z" creationid="timotheonb" creationdate="20261106T093555Z">
+        <seg>As curvas são construídas a partir de polinômios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The custom cover image is embedded in the EPUB file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200618Z" creationid="olivier" creationdate="20250327T200618Z">
@@ -123956,6 +124202,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T110424Z" creationid="vitor" creationdate="20260405T110424Z">
         <seg>O ponto de dados mostrará alças de seleção quadradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The data points are not indicated by icons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T092956Z" creationid="timotheonb" creationdate="20261106T092956Z">
+        <seg>Os pontos de dados não são indicados por ícones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The data points are not shown by icons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093035Z" creationid="timotheonb" creationdate="20261106T093035Z">
+        <seg>Os pontos de dados não são mostrados por ícones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127887,7 +128149,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The options should be self-explanatory.</seg>
       </tuv>
@@ -130133,6 +130394,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260602T111032Z" creationid="timotheonb" creationdate="20260529T172837Z">
         <seg>A transição para a configuração à direita da figura requer apenas uma alteração cosmética no texto da célula B1 e a seleção do tema &lt;f3&gt;Sunset&lt;/f3&gt; via &lt;f4&gt;Formatar &gt; Tema&lt;/f4&gt; na Barra de menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The transitions between the polynomial pieces are smooth, having the same slope and curvature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093505Z" creationid="timotheonb" creationdate="20261106T093505Z">
+        <seg>As transições entre as peças polinomiais são suaves, tendo a mesma inclinação e curvatura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132416,7 +132685,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This allows continuous page numbering in a spreadsheet.</seg>
       </tuv>
@@ -132746,6 +133014,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can be helpful if the data series on the spreadsheet is not in numeric order.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093223Z" creationid="timotheonb" creationdate="20261106T093223Z">
+        <seg>Isso pode ser útil se a série de dados na planilha não estiver em ordem numérica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This can be misleading because both the Y axis and the X axis can be horizontal or vertical, depending on the type of chart.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T004212Z" creationid="vitor" creationdate="20260407T004212Z">
@@ -132809,7 +133085,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This can help to display the document on devices with different screens, and when using screen reader software.</seg>
       </tuv>
@@ -133426,7 +133701,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This facility is not intended for printing but allows you to easily see and review the full content of a spreadsheet document in a PDF form, without the usual slicing of the sheets into printable pages.</seg>
       </tuv>
@@ -133683,7 +133957,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This industry-standard file format is ideal for sending a file to someone else, for viewing using Adobe Acrobat Reader or any other PDF viewer.</seg>
       </tuv>
@@ -134492,7 +134765,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>This option automatically selects the &lt;f1&gt;Tagged PDF&lt;/f1&gt; checkbox below.</seg>
       </tuv>
@@ -134517,7 +134789,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This option can lead to large files when used with photographs.</seg>
       </tuv>
@@ -138454,7 +138725,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To export single pages, use the format 7;9;11 (pages 7, 9, and 11), or a combination of the two formats.</seg>
       </tuv>
@@ -142538,8 +142808,8 @@ Tab / ⇥</seg>
       <tuv lang="en-US">
         <seg>Trend and mean value lines</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="vitor" changedate="20260407T234416Z" creationid="vitor" creationdate="20260407T234416Z">
-        <seg>Linhas de Tendência e de Valor médio</seg>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T100354Z" creationid="vitor" creationdate="20260407T234416Z">
+        <seg>Linhas de tendência e de valor médio</seg>
       </tuv>
     </tu>
     <tu>
@@ -145551,7 +145821,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>User Interface tab of PDF Options dialog</seg>
       </tuv>
@@ -145693,6 +145962,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250325T200551Z" creationid="olivier" creationdate="20250325T200551Z">
         <seg>Os usuários não poderão imprimir o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uses only horizontal and vertical lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T093836Z" creationid="timotheonb" creationdate="20261106T093836Z">
+        <seg>Usa apenas linhas horizontais e verticais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -147408,7 +147685,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Watermark section</seg>
       </tuv>
@@ -148649,7 +148925,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>When doing so, you may only specify the file name and location for the PDF.</seg>
       </tuv>
@@ -154778,7 +155053,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You may not want this!</seg>
       </tuv>
@@ -154899,7 +155173,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>You must first select the sheets to export.</seg>
       </tuv>
