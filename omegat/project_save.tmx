@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -533,6 +533,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>(Not available on Microsoft Windows systems, where LibreOffice will access the system certificate storage.) When using a smartcard, it must already be configured for use by your key store.</seg>
       </tuv>
@@ -4847,6 +4848,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Chapter 11 &lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
@@ -9399,6 +9401,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Show All&lt;/f0&gt;: shows all outline levels when the reader opens the PDF.</seg>
       </tuv>
@@ -10783,6 +10786,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Visible levels&lt;/f0&gt;: shows outline levels down to the selected level (in the range 1 to 10) when the reader opens the PDF.</seg>
       </tuv>
@@ -16335,6 +16339,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Set Passwords dialog&lt;/s0&gt;&lt;s1&gt;Set Passwords dialog&lt;/s1&gt;</seg>
       </tuv>
@@ -20351,6 +20356,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>A personal key is stored on your computer as a combination of a private key, which must be kept secret, and a public key, which you add to your documents when you sign them.</seg>
       </tuv>
@@ -20607,6 +20613,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>A signed document shows an icon in the status bar.</seg>
       </tuv>
@@ -25255,6 +25262,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>An icon with a red seal indicates that the document was signed, and the certificate was validated.</seg>
       </tuv>
@@ -25263,6 +25271,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>An icon with a yellow caution triangle by itself indicates an invalid digital signature.</seg>
       </tuv>
@@ -25271,6 +25280,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>An icon with a yellow caution triangle overlaying the red seal indicates that the document is signed but that the certificate could not be validated.</seg>
       </tuv>
@@ -26008,6 +26018,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Anyone viewing the PDF can use this timestamp to verify when the document was signed.</seg>
       </tuv>
@@ -26368,6 +26379,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Applying a digital signature</seg>
       </tuv>
@@ -27776,6 +27788,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Avoid the &lt;f0&gt;Send via Bluetooth&lt;/f0&gt; option, which is non-operational in this software build.</seg>
       </tuv>
@@ -32568,6 +32581,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Changing the value of an existing description invalidates the signature.</seg>
       </tuv>
@@ -46624,6 +46638,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Digital Signatures tab of PDF Options dialog</seg>
       </tuv>
@@ -46648,6 +46663,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Digital signatures are used to ensure that the PDF was really created by the original author (that is, you), and that the document has not been modified since it was signed.</seg>
       </tuv>
@@ -46664,6 +46680,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Digital signing of documents</seg>
       </tuv>
@@ -46680,6 +46697,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Digitally signing macros</seg>
       </tuv>
@@ -49410,6 +49428,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Each or all of the three fields may be left blank.</seg>
       </tuv>
@@ -53122,6 +53141,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Exporting to other formats</seg>
       </tuv>
@@ -56010,6 +56030,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Digital Signatures dialog</seg>
       </tuv>
@@ -67483,6 +67504,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Generally not used in Calc.</seg>
       </tuv>
@@ -73835,6 +73857,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If both are the same, the program will signal that you see the original, unchanged document.</seg>
       </tuv>
@@ -75771,6 +75794,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If the key store is protected by a password, you are prompted for it.</seg>
       </tuv>
@@ -77251,6 +77275,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If you make any changes to the document after digitally signing, the digital signature is removed automatically, and you have to repeat the above procedure to digitally sign it again.</seg>
       </tuv>
@@ -79787,6 +79812,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In addition, the program can show you the public key information from the certificate.</seg>
       </tuv>
@@ -81507,6 +81533,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In the past, LibreOffice prohibited creating multiple signatures by the same author on a document, because there was no semantic meaning of signing the same document multiple times.</seg>
       </tuv>
@@ -82035,6 +82062,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In your email program, enter the recipient, subject, and any text you want to add, then send the email.</seg>
       </tuv>
@@ -87123,6 +87151,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>LibreOffice now provides a signature description, so multiple signatures from the same author are allowed, because each signature can have a different meaning.</seg>
       </tuv>
@@ -87419,6 +87448,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>LibreOffice uses the term “export” for some file operations involving a change of file type.</seg>
       </tuv>
@@ -87867,6 +87897,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Links tab of PDF Options dialog</seg>
       </tuv>
@@ -91003,6 +91034,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>More than one signature can be added to a document.</seg>
       </tuv>
@@ -94427,6 +94459,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>On Linux systems, files that are supplied by Mozilla Thunderbird or Firefox are used to validate the signature.</seg>
       </tuv>
@@ -94459,6 +94492,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>On Windows operating systems, the Windows features for validating a signature are used.</seg>
       </tuv>
@@ -95475,6 +95509,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Once opened, there are no restrictions on what the user can do with the document (for example, print, copy, or change it).</seg>
       </tuv>
@@ -96603,6 +96638,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Open the file that you want to digitally sign.</seg>
       </tuv>
@@ -103620,6 +103656,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Removing personal data</seg>
       </tuv>
@@ -106740,6 +106777,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Security tab of PDF Options dialog</seg>
       </tuv>
@@ -107308,6 +107346,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>See Figure &lt;t0&gt;19&lt;/t0&gt;.</seg>
       </tuv>
@@ -110236,6 +110275,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Select one among the following alternatives:</seg>
       </tuv>
@@ -111724,6 +111764,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Select the parameters to be used for the PDF file.</seg>
       </tuv>
@@ -113708,6 +113749,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Set Passwords dialog</seg>
       </tuv>
@@ -114156,6 +114198,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Setting encryption and passwords also allows you to apply restrictions on printing and if changes or copying can be carried out on the PDF file.</seg>
       </tuv>
@@ -115644,6 +115687,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Signing multiple times with the same signature</seg>
       </tuv>
@@ -116876,6 +116920,7 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Some smartcard software will prompt you for the PIN again before signing.</seg>
       </tuv>
@@ -124269,6 +124314,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The actual procedure depends on how your computer is set up and the computer’s operating system.</seg>
       </tuv>
@@ -124805,6 +124851,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The certificate used is displayed in the Digital Signatures dialog with an icon next to its name.</seg>
       </tuv>
@@ -125029,6 +125076,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The checksum and your public key are stored together with the document.</seg>
       </tuv>
@@ -127157,6 +127205,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The following procedure is only an example of how to digitally sign a document.</seg>
       </tuv>
@@ -131309,6 +131358,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The signed PDF export uses the keys and X.509 certificates already stored in your default key store location or on a smartcard.</seg>
       </tuv>
@@ -135661,6 +135711,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This icon indicates the status of the digital signature.</seg>
       </tuv>
@@ -135789,6 +135840,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This information will be embedded in the appropriate PDF fields and will be visible to anyone viewing the PDF.</seg>
       </tuv>
@@ -136181,6 +136233,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This is usually done during installation of the smartcard software.</seg>
       </tuv>
@@ -143437,6 +143490,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To sign a document digitally, you need a personal key, also known as a certificate.</seg>
       </tuv>
@@ -151533,6 +151587,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When someone later opens the document on any computer with a recent version of LibreOffice, the program will compute the checksum again and compare it with the stored checksum.</seg>
       </tuv>
@@ -152117,6 +152172,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When using a smartcard that is protected by a PIN, you are also prompted for that.</seg>
       </tuv>
@@ -152125,6 +152181,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When using a smartcard, enter the PIN here.</seg>
       </tuv>
@@ -152173,6 +152230,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When you apply a digital signature to a document, a checksum is computed from the document’s content plus your personal key.</seg>
       </tuv>
@@ -152845,6 +152903,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Whenever someone changes something in the document, the change breaks the digital signature.</seg>
       </tuv>
@@ -153453,6 +153512,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>With an open password set, the PDF can only be opened with the password.</seg>
       </tuv>
@@ -153461,6 +153521,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>With both the open password and permission password set, the PDF can only be opened with the correct password, and its permissions can be restricted.</seg>
       </tuv>
@@ -154861,6 +154922,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can also email a document to several recipients.</seg>
       </tuv>
@@ -155477,6 +155539,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can compare the public key with the public key that is published on the web site of the certificate authority.</seg>
       </tuv>
@@ -155773,6 +155836,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can double-click the icon to view the certificate.</seg>
       </tuv>
@@ -155989,6 +156053,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can get a certificate from a certification authority, which may be a private company or a governmental institution.</seg>
       </tuv>
@@ -157165,6 +157230,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You may wish to ensure that personal data, versions, notes, hidden information, or recorded changes are removed from files before you send them to other people or create PDFs from them.</seg>
       </tuv>
@@ -158677,6 +158743,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>emailing spreadsheets</seg>
       </tuv>
@@ -161181,6 +161248,7 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>signing documents digitally</seg>
       </tuv>
