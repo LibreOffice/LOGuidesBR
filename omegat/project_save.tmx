@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -533,7 +533,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>(Not available on Microsoft Windows systems, where LibreOffice will access the system certificate storage.) When using a smartcard, it must already be configured for use by your key store.</seg>
       </tuv>
@@ -4848,7 +4847,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Chapter 11 &lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
@@ -9401,7 +9399,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Show All&lt;/f0&gt;: shows all outline levels when the reader opens the PDF.</seg>
       </tuv>
@@ -10786,7 +10783,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Visible levels&lt;/f0&gt;: shows outline levels down to the selected level (in the range 1 to 10) when the reader opens the PDF.</seg>
       </tuv>
@@ -12284,10 +12280,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Chart Type dialog - Net&lt;/s0&gt;&lt;s1&gt;Chart Type dialog - Net&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102056Z" creationid="timotheonb" creationdate="20261112T102056Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Tipo de gráfico - Rede&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Tipo de gráfico - Rede&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Chart Type dialog - Pie&lt;/s0&gt;&lt;s1&gt;Chart Type dialog - Pie&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260915T113120Z" creationid="timotheonb" creationdate="20260915T113120Z">
         <seg>&lt;s0&gt;Diálogo Tipo de gráfico - Pizza&lt;/s0&gt;&lt;s1&gt;Diálogo Tipo de gráfico - Pizza&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Chart Type dialog - Stock&lt;/s0&gt;&lt;s1&gt;Chart Type dialog - Stock&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103744Z" creationid="timotheonb" creationdate="20261112T103744Z">
+        <seg>&lt;s0&gt;Caixa de diálogo Tipo de gráfico - Cotações&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Tipo de gráfico - Cotações&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13404,6 +13416,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Example data arrangement for stock charts&lt;/s0&gt;&lt;s1&gt;Example data arrangement for stock charts&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102921Z" creationid="timotheonb" creationdate="20261112T102921Z">
+        <seg>&lt;s0&gt;Exemplo de organização de dados para gráficos de cotações&lt;/s0&gt;&lt;s1&gt;Exemplo de organização de dados para gráficos de cotações&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Example data for creating a chart&lt;/s0&gt;&lt;s1&gt;Example data for creating a chart&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260327T002110Z" creationid="vitor" creationdate="20260327T001823Z">
@@ -13880,6 +13900,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250123T215627Z" creationid="olivier" creationdate="20250123T215627Z">
         <seg>&lt;s0&gt;Caixa de diálogo Preencher série&lt;/s0&gt;&lt;s1&gt;Caixa de diálogo Preencher série&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Filled net chart and net chart with 3D data point icons&lt;/s0&gt;&lt;s1&gt;Filled net chart and net chart with 3D data point icons&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102330Z" creationid="timotheonb" creationdate="20261112T102330Z">
+        <seg>&lt;s0&gt;Gráfico de rede preenchido e gráfico de rede com ícones de pontos de dados 3D&lt;/s0&gt;&lt;s1&gt;Gráfico de rede preenchido e gráfico de rede com ícones de pontos de dados 3D&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16307,7 +16335,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Set Passwords dialog&lt;/s0&gt;&lt;s1&gt;Set Passwords dialog&lt;/s1&gt;</seg>
       </tuv>
@@ -16433,6 +16460,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261021T141811Z" creationid="olivier" creationdate="20261021T141811Z">
         <seg>&lt;s0&gt;Simple example of reference intersection operator&lt;/s0&gt;&lt;s1&gt;Simple example of reference intersection operator&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;Simple net chart example&lt;/s0&gt;&lt;s1&gt;Simple net chart example&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T101157Z" creationid="timotheonb" creationdate="20261112T101157Z">
+        <seg>&lt;s0&gt;Exemplo simples de gráfico de rede&lt;/s0&gt;&lt;s1&gt;Exemplo simples de gráfico de rede&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20316,7 +20351,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>A personal key is stored on your computer as a combination of a private key, which must be kept secret, and a public key, which you add to your documents when you sign them.</seg>
       </tuv>
@@ -20573,7 +20607,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>A signed document shows an icon in the status bar.</seg>
       </tuv>
@@ -20747,6 +20780,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T212320Z" creationid="olivier" creationdate="20261020T212320Z">
         <seg>Um ícone da barra de status (botão de alternância) indicará quando o Autocalcular está desligado (Figura &lt;t0&gt;1&lt;/t0&gt;) Para ativar o recurso Autocalcular, clique no ícone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A stock chart illustrates the market trends for stock and shares by giving opening price, bottom price, top price, and closing price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102509Z" creationid="timotheonb" creationdate="20261112T102509Z">
+        <seg>Um gráfico de cotações ilustra as tendências do mercado de ações, fornecendo o preço de abertura, preço inferior, preço superior e preço de fechamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A stock chart organizes data series in two basic ways.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103025Z" creationid="timotheonb" creationdate="20261112T103025Z">
+        <seg>Um gráfico de cotações organiza séries de dados de duas maneiras básicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25206,7 +25255,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>An icon with a red seal indicates that the document was signed, and the certificate was validated.</seg>
       </tuv>
@@ -25215,7 +25263,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>An icon with a yellow caution triangle by itself indicates an invalid digital signature.</seg>
       </tuv>
@@ -25224,7 +25271,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>An icon with a yellow caution triangle overlaying the red seal indicates that the document is signed but that the certificate could not be validated.</seg>
       </tuv>
@@ -25962,7 +26008,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Anyone viewing the PDF can use this timestamp to verify when the document was signed.</seg>
       </tuv>
@@ -26323,7 +26368,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Applying a digital signature</seg>
       </tuv>
@@ -26865,6 +26909,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260417T000930Z" creationid="vitor" creationdate="20260405T111103Z">
         <seg>Como mostrado na figura &lt;t0&gt;25&lt;/t0&gt;, movimente o mouse sobre o ponto de dados para mostrar o número do ponto de dados, o número da série e os valores X e Y do ponto de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As shown in Figure &lt;t0&gt;27&lt;/t0&gt;, a secondary Y axis enables both transaction volume and price to be shown on vertical axes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T104332Z" creationid="timotheonb" creationdate="20261112T104303Z">
+        <seg>Como mostra a Figura &lt;t0&gt;27&lt;/t0&gt;, um eixo Y secundário permite que o volume e o preço da transação sejam mostrados nos eixos verticais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27724,7 +27776,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Avoid the &lt;f0&gt;Send via Bluetooth&lt;/f0&gt; option, which is non-operational in this software build.</seg>
       </tuv>
@@ -28270,6 +28321,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on the open, low, high, and close columns, this variant generates the traditional candlestick chart (Figure &lt;t0&gt;26&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T104123Z" creationid="timotheonb" creationdate="20261112T104123Z">
+        <seg>Com base nas colunas abertas - baixa, alta e fechamento - esta variante gera o Gráfico de cotações 2 (velas – candelítico – tradicional (Figura &lt;t0&gt;26&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Basic Grids dialog</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T004055Z" creationid="vitor" creationdate="20260407T004055Z">
@@ -28406,6 +28465,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be especially careful about choosing to stack data series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T101844Z" creationid="timotheonb" creationdate="20261112T101844Z">
+        <seg>Tenha cuidado especial ao escolher empilhar séries de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Be sure to first double-click the chart to enter edit mode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20261106T094201Z" creationid="timotheonb" creationdate="20261106T094201Z">
@@ -28522,6 +28589,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T131603Z" creationid="olivier-tdf" creationdate="20250615T131603Z">
         <seg>Antes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before and after values can be plotted on the same chart, or perhaps expected and real results, so that differences can be compared.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T101637Z" creationid="timotheonb" creationdate="20261112T101637Z">
+        <seg>Os valores antes e depois podem ser mostrados no mesmo gráfico, ou talvez resultados esperados e reais, para a possibilidade de comparação de diferenças.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32493,7 +32568,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Changing the value of an existing description invalidates the signature.</seg>
       </tuv>
@@ -33007,10 +33081,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chart Type dialog - Net</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102116Z" creationid="timotheonb" creationdate="20261112T102116Z">
+        <seg>Caixa de diálogo Tipo de gráfico - Rede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chart Type dialog - Pie</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260915T113143Z" creationid="timotheonb" creationdate="20260915T113143Z">
         <seg>Diálogo Tipo de gráfico - Pizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chart Type dialog - Stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103802Z" creationid="timotheonb" creationdate="20261112T103802Z">
+        <seg>Caixa de diálogo Tipo de gráfico - Cotações</seg>
       </tuv>
     </tu>
     <tu>
@@ -46534,7 +46624,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Digital Signatures tab of PDF Options dialog</seg>
       </tuv>
@@ -46559,7 +46648,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Digital signatures are used to ensure that the PDF was really created by the original author (that is, you), and that the document has not been modified since it was signed.</seg>
       </tuv>
@@ -46576,7 +46664,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Digital signing of documents</seg>
       </tuv>
@@ -46593,7 +46680,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Digitally signing macros</seg>
       </tuv>
@@ -49324,7 +49410,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Each or all of the three fields may be left blank.</seg>
       </tuv>
@@ -52102,6 +52187,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example data arrangement for stock charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103010Z" creationid="timotheonb" creationdate="20261112T103010Z">
+        <seg>Exemplo de organização de dados para gráficos de cotação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example data for creating a chart</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260327T002207Z" creationid="vitor" creationdate="20260327T002207Z">
@@ -53029,7 +53122,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Exporting to other formats</seg>
       </tuv>
@@ -55719,6 +55811,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Simple net chart example</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T101218Z" creationid="timotheonb" creationdate="20261112T101218Z">
+        <seg>Figura &lt;seq0&gt;20&lt;/seq0&gt;: exemplo simples de gráfico de rede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Using the Object Inspector to find a property</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T193342Z" creationid="olivier-tdf" creationdate="20250708T193342Z">
@@ -55731,6 +55831,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260525T234824Z" creationid="vitor" creationdate="20260525T234824Z">
         <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: Janela de depuração BeanShell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Chart Type dialog - Net</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102110Z" creationid="timotheonb" creationdate="20261112T102110Z">
+        <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: Caixa de diálogo Tipo de gráfico - Rede</seg>
       </tuv>
     </tu>
     <tu>
@@ -55902,7 +56010,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Digital Signatures dialog</seg>
       </tuv>
@@ -55924,6 +56031,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250720T213433Z" creationid="olivier-tdf" creationdate="20250720T213433Z">
         <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: Exemplo de um conector entre objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Filled net chart and net chart with 3D data point icons</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102341Z" creationid="timotheonb" creationdate="20261112T102341Z">
+        <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: Gráfico de rede preenchido e gráfico de rede com ícones de pontos de dados 3D</seg>
       </tuv>
     </tu>
     <tu>
@@ -56064,6 +56179,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Example data arrangement for stock charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103016Z" creationid="timotheonb" creationdate="20261112T102948Z">
+        <seg>Figura &lt;seq0&gt;23&lt;/seq0&gt;: exemplo de organização de dados para gráficos de cotação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Functions tab of Function Wizard</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T104439Z" creationid="olivier" creationdate="20261025T104439Z">
@@ -56180,6 +56303,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T213355Z" creationid="olivier" creationdate="20261006T213355Z">
         <seg>Figura &lt;seq0&gt;24&lt;/seq0&gt;: Opções de grade do Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Chart Type dialog - Stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103753Z" creationid="timotheonb" creationdate="20261112T103753Z">
+        <seg>Figura &lt;seq0&gt;24&lt;/seq0&gt;: Caixa de diálogo Tipo de gráfico - Cotações</seg>
       </tuv>
     </tu>
     <tu>
@@ -59624,10 +59755,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;t0&gt;21&lt;/t0&gt;&lt;s1/&gt;shows the options for creating a net chart.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T101705Z" creationid="timotheonb" creationdate="20261112T101705Z">
+        <seg>Figura &lt;t0&gt;21&lt;/t0&gt;&lt;s1/&gt;mostra as opções para criar um gráfico de rede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;provides an example of a sheet split horizontally into two sections, with the split indicated by the gray separator line located between rows 2 and 7.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250122T223340Z" creationid="olivier-tdf" creationdate="20250122T223340Z">
         <seg>A Figura &lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;fornece um exemplo de uma planilha dividida horizontalmente em duas seções, com a divisão indicada pela linha separadora cinza localizada entre as linhas 2 e 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;shows examples of two types of net charts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102134Z" creationid="timotheonb" creationdate="20261112T102134Z">
+        <seg>Figura &lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;mostra exemplos de dois tipos de gráficos de rede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;t0&gt;23&lt;/t0&gt;&lt;s1/&gt;shows the data for four data series:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103338Z" creationid="timotheonb" creationdate="20261112T103338Z">
+        <seg>Figura &lt;t0&gt;23&lt;/t0&gt;&lt;s1/&gt;apresenta os dados de quatro séries de dados:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60516,6 +60671,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20251118T014438Z" creationid="firelinux" creationdate="20251118T014438Z">
         <seg>Preencher com números aleatórios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filled net chart and net chart with 3D data point icons</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102350Z" creationid="timotheonb" creationdate="20261112T102350Z">
+        <seg>Gráfico de rede preenchido e gráfico de rede com ícones de pontos de dados 3D</seg>
       </tuv>
     </tu>
     <tu>
@@ -63665,6 +63828,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For falling values, the fill color is black.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T104218Z" creationid="timotheonb" creationdate="20261112T104218Z">
+        <seg>Para valores decrescentes, a cor de preenchimento é preta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For finer positioning of the Legend, use one of the methods described in “&lt;bf0&gt;Moving chart elements&lt;/bf0&gt;” on page &lt;bf1&gt;16&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260329T234217Z" creationid="vitor" creationdate="20260329T234217Z">
@@ -65373,6 +65544,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20251023T213138Z" creationid="timotheonb" creationdate="20251023T213138Z">
         <seg>Para conteúdo remoto (contendo por exemplo, &lt;f1&gt;http://...&lt;/f1&gt;), o link abre um navegador da web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For rising values (the opening price is lower than the closing price), the fill color is white.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T104211Z" creationid="timotheonb" creationdate="20261112T104211Z">
+        <seg>Para valores crescentes (o preço de abertura é inferior ao preço de fechamento), a cor de preenchimento é branca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67304,7 +67483,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Generally not used in Calc.</seg>
       </tuv>
@@ -67318,6 +67496,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250728T153343Z" creationid="firelinux" creationdate="20250728T153343Z">
         <seg>Em geral, se o erro ocorrer na célula selecionada (ou que contém o cursor), a mensagem de erro é mostrada na barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generally, between three and eight axes are best; any more and this type of chart becomes confusing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T101340Z" creationid="timotheonb" creationdate="20261112T101340Z">
+        <seg>Geralmente, de três a oito eixos são suficientes, porém, algo acima disso torna o gráfico confuso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72050,6 +72236,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, keep in mind that area increases as the square of the distance along the linear spokes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T101805Z" creationid="timotheonb" creationdate="20261112T101805Z">
+        <seg>No entanto, lembre-se de que a área aumenta com o quadrado da distância ao longo dos raios lineares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, manual adjustments may still be needed when defining the data series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102853Z" creationid="timotheonb" creationdate="20261112T102853Z">
+        <seg>No entanto, ajustes manuais ainda podem ser necessários ao definir a série de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, multiple digital signatures from the same author are allowed, because each digital signature can have a different description.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T191309Z" creationid="olivier-tdf" creationdate="20250328T191309Z">
@@ -73633,7 +73835,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If both are the same, the program will signal that you see the original, unchanged document.</seg>
       </tuv>
@@ -75570,7 +75771,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If the key store is protected by a password, you are prompted for it.</seg>
       </tuv>
@@ -77051,7 +77251,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If you make any changes to the document after digitally signing, the digital signature is removed automatically, and you have to repeat the above procedure to digitally sign it again.</seg>
       </tuv>
@@ -79588,7 +79787,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In addition, the program can show you the public key information from the certificate.</seg>
       </tuv>
@@ -81309,7 +81507,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In the past, LibreOffice prohibited creating multiple signatures by the same author on a document, because there was no semantic meaning of signing the same document multiple times.</seg>
       </tuv>
@@ -81639,6 +81836,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this case, successive data series show increasingly large areas that are not proportional to their values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102028Z" creationid="timotheonb" creationdate="20261112T102028Z">
+        <seg>Nesse caso, séries de dados sucessivas mostram áreas progressivamente maiores que não são proporcionais aos seus valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this case, the Protect Sheet dialog is not presented at step &lt;bf0&gt;1)&lt;/bf0&gt;&lt;s1/&gt;above and step &lt;bf2&gt;2)&lt;/bf2&gt;&lt;s3/&gt;is not necessary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T194226Z" creationid="firelinux" creationdate="20260403T194226Z">
@@ -81659,6 +81864,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T235028Z" creationid="vitor" creationdate="20260405T235028Z">
         <seg>Neste caso, os rótulos de dados permanecerão apresentados mesmo quando pressionar &lt;f1&gt;Cancelar&lt;/f1&gt; na Caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this case, the open, low, high, and closing values of a row create one data unit in the chart and one data series consists of several rows containing such data units.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103048Z" creationid="timotheonb" creationdate="20261112T103048Z">
+        <seg>Nesse caso, os valores de abertura, baixa, alta e fechamento de uma linha criam uma unidade de dados no gráfico e uma série de dados consiste em várias linhas contendo tais unidades de dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81822,7 +82035,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In your email program, enter the recipient, subject, and any text you want to add, then send the email.</seg>
       </tuv>
@@ -84744,6 +84956,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows a vertical line between the bottom and top prices and adds a rectangle in front that shows the range between the opening and closing prices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T104202Z" creationid="timotheonb" creationdate="20261112T104202Z">
+        <seg>Ele mostra uma linha vertical entre os preços inferior e superior e adiciona um retângulo na frente que mostra o intervalo entre os preços de abertura e fechamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows horizontal bars rather than vertical columns.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260914T185936Z" creationid="timotheonb" creationdate="20260914T185936Z">
@@ -84772,6 +84992,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250405T145751Z" creationid="olivier" creationdate="20250405T145751Z">
         <seg>Ele especifica o texto que será adicionado como um atributo NAME no código HTML interno do hiperlink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It specifies which columns should be the opening, low, high, and closing prices of the stock as well as the transaction volume.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102846Z" creationid="timotheonb" creationdate="20261112T102846Z">
+        <seg>Ele especifica quais colunas devem ser os preços de abertura, baixa, alta e fechamento das ações, bem como o volume da transação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86895,7 +87123,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>LibreOffice now provides a signature description, so multiple signatures from the same author are allowed, because each signature can have a different meaning.</seg>
       </tuv>
@@ -87192,7 +87419,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>LibreOffice uses the term “export” for some file operations involving a change of file type.</seg>
       </tuv>
@@ -87641,7 +87867,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Links tab of PDF Options dialog</seg>
       </tuv>
@@ -90778,7 +91003,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>More than one signature can be added to a document.</seg>
       </tuv>
@@ -93396,6 +93620,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that some of them do not use all of the data columns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103709Z" creationid="timotheonb" creationdate="20261112T103709Z">
+        <seg>Observe que alguns não usam todas as colunas de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that the CONCATENATE function can be used to perform the same operation as the formula.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261020T220848Z" creationid="olivier" creationdate="20261020T220848Z">
@@ -94195,7 +94427,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>On Linux systems, files that are supplied by Mozilla Thunderbird or Firefox are used to validate the signature.</seg>
       </tuv>
@@ -94228,7 +94459,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>On Windows operating systems, the Windows features for validating a signature are used.</seg>
       </tuv>
@@ -95245,7 +95475,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Once opened, there are no restrictions on what the user can do with the document (for example, print, copy, or change it).</seg>
       </tuv>
@@ -96374,7 +96603,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Open the file that you want to digitally sign.</seg>
       </tuv>
@@ -98884,6 +99112,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250301T234758Z" creationid="olivier" creationdate="20250301T234758Z">
         <seg>Part 3, OpenDocument Schema: &lt;a0&gt;https://docs.oasis-open.org/office/OpenDocument/v1.3/OpenDocument-v1.3-part3-schema.html&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Partial transparency is often best for showing all of the series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102232Z" creationid="timotheonb" creationdate="20261112T102232Z">
+        <seg>A transparência parcial é geralmente melhor para mostrar toda a série.</seg>
       </tuv>
     </tu>
     <tu>
@@ -103384,7 +103620,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Removing personal data</seg>
       </tuv>
@@ -106505,7 +106740,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Security tab of PDF Options dialog</seg>
       </tuv>
@@ -107074,7 +107308,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>See Figure &lt;t0&gt;19&lt;/t0&gt;.</seg>
       </tuv>
@@ -110003,7 +110236,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Select one among the following alternatives:</seg>
       </tuv>
@@ -111492,7 +111724,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Select the parameters to be used for the PDF file.</seg>
       </tuv>
@@ -113477,7 +113708,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Set Passwords dialog</seg>
       </tuv>
@@ -113926,7 +114156,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Setting encryption and passwords also allows you to apply restrictions on printing and if changes or copying can be carried out on the PDF file.</seg>
       </tuv>
@@ -115415,7 +115644,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Signing multiple times with the same signature</seg>
       </tuv>
@@ -115621,6 +115849,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260408T001202Z" creationid="vitor" creationdate="20260408T001202Z">
         <seg>Média móvel simples para n valores y anteriores, com n sendo o período.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simple net chart example</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T101223Z" creationid="timotheonb" creationdate="20261112T101223Z">
+        <seg>Exemplo simples de gráfico de rede</seg>
       </tuv>
     </tu>
     <tu>
@@ -116640,7 +116876,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Some smartcard software will prompt you for the PIN again before signing.</seg>
       </tuv>
@@ -118438,6 +118673,46 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260226T121343Z" creationid="timotheonb" creationdate="20260226T121343Z">
         <seg>Steve Fanning, Cathy Crumbley, Felipe Viggiano, Leo Moons, Olivier Hallot, B. Antonio Fernández, Dione Maddern, Celia Palacios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Chart 1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T104006Z" creationid="timotheonb" creationdate="20261112T103908Z">
+        <seg>Gráfico de cotações 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Chart 2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T104000Z" creationid="timotheonb" creationdate="20261112T104000Z">
+        <seg>Gráfico de cotações 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Chart 3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T104226Z" creationid="timotheonb" creationdate="20261112T104226Z">
+        <seg>Gráfico de cotações 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock chart variants</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103454Z" creationid="timotheonb" creationdate="20261112T103454Z">
+        <seg>Variantes do gráfico Cotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102455Z" creationid="timotheonb" creationdate="20261112T102455Z">
+        <seg>Gráficos Cotações</seg>
       </tuv>
     </tu>
     <tu>
@@ -121923,6 +122198,22 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Acme transaction volume, which is one column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103435Z" creationid="timotheonb" creationdate="20261112T103435Z">
+        <seg>O volume de transações da Acme, representado por uma coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Ajax transaction volume, which is one column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103446Z" creationid="timotheonb" creationdate="20261112T103446Z">
+        <seg>O volume de transações Ajax, representado por uma coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Alternative Python Script Organizer (APSO) extension eases the editing of Python scripts, in particular when embedded in a document.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T203852Z" creationid="vitor" creationdate="20260524T153903Z">
@@ -122079,6 +122370,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260412T233010Z" creationid="vitor" creationdate="20260328T194055Z">
         <seg>O Assistente de Gráfico faz suposições iniciais sobre como os dados devem ser exibidos, mas estas suposições podem estar incorretas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Chart Wizard offers four stock chart variants, as shown in Figure &lt;t0&gt;24&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103512Z" creationid="timotheonb" creationdate="20261112T103512Z">
+        <seg>O Assistente de gráficos oferece quatro variantes de gráfico de cotações, conforme Figura &lt;t0&gt;24&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123970,7 +124269,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The actual procedure depends on how your computer is set up and the computer’s operating system.</seg>
       </tuv>
@@ -124507,7 +124805,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The certificate used is displayed in the Digital Signatures dialog with an icon next to its name.</seg>
       </tuv>
@@ -124732,7 +125029,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The checksum and your public key are stored together with the document.</seg>
       </tuv>
@@ -124818,6 +125114,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250308T212730Z" creationid="olivier-tdf" creationdate="20250308T212730Z">
         <seg>As notações de cores nesta caixa de diálogo estão vinculadas e, ao mudar um valor numa das notações de cor, as demais notações serão alteradas automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The color of one of the data series is 50% transparent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102216Z" creationid="timotheonb" creationdate="20261112T102216Z">
+        <seg>A cor de uma das séries de dados tem 50% de transparência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124914,6 +125218,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T173953Z" creationid="olivier" creationdate="20261025T173953Z">
         <seg>A coluna, linha ou planilha da célula referenciada está faltando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The columns containing transaction volumes are the second way used to organize data series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103306Z" creationid="timotheonb" creationdate="20261112T103306Z">
+        <seg>As colunas contendo volumes de transação são a segunda maneira usada para organizar séries de dados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125462,6 +125774,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The data point icons are taken from the Gallery and have a 3D look.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102247Z" creationid="timotheonb" creationdate="20261112T102247Z">
+        <seg>Os ícones de ponto de dados são retirados da Galeria e têm uma aparência 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The data point will show square selection handles.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T110424Z" creationid="vitor" creationdate="20260405T110424Z">
@@ -125586,6 +125906,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250321T013819Z" creationid="olivier" creationdate="20250318T151133Z">
         <seg>A fonte de dados vinculada ao documento e a sua visualização são sempre carregadas com o documento, independentemente de essa opção estar selecionada ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The data table in Figure &lt;t0&gt;23&lt;/t0&gt;&lt;s1/&gt;is used to illustrate the variants, which are as follows.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103830Z" creationid="timotheonb" creationdate="20261112T103830Z">
+        <seg>A tabela de dados na Figura &lt;t0&gt;23&lt;/t0&gt;&lt;s1/&gt;é usada para ilustrar as seguintes variantes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -126294,6 +126622,22 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The example on the left is a filled net chart.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102152Z" creationid="timotheonb" creationdate="20261112T102152Z">
+        <seg>O exemplo à esquerda é um gráfico de rede preenchido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The example on the right is a net chart with lines and points.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102239Z" creationid="timotheonb" creationdate="20261112T102239Z">
+        <seg>O exemplo à direita é um gráfico de rede com linhas e pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The examples covered so far in this chapter were created using the macro recorder and the dispatcher, but you can also write macros in code which directly access the objects that comprise LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250708T185557Z" creationid="olivier-tdf" creationdate="20250708T185557Z">
@@ -126558,6 +126902,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first way is not used in other chart types.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103031Z" creationid="timotheonb" creationdate="20261112T103031Z">
+        <seg>A primeira forma não é usada em outros tipos de gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The fixed tabs in Calc are &lt;f0&gt;File&lt;/f0&gt;, &lt;f1&gt;Home&lt;/f1&gt;, &lt;f2&gt;Insert&lt;/f2&gt;, &lt;f3&gt;Layout&lt;/f3&gt;, &lt;f4&gt;Data&lt;/f4&gt;, &lt;f5&gt;Review&lt;/f5&gt;, &lt;f6&gt;View&lt;/f6&gt;, &lt;f7&gt;Extension&lt;/f7&gt;, and &lt;f8&gt;Tools&lt;/f8&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260924T184216Z" creationid="olivier" creationdate="20260924T184216Z">
@@ -126805,7 +127157,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The following procedure is only an example of how to digitally sign a document.</seg>
       </tuv>
@@ -129895,6 +130246,22 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The price data for Acme, which contains columns for open, low, high, and closing prices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103408Z" creationid="timotheonb" creationdate="20261112T103408Z">
+        <seg>Os dados de preços da Acme, que contêm colunas para preços de abertura, mínimo, máximo e fechamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The price data for Ajax, which contains columns for open, low, high, and closing prices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103419Z" creationid="timotheonb" creationdate="20261112T103419Z">
+        <seg>Os dados de preços do Ajax contêm colunas para os preços de abertura, mínima, máxima e fechamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The price of this reliability is slower input, but precision is generally more important than speed when creating a spreadsheet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T105222Z" creationid="olivier" creationdate="20261025T105222Z">
@@ -130942,7 +131309,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The signed PDF export uses the keys and X.509 certificates already stored in your default key store location or on a smartcard.</seg>
       </tuv>
@@ -131740,6 +132106,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260825T205633Z" creationid="timotheonb" creationdate="20260825T205633Z">
         <seg>As alças superior, inferior, esquerda e direita redimensionam apenas uma dimensão de cada vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The transaction volume can also be shown and the X axis usually represents a time series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102753Z" creationid="timotheonb" creationdate="20261112T102753Z">
+        <seg>O volume da transação também pode ser mostrado e o eixo X geralmente representa uma série temporal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132864,6 +133238,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Therefore, net charts can distort the areas representing the data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T101816Z" creationid="timotheonb" creationdate="20261112T101816Z">
+        <seg>Portanto, os gráficos de rede podem distorcer as áreas que representam os dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Therefore, some illustrations will not look exactly like what is seen on a computer display.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T203129Z" creationid="olivier-tdf" creationdate="20250109T212355Z">
@@ -132964,6 +133346,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T001936Z" creationid="vitor" creationdate="20260407T001936Z">
         <seg>Estes são similares às chaves de cor usadas na legenda do gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are similar to those for area and line charts, described above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T101728Z" creationid="timotheonb" creationdate="20261112T101728Z">
+        <seg>Estes são semelhantes aos gráficos de área e linha, descritos acima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135271,7 +135661,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This icon indicates the status of the digital signature.</seg>
       </tuv>
@@ -135400,7 +135789,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This information will be embedded in the appropriate PDF fields and will be visible to anyone viewing the PDF.</seg>
       </tuv>
@@ -135730,6 +136118,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the familiar way used in other chart types.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103326Z" creationid="timotheonb" creationdate="20261112T103326Z">
+        <seg>Esta é a forma familiar usada em outros tipos de gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the first line of support for using LibreOffice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20250724T213554Z" creationid="timotheonb" creationdate="20250724T213554Z">
@@ -135785,7 +136181,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This is usually done during installation of the smartcard software.</seg>
       </tuv>
@@ -143042,7 +143437,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To sign a document digitally, you need a personal key, also known as a certificate.</seg>
       </tuv>
@@ -148444,6 +148838,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using the low, high, and close columns, draws a chart similar to Stock Chart 1 but with additional columns for transaction volume.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T104311Z" creationid="timotheonb" creationdate="20261112T104259Z">
+        <seg>Esse usa as colunas baixa, alta e fechamento, e desenha um gráfico semelhante ao Gráfico de cotações 1, mas usando colunas adicionais para o volume de transações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the macro recorder</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20251123T114236Z" creationid="olivier" creationdate="20251123T114236Z">
@@ -148792,6 +149194,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260409T125432Z" creationid="vitor" creationdate="20260409T125432Z">
         <seg>Variância</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Variants 3 and 4 automatically align data to the secondary Y axis.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T104335Z" creationid="timotheonb" creationdate="20261112T104335Z">
+        <seg>PARCIAL As variantes 3 e 4 alinham automaticamente os dados com o eixo Y secundário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150220,6 +150630,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When based only on data in the low and high columns, this variant shows the distance between bottom price (low) and top price (high) with a vertical line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103934Z" creationid="timotheonb" creationdate="20261112T103934Z">
+        <seg>Com base apenas em dados nas colunas baixa e alta, esta variante mostra a distância entre o preço inferior (baixa) e o preço superior (alta) usando linha vertical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When both the &lt;f0&gt;Search criteria = and &lt;&gt; must apply to whole cells&lt;/f0&gt; and &lt;f1&gt;Enable wildcards in formulas&lt;/f1&gt; options are selected, Calc behaves exactly as Microsoft Excel when searching cells in the database functions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T184429Z" creationid="olivier" creationdate="20261025T184429Z">
@@ -151084,6 +151502,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When setting up a stock chart in the Chart Wizard, the data should be arranged as shown in Figure &lt;t0&gt;23&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102811Z" creationid="timotheonb" creationdate="20261112T102811Z">
+        <seg>Ao configurar um gráfico de cotações no Assistente de gráfico, os dados devem ser organizados conforme mostrado na Figura &lt;t0&gt;23&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When shading is enabled (see below) and the chart is rotated, the lights are rotated as if they are fixed to the chart.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260407T233507Z" creationid="vitor" creationdate="20260407T233507Z">
@@ -151107,7 +151533,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When someone later opens the document on any computer with a recent version of LibreOffice, the program will compute the checksum again and compare it with the stored checksum.</seg>
       </tuv>
@@ -151257,6 +151682,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T175639Z" creationid="olivier" creationdate="20261025T175639Z">
         <seg>Quando a célula é usada em uma fórmula, a string pode assumir o valor zero e pode ocorrer um erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the closing column is also included (Figure &lt;t0&gt;25&lt;/t0&gt;), it shows an additional horizontal mark for the closing price.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T103944Z" creationid="timotheonb" creationdate="20261112T103944Z">
+        <seg>Quando a coluna de fechamento também está incluída (Figura &lt;t0&gt;25&lt;/t0&gt;), mostra uma marca horizontal adicional para o preço de fechamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -151684,7 +152117,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When using a smartcard that is protected by a PIN, you are also prompted for that.</seg>
       </tuv>
@@ -151693,7 +152125,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When using a smartcard, enter the PIN here.</seg>
       </tuv>
@@ -151742,7 +152173,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When you apply a digital signature to a document, a checksum is computed from the document’s content plus your personal key.</seg>
       </tuv>
@@ -152415,7 +152845,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Whenever someone changes something in the document, the change breaks the digital signature.</seg>
       </tuv>
@@ -153024,7 +153453,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>With an open password set, the PDF can only be opened with the password.</seg>
       </tuv>
@@ -153033,7 +153461,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>With both the open password and permission password set, the PDF can only be opened with the correct password, and its permissions can be restricted.</seg>
       </tuv>
@@ -154434,7 +154861,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can also email a document to several recipients.</seg>
       </tuv>
@@ -155051,7 +155477,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can compare the public key with the public key that is published on the web site of the certificate authority.</seg>
       </tuv>
@@ -155348,7 +155773,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can double-click the icon to view the certificate.</seg>
       </tuv>
@@ -155565,7 +155989,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can get a certificate from a certification authority, which may be a private company or a governmental institution.</seg>
       </tuv>
@@ -156742,7 +157165,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You may wish to ensure that personal data, versions, notes, hidden information, or recorded changes are removed from files before you send them to other people or create PDFs from them.</seg>
       </tuv>
@@ -158255,7 +158677,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>emailing spreadsheets</seg>
       </tuv>
@@ -160760,7 +161181,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>signing documents digitally</seg>
       </tuv>
@@ -160934,6 +161354,22 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260325T170615Z" creationid="timotheonb" creationdate="20260325T170615Z">
         <seg>filtros padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>stock</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102406Z" creationid="timotheonb" creationdate="20261112T102406Z">
+        <seg>cotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>stock charts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261112T102431Z" creationid="timotheonb" creationdate="20261112T102431Z">
+        <seg>graficos de cotação</seg>
       </tuv>
     </tu>
     <tu>
