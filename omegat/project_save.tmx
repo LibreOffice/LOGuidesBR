@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_ae571fb" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -533,7 +533,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>(Not available on Microsoft Windows systems, where LibreOffice will access the system certificate storage.) When using a smartcard, it must already be configured for use by your key store.</seg>
       </tuv>
@@ -4848,7 +4847,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Chapter 11 &lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
@@ -9401,7 +9399,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Show All&lt;/f0&gt;: shows all outline levels when the reader opens the PDF.</seg>
       </tuv>
@@ -10786,7 +10783,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;Visible levels&lt;/f0&gt;: shows outline levels down to the selected level (in the range 1 to 10) when the reader opens the PDF.</seg>
       </tuv>
@@ -16355,7 +16351,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Set Passwords dialog&lt;/s0&gt;&lt;s1&gt;Set Passwords dialog&lt;/s1&gt;</seg>
       </tuv>
@@ -16669,6 +16664,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;s0&gt;Stacked column chart and box plot with whiskers &lt;/s0&gt;&lt;s1&gt;Stacked column chart and box plot with whiskers &lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103700Z" creationid="timotheonb" creationdate="20261124T103700Z">
+        <seg>&lt;s0&gt;Gráfico de colunas empilhadas e diagrama de caixa com bigodes&lt;/s0&gt;&lt;s1&gt;Gráfico de colunas empilhadas e diagrama de caixa com bigodes&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;s0&gt;Standard Filter dialog&lt;/s0&gt;&lt;s1&gt;Standard Filter dialog&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260327T185819Z" creationid="timotheonb" creationdate="20260327T185819Z">
@@ -16740,7 +16743,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Stock chart variant 2&lt;/s0&gt;&lt;s1&gt;Stock chart variant 2&lt;/s1&gt;</seg>
       </tuv>
@@ -16749,7 +16751,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Stock chart variant 3&lt;/s0&gt;&lt;s1&gt;Stock chart variant 3&lt;/s1&gt;</seg>
       </tuv>
@@ -16758,7 +16759,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>&lt;s0&gt;Stock chart variant 4&lt;/s0&gt;&lt;s1&gt;Stock chart variant 4&lt;/s1&gt;</seg>
       </tuv>
@@ -20415,7 +20415,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>A personal key is stored on your computer as a combination of a private key, which must be kept secret, and a public key, which you add to your documents when you sign them.</seg>
       </tuv>
@@ -20672,7 +20671,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>A signed document shows an icon in the status bar.</seg>
       </tuv>
@@ -25321,7 +25319,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>An icon with a red seal indicates that the document was signed, and the certificate was validated.</seg>
       </tuv>
@@ -25330,7 +25327,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>An icon with a yellow caution triangle by itself indicates an invalid digital signature.</seg>
       </tuv>
@@ -25339,7 +25335,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>An icon with a yellow caution triangle overlaying the red seal indicates that the document is signed but that the certificate could not be validated.</seg>
       </tuv>
@@ -26077,7 +26072,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Anyone viewing the PDF can use this timestamp to verify when the document was signed.</seg>
       </tuv>
@@ -26438,7 +26432,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Applying a digital signature</seg>
       </tuv>
@@ -27855,7 +27848,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Avoid the &lt;f0&gt;Send via Bluetooth&lt;/f0&gt; option, which is non-operational in this software build.</seg>
       </tuv>
@@ -29137,6 +29129,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bottom of the box to be formed</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103745Z" creationid="timotheonb" creationdate="20261124T103745Z">
+        <seg>Fundo da caixa a ser formado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Break formulas into parts and combine the parts</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261025T113800Z" creationid="olivier" creationdate="20261025T113800Z">
@@ -29712,7 +29712,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>By default, the first column or row of data is categories and the last columns or rows of data are lines.</seg>
       </tuv>
@@ -30638,6 +30637,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250907T011834Z" creationid="firelinux" creationdate="20250907T011834Z">
         <seg>Os documentos do Calc também podem ser criados a partir de modelos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calc does not currently have the option of creating a data series as a box plot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T102036Z" creationid="timotheonb" creationdate="20261124T102036Z">
+        <seg>O Calc não possui atualmente a opção de criar uma série de dados como um gráfico de caixa (box plot).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32665,7 +32672,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Changing the value of an existing description invalidates the signature.</seg>
       </tuv>
@@ -33986,7 +33992,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Choose between two variants:</seg>
       </tuv>
@@ -40531,7 +40536,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Column and line chart with secondary Y axis</seg>
       </tuv>
@@ -40612,7 +40616,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Columns and Lines</seg>
       </tuv>
@@ -41774,6 +41777,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Converting the column chart to box plot with whiskers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103902Z" creationid="timotheonb" creationdate="20261124T103902Z">
+        <seg>Converter o gráfico de colunas em um gráfico de caixa com bigodes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Converts the Fontwork object into a 3D shape using extrusion.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250615T152229Z" creationid="olivier-tdf" creationdate="20250615T141301Z">
@@ -42221,7 +42232,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>Create box plots with whiskers in Calc</seg>
       </tuv>
@@ -46774,7 +46784,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Digital Signatures tab of PDF Options dialog</seg>
       </tuv>
@@ -46799,7 +46808,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Digital signatures are used to ensure that the PDF was really created by the original author (that is, you), and that the document has not been modified since it was signed.</seg>
       </tuv>
@@ -46816,7 +46824,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Digital signing of documents</seg>
       </tuv>
@@ -46833,7 +46840,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Digitally signing macros</seg>
       </tuv>
@@ -49564,7 +49570,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Each or all of the three fields may be left blank.</seg>
       </tuv>
@@ -53277,7 +53282,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Exporting to other formats</seg>
       </tuv>
@@ -56166,7 +56170,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Digital Signatures dialog</seg>
       </tuv>
@@ -56799,7 +56802,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Stock chart variant 2</seg>
       </tuv>
@@ -56904,7 +56906,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Stock chart variant 3</seg>
       </tuv>
@@ -56985,7 +56986,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Stock chart variant 4</seg>
       </tuv>
@@ -57431,6 +57431,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250124T010956Z" creationid="olivier" creationdate="20250124T010956Z">
         <seg>Figura &lt;seq0&gt;31&lt;/seq0&gt;: Caixa de diálogo Colar especial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Stacked column chart and box plot with whiskers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103716Z" creationid="timotheonb" creationdate="20261124T103716Z">
+        <seg>Figura &lt;seq0&gt;31&lt;/seq0&gt;: gráfico de colunas empilhadas e diagrama de caixa com bigodes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60059,6 +60067,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Figure &lt;t0&gt;31&lt;/t0&gt;&lt;s1/&gt;shows a stacked column chart in rows of minimum, 1st quartile, median, 3rd quartile, maximum (with no legend), together with a box plot with whiskers constructed from that column chart.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103647Z" creationid="timotheonb" creationdate="20261124T103647Z">
+        <seg>Figura &lt;t0&gt;31&lt;/t0&gt;&lt;s1/&gt; A figura mostra um gráfico de colunas empilhadas com as linhas indicando o mínimo, o primeiro quartil, a mediana, o terceiro quartil e o máximo (sem legenda), juntamente com um diagrama de caixa com limites construído a partir desse gráfico de colunas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Figure &lt;t0&gt;31&lt;/t0&gt;&lt;s1/&gt;shows the &lt;f2&gt;Draw&lt;/f2&gt; tab and Figure &lt;t3&gt;32&lt;/t3&gt;&lt;s4/&gt;shows the additional options that are presented when the &lt;f5&gt;&gt;&gt;&lt;/f5&gt; icon is pressed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20260925T112512Z" creationid="olivier" creationdate="20260925T112512Z">
@@ -62175,6 +62191,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260408T234851Z" creationid="vitor" creationdate="20260408T234851Z">
         <seg>Para todas as séries de dados (se nenhuma série de dados for selecionada, as linhas de valor médio são inseridas para todas as séries de dados):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For an even amount of data, the function QUARTILE.EXC (range, parameter) should be used and for an odd amount of data use the function QUARTILE.INC (range, parameter).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103511Z" creationid="timotheonb" creationdate="20261124T103511Z">
+        <seg>Para uma quantidade par de dados, deve-se usar a função QUARTILE.EXC (intervalo, parâmetro) e para uma quantidade ímpar de dados, use a função QUARTILE.INC (intervalo, parâmetro).</seg>
       </tuv>
     </tu>
     <tu>
@@ -67707,7 +67731,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Generally not used in Calc.</seg>
       </tuv>
@@ -72437,6 +72460,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, it is possible to convert the minimum, 1st quartile, median, 3rd quartile, and maximum of a stacked column chart with the data series in rows and without a legend into a box plot with whiskers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103122Z" creationid="timotheonb" creationdate="20261124T103122Z">
+        <seg>*** No entanto, é possível converter o mínimo, o primeiro quartil, a mediana, o terceiro quartil e o máximo de um gráfico de colunas empilhadas com as séries de dados em linhas e sem legenda em um diagrama de caixa com bigodes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, it is possible to create secondary X and Y axes that duplicate the primary axes on the opposite sides of a chart.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260401T002516Z" creationid="vitor" creationdate="20260401T002516Z">
@@ -74060,7 +74091,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If both are the same, the program will signal that you see the original, unchanged document.</seg>
       </tuv>
@@ -75997,7 +76027,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If the key store is protected by a password, you are prompted for it.</seg>
       </tuv>
@@ -77478,7 +77507,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>If you make any changes to the document after digitally signing, the digital signature is removed automatically, and you have to repeat the above procedure to digitally sign it again.</seg>
       </tuv>
@@ -80015,7 +80043,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In addition, the program can show you the public key information from the certificate.</seg>
       </tuv>
@@ -81736,7 +81763,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In the past, LibreOffice prohibited creating multiple signatures by the same author on a document, because there was no semantic meaning of signing the same document multiple times.</seg>
       </tuv>
@@ -82265,7 +82291,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In your email program, enter the recipient, subject, and any text you want to add, then send the email.</seg>
       </tuv>
@@ -84370,7 +84395,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>It could also show constant minimum and maximum lines, such as used in medical testing or quality control.</seg>
       </tuv>
@@ -87363,7 +87387,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>LibreOffice now provides a signature description, so multiple signatures from the same author are allowed, because each signature can have a different meaning.</seg>
       </tuv>
@@ -87660,7 +87683,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>LibreOffice uses the term “export” for some file operations involving a change of file type.</seg>
       </tuv>
@@ -88109,7 +88131,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Links tab of PDF Options dialog</seg>
       </tuv>
@@ -90775,6 +90796,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Minimum of the data series</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103205Z" creationid="timotheonb" creationdate="20261124T103205Z">
+        <seg>Mínimo da série de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Minimum requirements for using LibreOffice</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250109T114002Z" creationid="olivier-tdf" creationdate="20250109T114002Z">
@@ -91246,7 +91275,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>More than one signature can be added to a document.</seg>
       </tuv>
@@ -93983,7 +94011,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Note that when first created, the lines were different colors than the columns for the same company.</seg>
       </tuv>
@@ -94680,7 +94707,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>On Linux systems, files that are supplied by Mozilla Thunderbird or Firefox are used to validate the signature.</seg>
       </tuv>
@@ -94713,7 +94739,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>On Windows operating systems, the Windows features for validating a signature are used.</seg>
       </tuv>
@@ -95730,7 +95755,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Once opened, there are no restrictions on what the user can do with the document (for example, print, copy, or change it).</seg>
       </tuv>
@@ -96859,7 +96883,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Open the file that you want to digitally sign.</seg>
       </tuv>
@@ -100084,7 +100107,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Pivot tables are special types of data tables that simplify the manipulation and analysis of data.</seg>
       </tuv>
@@ -103759,6 +103781,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove or apply the color white to the bottom stack with &lt;f0&gt;Format Data Series&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T105724Z" creationid="timotheonb" creationdate="20261124T105724Z">
+        <seg>Remova ou aplique a cor branca na pilha inferior com &lt;f0&gt;Série de dados de formato&lt;/f0&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remove personal information on saving</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250328T203205Z" creationid="olivier-tdf" creationdate="20250328T203205Z">
@@ -103902,7 +103932,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Removing personal data</seg>
       </tuv>
@@ -107023,7 +107052,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Security tab of PDF Options dialog</seg>
       </tuv>
@@ -107592,7 +107620,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>See Figure &lt;t0&gt;19&lt;/t0&gt;.</seg>
       </tuv>
@@ -110521,7 +110548,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Select one among the following alternatives:</seg>
       </tuv>
@@ -112010,7 +112036,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Select the parameters to be used for the PDF file.</seg>
       </tuv>
@@ -113995,7 +114020,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Set Passwords dialog</seg>
       </tuv>
@@ -114444,7 +114468,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Setting encryption and passwords also allows you to apply restrictions on printing and if changes or copying can be carried out on the PDF file.</seg>
       </tuv>
@@ -115933,7 +115956,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Signing multiple times with the same signature</seg>
       </tuv>
@@ -117166,7 +117188,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Some smartcard software will prompt you for the PIN again before signing.</seg>
       </tuv>
@@ -118647,7 +118668,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Stacked Columns and Lines</seg>
       </tuv>
@@ -118669,6 +118689,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20261104T120238Z" creationid="timotheonb" creationdate="20261104T120238Z">
         <seg>Gráficos de Área empilhado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stacked column chart and box plot with whiskers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103728Z" creationid="timotheonb" creationdate="20261124T103728Z">
+        <seg>Gráfico de colunas empilhadas e diagrama de caixa com bigodes</seg>
       </tuv>
     </tu>
     <tu>
@@ -119008,7 +119036,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Stock Chart 4</seg>
       </tuv>
@@ -119025,7 +119052,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Stock chart variant 2</seg>
       </tuv>
@@ -119034,7 +119060,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Stock chart variant 3</seg>
       </tuv>
@@ -119043,7 +119068,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Stock chart variant 4</seg>
       </tuv>
@@ -123526,6 +123550,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The MIN (range), MEDIAN (range), and MAX (range) functions can be used to calculate the minimum, median, and maximum, respectively.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103532Z" creationid="timotheonb" creationdate="20261124T103532Z">
+        <seg>As funções MIN (intervalo), MEDIAN (intervalo) e MAX (intervalo) podem ser usadas para calcular o mínimo, a mediana e o máximo, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Macro toolbar provides various icons for editing and testing programs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260519T012716Z" creationid="vitor" creationdate="20260519T012716Z">
@@ -124621,7 +124653,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The actual procedure depends on how your computer is set up and the computer’s operating system.</seg>
       </tuv>
@@ -125158,7 +125189,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The certificate used is displayed in the Digital Signatures dialog with an icon next to its name.</seg>
       </tuv>
@@ -125367,7 +125397,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>The charts in Figures &lt;t0&gt;29&lt;/t0&gt;&lt;s1/&gt;and &lt;t2&gt;30&lt;/t2&gt;&lt;s3/&gt;show sales and profit data for two firms over a period of time.</seg>
       </tuv>
@@ -125392,7 +125421,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The checksum and your public key are stored together with the document.</seg>
       </tuv>
@@ -125585,7 +125613,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The columns are stacked above each other, so that the height of a column shows the sum of the data values.</seg>
       </tuv>
@@ -125919,6 +125946,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="vitor" changedate="20260405T235229Z" creationid="vitor" creationdate="20260405T235229Z">
         <seg>Os controles na caixa de diálogo são similares a aqueles na aba &lt;f3&gt;Rótulos de Dados&lt;/f3&gt; da caixa de diálogo Rótulos de Dados, as quais são descritas abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The conversion of this stacked column chart to a box plot with whiskers is done by replacing the stacks in the chart with:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103147Z" creationid="timotheonb" creationdate="20261124T103147Z">
+        <seg>*** A conversão deste gráfico de colunas empilhadas em um gráfico de caixa com bigodes é feita substituindo as colunas no gráfico por:</seg>
       </tuv>
     </tu>
     <tu>
@@ -126635,6 +126670,38 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The difference between the first quartile and the minimum of the data series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103212Z" creationid="timotheonb" creationdate="20261124T103212Z">
+        <seg>A diferença entre o primeiro quartil e o valor mínimo da série de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The difference between the maximum and the third quartile of the data series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103304Z" creationid="timotheonb" creationdate="20261124T103304Z">
+        <seg>A diferença entre o valor máximo e o terceiro quartil da série de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The difference between the median and the first quartile of the data series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103235Z" creationid="timotheonb" creationdate="20261124T103235Z">
+        <seg>A diferença entre a mediana e o primeiro quartil da série de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The difference between the third quartile and the median of the data series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103255Z" creationid="timotheonb" creationdate="20261124T103255Z">
+        <seg>A diferença entre o terceiro quartil e a mediana da série de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The difference is that the advanced filter arguments are not entered in a dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20260331T143632Z" creationid="timotheonb" creationdate="20260331T143632Z">
@@ -127227,6 +127294,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first quartile of the data series</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103734Z" creationid="timotheonb" creationdate="20261124T103734Z">
+        <seg>O primeiro quartil da série de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first row of the palette contains the theme colors, with other rows containing modifications.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier-tdf" changedate="20250209T171716Z" creationid="olivier-tdf" creationdate="20250209T171716Z">
@@ -127530,7 +127605,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The following procedure is only an example of how to digitally sign a document.</seg>
       </tuv>
@@ -129012,6 +129086,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The maximum of the data series</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103844Z" creationid="timotheonb" creationdate="20261124T103844Z">
+        <seg>O máximo da série de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The maximum size of a drawing page in LibreOffice Draw is limited by computer setup and the page size that that can be set and used in a printer connected to the computer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20250629T184320Z" creationid="firelinux" creationdate="20250629T184320Z">
@@ -129032,6 +129114,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20250327T200757Z" creationid="olivier" creationdate="20250327T200757Z">
         <seg>O diretório de mídia pode conter uma imagem de capa como visto acima, metadados personalizados e links de imagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The median of the data series</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103750Z" creationid="timotheonb" creationdate="20261124T103750Z">
+        <seg>A mediana da série de dados</seg>
       </tuv>
     </tu>
     <tu>
@@ -131683,7 +131773,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The signed PDF export uses the keys and X.509 certificates already stored in your default key store location or on a smartcard.</seg>
       </tuv>
@@ -132305,6 +132394,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="firelinux" changedate="20260403T193513Z" creationid="firelinux" creationdate="20260403T193513Z">
         <seg>A terceira cor pode ser definida como para a&lt;f1&gt;Escala de cores (2 entradas)&lt;/f1&gt; acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The third quartile of the data series is also the top of the shapes box</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103806Z" creationid="timotheonb" creationdate="20261124T103806Z">
+        <seg>O terceiro quartil da série de dados também corresponde ao topo da caixa de formas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134588,7 +134685,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>They are widely used, especially for processing large amounts of data.</seg>
       </tuv>
@@ -136045,7 +136141,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This icon indicates the status of the digital signature.</seg>
       </tuv>
@@ -136174,7 +136269,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This information will be embedded in the appropriate PDF fields and will be visible to anyone viewing the PDF.</seg>
       </tuv>
@@ -136567,7 +136661,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This is usually done during installation of the smartcard software.</seg>
       </tuv>
@@ -143840,7 +143933,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>To sign a document digitally, you need a personal key, also known as a certificate.</seg>
       </tuv>
@@ -151050,6 +151142,14 @@ Tab / ⇥</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When calculating the differences of the first and third quartiles, it is important whether the data series contains an even or an odd amount of data.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T103453Z" creationid="timotheonb" creationdate="20261124T103453Z">
+        <seg>Ao calcular a diferença entre o primeiro e o terceiro quartil, é importante verificar se a série de dados contém uma quantidade par ou ímpar de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When calculations involve a range that includes an empty cell, take note of the setting for &lt;f0&gt;Zero values&lt;/f0&gt; in the &lt;f1&gt;LibreOffice Calc &gt; View&lt;/f1&gt; options.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="olivier" changedate="20261006T012947Z" creationid="olivier" creationdate="20261006T012947Z">
@@ -151937,7 +152037,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When someone later opens the document on any computer with a recent version of LibreOffice, the program will compute the checksum again and compare it with the stored checksum.</seg>
       </tuv>
@@ -152522,7 +152621,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When using a smartcard that is protected by a PIN, you are also prompted for that.</seg>
       </tuv>
@@ -152531,7 +152629,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When using a smartcard, enter the PIN here.</seg>
       </tuv>
@@ -152580,7 +152677,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>When you apply a digital signature to a document, a checksum is computed from the document’s content plus your personal key.</seg>
       </tuv>
@@ -153253,7 +153349,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Whenever someone changes something in the document, the change breaks the digital signature.</seg>
       </tuv>
@@ -153862,7 +153957,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>With an open password set, the PDF can only be opened with the password.</seg>
       </tuv>
@@ -153871,7 +153965,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>With both the open password and permission password set, the PDF can only be opened with the correct password, and its permissions can be restricted.</seg>
       </tuv>
@@ -155272,7 +155365,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can also email a document to several recipients.</seg>
       </tuv>
@@ -155889,7 +155981,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can compare the public key with the public key that is published on the web site of the certificate authority.</seg>
       </tuv>
@@ -155903,6 +155994,14 @@ Tab / ⇥</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timot" changedate="20250407T114038Z" creationid="timot" creationdate="20250404T111239Z">
         <seg>Existe a possibilidade de conectar uma anotação a vários parágrafos ou a um único ponto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can convert a column chart to box plot with whiskers by following the next steps:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="timotheonb" changedate="20261124T105432Z" creationid="timotheonb" creationdate="20261124T105432Z">
+        <seg>É possível converter um gráfico de colunas num gráfico de caixa com bigodes seguindo os próximos passos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -156186,7 +156285,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can double-click the icon to view the certificate.</seg>
       </tuv>
@@ -156403,7 +156501,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You can get a certificate from a certification authority, which may be a private company or a governmental institution.</seg>
       </tuv>
@@ -157580,7 +157677,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>You may wish to ensure that personal data, versions, notes, hidden information, or recorded changes are removed from files before you send them to other people or create PDFs from them.</seg>
       </tuv>
@@ -158333,7 +158429,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>box plot with whiskers</seg>
       </tuv>
@@ -159118,7 +159213,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>emailing spreadsheets</seg>
       </tuv>
@@ -161623,7 +161717,6 @@ Tab / ⇥</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en-US">
         <seg>signing documents digitally</seg>
       </tuv>
